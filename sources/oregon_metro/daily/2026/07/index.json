@@ -1,0 +1,15 @@
+{
+  "artifact": "sources/oregon_metro",
+  "month": "2026-07",
+  "snapshots": [
+    {
+      "bytes": 85107,
+      "captured_at": "2026-07-27T07:58:59+00:00",
+      "daily": "sources/oregon_metro/daily/2026/07/27.json.gz",
+      "event_count": 125,
+      "gzip_bytes": 3723,
+      "recent": "sources/oregon_metro/recent/2026-07-27/075859Z.json.gz",
+      "sha256": "9d085ad93171071e636d5b88d0d123af9b6eb7130e6db6cebe65dab194384234"
+    }
+  ]
+}
