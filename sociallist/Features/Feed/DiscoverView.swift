@@ -148,6 +148,9 @@ struct DiscoverView: View {
                     .buttonStyle(.plain)
                 }
             }
+            // Marks the cards as snap targets. Without it `.viewAligned` has nothing
+            // to align to and SwiftUI warns at runtime while scrolling freely.
+            .scrollTargetLayout()
             .padding(.horizontal, 16)
         }
         .scrollIndicators(.hidden)

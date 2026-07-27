@@ -23,6 +23,10 @@ struct MockEventRepository: EventRepository {
 
 /// Reads the static JSON file the pipeline publishes to a CDN.
 struct RemoteEventRepository: EventRepository {
+    /// The single file the build-time pipeline publishes. Rebuilt hourly by
+    /// GitHub Actions; see `pipeline/` for how it is produced.
+    static let productionFeedURL = URL(string: "https://ryangurn.github.io/sociallist/events.json")!
+
     let feedURL: URL
     var session: URLSession = .shared
 
@@ -39,4 +43,16 @@ struct RemoteEventRepository: EventRepository {
         }
         return try FeedDecoder.make().decode(EventFeed.self, from: data)
     }
+}
+
+extension EventRepository where Self == RemoteEventRepository {
+    /// What ships. Previews and tests keep using `.mock` so they stay fast and
+    /// work offline.
+    static var production: RemoteEventRepository {
+        RemoteEventRepository(feedURL: RemoteEventRepository.productionFeedURL)
+    }
+}
+
+extension EventRepository where Self == MockEventRepository {
+    static var mock: MockEventRepository { MockEventRepository() }
 }

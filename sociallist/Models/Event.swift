@@ -54,6 +54,23 @@ struct Event: Identifiable, Codable, Hashable {
         self.organizer = organizer
         self.source = source
     }
+
+    /// Explicit rather than relying on `.convertFromSnakeCase`.
+    ///
+    /// Two reasons. The published feed is a public contract, so its key names are
+    /// fixed and the Swift side adapts — `start_at` reads better in JSON than `start`
+    /// anyway. And the automatic strategy mangles initialisms: it turns `image_url`
+    /// into `imageUrl`, which never matches a property named `imageURL`, and fails
+    /// silently by treating the value as absent.
+    enum CodingKeys: String, CodingKey {
+        case id, title, summary, venue, categories, price, organizer, source
+        case start = "start_at"
+        case end = "end_at"
+        case isAllDay = "is_all_day"
+        case imageURL = "image_url"
+        case url = "listing_url"
+        case ticketURL = "ticket_url"
+    }
 }
 
 extension Event {
@@ -113,6 +130,14 @@ struct Venue: Codable, Hashable {
     }
 
     var hasCoordinate: Bool { latitude != nil && longitude != nil }
+
+    /// The pipeline sends `city`, which renders in the same slot a neighborhood
+    /// would — the locality label after the venue name. Sources that expose a real
+    /// neighborhood can populate the same field later without a client change.
+    enum CodingKeys: String, CodingKey {
+        case name, address, latitude, longitude
+        case neighborhood = "city"
+    }
 }
 
 // MARK: - Price
@@ -121,6 +146,11 @@ struct Price: Codable, Hashable {
     let isFree: Bool
     let min: Double?
     let max: Double?
+
+    enum CodingKeys: String, CodingKey {
+        case min, max
+        case isFree = "is_free"
+    }
 
     static let unknown = Price(isFree: false, min: nil, max: nil)
     static let free = Price(isFree: true, min: 0, max: 0)
@@ -265,12 +295,19 @@ enum Category: String, Codable, CaseIterable, Identifiable, Hashable {
 struct EventFeed: Codable {
     let generatedAt: Date
     let events: [Event]
+
+    enum CodingKeys: String, CodingKey {
+        case events
+        case generatedAt = "generated_at"
+    }
 }
 
 enum FeedDecoder {
     static func make() -> JSONDecoder {
         let decoder = JSONDecoder()
-        decoder.keyDecodingStrategy = .convertFromSnakeCase
+        // No key strategy: every type declares explicit CodingKeys instead. A
+        // strategy would rewrite incoming keys before they reach those keys and
+        // silently stop matching them.
         decoder.dateDecodingStrategy = .custom { decoder in
             let raw = try decoder.singleValueContainer().decode(String.self)
             guard let date = iso8601.date(from: raw) ?? iso8601NoFraction.date(from: raw) else {

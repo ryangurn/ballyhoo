@@ -2,7 +2,7 @@ import SwiftUI
 
 @main
 struct SociallistApp: App {
-    @State private var store = EventStore()
+    @State private var store = EventStore(repository: .production)
 
     var body: some Scene {
         WindowGroup {
