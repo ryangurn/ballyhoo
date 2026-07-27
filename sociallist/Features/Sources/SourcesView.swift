@@ -42,12 +42,24 @@ struct SourcesView: View {
 
                 Section("Feed") {
                     LabeledContent("Events") { Text("\(store.upcomingEvents.count)") }
-                    LabeledContent("Last updated") {
+                    LabeledContent("Published") {
                         Text(store.lastUpdated?.formatted(.relative(presentation: .named)) ?? "—")
                     }
-                    Button("Refresh now") {
-                        Task { await store.load() }
+                    Button {
+                        Task { await store.load(revalidate: true) }
+                    } label: {
+                        HStack {
+                            Text("Refresh now")
+                            Spacer()
+                            // The feed usually comes back unchanged, so without a
+                            // visible in-flight state a working refresh is
+                            // indistinguishable from a broken button.
+                            if store.state == .loading {
+                                ProgressView()
+                            }
+                        }
                     }
+                    .disabled(store.state == .loading)
                 }
 
                 Section {

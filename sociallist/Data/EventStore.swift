@@ -37,12 +37,14 @@ final class EventStore {
 
     // MARK: Loading
 
-    func load() async {
+    /// - Parameter revalidate: Pass `true` for refreshes the user explicitly asked
+    ///   for, so the request bypasses the feed's freshness window.
+    func load(revalidate: Bool = false) async {
         guard state != .loading else { return }
         state = .loading
 
         do {
-            let feed = try await repository.loadFeed()
+            let feed = try await repository.loadFeed(revalidate: revalidate)
             allEvents = feed.events.sorted { $0.start < $1.start }
             lastUpdated = feed.generatedAt
             state = .loaded

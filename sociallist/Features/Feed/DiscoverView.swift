@@ -46,7 +46,7 @@ struct DiscoverView: View {
             .navigationDestination(item: $selectedEvent) { event in
                 EventDetailView(event: event)
             }
-            .refreshable { await store.load() }
+            .refreshable { await store.load(revalidate: true) }
         }
     }
 
@@ -244,7 +244,7 @@ struct DiscoverView: View {
             Text(message)
         } actions: {
             Button("Try again") {
-                Task { await store.load() }
+                Task { await store.load(revalidate: true) }
             }
             .buttonStyle(.borderedProminent)
             .tint(Theme.evergreen)
