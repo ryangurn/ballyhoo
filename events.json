@@ -89,6 +89,39 @@
     },
     {
       "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-07-25T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/how-long-jug-band-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1705517805533-S75IQ7ZZCFCQZXDORS5M/Screen+Shot+2024-01-17+at+10.55.57+AM.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/how-long-jug-band-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-07-25T10:00:00-07:00",
+      "summary": "Inspired by the classic jug bands of the 1920's and 30's, the How Long Jug Band blends kazoos, washboards and jugs seamlessly with conventional guitars, mandolins and banjos. Since their start in 2010, they've released three albums, have performed at the National Jug Band Jubilee in Louisville, Kentucky four times and were inducted into the Jug Band Hall of Fame. While they sometimes slip a modern song into the mix, the How Longs mostly draw from early blues, ragtime and jazz, digging into obscure songs to find lyrics and arrangements that are too good to be forgotten.",
+      "title": "How Long Jug Band",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:2026-07-25",
@@ -6877,6 +6910,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-08-01T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-08-01",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-08-01T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-08-01T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-08-01",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -7010,6 +7075,39 @@
         "latitude": 45.516223,
         "longitude": -122.6835456,
         "name": "Whitsell Auditorium"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-08-01T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/tyler-waltner-quartet-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1742496357667-5Y2YEYLVBMEP48I8WYH9/Screenshot+2025-03-20+at+11.44.50%E2%80%AFAM.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/tyler-waltner-quartet-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-08-01T10:00:00-07:00",
+      "summary": "4-piece jazz ensemble made of Oregon’s premier collegiate level jazz students. They have played extensively throughout Oregon at venues such as the 1905, Jo Bar & Rotisserie, The Rosebud, The Jazz Station, and more.",
+      "title": "Tyler Waltner Quartet",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -9220,6 +9318,28 @@
         "longitude": -122.6737152,
         "name": "Dante's"
       }
+    },
+    {
+      "categories": [
+        "community",
+        "market"
+      ],
+      "end_at": "2026-08-08T00:00:00-07:00",
+      "id": "hollywood_farmers_market:event-schedule/national-farmers-market-week",
+      "is_all_day": true,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/event-schedule/national-farmers-market-week",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-08-02T00:00:00-07:00",
+      "title": "National Farmers Market Week"
     },
     {
       "categories": [
@@ -16794,6 +16914,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-08-08T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-08-08",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-08-08T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-08-08T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-08-08",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -16983,6 +17135,39 @@
         "latitude": 45.516223,
         "longitude": -122.6835456,
         "name": "Whitsell Auditorium"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-08-08T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/big-plans-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1706039874586-TS08OJVHN30YTBTY0MYV/Screen+Shot+2024-01-23+at+11.56.24+AM.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/big-plans-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-08-08T10:00:00-07:00",
+      "summary": "Big Plans...pretty much says it all, doesn't it? You're looking to make some big plans for a fun and casual outing with your friends...you're looking for music you can appreciate, understand and dance to...music without irony, and hip without the tragedy. You're looking for a mix of blues, rock, rhythm & blues, and even a little \"\"swamp feel\"\" and country thrown in for good measure -- music that's fun to listen and dance to. You've found your band -- that's Big Plans. With a unique combination of sound and musicianship, Big Plans has a lot of fun delivering timeless tunes, some you've heard, and some you haven't -- which will soon come to be your favorites. You can't catch this band every weekend -- appearances and venues are special events, and worth the wait. We've got Big Plans for you.",
+      "title": "Big Plans",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -19566,6 +19751,29 @@
         "longitude": -122.6617039,
         "name": "Curious Comedy Theater"
       }
+    },
+    {
+      "categories": [
+        "community",
+        "market"
+      ],
+      "end_at": "2026-08-09T22:00:00-07:00",
+      "id": "hollywood_farmers_market:event-schedule/fundraiser-at-lucky-horseshoe-lounge-1",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1781733858132-A0MAML9M9JB96MA92Z2I/CFF49322-A84C-49C5-B24F-F35A92D3FC31.JPG",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/event-schedule/fundraiser-at-lucky-horseshoe-lounge-1",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-08-09T16:00:00-07:00",
+      "title": "Fundraiser at Lucky Horseshoe Lounge!"
     },
     {
       "categories": [
@@ -27077,6 +27285,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-08-15T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-08-15",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-08-15T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-08-15T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-08-15",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -27179,6 +27419,39 @@
         "latitude": 45.516223,
         "longitude": -122.6835456,
         "name": "Whitsell Auditorium"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-08-15T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/ms-robi-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1776963658305-IEW0LNZ5WRLQV3SMM0TS/E1640A1E-B23A-45B9-B70F-D71CBC0CB35D.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/ms-robi-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-08-15T10:00:00-07:00",
+      "summary": "MS rŌbi & Friends brings a joyful, interactive, all-original live music experience to the market that invites everyone — from babies in strollers to elders with shopping bags — to move, sing, and feel connected. Led by Grammy-nominated vocalist, composer, and teaching artist MS rŌbi, the ensemble blends world rhythms, playful call-and-response, gentle percussion, and heart-centered storytelling into a lively two-hour set that flows beautifully with the energy of an open-air market.",
+      "title": "MS rŌbi & Friends",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -35355,6 +35628,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-08-22T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-08-22",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-08-22T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-08-22T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-08-22",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -35410,6 +35715,39 @@
         "latitude": 45.516223,
         "longitude": -122.6835456,
         "name": "Whitsell Auditorium"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-08-22T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/big-north-duo-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1705456125120-Y344TI2TBCWAON6FE9LR/Screen+Shot+2024-01-16+at+5.48.18+PM.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/big-north-duo-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-08-22T10:00:00-07:00",
+      "summary": "Christian McKee (vocals, mandolin) and Paul Prato (bass) began playing together in 2004, and have played together ever since. When The Big North Duo plays the audience smiles, toes tap, and everyone gets a break from the workaday world. The music comes from the deep catalogs of classic swing, blues and country, and also features original material drawing from those traditions. On any given night the music may be swinging hard or it may be mournful, but it’s always from the heart.",
+      "title": "The Big North Duo",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -39803,6 +40141,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-08-29T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-08-29",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-08-29T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-08-29T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-08-29",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -39829,6 +40199,39 @@
         "latitude": 45.5128932,
         "longitude": -122.6853859,
         "name": "PSU Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-08-29T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/crimson-clover-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1705452971382-73PV8XSNNX07VQQN1X2X/Screen+Shot+2024-01-16+at+4.55.54+PM.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/crimson-clover-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-08-29T10:00:00-07:00",
+      "summary": "Crimson & Clover is a Celtic trio based out of Hillsboro, Oregon. We play energetic reels and jigs to get our crowds clapping and dancing as well as ballads of long lost love. Our fans love our diverse array of instruments such as fiddle, hammer dulcimer, bodhran drum, penny whistle and guitar.",
+      "title": "Crimson & Clover",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -41040,6 +41443,38 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Helium Comedy Club - Portland"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-09-05T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-09-05",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-09-05T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -42478,6 +42913,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-09-12T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-09-12",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-09-12T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-09-12T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-09-12",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -42529,6 +42996,39 @@
         "latitude": 45.55469,
         "longitude": -122.55846,
         "name": "Mt. Hood Community College"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-09-12T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/hadley-parrish-cotton-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1742496563037-7005Q6TWU7VFW3XRJ40N/Screenshot+2025-03-20+at+11.47.46%E2%80%AFAM.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/hadley-parrish-cotton-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-09-12T10:00:00-07:00",
+      "summary": "Hadley Parrish-Cotton is an independent singer songwriter and multi instrumentalist based out of Portland, Oregon. Described as engaging, comforting, insightful and thought provoking, Hadley blends the country and folk influence of their childhood with introspective lyrics that promote self love and acceptance, growing, and finding joy in change and challenge. Hadley is also a founding member of the punk/emo group zerocool and regularly performs with them.",
+      "title": "Hadley Parrish-Cotton",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -43960,6 +44460,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-09-19T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-09-19",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-09-19T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-09-19T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-09-19",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -44063,6 +44595,39 @@
       "title": "Code & Coffee @ Roseline Café",
       "venue": {
         "name": "Roseline Cafe"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-09-19T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/rose-city-banjoliers-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1705453888441-5NC25L9BK7I1ALSJXL8K/Screen+Shot+2024-01-16+at+5.10.49+PM.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/rose-city-banjoliers-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-09-19T10:00:00-07:00",
+      "summary": "The Rose City Banjoliers band, formed in 1972, consists primarily of plectrum and tenor banjos, a tuba, a piano, a saw, washboard(s), and vocalists. Our toe-tapping music, which ranges from the \"gay nineties\" to the mid-1900's, is popular with audiences as diverse as farmers markets, retirement homes, county fairs, and private parties. We are a nonprofit organization.",
+      "title": "Rose City Banjoliers",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -45695,6 +46260,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-09-26T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-09-26",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-09-26T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-09-26T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-09-26",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -45746,6 +46343,39 @@
         "latitude": 45.32208,
         "longitude": -122.57526,
         "name": "Clackamas Community College - Wilsonville campus"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-09-26T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/ian-joe-bailey-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1742494916769-LJIQRGOE32EK8M05GS96/Screenshot+2025-03-20+at+11.20.57%E2%80%AFAM.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/ian-joe-bailey-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-09-26T10:00:00-07:00",
+      "summary": "Ian Joe Bailey is a musical group out of Portland, OR playing acoustic songs that step into a variety of different genres and styles. The group can consist of a solo show with just Ian, or sometimes accompanied by a snazzy and radiant horn section (trumpet or sax) that fills the songs out with much for the listener to hold on to. Influenced by many different artists with many different styles, the group plays older folkish, rock, funkish, reggae-type, latin inspired material, boleros, and many songs that came from marvelous appreciation of South American bands like Chico Trujillo, Natiruts, Jorge Ben Jor, Novos Baianos, Nonpalidece and so many more.",
+      "title": "Ian Joe Bailey",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -47299,6 +47929,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-10-03T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-10-03",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-10-03T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-10-03T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-10-03",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -47374,6 +48036,39 @@
       "title": "Mentorship Saturdays @ Roseline Cafe & Online",
       "venue": {
         "name": "Roseline Cafe"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-10-03T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/karyn-ann-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1727999037965-5E6QVQNN3QQ6CWJWPN6P/Screen+Shot+2024-10-03+at+4.41.36+PM.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/karyn-ann-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-10-03T10:00:00-07:00",
+      "summary": "Once described as a “combination of Patty Griffin grit and Amy Winehouse grace” by American Songwriter , Portland-based Soul/Americana singer-songwriter Karyn Ann has been charming audiences across the US for nearly a decade. Her powerful vocals and thoughtful songwriting weave together themes of nature and personal experience into a narrative that highlights the many facets of universal human emotions.",
+      "title": "Karyn Ann",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -48538,6 +49233,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-10-10T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-10-10",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-10-10T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-10-10T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-10-10",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -48589,6 +49316,39 @@
         "latitude": 45.54845,
         "longitude": -122.88789,
         "name": "Epson"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-10-10T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/aikacollins-katiewaterland-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1776447197290-85TBWXU2IBMXMVYXD9V1/Screenshot+2026-04-17+at+10.32.41%E2%80%AFAM.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/aikacollins-katiewaterland-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-10-10T10:00:00-07:00",
+      "summary": "Known for writing 'fun lil bummer' bops and slinging harmonies around Portland, OR, Aika Collins crafts heavy heart-break and dreamy folk-pop songs that are thoughtful and show resilience. Part Amy Winehouse’s radiant energy and part Brandi Carlile’s community-driven soul; their sound is bright and eclectic. Katie Waterland is a Portland-based singer-songwriter blending introspective lyricism with warm, organic instrumentation. She released the EP, The Tape Session, in 2019, showcasing her ethereal voice and heartfelt songwriting. Katie performs live around Portland venues and collaborates with fellow local artists, crafting immersive sets that connect deeply with her audience.",
+      "title": "Aika Collins and Katie Waterland",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -49662,6 +50422,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-10-17T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-10-17",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-10-17T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-10-17T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-10-17",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -49737,6 +50529,39 @@
       "title": "Code & Coffee @ Roseline Café",
       "venue": {
         "name": "Roseline Cafe"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-10-17T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/dumpster-joe-2026-2",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1759343957587-VR7PPNE1ZW9WT9VNJ9PK/548192449_1393337392797804_118944888841809619_n.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/dumpster-joe-2026-2",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-10-17T10:00:00-07:00",
+      "summary": "We play 1920s and 30s country blues, hill billy and jazz tunes(also a few originals). The tunes we play were learned by listening fanatically to old 78 rpm records and reissues of 78s. We will totally rock your socks off.",
+      "title": "Dumpster Joe",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -51140,6 +51965,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-10-24T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-10-24",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-10-24T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-10-24T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-10-24",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -52032,6 +52889,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-10-31T13:00:00-07:00",
+      "id": "hollywood_farmers_market:market@2026-10-31",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-10-31T08:00:00-07:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-10-31T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-10-31",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -52083,6 +52972,39 @@
         "latitude": 45.32208,
         "longitude": -122.57526,
         "name": "Clackamas Community College - Wilsonville campus"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-10-31T12:30:00-07:00",
+      "id": "hollywood_farmers_market:music-schedule/free-range-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1705518688950-QA809C6DNM7E4BA3BB00/Screen+Shot+2024-01-17+at+11.11.03+AM.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/free-range-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-10-31T10:00:00-07:00",
+      "summary": "Free Range is a duo playing bluegrass, folk and Americana music. We accompany our two-part singing with banjo, dobro and guitar. We play music that we love and that we know our audiences will enjoy.",
+      "title": "Free Range",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -52756,6 +53678,38 @@
         "latitude": 45.523588,
         "longitude": -122.676857,
         "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-07T13:00:00-08:00",
+      "id": "hollywood_farmers_market:market@2026-11-07",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-11-07T08:00:00-08:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -53564,6 +54518,38 @@
     },
     {
       "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-14T13:00:00-08:00",
+      "id": "hollywood_farmers_market:market@2026-11-14",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-11-14T08:00:00-08:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:LvZ18Q0VpOtxwM_XQSCnK",
@@ -54337,6 +55323,38 @@
         "latitude": 45.501102,
         "longitude": -122.654253,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-21T13:00:00-08:00",
+      "id": "hollywood_farmers_market:market@2026-11-21",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-11-21T08:00:00-08:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
       }
     },
     {
@@ -58950,5 +59968,5 @@
       }
     }
   ],
-  "generated_at": "2026-07-27T08:59:04+00:00"
+  "generated_at": "2026-07-27T08:59:46+00:00"
 }
