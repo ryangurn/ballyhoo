@@ -2,6 +2,93 @@
   "events": [
     {
       "categories": [
+        "music"
+      ],
+      "id": "portland_parks:2026-07-23-mccoy-park-barrio-mestizo",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-07-23T18:30:00-07:00",
+      "summary": "Barrio Mestizo - Classic and contemporary salsa, cumbia, cha cha cha, and more",
+      "title": "Barrio Mestizo",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.58993,
+        "longitude": -122.71635,
+        "name": "McCoy Park"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "portland_parks:2026-07-24-parklane-park-kevin-selfe-and-the-tornadoes",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-07-24T18:30:00-07:00",
+      "summary": "Kevin Selfe and The Tornadoes - Blues ensemble performing upbeat originals and fun rock and roll covers",
+      "title": "Kevin Selfe and The Tornadoes",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.51446,
+        "longitude": -122.50448,
+        "name": "Parklane Park"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "portland_parks:2026-07-24-brentwood-park-kung-fu-panda-4",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-07-24T19:30:00-07:00",
+      "summary": "Kung Fu Panda 4 (2024) PG",
+      "title": "Kung Fu Panda 4",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.4737,
+        "longitude": -122.60094,
+        "name": "Brentwood Park"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:2026-07-25",
@@ -23,6 +110,35 @@
         "latitude": 45.49529,
         "longitude": -122.29141,
         "name": "Oxbow Regional Park"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "portland_parks:2026-07-25-kenton-park-soul-vaccination",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-07-25T18:30:00-07:00",
+      "summary": "Soul Vaccination - R&B, soul, and funk from the 1960s to the present",
+      "title": "Soul Vaccination",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.5838,
+        "longitude": -122.6906,
+        "name": "Kenton Park"
       }
     },
     {
@@ -968,6 +1084,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "portland_parks:2026-07-31-spring-garden-park-story-tune",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-07-31T18:30:00-07:00",
+      "summary": "Story & Tune - Eclectic harmony, deeply rooted in traditional folk/Americana storytelling",
+      "title": "Story & Tune",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.46264,
+        "longitude": -122.71089,
+        "name": "Spring Garden Park"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:Z7r9jZ1A7QvbY",
@@ -1315,6 +1460,35 @@
       "categories": [
         "music"
       ],
+      "id": "portland_parks:2026-08-01-columbia-park-iron-prophecy",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-01T18:30:00-07:00",
+      "summary": "Iron Prophecy - Roots reggae seeded with a message of love and unity",
+      "title": "Iron Prophecy",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.57803,
+        "longitude": -122.71266,
+        "name": "Columbia Park"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:vvG1HZbz2ajbjF",
       "image_url": "https://s1.ticketm.net/dam/a/0e5/4cddc4da-bd12-4432-ae88-658d7c2730e5_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -1339,6 +1513,35 @@
         "latitude": 45.53118896,
         "longitude": -122.66645813,
         "name": "Moda Center"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "portland_parks:2026-08-01-colonel-summers-park-men-in-black",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-01T19:30:00-07:00",
+      "summary": "Men in Black (1997) PG-13",
+      "title": "Men in Black",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.51575,
+        "longitude": -122.64734,
+        "name": "Colonel Summers Park"
       }
     },
     {
@@ -2396,6 +2599,35 @@
       "categories": [
         "music"
       ],
+      "id": "portland_parks:2026-08-06-fernhill-park-grupo-masato",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-06T18:30:00-07:00",
+      "summary": "Grupo Masato - Latin American Cumbia, Peruvian Chicha, and Afro-Peruvian dance music",
+      "title": "Grupo Masato",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.56716,
+        "longitude": -122.62363,
+        "name": "Fernhill Park"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7048Y",
       "image_url": "https://s1.ticketm.net/dam/a/a43/23687a4b-bde7-4876-987c-469089fb0a43_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -2537,6 +2769,35 @@
         "latitude": 45.50122605,
         "longitude": -122.65284748,
         "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "portland_parks:2026-08-06-lents-park-the-bad-guys-2",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-06T19:30:00-07:00",
+      "summary": "The Bad Guys 2 (2025) PG - English with Spanish subtitles",
+      "title": "The Bad Guys 2",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.4875,
+        "longitude": -122.57048,
+        "name": "Lents Park"
       }
     },
     {
@@ -2712,6 +2973,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "portland_parks:2026-08-07-pendleton-park-boka-marimba",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-07T18:30:00-07:00",
+      "summary": "Boka Marimba - The high-energy marimba music of Zimbabwe",
+      "title": "Boka Marimba",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.48037,
+        "longitude": -122.73202,
+        "name": "Pendleton Park"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:vvG1HZ_A2PvOSY",
@@ -2821,6 +3111,35 @@
         "latitude": 45.8046,
         "longitude": -122.693298,
         "name": "Clark County Fairgrounds"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "portland_parks:2026-08-07-mill-park-a-minecraft-movie",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-07T19:30:00-07:00",
+      "summary": "A Minecraft Movie (2025) PG",
+      "title": "A Minecraft Movie",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.50925,
+        "longitude": -122.53906,
+        "name": "Mill Park"
       }
     },
     {
@@ -3223,6 +3542,35 @@
         "latitude": 45.53118896,
         "longitude": -122.66645813,
         "name": "Moda Center"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "portland_parks:2026-08-08-washington-park-rose-garden-amphitheater-washington-park-summer-festival",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-08T18:00:00-07:00",
+      "summary": "Washington Park Summer Festival Albina Music Trust presents Time Sound Big Band - A jazz big band amplifying Portland's Black music history & future",
+      "title": "Washington Park Summer Festival",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.51552,
+        "longitude": -122.70571,
+        "name": "Washington Park-Rose Garden Amphitheater"
       }
     },
     {
@@ -3717,6 +4065,35 @@
         "latitude": 45.497799,
         "longitude": -122.693703,
         "name": "Keller Auditorium"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "portland_parks:2026-08-09-washington-park-rose-garden-amphitheater-washington-park-summer-festival",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-09T18:00:00-07:00",
+      "summary": "Washington Park Summer Festival An Evening of Original Soul Music featuring Ural Thomas and the Pain",
+      "title": "Washington Park Summer Festival",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.51552,
+        "longitude": -122.70571,
+        "name": "Washington Park-Rose Garden Amphitheater"
       }
     },
     {
@@ -4869,6 +5246,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "portland_parks:2026-08-13-hoyt-arboretum-stevens-pavilion-brigitta-the-cocktail-cats",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-13T18:30:00-07:00",
+      "summary": "Brigitta & the Cocktail Cats - Jazz standards and piano bar melodies",
+      "title": "Brigitta & the Cocktail Cats",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.5158,
+        "longitude": -122.71645,
+        "name": "Hoyt Arboretum-Stevens Pavilion"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:Z7r9jZ1A7Qv_b",
@@ -4924,6 +5330,35 @@
         "latitude": 45.519452,
         "longitude": -122.676291,
         "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "portland_parks:2026-08-13-wilshire-park-how-to-train-your-dragon",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-13T19:30:00-07:00",
+      "summary": "How to Train Your Dragon (2025) PG - English with Spanish subtitles",
+      "title": "How to Train Your Dragon",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.55292,
+        "longitude": -122.62812,
+        "name": "Wilshire Park"
       }
     },
     {
@@ -5218,6 +5653,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "portland_parks:2026-08-14-rose-city-park-the-norman-sylvester-band",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-14T18:30:00-07:00",
+      "summary": "The Norman Sylvester Band - Original funky blues and R&B",
+      "title": "The Norman Sylvester Band",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.53842,
+        "longitude": -122.60637,
+        "name": "Rose City Park"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:Z7r9jZ1A70YZ3",
@@ -5242,6 +5706,35 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Helium Comedy Club - Portland"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "portland_parks:2026-08-14-gateway-discovery-park-hoppers",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-14T19:30:00-07:00",
+      "summary": "Hoppers (2026) PG",
+      "title": "Hoppers",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.53279,
+        "longitude": -122.55434,
+        "name": "Gateway Discovery Park"
       }
     },
     {
@@ -5726,6 +6219,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "portland_parks:2026-08-15-sellwood-park-bloco-alegria",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-15T18:30:00-07:00",
+      "summary": "Bloco Alegria - The heart-pumping samba from Rio de Janeiro",
+      "title": "Bloco Alegria",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.46754,
+        "longitude": -122.66036,
+        "name": "Sellwood Park"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:Z7r9jZ1A70YZa",
@@ -5778,6 +6300,35 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Hawthorne Theatre"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "portland_parks:2026-08-15-irving-park-the-princess-bride",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-15T19:30:00-07:00",
+      "summary": "The Princess Bride (1987) PG",
+      "title": "The Princess Bride",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.5475,
+        "longitude": -122.65671,
+        "name": "Irving Park"
       }
     },
     {
@@ -6162,6 +6713,35 @@
         "latitude": 45.523588,
         "longitude": -122.676857,
         "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "portland_parks:2026-08-16-lillis-albina-park-drumline",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-16T19:30:00-07:00",
+      "summary": "Drumline (2002) PG-13",
+      "title": "Drumline",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.54043,
+        "longitude": -122.66973,
+        "name": "Lillis-Albina Park"
       }
     },
     {
@@ -6636,6 +7216,35 @@
       "categories": [
         "music"
       ],
+      "id": "portland_parks:2026-08-20-grant-park-ants-ants-ants",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-20T18:30:00-07:00",
+      "summary": "Ants Ants Ants - Kids music inspired by the melodies of the 1970s, from The Beatles to Schoolhouse Rock",
+      "title": "Ants Ants Ants",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.53933,
+        "longitude": -122.62953,
+        "name": "Grant Park"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1Af-xaN",
       "image_url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -6661,6 +7270,35 @@
         "latitude": 45.519452,
         "longitude": -122.676291,
         "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "portland_parks:2026-08-20-farragut-park-lilo-and-stitch",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-20T19:30:00-07:00",
+      "summary": "Lilo and Stitch (2025) PG - English with Spanish subtitles",
+      "title": "Lilo and Stitch",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.58024,
+        "longitude": -122.67034,
+        "name": "Farragut Park"
       }
     },
     {
@@ -6723,6 +7361,64 @@
         "latitude": 45.523,
         "longitude": -122.67443,
         "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "portland_parks:2026-08-21-glenwood-park-picante",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-21T18:30:00-07:00",
+      "summary": "Picante - Traditional Afro-Cuban music with a fusion of Latin jazz",
+      "title": "Picante",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.47416,
+        "longitude": -122.57276,
+        "name": "Glenwood Park"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "portland_parks:2026-08-21-luuwit-view-park-somali-heritage-day",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-21T18:30:00-07:00",
+      "summary": "Somali Heritage Day - Celebrating our Stories",
+      "title": "Somali Heritage Day",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.55012,
+        "longitude": -122.53063,
+        "name": "Luuwit View Park"
       }
     },
     {
@@ -6990,6 +7686,35 @@
       "categories": [
         "music"
       ],
+      "id": "portland_parks:2026-08-22-kenilworth-park-blonde-neon",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-22T18:30:00-07:00",
+      "summary": "Blonde Neon - Female-led hits of 80s rock and new wave",
+      "title": "Blonde Neon",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.49133,
+        "longitude": -122.63126,
+        "name": "Kenilworth Park"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:vvG1HZ_6J-b9W6",
       "image_url": "https://s1.ticketm.net/dam/a/859/993be3f1-1847-44ee-8998-ad2aebcfc859_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -7044,6 +7769,35 @@
         "latitude": 45.853617,
         "longitude": -122.707375,
         "name": "Ilani Cowlitz Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "portland_parks:2026-08-22-sewallcrest-park-cool-runnings",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-22T19:30:00-07:00",
+      "summary": "Cool Runnings (1993) PG",
+      "title": "Cool Runnings",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.50971,
+        "longitude": -122.63291,
+        "name": "Sewallcrest Park"
       }
     },
     {
@@ -7760,6 +8514,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "portland_parks:2026-08-27-wellington-park-the-braziltones",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-27T18:30:00-07:00",
+      "summary": "The BrazilTones - The poetic beauty and rhythmic wonder of Brazilian music",
+      "title": "The BrazilTones",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.5532,
+        "longitude": -122.59445,
+        "name": "Wellington Park"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:Z7r9jZ1A7Qvby",
@@ -7994,6 +8777,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "id": "portland_parks:2026-08-28-luuwit-view-park-ratatouille",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-28T19:30:00-07:00",
+      "summary": "Ratatouille (2007) G",
+      "title": "Ratatouille",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.55012,
+        "longitude": -122.53063,
+        "name": "Luuwit View Park"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:rZ7HnEZ1AfFOx7",
@@ -8148,6 +8960,35 @@
       "categories": [
         "music"
       ],
+      "id": "portland_parks:2026-08-29-woodstock-park-bridgetown-get-down",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-29T18:30:00-07:00",
+      "summary": "Bridgetown Get Down - High-energy pop, yacht rock, R&B, and soul covers",
+      "title": "Bridgetown Get Down",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.4837,
+        "longitude": -122.61261,
+        "name": "Woodstock Park"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:vvG1HZ_FM_fu4Y",
       "image_url": "https://s1.ticketm.net/dam/a/ab5/9914ca2d-3115-427b-9cde-424a66230ab5_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -8202,6 +9043,35 @@
         "latitude": 45.750612,
         "longitude": -122.674434,
         "name": "Cascades Amphitheater"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "portland_parks:2026-08-29-hamilton-park-wicked",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
+      "organizer": "Portland Parks & Recreation",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_parks",
+        "name": "Portland Parks & Recreation",
+        "url": "https://www.portland.gov/parks"
+      },
+      "start_at": "2026-08-29T19:30:00-07:00",
+      "summary": "Wicked (2024) PG",
+      "title": "Wicked",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.49168,
+        "longitude": -122.7216,
+        "name": "Hamilton Park"
       }
     },
     {
@@ -24165,5 +25035,5 @@
       }
     }
   ],
-  "generated_at": "2026-07-27T07:59:30+00:00"
+  "generated_at": "2026-07-27T08:31:10+00:00"
 }
