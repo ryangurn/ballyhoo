@@ -114,7 +114,7 @@ struct DiscoverView: View {
 
     @ViewBuilder
     private var tonightRail: some View {
-        let tonight = store.upcomingEvents.filter { $0.occurs(on: .now) }
+        let tonight = store.tonight
 
         if !tonight.isEmpty {
             VStack(alignment: .leading, spacing: 11) {
@@ -142,9 +142,12 @@ struct DiscoverView: View {
 
     private func rail(_ events: [Event]) -> some View {
         ScrollView(.horizontal) {
-            // Lazy for the same reason as the feed: a rail can hold dozens of cards
-            // and only two or three are ever on screen.
-            LazyHStack(alignment: .top, spacing: 12) {
+            // Eager on purpose, unlike the main feed. These cards size themselves to
+            // the tallest in the row, and a lazy stack cannot measure children it has
+            // not created yet — so the height would be set by whichever cards
+            // happened to render first and a two-line title would clip. Rails are
+            // capped at ten events, so building them all costs nothing.
+            HStack(alignment: .top, spacing: 12) {
                 ForEach(events) { event in
                     Button {
                         selectedEvent = event

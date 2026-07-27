@@ -101,9 +101,22 @@ final class EventStore {
         let cutoff = Calendar.current.date(byAdding: .hour, value: 48, to: .now) ?? .now
         return upcomingEvents
             .filter { $0.price.isFree && $0.start <= cutoff }
-            .prefix(8)
+            .prefix(Self.railLimit)
             .map(\.self)
     }
+
+    /// Today's events, for the "Tonight" rail.
+    var tonight: [Event] {
+        upcomingEvents
+            .filter { $0.occurs(on: .now) }
+            .prefix(Self.railLimit)
+            .map(\.self)
+    }
+
+    /// Rails are an editorial skim, not an exhaustive list — the full set is a
+    /// scroll away in the main feed. The cap also keeps each rail small enough to
+    /// lay out eagerly, which is what lets the cards agree on a common height.
+    private static let railLimit = 10
 
     var availableCategories: [Category] {
         let present = Set(upcomingEvents.flatMap(\.categories))
