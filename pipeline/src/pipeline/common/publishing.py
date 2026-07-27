@@ -12,7 +12,6 @@ from pathlib import Path
 from typing import Any
 
 from .archive import try_archive
-from .index import update_source_entry
 from .io import dump_json
 from .log import get_logger
 from .publish import PublishResult, publish
@@ -42,21 +41,15 @@ def publish_source_feed(
     payload = dump_json(feed)
     events = feed.get("events", [])
 
-    index = update_source_entry(
-        args.pages_dir / "sources" / "index.json",
-        source_id=source_id,
-        last_run_at=feed["generated_at"],
-        event_count=len(events),
-        status=feed.get("status", "ok"),
-        now=now,
-    )
-
+    # A source writes only its own file. It deliberately does not touch
+    # sources/index.json: that is a single shared file, so every source rewriting it
+    # broke the disjoint-paths guarantee the moment two runs overlapped. DoPDX takes
+    # four minutes, and a faster source publishing meanwhile left its rebase
+    # unresolvable. The merge already reads every per-source file and rebuilds the
+    # index from them, so it owns that write alone.
     result = publish(
         args.pages_dir,
-        {
-            f"sources/{source_id}.json": payload,
-            "sources/index.json": dump_json(index),
-        },
+        {f"sources/{source_id}.json": payload},
         message=f"{source_id}: {len(events)} events",
         branch=args.pages_branch,
         dry_run=args.dry_run,

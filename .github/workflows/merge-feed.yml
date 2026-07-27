@@ -66,6 +66,7 @@ jobs:
       - name: Merge and publish
         working-directory: pipeline
         run: |
+          set -o pipefail
           uv run python -m pipeline.merge \
             --sources-dir "$GITHUB_WORKSPACE/.gh-pages/sources" \
             --pages-dir "$GITHUB_WORKSPACE/.gh-pages" \

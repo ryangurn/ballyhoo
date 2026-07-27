@@ -50,6 +50,7 @@ jobs:
         env:
           TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
         run: |
+          set -o pipefail
           uv run python -m pipeline.sources.ticketmaster \
             --pages-dir "$GITHUB_WORKSPACE/.gh-pages" \
             --archive-dir "$GITHUB_WORKSPACE/.archive" \

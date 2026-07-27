@@ -51,6 +51,7 @@ jobs:
       - name: Fetch, normalize, publish
         working-directory: pipeline
         run: |
+          set -o pipefail
           uv run python -m pipeline.sources.dopdx \
             --pages-dir "$GITHUB_WORKSPACE/.gh-pages" \
             --archive-dir "$GITHUB_WORKSPACE/.archive" \
