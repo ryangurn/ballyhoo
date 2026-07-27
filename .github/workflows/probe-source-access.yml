@@ -1,0 +1,67 @@
+name: probe-source-access
+
+# Temporary diagnostic. Some sites that respond fine from a residential
+# connection block GitHub's datacenter IP ranges, so a source has to be proven
+# reachable from CI before it is worth building a fetcher around.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Probe Travel Portland from a runner IP
+        run: |
+          uv run --with curl_cffi --with requests python - <<'PY'
+          import requests
+          from curl_cffi import requests as cr
+
+          URL = "https://www.travelportland.com/wp-json/events/v2/events/"
+          PARAMS = {
+              "start": "2026-07-26T07:00:00+00:00",
+              "end": "2027-07-27T06:59:59+00:00",
+              "limit": 5, "offset": 0, "ep": 0,
+          }
+
+          print("runner egress IP:", requests.get("https://api.ipify.org", timeout=15).text)
+
+          print("\nplain requests (baseline):")
+          try:
+              r = requests.get(URL, params=PARAMS, timeout=25,
+                               headers={"User-Agent": "Mozilla/5.0"})
+              print(f"  HTTP {r.status_code}  {len(r.content)}B")
+          except Exception as e:
+              print(f"  {type(e).__name__}: {e}")
+
+          print("\nbrowser TLS fingerprint:")
+          ok = False
+          for profile in ("safari17_0", "chrome124", "chrome131", "firefox133"):
+              try:
+                  r = cr.get(URL, params=PARAMS, impersonate=profile, timeout=25)
+                  print(f"  {profile:<12} HTTP {r.status_code}  {len(r.content)}B")
+                  if r.status_code == 200 and not ok:
+                      ok = True
+                      d = r.json()
+                      keys = list(d.keys())[:8] if isinstance(d, dict) else f"list[{len(d)}]"
+                      print(f"    -> JSON shape: {keys}")
+              except Exception as e:
+                  print(f"  {profile:<12} {type(e).__name__}: {str(e)[:70]}")
+
+          print("\nVERDICT:", "reachable from CI" if ok else "BLOCKED from CI")
+          PY
+
+      - name: Probe Oregon Metro from a runner IP
+        run: |
+          code=$(curl -sS -o /dev/null -w '%{http_code}' -L --max-time 20 \
+            -H 'User-Agent: sociallist-pipeline/0.1 (+https://github.com/ryangurn/sociallist)' \
+            https://www.oregonmetro.gov/events)
+          echo "oregonmetro.gov/events -> HTTP $code"
