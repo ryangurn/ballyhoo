@@ -8,8 +8,10 @@ unexplained collapse, requiring a human to override.
 
 from __future__ import annotations
 
+import json
 import statistics
 from dataclasses import dataclass
+from pathlib import Path
 
 from ..common.log import get_logger
 
@@ -62,6 +64,34 @@ def evaluate(current_count: int, history: list[int], *, override: bool = False) 
         )
 
     return FloorCheck(True, f"{current_count} events against a {baseline}-event baseline", current_count, baseline)
+
+
+def load_history(path: Path) -> list[int]:
+    """Read the accumulated run counts published alongside the feed.
+
+    Every failure returns an empty baseline rather than raising: a history file we
+    cannot read should disarm the floor, never block a publish. It is a safety net,
+    not a gate on its own.
+
+    The counts are filtered to integers because an unusable entry would poison the
+    median for the next thirty runs, and a silently wrong baseline is worse than a
+    missing one.
+    """
+    if not path.exists():
+        return []
+
+    try:
+        payload = json.loads(path.read_text())
+    except (OSError, json.JSONDecodeError) as exc:
+        log.warning("could not read %s (%s); proceeding without a floor baseline", path, exc)
+        return []
+
+    counts = payload.get("counts") if isinstance(payload, dict) else None
+    if not isinstance(counts, list):
+        log.warning("%s has no usable counts; proceeding without a floor baseline", path)
+        return []
+
+    return [n for n in counts if isinstance(n, int) and not isinstance(n, bool)]
 
 
 def append_history(history: list[int], count: int) -> list[int]:

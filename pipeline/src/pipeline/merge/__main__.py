@@ -8,7 +8,9 @@ merged feed plus the health index the app's Sources tab reads.
 
 A source whose most recent run failed simply has a stale file on disk; the merge uses
 it rather than dropping that source's events entirely, so one broken upstream degrades
-freshness instead of removing content.
+freshness instead of removing content. A source that has never published at all has no
+file, and the index reports it from the configured-source registry so that it surfaces
+as broken rather than as absent.
 """
 
 from __future__ import annotations
@@ -16,24 +18,23 @@ from __future__ import annotations
 import argparse
 import json
 import sys
-from datetime import UTC, datetime, timedelta
+from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
 from ..common import log as logsetup
 from ..common.archive import try_archive
+from ..common.index import mark_stale_entries
 from ..common.io import build_merged_feed, dump_json, event_from_dict, parse_datetime
+from ..common.models import Source
 from ..common.publish import publish
 from ..common.publishing import add_publish_arguments
 from ..common.validate import SchemaValidationError, validate_merged, validate_sources_index
 from .dedupe import deduplicate
-from .floor import append_history, evaluate
+from .floor import append_history, evaluate, load_history
+from .registry import configured_sources
 
 log = logsetup.get_logger("pipeline.merge")
-
-# A source silent for longer than this is reported as stale in the health index, so
-# the app can say so rather than letting the source vanish from the Sources tab.
-STALE_AFTER = timedelta(hours=6)
 
 
 def _load_source_files(sources_dir: Path) -> tuple[list[dict[str, Any]], list[str]]:
@@ -53,7 +54,7 @@ def _load_source_files(sources_dir: Path) -> tuple[list[dict[str, Any]], list[st
     return payloads, problems
 
 
-def _build_index(payloads: list[dict[str, Any]], now: datetime) -> dict[str, Any]:
+def _build_index(payloads: list[dict[str, Any]], configured: list[Source], now: datetime) -> dict[str, Any]:
     entries = []
     for payload in payloads:
         source_id = payload.get("source_id", "unknown")
@@ -63,11 +64,11 @@ def _build_index(payloads: list[dict[str, Any]], now: datetime) -> dict[str, Any
         last_run_at = None
         if generated_raw:
             try:
-                last_run = parse_datetime(generated_raw)
+                parse_datetime(generated_raw)
                 last_run_at = generated_raw
-                if status == "ok" and now - last_run > STALE_AFTER:
-                    status = "stale"
             except (ValueError, TypeError):
+                # An unparseable stamp is left off the entry rather than published as
+                # it arrived: the client would decode it as a date or not at all.
                 status = "error"
 
         entries.append(
@@ -80,8 +81,31 @@ def _build_index(payloads: list[dict[str, Any]], now: datetime) -> dict[str, Any
             }
         )
 
+    published = {entry["source_id"] for entry in entries}
+    for source in configured:
+        if source.id in published:
+            continue
+        # Configured and wired into CI, but nothing on gh-pages: the source has never
+        # completed a run. Leaving it out would hide the very failure the index exists
+        # to surface, so it reports as broken with nothing behind it. `url` is null
+        # because there is no file at that path to link to yet.
+        log.warning("configured source %s has never published; reporting it as error", source.id)
+        entries.append(
+            {
+                "source_id": source.id,
+                "last_run_at": None,
+                "event_count": 0,
+                "status": "error",
+                "url": None,
+            }
+        )
+
     entries.sort(key=lambda e: e["source_id"])
-    return {"generated_at": now.replace(microsecond=0).isoformat(), "sources": entries}
+    index = {"generated_at": now.replace(microsecond=0).isoformat(), "sources": entries}
+
+    # Staleness lives in one place rather than being restated here. Two copies of the
+    # threshold is how a rule ends up enforced in one path and not the other.
+    return mark_stale_entries(index, now)
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -124,13 +148,15 @@ def main(argv: list[str] | None = None) -> int:
 
     merged, audit = deduplicate(events)
 
-    history_path = (args.output_dir / "history.json") if args.output_dir else None
-    history: list[int] = []
-    if history_path and history_path.exists():
-        try:
-            history = json.loads(history_path.read_text()).get("counts", [])
-        except (OSError, json.JSONDecodeError):
-            log.warning("could not read %s; proceeding without a floor baseline", history_path)
+    # History has to be read from wherever the artifacts will be written, or the floor
+    # has nothing to compare against. Both sides are derived from one value for exactly
+    # that reason: this read used to be hard-coded to --output-dir while CI publishes
+    # with --pages-dir, so history loaded empty on every production run, every merge
+    # reported "insufficient history", and the published file was overwritten with the
+    # single count from the run that just finished. The guard was never once armed.
+    destination = args.pages_dir or args.output_dir
+    history = load_history(destination / "history.json") if destination else []
+    log.info("floor baseline: %d prior run(s) from %s", len(history), destination or "nowhere")
 
     check = evaluate(len(merged), history, override=args.override_floor)
     if not check.passed:
@@ -139,7 +165,7 @@ def main(argv: list[str] | None = None) -> int:
     log.info("floor check passed: %s", check.reason)
 
     feed = build_merged_feed(merged, generated_at=now)
-    index = _build_index(payloads, now)
+    index = _build_index(payloads, configured_sources(), now)
 
     try:
         validate_merged(feed)

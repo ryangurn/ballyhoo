@@ -25,10 +25,14 @@
           "event_count": {
             "type": ["integer", "null"],
             "minimum": 0,
-            "description": "Count in this source's own file, before cross-source dedup and before the client's date filtering. Will legitimately exceed what the app displays."
+            "description": "Count in this source's own file, before cross-source dedup and before the client's date filtering. Will legitimately exceed what the app displays. Zero when the source has never published."
           },
           "status": { "type": "string", "enum": ["ok", "stale", "error"] },
-          "url": { "type": ["string", "null"], "format": "uri" }
+          "url": {
+            "type": ["string", "null"],
+            "format": "uri-reference",
+            "description": "Path to this source's own file, relative to the feed root. Null when the source has never published and no such file exists."
+          }
         }
       }
     }
