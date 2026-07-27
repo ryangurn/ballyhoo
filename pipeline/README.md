@@ -40,11 +40,16 @@ never committed. In CI the same values come from GitHub Actions secrets.
 | Source | Auth | Volume | Notes |
 |---|---|---|---|
 | Calagator | none | ~27 events / yr | Portland's community **tech** calendar |
-| Ticketmaster | API key | ~723 events / yr | Large touring acts |
+| Ticketmaster | API key | ~710 events / yr | Touring acts plus independent venues |
 
-Volumes are measured, not estimated. Both are far smaller than they sound, and the
-two barely overlap — Ticketmaster is Bocelli and Weezer, Calagator is Code & Coffee
-and the Drupal user group.
+Volumes are measured, not estimated, and the two barely overlap — Ticketmaster is
+Bocelli, Weezer, and the Wonder Ballroom; Calagator is Code & Coffee and the Drupal
+user group. Cross-source dedup is therefore insurance for sources yet to be added
+rather than something these two need.
+
+Both together are still mostly ticketed shows. The neighborhood-level programming the
+app is really for — library story times, parks events, civic meetings, Portland
+Mercado — arrives with the sources still queued.
 
 ### Calagator
 
@@ -71,15 +76,51 @@ event, which the app surfaces in the Sources tab and on event detail.
 
 ### Ticketmaster
 
-Not yet implemented. Design notes ahead of building it, from live measurement:
+Discovery API, free tier: 5,000 calls/day. A full run costs 4 requests. Needs
+`TICKETMASTER_API_KEY` — the "Consumer Key" from an app on
+[developer.ticketmaster.com](https://developer.ticketmaster.com).
 
-- **Send no `segmentName` filter.** An exhaustive six-segment allow-list returns 503
-  events where an unfiltered query returns 548 — any explicit list is lossy.
-- **The API refuses to page past the 1,000th item** (`size * page < 1000`) and
-  truncates silently. Guard on `page.totalElements` and fail loudly above 900.
-- Portland is ~723 events over a 365-day / 25-mile scope, distributed Music 64%,
-  Arts & Theatre 16%, Sports 10%, Miscellaneous 3%. Family and Film are empty.
-- Requires "Powered by Ticketmaster" attribution per their terms.
+```bash
+uv run python -m pipeline.sources.ticketmaster --histogram   # inspect, don't publish
+uv run python -m pipeline.sources.ticketmaster --output /tmp/tm.json
+```
+
+**No `segmentName` filter is sent, deliberately.** Ticketmaster documents six segments
+but actually returns a seventh, `Undefined`, holding 7% of Portland's events — and
+they are the best ones: Dante's, Jack London Revue, Wonder Ballroom, Holocene, White
+Eagle Saloon. Independent venues, live music, cabaret, burlesque. An allow-list of the
+documented six drops every one of them. Measured, an unfiltered query returns 548
+events against a six-name list's 503.
+
+**The API truncates silently past the 1,000th result** (`size * page < 1000`). The
+fetcher reads `page.totalElements` up front and aborts above 900 rather than
+publishing a feed that looks complete but isn't. Current headroom is roughly 280
+events. If it ever trips, slice by date range — never by segment, which loses the
+`Undefined` events all over again.
+
+Measured shape of the Portland feed (365 days, 25 miles):
+
+| | |
+|---|---|
+| Matching events | ~719, of which 710 survive normalization |
+| Segments | Music 61%, Arts & Theatre 20%, Sports 8%, Undefined 7%, Miscellaneous 2% |
+| Family / Film | Zero Portland inventory |
+| Dropped | 3 cancelled, 6 with placeholder times |
+| Coverage | venue, image, and listing URL on 100%; price on 31%; description on 42% |
+
+Other things live data forced:
+
+- `dates.start.dateTime` is UTC while `dates.timezone` carries the real zone. Events
+  are converted to local, or an 8pm show renders as 3am.
+- `dates.status.code` includes `cancelled`, which is excluded. `offsale` is kept —
+  sold out is still a real event worth showing.
+- `priceRanges` is absent on ~70% of events, so those are price-unknown, not free.
+- Genres are an open vocabulary. Unmapped ones fall back to their segment silently,
+  because that is the correct outcome; only an unmapped *segment* is reported, since
+  that means Ticketmaster added one and the table needs a row.
+
+Their terms require "Powered by Ticketmaster" attribution, satisfied by the mandatory
+`source` field the app renders.
 
 ## Adding a source
 
