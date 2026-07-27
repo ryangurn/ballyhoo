@@ -82,6 +82,39 @@ class TestNormalize:
         events, _ = normalize([raw_event()], now=NOW)
         assert events[0].start_at.isoformat() == "2026-09-14T20:00:00-07:00"
 
+    def test_missing_timezone_still_resolves_to_pacific(self):
+        # `dates.timezone` is absent on ~37% of live Portland results. Leaving those
+        # in UTC keeps the instant right but serializes an evening show onto the next
+        # calendar day, which misfiles it for anything grouping by date string.
+        raw = raw_event(dates={"start": {"dateTime": "2026-09-15T03:00:00Z"}, "status": {"code": "onsale"}})
+        events, _ = normalize([raw], now=NOW)
+        assert events[0].start_at.isoformat() == "2026-09-14T20:00:00-07:00"
+        assert events[0].start_at.date().isoformat() == "2026-09-14"
+
+    def test_events_declaring_a_non_pacific_timezone_are_dropped(self):
+        # Live data has "Life Surge Tampa" and friends tagged to the Oregon Convention
+        # Center with Eastern timezones. Either the venue or the time is wrong upstream
+        # and there is no telling which, so the event cannot be trusted.
+        raw = raw_event(
+            name="Life Surge Tampa",
+            dates={
+                "start": {"dateTime": "2026-12-05T13:30:00Z"},
+                "timezone": "America/New_York",
+                "status": {"code": "onsale"},
+            },
+        )
+        events, counters = normalize([raw], now=NOW)
+        assert events == []
+        assert counters.wrong_region == 1
+
+    def test_a_bogus_timezone_string_is_also_treated_as_foreign(self):
+        raw = raw_event(
+            dates={"start": {"dateTime": "2026-09-15T03:00:00Z"}, "timezone": "Mars/Olympus", "status": {"code": "onsale"}}
+        )
+        events, counters = normalize([raw], now=NOW)
+        assert events == []
+        assert counters.wrong_region == 1
+
     def test_cancelled_events_are_dropped(self):
         raw = raw_event(dates={"start": {"dateTime": "2026-09-15T03:00:00Z"}, "status": {"code": "cancelled"}})
         events, counters = normalize([raw], now=NOW)

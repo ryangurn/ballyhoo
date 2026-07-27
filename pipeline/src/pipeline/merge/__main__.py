@@ -1,0 +1,188 @@
+"""Merge every per-source file into the canonical feed.
+
+    uv run python -m pipeline.merge --sources-dir <dir> --output-dir <dir>
+
+This is the only step that writes `events.json`. It reads whatever per-source files
+exist, deduplicates across them, validates, applies the floor check, and writes the
+merged feed plus the health index the app's Sources tab reads.
+
+A source whose most recent run failed simply has a stale file on disk; the merge uses
+it rather than dropping that source's events entirely, so one broken upstream degrades
+freshness instead of removing content.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import sys
+from datetime import UTC, datetime, timedelta
+from pathlib import Path
+from typing import Any
+
+from ..common import log as logsetup
+from ..common.io import build_merged_feed, dump_json, event_from_dict, parse_datetime
+from ..common.validate import SchemaValidationError, validate_merged, validate_sources_index
+from .dedupe import deduplicate
+from .floor import append_history, evaluate
+
+log = logsetup.get_logger("pipeline.merge")
+
+# A source silent for longer than this is reported as stale in the health index, so
+# the app can say so rather than letting the source vanish from the Sources tab.
+STALE_AFTER = timedelta(hours=6)
+
+
+def _load_source_files(sources_dir: Path) -> tuple[list[dict[str, Any]], list[str]]:
+    payloads: list[dict[str, Any]] = []
+    problems: list[str] = []
+
+    for path in sorted(sources_dir.glob("*.json")):
+        if path.name == "index.json":
+            continue
+        try:
+            payloads.append(json.loads(path.read_text()))
+        except (OSError, json.JSONDecodeError) as exc:
+            # One unreadable source file must not take down the whole feed.
+            problems.append(f"{path.name}: {exc}")
+            log.error("skipping unreadable source file %s: %s", path.name, exc)
+
+    return payloads, problems
+
+
+def _build_index(payloads: list[dict[str, Any]], now: datetime) -> dict[str, Any]:
+    entries = []
+    for payload in payloads:
+        source_id = payload.get("source_id", "unknown")
+        generated_raw = payload.get("generated_at")
+
+        status = payload.get("status", "ok")
+        last_run_at = None
+        if generated_raw:
+            try:
+                last_run = parse_datetime(generated_raw)
+                last_run_at = generated_raw
+                if status == "ok" and now - last_run > STALE_AFTER:
+                    status = "stale"
+            except (ValueError, TypeError):
+                status = "error"
+
+        entries.append(
+            {
+                "source_id": source_id,
+                "last_run_at": last_run_at,
+                "event_count": len(payload.get("events", [])),
+                "status": status,
+                "url": f"sources/{source_id}.json",
+            }
+        )
+
+    entries.sort(key=lambda e: e["source_id"])
+    return {"generated_at": now.replace(microsecond=0).isoformat(), "sources": entries}
+
+
+def main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(prog="pipeline.merge")
+    parser.add_argument("--sources-dir", type=Path, required=True, help="Directory of per-source *.json files.")
+    parser.add_argument("--output-dir", type=Path, help="Where to write events.json. Defaults to stdout.")
+    parser.add_argument("--dry-run", action="store_true", help="Validate but write nothing.")
+    parser.add_argument(
+        "--override-floor",
+        action="store_true",
+        help="Publish even if the event count collapsed. Use only when the drop is known to be real.",
+    )
+    args = parser.parse_args(argv)
+
+    logsetup.configure()
+    now = datetime.now(UTC)
+
+    if not args.sources_dir.is_dir():
+        log.error("no such directory: %s", args.sources_dir)
+        return 1
+
+    payloads, problems = _load_source_files(args.sources_dir)
+    if not payloads:
+        log.error("no readable per-source files in %s; refusing to publish an empty feed", args.sources_dir)
+        return 1
+
+    events = []
+    for payload in payloads:
+        source_id = payload.get("source_id", "unknown")
+        decoded = 0
+        for raw in payload.get("events", []):
+            try:
+                events.append(event_from_dict(raw))
+                decoded += 1
+            except (KeyError, ValueError, TypeError) as exc:
+                # Drop the individual event, keep the rest of the source.
+                problems.append(f"{source_id}: undecodable event {raw.get('id')}: {exc}")
+                log.warning("skipping undecodable event %s from %s: %s", raw.get("id"), source_id, exc)
+        log.info("loaded %d events from %s", decoded, source_id)
+
+    merged, audit = deduplicate(events)
+
+    history_path = (args.output_dir / "history.json") if args.output_dir else None
+    history: list[int] = []
+    if history_path and history_path.exists():
+        try:
+            history = json.loads(history_path.read_text()).get("counts", [])
+        except (OSError, json.JSONDecodeError):
+            log.warning("could not read %s; proceeding without a floor baseline", history_path)
+
+    check = evaluate(len(merged), history, override=args.override_floor)
+    if not check.passed:
+        log.error("floor check failed: %s", check.reason)
+        return 3
+    log.info("floor check passed: %s", check.reason)
+
+    feed = build_merged_feed(merged, generated_at=now)
+    index = _build_index(payloads, now)
+
+    try:
+        validate_merged(feed)
+        validate_sources_index(index)
+    except SchemaValidationError as exc:
+        log.error("schema validation failed, refusing to publish:\n%s", exc)
+        return 1
+
+    log.info(
+        "merged %d events from %d source(s); %d duplicate(s) collapsed; %d problem(s)",
+        len(merged),
+        len(payloads),
+        len(audit),
+        len(problems),
+    )
+
+    if args.dry_run:
+        log.info("dry run, not writing")
+        return 0
+
+    if not args.output_dir:
+        sys.stdout.write(dump_json(feed))
+        return 0
+
+    args.output_dir.mkdir(parents=True, exist_ok=True)
+    (args.output_dir / "events.json").write_text(dump_json(feed))
+    (args.output_dir / "sources").mkdir(exist_ok=True)
+    (args.output_dir / "sources" / "index.json").write_text(dump_json(index))
+    (args.output_dir / "history.json").write_text(
+        dump_json({"counts": append_history(history, len(merged))})
+    )
+    (args.output_dir / "merge-report.json").write_text(
+        dump_json(
+            {
+                "generated_at": now.replace(microsecond=0).isoformat(),
+                "event_count": len(merged),
+                "sources": [p.get("source_id") for p in payloads],
+                "duplicates_merged": audit,
+                "problems": problems,
+                "floor_check": check.reason,
+            }
+        )
+    )
+    log.info("wrote %s", args.output_dir / "events.json")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

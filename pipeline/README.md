@@ -27,9 +27,19 @@ src/pipeline/
 cd pipeline
 uv sync
 
-uv run python -m pipeline.sources.calagator --output /tmp/calagator.json
+# One source at a time, into a directory the merge step will read
+uv run python -m pipeline.sources.calagator    --output /tmp/sources/calagator.json
+uv run python -m pipeline.sources.ticketmaster --output /tmp/sources/ticketmaster.json
+
+# Combine into the canonical feed
+uv run python -m pipeline.merge --sources-dir /tmp/sources --output-dir /tmp/feed
+
 uv run pytest
 ```
+
+That produces the same artifacts the workflows publish: `events.json`,
+`sources/index.json`, `history.json`, and a `merge-report.json` recording every
+dedup decision and per-source problem.
 
 Sources needing credentials read them from the environment. Copy
 `.env.local.example` to `.env.local` and fill it in; that file is gitignored and
@@ -110,8 +120,15 @@ Measured shape of the Portland feed (365 days, 25 miles):
 
 Other things live data forced:
 
-- `dates.start.dateTime` is UTC while `dates.timezone` carries the real zone. Events
-  are converted to local, or an 8pm show renders as 3am.
+- `dates.start.dateTime` is UTC while `dates.timezone` carries the real zone — but the
+  latter is **missing on ~37% of results**. Those default to Pacific, which is safe
+  because a 25-mile radius around downtown Portland contains no other zone. Left in
+  UTC the instant is still correct, but a 7pm show serializes as the next day at
+  02:00Z and gets filed under the wrong date by anything bucketing on the date string.
+- Events that *do* declare a non-Pacific zone are dropped as internally inconsistent.
+  Live data returns "Life Surge" events for Charlotte, Hartford, Fort Myers, Tampa, and
+  Phoenix all tagged to the Oregon Convention Center. Their titles name the real cities;
+  either the venue or the time is wrong upstream and there is no telling which.
 - `dates.status.code` includes `cancelled`, which is excluded. `offsale` is kept —
   sold out is still a real event worth showing.
 - `priceRanges` is absent on ~70% of events, so those are price-unknown, not free.
@@ -121,6 +138,34 @@ Other things live data forced:
 
 Their terms require "Powered by Ticketmaster" attribution, satisfied by the mandatory
 `source` field the app renders.
+
+## Merge
+
+The only step that writes `events.json`. Reads whatever per-source files exist,
+deduplicates across them, validates, applies the floor check, and writes the health
+index the app's Sources tab reads.
+
+A source whose latest run failed just has a stale file on disk, and the merge uses it.
+One broken upstream degrades freshness rather than deleting that source's events from
+the feed.
+
+**Deduplication** matches on normalized venue name plus a start time within 30 minutes,
+across different sources only — recurring events legitimately repeat within one source.
+Ticketmaster wins for ticketed events since it carries canonical ticket URLs and price
+data; Calagator wins otherwise. The survivor backfills fields it lacks from the loser
+and records every origin in `merged_sources`, so no attribution is lost. Matching is
+deliberately conservative: a false merge hides an event someone could have attended,
+while a missed merge is merely untidy.
+
+On the current two sources it fires **zero times** — Ticketmaster is touring acts,
+Calagator is tech meetups. It exists for the sources still queued, where a civic or
+venue feed will overlap Calagator heavily.
+
+**The floor check** blocks publishing when the event count collapses below 40% of the
+recent median. A source can fail by returning HTTP 200 with nothing in it, and without
+this the healthy feed gets replaced by a gutted one for every user at once. It stays
+disabled until three runs of history exist, so it can't fire on noise during the first
+days. `--override-floor` publishes anyway when a drop is genuine.
 
 ## Adding a source
 

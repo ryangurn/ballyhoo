@@ -51,3 +51,10 @@ MIN_SECONDS_BETWEEN_REQUESTS = 0.5
 
 # Events in these states are not attendable.
 EXCLUDED_STATUS_CODES = frozenset({"cancelled", "canceled"})
+
+# `dates.timezone` is absent on roughly 37% of Portland results even though
+# `dates.start.localTime` shows the real local hour. Left as UTC, a 7pm show
+# serializes as the next day at 02:00Z, so anything bucketing by date string files it
+# under the wrong day. Every venue inside a 25-mile radius of downtown Portland is in
+# Pacific time — including Vancouver, WA — so this default is safe rather than a guess.
+DEFAULT_TIMEZONE = "America/Los_Angeles"

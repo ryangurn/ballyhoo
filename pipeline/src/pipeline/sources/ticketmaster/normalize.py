@@ -34,6 +34,7 @@ class NormalizationCounters:
         self.unparseable_time = 0
         self.stale = 0
         self.no_title = 0
+        self.wrong_region = 0
 
     def as_dict(self) -> dict[str, int]:
         return {
@@ -44,6 +45,7 @@ class NormalizationCounters:
             "dropped_unparseable_time": self.unparseable_time,
             "dropped_stale": self.stale,
             "dropped_no_title": self.no_title,
+            "dropped_wrong_region": self.wrong_region,
         }
 
 
@@ -117,6 +119,24 @@ def _build_price(raw_event: dict[str, Any]) -> Price:
     )
 
 
+def _declares_foreign_timezone(raw_event: dict[str, Any]) -> str | None:
+    """Return a declared timezone that contradicts the query region, if any.
+
+    The query is a 25-mile radius around downtown Portland, which is entirely Pacific.
+    An event declaring Eastern time is internally inconsistent — either its venue or
+    its time is wrong upstream, and there is no way to tell which.
+
+    This is not hypothetical: live data returns "Life Surge Charlotte", "Life Surge
+    Hartford", "Life Surge Fort Myers", and "Life Surge Tampa" all tagged to the
+    Oregon Convention Center with Eastern timezones. Their titles name the real cities.
+    Showing a Tampa event as happening downtown is worse than omitting it.
+    """
+    declared = (raw_event.get("dates") or {}).get("timezone")
+    if declared and declared != config.DEFAULT_TIMEZONE:
+        return declared
+    return None
+
+
 def _primary_classification(raw_event: dict[str, Any]) -> tuple[str | None, str | None]:
     classifications = raw_event.get("classifications") or []
     if not classifications:
@@ -129,10 +149,14 @@ def _primary_classification(raw_event: dict[str, Any]) -> tuple[str | None, str 
 
 
 def _start_datetime(raw_event: dict[str, Any]) -> datetime | None:
-    """Resolve the start instant in Portland local time.
+    """Resolve the start instant in the event's local time.
 
-    The API gives UTC in `dateTime` plus a `timezone`. Converting to the event's own
-    zone means the serialized offset matches what an attendee would read on a poster.
+    `dateTime` is UTC and `timezone` carries the real zone, but the latter is missing
+    on roughly 37% of Portland results. Leaving those in UTC keeps the instant correct
+    yet serializes a 7pm show as the following day at 02:00Z, which files it under the
+    wrong date for any consumer that buckets on the date portion of the string. The
+    query is scoped to 25 miles around downtown Portland, so Pacific is the right
+    default rather than a guess.
     """
     start = (raw_event.get("dates") or {}).get("start") or {}
     raw = start.get("dateTime")
@@ -140,13 +164,12 @@ def _start_datetime(raw_event: dict[str, Any]) -> datetime | None:
         return None
 
     moment = parse_datetime(raw)
-    tz_name = (raw_event.get("dates") or {}).get("timezone")
-    if tz_name:
-        try:
-            return moment.astimezone(ZoneInfo(tz_name))
-        except (ZoneInfoNotFoundError, ValueError):
-            log.warning("unknown timezone %r on event %s", tz_name, raw_event.get("id"))
-    return moment
+    tz_name = (raw_event.get("dates") or {}).get("timezone") or config.DEFAULT_TIMEZONE
+    try:
+        return moment.astimezone(ZoneInfo(tz_name))
+    except (ZoneInfoNotFoundError, ValueError):
+        log.warning("unknown timezone %r on event %s; falling back to %s", tz_name, raw_event.get("id"), config.DEFAULT_TIMEZONE)
+        return moment.astimezone(ZoneInfo(config.DEFAULT_TIMEZONE))
 
 
 def normalize(raw_events: list[dict[str, Any]], *, now: datetime) -> tuple[list[Event], NormalizationCounters]:
@@ -167,6 +190,11 @@ def normalize(raw_events: list[dict[str, Any]], *, now: datetime) -> tuple[list[
         title = _clean(raw.get("name"))
         if not title:
             counters.no_title += 1
+            continue
+
+        if foreign := _declares_foreign_timezone(raw):
+            log.info("dropping %r: declares %s but the query region is Pacific", title, foreign)
+            counters.wrong_region += 1
             continue
 
         start_block = dates.get("start") or {}
