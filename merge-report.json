@@ -473,14 +473,6 @@
       "venue": "Keller Auditorium"
     },
     {
-      "dropped": "eventbrite:1979275712938",
-      "kept": "dopdx:17489898",
-      "start_at": "2026-08-07T19:30:00-07:00",
-      "title_dropped": "Dead Comics Society",
-      "title_kept": "Dead Comics Society",
-      "venue": "Framework"
-    },
-    {
       "dropped": "dopdx:17086929",
       "kept": "ticketmaster:Z7r9jZ1A7-t08",
       "start_at": "2026-08-07T20:00:00-07:00",
@@ -530,10 +522,10 @@
     },
     {
       "dropped": "pdxparent_markets:vancouver-farmers-market@2026-08-08",
-      "kept": "eventbrite:1988199312665",
+      "kept": "eventbrite:1988582517842",
       "start_at": "2026-08-08T09:00:00-07:00",
       "title_dropped": "Vancouver Farmers Market",
-      "title_kept": "Recorrido del mercado de agricultores del centro de Vancouver",
+      "title_kept": "по фермерскому рынку в центре Ванкувера",
       "venue": "Vancouver Farmers Market"
     },
     {
@@ -1161,14 +1153,6 @@
       "venue": "Dante's"
     },
     {
-      "dropped": "eventbrite:1936898097349",
-      "kept": "dopdx:17255665",
-      "start_at": "2026-08-20T22:00:00-07:00",
-      "title_dropped": "Roast Battle Portland",
-      "title_kept": "Roast Battle Portland",
-      "venue": "Funhouse Lounge"
-    },
-    {
       "dropped": "dopdx:17195984",
       "kept": "ticketmaster:Z7r9jZ1A7P-jM",
       "start_at": "2026-08-21T18:30:00-07:00",
@@ -1290,16 +1274,16 @@
     },
     {
       "dropped": "pdxparent_markets:vancouver-farmers-market@2026-08-22",
-      "kept": "eventbrite:1988199341752",
+      "kept": "eventbrite:1988582545926",
       "start_at": "2026-08-22T09:00:00-07:00",
       "title_dropped": "Vancouver Farmers Market",
-      "title_kept": "Recorrido del mercado de agricultores del centro de Vancouver",
+      "title_kept": "по фермерскому рынку в центре Ванкувера",
       "venue": "Vancouver Farmers Market"
     }
   ],
-  "event_count": 4223,
-  "floor_check": "4223 events against a 4223-event baseline",
-  "generated_at": "2026-07-27T15:33:14+00:00",
+  "event_count": 4249,
+  "floor_check": "4249 events against a 4223-event baseline",
+  "generated_at": "2026-07-27T15:58:23+00:00",
   "problems": [],
   "sources": [
     "calagator",
