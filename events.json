@@ -29834,7 +29834,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-08-04T18:30:00-07:00",
-      "summary": "EARLY START 6pm Doors6:30pm Lessons7:30pm Band",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
       "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-western-showdown-saloon-tickets/14248434",
       "title": "Two-Step Tuesday with Western Edition and Dance Lessons with Peggy",
       "venue": {
@@ -105330,6 +105330,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfJ3xK",
+      "image_url": "https://s1.ticketm.net/dam/c/7be/4e1e9428-29ec-401f-aa45-f1577614b7be_105421_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/eric-johanson-jack-london-revue-tickets/14992893",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 237.39,
+        "min": 31.39
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-05T20:00:00-07:00",
+      "summary": "Eric Johanson & his bandSould Out Presents: Eric Johanson and his band with special guest TBADoors: 7:00pmShow: 8:00pm Ages 21+. ------------------------------ Eric Johanson blends sharp songwriting with a deep connection to the guitar, creating music thats dynamic, soulful, and rooted in a mix of rock, roots, blues, and modern influences. Whether channeling the swampy pulse of his New Orleans home or leaning into heavier, fuzz-laden textures, Johansons music strikes a balance between grit and finesse, power and restraint. As American Songwriter puts it, he displays his guitar prowess but within the borders of melodies and lyrics that push the boundaries of blues/rock searing guitar work, and persuasive songwriting.He has supported artists including The Record Company, Samantha Fish, Tab Benoit, Anders Osborne, and North Mississippi Allstars. His collaboration with Big Chief Monk Boudreaux resulted in a Grammy-nominated recording, further cementing his place within Louisianas living musical lineage.With a new studio album slated for 2026, Johanson continues to push modern blues into bold, unfiltered territoryexpanding the tradition without diluting its soul.--------------------------------JLR Seating Map Notes: For this show, you may reserve individual tables on the map pictured. Note that some tables have limited sightlines as noted. General Admission ticket holders note that seating and sightlines are limted and may be standing room only. All table reservations include admission.Instructions: For Table Reservations: Note the relative location of the stage and bar on the map. Then click a table number to see prices, or click Show All Tickets. Click the + button to add a specific table to your cart. For General Admission tickets: click the GA Standing area. Click the + button to add additional tickets.Click Agree",
+      "ticket_url": "https://www.ticketweb.com/event/eric-johanson-jack-london-revue-tickets/14992893",
+      "title": "ERIC JOHANSON",
+      "venue": {
+        "address": "529 SW 4th Ave.",
+        "city": "Portland",
+        "latitude": 45.519452,
+        "longitude": -122.676291,
+        "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1AfJ6OS",
       "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -131514,5 +131545,5 @@
       }
     }
   ],
-  "generated_at": "2026-07-27T20:40:51+00:00"
+  "generated_at": "2026-07-27T20:42:03+00:00"
 }
