@@ -3,3 +3,15 @@
 DerivedData/
 *.xcuserstate
 xcuserdata/
+
+# Pipeline
+pipeline/.env.local
+pipeline/.venv/
+pipeline/dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local worktrees for the publishing branches
+gh-pages-worktree/
+archive-worktree/

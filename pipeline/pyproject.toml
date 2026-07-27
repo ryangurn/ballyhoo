@@ -1,0 +1,28 @@
+[project]
+name = "sociallist-pipeline"
+version = "0.1.0"
+description = "Aggregates Portland community events into a static JSON feed for the sociallist iOS app"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32",
+    "python-dateutil>=2.9",
+    "jsonschema>=4.23",
+    "beautifulsoup4>=4.12",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+    "responses>=0.25",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pipeline"]
+
+[tool.pytest.ini_options]
+testpaths = ["src/pipeline"]
+pythonpath = ["src"]

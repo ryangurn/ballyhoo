@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ryangurn.github.io/sociallist/schema/per-source.schema.json",
+  "title": "PerSourceFeed",
+  "description": "One source's unmerged output, published at /sources/<source_id>.json. A supported public contract, not a pipeline internal.",
+  "type": "object",
+  "required": ["generated_at", "source_id", "status", "events"],
+  "additionalProperties": true,
+  "properties": {
+    "generated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "UTC timestamp of the source workflow run that produced this file. Distinct from the merge run's timestamp."
+    },
+    "source_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$",
+      "description": "Matches the URL path segment and every contained event's source.id."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["ok", "stale", "error"],
+      "description": "Clients must tolerate unrecognized values by treating them as unknown rather than failing to decode."
+    },
+    "events": {
+      "type": "array",
+      "items": { "$ref": "event.schema.json" }
+    }
+  }
+}

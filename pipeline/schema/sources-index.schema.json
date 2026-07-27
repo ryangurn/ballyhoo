@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ryangurn.github.io/sociallist/schema/sources-index.schema.json",
+  "title": "SourcesIndex",
+  "description": "Per-source health metadata published at /sources/index.json. Lets the app's Sources tab report honest per-source status instead of inferring the source list from whichever events happen to be in the feed.",
+  "type": "object",
+  "required": ["generated_at", "sources"],
+  "additionalProperties": true,
+  "properties": {
+    "generated_at": { "type": "string", "format": "date-time" },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_id", "status"],
+        "additionalProperties": true,
+        "properties": {
+          "source_id": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+          "name": { "type": ["string", "null"] },
+          "last_run_at": {
+            "type": ["string", "null"],
+            "format": "date-time",
+            "description": "Null when the source has never completed a successful run."
+          },
+          "event_count": {
+            "type": ["integer", "null"],
+            "minimum": 0,
+            "description": "Count in this source's own file, before cross-source dedup and before the client's date filtering. Will legitimately exceed what the app displays."
+          },
+          "status": { "type": "string", "enum": ["ok", "stale", "error"] },
+          "url": { "type": ["string", "null"], "format": "uri" }
+        }
+      }
+    }
+  }
+}

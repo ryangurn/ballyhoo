@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ryangurn.github.io/sociallist/schema/events.schema.json",
+  "title": "EventFeed",
+  "description": "The merged, canonical feed published at /events.json. This is the only artifact the iOS client reads.",
+  "type": "object",
+  "required": ["generated_at", "events"],
+  "additionalProperties": true,
+  "properties": {
+    "generated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "UTC timestamp of the merge run that produced this feed. Surfaced in the app's Sources tab as feed freshness."
+    },
+    "events": {
+      "type": "array",
+      "items": { "$ref": "event.schema.json" }
+    }
+  }
+}

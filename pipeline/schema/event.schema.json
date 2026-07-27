@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ryangurn.github.io/sociallist/schema/event.schema.json",
+  "title": "Event",
+  "description": "A single normalized event. Mirrors the Swift `Event` type in sociallist/Models/Event.swift. Additional properties are permitted so pipeline-side additions never break shipped clients.",
+  "type": "object",
+  "required": ["id", "title", "start_at", "price", "source"],
+  "additionalProperties": true,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable across runs. Composed as '<source_id>:<upstream_id>'. Client bookmarks key off this.",
+      "pattern": "^[a-z0-9_]+:.+$",
+      "minLength": 3
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "summary": { "type": ["string", "null"] },
+    "start_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO-8601 with explicit offset. Portland local time resolves to -07:00 or -08:00."
+    },
+    "end_at": { "type": ["string", "null"], "format": "date-time" },
+    "is_all_day": { "type": "boolean", "default": false },
+    "venue": { "$ref": "#/$defs/venue" },
+    "categories": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/category" },
+      "default": []
+    },
+    "price": { "$ref": "#/$defs/price" },
+    "image_url": { "type": ["string", "null"], "format": "uri" },
+    "listing_url": { "type": ["string", "null"], "format": "uri" },
+    "ticket_url": { "type": ["string", "null"], "format": "uri" },
+    "organizer": { "type": ["string", "null"] },
+    "source": { "$ref": "#/$defs/source" },
+    "merged_sources": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Populated by the merge step when an event was deduplicated across sources. Every contributing source_id is listed so no attribution is lost."
+    }
+  },
+  "$defs": {
+    "category": {
+      "type": "string",
+      "description": "Must match a case of the Swift Category enum. Unknown values would fail to decode client-side.",
+      "enum": [
+        "music", "arts", "food", "community", "tech", "outdoors", "family",
+        "market", "nightlife", "civic", "sports", "film", "literary", "wellness"
+      ]
+    },
+    "venue": {
+      "type": ["object", "null"],
+      "required": ["name"],
+      "additionalProperties": true,
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "address": { "type": ["string", "null"] },
+        "city": { "type": ["string", "null"] },
+        "latitude": { "type": ["number", "null"], "minimum": -90, "maximum": 90 },
+        "longitude": { "type": ["number", "null"], "minimum": -180, "maximum": 180 }
+      }
+    },
+    "price": {
+      "type": "object",
+      "required": ["is_free"],
+      "additionalProperties": true,
+      "properties": {
+        "is_free": { "type": "boolean" },
+        "min": { "type": ["number", "null"], "minimum": 0 },
+        "max": { "type": ["number", "null"], "minimum": 0 },
+        "currency": { "type": ["string", "null"], "default": "USD" }
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": ["id", "name"],
+      "additionalProperties": true,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+        "name": { "type": "string", "minLength": 1 },
+        "url": { "type": ["string", "null"], "format": "uri" }
+      }
+    }
+  }
+}
