@@ -132,7 +132,7 @@
 - [ ] 12.2 Dispatch `source-calagator` with `dry_run: false`; confirm `sources/calagator.json` lands on `gh-pages` and `sources/index.json` updates the Calagator entry; confirm the merge workflow is triggered automatically by `workflow_run`; confirm `events.json` updates
 - [ ] 12.3 Run the Ticketmaster source locally with `--histogram` and confirm it reproduces the pre-implementation baseline: ~723 events at a 365-day / 25-mile scope, distributed roughly Music 64%, Arts & Theatre 16%, Sports 10%, Miscellaneous 3%, with Family and Film empty. A large divergence means the fetcher is built wrong, not that Portland changed
 - [ ] 12.4 Confirm `page.totalElements` is comfortably below the 900 guard threshold, and record the current headroom against the 1,000-item ceiling
-- [ ] 12.5 Confirm the resulting merged feed size is reasonable for a mobile download (expect roughly 750 KB uncompressed and ~110 KB gzipped; check the actual gzipped transfer size GitHub Pages serves)
+- [ ] 12.5 Confirm the resulting merged feed size is reasonable for a mobile download (with five sources live it measures 2.4 MB uncompressed and 473 KB gzipped; check the actual gzipped transfer size GitHub Pages serves)
 - [ ] 12.6 Dispatch `source-ticketmaster` with `dry_run: true`; sanity-check the artifact
 - [ ] 12.7 Dispatch `source-ticketmaster` with `dry_run: false`; confirm parallel behavior to 12.2
 - [ ] 12.8 Fetch the merged feed twice back-to-back with `curl -I -H 'If-None-Match: <etag>'`; confirm `304 Not Modified` on the second call
@@ -159,7 +159,7 @@
 - [ ] 14.1 Update top-level `README.md` with a "Data" section pointing at the pipeline directory, the merged feed URL, and the per-source URLs
 - [ ] 14.2 Add "How to add a new source" section to `pipeline/README.md` covering: create `pipeline/sources/<new-source>/` (fetch, normalize, `__main__.py`, tests, README), add `.github/workflows/source-<new-source>.yml` (copy Calagator's YAML as a template), register in `pipeline/sources/__init__.py`, done
 - [ ] 14.3 Document the archive in `pipeline/README.md`: branch layout, both retention tiers, raw URL scheme, the gunzip read one-liner, and how to restore a historical snapshot as the live feed
-- [ ] 14.4 Record the deferred archive-compaction work explicitly — what it does (orphan-commit rewrite of the `archive` branch, force-push), why it is needed (pruning bounds the working tree but not git history), and the ~15–18 month runway before it matters
+- [ ] 14.4 Record the deferred archive-compaction work explicitly — what it does (orphan-commit rewrite of the `archive` branch, force-push), why it is needed (pruning bounds the working tree but not git history), and the ~6–8 month runway before it matters — measured against the live `archive` branch at a 473 KB gzipped feed rather than estimated, so note the feed size the figure depends on
 - [ ] 14.5 File follow-up OpenSpec change notes for Eventbrite, portland.gov, Multnomah County Library, Oregon Metro, and per-venue scrapers (each becomes its own proposal that adds one source module and one workflow file)
 
 ## 15. Observability soak
@@ -173,4 +173,4 @@
 - [ ] 15.3 Deliberately return zero events from a source and confirm its per-source file is not overwritten (last-known-good preservation at source level)
 - [ ] 15.4 Deliberately return dramatically fewer events across all sources and confirm the merge floor check refuses to publish without `override_floor: true`
 - [ ] 15.5 After the soak week, confirm recent-tier pruning actually fired — snapshots older than the retention window are gone from the working tree while the daily tier is intact
-- [ ] 15.6 Measure the `archive` branch's on-disk size after a week and extrapolate the growth rate; compare against the ~11 MB/day estimate and revise the compaction timeline if it is materially off
+- [ ] 15.6 Measure the `archive` branch's on-disk size after a week and extrapolate the growth rate; compare against the ~23 MB/day measured at a 473 KB gzipped feed and revise the compaction timeline if it is materially off
