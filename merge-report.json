@@ -1,11 +1,949 @@
 {
-  "duplicates_merged": [],
-  "event_count": 886,
+  "duplicates_merged": [
+    {
+      "dropped": "dopdx:17416441",
+      "kept": "ticketmaster:Z7r9jZ1A7-zOb",
+      "start_at": "2026-08-08T13:30:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child - Click for showtimes",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:16997063",
+      "kept": "ticketmaster:Z7r9jZ1A7-NbI",
+      "start_at": "2026-08-12T19:00:00-07:00",
+      "title_dropped": "SOLD OUT: Jesse Welles",
+      "title_kept": "Jesse Welles",
+      "venue": "Pioneer Courthouse Square"
+    },
+    {
+      "dropped": "dopdx:17431933",
+      "kept": "ticketmaster:vvG1HZ_6KxFGim",
+      "start_at": "2026-08-12T19:00:00-07:00",
+      "title_dropped": "Portland Fire vs Minnesota Lynx",
+      "title_kept": "Portland Fire vs. Minnesota Lynx",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "dopdx:17144280",
+      "kept": "ticketmaster:rZ7HnEZ1AfOdoS",
+      "start_at": "2026-07-28T19:30:00-07:00",
+      "title_dropped": "Edge of Paradise & Starkill with Vintersea & Before The Fallen",
+      "title_kept": "EDGE OF PARADISE & STARKILL with Vintersea & Before The Fallen",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17145174",
+      "kept": "ticketmaster:Z7r9jZ1A70bbo",
+      "start_at": "2026-07-28T20:00:00-07:00",
+      "title_dropped": "SOLD OUT: James McMurtry and the Martial Law Review",
+      "title_kept": "James McMurtry w/ Bettysoo",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "dopdx:17332395",
+      "kept": "ticketmaster:Z7r9jZ1A709GS",
+      "start_at": "2026-07-29T20:00:00-07:00",
+      "title_dropped": "Wu Lyf",
+      "title_kept": "Wu Lyf",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "dopdx:17401445",
+      "kept": "ticketmaster:rZ7HnEZ1Af0PPN",
+      "start_at": "2026-07-29T20:30:00-07:00",
+      "title_dropped": "Micah and The Mirrors with Masters of Karate, Advisor, & Stunt Drummer",
+      "title_kept": "MICAH AND THE MIRRORS with Masters Of Karate, Advisor, & Stunt Drummer",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17517364",
+      "kept": "ticketmaster:rZ7HnEZ1AfFa3f",
+      "start_at": "2026-07-30T19:30:00-07:00",
+      "title_dropped": "FEM&M X ASTRID – EMO GIRLS VS RAVE GIRLS with MilkyPossum and Charloux",
+      "title_kept": "FEM&M & ASTRID - EMO GIRLS VS RAVE GIRLS with MilkyPossum and Charloux",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "dopdx:17446350",
+      "kept": "ticketmaster:rZ7HnEZ1Af0vAS",
+      "start_at": "2026-07-30T19:00:00-07:00",
+      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17022098",
+      "kept": "ticketmaster:vvG1HZ_ArHADIA",
+      "start_at": "2026-07-30T19:30:00-07:00",
+      "title_dropped": "Jason Aldean: Songs About Us Tour 2026",
+      "title_kept": "Jason Aldean: Songs About Us Tour 2026",
+      "venue": "Cascades Amphitheater"
+    },
+    {
+      "dropped": "dopdx:17208095",
+      "kept": "ticketmaster:Z7r9jZ1A70tJ8",
+      "start_at": "2026-07-30T20:15:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Jeremiah Watkins",
+      "title_kept": "Modi",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17313344",
+      "kept": "ticketmaster:Z7r9jZ1A70tJ8",
+      "start_at": "2026-07-30T20:15:00-07:00",
+      "title_dropped": "Modi",
+      "title_kept": "Modi",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17431929",
+      "kept": "ticketmaster:vvG1HZ_6KNaGYp",
+      "start_at": "2026-07-31T19:00:00-07:00",
+      "title_dropped": "Portland Fire vs Indiana Fever",
+      "title_kept": "Portland Fire vs. Indiana Fever",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "dopdx:17269633",
+      "kept": "ticketmaster:rZ7HnEZ1Af-UjN",
+      "start_at": "2026-07-31T20:00:00-07:00",
+      "title_dropped": "LOWDOWN BRASS BAND w/ Argyle",
+      "title_kept": "LOWDOWN BRASS BAND w/ Argyle",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17508046",
+      "kept": "ticketmaster:rZ7HnEZ1AfFdxf",
+      "start_at": "2026-07-31T21:00:00-07:00",
+      "title_dropped": "80's Dance Night: Featuring Bands - The Upkeeps, Nyx Division, Chatterbox & Dj Set by Dj Narcissus",
+      "title_kept": "80'S DANCE NIGHT: featuring bands - The UpKeeps, Nyx Division, Chatterbox & DJ set by DJ Narcissus",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:16696556",
+      "kept": "ticketmaster:vvG1HZbz2ajbjF",
+      "start_at": "2026-08-01T19:00:00-07:00",
+      "title_dropped": "Megan Moroney with JP Saxe and Solon Holt",
+      "title_kept": "Megan Moroney: The Cloud 9 Tour",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "dopdx:17416435",
+      "kept": "ticketmaster:Z7r9jZ1A7-zOo",
+      "start_at": "2026-08-01T19:30:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:16657665",
+      "kept": "ticketmaster:Z7r9jZ1A7roZ9",
+      "start_at": "2026-08-01T19:30:00-07:00",
+      "title_dropped": "Portland Timbers vs Seattle Sounders FC",
+      "title_kept": "Portland Timbers vs. Seattle Sounders FC",
+      "venue": "Providence Park"
+    },
+    {
+      "dropped": "dopdx:17276998",
+      "kept": "ticketmaster:rZ7HnEZ1Afxe1K",
+      "start_at": "2026-08-01T20:00:00-07:00",
+      "title_dropped": "John Primer",
+      "title_kept": "JOHN PRIMER",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17431930",
+      "kept": "ticketmaster:vvG1HZ_6KxTHRt",
+      "start_at": "2026-08-02T12:30:00-07:00",
+      "title_dropped": "Portland Fire vs Los Angeles Sparks",
+      "title_kept": "Portland Fire vs. Los Angeles Sparks",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "dopdx:17416436",
+      "kept": "ticketmaster:Z7r9jZ1A7-zOK",
+      "start_at": "2026-08-02T13:00:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child - Click for showtimes",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17352810",
+      "kept": "ticketmaster:Z7r9jZ1A70tvs",
+      "start_at": "2026-08-02T20:00:00-07:00",
+      "title_dropped": "The Downside with Gianmarco Soresi and Russell Daniels Live!",
+      "title_kept": "The Downside with Gianmarco Soresi and Russell Daniels Live!",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "dopdx:17313391",
+      "kept": "ticketmaster:Z7r9jZ1A70ou3",
+      "start_at": "2026-08-02T20:00:00-07:00",
+      "title_dropped": "Bad Nerves",
+      "title_kept": "Bad Nerves",
+      "venue": "Revolution Hall - Portland"
+    },
+    {
+      "dropped": "dopdx:17573155",
+      "kept": "ticketmaster:rZ7HnEZ1AfFY-V",
+      "start_at": "2026-08-02T22:00:00-07:00",
+      "title_dropped": "Sinferno Cabaret",
+      "title_kept": "SINFERNO CABARET",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17252198",
+      "kept": "ticketmaster:Z7r9jZ1A7xbZN",
+      "start_at": "2026-08-03T20:00:00-07:00",
+      "title_dropped": "The Strike",
+      "title_kept": "The Strike w/ Kids That Fly",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "dopdx:17416437",
+      "kept": "ticketmaster:Z7r9jZ1A7-zOf",
+      "start_at": "2026-08-04T19:30:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17118881",
+      "kept": "ticketmaster:rZ7HnEZ1Afr6fN",
+      "start_at": "2026-08-04T20:00:00-07:00",
+      "title_dropped": "Mc Chris with Mega Ran and Cartoon Violence",
+      "title_kept": "MC CHRIS with Mega Ran and Cartoon Violence",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17356248",
+      "kept": "ticketmaster:Z7r9jZ1A70MPy",
+      "start_at": "2026-08-04T20:00:00-07:00",
+      "title_dropped": "Anthony Green - This Tour Won't Save You",
+      "title_kept": "Anthony Green",
+      "venue": "Polaris Hall"
+    },
+    {
+      "dropped": "dopdx:17416438",
+      "kept": "ticketmaster:Z7r9jZ1A7-zO4",
+      "start_at": "2026-08-05T19:30:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17152923",
+      "kept": "ticketmaster:vvG1HZ_6EERjpW",
+      "start_at": "2026-08-05T20:00:00-07:00",
+      "title_dropped": "Benson Boone",
+      "title_kept": "Benson Boone: Wanted Man Tour",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "dopdx:16997052",
+      "kept": "ticketmaster:Z7r9jZ1A7-xJv",
+      "start_at": "2026-08-06T19:00:00-07:00",
+      "title_dropped": "Muna",
+      "title_kept": "Muna",
+      "venue": "Pioneer Courthouse Square"
+    },
+    {
+      "dropped": "dopdx:17431931",
+      "kept": "ticketmaster:vvG1HZ_6KxkHit",
+      "start_at": "2026-08-06T19:00:00-07:00",
+      "title_dropped": "Portland Fire vs Toronto Tempo",
+      "title_kept": "Portland Fire vs. Toronto Tempo",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "dopdx:17533414",
+      "kept": "ticketmaster:rZ7HnEZ1Af-xAS",
+      "start_at": "2026-08-06T19:00:00-07:00",
+      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17416439",
+      "kept": "ticketmaster:Z7r9jZ1A7-zOp",
+      "start_at": "2026-08-06T19:30:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17641124",
+      "kept": "ticketmaster:rZ7HnEZ1AfaVfV",
+      "start_at": "2026-08-06T21:00:00-07:00",
+      "title_dropped": "Beggars Canyon with Arthur Buezo & It&I",
+      "title_kept": "BEGGARS CANYON with Arthur Buezo & it&i",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:16997251",
+      "kept": "ticketmaster:vvG1HZ_A2PvOSY",
+      "start_at": "2026-08-07T19:00:00-07:00",
+      "title_dropped": "Ali Wong Live",
+      "title_kept": "Ali Wong Live",
+      "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "dopdx:16997251",
+      "kept": "ticketmaster:Z7r9jZ1A7-84N",
+      "start_at": "2026-08-07T19:00:00-07:00",
+      "title_dropped": "Ali Wong Live",
+      "title_kept": "Ali Wong",
+      "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "dopdx:17303537",
+      "kept": "ticketmaster:Z7r9jZ1A70YZ7",
+      "start_at": "2026-08-07T19:00:00-07:00",
+      "title_dropped": "Godfrey",
+      "title_kept": "Godfrey",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17313346",
+      "kept": "ticketmaster:Z7r9jZ1A70YZ7",
+      "start_at": "2026-08-07T19:00:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Sophie Buddle",
+      "title_kept": "Godfrey",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17416440",
+      "kept": "ticketmaster:Z7r9jZ1A7-zO9",
+      "start_at": "2026-08-07T19:30:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17086929",
+      "kept": "ticketmaster:Z7r9jZ1A7-t08",
+      "start_at": "2026-08-07T20:00:00-07:00",
+      "title_dropped": "The Pretty Reckless - Dear God Tour",
+      "title_kept": "The Pretty Reckless",
+      "venue": "McMenamins Crystal Ballroom"
+    },
+    {
+      "dropped": "dopdx:17505109",
+      "kept": "ticketmaster:rZ7HnEZ1AfFd3f",
+      "start_at": "2026-08-07T20:00:00-07:00",
+      "title_dropped": "Nestor Torres",
+      "title_kept": "NESTOR TORRES",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17573156",
+      "kept": "ticketmaster:rZ7HnEZ1AfFzJf",
+      "start_at": "2026-08-07T21:00:00-07:00",
+      "title_dropped": "An Evening of Old School Punk: Mass Nerder (Descendents/All), We Bite (Misfits) & Sick Boys (Social Distrortion)",
+      "title_kept": "AN EVENING OF OLD SCHOOL PUNK: Mass Nerder (Descendents/ALL), We Bite (Misfits) & Sick Boys (Social Distortion)",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17303538",
+      "kept": "ticketmaster:Z7r9jZ1A70YZe",
+      "start_at": "2026-08-07T21:15:00-07:00",
+      "title_dropped": "Godfrey",
+      "title_kept": "Godfrey",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17313347",
+      "kept": "ticketmaster:Z7r9jZ1A70YZe",
+      "start_at": "2026-08-07T21:15:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Sophie Buddle",
+      "title_kept": "Godfrey",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17339137",
+      "kept": "ticketmaster:rZ7HnEZ1Af03pd",
+      "start_at": "2026-08-07T23:55:00-07:00",
+      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17431932",
+      "kept": "ticketmaster:vvG1HZ_6KxyjRC",
+      "start_at": "2026-08-08T17:30:00-07:00",
+      "title_dropped": "Portland Fire vs Seattle Storm",
+      "title_kept": "Portland Fire vs. Seattle Storm",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "dopdx:17262313",
+      "kept": "ticketmaster:vvG1HZ_kV9SYlE",
+      "start_at": "2026-08-08T19:00:00-07:00",
+      "title_dropped": "Ali Wong Live",
+      "title_kept": "Ali Wong Live",
+      "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "dopdx:17262313",
+      "kept": "ticketmaster:Z7r9jZ1A7-I8N",
+      "start_at": "2026-08-08T19:00:00-07:00",
+      "title_dropped": "Ali Wong Live",
+      "title_kept": "Ali Wong",
+      "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "dopdx:17303539",
+      "kept": "ticketmaster:Z7r9jZ1A70YZd",
+      "start_at": "2026-08-08T19:00:00-07:00",
+      "title_dropped": "Godfrey",
+      "title_kept": "Godfrey",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17313348",
+      "kept": "ticketmaster:Z7r9jZ1A70YZd",
+      "start_at": "2026-08-08T19:00:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Sophie Buddle",
+      "title_kept": "Godfrey",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17593554",
+      "kept": "ticketmaster:rZ7HnEZ1Afa8PV",
+      "start_at": "2026-08-08T19:30:00-07:00",
+      "title_dropped": "Within The Pyre with Dear Assassin, Piranhapuss, Before The Fallen, & Rustmine",
+      "title_kept": "WITHIN THE PYRE with Dear Assassin, Piranhapuss, Before The Fallen, & Rustmine",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17505110",
+      "kept": "ticketmaster:rZ7HnEZ1AfFve7",
+      "start_at": "2026-08-08T20:00:00-07:00",
+      "title_dropped": "Max Hatt & Edda Glass",
+      "title_kept": "MAX HATT & EDDA GLASS",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17303540",
+      "kept": "ticketmaster:Z7r9jZ1A70YZA",
+      "start_at": "2026-08-08T21:30:00-07:00",
+      "title_dropped": "Godfrey",
+      "title_kept": "Godfrey",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17313349",
+      "kept": "ticketmaster:Z7r9jZ1A70YZA",
+      "start_at": "2026-08-08T21:30:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Sophie Buddle",
+      "title_kept": "Godfrey",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17602754",
+      "kept": "ticketmaster:rZ7HnEZ1Afv3P7",
+      "start_at": "2026-08-08T23:30:00-07:00",
+      "title_dropped": "Smash Disco~Glam~Metal~Punk-Hiphop",
+      "title_kept": "SMASH disco~glam~metal~punk-hiphop",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17416442",
+      "kept": "ticketmaster:Z7r9jZ1A7-zOO",
+      "start_at": "2026-08-09T13:00:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child - Click for showtimes",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17303541",
+      "kept": "ticketmaster:Z7r9jZ1A70YZk",
+      "start_at": "2026-08-09T19:00:00-07:00",
+      "title_dropped": "Godfrey",
+      "title_kept": "Godfrey",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17054044",
+      "kept": "ticketmaster:Z7r9jZ1A7--Gx",
+      "start_at": "2026-08-09T19:15:00-07:00",
+      "title_dropped": "Leagues Cup - Club America at Portland Timbers",
+      "title_kept": "Portland Timbers vs. Club America",
+      "venue": "Providence Park"
+    },
+    {
+      "dropped": "dopdx:17327056",
+      "kept": "ticketmaster:Z7r9jZ1A70YZk",
+      "start_at": "2026-08-09T19:00:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Charles Engle",
+      "title_kept": "Godfrey",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17260782",
+      "kept": "ticketmaster:Z7r9jZ1A7x9Jk",
+      "start_at": "2026-08-09T20:00:00-07:00",
+      "title_dropped": "Yard Act",
+      "title_kept": "Yard Act",
+      "venue": "Revolution Hall - Portland"
+    },
+    {
+      "dropped": "dopdx:17521112",
+      "kept": "ticketmaster:rZ7HnEZ1AfF84f",
+      "start_at": "2026-08-09T20:00:00-07:00",
+      "title_dropped": "River Spell",
+      "title_kept": "RIVER SPELL",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17544352",
+      "kept": "ticketmaster:rZ7HnEZ1AfFYq7",
+      "start_at": "2026-08-09T22:00:00-07:00",
+      "title_dropped": "Sinferno Cabaret",
+      "title_kept": "SINFERNO CABARET",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17246818",
+      "kept": "ticketmaster:Z7r9jZ1A7x414",
+      "start_at": "2026-08-11T19:00:00-07:00",
+      "title_dropped": "Comedy Bang! Bang! Ground Beefing Tour 2026 (Early Show)",
+      "title_kept": "Comedy Bang! Bang!",
+      "venue": "Revolution Hall - Portland"
+    },
+    {
+      "dropped": "dopdx:17416443",
+      "kept": "ticketmaster:Z7r9jZ1A7-zOx",
+      "start_at": "2026-08-11T19:30:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17360501",
+      "kept": "ticketmaster:vvG1HZ_1RbHuuU",
+      "start_at": "2026-08-11T19:30:00-07:00",
+      "title_dropped": "Not For Radio - A Summer In The Forest: North America Tour",
+      "title_kept": "Not for Radio - In The Forest: North America Tour",
+      "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "dopdx:17360501",
+      "kept": "ticketmaster:Z7r9jZ1A70bqa",
+      "start_at": "2026-08-11T19:30:00-07:00",
+      "title_dropped": "Not For Radio - A Summer In The Forest: North America Tour",
+      "title_kept": "Not for Radio - In The Forest: North America Tour",
+      "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "dopdx:17637716",
+      "kept": "ticketmaster:rZ7HnEZ1AfaVGf",
+      "start_at": "2026-08-11T20:00:00-07:00",
+      "title_dropped": "Chris O'leary Band",
+      "title_kept": "CHRIS O'LEARY BAND",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17416444",
+      "kept": "ticketmaster:Z7r9jZ1A7-zON",
+      "start_at": "2026-08-12T19:30:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:16999198",
+      "kept": "ticketmaster:Z7r9jZ1A709GM",
+      "start_at": "2026-08-12T20:00:00-07:00",
+      "title_dropped": "SOLD OUT: Like a Star: Celebrating 20 Years of Corinne Bailey Rae",
+      "title_kept": "Like a Star: Celebrating 20 Years of Corinne Bailey Rae",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "dopdx:17593555",
+      "kept": "ticketmaster:rZ7HnEZ1AfafZV",
+      "start_at": "2026-08-12T20:00:00-07:00",
+      "title_dropped": "Botched Burial with Gorestorm Massacre, at Peace, Berator, & a Live Wrestling Performance by The Lucha Project",
+      "title_kept": "BOTCHED BURIAL with Gorestorm Massacre, At Peace, Berator, & a live wrestling performance by The Lucha Project",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17493172",
+      "kept": "ticketmaster:rZ7HnEZ1Af0vAd",
+      "start_at": "2026-08-13T19:00:00-07:00",
+      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17416445",
+      "kept": "ticketmaster:Z7r9jZ1A7-zO0",
+      "start_at": "2026-08-13T19:30:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17327057",
+      "kept": "ticketmaster:Z7r9jZ1A70YZ8",
+      "start_at": "2026-08-13T19:30:00-07:00",
+      "title_dropped": "Joe List",
+      "title_kept": "Joe List",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17392358",
+      "kept": "ticketmaster:Z7r9jZ1A70YZ8",
+      "start_at": "2026-08-13T19:30:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Ron Taylor",
+      "title_kept": "Joe List",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17631414",
+      "kept": "ticketmaster:rZ7HnEZ1AfasvV",
+      "start_at": "2026-08-13T20:00:00-07:00",
+      "title_dropped": "Grandifolia with Lo.Quality, Ded Electric, Sodabox, & Passengers",
+      "title_kept": "LO.QUALITY with Sodabox, Grandifolia, Ded Electric, & Passengers",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17416446",
+      "kept": "ticketmaster:Z7r9jZ1A7-zOP",
+      "start_at": "2026-08-14T13:00:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child - Click for showtimes",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17327058",
+      "kept": "ticketmaster:Z7r9jZ1A70YZ3",
+      "start_at": "2026-08-14T19:00:00-07:00",
+      "title_dropped": "Joe List",
+      "title_kept": "Joe List",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17392359",
+      "kept": "ticketmaster:Z7r9jZ1A70YZ3",
+      "start_at": "2026-08-14T19:00:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Ron Taylor",
+      "title_kept": "Joe List",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17346524",
+      "kept": "ticketmaster:Z7r9jZ1A70-0K",
+      "start_at": "2026-08-14T20:00:00-07:00",
+      "title_dropped": "Gillian Welch & David Rawlings play Grateful Dead acoustic Reckoning",
+      "title_kept": "Gillian Welch and David Rawlings",
+      "venue": "Revolution Hall - Portland"
+    },
+    {
+      "dropped": "dopdx:17262314",
+      "kept": "ticketmaster:Z7r9jZ1A7-Mbz",
+      "start_at": "2026-08-14T20:00:00-07:00",
+      "title_dropped": "Bronco: El Gran Baile Tour",
+      "title_kept": "Bronco",
+      "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "dopdx:17327059",
+      "kept": "ticketmaster:Z7r9jZ1A70YZo",
+      "start_at": "2026-08-14T21:15:00-07:00",
+      "title_dropped": "Joe List",
+      "title_kept": "Joe List",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17392360",
+      "kept": "ticketmaster:Z7r9jZ1A70YZo",
+      "start_at": "2026-08-14T21:15:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Ron Taylor",
+      "title_kept": "Joe List",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17339138",
+      "kept": "ticketmaster:rZ7HnEZ1Af03fd",
+      "start_at": "2026-08-14T23:55:00-07:00",
+      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17416447",
+      "kept": "ticketmaster:Z7r9jZ1A7-zOE",
+      "start_at": "2026-08-15T13:30:00-07:00",
+      "title_dropped": "Harry Potter and the Cursed Child - Click for showtimes",
+      "title_kept": "Harry Potter and the Cursed Child (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:16843345",
+      "kept": "ticketmaster:Z7r9jZ1A7Ox_K",
+      "start_at": "2026-08-15T17:45:00-07:00",
+      "title_dropped": "Orlando Pride at Portland Thorns",
+      "title_kept": "Portland Thorns FC vs. Orlando Pride",
+      "venue": "Providence Park"
+    },
+    {
+      "dropped": "dopdx:17327060",
+      "kept": "ticketmaster:Z7r9jZ1A70YZa",
+      "start_at": "2026-08-15T19:00:00-07:00",
+      "title_dropped": "Joe List",
+      "title_kept": "Joe List",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17343285",
+      "kept": "ticketmaster:Z7r9jZ1A70bfk",
+      "start_at": "2026-08-15T19:00:00-07:00",
+      "title_dropped": "Anees",
+      "title_kept": "anees",
+      "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "dopdx:17392361",
+      "kept": "ticketmaster:Z7r9jZ1A70YZa",
+      "start_at": "2026-08-15T19:00:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Ron Taylor",
+      "title_kept": "Joe List",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17613214",
+      "kept": "ticketmaster:rZ7HnEZ1Afa-37",
+      "start_at": "2026-08-15T20:00:00-07:00",
+      "title_dropped": "Barnaby Jones with Nervous State, Too Close for Comfort, Interstate, & The Kieth's",
+      "title_kept": "BARNABY JONES with Nervous State, Too Close For Comfort, Interstate, & The Kieth's",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17232002",
+      "kept": "ticketmaster:Z7r9jZ1A709Gz",
+      "start_at": "2026-08-15T20:00:00-07:00",
+      "title_dropped": "It’s Probably Nothing...",
+      "title_kept": "Chris Ramsay Presents: It???s Probably Nothing...",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "dopdx:17327061",
+      "kept": "ticketmaster:Z7r9jZ1A70YZF",
+      "start_at": "2026-08-15T21:45:00-07:00",
+      "title_dropped": "Joe List",
+      "title_kept": "Joe List",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17392362",
+      "kept": "ticketmaster:Z7r9jZ1A70YZF",
+      "start_at": "2026-08-15T21:45:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Ron Taylor",
+      "title_kept": "Joe List",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17610058",
+      "kept": "ticketmaster:rZ7HnEZ1AfZ-_V",
+      "start_at": "2026-08-15T22:30:00-07:00",
+      "title_dropped": "Burly Q Revue",
+      "title_kept": "BURLY-Q REVUE",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:16997079",
+      "kept": "ticketmaster:Z7r9jZ1A7-boV",
+      "start_at": "2026-08-16T17:45:00-07:00",
+      "title_dropped": "Acid Bath",
+      "title_kept": "Acid Bath w/ YOB",
+      "venue": "Pioneer Courthouse Square"
+    },
+    {
+      "dropped": "dopdx:16762181",
+      "kept": "ticketmaster:rZ7HnEZ1AfFAPf",
+      "start_at": "2026-08-16T19:00:00-07:00",
+      "title_dropped": "Church Of Hive",
+      "title_kept": "LYNAE VANEE",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "dopdx:17510705",
+      "kept": "ticketmaster:rZ7HnEZ1AfFAPf",
+      "start_at": "2026-08-16T19:00:00-07:00",
+      "title_dropped": "Lynae Vanee",
+      "title_kept": "LYNAE VANEE",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "dopdx:17315883",
+      "kept": "ticketmaster:rZ7HnEZ1AfFYjV",
+      "start_at": "2026-08-16T22:00:00-07:00",
+      "title_dropped": "Sinferno Cabaret",
+      "title_kept": "SINFERNO CABARET",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17166257",
+      "kept": "ticketmaster:vvG1HZ_6RoO2Fg",
+      "start_at": "2026-08-18T19:30:00-07:00",
+      "title_dropped": "Daniel Caesar",
+      "title_kept": "Daniel Caesar - Son Of Spergy Tour",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "dopdx:17436449",
+      "kept": "ticketmaster:rZ7HnEZ1AfPN8d",
+      "start_at": "2026-08-18T20:00:00-07:00",
+      "title_dropped": "The Cybertronic Spree with Spaceman Bob",
+      "title_kept": "THE CYBERTRONIC SPREE with Spaceman Bob",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17201709",
+      "kept": "ticketmaster:Z7r9jZ1A7xF0I",
+      "start_at": "2026-08-19T19:00:00-07:00",
+      "title_dropped": "Hulvey - \"Could Be Tonight\" Tour",
+      "title_kept": "Hulvey",
+      "venue": "McMenamins Crystal Ballroom"
+    },
+    {
+      "dropped": "dopdx:17616534",
+      "kept": "ticketmaster:rZ7HnEZ1Afax_V",
+      "start_at": "2026-08-19T19:00:00-07:00",
+      "title_dropped": "KYNDAL the barefoot tour with Lila Dupont",
+      "title_kept": "KYNDAL the barefoot tour with Lila Dupont",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "dopdx:16657666",
+      "kept": "ticketmaster:Z7r9jZ1A7roZb",
+      "start_at": "2026-08-19T19:30:00-07:00",
+      "title_dropped": "San Diego FC at Portland Timbers",
+      "title_kept": "Portland Timbers vs. San Diego FC",
+      "venue": "Providence Park"
+    },
+    {
+      "dropped": "dopdx:17600841",
+      "kept": "ticketmaster:rZ7HnEZ1Af-xaN",
+      "start_at": "2026-08-20T19:00:00-07:00",
+      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17381510",
+      "kept": "ticketmaster:rZ7HnEZ1Af0wFK",
+      "start_at": "2026-08-20T21:00:00-07:00",
+      "title_dropped": "Dale Watson and His Lone Stars with Guests",
+      "title_kept": "DALE WATSON AND HIS LONE STARS with Guests",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17195984",
+      "kept": "ticketmaster:Z7r9jZ1A7P-jM",
+      "start_at": "2026-08-21T18:30:00-07:00",
+      "title_dropped": "Buffalo Traffic Jam with special guest",
+      "title_kept": "Buffalo Traffic Jam - Ages 16+",
+      "venue": "Topaz Farm"
+    },
+    {
+      "dropped": "dopdx:17097740",
+      "kept": "ticketmaster:Z7r9jZ1A7-wff",
+      "start_at": "2026-08-21T20:00:00-07:00",
+      "title_dropped": "SOLD OUT: Angine de Poitrine",
+      "title_kept": "Angine de Poitrine",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "dopdx:17593556",
+      "kept": "ticketmaster:rZ7HnEZ1AfaKbV",
+      "start_at": "2026-08-21T20:30:00-07:00",
+      "title_dropped": "Stainless - Album Release Show with Solicitor & Wizard Cage",
+      "title_kept": "STAINLESS - Album Release Show with Solicitor & Wizard Cage",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17339139",
+      "kept": "ticketmaster:rZ7HnEZ1Af03bK",
+      "start_at": "2026-08-21T23:55:00-07:00",
+      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:16843346",
+      "kept": "ticketmaster:Z7r9jZ1A7Ox_f",
+      "start_at": "2026-08-22T17:45:00-07:00",
+      "title_dropped": "Denver Summit at Portland Thorns",
+      "title_kept": "Portland Thorns FC vs. Denver Summit FC",
+      "venue": "Providence Park"
+    },
+    {
+      "dropped": "dopdx:17145549",
+      "kept": "ticketmaster:vvG1HZ_6J-b9W6",
+      "start_at": "2026-08-22T19:00:00-07:00",
+      "title_dropped": "Muse - The Wow! Signal Tour",
+      "title_kept": "Muse - The Wow! Signal Tour",
+      "venue": "Cascades Amphitheater"
+    },
+    {
+      "dropped": "dopdx:17436450",
+      "kept": "ticketmaster:rZ7HnEZ1AfP-aN",
+      "start_at": "2026-08-22T20:30:00-07:00",
+      "title_dropped": "Cancerslug with Dead Animal Assembly Plant & Guests",
+      "title_kept": "CANCERSLUG with Dead Animal Assembly Plant & Guests",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17637719",
+      "kept": "ticketmaster:rZ7HnEZ1AfZ-_7",
+      "start_at": "2026-08-22T22:30:00-07:00",
+      "title_dropped": "Burly Q Revue",
+      "title_kept": "BURLY-Q REVUE",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17431934",
+      "kept": "ticketmaster:vvG1HZ_6Kxaiis",
+      "start_at": "2026-08-23T16:00:00-07:00",
+      "title_dropped": "Portland Fire vs Washington Mystics",
+      "title_kept": "Portland Fire vs. Washington Mystics",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "dopdx:17515465",
+      "kept": "ticketmaster:rZ7HnEZ1Afk9v7",
+      "start_at": "2026-08-23T18:00:00-07:00",
+      "title_dropped": "Diseased and Depraved with Gouged, Fauvism, & Cybercrime",
+      "title_kept": "DISEASED AND DEPRAVED with Gouged, Fauvism, & Cybercrime",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17373912",
+      "kept": "ticketmaster:Z7r9jZ1A70YeF",
+      "start_at": "2026-08-23T19:30:00-07:00",
+      "title_dropped": "Nonpoint",
+      "title_kept": "Nonpoint w/ Spineshank",
+      "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "dopdx:17286129",
+      "kept": "ticketmaster:Z7r9jZ1A706vf",
+      "start_at": "2026-08-25T21:00:00-07:00",
+      "title_dropped": "Max Amini Live in Portland!",
+      "title_kept": "Max Amini",
+      "venue": "Newmark Theatre"
+    }
+  ],
+  "event_count": 1900,
   "floor_check": "insufficient history (0 run(s), need 3)",
-  "generated_at": "2026-07-27T08:32:20+00:00",
+  "generated_at": "2026-07-27T08:38:15+00:00",
   "problems": [],
   "sources": [
     "calagator",
+    "dopdx",
     "oregon_metro",
     "portland_parks",
     "ticketmaster"
