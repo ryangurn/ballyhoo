@@ -50,25 +50,27 @@
 ## 6. Source: Ticketmaster Discovery API
 
 - [ ] 6.1 Create `pipeline/sources/ticketmaster/` directory
-- [ ] 6.2 Add `config.py` holding the tunable knobs in one place: geo scope (`latlong=45.5152,-122.6784` plus radius), the fetch time window (default 90 days), and a `SEGMENTS` list that is `None` in v1 meaning "ingest all six segments"
-- [ ] 6.3 Add `fetch.py` that pages the Discovery API scoped to Portland, bounded by `startDateTime = now` and `endDateTime = now + window` rather than an arbitrary result-count cap
-- [ ] 6.4 When `SEGMENTS` is non-empty, filter using the `segmentName` query parameter (human-readable names, never opaque segment IDs) so a misconfiguration fails loudly instead of silently dropping a category
-- [ ] 6.5 Handle pagination to exhaustion within the time window, respecting the Discovery API's maximum page size and deep-pagination depth limit
-- [ ] 6.6 Handle rate limiting: back off on `429`, and log total request count per run so we can watch it against the 5,000/day quota
+- [ ] 6.2 Add `config.py` with the tunable knobs in one place: geo scope (`latlong=45.5152,-122.6784`, `radius=25`, `unit=miles`), fetch window (default 365 days), and the deep-pagination guard threshold (default 900)
+- [ ] 6.3 Add `fetch.py` issuing a single query bounded by `startDateTime = now` and `endDateTime = now + window`. Send **no** `segmentName` parameter — an exhaustive six-name allow-list measurably returns fewer events (503) than an unfiltered query (548), so any segment filter is lossy by construction
+- [ ] 6.4 Read `page.totalElements` from the first response and abort the run with an explicit error if it exceeds the guard threshold. The API refuses to serve past the 1,000th item (`size * page < 1000`), and truncation there is silent — a loud failure is the only way to notice
+- [ ] 6.5 Page through results using the maximum supported page size, stopping at exhaustion (measured volume is ~723 at a 365-day window, so a single query suffices; no segment- or date-slicing needed at current scale)
+- [ ] 6.6 Handle rate limiting: back off on `429`, and log request count plus the `Rate-Limit-Available` response header per run so quota consumption is visible against the 5,000/day allowance
 - [ ] 6.7 Add `normalize.py` producing `Event` records with `source_id = "ticketmaster"` and `id = f"ticketmaster:{upstream_id}"`; carry ticket URL through to `ticket_url`
-- [ ] 6.8 Add a segment/genre → `Category` mapping table covering all six segments: Music → `.music`, Sports → `.sports`, Arts & Theatre → `.arts`, Family → `.family`, Film → `.film`, Miscellaneous → `.community` (with genre-level refinement where a genre maps more precisely). Log unmapped genres for later triage
-- [ ] 6.9 Guard against the segment-vs-genre name collision: `Family` and `Miscellaneous` exist at both the segment and genre level (e.g. genre `KnvZfZ7vAkF` "Family" sits under the Film segment, meaning family films). Map on the correct classification level, never on bare name
-- [ ] 6.10 Add a `--histogram` flag that fetches, then prints a breakdown by segment and genre (event counts, sample titles, price ranges) and exits without normalizing or publishing — for data-driven tuning of the segment list and time window
-- [ ] 6.11 Add `__main__.py` orchestrating fetch → normalize → validate against `per-source.schema.json` → (unless `--dry-run`) publish `sources/ticketmaster.json`, update `sources/index.json`, then archive the snapshot as a non-fatal step
-- [ ] 6.12 Unit-test the Ticketmaster normalizer against captured sample responses in `pipeline/sources/ticketmaster/tests/fixtures/`, including at least one event from each of the six segments
-- [ ] 6.13 Add per-source `README.md` documenting the Discovery API ToS obligations, required "Powered by Ticketmaster" attribution, and the six-segment taxonomy with the segment-vs-genre collision gotcha
+- [ ] 6.8 Add a segment → `Category` mapping: Music → `.music`, Sports → `.sports`, Arts & Theatre → `.arts`, Family → `.family`, Film → `.film`, Miscellaneous → `.community`. Family and Film are currently empty in Portland but map them anyway so future inventory lands correctly
+- [ ] 6.9 Add genre-level refinement where a genre maps more precisely than its segment, and a sane fallback for genres that do not: the live data includes `Other` (23 of 200 sampled) and `Ice Shows`, neither of which has an obvious `Category`. Never drop an event for lacking a clean mapping; fall back to the segment's category and log the genre
+- [ ] 6.10 Guard against the segment-vs-genre name collision: `Family` and `Miscellaneous` exist at both levels (genre `KnvZfZ7vAkF` "Family" sits under the Film segment, meaning family films). Map on the correct classification level, never on bare name
+- [ ] 6.11 Add a `--histogram` flag that fetches, prints a breakdown by segment and genre with counts and sample titles, and exits without normalizing or publishing — the tool used to derive the current config, kept for re-tuning as volume shifts
+- [ ] 6.12 Add `__main__.py` orchestrating fetch → normalize → validate against `per-source.schema.json` → (unless `--dry-run`) publish `sources/ticketmaster.json`, update `sources/index.json`, then archive the snapshot as a non-fatal step
+- [ ] 6.13 Unit-test the Ticketmaster normalizer against captured sample responses in `pipeline/sources/ticketmaster/tests/fixtures/`, covering the four segments that actually appear (Music, Arts & Theatre, Sports, Miscellaneous) plus an `Other` genre and a missing-genre case
+- [ ] 6.14 Unit-test that the deep-pagination guard fires: feed a mocked response with `totalElements` above the threshold and assert the run aborts rather than truncating
+- [ ] 6.15 Add per-source `README.md` documenting the Discovery API ToS obligations, required "Powered by Ticketmaster" attribution, why no segment filter is sent, and the 1,000-item ceiling with date-slicing as the escape hatch
 
 ## 7. Merge workflow logic
 
 - [ ] 7.1 Create `pipeline/merge/` directory with `__main__.py` as the entrypoint
 - [ ] 7.2 Read every `sources/<source_id>.json` from the local `gh-pages` worktree; skip sources with no file (never-succeeded) and log them in the run report
 - [ ] 7.3 Add `dedupe.py` grouping candidate events by normalized venue name + start time bucket (±30 minutes); apply source preference (Ticketmaster wins for ticketed, Calagator wins otherwise); preserve both origins in `merged_sources`
-- [ ] 7.4 Emit a per-run merge log so we can audit false positives
+- [ ] 7.4 Emit a per-run merge log so we can audit false positives. Expect very few merges with these two sources — sampling shows Ticketmaster is almost entirely large touring acts while Calagator is community submissions, so they barely overlap. Resist over-tuning the heuristic against two sources that rarely collide; a later civic or venue source will exercise it properly
 - [ ] 7.5 Sort the final event list by `start_at` ascending
 - [ ] 7.6 Validate the assembled `events.json` against `pipeline/schema/events.schema.json`; validation failure exits non-zero
 - [ ] 7.7 Compute the floor check: compare current event count against the median of the last N successful merges (stored in `gh-pages/history.json`); refuse to publish if below the floor unless `--override-floor` is set
@@ -128,9 +130,9 @@
 
 - [ ] 12.1 Dispatch `source-calagator` with `dry_run: true`; download the artifact; sanity-check the candidate `sources/calagator.json`
 - [ ] 12.2 Dispatch `source-calagator` with `dry_run: false`; confirm `sources/calagator.json` lands on `gh-pages` and `sources/index.json` updates the Calagator entry; confirm the merge workflow is triggered automatically by `workflow_run`; confirm `events.json` updates
-- [ ] 12.3 Run the Ticketmaster source locally with `--histogram` against real Portland data; record the per-segment and per-genre breakdown
-- [ ] 12.4 Review the histogram and confirm the "all six segments" default is still the right call. Specifically check whether Film returns individual chain movie showtimes (high-volume noise) or only festivals and special screenings (genuinely community), and whether Sports volume is proportionate. Narrow `SEGMENTS` in `config.py` or tighten the time window if the data says otherwise
-- [ ] 12.5 Confirm the resulting merged feed size is reasonable for a mobile download (target well under 1 MB uncompressed; check the gzipped transfer size GitHub Pages actually serves)
+- [ ] 12.3 Run the Ticketmaster source locally with `--histogram` and confirm it reproduces the pre-implementation baseline: ~723 events at a 365-day / 25-mile scope, distributed roughly Music 64%, Arts & Theatre 16%, Sports 10%, Miscellaneous 3%, with Family and Film empty. A large divergence means the fetcher is built wrong, not that Portland changed
+- [ ] 12.4 Confirm `page.totalElements` is comfortably below the 900 guard threshold, and record the current headroom against the 1,000-item ceiling
+- [ ] 12.5 Confirm the resulting merged feed size is reasonable for a mobile download (expect roughly 750 KB uncompressed and ~110 KB gzipped; check the actual gzipped transfer size GitHub Pages serves)
 - [ ] 12.6 Dispatch `source-ticketmaster` with `dry_run: true`; sanity-check the artifact
 - [ ] 12.7 Dispatch `source-ticketmaster` with `dry_run: false`; confirm parallel behavior to 12.2
 - [ ] 12.8 Fetch the merged feed twice back-to-back with `curl -I -H 'If-None-Match: <etag>'`; confirm `304 Not Modified` on the second call
@@ -157,7 +159,7 @@
 - [ ] 14.1 Update top-level `README.md` with a "Data" section pointing at the pipeline directory, the merged feed URL, and the per-source URLs
 - [ ] 14.2 Add "How to add a new source" section to `pipeline/README.md` covering: create `pipeline/sources/<new-source>/` (fetch, normalize, `__main__.py`, tests, README), add `.github/workflows/source-<new-source>.yml` (copy Calagator's YAML as a template), register in `pipeline/sources/__init__.py`, done
 - [ ] 14.3 Document the archive in `pipeline/README.md`: branch layout, both retention tiers, raw URL scheme, the gunzip read one-liner, and how to restore a historical snapshot as the live feed
-- [ ] 14.4 Record the deferred archive-compaction work explicitly — what it does (orphan-commit rewrite of the `archive` branch, force-push), why it is needed (pruning bounds the working tree but not git history), and the ~8–10 month runway before it matters
+- [ ] 14.4 Record the deferred archive-compaction work explicitly — what it does (orphan-commit rewrite of the `archive` branch, force-push), why it is needed (pruning bounds the working tree but not git history), and the ~15–18 month runway before it matters
 - [ ] 14.5 File follow-up OpenSpec change notes for Eventbrite, portland.gov, Multnomah County Library, Oregon Metro, and per-venue scrapers (each becomes its own proposal that adds one source module and one workflow file)
 
 ## 15. Observability soak
@@ -171,4 +173,4 @@
 - [ ] 15.3 Deliberately return zero events from a source and confirm its per-source file is not overwritten (last-known-good preservation at source level)
 - [ ] 15.4 Deliberately return dramatically fewer events across all sources and confirm the merge floor check refuses to publish without `override_floor: true`
 - [ ] 15.5 After the soak week, confirm recent-tier pruning actually fired — snapshots older than the retention window are gone from the working tree while the daily tier is intact
-- [ ] 15.6 Measure the `archive` branch's on-disk size after a week and extrapolate the growth rate; compare against the ~20 MB/day estimate and revise the compaction timeline if it is materially off
+- [ ] 15.6 Measure the `archive` branch's on-disk size after a week and extrapolate the growth rate; compare against the ~11 MB/day estimate and revise the compaction timeline if it is materially off
