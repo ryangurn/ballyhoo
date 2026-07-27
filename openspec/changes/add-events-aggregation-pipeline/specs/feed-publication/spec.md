@@ -135,12 +135,17 @@ Every published artifact — the merged feed and every per-source file — SHALL
 
 ### Requirement: Unchanged content is not re-archived
 
-The archive SHALL NOT accumulate byte-identical consecutive snapshots of the same artifact.
+The archive SHALL NOT accumulate consecutive snapshots of the same artifact whose substantive content is identical. The comparison SHALL disregard the artifact's `generated_at` stamp, which is fresh on every run and, when included, made the check unreachable.
 
 #### Scenario: Content is unchanged since the last snapshot
 
-- **WHEN** a workflow publishes an artifact whose content is byte-identical to that artifact's most recent archived snapshot
+- **WHEN** a workflow publishes an artifact whose content, disregarding its `generated_at` stamp, is identical to that artifact's most recent archived snapshot, and the current UTC day already has a daily-tier entry
 - **THEN** no new snapshot is written, and the run reports that archiving was skipped as unchanged
+
+#### Scenario: Content is unchanged on the first run of a new day
+
+- **WHEN** an artifact's content is unchanged but the current UTC day has no daily-tier entry yet
+- **THEN** a snapshot is written anyway and recorded as unchanged, so the daily tier keeps its one-entry-per-day promise instead of leaving a hole
 
 #### Scenario: Content has changed
 
