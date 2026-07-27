@@ -522,10 +522,10 @@
     },
     {
       "dropped": "pdxparent_markets:vancouver-farmers-market@2026-08-08",
-      "kept": "eventbrite:1988199312665",
+      "kept": "eventbrite:1988026016331",
       "start_at": "2026-08-08T09:00:00-07:00",
       "title_dropped": "Vancouver Farmers Market",
-      "title_kept": "Recorrido del mercado de agricultores del centro de Vancouver",
+      "title_kept": "Farmers Market Tour - Downtown Vancouver",
       "venue": "Vancouver Farmers Market"
     },
     {
@@ -823,14 +823,6 @@
       "title_dropped": "THE WALKAWAYS, COVERING THE SONGS THAT PHISH COVERS",
       "title_kept": "The Walkaways: Covering The Covers That Phish Covers, Unofficial Jrad After Party",
       "venue": "Kelly's Olympian"
-    },
-    {
-      "dropped": "eventbrite:1936898087319",
-      "kept": "dopdx:17223467",
-      "start_at": "2026-08-13T22:00:00-07:00",
-      "title_dropped": "Roast Battle Portland",
-      "title_kept": "Roast Battle Portland",
-      "venue": "Funhouse Lounge"
     },
     {
       "dropped": "eventbrite:1993506236818",
@@ -1297,9 +1289,9 @@
       "venue": "Vancouver Farmers Market"
     }
   ],
-  "event_count": 4259,
-  "floor_check": "4259 events against a 4253-event baseline",
-  "generated_at": "2026-07-27T22:43:52+00:00",
+  "event_count": 4224,
+  "floor_check": "4224 events against a 4253-event baseline",
+  "generated_at": "2026-07-27T23:32:55+00:00",
   "problems": [],
   "sources": [
     "calagator",
