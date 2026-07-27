@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/eventbrite",
+  "month": "2026-07",
+  "snapshots": [
+    {
+      "bytes": 2526177,
+      "captured_at": "2026-07-27T14:02:57+00:00",
+      "content_sha256": "88b53dec5e064431d55b4e5161deb40f76d435fab6ef291e16931162cefd65be",
+      "daily": "sources/eventbrite/daily/2026/07/27.json.gz",
+      "event_count": 1758,
+      "gzip_bytes": 391155,
+      "recent": "sources/eventbrite/recent/2026-07-27/140257Z.json.gz",
+      "sha256": "36da858d14fde09491c149b2e032c9ecc51b8133d794f7fc62f20f76f0d061ae",
+      "unchanged": false
+    }
+  ]
+}
