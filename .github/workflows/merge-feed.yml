@@ -9,7 +9,7 @@ name: merge-feed
 
 on:
   workflow_run:
-    workflows: [source-calagator, source-ticketmaster, source-oregon-metro]
+    workflows: [source-calagator, source-ticketmaster, source-oregon-metro, source-dopdx, source-portland-parks]
     types: [completed]
   schedule:
     - cron: "40 * * * *"

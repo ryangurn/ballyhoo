@@ -13,6 +13,7 @@ from __future__ import annotations
 
 from datetime import timedelta
 
+from ...common.http import USER_AGENT
 from ...common.models import Source
 
 SOURCE = Source(
@@ -36,9 +37,11 @@ MAX_RETRIES = 3
 # Metro is a small public agency, not a CDN-backed API. Crawl gently.
 SECONDS_BETWEEN_PAGES = 0.75
 
-USER_AGENT = "sociallist-pipeline/0.1 (+https://github.com/ryangurn/sociallist)"
 
 # The `datetime` attribute carries no offset but is UTC: 2026-07-25T18:00:00 renders
 # on the page as "11 a.m.", and Portland was UTC-7 that day. Verified across samples.
 SOURCE_TIMEZONE = "UTC"
 DISPLAY_TIMEZONE = "America/Los_Angeles"
+
+# Shared project identity; see pipeline/common/http.py for why it omits a URL scheme.
+__all__ = ["SOURCE", "USER_AGENT"]

@@ -47,19 +47,33 @@ never committed. In CI the same values come from GitHub Actions secrets.
 
 ## Sources
 
-| Source | Auth | Volume | Notes |
-|---|---|---|---|
-| Calagator | none | ~27 events / yr | Portland's community **tech** calendar |
-| Ticketmaster | API key | ~710 events / yr | Touring acts plus independent venues |
+| Source | Auth | Volume | Window | Notes |
+|---|---|---|---|---|
+| Ticketmaster | API key | ~705 | 365 d | Touring acts plus independent venues |
+| DoPDX | none | ~185 | 30 d | Curated city guide; the richest metadata of any source |
+| Oregon Metro | none | ~125 | all | Council meetings, nature activities, regional parks |
+| Portland Parks | none | ~30 | season | Summer Free For All — every event free |
+| Calagator | none | ~27 | 365 d | Portland's community **tech** calendar |
 
-Volumes are measured, not estimated, and the two barely overlap — Ticketmaster is
-Bocelli, Weezer, and the Wonder Ballroom; Calagator is Code & Coffee and the Drupal
-user group. Cross-source dedup is therefore insurance for sources yet to be added
-rather than something these two need.
+Roughly 1,070 events merged, about 200 KB gzipped. Volumes are measured, not
+estimated.
 
-Both together are still mostly ticketed shows. The neighborhood-level programming the
-app is really for — library story times, parks events, civic meetings, Portland
-Mercado — arrives with the sources still queued.
+Cross-source dedup earns its keep here: DoPDX and Ticketmaster list many of the same
+ticketed shows, and a merge run collapses around a dozen. Calagator and Oregon Metro
+overlap nothing.
+
+### Sources evaluated and rejected
+
+Worth recording so the ground is not re-covered:
+
+| Source | Why not |
+|---|---|
+| portland.gov events | JS-rendered Drupal; no feed, no iCal, no JSON:API |
+| Multnomah County Library | JS-rendered; zero event data in the HTML |
+| Eventbrite | React-hydrated; public search API discontinued in 2019 |
+| Travel Portland | Real WordPress API, but Cloudflare blocks non-browser TLS fingerprints |
+| Hillsboro Parks | Hard 403 at their edge |
+| Bandsintown / Songkick / SeatGeek | All require API keys |
 
 ### Calagator
 
@@ -138,6 +152,36 @@ Other things live data forced:
 
 Their terms require "Powered by Ticketmaster" attribution, satisfied by the mandatory
 `source` field the app renders.
+
+### DoPDX
+
+Portland edition of the DoStuff Media city guides. A real versioned JSON API with no
+authentication: `/events/YYYY/M/D.json?page=N`, one calendar day per request.
+
+Best metadata of any source — venue coordinates and full addresses, an explicit
+`is_free` flag, and Cloudinary images we can request pre-sized.
+
+Two things to know. It covers the wider Pacific Northwest, so events are filtered to
+within 40 miles of Portland; a single sampled day carried Seattle, Bend, and the
+Gorge. And their WAF rejects any User-Agent containing a URL scheme, which is why
+`pipeline/common/http.py` identifies us with a bare domain.
+
+Only `/events` is used. Their robots.txt disallows `/features`, `/search`, `/latest`,
+`/locales`, `/assets/` and `view=map`.
+
+### Portland Parks — Summer Free For All
+
+Free movies, concerts and festivals in neighbourhood parks, and the closest thing in
+the feed to what the app is actually for. Every event is free, and all 35 parks are
+geocoded, so all of it maps.
+
+The schedule is one hand-maintained HTML table, which is easy to read and easy to
+break, so the parser checks the header row and raises rather than guessing if the
+columns move. Reading the wrong column would put a venue name in the title and still
+look plausible.
+
+Seasonal: outside summer the table may be missing entirely, which is an empty result
+rather than a failure.
 
 ## Merge
 
