@@ -30,6 +30,7 @@ uv sync
 # One source at a time, into a directory the merge step will read
 uv run python -m pipeline.sources.calagator    --output /tmp/sources/calagator.json
 uv run python -m pipeline.sources.ticketmaster --output /tmp/sources/ticketmaster.json
+uv run python -m pipeline.sources.obt          --output /tmp/sources/obt.json
 
 # Combine into the canonical feed
 uv run python -m pipeline.merge --sources-dir /tmp/sources --output-dir /tmp/feed
@@ -54,6 +55,7 @@ never committed. In CI the same values come from GitHub Actions secrets.
 | Oregon Metro | none | ~125 | all | Council meetings, nature activities, regional parks |
 | Portland Parks | none | ~30 | season | Summer Free For All — every event free |
 | Calagator | none | ~27 | 365 d | Portland's community **tech** calendar |
+| Oregon Ballet Theatre | none | ~19 | 18 mo | Tessitura TNEW; one event per performance, not per production |
 
 Roughly 1,070 events merged, about 200 KB gzipped. Volumes are measured, not
 estimated.
@@ -182,6 +184,55 @@ look plausible.
 
 Seasonal: outside summer the table may be missing entirely, which is an empty result
 rather than a failure.
+
+### Oregon Ballet Theatre — and Tessitura generally
+
+OBT sells through **Tessitura's TNEW** web sales module at `my.obt.org`, and TNEW
+backs its listing with an unauthenticated JSON endpoint:
+
+```
+POST https://my.obt.org/api/products/productionseasons
+{"startDate": "...", "endDate": "...", "productionSeasonIdFilter": [], "keywordIds": null}
+```
+
+That returns every production and every individual performance with an explicit UTC
+offset. It is a far better surface than the marketing site, whose season page gives
+only date ranges for a whole run ("December 5 - 24, 2026") and carries no `Event`
+JSON-LD.
+
+**This generalizes.** A `my.<org>.org` subdomain is a strong tell for TNEW, and much
+of Portland's performing-arts sector runs it — Portland Opera, Oregon Symphony,
+Portland Center Stage, White Bird. `sources/obt/tessitura.py` deliberately knows
+nothing about ballet: it takes a base URL and a date window. Adding a sibling should
+be a new `config.py` and a venue table, not a new parser. Confirm TNEW first by
+checking robots.txt for `/_syos/` and `/Flash_Bridge_Service/`, and the page source
+for a `tnew.app.init({...})` call carrying the TNEW version.
+
+Three findings that shaped the implementation:
+
+- **The HTML pages are off limits.** `my.obt.org` sits behind Imperva Incapsula.
+  The JSON API is unmetered, but the server-rendered pages at
+  `/{productionSeasonId}/{performanceId}` serve exactly **five** real responses and
+  then return a "Pardon Our Interruption" interstitial *with HTTP 200* — measured
+  repeatedly, and unchanged by a cookie jar or by pacing requests two seconds apart.
+  It is a ticket-bot control on a ticketing site and is not something to work around.
+  Those pages are the only place TNEW publishes a **venue or a price**, so venues come
+  from the marketing site instead and price is honestly `unknown`. (For the record,
+  the detail pages priced the current Nutcracker run at $39–$168 all-in.)
+- **One event per performance, not per production.** Eighteen Nutcrackers over three
+  weeks become eighteen events. A production is not a thing anyone can attend, and the
+  app answers "what is on tonight". This is only safe because Tessitura gives every
+  performance its own immutable integer key, so `obt:830` is stable without involving
+  the title or the date.
+- **Every timestamp arrives twice**, once local-with-offset and once UTC. They are
+  cross-checked and a performance whose two forms disagree is dropped rather than
+  guessed at, which turns the whole class of "shipped seven hours off" bug into a
+  visible counter.
+
+Venue names come from one request to `www.obt.org`, whose robots.txt allows everything
+with `Crawl-delay: 10` that we honor. The season page URL rotates yearly
+(`/2026-27-season/`), so it is discovered from the season-agnostic index rather than
+hardcoded. If that lookup fails, events publish without a venue rather than not at all.
 
 ## Merge
 

@@ -1,0 +1,83 @@
+name: source-obt
+
+# Oregon Ballet Theatre, read from its Tessitura TNEW ticketing API.
+#
+# One JSON call plus two page reads for venue names. Most of the run is the
+# `Crawl-delay: 10` that www.obt.org's robots.txt asks for, so the job is short but
+# not instant. Scheduled at :50 to stay clear of the other sources and of the merge
+# at :40.
+
+on:
+  schedule:
+    - cron: "50 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Fetch and validate, but publish nothing"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: source-obt
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: .gh-pages
+
+      - uses: actions/checkout@v4
+        with:
+          ref: archive
+          path: .archive
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: pipeline/uv.lock
+
+      - name: Install dependencies
+        working-directory: pipeline
+        run: uv sync --frozen
+
+      - name: Fetch, normalize, publish
+        working-directory: pipeline
+        run: |
+          set -o pipefail
+          uv run python -m pipeline.sources.obt \
+            --pages-dir "$GITHUB_WORKSPACE/.gh-pages" \
+            --archive-dir "$GITHUB_WORKSPACE/.archive" \
+            --output "$GITHUB_WORKSPACE/dist/obt.json" \
+            ${{ inputs.dry_run && '--dry-run' || '' }} \
+            2>&1 | tee "$GITHUB_WORKSPACE/run.log"
+
+      - name: Job summary
+        if: always()
+        run: |
+          {
+            echo "## Oregon Ballet Theatre"
+            echo ""
+            echo "Mode: ${{ inputs.dry_run && 'dry run' || 'publish' }}"
+            echo ""
+            echo '```'
+            tail -n 30 run.log 2>/dev/null || echo "no output captured"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: obt-feed
+          path: dist/
+          if-no-files-found: ignore
+          retention-days: 7
