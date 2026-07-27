@@ -52,6 +52,16 @@ MIN_SECONDS_BETWEEN_REQUESTS = 0.5
 # Events in these states are not attendable.
 EXCLUDED_STATUS_CODES = frozenset({"cancelled", "canceled"})
 
+# Ticketmaster offers each event at 16:9 in roughly 100, 205, 640, 1024, 1136, 2048,
+# 2426, and 2846 px wide. Taking the largest is a trap: a 2426x1365 JPEG decodes to
+# about 13 MB in memory, and a feed of 700 of them will kill the app on a real device
+# for exceeding its memory limit.
+#
+# Cards render at roughly 230-390pt, so 1136 px covers even a full-width detail image
+# on a 3x screen with room to spare, at about 2.9 MB decoded. Prefer the smallest
+# offered image that clears this bar rather than the biggest available.
+MIN_IMAGE_WIDTH = 1100
+
 # `dates.timezone` is absent on roughly 37% of Portland results even though
 # `dates.start.localTime` shows the real local hour. Left as UTC, a 7pm show
 # serializes as the next day at 02:00Z, so anything bucketing by date string files it

@@ -138,7 +138,9 @@ struct DiscoverView: View {
 
     private func rail(_ events: [Event]) -> some View {
         ScrollView(.horizontal) {
-            HStack(alignment: .top, spacing: 12) {
+            // Lazy for the same reason as the feed: a rail can hold dozens of cards
+            // and only two or three are ever on screen.
+            LazyHStack(alignment: .top, spacing: 12) {
                 ForEach(events) { event in
                     Button {
                         selectedEvent = event
@@ -166,14 +168,19 @@ struct DiscoverView: View {
         if sections.isEmpty {
             emptyResults
         } else {
-            VStack(alignment: .leading, spacing: 22) {
+            // Lazy at both levels. An enclosing LazyVStack only defers its *direct*
+            // children, so a plain VStack here would build every day's section — and
+            // every card's AsyncImage — the moment the feed appears. With 700+ events
+            // that decodes hundreds of images at once and the app is killed for
+            // exceeding its memory limit.
+            LazyVStack(alignment: .leading, spacing: 22) {
                 if showsRails {
                     SectionHeader(title: "All upcoming")
                         .padding(.horizontal, 16)
                 }
 
                 ForEach(sections, id: \.day) { section in
-                    VStack(alignment: .leading, spacing: 9) {
+                    LazyVStack(alignment: .leading, spacing: 9) {
                         Text(section.day.relativeDayLabel)
                             .font(.subheadline.weight(.semibold))
                             .foregroundStyle(Theme.inkSecondary)

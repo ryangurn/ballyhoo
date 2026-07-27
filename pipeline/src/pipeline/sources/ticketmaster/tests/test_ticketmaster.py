@@ -154,9 +154,32 @@ class TestNormalize:
         events, _ = normalize([raw_event()], now=NOW)
         assert events[0].venue.latitude == pytest.approx(45.5432)
 
-    def test_largest_sixteen_by_nine_image_wins_over_a_bigger_wrong_ratio(self):
+    def test_picks_the_smallest_image_that_is_still_big_enough(self):
+        # Not the largest: a 2426px JPEG decodes to ~13 MB, and a feed of several
+        # hundred of those gets the app killed for exceeding its memory limit.
+        raw = raw_event(
+            images=[
+                {"url": "https://img/tiny.jpg", "ratio": "16_9", "width": 205},
+                {"url": "https://img/right.jpg", "ratio": "16_9", "width": 1136},
+                {"url": "https://img/huge.jpg", "ratio": "16_9", "width": 2426},
+            ]
+        )
+        events, _ = normalize([raw], now=NOW)
+        assert events[0].image_url == "https://img/right.jpg"
+
+    def test_prefers_sixteen_by_nine_over_a_bigger_wrong_ratio(self):
         events, _ = normalize([raw_event()], now=NOW)
         assert events[0].image_url == "https://img/large.jpg"
+
+    def test_falls_back_to_the_largest_when_none_are_big_enough(self):
+        raw = raw_event(
+            images=[
+                {"url": "https://img/a.jpg", "ratio": "16_9", "width": 100},
+                {"url": "https://img/b.jpg", "ratio": "16_9", "width": 640},
+            ]
+        )
+        events, _ = normalize([raw], now=NOW)
+        assert events[0].image_url == "https://img/b.jpg"
 
     def test_missing_price_is_unknown_not_free(self):
         events, _ = normalize([raw_event(priceRanges=None)], now=NOW)

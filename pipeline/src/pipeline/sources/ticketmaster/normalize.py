@@ -65,7 +65,13 @@ def _clean(value: Any) -> str | None:
 
 
 def _best_image(images: list[dict[str, Any]] | None) -> str | None:
-    """Largest 16:9 image, falling back to the largest of any ratio.
+    """Smallest 16:9 image that is still large enough for a card.
+
+    Deliberately not the largest available. Ticketmaster serves up to 2846 px wide,
+    which decodes to roughly 13 MB in memory; across a feed of several hundred events
+    that is enough to get the app killed for exceeding its memory limit. Anything at
+    or above `MIN_IMAGE_WIDTH` looks identical at the sizes we render, so the smallest
+    qualifying image is strictly better.
 
     16:9 matches the card layout; other ratios crop badly.
     """
@@ -74,8 +80,15 @@ def _best_image(images: list[dict[str, Any]] | None) -> str | None:
     usable = [i for i in images if i.get("url")]
     if not usable:
         return None
+
     widescreen = [i for i in usable if i.get("ratio") == "16_9"]
     pool = widescreen or usable
+
+    big_enough = [i for i in pool if (i.get("width") or 0) >= config.MIN_IMAGE_WIDTH]
+    if big_enough:
+        return min(big_enough, key=lambda i: i.get("width") or 0).get("url")
+
+    # Nothing reaches the bar, so take the best on offer rather than nothing.
     return max(pool, key=lambda i: i.get("width") or 0).get("url")
 
 
