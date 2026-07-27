@@ -52,8 +52,11 @@ never committed. In CI the same values come from GitHub Actions secrets.
 |---|---|---|---|---|
 | Eventbrite | none | ~1,770 | 30 d | Largest source by far; states free-ness per event |
 | Ticketmaster | API key | ~705 | 365 d | Touring acts plus independent venues |
+| PDX Parent markets | none | ~450 | 120 d | 36 neighbourhood farmers markets; schedules parsed from prose |
 | DoPDX | none | ~185 | 30 d | Curated city guide; the richest metadata of any source |
 | Oregon Metro | none | ~125 | all | Council meetings, nature activities, regional parks |
+| Portland Farmers Market | none | ~110 | season | Five markets plus their live music; recurrence pre-expanded upstream |
+| Hollywood Farmers Market | none | ~32 | 120 d | One market; its own days expanded from a rule |
 | Portland Parks | none | ~30 | season | Summer Free For All — every event free |
 | Calagator | none | ~27 | 365 d | Portland's community **tech** calendar |
 | Oregon Ballet Theatre | none | ~19 | 18 mo | Tessitura TNEW; one event per performance, not per production |
@@ -277,6 +280,135 @@ look plausible.
 
 Seasonal: outside summer the table may be missing entirely, which is an empty result
 rather than a failure.
+
+### Farmers markets, and recurrence
+
+Three sources cover farmers markets, and together they are the largest block of
+genuinely free, walkable, neighbourhood-scale events in the feed. They also forced the
+one piece of shared machinery added since the model was written.
+
+**The problem.** `Event` has no recurrence and should not grow any — every event is one
+dated occurrence with a stable id, which dedup, staleness and client bookmarks all lean
+on. But a market publishes a *rule*: "Saturdays 9am-2pm, May through November". Someone
+has to turn one into the other.
+
+`common/recurrence.py` does, once, for everyone. A `WeeklyRule` carries a weekday, an
+optional ordinal constraint ("2nd and 4th Saturdays"), and a season written as
+month/day pairs with no year — so a rule stays valid across years instead of needing an
+annual edit, and a season that wraps New Year still reads as one window. Two properties
+are load-bearing:
+
+- **Ids never depend on the run.** An occurrence's id is its series plus its date, never
+  its index in the expansion and nothing derived from `now`. Two runs a week apart emit
+  byte-identical ids for the same market day, so a bookmark survives.
+- **Expansion is always bounded.** A weekly rule is infinite; every caller passes an
+  explicit window. Rule-derived sources use 120 days rather than the year the
+  calendar-backed ones use, because inferred dates lose confidence with distance — a
+  market can change hours, skip a holiday, or close early without telling anyone.
+
+**Free-ness.** These are the only sources that assert `Price.free()` without an upstream
+flag, and the reasoning is not a waiver of the usual rule. A farmers market has no gate
+and no ticket; what costs money is the produce, not attending. Free-to-show-up is a fact
+here rather than an inference.
+
+### Portland Farmers Market
+
+Five markets — PSU, King, Shemanski Park, Lents International, Kenton — on WordPress
+with The Events Calendar plus Events Calendar Pro, which exposes a read-only REST route
+at `/wp-json/tribe/events/v1/events`. Yoast's robots.txt is an empty `Disallow:`, so
+nothing is off limits.
+
+The plugin **already expands recurrence**, handing back one record per date, so this
+source needs none of the machinery above — it reads dated occurrences and passes them
+through.
+
+The trap is which identifier to key on. Each occurrence carries its own numeric `id`,
+and they look like post ids until you notice King's run 10003167–10003184 with no gaps
+while real posts on the site sit in the thousands (venues at 6742, one-off events at
+31594). They are **provisional ids** synthesized for the series: cancel one market day
+and every occurrence after it renumbers, orphaning bookmarks downstream of the edit. The
+id is the series slug plus the occurrence's local date instead, which is exactly what
+the per-occurrence URL encodes (`/event/king-farmers-market-3/2026-07-26/`).
+
+Other things live data forced:
+
+- `venue` arrives as an empty **list** rather than null when unset, as does `organizer`.
+- The feed mixes the markets with the musicians booked into them, and both carry the
+  market's name as their taxonomy term, so the category cannot separate them. A market
+  occurrence is titled exactly after its venue, which is what we test — a sixth market
+  appearing upstream then classifies itself.
+- `per_page` is silently clamped to 50, and `utc_start_date` is read in preference to
+  the offset-free local pair, since the season straddles both DST boundaries.
+- Four of five venues are geocoded upstream; Shemanski Park is not, and is the only
+  entry in `venues.json`.
+
+### Hollywood Farmers Market
+
+One market on NE Hancock, publishing three different kinds of thing: `/music-schedule`
+(the musicians it books), `/event-schedule` (Strawberry Day, Hollyween), and the market
+itself — which appears nowhere as a dated listing and exists only as a sentence of prose
+on the homepage.
+
+Those hours are **encoded as data in `config.py`, not parsed**, because misreading that
+sentence would publish a market that is not open, which is worse than publishing
+nothing. Encoding can go stale, so the fetch reads the sentence back on every run and
+expansion is skipped entirely if it no longer matches. The dated listings still publish
+in that case. `market_rules_skipped` in the run log is the tripwire.
+
+Squarespace, whose robots.txt disallows `?format=json` and `?format=ical` — both of the
+usual shortcuts. The ordinary HTML collection pages are permitted and fully
+server-rendered, so that is what we read. Two details in that markup are quiet killers:
+the clock text separates minutes from meridiem with **U+202F**, so `"10:00 AM"` is not
+the string it looks like and any `%I:%M %p` parse of it fails; and a multiday item
+carries **two** `time.event-date` elements, so taking the last match dates National
+Farmers Market Week to the end of its run rather than the start.
+
+Music gets `Price.free()` and the market's coordinates. Special events get neither, and
+that is evidence-based: their detail pages carry a schema.org `Event` with an empty
+`location` and a null `offers`, and the collection mixes on-site days with off-site
+benefit nights at a bar. A guess either way is a wrong pin or a wrong price.
+
+### PDX Parent — the neighbourhood markets
+
+One page listing every farmers market in the metro by day of week. It is the only
+inventory of Montavilla, Woodstock, Woodlawn, Cully, St Johns, Sellwood, Rocky Butte and
+People's that exists in machine-readable reach; without it none of them are in the feed.
+
+The price of that reach is that every schedule is a sentence, so `schedule.py` parses
+prose and is built for precision — anything it cannot read with confidence yields
+nothing for that clause plus a recorded reason. Three rules, each of which was silently
+wrong first:
+
+- **A bare number after a month is a day only if it is not part of a year.**
+  "June-September 2026" was parsing as June through September *20th*, quietly
+  shortening six markets' seasons by ten days.
+- **Semicolons separate alternate schedules**, and a clause with no weekday inherits the
+  previous one — which is what lets Beaverton's winter and summer hours both survive.
+- **A vague phrase only voids a rule when it comes before the hours.** "Every other
+  Sunday" as the subject is unusable, but Hillsdale's "9 am-1 pm. Open select dates
+  twice monthly in winter" has a good primary rule an earlier version threw away.
+
+Two things are refused rather than guessed. A follow-on clause naming a venue is the
+market *relocating* for the season — Woodlawn's winter market is "December-May at
+Classic Foods, 817 NE Madrona St" — and since the roundup gives one address per market
+those dates would carry the wrong pin, so they are dropped. And markets whose operator
+publishes a real calendar are skipped entirely, matched on the link the roundup itself
+provides, so the Portland Farmers Market and Hollywood entries defer to the
+authoritative sources with no hand-maintained list here.
+
+Coordinates were geocoded once against Nominatim **and verified to be in the expected
+city**. That check is not ceremony: an unverified pass looked entirely successful and
+had put the Hillsboro Tuesday Marketplace on a Main Street in Portland, twenty-five
+miles from the market. 328 of 450 events carry a pin; the rest publish without one
+rather than with a plausible wrong one.
+
+Ids are a slug of the market name plus the date. ASCII folding deletes a curly
+apostrophe but keeps a straight one, so "Camas Farmer's Market" slugged two different
+ways depending on which quote character was typed; apostrophes are stripped before
+slugging so both forms agree.
+
+`dropped_unparseable_schedule` is 0 today. A jump means the roundup has been reworded
+into a form the parser does not read, and those markets are being withheld.
 
 ### Oregon Ballet Theatre — and Tessitura generally
 

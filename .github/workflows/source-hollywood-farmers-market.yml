@@ -1,0 +1,84 @@
+name: source-hollywood-farmers-market
+
+# Three requests against one neighborhood market's Squarespace site. Most of what
+# this source publishes is expanded from a recurrence rule rather than fetched, and
+# the music lineup is booked weeks out, so four runs a day is generous.
+#
+# Watch the market_rules_skipped counter in the run log. Non-zero means the homepage
+# no longer states the hours the rules in config were derived from, and the market
+# days are being withheld until someone re-reads that sentence.
+
+on:
+  schedule:
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Fetch and validate, but publish nothing"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: source-hollywood-farmers-market
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: .gh-pages
+
+      - uses: actions/checkout@v4
+        with:
+          ref: archive
+          path: .archive
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: pipeline/uv.lock
+
+      - name: Install dependencies
+        working-directory: pipeline
+        run: uv sync --frozen
+
+      - name: Fetch, normalize, publish
+        working-directory: pipeline
+        run: |
+          set -o pipefail
+          uv run python -m pipeline.sources.hollywood_farmers_market \
+            --pages-dir "$GITHUB_WORKSPACE/.gh-pages" \
+            --archive-dir "$GITHUB_WORKSPACE/.archive" \
+            --output "$GITHUB_WORKSPACE/dist/hollywood-farmers-market.json" \
+            ${{ inputs.dry_run && '--dry-run' || '' }} \
+            2>&1 | tee "$GITHUB_WORKSPACE/run.log"
+
+      - name: Job summary
+        if: always()
+        run: |
+          {
+            echo "## Hollywood Farmers Market"
+            echo ""
+            echo "Mode: ${{ inputs.dry_run && 'dry run' || 'publish' }}"
+            echo ""
+            echo '```'
+            tail -n 30 run.log 2>/dev/null || echo "no output captured"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: hollywood-farmers-market-feed
+          path: dist/
+          if-no-files-found: ignore
+          retention-days: 7
