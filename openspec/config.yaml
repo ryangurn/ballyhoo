@@ -1,0 +1,72 @@
+schema: spec-driven
+
+context: |
+  # sociallist
+
+  A free, iOS-only app that aggregates community events happening in Portland,
+  Oregon and presents them in one browsable feed. Emphasis is on the long tail of
+  genuinely local community events, not just the big ticketed shows.
+
+  ## Tech stack
+  - Swift / SwiftUI, iPhone + iPad (TARGETED_DEVICE_FAMILY = "1,2"), portrait-only.
+  - iOS 17.0 deployment target (set at project level; no per-target override).
+    Chosen to maximize device reach. Newer APIs are used only behind `@available`
+    or `#available` gates, never unconditionally.
+  - Swift 5 language mode, SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor,
+    SWIFT_APPROACHABLE_CONCURRENCY = YES.
+  - ENABLE_APP_SANDBOX = YES.
+  - No third-party dependencies. Apple frameworks only (SwiftUI, MapKit, Observation).
+
+  ## Xcode project conventions
+  - `sociallist.xcodeproj` uses PBXFileSystemSynchronizedRootGroup (objectVersion 90).
+    Any file added under `sociallist/` is picked up automatically.
+  - NEVER hand-edit `project.pbxproj` to add source files.
+  - Source is grouped by folder: Models/, Data/, Design/, Features/<Feature>/.
+
+  ## Architecture: no first-party backend
+  The app has no server. A build-time pipeline (GitHub Actions cron, not yet built)
+  will aggregate every upstream source, normalize and dedupe it, and publish a single
+  static JSON file to a CDN (GitHub Pages / Cloudflare Pages). The app downloads that
+  one file and caches it with ETag / If-None-Match.
+
+  Consequences that constrain design decisions:
+  - No API keys ever ship in the app binary. Keys live in GitHub Actions secrets.
+    Rate limits on upstream APIs are per-key, so per-device fetching would cap the
+    whole user base (e.g. Ticketmaster free tier is 5,000 calls/day TOTAL).
+  - The app never talks to an upstream source directly; it only reads the static feed.
+  - Scraper breakage is fixed by a pipeline commit, never an App Store release.
+  - All event access goes through the `EventRepository` protocol so the mock and the
+    remote implementations stay swappable.
+
+  ## Data sources (aggregated by the pipeline, verified reachable)
+  - Calagator — https://calagator.org/events.json (open JSON, no auth, tech/community)
+  - Ticketmaster Discovery API — free key, 5,000/day (concerts, sports, theater)
+  - Eventbrite Portland — discovery-page JSON-LD scrape (broad long tail, geocoded)
+  - Civic — portland.gov/events, Multnomah County Library, Oregon Metro, Portland Parks
+  - Venues — OMSI, Holocene, Portland Mercado, small music venues
+
+  ## Domain rules
+  - Every event carries its `Source`. Ticketmaster's terms and Calagator's license
+    both require attribution, so provenance must stay visible in the UI.
+  - Event `id` must be stable across pipeline runs (source id + upstream id).
+    Saved-event bookmarks key off it.
+  - Most community listings have no image. Fall back to deterministic generated
+    artwork rather than an empty grey box.
+  - All times are America/Los_Angeles.
+
+  ## Conventions
+  - Comments explain non-obvious intent or constraints, never narrate the code.
+  - Every SwiftUI view gets a `#Preview`.
+  - Verify with:
+    xcodebuild -project sociallist.xcodeproj -scheme sociallist \
+      -destination 'platform=iOS Simulator,name=iPhone 17 Pro' build
+
+# Per-artifact rules (optional)
+# Add custom rules for specific artifacts.
+# Example:
+#   rules:
+#     proposal:
+#       - Keep proposals under 500 words
+#       - Always include a "Non-goals" section
+#     tasks:
+#       - Break tasks into chunks of max 2 hours
