@@ -34,7 +34,11 @@ struct DiscoverView: View {
                 }
                 .padding(.vertical, 12)
             }
-            .background(Theme.canvas)
+            // Extended past the safe areas so the translucent navigation and tab
+            // bars have the canvas colour behind them. Scoped to the ScrollView the
+            // background stops at the content edge, and the chrome samples whatever
+            // happens to be underneath instead.
+            .background(Theme.canvas.ignoresSafeArea())
             .scrollDismissesKeyboard(.immediately)
             .navigationTitle("Portland")
             .toolbarTitleDisplayMode(.large)

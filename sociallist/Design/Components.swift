@@ -9,22 +9,32 @@ struct EventThumbnail: View {
     var cornerRadius: CGFloat = Theme.Radius.thumbnail
 
     var body: some View {
-        ZStack {
-            event.placeholderGradient
-
-            if let imageURL = event.imageURL {
-                AsyncImage(url: imageURL) { phase in
-                    if let image = phase.image {
-                        image.resizable().scaledToFill()
+        // The gradient defines the size and the artwork rides on top as an overlay.
+        //
+        // A ZStack would size itself to its largest child, and `scaledToFill` reports
+        // a size larger than its slot in one dimension — a 16:9 image filling a 78pt
+        // square measures ~139pt wide. That grows the stack, so the caller's
+        // `.frame(width:height:)` no longer matches the content and the clip shape
+        // trims to the enlarged bounds, letting artwork bleed across neighbouring
+        // views. Overlays are sized by their parent and never grow it.
+        event.placeholderGradient
+            .overlay {
+                if let imageURL = event.imageURL {
+                    AsyncImage(url: imageURL) { phase in
+                        if let image = phase.image {
+                            image.resizable().scaledToFill()
+                        }
                     }
+                } else {
+                    Image(systemName: event.primaryCategory.symbol)
+                        .font(.system(size: 26, weight: .semibold))
+                        .foregroundStyle(.white.opacity(0.85))
                 }
-            } else {
-                Image(systemName: event.primaryCategory.symbol)
-                    .font(.system(size: 26, weight: .semibold))
-                    .foregroundStyle(.white.opacity(0.85))
             }
-        }
-        .clipShape(.rect(cornerRadius: cornerRadius))
+            .clipShape(.rect(cornerRadius: cornerRadius))
+            // Stops the overflow from drawing outside the clip during hit-testing
+            // and while the async image resolves.
+            .contentShape(.rect(cornerRadius: cornerRadius))
     }
 }
 
