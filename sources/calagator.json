@@ -1,0 +1,722 @@
+{
+  "events": [
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-07-27T12:00:00-07:00",
+      "id": "calagator:1250482638",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/portland-code-coffee/events/315586482/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-07-27T09:00:00-07:00",
+      "summary": "Code & Coffee is an inclusive, informal co-working session: drink your beverage of choice, bring your laptop, and hang out with your peers! Have engaging conversations, or focus on work or projects. This is a great opportunity to learn from others, share your knowledge, and possibly collaborate on side projects, online courses, or even your day-to-day work.\r\n\r\n---- Schedule ----\r\n\r\nYou're welcome to drop in anytime during the event. We understand that everyone may have external commitments and challenges - join us when you can!\r\n\r\nWe have informal unscheduled introductions - practice your personal elevator pitch, or take things slower to build your confidence.\r\n\r\n---- Venue ----\r\n\r\nFly Chai allow us to informally and freely use their space. If within your budget, we'd appreciate your help to sustain our use of the venue, by purchasing something tasty, whether Chai or otherwise.\r\n\r\nFind us at tables with a Code&Coffee sign - or a clump of laptop-users!\r\n\r\nWifi and power outlets are available.\r\nOur meeting area should be accessible - please let us know if not.\r\n\r\n---- What to expect ----\r\n\r\nSmaller events than you may be used to, with a mixed crowd week-to-week. We expect this is likely due to us meeting weekly, at a less central location.\r\n\r\nThese may result in what you're looking for:\r\n    A smaller, less intimidating, lower pressure, cozy atmosphere.\r\n    A mix of regular and new faces.\r\n    A simpler schedule - every week, same time, same place - that you can drop into when you like.\r\n    Being closer to you than other events.\r\n\r\nWhether those are generally or partly to your liking, we hope you'll consider dropping by sometime!\r\n\r\n---- Getting to the venue ----\r\n\r\nLook for the venue on the meetup Google map, or alternatives like OpenStreetMap.\r\n\r\n-- Driving --\r\n\r\nThere are limited parking spaces on a lot outside the venue (4+1 accessible), with more in the surrounding area.\r\n\r\n-- Transit options --\r\n\r\nBeaverton Central (Red/Blue MAX), then walk~ 8 minutes\r\n\r\nBeaverton Transit Center (Red/Blue MAX, bus, WES) then walk ~11 minutes\r\n\r\nFor a shorter walk to the venue, take a bus from Beaverton Transit Center (52 to Farmington/Hall, 76 to Watson/Broadway, 57 to Canyon/Watson)",
+      "title": "Code & Coffee - Beaverton",
+      "venue": {
+        "address": "12520 Southwest Farmington Road",
+        "city": "Beaverton",
+        "latitude": 45.4867,
+        "longitude": -122.8053,
+        "name": "Fly Chai"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-07-29T19:30:00-07:00",
+      "id": "calagator:1250482645",
+      "is_all_day": false,
+      "listing_url": "https://luma.com/5vr7zrrs",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-07-29T17:30:00-07:00",
+      "summary": "Event Agenda:\r\nThere will be a main talk between 30 minutes to 1 hour followed by optional lighting talks.\r\n\r\nScalable processing with Ray: unstructured data, multimodal data, and integration with your custom code by Adam Breindel\r\n\r\nIn this talk, we'll look at building applications and data pipelines that operate on unstructured or multimodal data using the open-source Ray framework. Ray provides abstractions for running distributed, scalable, stateful code as well as higher-level constructs for orchestrating data pipelines where you can supply your own business logic.\r\n\r\nSome logic might involve using or training AI models -- but this talk is not focused on (or written by) AI. We'll look at general issues that arise when scaling interesting logic and talk a bit about the algorithms that the Ray Core and Ray Data schedulers employ to address common challenges.\r\n\r\nLast, since I've met so many awesome folks in the local Python communities who are looking for jobs, we'll also talk a bit about the tech stacks and other dynamics driving employment and the role of Portland's economy in the evolving landscape.\r\n\r\nLightning Talks:\r\nLightning talks are talks up to 5 minutes in length on any topic that might interest other Python people. See PyCon’s Lightning Talks description for more details.",
+      "title": "July 29, 2026 Portland Python User Group Meetup",
+      "venue": {
+        "address": "111 SW 5th Ave",
+        "city": "Portland",
+        "latitude": 45.5222,
+        "longitude": -122.6763,
+        "name": "111 SW 5th Ave"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-07-30T15:30:00-07:00",
+      "id": "calagator:1250482647",
+      "is_all_day": false,
+      "listing_url": "https://betterfutures.club",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-07-30T13:30:00-07:00",
+      "summary": "​Better Futures Club is a weekly event (alternating Tuesdays and Thursdays) focused on imagining and making better futures.\r\n\r\nImagine an artist community, a think tank, and a research center in the same building. People in all of those fields working alongside each other imagining and creating different futures together. Cross pollination and inspiration. Liberal Arts and STEM and R&D. Photographers, physicists, authors, astronomers, musicians, makers, mathematicians, designers, developers, fashionistas, climatologists and all manner of imaginative optimists.\r\n\r\nAll Better Futures Club events are covered by the Contributor Covenant Code of Conduct (https://www.contributor-covenant.org)",
+      "title": "Better Futures Club",
+      "venue": {
+        "address": "3286 NE Killingsworth St",
+        "city": "Portland",
+        "latitude": 45.5625,
+        "longitude": -122.6309,
+        "name": "Autumn Coffee Roasting"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-01T13:00:00-07:00",
+      "id": "calagator:1250482288",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/mentorship-saturdays",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-01T10:00:00-07:00",
+      "summary": "Thanks to Roseline Coffee for providing a physical location! Find inside the hotel and to the right, likely on the couches\r\n\r\nCoffee, bagels and people working on their careers and code! We have 2-5 mentors every month ready to help people get started in the industry, get help with a particular problem, or get career advice. We offer resume reviews, portfolio reviews, and sometimes mock interviews (time permitting).\r\n\r\nOnline Teams Link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlODMyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e%22%7d\r\n\r\nOr call in (audio only)\r\n\r\n+1 872-240-8681,,882162595# United States, Chicago\r\n\r\nPhone Conference ID: 882 162 595#\r\n\r\nThanks to Capital One Café for providing a physical location!\r\n\r\nDiscord https://discord.gg/nSCxgbcG7U\r\n\r\nShare",
+      "title": "Mentorship Saturdays @ Roseline Cafe & Online",
+      "venue": {
+        "name": "Roseline Cafe"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-03T12:00:00-07:00",
+      "id": "calagator:1250482639",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/portland-code-coffee/events/315681435/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-03T09:00:00-07:00",
+      "summary": "Code & Coffee is an inclusive, informal co-working session: drink your beverage of choice, bring your laptop, and hang out with your peers! Have engaging conversations, or focus on work or projects. This is a great opportunity to learn from others, share your knowledge, and possibly collaborate on side projects, online courses, or even your day-to-day work.\r\n\r\n---- Schedule ----\r\n\r\nYou're welcome to drop in anytime during the event. We understand that everyone may have external commitments and challenges - join us when you can!\r\n\r\nWe have informal unscheduled introductions - practice your personal elevator pitch, or take things slower to build your confidence.\r\n\r\n---- Venue ----\r\n\r\nFly Chai allow us to informally and freely use their space. If within your budget, we'd appreciate your help to sustain our use of the venue, by purchasing something tasty, whether Chai or otherwise.\r\n\r\nFind us at tables with a Code&Coffee sign - or a clump of laptop-users!\r\n\r\nWifi and power outlets are available.\r\nOur meeting area should be accessible - please let us know if not.\r\n\r\n---- What to expect ----\r\n\r\nSmaller events than you may be used to, with a mixed crowd week-to-week. We expect this is likely due to us meeting weekly, at a less central location.\r\n\r\nThese may result in what you're looking for:\r\n    A smaller, less intimidating, lower pressure, cozy atmosphere.\r\n    A mix of regular and new faces.\r\n    A simpler schedule - every week, same time, same place - that you can drop into when you like.\r\n    Being closer to you than other events.\r\n\r\nWhether those are generally or partly to your liking, we hope you'll consider dropping by sometime!\r\n\r\n---- Getting to the venue ----\r\n\r\nLook for the venue on the meetup Google map, or alternatives like OpenStreetMap.\r\n\r\n-- Driving --\r\n\r\nThere are limited parking spaces on a lot outside the venue (4+1 accessible), with more in the surrounding area.\r\n\r\n-- Transit options --\r\n\r\nBeaverton Central (Red/Blue MAX), then walk~ 8 minutes\r\n\r\nBeaverton Transit Center (Red/Blue MAX, bus, WES) then walk ~11 minutes\r\n\r\nFor a shorter walk to the venue, take a bus from Beaverton Transit Center (52 to Farmington/Hall, 76 to Watson/Broadway, 57 to Canyon/Watson)",
+      "title": "Code & Coffee - Beaverton",
+      "venue": {
+        "address": "12520 Southwest Farmington Road",
+        "city": "Beaverton",
+        "latitude": 45.4867,
+        "longitude": -122.8053,
+        "name": "Fly Chai"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-06T12:30:00-07:00",
+      "id": "calagator:1250482643",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/ai-for-nonprofits-portland/events/315659668/?eventOrigin=group_events_list",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-06T11:00:00-07:00",
+      "summary": "RSVP for the very first meetup of AI for Nonprofits - Portland.\r\n\r\nNinety minutes, and the shape every month after will be the same:\r\n\r\n• Short talks (5 minutes): someone shows one thing that actually worked - a prompt that improved a real donor letter, a privacy rule a real board adopted. Real work, shown working. No slides required.\r\n\r\n• One deeper conversation: this month - what we're actually using AI for and where we've drawn the line. Small groups, honest notes.\r\n\r\n• Field Notes follow up: within two days, everyone gets the write-up from the meetup. Prompts discussed, ideas shared, and more. Lessons travel; names don't.\r\n\r\nBring one thing you've learned, or one thing you're trying to understand.\r\n\r\nYou do not need to be an AI person.\r\n\r\nFree, no vendor pitches, no technical background needed.\r\nWe wrap at 12:30 - conversations that want to keep going can move out to Pioneer Courthouse Square.\r\n\r\nQuestions, or something you'd like presented for you (anonymously is fine): weston@tomorrowlabs.org\r\n\r\nThis event will be co-hosted by Weston Cox (TomorrowLabs) and Surj (PunkWorks) - both human-centered technologists with experience in nonprofits and mission-driven organizations.",
+      "title": "Ai for Nonprofits - Portland",
+      "venue": {
+        "address": "625 SW Broadway",
+        "city": "Portland",
+        "latitude": 45.5196,
+        "longitude": -122.6797,
+        "name": "Capital One Café"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-08-06T19:00:00-07:00",
+      "id": "calagator:1250482634",
+      "is_all_day": false,
+      "listing_url": "https://www.tickettailor.com/events/oregonbioscienceincubator/2307358",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-06T17:30:00-07:00",
+      "summary": "Join us for OBI’s Accelerate Biotech Happy Hour on Thursday, August 6, from 5:30 to 7:00 PM.\r\n\r\nEnjoy great conversations, new connections, and a relaxed space to connect with members of Oregon’s bioscience community. This month’s happy hour is made possible with support from our beverage sponsor, Deb Anderson.\r\n\r\nCome meet fellow innovators, entrepreneurs, and industry professionals, share ideas, and build relationships that help strengthen our growing bioscience ecosystem.\r\n\r\nWhether you’re new to OBI or a familiar face, we’d love to see you there!\r\n\r\nWhen: Thursday, August 6 | 5:30 to 7:00 PM\r\nWhere: OBI Event Space | Suite 230\r\n\r\nRSVP and join us for an easy, welcoming evening built around connection and good company.",
+      "title": "8-6-26 Accelerate Biotech Happy Hour",
+      "venue": {
+        "address": "4640 SW Macadam Avenue, Suite 270",
+        "city": "Portland",
+        "latitude": 45.489,
+        "longitude": -122.6719,
+        "name": "Oregon Bioscience Incubator (OBI)"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-08T17:00:00-07:00",
+      "id": "calagator:1250482648",
+      "is_all_day": false,
+      "listing_url": "https://clipdx.com/htmlday/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-08T13:00:00-07:00",
+      "summary": "HTML Day is coming to Portland!\r\n\r\nHTML Day is a worldwide celebration of one of the internet's most foundational technologies: HyperText Markup Language! In solidarity with html.energy, we are assembling HTML lovers and the HTML curious alike to celebrate this strange and wonderful grammar.",
+      "title": "HTML Day Portland",
+      "venue": {
+        "address": "417 SE 11th Ave",
+        "city": "Portland",
+        "latitude": 45.5198,
+        "longitude": -122.6548,
+        "name": "ADX"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-10T12:00:00-07:00",
+      "id": "calagator:1250482640",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/portland-code-coffee/events/pqckztyjclbnb/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-10T09:00:00-07:00",
+      "summary": "Code & Coffee is an inclusive, informal co-working session: drink your beverage of choice, bring your laptop, and hang out with your peers! Have engaging conversations, or focus on work or projects. This is a great opportunity to learn from others, share your knowledge, and possibly collaborate on side projects, online courses, or even your day-to-day work.\r\n\r\n---- Schedule ----\r\n\r\nYou're welcome to drop in anytime during the event. We understand that everyone may have external commitments and challenges - join us when you can!\r\n\r\nWe have informal unscheduled introductions - practice your personal elevator pitch, or take things slower to build your confidence.\r\n\r\n---- Venue ----\r\n\r\nFly Chai allow us to informally and freely use their space. If within your budget, we'd appreciate your help to sustain our use of the venue, by purchasing something tasty, whether Chai or otherwise.\r\n\r\nFind us at tables with a Code&Coffee sign - or a clump of laptop-users!\r\n\r\nWifi and power outlets are available.\r\nOur meeting area should be accessible - please let us know if not.\r\n\r\n---- What to expect ----\r\n\r\nSmaller events than you may be used to, with a mixed crowd week-to-week. We expect this is likely due to us meeting weekly, at a less central location.\r\n\r\nThese may result in what you're looking for:\r\n    A smaller, less intimidating, lower pressure, cozy atmosphere.\r\n    A mix of regular and new faces.\r\n    A simpler schedule - every week, same time, same place - that you can drop into when you like.\r\n    Being closer to you than other events.\r\n\r\nWhether those are generally or partly to your liking, we hope you'll consider dropping by sometime!\r\n\r\n---- Getting to the venue ----\r\n\r\nLook for the venue on the meetup Google map, or alternatives like OpenStreetMap.\r\n\r\n-- Driving --\r\n\r\nThere are limited parking spaces on a lot outside the venue (4+1 accessible), with more in the surrounding area.\r\n\r\n-- Transit options --\r\n\r\nBeaverton Central (Red/Blue MAX), then walk~ 8 minutes\r\n\r\nBeaverton Transit Center (Red/Blue MAX, bus, WES) then walk ~11 minutes\r\n\r\nFor a shorter walk to the venue, take a bus from Beaverton Transit Center (52 to Farmington/Hall, 76 to Watson/Broadway, 57 to Canyon/Watson)",
+      "title": "Code & Coffee - Beaverton",
+      "venue": {
+        "address": "12520 Southwest Farmington Road",
+        "city": "Beaverton",
+        "latitude": 45.4867,
+        "longitude": -122.8053,
+        "name": "Fly Chai"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-12T20:30:00-07:00",
+      "id": "calagator:1250482568",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-12T18:30:00-07:00",
+      "summary": "Get up-to-date information at: https://luma.com/weiq3t3f\n\nAddress:\nHawthorne Asylum Food Cart Pod\nPortland, Oregon\nUnited States\n\nHosted by Erin M Miles Rasmussen",
+      "title": "Portland Drupal User Group",
+      "venue": {
+        "address": "1080 SE Madison St",
+        "city": "Portland",
+        "latitude": 45.5128,
+        "longitude": -122.6553,
+        "name": "Hawthorne Asylum Food Cart Pod"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-15T12:30:00-07:00",
+      "id": "calagator:1250482301",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/portland-code-coffee/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-15T10:00:00-07:00",
+      "summary": "Details\r\n## What to Expect:\r\nCode and Coffee is an inclusive, informal co-working session. Drink some coffee, bring your laptop, and have engaging conversations. This is a great opportunity to learn from others, share your knowledge, and possibly collaborate on side projects, online courses, or even your day-to-day work tasks.\r\nStill uncertain? Let's chat on Discord!\r\n## Venue:\r\nThe Venue is at Roseline Café, who is graciously allowing us to host a space. WIFI, power outlets\r\nRecommended Parking: Smart Park, $7 all day https://www.portland.gov/transportation/parking/smartpark\r\n\r\n## Coffee:\r\nRoseline Café has drip coffee and fixings available for it\r\n\r\n## Agenda:\r\n10 AM - Arrival\r\n10:15 AM - Introductions:\r\nShare your name\r\nDiscuss your current projects or interests. If you don’t have a specific project, share what intrigues you!\r\nMention your expertise and how you can assist others.\r\nAre you job hunting or hiring? Let us know!\r\nCommunity events you wanna plug. If none, that's cool too.\r\n12:30 AM - Wrapping Up: You can stay longer, but we'll officially be done! We usually grab lunch as a group at near by food carts",
+      "title": "Code & Coffee @ Roseline Café",
+      "venue": {
+        "name": "Roseline Cafe"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-16T17:00:00-07:00",
+      "id": "calagator:1250482644",
+      "is_all_day": false,
+      "listing_url": "https://pdxlinux.org/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-16T13:00:00-07:00",
+      "summary": "That PLUG Clinic you like is coming back into style!\r\n\r\nThe PLUG Clinic returns again this month on July 19, from 1pm-5pm. We are back at the Albina Branch Library this month. If you need help with your Linux computer, or want to offer help, you are welcome!\r\n\r\nVolunteer helpers are as desirable as helpees. Helping is fun and rewarding. If you've ever helped out at a PLUG Clinic before, come checkout the space!\r\n\r\nThanks to the taxpayers of Multnomah County for the beautiful new building!",
+      "title": "Portland Linux/Unix Group's Monthly Linux Clinic",
+      "venue": {
+        "address": "205 NE Russell St",
+        "city": "Portland",
+        "latitude": 45.5412,
+        "longitude": -122.6633,
+        "name": "Multnomah County Library Albina Branch"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-17T12:00:00-07:00",
+      "id": "calagator:1250482641",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/portland-code-coffee/events/pqckztyjclbwb/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-17T09:00:00-07:00",
+      "summary": "Code & Coffee is an inclusive, informal co-working session: drink your beverage of choice, bring your laptop, and hang out with your peers! Have engaging conversations, or focus on work or projects. This is a great opportunity to learn from others, share your knowledge, and possibly collaborate on side projects, online courses, or even your day-to-day work.\r\n\r\n---- Schedule ----\r\n\r\nYou're welcome to drop in anytime during the event. We understand that everyone may have external commitments and challenges - join us when you can!\r\n\r\nWe have informal unscheduled introductions - practice your personal elevator pitch, or take things slower to build your confidence.\r\n\r\n---- Venue ----\r\n\r\nFly Chai allow us to informally and freely use their space. If within your budget, we'd appreciate your help to sustain our use of the venue, by purchasing something tasty, whether Chai or otherwise.\r\n\r\nFind us at tables with a Code&Coffee sign - or a clump of laptop-users!\r\n\r\nWifi and power outlets are available.\r\nOur meeting area should be accessible - please let us know if not.\r\n\r\n---- What to expect ----\r\n\r\nSmaller events than you may be used to, with a mixed crowd week-to-week. We expect this is likely due to us meeting weekly, at a less central location.\r\n\r\nThese may result in what you're looking for:\r\n    A smaller, less intimidating, lower pressure, cozy atmosphere.\r\n    A mix of regular and new faces.\r\n    A simpler schedule - every week, same time, same place - that you can drop into when you like.\r\n    Being closer to you than other events.\r\n\r\nWhether those are generally or partly to your liking, we hope you'll consider dropping by sometime!\r\n\r\n---- Getting to the venue ----\r\n\r\nLook for the venue on the meetup Google map, or alternatives like OpenStreetMap.\r\n\r\n-- Driving --\r\n\r\nThere are limited parking spaces on a lot outside the venue (4+1 accessible), with more in the surrounding area.\r\n\r\n-- Transit options --\r\n\r\nBeaverton Central (Red/Blue MAX), then walk~ 8 minutes\r\n\r\nBeaverton Transit Center (Red/Blue MAX, bus, WES) then walk ~11 minutes\r\n\r\nFor a shorter walk to the venue, take a bus from Beaverton Transit Center (52 to Farmington/Hall, 76 to Watson/Broadway, 57 to Canyon/Watson)",
+      "title": "Code & Coffee - Beaverton",
+      "venue": {
+        "address": "12520 Southwest Farmington Road",
+        "city": "Beaverton",
+        "latitude": 45.4867,
+        "longitude": -122.8053,
+        "name": "Fly Chai"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-24T12:00:00-07:00",
+      "id": "calagator:1250482642",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/portland-code-coffee/events/pqckztyjclbgc/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-24T09:00:00-07:00",
+      "summary": "Code & Coffee is an inclusive, informal co-working session: drink your beverage of choice, bring your laptop, and hang out with your peers! Have engaging conversations, or focus on work or projects. This is a great opportunity to learn from others, share your knowledge, and possibly collaborate on side projects, online courses, or even your day-to-day work.\r\n\r\n---- Schedule ----\r\n\r\nYou're welcome to drop in anytime during the event. We understand that everyone may have external commitments and challenges - join us when you can!\r\n\r\nWe have informal unscheduled introductions - practice your personal elevator pitch, or take things slower to build your confidence.\r\n\r\n---- Venue ----\r\n\r\nFly Chai allow us to informally and freely use their space. If within your budget, we'd appreciate your help to sustain our use of the venue, by purchasing something tasty, whether Chai or otherwise.\r\n\r\nFind us at tables with a Code&Coffee sign - or a clump of laptop-users!\r\n\r\nWifi and power outlets are available.\r\nOur meeting area should be accessible - please let us know if not.\r\n\r\n---- What to expect ----\r\n\r\nSmaller events than you may be used to, with a mixed crowd week-to-week. We expect this is likely due to us meeting weekly, at a less central location.\r\n\r\nThese may result in what you're looking for:\r\n    A smaller, less intimidating, lower pressure, cozy atmosphere.\r\n    A mix of regular and new faces.\r\n    A simpler schedule - every week, same time, same place - that you can drop into when you like.\r\n    Being closer to you than other events.\r\n\r\nWhether those are generally or partly to your liking, we hope you'll consider dropping by sometime!\r\n\r\n---- Getting to the venue ----\r\n\r\nLook for the venue on the meetup Google map, or alternatives like OpenStreetMap.\r\n\r\n-- Driving --\r\n\r\nThere are limited parking spaces on a lot outside the venue (4+1 accessible), with more in the surrounding area.\r\n\r\n-- Transit options --\r\n\r\nBeaverton Central (Red/Blue MAX), then walk~ 8 minutes\r\n\r\nBeaverton Transit Center (Red/Blue MAX, bus, WES) then walk ~11 minutes\r\n\r\nFor a shorter walk to the venue, take a bus from Beaverton Transit Center (52 to Farmington/Hall, 76 to Watson/Broadway, 57 to Canyon/Watson)",
+      "title": "Code & Coffee - Beaverton",
+      "venue": {
+        "address": "12520 Southwest Farmington Road",
+        "city": "Beaverton",
+        "latitude": 45.4867,
+        "longitude": -122.8053,
+        "name": "Fly Chai"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-05T13:00:00-07:00",
+      "id": "calagator:1250482289",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/mentorship-saturdays",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-05T10:00:00-07:00",
+      "summary": "Thanks to Roseline Coffee for providing a physical location! Find inside the hotel and to the right, likely on the couches\r\n\r\nCoffee, bagels and people working on their careers and code! We have 2-5 mentors every month ready to help people get started in the industry, get help with a particular problem, or get career advice. We offer resume reviews, portfolio reviews, and sometimes mock interviews (time permitting).\r\n\r\nOnline Teams Link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlODMyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e%22%7d\r\n\r\nOr call in (audio only)\r\n\r\n+1 872-240-8681,,882162595# United States, Chicago\r\n\r\nPhone Conference ID: 882 162 595#\r\n\r\nThanks to Capital One Café for providing a physical location!\r\n\r\nDiscord https://discord.gg/nSCxgbcG7U\r\n\r\nShare",
+      "title": "Mentorship Saturdays @ Roseline Cafe & Online",
+      "venue": {
+        "name": "Roseline Cafe"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-10T00:00:00-07:00",
+      "id": "calagator:1250482618",
+      "is_all_day": false,
+      "listing_url": "https://devopsdays.org/events/2026-portland-or/welcome/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-08T00:00:00-07:00",
+      "summary": "Join us at DevOpsDays Portland - September 8-10, 2026 at Portland State University!\r\n\r\nDevopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Each event is run by volunteers from the local area. We welcome speakers of all backgrounds and experience levels. DevOpsDays Portland is about sharing real stories, practical lessons, and building community.\r\n\r\nThe CFP and registration are both open now, so go get your tickets now.",
+      "title": "DevopsDays PDX",
+      "venue": {
+        "address": "1825 SW Broadway",
+        "city": "Portland",
+        "latitude": 45.5119,
+        "longitude": -122.6844,
+        "name": "PSU Smith Union Building"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-09T20:30:00-07:00",
+      "id": "calagator:1250482569",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-09T18:30:00-07:00",
+      "summary": "Get up-to-date information at: https://luma.com/fgpd1gc8\n\nAddress:\nHawthorne Asylum Food Cart Pod\nPortland, Oregon\nUnited States\n\nHosted by Erin M Miles Rasmussen",
+      "title": "Portland Drupal User Group",
+      "venue": {
+        "address": "1080 SE Madison St",
+        "city": "Portland",
+        "latitude": 45.5128,
+        "longitude": -122.6553,
+        "name": "Hawthorne Asylum Food Cart Pod"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-17T20:00:00-07:00",
+      "id": "calagator:1250482613",
+      "is_all_day": false,
+      "listing_url": "https://www.tickettailor.com/events/oregonbioscienceincubator/2102695",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-17T17:00:00-07:00",
+      "summary": "Startup Spotlight Expo 2026: Showcasing Innovation in Biotech & Life Sciences\r\n\r\nJoin us for an engaging evening at OBI’s Annual Startup Spotlight Expo, where innovation meets connection. This signature event highlights the groundbreaking work of OBI’s resident startups across biotech, health, and life sciences, offering a firsthand look at the ideas and technologies shaping the future of the industry.\r\n\r\nConnect with founders and researchers and experience the creativity driving real-world impact in health and science. Whether you are an investor, industry partner, or part of the broader innovation community, this is a chance to see what’s next and meet the people making it happen.\r\n\r\nThe evening will also feature a panel of industry experts sharing timely insights on current trends, challenges, and opportunities across biotech and life sciences.\r\n\r\nCatering will be provided by Mundo Catering, adding a vibrant and flavorful touch to the experience.\r\n\r\nPanel Discussion: Biotech Funding in 2026: What Investors Are Saying Yes To\r\n\r\nThis year’s Startup Spotlight Expo program features an insightful panel discussion, moderated by Cara Turano, featuring industry leaders Shula Jaron of ONAMI, Shashi Jain of Portland Seed Fund, and Ben Nahir of Elevate Capital. Join a panel of biotech investors and industry leaders for a discussion on the current funding landscape, emerging trends, and what makes companies stand out in today's competitive market.",
+      "title": "OBI Startup Spotlight Expo",
+      "venue": {
+        "address": "4640 SW Macadam Avenue, Suite 270",
+        "city": "Portland",
+        "latitude": 45.489,
+        "longitude": -122.6719,
+        "name": "Oregon Bioscience Incubator (OBI)"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-19T12:30:00-07:00",
+      "id": "calagator:1250482302",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/portland-code-coffee/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-19T10:00:00-07:00",
+      "summary": "Details\r\n## What to Expect:\r\nCode and Coffee is an inclusive, informal co-working session. Drink some coffee, bring your laptop, and have engaging conversations. This is a great opportunity to learn from others, share your knowledge, and possibly collaborate on side projects, online courses, or even your day-to-day work tasks.\r\nStill uncertain? Let's chat on Discord!\r\n## Venue:\r\nThe Venue is at Roseline Café, who is graciously allowing us to host a space. WIFI, power outlets\r\nRecommended Parking: Smart Park, $7 all day https://www.portland.gov/transportation/parking/smartpark\r\n\r\n## Coffee:\r\nRoseline Café has drip coffee and fixings available for it\r\n\r\n## Agenda:\r\n10 AM - Arrival\r\n10:15 AM - Introductions:\r\nShare your name\r\nDiscuss your current projects or interests. If you don’t have a specific project, share what intrigues you!\r\nMention your expertise and how you can assist others.\r\nAre you job hunting or hiring? Let us know!\r\nCommunity events you wanna plug. If none, that's cool too.\r\n12:30 AM - Wrapping Up: You can stay longer, but we'll officially be done! We usually grab lunch as a group at near by food carts",
+      "title": "Code & Coffee @ Roseline Café",
+      "venue": {
+        "name": "Roseline Cafe"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-03T13:00:00-07:00",
+      "id": "calagator:1250482290",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/mentorship-saturdays",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-03T10:00:00-07:00",
+      "summary": "Thanks to Roseline Coffee for providing a physical location! Find inside the hotel and to the right, likely on the couches\r\n\r\nCoffee, bagels and people working on their careers and code! We have 2-5 mentors every month ready to help people get started in the industry, get help with a particular problem, or get career advice. We offer resume reviews, portfolio reviews, and sometimes mock interviews (time permitting).\r\n\r\nOnline Teams Link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlODMyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e%22%7d\r\n\r\nOr call in (audio only)\r\n\r\n+1 872-240-8681,,882162595# United States, Chicago\r\n\r\nPhone Conference ID: 882 162 595#\r\n\r\nThanks to Capital One Café for providing a physical location!\r\n\r\nDiscord https://discord.gg/nSCxgbcG7U\r\n\r\nShare",
+      "title": "Mentorship Saturdays @ Roseline Cafe & Online",
+      "venue": {
+        "name": "Roseline Cafe"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-14T20:30:00-07:00",
+      "id": "calagator:1250482570",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-14T18:30:00-07:00",
+      "summary": "Get up-to-date information at: https://luma.com/3e2o26k9\n\nAddress:\nHawthorne Asylum Food Cart Pod\nPortland, Oregon\nUnited States\n\nHosted by Erin M Miles Rasmussen",
+      "title": "Portland Drupal User Group",
+      "venue": {
+        "address": "1080 SE Madison St",
+        "city": "Portland",
+        "latitude": 45.5128,
+        "longitude": -122.6553,
+        "name": "Hawthorne Asylum Food Cart Pod"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-17T12:30:00-07:00",
+      "id": "calagator:1250482303",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/portland-code-coffee/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-17T10:00:00-07:00",
+      "summary": "Details\r\n## What to Expect:\r\nCode and Coffee is an inclusive, informal co-working session. Drink some coffee, bring your laptop, and have engaging conversations. This is a great opportunity to learn from others, share your knowledge, and possibly collaborate on side projects, online courses, or even your day-to-day work tasks.\r\nStill uncertain? Let's chat on Discord!\r\n## Venue:\r\nThe Venue is at Roseline Café, who is graciously allowing us to host a space. WIFI, power outlets\r\nRecommended Parking: Smart Park, $7 all day https://www.portland.gov/transportation/parking/smartpark\r\n\r\n## Coffee:\r\nRoseline Café has drip coffee and fixings available for it\r\n\r\n## Agenda:\r\n10 AM - Arrival\r\n10:15 AM - Introductions:\r\nShare your name\r\nDiscuss your current projects or interests. If you don’t have a specific project, share what intrigues you!\r\nMention your expertise and how you can assist others.\r\nAre you job hunting or hiring? Let us know!\r\nCommunity events you wanna plug. If none, that's cool too.\r\n12:30 AM - Wrapping Up: You can stay longer, but we'll officially be done! We usually grab lunch as a group at near by food carts",
+      "title": "Code & Coffee @ Roseline Café",
+      "venue": {
+        "name": "Roseline Cafe"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-07T13:00:00-08:00",
+      "id": "calagator:1250482291",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/mentorship-saturdays",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-07T10:00:00-08:00",
+      "summary": "Thanks to Roseline Coffee for providing a physical location! Find inside the hotel and to the right, likely on the couches\r\n\r\nCoffee, bagels and people working on their careers and code! We have 2-5 mentors every month ready to help people get started in the industry, get help with a particular problem, or get career advice. We offer resume reviews, portfolio reviews, and sometimes mock interviews (time permitting).\r\n\r\nOnline Teams Link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlODMyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e%22%7d\r\n\r\nOr call in (audio only)\r\n\r\n+1 872-240-8681,,882162595# United States, Chicago\r\n\r\nPhone Conference ID: 882 162 595#\r\n\r\nThanks to Capital One Café for providing a physical location!\r\n\r\nDiscord https://discord.gg/nSCxgbcG7U\r\n\r\nShare",
+      "title": "Mentorship Saturdays @ Roseline Cafe & Online",
+      "venue": {
+        "name": "Roseline Cafe"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-11T20:30:00-08:00",
+      "id": "calagator:1250482571",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-11T18:30:00-08:00",
+      "summary": "Get up-to-date information at: https://luma.com/wf629e9l\n\nAddress:\nHawthorne Asylum Food Cart Pod\nPortland, Oregon\nUnited States\n\nHosted by Erin M Miles Rasmussen",
+      "title": "Portland Drupal User Group",
+      "venue": {
+        "address": "1080 SE Madison St",
+        "city": "Portland",
+        "latitude": 45.5128,
+        "longitude": -122.6553,
+        "name": "Hawthorne Asylum Food Cart Pod"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-21T12:30:00-08:00",
+      "id": "calagator:1250482304",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/portland-code-coffee/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-21T10:00:00-08:00",
+      "summary": "Details\r\n## What to Expect:\r\nCode and Coffee is an inclusive, informal co-working session. Drink some coffee, bring your laptop, and have engaging conversations. This is a great opportunity to learn from others, share your knowledge, and possibly collaborate on side projects, online courses, or even your day-to-day work tasks.\r\nStill uncertain? Let's chat on Discord!\r\n## Venue:\r\nThe Venue is at Roseline Café, who is graciously allowing us to host a space. WIFI, power outlets\r\nRecommended Parking: Smart Park, $7 all day https://www.portland.gov/transportation/parking/smartpark\r\n\r\n## Coffee:\r\nRoseline Café has drip coffee and fixings available for it\r\n\r\n## Agenda:\r\n10 AM - Arrival\r\n10:15 AM - Introductions:\r\nShare your name\r\nDiscuss your current projects or interests. If you don’t have a specific project, share what intrigues you!\r\nMention your expertise and how you can assist others.\r\nAre you job hunting or hiring? Let us know!\r\nCommunity events you wanna plug. If none, that's cool too.\r\n12:30 AM - Wrapping Up: You can stay longer, but we'll officially be done! We usually grab lunch as a group at near by food carts",
+      "title": "Code & Coffee @ Roseline Café",
+      "venue": {
+        "name": "Roseline Cafe"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-12-05T13:00:00-08:00",
+      "id": "calagator:1250482292",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/mentorship-saturdays",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-12-05T10:00:00-08:00",
+      "summary": "Thanks to Roseline Coffee for providing a physical location! Find inside the hotel and to the right, likely on the couches\r\n\r\nCoffee, bagels and people working on their careers and code! We have 2-5 mentors every month ready to help people get started in the industry, get help with a particular problem, or get career advice. We offer resume reviews, portfolio reviews, and sometimes mock interviews (time permitting).\r\n\r\nOnline Teams Link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlODMyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e%22%7d\r\n\r\nOr call in (audio only)\r\n\r\n+1 872-240-8681,,882162595# United States, Chicago\r\n\r\nPhone Conference ID: 882 162 595#\r\n\r\nThanks to Capital One Café for providing a physical location!\r\n\r\nDiscord https://discord.gg/nSCxgbcG7U\r\n\r\nShare",
+      "title": "Mentorship Saturdays @ Roseline Cafe & Online",
+      "venue": {
+        "name": "Roseline Cafe"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-12-09T20:30:00-08:00",
+      "id": "calagator:1250482572",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-12-09T18:30:00-08:00",
+      "summary": "Get up-to-date information at: https://luma.com/waifbpzl\n\nAddress:\nHawthorne Asylum Food Cart Pod\nPortland, Oregon\nUnited States\n\nHosted by Erin M Miles Rasmussen",
+      "title": "Portland Drupal User Group",
+      "venue": {
+        "address": "1080 SE Madison St",
+        "city": "Portland",
+        "latitude": 45.5128,
+        "longitude": -122.6553,
+        "name": "Hawthorne Asylum Food Cart Pod"
+      }
+    }
+  ],
+  "generated_at": "2026-07-27T06:52:25+00:00",
+  "source_id": "calagator",
+  "status": "ok"
+}
