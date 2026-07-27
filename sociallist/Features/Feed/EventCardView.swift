@@ -36,8 +36,16 @@ struct EventRowCard: View {
                     .labelStyle(.compactLabel)
                     .lineLimit(1)
 
+                // This row is only 241pt wide on a 390pt phone once the feed
+                // padding, card padding and thumbnail are subtracted, so a
+                // badge that says nothing is expensive. Omitted rather than
+                // emptied: a false `if` drops the subview and its 6pt of
+                // spacing, where a zero-size placeholder would still indent
+                // the category tag by 6pt.
                 HStack(spacing: 6) {
-                    PriceBadge(price: event.price)
+                    if event.price.isKnown {
+                        PriceBadge(price: event.price)
+                    }
                     if let category = event.categories.first {
                         CategoryTag(category: category)
                     }
@@ -89,8 +97,10 @@ struct EventHighlightCard: View {
                     .foregroundStyle(Theme.inkSecondary)
                     .lineLimit(1)
 
-                PriceBadge(price: event.price)
-                    .padding(.top, 2)
+                if event.price.isKnown {
+                    PriceBadge(price: event.price)
+                        .padding(.top, 2)
+                }
             }
             .padding(11)
             .frame(maxHeight: .infinity, alignment: .top)

@@ -151,6 +151,12 @@ struct EventDetailView: View {
                 Divider().padding(.leading, 48)
             }
 
+            // Unlike the cards, this keeps the "See listing" fallback. They
+            // drop it because the badge competes for a 241pt row; a full-width
+            // row costs nothing here, and saying nothing would be worse than
+            // the fallback — with no price row at all the reader cannot tell an
+            // unpriced listing from a free one. The listing button the fallback
+            // sends them to is on this screen already.
             detailRow(
                 icon: "tag",
                 title: event.price.displayText,

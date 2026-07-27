@@ -163,6 +163,19 @@ struct Price: Codable, Hashable {
         Price(isFree: false, min: low, max: high)
     }
 
+    /// Whether the feed actually told us anything about what this costs.
+    ///
+    /// Usually it did not — around three quarters of the live feed has no
+    /// price. Calagator has no price field at all, Oregon Metro states none,
+    /// and Ticketmaster publishes one for under a third of its listings. So
+    /// this is the common case rather than the exception, and compact layouts
+    /// check it and omit the badge instead of spending their narrowest row on
+    /// a label that says nothing.
+    var isKnown: Bool { isFree || min != nil }
+
+    /// Falls back to "See listing" when the price is unknown, which is only
+    /// worth rendering somewhere that has room to be told there is nothing to
+    /// tell. Check `isKnown` first on anything card-sized.
     var displayText: String {
         if isFree { return "Free" }
         guard let min else { return "See listing" }

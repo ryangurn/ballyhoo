@@ -40,6 +40,8 @@ struct EventThumbnail: View {
 
 // MARK: - Badges
 
+/// Worth showing only for a price that `isKnown`. Callers on a tight row skip
+/// it rather than render the "See listing" fallback.
 struct PriceBadge: View {
     let price: Price
 
@@ -56,8 +58,9 @@ struct PriceBadge: View {
                     : Theme.surfaceRaised,
                 in: .rect(cornerRadius: 8)
             )
-            // A pill that wraps stops reading as a pill. "See listing" is long
-            // enough to break across lines when the row is tight.
+            // A pill that wraps stops reading as a pill, and a range like
+            // $45–$199 is long enough to break across lines when the row is
+            // tight.
             .fixedSize()
     }
 }
