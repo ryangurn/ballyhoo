@@ -25,14 +25,6 @@
       "venue": "Moda Center"
     },
     {
-      "dropped": "eventbrite:1991320707842",
-      "kept": "dopdx:17645267",
-      "start_at": "2026-07-28T18:00:00-07:00",
-      "title_dropped": "Intro to TaeKwon-Do class",
-      "title_kept": "Intro to TaeKwon-Do class",
-      "venue": "Portland Metro Arts"
-    },
-    {
       "dropped": "eventbrite:1993994085988",
       "kept": "dopdx:17451594",
       "start_at": "2026-07-28T19:00:00-07:00",
@@ -473,6 +465,14 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "eventbrite:1979275712938",
+      "kept": "dopdx:17489898",
+      "start_at": "2026-08-07T19:30:00-07:00",
+      "title_dropped": "Dead Comics Society",
+      "title_kept": "Dead Comics Society",
+      "venue": "Framework"
+    },
+    {
       "dropped": "dopdx:17086929",
       "kept": "ticketmaster:Z7r9jZ1A7-t08",
       "start_at": "2026-08-07T20:00:00-07:00",
@@ -522,10 +522,10 @@
     },
     {
       "dropped": "pdxparent_markets:vancouver-farmers-market@2026-08-08",
-      "kept": "eventbrite:1988582517842",
+      "kept": "eventbrite:1988199312665",
       "start_at": "2026-08-08T09:00:00-07:00",
       "title_dropped": "Vancouver Farmers Market",
-      "title_kept": "по фермерскому рынку в центре Ванкувера",
+      "title_kept": "Recorrido del mercado de agricultores del centro de Vancouver",
       "venue": "Vancouver Farmers Market"
     },
     {
@@ -1161,6 +1161,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "eventbrite:1936898097349",
+      "kept": "dopdx:17255665",
+      "start_at": "2026-08-20T22:00:00-07:00",
+      "title_dropped": "Roast Battle Portland",
+      "title_kept": "Roast Battle Portland",
+      "venue": "Funhouse Lounge"
+    },
+    {
       "dropped": "dopdx:17195984",
       "kept": "ticketmaster:Z7r9jZ1A7P-jM",
       "start_at": "2026-08-21T18:30:00-07:00",
@@ -1282,16 +1290,16 @@
     },
     {
       "dropped": "pdxparent_markets:vancouver-farmers-market@2026-08-22",
-      "kept": "eventbrite:1988582545926",
+      "kept": "eventbrite:1988199341752",
       "start_at": "2026-08-22T09:00:00-07:00",
       "title_dropped": "Vancouver Farmers Market",
-      "title_kept": "по фермерскому рынку в центре Ванкувера",
+      "title_kept": "Recorrido del mercado de agricultores del centro de Vancouver",
       "venue": "Vancouver Farmers Market"
     }
   ],
-  "event_count": 4264,
-  "floor_check": "4264 events against a 4223-event baseline",
-  "generated_at": "2026-07-27T17:23:28+00:00",
+  "event_count": 4244,
+  "floor_check": "4244 events against a 4223-event baseline",
+  "generated_at": "2026-07-27T18:01:21+00:00",
   "problems": [],
   "sources": [
     "calagator",
