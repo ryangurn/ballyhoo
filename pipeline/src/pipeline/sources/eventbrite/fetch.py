@@ -3,7 +3,7 @@
 The request the discovery UI makes, replicated:
 
     POST /api/v3/destination/search/
-    Referer: https://www.eventbrite.com/d/or--portland/events/
+    Referer: https://www.eventbrite.com/
     X-CSRFToken: <the csrftoken cookie>
     {"event_search": {"places": ["101715829"],
                       "date_range": {"from": "2026-07-27", "to": "2026-08-02"},
@@ -39,6 +39,34 @@ log = get_logger(__name__)
 
 class EventbriteFetchError(Exception):
     """Upstream did not return usable data."""
+
+
+class EventbriteChallengedError(EventbriteFetchError):
+    """Eventbrite served an AWS WAF bot challenge instead of a response.
+
+    Distinct from every other failure because it is the one that should not be worked
+    around. See `config` for the measurement; the short version is that the challenge
+    currently covers the `/d/` pages and not this endpoint, and if it ever covers this
+    endpoint the source should be retired rather than dressed up to get past it.
+    """
+
+
+def _reject_if_challenged(response: requests.Response, *, what: str) -> None:
+    """Fail loudly, and without retrying, on a WAF challenge.
+
+    Retrying is pointless — a challenge is not a transient error and every subsequent
+    request in the run will get the same one — and quietly absorbing it would turn a
+    deliberate refusal into an unexplained empty feed.
+    """
+    action = response.headers.get(config.WAF_ACTION_HEADER)
+    if not action:
+        return
+    raise EventbriteChallengedError(
+        f"{what} returned HTTP {response.status_code} with {config.WAF_ACTION_HEADER}: {action}. "
+        f"Eventbrite is challenging this caller rather than serving it. If this is the search "
+        f"endpoint, the bot rule that covers the discovery pages now covers the API too and this "
+        f"source should be retired, not worked around."
+    )
 
 
 @dataclass(frozen=True, slots=True)
@@ -197,25 +225,29 @@ def parse_result(item: Any, *, matched_free_filter: bool) -> RawEvent | None:
 
 
 def _bootstrap(session: requests.Session) -> str:
-    """Load a discovery page for its `csrftoken` cookie.
+    """Load the site root for its `csrftoken` cookie.
 
     The search endpoint is CSRF-guarded rather than authenticated: any anonymous page
     load hands out a usable token. No account or API key is involved.
+
+    The root rather than the discovery page because the discovery page is behind a WAF
+    CAPTCHA for datacenter callers and the root is not; `config` has the measurement.
     """
     try:
         response = session.get(
-            config.DISCOVERY_URL,
+            config.BOOTSTRAP_URL,
             timeout=config.REQUEST_TIMEOUT_SECONDS,
             headers={"User-Agent": USER_AGENT, "Accept": "text/html"},
         )
+        _reject_if_challenged(response, what=config.BOOTSTRAP_URL)
         response.raise_for_status()
     except requests.RequestException as exc:
-        raise EventbriteFetchError(f"could not load {config.DISCOVERY_URL} to obtain a CSRF token: {exc}") from exc
+        raise EventbriteFetchError(f"could not load {config.BOOTSTRAP_URL} to obtain a CSRF token: {exc}") from exc
 
     token = session.cookies.get("csrftoken")
     if not token:
         raise EventbriteFetchError(
-            "no csrftoken cookie on the discovery page; Eventbrite's CSRF scheme has changed "
+            f"no csrftoken cookie on {config.BOOTSTRAP_URL}; Eventbrite's CSRF scheme has changed "
             "and the search endpoint will reject every request"
         )
     return token
@@ -263,10 +295,11 @@ class _Client:
                         "Content-Type": "application/json",
                         # Both are load-bearing: the endpoint rejects the POST without
                         # a same-origin Referer *and* the cookie echoed as a header.
-                        "Referer": config.DISCOVERY_URL,
+                        "Referer": config.BOOTSTRAP_URL,
                         "X-CSRFToken": self.token,
                     },
                 )
+                _reject_if_challenged(response, what=config.SEARCH_URL)
                 if response.status_code == 429:
                     wait = min(2**attempt, 20)
                     log.warning("rate limited; waiting %ds", wait)

@@ -22,12 +22,39 @@ bounds. No browser impersonation is needed; there is no Cloudflare challenge her
 **It is CSRF-guarded, not authenticated.** The endpoint rejects a bare POST with
 `ACCESS_DENIED`. It needs three things together, all obtainable anonymously: a
 `Referer` on eventbrite.com, the `csrftoken` cookie handed out by any page load, and
-that same token echoed in an `X-CSRFToken` header. `fetch.py` bootstraps by GETting the
-discovery page once. No account, no key, no secret.
+that same token echoed in an `X-CSRFToken` header. `fetch.py` bootstraps by GETting a
+page once for the cookie. No account, no key, no secret.
+
+**Why the bootstrap uses the site root and not the discovery page.** The `/d/` discovery
+pages sit behind an AWS WAF CAPTCHA action for datacenter callers. From a laptop they
+return 200; from a GitHub Actions runner they return HTTP 405 with
+`x-amzn-waf-action: captcha` and a "Human Verification" interstitial, which is AWS WAF's
+documented status code for that challenge rather than any statement about the method.
+Measured from a runner: nine clients — curl over HTTP/2 and HTTP/1.1, `requests` bare
+and with a full browser header set, `httpx` over HTTP/2, and six `curl_cffi`
+impersonation profiles including the `safari17_0` and `firefox133` that cleared
+Cloudflare elsewhere in this project — all received the same 2,543-byte challenge, so it
+is not TLS fingerprinting and not header shape.
+
+It is also not the runner's address range. In the same job, seconds apart, the site root
+returned 200 and set a `csrftoken`, and this search endpoint returned 200 with 828
+events for the first week. The WAF rule is scoped to `/d/`, which is the HTML surface;
+the JSON endpoint robots.txt permits is untouched by it.
+
+So the bootstrap moved to the root. That is not a way around the challenge — the
+challenged path is simply never requested, no WAF token is presented or solved, the
+User-Agent stays honest and no impersonation is involved. The discovery page was only
+ever a place to pick up a cookie the root hands out just as freely.
 
 **Fragility.** This is the site's own front-end contract, not a published API, so it
 can change without notice. The failure is loud: a shape change means page one raises
 and the run fails rather than publishing a gutted feed.
+
+The specific thing to watch is that WAF rule widening. `fetch.py` checks every response
+for `x-amzn-waf-action` and fails immediately and by name if it appears, rather than
+retrying into it. If Eventbrite ever extends the challenge to the search endpoint, that
+is a deliberate statement that they do not want this traffic, and the right response is
+to retire the source rather than escalate against it.
 """
 
 from __future__ import annotations
@@ -48,8 +75,23 @@ SOURCE = Source(
 SEARCH_URL = "https://www.eventbrite.com/api/v3/destination/search/"
 
 # GET once to collect the `csrftoken` cookie, and sent as the Referer on every POST.
-# Both are required — the endpoint 401s without either.
+# Both are required — the endpoint 401s without either, with `CSRF cookie not set` and
+# `Referer checking failed` respectively.
+#
+# One constant serves both so the Referer is always a page we actually loaded. Django
+# checks the Referer's origin rather than its path, so the root satisfies it; claiming
+# to have come from the discovery page while being unable to fetch it would be a
+# fiction, and an obvious one to anyone reading the edge logs.
+BOOTSTRAP_URL = "https://www.eventbrite.com/"
+
+# The discovery page whose UI issues the search below. Kept for orientation because the
+# docstring above is about it, and deliberately never fetched: it is the path behind the
+# WAF CAPTCHA, and nothing here needs its HTML.
 DISCOVERY_URL = "https://www.eventbrite.com/d/or--portland/events/"
+
+# AWS WAF names its challenge in this response header. Its presence anywhere in a run
+# means the rule that covers /d/ has been extended to cover us too.
+WAF_ACTION_HEADER = "x-amzn-waf-action"
 
 # Eventbrite's internal locality id for Portland, Oregon, read from the `places`
 # filter the discovery page echoes back for the `or--portland` slug. Sent explicitly

@@ -182,9 +182,29 @@ What works is the endpoint the discovery UI itself calls,
 `/api/v3/destination/events/` and `/api/v3/promoted/events`, but not this path — only its
 `log_requests/` subpath. It is CSRF-guarded rather than authenticated, and needs three
 things together, all obtainable anonymously: a `Referer` on eventbrite.com, the
-`csrftoken` cookie any page load hands out, and that token echoed in `X-CSRFToken`. Miss
-any one and it returns `ACCESS_DENIED`. No account, no key. There is no Cloudflare
-challenge on this path, so no browser impersonation is involved.
+`csrftoken` cookie a page load hands out, and that token echoed in `X-CSRFToken`. Miss
+any one and it returns `ACCESS_DENIED`. No account, no key. There is no challenge on
+this path, so no browser impersonation is involved.
+
+**Which page the cookie comes from matters, and cost this source a day in production.**
+The bootstrap originally loaded the discovery page, and that page is behind an AWS WAF
+CAPTCHA action for datacenter callers. From a laptop it returns 200; from a GitHub
+Actions runner it returns HTTP 405 with `x-amzn-waf-action: captcha` and a "Human
+Verification" body — 405 being AWS WAF's status code for its interstitial rather than
+anything to do with the method, which is what makes it so easy to misread as a bug in
+the request. Nine clients measured from a runner, including `curl` over both HTTP
+versions and six `curl_cffi` impersonation profiles, all got the identical 2,543-byte
+challenge, so it is neither TLS fingerprinting nor headers. It is not the runner's
+address range either: in the same job the site root returned 200 with a `csrftoken`, and
+this search endpoint returned 200 with 828 events. The rule is scoped to `/d/`.
+
+So the bootstrap loads `https://www.eventbrite.com/` instead, and the `Referer` is that
+same URL, since Django checks the Referer's origin rather than its path. The challenged
+page is simply never requested — nothing is solved, presented or impersonated to get
+past it. `fetch.py` raises `EventbriteChallengedError` the moment any response carries
+`x-amzn-waf-action`, without retrying. If that ever fires on the search endpoint it
+means Eventbrite has extended the rule to cover this traffic deliberately, and the
+source should be retired rather than pushed harder.
 
 The payoff is `expand.destination_event=[ticket_availability,...]`, which attaches an
 explicit `is_free` boolean and ticket price bounds to every result. Without that

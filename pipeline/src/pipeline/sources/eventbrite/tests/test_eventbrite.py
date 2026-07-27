@@ -16,12 +16,20 @@ from __future__ import annotations
 from datetime import UTC, datetime, timedelta
 
 import pytest
+import requests
+import responses
 
 from pipeline.common.io import build_per_source_feed
 from pipeline.common.models import Category, Price
 from pipeline.common.validate import validate_per_source
 from pipeline.sources.eventbrite import config
-from pipeline.sources.eventbrite.fetch import date_windows, parse_result
+from pipeline.sources.eventbrite.fetch import (
+    EventbriteChallengedError,
+    _bootstrap,
+    date_windows,
+    fetch_raw,
+    parse_result,
+)
 from pipeline.sources.eventbrite.normalize import infer_categories, normalize
 
 NOW = datetime(2026, 7, 27, 12, 0, tzinfo=UTC)
@@ -407,6 +415,90 @@ class TestFetchPlumbing:
         assert raw.organizer == "adidas North America Talent Acquisition"
         assert raw.price.is_free is True
         assert raw.venue.latitude == pytest.approx(45.5599584)
+
+
+class TestBotChallenge:
+    """Eventbrite puts an AWS WAF CAPTCHA in front of the `/d/` discovery pages for
+    datacenter callers, which is what took this source out of production: the CSRF
+    bootstrap loaded one of those pages purely for a cookie and got HTTP 405 with
+    `x-amzn-waf-action: captcha`. The search endpoint itself is not behind that rule,
+    so the fix was to stop requesting the challenged page at all.
+
+    These lock in both halves of that: the bootstrap goes somewhere that is served, and
+    a challenge appearing anywhere stops the run by name instead of being retried into.
+    """
+
+    @staticmethod
+    def _challenge(url):
+        return responses.add(
+            responses.GET if url == config.BOOTSTRAP_URL else responses.POST,
+            url,
+            body="<html><title>Human Verification</title></html>",
+            status=405,
+            headers={config.WAF_ACTION_HEADER: "captcha"},
+        )
+
+    @responses.activate
+    def test_the_bootstrap_never_requests_the_challenged_discovery_page(self):
+        responses.add(
+            responses.GET, config.BOOTSTRAP_URL, body="<html></html>", status=200,
+            headers={"Set-Cookie": "csrftoken=abc123; Path=/"},
+        )
+        assert _bootstrap(requests.Session()) == "abc123"
+        assert [call.request.url for call in responses.calls] == [config.BOOTSTRAP_URL]
+
+    @responses.activate
+    def test_the_referer_is_a_page_we_actually_loaded(self, monkeypatch):
+        # Claiming to arrive from the discovery page while being unable to fetch it
+        # would be a fiction, and the one an edge rule would reasonably flag.
+        monkeypatch.setattr(config, "SECONDS_BETWEEN_REQUESTS", 0)
+        responses.add(
+            responses.GET, config.BOOTSTRAP_URL, body="<html></html>", status=200,
+            headers={"Set-Cookie": "csrftoken=abc123; Path=/"},
+        )
+        # One page of results, then empty, so paging ends rather than running to the
+        # ceiling. `responses` repeats the last registration once the rest are spent.
+        responses.add(responses.POST, config.SEARCH_URL, json={"events": {"results": [result()]}}, status=200)
+        responses.add(responses.POST, config.SEARCH_URL, json={"events": {"results": []}}, status=200)
+        fetch_raw(now=NOW, session=requests.Session())
+
+        post = next(c.request for c in responses.calls if c.request.method == "POST")
+        assert post.headers["Referer"] == config.BOOTSTRAP_URL
+        assert config.DISCOVERY_URL not in {c.request.url for c in responses.calls}
+
+    @responses.activate
+    def test_a_challenged_bootstrap_names_the_waf_rather_than_the_status(self):
+        # The 405 is AWS WAF's status code for its CAPTCHA interstitial, not a
+        # statement about the method, and reading it as one sent the last
+        # investigation looking for a request-shape bug that did not exist.
+        self._challenge(config.BOOTSTRAP_URL)
+        with pytest.raises(EventbriteChallengedError, match="captcha"):
+            _bootstrap(requests.Session())
+
+    @responses.activate
+    def test_a_challenged_search_stops_the_run_instead_of_retrying(self):
+        responses.add(
+            responses.GET, config.BOOTSTRAP_URL, body="<html></html>", status=200,
+            headers={"Set-Cookie": "csrftoken=abc123; Path=/"},
+        )
+        self._challenge(config.SEARCH_URL)
+
+        with pytest.raises(EventbriteChallengedError, match="retired, not worked around"):
+            fetch_raw(now=NOW, session=requests.Session())
+
+        # One attempt, not MAX_RETRIES: a challenge is a decision, not a blip, and
+        # hammering it would be exactly the behaviour it exists to stop.
+        assert sum(c.request.method == "POST" for c in responses.calls) == 1
+
+    def test_only_robots_permitted_paths_are_ever_requested(self):
+        # robots.txt disallows /api/v3/destination/events/ and /api/v3/promoted/events
+        # while leaving /api/v3/destination/search/ open. That distinction is the whole
+        # reason this source uses the endpoint it does.
+        for url in (config.BOOTSTRAP_URL, config.SEARCH_URL):
+            assert url.startswith("https://www.eventbrite.com/")
+            assert "/api/v3/destination/events/" not in url
+            assert "/api/v3/promoted/events" not in url
+            assert "/api/v3/destination/search/log_requests/" not in url
 
 
 def test_output_validates():
