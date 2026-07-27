@@ -1,0 +1,226 @@
+name: probe-eventbrite-405
+
+# Temporary diagnostic. The Eventbrite CSRF bootstrap GET returns 405 from a runner
+# and 200 from a laptop, which is a strange shape for reputation blocking. This
+# separates the candidate causes: if curl succeeds where requests fails, the cause is
+# the client (TLS fingerprint or headers); if everything fails, the cause is the caller
+# (the runner's IP range). Deleted once the question is settled.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Where this runner sits
+        run: |
+          echo "egress IP: $(curl -sS --max-time 15 https://api.ipify.org)"
+          echo "reverse:   $(curl -sS --max-time 15 https://ipinfo.io/json || true)"
+          echo ""
+          echo "DNS for www.eventbrite.com:"
+          getent ahosts www.eventbrite.com || true
+          echo ""
+          echo "curl version:"
+          curl --version | head -2
+          echo ""
+          echo "openssl version: $(openssl version)"
+
+      - name: curl matrix against the discovery page
+        run: |
+          UA_PROJECT='sociallist-pipeline/0.1 (github.com/ryangurn/sociallist)'
+          UA_BROWSER='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
+          URL='https://www.eventbrite.com/d/or--portland/events/'
+
+          probe () {
+            label="$1"; shift
+            echo "=============================================================="
+            echo "### $label"
+            code=$(curl -sS -o /tmp/body.txt -D /tmp/hdr.txt \
+              -w '%{http_code} http=%{http_version} %{size_download}B %{time_total}s pop_ip=%{remote_ip}' \
+              --max-time 30 "$@" || echo "CURL_FAILED")
+            echo "  -> $code"
+            echo "  --- response headers ---"
+            sed 's/^/  /' /tmp/hdr.txt | head -40
+            echo "  --- body (first 400 chars) ---"
+            head -c 400 /tmp/body.txt | sed 's/^/  /'
+            echo ""
+            echo "  --- csrftoken present in Set-Cookie? ---"
+            grep -ci 'csrftoken' /tmp/hdr.txt | sed 's/^/  matches: /'
+            echo ""
+          }
+
+          probe "curl, project UA, HTTP/2 (default)" -H "User-Agent: $UA_PROJECT" -H 'Accept: text/html' "$URL"
+          probe "curl, project UA, forced HTTP/1.1"  --http1.1 -H "User-Agent: $UA_PROJECT" -H 'Accept: text/html' "$URL"
+          probe "curl, browser UA, HTTP/2"           -H "User-Agent: $UA_BROWSER" -H 'Accept: text/html' "$URL"
+          probe "curl, default curl UA"              "$URL"
+          probe "curl, site root /"                  -H "User-Agent: $UA_PROJECT" 'https://www.eventbrite.com/'
+          probe "curl, robots.txt"                   -H "User-Agent: $UA_PROJECT" 'https://www.eventbrite.com/robots.txt'
+          probe "curl, free-events discovery page"   -H "User-Agent: $UA_PROJECT" -H 'Accept: text/html' 'https://www.eventbrite.com/d/or--portland/free--events/'
+
+      - name: python client matrix
+        run: |
+          uv run --with requests --with 'httpx[http2]' --with curl_cffi python - <<'PY'
+          import requests
+
+          URL = "https://www.eventbrite.com/d/or--portland/events/"
+          PROJECT_UA = "sociallist-pipeline/0.1 (github.com/ryangurn/sociallist)"
+          BROWSER_UA = (
+              "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+          )
+
+          def report(label, status, headers, body, cookies):
+              print("=" * 62)
+              print(f"### {label}")
+              print(f"  status: {status}")
+              interesting = ("server", "content-type", "via", "x-cache", "x-amz-cf-pop",
+                             "x-amz-cf-id", "cf-ray", "x-envoy-upstream-service-time",
+                             "content-length", "date", "allow")
+              for k in interesting:
+                  v = headers.get(k) if headers else None
+                  if v:
+                      print(f"  {k}: {v}")
+              print(f"  csrftoken: {'YES' if cookies else 'no'}")
+              print(f"  body[:300]: {body[:300]!r}")
+
+          # 1. Exactly what the source does today.
+          print("\n\n########## plain requests, current source headers ##########")
+          try:
+              s = requests.Session()
+              r = s.get(URL, headers={"User-Agent": PROJECT_UA, "Accept": "text/html"}, timeout=30)
+              report("requests / project UA", r.status_code, r.headers, r.text, s.cookies.get("csrftoken"))
+          except Exception as e:
+              print(f"  EXC {type(e).__name__}: {e}")
+
+          # 2. Same client, browser-shaped headers. Isolates headers from TLS.
+          print("\n\n########## plain requests, full browser header set ##########")
+          browser_headers = {
+              "User-Agent": BROWSER_UA,
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+              "Accept-Language": "en-US,en;q=0.9",
+              "Accept-Encoding": "gzip, deflate, br",
+              "Sec-Fetch-Dest": "document",
+              "Sec-Fetch-Mode": "navigate",
+              "Sec-Fetch-Site": "none",
+              "Sec-Fetch-User": "?1",
+              "Upgrade-Insecure-Requests": "1",
+              "Sec-Ch-Ua": '"Chromium";v="131", "Not_A Brand";v="24"',
+              "Sec-Ch-Ua-Mobile": "?0",
+              "Sec-Ch-Ua-Platform": '"macOS"',
+          }
+          try:
+              s = requests.Session()
+              r = s.get(URL, headers=browser_headers, timeout=30)
+              report("requests / browser headers", r.status_code, r.headers, r.text, s.cookies.get("csrftoken"))
+          except Exception as e:
+              print(f"  EXC {type(e).__name__}: {e}")
+
+          # 3. httpx over HTTP/2 with the project UA. Isolates protocol version.
+          print("\n\n########## httpx HTTP/2 ##########")
+          try:
+              import httpx
+              with httpx.Client(http2=True, timeout=30, follow_redirects=True) as c:
+                  r = c.get(URL, headers={"User-Agent": PROJECT_UA, "Accept": "text/html"})
+                  report(f"httpx {r.http_version}", r.status_code, r.headers, r.text,
+                         r.cookies.get("csrftoken"))
+          except Exception as e:
+              print(f"  EXC {type(e).__name__}: {e}")
+
+          # 4. Browser TLS fingerprints. safari17_0 and firefox133 beat Cloudflare on
+          #    travelportland.com from this same runner pool where chrome profiles did not.
+          print("\n\n########## curl_cffi impersonation matrix ##########")
+          from curl_cffi import requests as cr
+          for profile in ("safari17_0", "firefox133", "chrome131", "chrome124", "chrome120", "safari15_5"):
+              try:
+                  s = cr.Session()
+                  r = s.get(URL, impersonate=profile, timeout=30)
+                  tok = s.cookies.get("csrftoken")
+                  print(f"  {profile:<12} HTTP {r.status_code}  {len(r.content):>8}B  "
+                        f"server={r.headers.get('server')}  csrftoken={'YES' if tok else 'no'}")
+                  if r.status_code != 200:
+                      print(f"               body: {r.text[:200]!r}")
+              except Exception as e:
+                  print(f"  {profile:<12} EXC {type(e).__name__}: {str(e)[:90]}")
+
+          # 5. curl_cffi with the honest project UA rather than the impersonated one.
+          #    Tells us whether identifying ourselves is itself what trips the rule.
+          print("\n\n########## curl_cffi TLS + honest project UA ##########")
+          for profile in ("safari17_0", "firefox133"):
+              try:
+                  s = cr.Session()
+                  r = s.get(URL, impersonate=profile, timeout=30,
+                            headers={"User-Agent": PROJECT_UA})
+                  tok = s.cookies.get("csrftoken")
+                  print(f"  {profile:<12} HTTP {r.status_code}  {len(r.content):>8}B  "
+                        f"csrftoken={'YES' if tok else 'no'}")
+              except Exception as e:
+                  print(f"  {profile:<12} EXC {type(e).__name__}: {str(e)[:90]}")
+          PY
+
+      - name: end-to-end search POST, if a token can be had
+        run: |
+          uv run --with requests --with curl_cffi python - <<'PY'
+          import json
+
+          DISCOVERY = "https://www.eventbrite.com/d/or--portland/events/"
+          SEARCH = "https://www.eventbrite.com/api/v3/destination/search/"
+          PROJECT_UA = "sociallist-pipeline/0.1 (github.com/ryangurn/sociallist)"
+
+          BODY = {
+              "event_search": {
+                  "places": ["101715829"],
+                  "date_range": {"from": "2026-07-27", "to": "2026-08-02"},
+                  "dedup": True,
+                  "page_size": 50,
+                  "page": 1,
+              },
+              "expand.destination_event": [
+                  "primary_venue", "image", "ticket_availability",
+                  "event_sales_status", "primary_organizer",
+              ],
+          }
+
+          from curl_cffi import requests as cr
+
+          for profile in ("safari17_0", "firefox133", "chrome131"):
+              print("=" * 62)
+              print(f"### full flow with {profile}")
+              try:
+                  s = cr.Session()
+                  boot = s.get(DISCOVERY, impersonate=profile, timeout=30)
+                  token = s.cookies.get("csrftoken")
+                  print(f"  bootstrap: HTTP {boot.status_code}  csrftoken={'YES' if token else 'no'}")
+                  if not token:
+                      continue
+                  r = s.post(
+                      SEARCH, json=BODY, impersonate=profile, timeout=30,
+                      headers={
+                          "Accept": "application/json",
+                          "Content-Type": "application/json",
+                          "Referer": DISCOVERY,
+                          "X-CSRFToken": token,
+                      },
+                  )
+                  print(f"  search:    HTTP {r.status_code}  {len(r.content)}B")
+                  if r.status_code == 200:
+                      payload = r.json()
+                      events = (payload.get("events") or {})
+                      results = events.get("results") or []
+                      print(f"  results on page 1: {len(results)}")
+                      print(f"  pagination: {json.dumps(events.get('pagination'))[:200]}")
+                      if results:
+                          print(f"  first event: {results[0].get('name')!r} {results[0].get('start_date')}")
+                  else:
+                      print(f"  body: {r.text[:300]!r}")
+              except Exception as e:
+                  print(f"  EXC {type(e).__name__}: {str(e)[:150]}")
+          PY
