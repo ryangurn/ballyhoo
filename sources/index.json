@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T07:59:30+00:00",
+  "generated_at": "2026-07-27T08:30:49+00:00",
   "sources": [
     {
       "event_count": 27,
@@ -14,6 +14,13 @@
       "source_id": "oregon_metro",
       "status": "ok",
       "url": "sources/oregon_metro.json"
+    },
+    {
+      "event_count": 30,
+      "last_run_at": "2026-07-27T08:30:49+00:00",
+      "source_id": "portland_parks",
+      "status": "ok",
+      "url": "sources/portland_parks.json"
     },
     {
       "event_count": 704,
