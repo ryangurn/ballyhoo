@@ -46,6 +46,7 @@ struct PriceBadge: View {
     var body: some View {
         Text(price.displayText)
             .font(.caption.weight(.semibold))
+            .lineLimit(1)
             .padding(.horizontal, 8)
             .padding(.vertical, 4)
             .foregroundStyle(price.isFree ? Theme.evergreen : Theme.ink)
@@ -55,6 +56,9 @@ struct PriceBadge: View {
                     : Theme.surfaceRaised,
                 in: .rect(cornerRadius: 8)
             )
+            // A pill that wraps stops reading as a pill. "See listing" is long
+            // enough to break across lines when the row is tight.
+            .fixedSize()
     }
 }
 
@@ -65,10 +69,14 @@ struct CategoryTag: View {
         Label(category.title, systemImage: category.symbol)
             .font(.caption2.weight(.medium))
             .labelStyle(.titleAndIcon)
+            .lineLimit(1)
             .padding(.horizontal, 8)
             .padding(.vertical, 4)
             .foregroundStyle(category.tint)
             .background(category.tint.opacity(0.13), in: .rect(cornerRadius: 7))
+            // Without this the longest title, "Community", hyphenates down three
+            // lines whenever the price and source labels are also long.
+            .fixedSize()
     }
 }
 
@@ -81,6 +89,11 @@ struct SourceTag: View {
         Text(source.name)
             .font(.caption2)
             .foregroundStyle(Theme.inkSecondary)
+            // The badges beside this are fixed, so any shortfall lands here. Trim
+            // the source rather than let it wrap — attribution stays legible, and
+            // this is the least load-bearing label in the row.
+            .lineLimit(1)
+            .truncationMode(.tail)
     }
 }
 
