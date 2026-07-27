@@ -15,6 +15,7 @@ from pathlib import Path
 
 from ...common import log as logsetup
 from ...common.io import build_per_source_feed, dump_json
+from ...common.publishing import add_publish_arguments, publish_source_feed
 from ...common.validate import SchemaValidationError, validate_per_source
 from . import config
 from .fetch import CalagatorFetchError, fetch_raw
@@ -26,7 +27,7 @@ log = logsetup.get_logger("pipeline.sources.calagator")
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="pipeline.sources.calagator")
     parser.add_argument("--output", type=Path, help="Write the per-source feed here. Defaults to stdout.")
-    parser.add_argument("--dry-run", action="store_true", help="Validate but write nothing.")
+    add_publish_arguments(parser)
     args = parser.parse_args(argv)
 
     logsetup.configure()
@@ -48,6 +49,8 @@ def main(argv: list[str] | None = None) -> int:
         return 1
 
     log.info("validated %d events; drops: %s", len(events), counters.as_dict())
+
+    publish_source_feed(args, source_id=config.SOURCE.id, feed=feed, now=now)
 
     payload = dump_json(feed)
     if args.dry_run:

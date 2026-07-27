@@ -21,7 +21,10 @@ from pathlib import Path
 from typing import Any
 
 from ..common import log as logsetup
+from ..common.archive import try_archive
 from ..common.io import build_merged_feed, dump_json, event_from_dict, parse_datetime
+from ..common.publish import publish
+from ..common.publishing import add_publish_arguments
 from ..common.validate import SchemaValidationError, validate_merged, validate_sources_index
 from .dedupe import deduplicate
 from .floor import append_history, evaluate
@@ -84,13 +87,13 @@ def _build_index(payloads: list[dict[str, Any]], now: datetime) -> dict[str, Any
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="pipeline.merge")
     parser.add_argument("--sources-dir", type=Path, required=True, help="Directory of per-source *.json files.")
-    parser.add_argument("--output-dir", type=Path, help="Where to write events.json. Defaults to stdout.")
-    parser.add_argument("--dry-run", action="store_true", help="Validate but write nothing.")
+    parser.add_argument("--output-dir", type=Path, help="Write artifacts here locally instead of publishing.")
     parser.add_argument(
         "--override-floor",
         action="store_true",
         help="Publish even if the event count collapsed. Use only when the drop is known to be real.",
     )
+    add_publish_arguments(parser)
     args = parser.parse_args(argv)
 
     logsetup.configure()
@@ -153,33 +156,66 @@ def main(argv: list[str] | None = None) -> int:
         len(problems),
     )
 
+    feed_json = dump_json(feed)
+    report = dump_json(
+        {
+            "generated_at": now.replace(microsecond=0).isoformat(),
+            "event_count": len(merged),
+            "sources": [p.get("source_id") for p in payloads],
+            "duplicates_merged": audit,
+            "problems": problems,
+            "floor_check": check.reason,
+        }
+    )
+    history_json = dump_json({"counts": append_history(history, len(merged))})
+
+    # The merge owns events.json, history.json, and the aggregate index; each source
+    # workflow owns its own per-source file. Disjoint paths are what keep concurrent
+    # pushes to gh-pages from conflicting.
+    artifacts = {
+        "events.json": feed_json,
+        "history.json": history_json,
+        "merge-report.json": report,
+        "sources/index.json": dump_json(index),
+    }
+
+    if args.pages_dir:
+        result = publish(
+            args.pages_dir,
+            artifacts,
+            message=f"merge: {len(merged)} events from {len(payloads)} source(s)",
+            branch=args.pages_branch,
+            dry_run=args.dry_run,
+        )
+        log.info("publish: %s", result.reason)
+
+        if not args.dry_run:
+            snapshot = try_archive(
+                args.archive_dir, "events", feed_json.encode(), event_count=len(merged), captured_at=now
+            )
+            if args.archive_dir and snapshot.written:
+                publish(
+                    args.archive_dir,
+                    {},
+                    message=f"archive events: {len(merged)} events",
+                    branch=args.archive_branch,
+                )
+            log.info("archive: %s", snapshot.reason)
+        return 0
+
     if args.dry_run:
         log.info("dry run, not writing")
         return 0
 
     if not args.output_dir:
-        sys.stdout.write(dump_json(feed))
+        sys.stdout.write(feed_json)
         return 0
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
-    (args.output_dir / "events.json").write_text(dump_json(feed))
-    (args.output_dir / "sources").mkdir(exist_ok=True)
-    (args.output_dir / "sources" / "index.json").write_text(dump_json(index))
-    (args.output_dir / "history.json").write_text(
-        dump_json({"counts": append_history(history, len(merged))})
-    )
-    (args.output_dir / "merge-report.json").write_text(
-        dump_json(
-            {
-                "generated_at": now.replace(microsecond=0).isoformat(),
-                "event_count": len(merged),
-                "sources": [p.get("source_id") for p in payloads],
-                "duplicates_merged": audit,
-                "problems": problems,
-                "floor_check": check.reason,
-            }
-        )
-    )
+    for relative, content in artifacts.items():
+        target = args.output_dir / relative
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_text(content)
     log.info("wrote %s", args.output_dir / "events.json")
     return 0
 

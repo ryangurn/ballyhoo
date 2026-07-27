@@ -1,0 +1,97 @@
+name: merge-feed
+
+# The only workflow that writes events.json.
+#
+# Triggered by each source completing, so fresh data reaches the client within
+# minutes rather than waiting for a clock. The hourly cron is a self-heal:
+# workflow_run triggers are occasionally dropped, and without it one missed event
+# would leave the feed stale until someone noticed.
+
+on:
+  workflow_run:
+    workflows: [source-calagator, source-ticketmaster]
+    types: [completed]
+  schedule:
+    - cron: "40 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Merge and validate, but publish nothing"
+        type: boolean
+        default: false
+      override_floor:
+        description: "Publish even if the event count collapsed"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: merge-feed
+  # Two sources finishing seconds apart would otherwise queue near-identical merges.
+  # The newer run reads whatever source files are on disk, so it subsumes the older.
+  cancel-in-progress: true
+
+jobs:
+  merge:
+    # A failed source has nothing new to merge; the hourly cron still covers staleness.
+    if: >-
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: .gh-pages
+
+      - uses: actions/checkout@v4
+        with:
+          ref: archive
+          path: .archive
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: pipeline/uv.lock
+
+      - name: Install dependencies
+        working-directory: pipeline
+        run: uv sync --frozen
+
+      - name: Merge and publish
+        working-directory: pipeline
+        run: |
+          uv run python -m pipeline.merge \
+            --sources-dir "$GITHUB_WORKSPACE/.gh-pages/sources" \
+            --pages-dir "$GITHUB_WORKSPACE/.gh-pages" \
+            --archive-dir "$GITHUB_WORKSPACE/.archive" \
+            ${{ inputs.dry_run && '--dry-run' || '' }} \
+            ${{ inputs.override_floor && '--override-floor' || '' }} \
+            2>&1 | tee "$GITHUB_WORKSPACE/run.log"
+
+      - name: Job summary
+        if: always()
+        run: |
+          {
+            echo "## Merge"
+            echo ""
+            echo "Trigger: ${{ github.event_name }}"
+            echo ""
+            echo '```'
+            tail -n 30 run.log 2>/dev/null || echo "no output captured"
+            echo '```'
+            if [ -f .gh-pages/sources/index.json ]; then
+              echo ""
+              echo "### Sources"
+              echo ""
+              echo "| Source | Status | Events | Last run |"
+              echo "|---|---|---|---|"
+              jq -r '.sources[] | "| \(.source_id) | \(.status) | \(.event_count) | \(.last_run_at // "never") |"' \
+                .gh-pages/sources/index.json
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"

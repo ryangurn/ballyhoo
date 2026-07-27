@@ -19,6 +19,7 @@ from typing import Any
 from ...common import env
 from ...common import log as logsetup
 from ...common.io import build_per_source_feed, dump_json
+from ...common.publishing import add_publish_arguments, publish_source_feed
 from ...common.validate import SchemaValidationError, validate_per_source
 from . import config
 from .categories import unmapped_segments
@@ -70,7 +71,7 @@ def _print_histogram(raw_events: list[dict[str, Any]], stats: dict[str, Any]) ->
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="pipeline.sources.ticketmaster")
     parser.add_argument("--output", type=Path, help="Write the per-source feed here. Defaults to stdout.")
-    parser.add_argument("--dry-run", action="store_true", help="Validate but write nothing.")
+    add_publish_arguments(parser)
     parser.add_argument(
         "--histogram",
         action="store_true",
@@ -114,6 +115,8 @@ def main(argv: list[str] | None = None) -> int:
     log.info("validated %d events; drops: %s", len(events), counters.as_dict())
     if gaps := unmapped_segments():
         log.warning("segments missing from the category table: %s", ", ".join(gaps))
+
+    publish_source_feed(args, source_id=config.SOURCE.id, feed=feed, now=now)
 
     payload = dump_json(feed)
     if args.dry_run:
