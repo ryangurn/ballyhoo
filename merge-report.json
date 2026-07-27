@@ -857,6 +857,14 @@
       "venue": "Molalla Ripple"
     },
     {
+      "dropped": "eventbrite:1995158599078",
+      "kept": "dopdx:17653631",
+      "start_at": "2026-08-14T18:30:00-07:00",
+      "title_dropped": "Dink & Design: A NOMA PDX x CSI Portland Pickleball Mixer",
+      "title_kept": "Dink & Design: A NOMA PDX x CSI Portland Pickleball Mixer",
+      "venue": "Sellwood Park Tennis & Pickleball Courts"
+    },
+    {
       "dropped": "dopdx:17327058",
       "kept": "ticketmaster:Z7r9jZ1A70YZ3",
       "start_at": "2026-08-14T19:00:00-07:00",
@@ -1281,9 +1289,9 @@
       "venue": "Vancouver Farmers Market"
     }
   ],
-  "event_count": 4251,
-  "floor_check": "4251 events against a 4223-event baseline",
-  "generated_at": "2026-07-27T17:15:15+00:00",
+  "event_count": 4264,
+  "floor_check": "4264 events against a 4223-event baseline",
+  "generated_at": "2026-07-27T17:20:53+00:00",
   "problems": [],
   "sources": [
     "calagator",
