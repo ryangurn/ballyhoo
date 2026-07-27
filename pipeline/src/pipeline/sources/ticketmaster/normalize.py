@@ -7,7 +7,8 @@ Shape notes from live data:
   - `dates.status.code` includes `cancelled`, which must not reach the feed.
   - `priceRanges` is present on only about 27% of events.
   - Venue coordinates are strings under `_embedded.venues[0].location`.
-  - `images` offers many sizes; the largest 16:9 is the usable one for a card.
+  - `images` offers many named renditions, in arbitrary order and mixed ratios, with
+    the occasional third-party URL carrying no `ratio` at all.
 """
 
 from __future__ import annotations
@@ -64,32 +65,56 @@ def _clean(value: Any) -> str | None:
     return value.strip() or None
 
 
+_CANONICAL_SUFFIX = f"_{config.CANONICAL_IMAGE_RENDITION}.jpg"
+
+
+def _size_then_url(image: dict[str, Any]) -> tuple[int, str]:
+    return (image.get("width") or 0, image["url"])
+
+
 def _best_image(images: list[dict[str, Any]] | None) -> str | None:
-    """Smallest 16:9 image that is still large enough for a card.
+    """The 1136 px 16:9 rendition, asked for by name so it is the same URL every run.
 
-    Deliberately not the largest available. Ticketmaster serves up to 2846 px wide,
-    which decodes to roughly 13 MB in memory; across a feed of several hundred events
-    that is enough to get the app killed for exceeding its memory limit. Anything at
-    or above `MIN_IMAGE_WIDTH` looks identical at the sizes we render, so the smallest
-    qualifying image is strictly better.
+    Size discipline first: Ticketmaster serves up to 3200 px wide, which decodes to
+    roughly 13 MB in memory, and across a feed of several hundred events that is
+    enough to get the app killed for exceeding its memory limit. Anything at or above
+    `MIN_IMAGE_WIDTH` looks identical at the sizes we render. 16:9 matches the card
+    layout; other ratios crop badly.
 
-    16:9 matches the card layout; other ratios crop badly.
+    Stability second, and it is why the rendition is named rather than measured. The
+    `images` array is not ordered by the documented ladder — a live response lists
+    3_2 640, 16_9 205, 3_2 1024, then a ratio-less third-party image, and so on — so
+    any comparison that can tie breaks on arrival order. Naming the rendition also
+    fails safe if the ladder is ever incomplete: a width comparison would quietly
+    promote a missing 1136 entry to the 2048 px one, or to _SOURCE, which is exactly
+    the full-resolution artwork the bound above exists to keep out.
+
+    A changed URL is not free on the client. `AsyncImage` and the shared `URLSession`
+    cache both key on the URL, so re-picking a different rendition for unchanged
+    artwork makes every client re-download every image it already holds.
     """
     if not images:
         return None
-    usable = [i for i in images if i.get("url")]
+    usable = [i for i in images if isinstance(i.get("url"), str) and i["url"].strip()]
     if not usable:
         return None
 
     widescreen = [i for i in usable if i.get("ratio") == "16_9"]
     pool = widescreen or usable
 
+    canonical = [i for i in pool if i["url"].endswith(_CANONICAL_SUFFIX)]
+    if canonical:
+        return min(canonical, key=lambda i: i["url"])["url"]
+
+    # No canonical rendition on offer. Fall back to the old width rule, but sort on
+    # `(width, url)` so an event without one still resolves the same way every run
+    # rather than on whichever equal-width entry the response happened to list first.
     big_enough = [i for i in pool if (i.get("width") or 0) >= config.MIN_IMAGE_WIDTH]
     if big_enough:
-        return min(big_enough, key=lambda i: i.get("width") or 0).get("url")
+        return min(big_enough, key=_size_then_url)["url"]
 
     # Nothing reaches the bar, so take the best on offer rather than nothing.
-    return max(pool, key=lambda i: i.get("width") or 0).get("url")
+    return max(pool, key=_size_then_url)["url"]
 
 
 def _build_venue(raw_event: dict[str, Any]) -> Venue | None:

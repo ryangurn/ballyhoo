@@ -7,6 +7,7 @@ string coordinates, and price data missing on most events.
 
 from __future__ import annotations
 
+import random
 from datetime import UTC, datetime
 
 import pytest
@@ -202,6 +203,126 @@ class TestNormalize:
     def test_output_validates_against_the_schema(self):
         events, _ = normalize([raw_event()], now=NOW)
         validate_per_source(build_per_source_feed("ticketmaster", events, generated_at=NOW))
+
+
+def ladder(asset: str = "abc_106541") -> list[dict]:
+    """A real Ticketmaster rendition ladder, verbatim down to the arrival order.
+
+    The order is the point: live responses do not list these by size, and they mix in
+    ratio-less third-party URLs, so anything that tie-breaks on position is exposed.
+    """
+    base = f"https://s1.ticketm.net/dam/c/677/{asset}"
+    return [
+        {"url": f"{base}_RETINA_PORTRAIT_3_2.jpg", "ratio": "3_2", "width": 640},
+        {"url": f"{base}_EVENT_DETAIL_PAGE_16_9.jpg", "ratio": "16_9", "width": 205},
+        {"url": f"{base}_TABLET_LANDSCAPE_3_2.jpg", "ratio": "3_2", "width": 1024},
+        {"url": "https://i.ticketweb.com/i/00/13/57/94/53_Edp.jpg?v=3", "width": 341},
+        {"url": f"{base}_CUSTOM.jpg", "ratio": "4_3", "width": 305},
+        {"url": f"{base}_RETINA_PORTRAIT_16_9.jpg", "ratio": "16_9", "width": 640},
+        {"url": f"{base}_RECOMENDATION_16_9.jpg", "ratio": "16_9", "width": 100},
+        {"url": f"{base}_RETINA_LANDSCAPE_16_9.jpg", "ratio": "16_9", "width": 1136},
+        {"url": f"{base}_TABLET_LANDSCAPE_16_9.jpg", "ratio": "16_9", "width": 1024},
+        {"url": f"{base}_ARTIST_PAGE_3_2.jpg", "ratio": "3_2", "width": 305},
+        {"url": f"{base}_TABLET_LANDSCAPE_LARGE_16_9.jpg", "ratio": "16_9", "width": 2048},
+    ]
+
+
+CANONICAL = "https://s1.ticketm.net/dam/c/677/abc_106541_RETINA_LANDSCAPE_16_9.jpg"
+
+
+class TestImageSelectionIsStable:
+    """A changed image URL costs every client a re-download of artwork it already has.
+
+    `AsyncImage` and the shared `URLSession` cache both key on the URL, so re-picking
+    a different rendition of identical artwork is a guaranteed cache miss across the
+    whole feed. Selection therefore has to depend on the rendition's name and nothing
+    else about how the response happened to arrive.
+    """
+
+    def test_takes_the_canonical_rendition_from_a_full_ladder(self):
+        events, _ = normalize([raw_event(images=ladder())], now=NOW)
+        assert events[0].image_url == CANONICAL
+
+    def test_shuffling_the_array_cannot_change_the_choice(self):
+        # Unseeded on purpose. The property is that order cannot matter at all, so a
+        # fixed seed would only ever prove it for one arrangement.
+        images = ladder()
+        picked = set()
+        for _ in range(200):
+            shuffled = images[:]
+            random.shuffle(shuffled)
+            events, _ = normalize([raw_event(images=shuffled)], now=NOW)
+            picked.add(events[0].image_url)
+        assert picked == {CANONICAL}
+
+    @pytest.mark.parametrize("dropped", [(2048,), (1024, 2048), (100, 205, 640, 1024, 2048), (305, 341, 640)])
+    def test_a_partial_ladder_still_yields_the_canonical_rendition(self, dropped):
+        # Indifference to the rest of the ladder is the property being pinned. A width
+        # rule agrees on all of these by coincidence, since 1136 happens to be its
+        # smallest qualifying entry either way; what it cannot survive is a size
+        # appearing near the bar, which the next test covers.
+        partial = [i for i in ladder() if i["width"] not in dropped]
+        events, _ = normalize([raw_event(images=partial)], now=NOW)
+        assert events[0].image_url == CANONICAL
+
+    def test_only_the_canonical_entry_left_is_still_the_canonical_entry(self):
+        single = [i for i in ladder() if i["url"] == CANONICAL]
+        events, _ = normalize([raw_event(images=single)], now=NOW)
+        assert events[0].image_url == CANONICAL
+
+    def test_the_canonical_rendition_beats_a_smaller_qualifying_sibling(self):
+        # The case that separates the two rules. A width rule takes this 1120 px
+        # entry, so one new rendition landing between the bar and 1136 would change
+        # every event's URL at once — the whole feed re-downloading for nothing.
+        images = ladder() + [
+            {"url": "https://s1.ticketm.net/dam/c/677/abc_106541_ODD_16_9.jpg", "ratio": "16_9", "width": 1120}
+        ]
+        events, _ = normalize([raw_event(images=images)], now=NOW)
+        assert events[0].image_url == CANONICAL
+
+    def test_never_falls_through_to_source_when_the_canonical_one_exists(self):
+        # _SOURCE is the full-resolution original, up to 3200 px and ~13 MB decoded.
+        # It is the single worst thing this function can return.
+        images = ladder() + [
+            {"url": "https://s1.ticketm.net/dam/a/75d/9663323b_SOURCE", "ratio": "16_9", "width": 3200}
+        ]
+        random.shuffle(images)
+        events, _ = normalize([raw_event(images=images)], now=NOW)
+        assert events[0].image_url == CANONICAL
+
+    def test_without_a_canonical_rendition_equal_widths_still_break_deterministically(self):
+        # The fallback path. Two entries at the same qualifying width used to resolve
+        # to whichever the response listed first.
+        images = [
+            {"url": "https://img/zebra.jpg", "ratio": "16_9", "width": 1200},
+            {"url": "https://img/aardvark.jpg", "ratio": "16_9", "width": 1200},
+        ]
+        picked = set()
+        for _ in range(50):
+            random.shuffle(images)
+            events, _ = normalize([raw_event(images=images)], now=NOW)
+            picked.add(events[0].image_url)
+        assert picked == {"https://img/aardvark.jpg"}
+
+    def test_the_undersized_fallback_is_deterministic_too(self):
+        images = [
+            {"url": "https://img/zebra.jpg", "ratio": "16_9", "width": 640},
+            {"url": "https://img/aardvark.jpg", "ratio": "16_9", "width": 640},
+        ]
+        picked = set()
+        for _ in range(50):
+            random.shuffle(images)
+            events, _ = normalize([raw_event(images=images)], now=NOW)
+            picked.add(events[0].image_url)
+        assert picked == {"https://img/zebra.jpg"}
+
+    def test_a_ratio_less_third_party_image_is_not_mistaken_for_the_ladder(self):
+        events, _ = normalize([raw_event(images=ladder())], now=NOW)
+        assert "ticketweb" not in events[0].image_url
+
+    def test_no_images_at_all_is_tolerated(self):
+        events, _ = normalize([raw_event(images=[])], now=NOW)
+        assert events[0].image_url is None
 
 
 class TestCategories:

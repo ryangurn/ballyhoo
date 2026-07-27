@@ -142,7 +142,7 @@
 - [ ] 12.12 Confirm `sources/index.json` reports both sources as `ok` with recent `last_run_at` and non-zero `event_count`
 - [ ] 12.13 Confirm every Ticketmaster event mapped to a `Category`, and review the unmapped-genre log for gaps in the six-segment mapping table
 - [ ] 12.14 Confirm each successful publish produced a recent-tier archive snapshot and updated that artifact's daily-tier entry
-- [ ] 12.15 Dispatch a source workflow twice with no upstream change in between; confirm the second run skips archiving as unchanged and reports it
+- [ ] 12.15 Dispatch a source workflow twice with no upstream change in between; confirm the second run reports `unchanged since the last snapshot` and that no new `recent/` file or manifest entry appears. Dedup hashes the payload with `generated_at` excluded, since that stamp is fresh every run and hashing it made the skip unreachable. Note the one case where an unchanged run still writes: the first run of a new UTC day opens that day's daily-tier entry rather than leaving a hole in it, and marks it `"unchanged": true`
 - [ ] 12.16 Confirm an archived snapshot round-trips: fetch via raw URL, gunzip, and validate it against the same JSON Schema the live artifact uses
 - [ ] 12.17 Confirm the monthly manifest lists the new snapshots with correct capture time, hash, event count, and size
 - [ ] 12.18 Simulate an archive failure (e.g. temporarily point the archive worktree at a bad path); confirm the live publish still succeeds, the job does not fail, and the run summary reports the missed snapshot

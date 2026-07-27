@@ -62,6 +62,18 @@ EXCLUDED_STATUS_CODES = frozenset({"cancelled", "canceled"})
 # offered image that clears this bar rather than the biggest available.
 MIN_IMAGE_WIDTH = 1100
 
+# Ask for that size by rendition name rather than by measuring widths. Ticketmaster
+# names every rendition it derives, and RETINA_LANDSCAPE_16_9 is the 1136 px one —
+# measured at exactly 1136 on all 718 live Portland events, with no event missing it.
+#
+# Naming it matters because the `images` array arrives in arbitrary order, not in the
+# documented ladder order, so a width comparison tie-breaks on whatever happened to
+# come first in that response. It also fails safe: picking by width means a response
+# that omitted the 1136 entry would silently promote the choice to the 2048 px
+# rendition, or to _SOURCE at up to 3200 px, which is the full-resolution artwork this
+# whole bound exists to keep out of the feed.
+CANONICAL_IMAGE_RENDITION = "RETINA_LANDSCAPE_16_9"
+
 # `dates.timezone` is absent on roughly 37% of Portland results even though
 # `dates.start.localTime` shows the real local hour. Left as UTC, a 7pm show
 # serializes as the next day at 02:00Z, so anything bucketing by date string files it
