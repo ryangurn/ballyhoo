@@ -5,6 +5,11 @@ import SwiftUI
 struct SourcesView: View {
     @Environment(EventStore.self) private var store
 
+    /// Published alongside the feed, so it shares the domain the app already
+    /// depends on rather than introducing another thing that can go missing.
+    /// The same URL goes in App Store Connect, where Apple requires it.
+    static let privacyPolicyURL = URL(string: "https://ryangurn.github.io/sociallist/privacy.html")!
+
     private var counts: [(source: Source, count: Int)] {
         Dictionary(grouping: store.upcomingEvents, by: \.source)
             .map { (source: $0.key, count: $0.value.count) }
@@ -66,6 +71,19 @@ struct SourcesView: View {
                     Text("Sociallist is free, has no accounts, and collects no personal data. Saved events stay on your device.")
                         .font(.footnote)
                         .foregroundStyle(Theme.inkSecondary)
+
+                    // App Review guideline 5.1.1(i) asks for the policy to be
+                    // reachable from inside the app, not only from the store listing.
+                    Link(destination: Self.privacyPolicyURL) {
+                        HStack {
+                            Text("Privacy Policy")
+                                .font(.footnote)
+                            Spacer()
+                            Image(systemName: "arrow.up.right")
+                                .font(.caption2)
+                                .foregroundStyle(Theme.inkSecondary)
+                        }
+                    }
                 }
             }
             .navigationTitle("Sources")
