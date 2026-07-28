@@ -41,7 +41,6 @@ context: |
   ## Data sources (aggregated by the pipeline, verified reachable)
   - Calagator — https://calagator.org/events.json (open JSON, no auth, tech/community)
   - Ticketmaster Discovery API — free key, 5,000/day (concerts, sports, theater)
-  - Eventbrite Portland — discovery-page JSON-LD scrape (broad long tail, geocoded)
   - Civic — portland.gov/events, Multnomah County Library, Oregon Metro, Portland Parks
   - Venues — OMSI, Holocene, Portland Mercado, small music venues
 

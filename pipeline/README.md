@@ -50,7 +50,6 @@ never committed. In CI the same values come from GitHub Actions secrets.
 
 | Source | Auth | Volume | Window | Notes |
 |---|---|---|---|---|
-| Eventbrite | none | ~1,770 | 30 d | Largest source by far; states free-ness per event |
 | Ticketmaster | API key | ~705 | 365 d | Touring acts plus independent venues |
 | PDX Parent markets | none | ~450 | 120 d | 36 neighbourhood farmers markets; schedules parsed from prose |
 | DoPDX | none | ~185 | 30 d | Curated city guide; the richest metadata of any source |
@@ -61,18 +60,12 @@ never committed. In CI the same values come from GitHub Actions secrets.
 | Calagator | none | ~27 | 365 d | Portland's community **tech** calendar |
 | Oregon Ballet Theatre | none | ~19 | 18 mo | Tessitura TNEW; one event per performance, not per production |
 
-Volumes are measured, not estimated. Adding Eventbrite roughly doubles the feed — it
-alone is about 2.5 MB of JSON, 395 KB gzipped, which is nonetheless slightly *more*
-compact per event than the pre-Eventbrite average.
+Volumes are measured, not estimated.
 
 Cross-source dedup earns its keep here: DoPDX and Ticketmaster list many of the same
-ticketed shows, and Eventbrite overlaps DoPDX heavily on small-venue events, since
-plenty of Portland venues ticket through it. A measured run collapses 159. Calagator and
-Oregon Metro overlap nothing.
-
-Eventbrite's 30-day window is the obvious knob if the feed ever needs to be smaller: it
-contributes about half the events and half the bytes, and shortening it is a one-line
-change in its `config.py`.
+ticketed shows, since plenty of independent venues appear in both. Calagator and Oregon
+Metro overlap nothing. The last measured collapse count, 159, was taken when the feed
+was roughly twice this size, so re-measure before quoting a figure.
 
 ### Sources evaluated and rejected
 
@@ -80,11 +73,36 @@ Worth recording so the ground is not re-covered:
 
 | Source | Why not |
 |---|---|
+| Eventbrite | Ran in the feed and was removed. See below |
 | portland.gov events | JS-rendered Drupal; no feed, no iCal, no JSON:API |
 | Multnomah County Library | JS-rendered; zero event data in the HTML |
 | Travel Portland | Real WordPress API, but Cloudflare blocks non-browser TLS fingerprints |
 | Hillsboro Parks | Hard 403 at their edge |
 | Bandsintown / Songkick / SeatGeek | All require API keys |
+
+#### Eventbrite, and why it is not coming back
+
+It ran for a while and was the largest source in the feed, at ~1,770 events. It is gone,
+and the reasons are structural rather than a bug someone could fix.
+
+There is no supported way in. The public event search API was discontinued in December
+2019. What survives — `/v3/events/:id/`, `/v3/venues/:venue_id/events/`,
+`/v3/organizations/:org_id/events/` — only serves data the authenticated account owns or
+has been explicitly granted. Aggregating public events across many unrelated creators is
+exactly what their distribution partner program gates, and we are not in it.
+
+The integration therefore ran against `POST /api/v3/destination/search/`, the endpoint
+the discovery UI itself calls: CSRF-guarded rather than authenticated, and workable
+anonymously with a `csrftoken` cookie echoed in `X-CSRFToken`. That is a front-end
+contract, not a published API, and it sat one path away from an AWS WAF challenge rule
+covering `/d/` — a rule that returns HTTP 405 to datacenter callers and so reads as a
+request bug rather than a block. Depending on it meant depending on a URL nobody
+promised to keep.
+
+The content was also judged the wrong shape for this app. 62% of what it published
+carried a stated price at a median of $60, and a visible share of that was professional
+training and certification courses booked into Portland by national resellers — against
+a feed whose point is the free, walkable, neighbourhood long tail.
 
 ### Calagator
 
@@ -163,113 +181,6 @@ Other things live data forced:
 
 Their terms require "Powered by Ticketmaster" attribution, satisfied by the mandatory
 `source` field the app renders.
-
-### Eventbrite
-
-The largest source in the feed and the only one besides DoPDX that states free-ness per
-event rather than leaving us to infer it.
-
-**Finding a way in took three dead ends.** The documented public search API was
-discontinued in 2019. The discovery page at `/d/or--portland/events/` is a React
-city-landing template whose `window.__SERVER_DATA__` carries shelves and metadata but an
-*empty* `search_data` — no events at all, and its single `ld+json` block has none
-either. The filtered variants like `/d/or--portland/free--events/` do render the search
-template with results embedded, but by construction that route can only ever return free
-events.
-
-What works is the endpoint the discovery UI itself calls,
-`POST /api/v3/destination/search/`. Their robots.txt disallows the sibling
-`/api/v3/destination/events/` and `/api/v3/promoted/events`, but not this path — only its
-`log_requests/` subpath. It is CSRF-guarded rather than authenticated, and needs three
-things together, all obtainable anonymously: a `Referer` on eventbrite.com, the
-`csrftoken` cookie a page load hands out, and that token echoed in `X-CSRFToken`. Miss
-any one and it returns `ACCESS_DENIED`. No account, no key. There is no challenge on
-this path, so no browser impersonation is involved.
-
-**Which page the cookie comes from matters, and cost this source a day in production.**
-The bootstrap originally loaded the discovery page, and that page is behind an AWS WAF
-CAPTCHA action for datacenter callers. From a laptop it returns 200; from a GitHub
-Actions runner it returns HTTP 405 with `x-amzn-waf-action: captcha` and a "Human
-Verification" body — 405 being AWS WAF's status code for its interstitial rather than
-anything to do with the method, which is what makes it so easy to misread as a bug in
-the request. Nine clients measured from a runner, including `curl` over both HTTP
-versions and six `curl_cffi` impersonation profiles, all got the identical 2,543-byte
-challenge, so it is neither TLS fingerprinting nor headers. It is not the runner's
-address range either: in the same job the site root returned 200 with a `csrftoken`, and
-this search endpoint returned 200 with 828 events. The rule is scoped to `/d/`.
-
-So the bootstrap loads `https://www.eventbrite.com/` instead, and the `Referer` is that
-same URL, since Django checks the Referer's origin rather than its path. The challenged
-page is simply never requested — nothing is solved, presented or impersonated to get
-past it. `fetch.py` raises `EventbriteChallengedError` the moment any response carries
-`x-amzn-waf-action`, without retrying. If that ever fires on the search endpoint it
-means Eventbrite has extended the rule to cover this traffic deliberately, and the
-source should be retired rather than pushed harder.
-
-The payoff is `expand.destination_event=[ticket_availability,...]`, which attaches an
-explicit `is_free` boolean and ticket price bounds to every result. Without that
-expansion the records carry no price information whatsoever.
-
-Measured shape of a run (30 days, both price passes):
-
-| | |
-|---|---|
-| Fetched / published | 2,213 unique → 1,769 after filtering |
-| Free | 569 (32%), each on Eventbrite's own per-event flag |
-| Paid with a stated figure | 1,105 (62%), median $60 |
-| Price unknown | 95 (5%) |
-| Coverage | venue, coordinates, listing URL and end time on 100%; image 99%; description and organizer 96% |
-| Cost | 79 requests, about two minutes |
-
-Things live data forced:
-
-- **Results are capped at 1,000 per query and ordered by relevance, not date.** A
-  month-wide query would silently return its top 1,000 and drop the rest. The window is
-  therefore sliced into weeks and each week queried separately; the busiest sampled week
-  held 829, comfortably clear of the cap. `page_size` is also silently clamped to 50 —
-  asking for 100 returns 50 — so 50 is what we ask for. A run logs a warning if any week
-  ever fills the ceiling, which is the signal to shorten the stride.
-- **Free and paid are two passes, deduplicated by event id, because neither is a
-  superset of the other.** Over one week the unfiltered pass missed 11 events the free
-  filter returned and the free filter missed 6 the unfiltered pass returned; over a full
-  run the free pass still contributes ~50 events nothing else found. The two rankings
-  simply differ about what falls inside the cap.
-- **Timestamps arrive as a local date, a local clock and an IANA zone, with no offset
-  anywhere.** The zone is authoritative, not a guess: 1,731 sampled `event_sales_status`
-  local/UTC pairs round-trip through `ZoneInfo` exactly, and event pages' schema.org
-  `startDate` reproduces what we compute, offset included.
-- **About 5% of in-metro results declare a non-Pacific zone** — national certification
-  resellers listing "PMP Training in Portland" on Eastern time, and outliers as
-  implausible as Asia/Calcutta against a Portland address. Eventbrite renders them in the
-  declared zone, so 9am Eastern really is 6am at that venue. Either the clock or the
-  address is wrong and there is no telling which, so they are dropped, the same call made
-  for Ticketmaster's multi-city listings. That is ~108 events a run.
-- **Their "Portland" reaches Newport (91 mi), Centralia (84 mi), Salem and Corvallis.**
-  Coordinates are present on 100% of results, so the same 40-mile filter DoPDX uses is
-  exact here. It removes ~336 events a run.
-- **Images are signature-locked.** Renditions come pre-signed at 320, 640 and 1024 px;
-  rewriting `w=` to the ~1136 px the cards actually draw returns HTTP 403 `sig_`. So we
-  take `large` at 1024 px, which decodes to about 3 MB, and never `original` at
-  2,160-2,560 px or the bare `image.url`, which is unsized and sometimes *is* the
-  original. That is the mistake Ticketmaster artwork caused.
-- **Prices are split into `major_value` (dollars) and `value` (minor units).** Reading
-  `value` would put $1,200 on a $12 event.
-- **Around 2% of events are flagged not-free while every ticket class is $0.00** —
-  donation and register-to-attend listings, trail parties, community meals. Those are
-  published as price-unknown: claiming free contradicts upstream's own flag, and a "$0"
-  badge on an event the app treats as paid is worse than saying nothing. A zero
-  *minimum* against a real maximum is a different thing — a free tier alongside paid ones
-  — and that range is kept.
-- `tickets_url` is a `/checkout-external` link, which robots.txt disallows and which
-  renders as a bare checkout frame, so both URLs point at the public event page instead.
-
-**What would signal this breaking.** The endpoint is the site's own front-end contract,
-not a published API, so it can change without notice. Every failure mode is loud rather
-than silent: a CSRF scheme change means no `csrftoken` cookie and the run raises before
-fetching anything; a renamed field means page one yields nothing and the run fails rather
-than publishing an empty feed; a shape change in `ticket_availability` shows up as free
-count collapsing toward zero while the event count holds. The merge floor catches the
-rest.
 
 ### DoPDX
 
@@ -498,8 +409,8 @@ deliberately conservative: a false merge hides an event someone could have atten
 while a missed merge is merely untidy.
 
 It fired zero times when the feed was just Ticketmaster and Calagator — touring acts
-against tech meetups. Adding Eventbrite and DoPDX, which both list independent venue
-programming, took a measured run to 159 collapses.
+against tech meetups. It only starts earning its keep once two sources cover the same
+independent venue programming, which is what DoPDX added.
 
 **The floor check** blocks publishing when the event count collapses below 40% of the
 recent median. A source can fail by returning HTTP 200 with nothing in it, and without

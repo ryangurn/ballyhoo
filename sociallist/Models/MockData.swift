@@ -121,7 +121,7 @@ enum MockData {
         },
         {
             Event(
-                id: "eventbrite:foster-night-market",
+                id: "dopdx:foster-night-market",
                 title: "Foster Night Market",
                 summary: "Twenty rotating food carts, live cumbia, and a maker market in the Mercado courtyard. Family friendly until 9pm.",
                 start: at(hour: 17, dayOffset: 1),
@@ -129,9 +129,9 @@ enum MockData {
                 venue: Venues.mercado,
                 categories: [.food, .market, .community],
                 price: .free,
-                url: URL(string: "https://www.eventbrite.com"),
+                url: URL(string: "https://dopdx.com"),
                 organizer: "Portland Mercado",
-                source: .eventbrite
+                source: .dopdx
             )
         },
         {
@@ -182,7 +182,7 @@ enum MockData {
         },
         {
             Event(
-                id: "eventbrite:alberta-last-thursday",
+                id: "dopdx:alberta-last-thursday",
                 title: "Last Thursday on Alberta",
                 summary: "Fifteen blocks of street art, buskers, and pop-up vendors. Alberta closes to cars between 15th and 30th.",
                 start: at(hour: 18, dayOffset: 2),
@@ -190,9 +190,9 @@ enum MockData {
                 venue: Venues.albertaStreet,
                 categories: [.arts, .community, .market],
                 price: .free,
-                url: URL(string: "https://www.eventbrite.com"),
+                url: URL(string: "https://dopdx.com"),
                 organizer: "Alberta Main Street",
-                source: .eventbrite
+                source: .dopdx
             )
         },
         {
@@ -305,7 +305,7 @@ enum MockData {
         },
         {
             Event(
-                id: "eventbrite:pearl-gallery-walk",
+                id: "dopdx:pearl-gallery-walk",
                 title: "First Thursday Gallery Walk",
                 summary: "Twenty-plus Pearl District galleries stay open late with new openings and artist talks.",
                 start: at(hour: 17, minute: 30, dayOffset: 5),
@@ -313,9 +313,9 @@ enum MockData {
                 venue: Venues.powells,
                 categories: [.arts, .community],
                 price: .free,
-                url: URL(string: "https://www.eventbrite.com"),
+                url: URL(string: "https://dopdx.com"),
                 organizer: "Pearl District Arts Association",
-                source: .eventbrite
+                source: .dopdx
             )
         },
         {
@@ -382,7 +382,7 @@ enum MockData {
         },
         {
             Event(
-                id: "eventbrite:sellwood-swap",
+                id: "dopdx:sellwood-swap",
                 title: "Sellwood Bike Swap & Repair Clinic",
                 summary: "Buy, sell, or trade used bikes and parts. Free basic tune-ups from volunteer mechanics all afternoon.",
                 start: at(hour: 11, dayOffset: 7),
@@ -390,9 +390,9 @@ enum MockData {
                 venue: Venues.sellwoodPark,
                 categories: [.community, .outdoors, .market],
                 price: .free,
-                url: URL(string: "https://www.eventbrite.com"),
+                url: URL(string: "https://dopdx.com"),
                 organizer: "Sellwood Cycle Repair",
-                source: .eventbrite
+                source: .dopdx
             )
         },
         {
@@ -491,7 +491,7 @@ enum MockData {
         },
         {
             Event(
-                id: "eventbrite:pdx-vegan-fest",
+                id: "dopdx:pdx-vegan-fest",
                 title: "Portland Vegan Beer & Food Festival",
                 summary: "Sixty breweries and thirty food vendors, all plant-based. Ticket includes a tasting glass and eight pours.",
                 start: at(hour: 12, dayOffset: 11),
@@ -499,10 +499,10 @@ enum MockData {
                 venue: Venues.pioneerSquare,
                 categories: [.food, .market, .community],
                 price: .range(35, 60),
-                url: URL(string: "https://www.eventbrite.com"),
-                ticketURL: URL(string: "https://www.eventbrite.com"),
+                url: URL(string: "https://dopdx.com"),
+                ticketURL: URL(string: "https://www.veganbeerfest.com"),
                 organizer: "Vegan Beer & Food Fest",
-                source: .eventbrite
+                source: .dopdx
             )
         },
         {
@@ -646,7 +646,7 @@ enum MockData {
         },
         {
             Event(
-                id: "eventbrite:st-johns-parade",
+                id: "dopdx:st-johns-parade",
                 title: "St. Johns Bizarre & Parade",
                 summary: "A neighborhood street festival with a parade, three music stages, and a hundred vendors along Lombard.",
                 start: at(hour: 10, dayOffset: 20),
@@ -654,9 +654,9 @@ enum MockData {
                 venue: Venues.cathedralPark,
                 categories: [.community, .market, .music, .family],
                 price: .free,
-                url: URL(string: "https://www.eventbrite.com"),
+                url: URL(string: "https://dopdx.com"),
                 organizer: "St. Johns Boosters",
-                source: .eventbrite
+                source: .dopdx
             )
         },
         {

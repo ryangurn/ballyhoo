@@ -29,7 +29,7 @@ We are deliberately shipping only two sources in this change (Calagator + Ticket
 - No image hosting. If an upstream provides an image URL, we pass it through. We do not proxy or resize.
 - No incremental per-source fetching. Each source workflow does a full refresh. The volumes are small enough that this is fine.
 - No client-side pagination or partial feeds. One canonical file for everything.
-- No support for Eventbrite / portland.gov / library / venues in this change (each is a follow-up).
+- No support for portland.gov / library / venues in this change (each is a follow-up).
 - No live analytics / observability beyond GitHub Actions logs, job summaries, and `sources/index.json`.
 - **No archive history compaction.** Tiered retention keeps the archive's working tree bounded, but rewriting the `archive` branch's git history to reclaim space is explicitly deferred. See the Decisions and Risks sections for what makes this safe to defer, and for why no runway figure is quoted for it.
 

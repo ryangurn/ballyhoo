@@ -160,7 +160,7 @@
 - [ ] 14.2 Add "How to add a new source" section to `pipeline/README.md` covering: create `pipeline/sources/<new-source>/` (fetch, normalize, `__main__.py`, tests, README), add `.github/workflows/source-<new-source>.yml` (copy Calagator's YAML as a template), register in `pipeline/sources/__init__.py`, done
 - [ ] 14.3 Document the archive in `pipeline/README.md`: branch layout, both retention tiers, raw URL scheme, the gunzip read one-liner, and how to restore a historical snapshot as the live feed
 - [ ] 14.4 Record the deferred archive-compaction work explicitly — what it does (orphan-commit rewrite of the `archive` branch, force-push), why it is needed (pruning bounds the working tree but not git history), and that no runway figure is currently quoted because the growth rate is unmeasured under the working dedup. Note that two figures have been published and withdrawn (11 MB/day, then 23 MB/day, the latter resting on Ticketmaster churn that proved to be a single deploy), so the next reader knows the number is absent by decision rather than by oversight, and knows to take it from 15.6 rather than re-deriving one
-- [ ] 14.5 File follow-up OpenSpec change notes for Eventbrite, portland.gov, Multnomah County Library, Oregon Metro, and per-venue scrapers (each becomes its own proposal that adds one source module and one workflow file)
+- [ ] 14.5 File follow-up OpenSpec change notes for portland.gov, Multnomah County Library, Oregon Metro, and per-venue scrapers (each becomes its own proposal that adds one source module and one workflow file)
 
 ## 15. Observability soak
 

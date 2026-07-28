@@ -41,7 +41,7 @@ All event reads SHALL go through an `EventRepository` protocol. The app SHALL pr
 #### Scenario: No direct upstream access
 
 - **WHEN** any view or view model needs event data
-- **THEN** it obtains it from an `EventRepository`, and no code path contacts Calagator, Ticketmaster, Eventbrite, or any other upstream source directly
+- **THEN** it obtains it from an `EventRepository`, and no code path contacts Calagator, Ticketmaster, or any other upstream source directly
 
 ### Requirement: Feed envelope and decoding
 

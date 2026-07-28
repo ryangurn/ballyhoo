@@ -216,10 +216,10 @@ struct Source: Codable, Hashable, Identifiable {
         name: "Ticketmaster",
         url: URL(string: "https://www.ticketmaster.com")
     )
-    static let eventbrite = Source(
-        id: "eventbrite",
-        name: "Eventbrite",
-        url: URL(string: "https://www.eventbrite.com")
+    static let dopdx = Source(
+        id: "dopdx",
+        name: "DoPDX",
+        url: URL(string: "https://dopdx.com")
     )
     static let portlandGov = Source(
         id: "portland_gov",

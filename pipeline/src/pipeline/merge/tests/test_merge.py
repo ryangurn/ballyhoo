@@ -415,9 +415,6 @@ class TestTheRegistryTracksThePackageTree:
         }
         assert {s.id for s in configured_sources()} == package_dirs
 
-    def test_eventbrite_is_configured_even_though_it_has_never_published(self):
-        assert "eventbrite" in {s.id for s in configured_sources()}
-
     def test_discovery_is_ordered_so_the_index_is_stable(self):
         ids = [s.id for s in configured_sources()]
         assert ids == sorted(ids)
@@ -432,8 +429,8 @@ class TestABrokenSourceSurfacesEndToEnd:
         assert merge_into_pages(sources_dir, pages_dir) == 0
 
         index = json.loads((pages_dir / "sources" / "index.json").read_text())
-        assert entry_for(index, "eventbrite") == {
-            "source_id": "eventbrite",
+        assert entry_for(index, "calagator") == {
+            "source_id": "calagator",
             "last_run_at": None,
             "event_count": 0,
             "status": "error",
