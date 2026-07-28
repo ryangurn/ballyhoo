@@ -2,37 +2,6 @@
   "events": [
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AKPwG7",
-      "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/karaoke-from-hell-dantes-tickets/13972304",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 8.26,
-        "min": 8.26
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-07-27T21:00:00-07:00",
-      "summary": "The original live karaoke band, rocking in Portland for 25 years and counting. Come see us every Monday at Dantes!",
-      "ticket_url": "https://www.ticketweb.com/event/karaoke-from-hell-dantes-tickets/13972304",
-      "title": "KARAOKE FROM HELL",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
-      }
-    },
-    {
-      "categories": [
         "sports"
       ],
       "id": "ticketmaster:Z7r9jZ1A7Qv_-",
@@ -1648,7 +1617,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-08-04T18:30:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "summary": "EARLY START 6pm Doors6:30pm Lessons7:30pm Band",
       "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-western-showdown-saloon-tickets/14248434",
       "title": "Two-Step Tuesday with Western Edition and Dance Lessons with Peggy",
       "venue": {
@@ -6476,6 +6445,37 @@
         "latitude": 45.50122605,
         "longitude": -122.65284748,
         "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AKPwuf",
+      "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/karaoke-from-hell-dantes-tickets/13972354",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 8.26,
+        "min": 8.26
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-08-24T21:00:00-07:00",
+      "summary": "The original live karaoke band, rocking in Portland for 25 years and counting. Come see us every Monday at Dantes!",
+      "ticket_url": "https://www.ticketweb.com/event/karaoke-from-hell-dantes-tickets/13972354",
+      "title": "KARAOKE FROM HELL",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
       }
     },
     {
@@ -20599,7 +20599,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-28T03:31:52+00:00",
+  "generated_at": "2026-07-28T06:38:47+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
