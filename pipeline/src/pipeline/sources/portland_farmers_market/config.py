@@ -47,7 +47,7 @@ MAX_RETRIES = 3
 # A small nonprofit's shared WordPress host, not a CDN-backed API. Crawl gently.
 SECONDS_BETWEEN_PAGES = 0.75
 
-USER_AGENT = "sociallist-pipeline/0.1 (+https://github.com/ryangurn/sociallist)"
+USER_AGENT = "ballyhoo-pipeline/0.1 (+https://github.com/ryangurn/ballyhoo)"
 
 # Every record carries `utc_start_date`/`utc_end_date` alongside the local pair, so
 # we read the UTC fields and convert. Trusting the offset-free local fields would

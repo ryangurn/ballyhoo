@@ -581,7 +581,7 @@ class TestFetch:
         fetch_raw(now=NOW, session=requests.Session())
 
         headers = responses.calls[0].request.headers
-        assert headers["User-Agent"] == "sociallist-pipeline/0.1 (github.com/ryangurn/sociallist)"
+        assert headers["User-Agent"] == "ballyhoo-pipeline/0.1 (github.com/ryangurn/ballyhoo)"
         assert "Origin" not in headers
         assert "Referer" not in headers
 

@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ryangurn.github.io/sociallist/schema/event.schema.json",
+  "$id": "https://ryangurn.github.io/ballyhoo/schema/event.schema.json",
   "title": "Event",
-  "description": "A single normalized event. Mirrors the Swift `Event` type in sociallist/Models/Event.swift. Additional properties are permitted so pipeline-side additions never break shipped clients.",
+  "description": "A single normalized event. Mirrors the Swift `Event` type in ballyhoo/Models/Event.swift. Additional properties are permitted so pipeline-side additions never break shipped clients.",
   "type": "object",
   "required": ["id", "title", "start_at", "price", "source"],
   "additionalProperties": true,

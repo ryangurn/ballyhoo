@@ -68,12 +68,12 @@
 
 - [ ] 8.1 In Xcode, duplicate the `Debug` build configuration as `Debug-Staging`
 - [ ] 8.2 Add `STAGING` to `SWIFT_ACTIVE_COMPILATION_CONDITIONS` for the `Debug-Staging` configuration only
-- [ ] 8.3 Create a new scheme `sociallist (Staging)` that uses `Debug-Staging` for the Run action
-- [ ] 8.4 Share the new scheme in `sociallist.xcodeproj/xcshareddata/xcschemes/`
+- [ ] 8.3 Create a new scheme `ballyhoo (Staging)` that uses `Debug-Staging` for the Run action
+- [ ] 8.4 Share the new scheme in `ballyhoo.xcodeproj/xcshareddata/xcschemes/`
 
 ## 9. Client: environment resolution
 
-- [ ] 9.1 In `sociallist/Data/EventStore.swift`, introduce a `FeedEnvironment` enum (`.production`, `.staging`) with per-case URLs
+- [ ] 9.1 In `ballyhoo/Data/EventStore.swift`, introduce a `FeedEnvironment` enum (`.production`, `.staging`) with per-case URLs
 - [ ] 9.2 Rewrite `FeedSource.production` as a computed static that resolves the effective environment via:
   1. Launch arguments (`-feedEnvironment staging` or `-feedEnvironment production`) — highest priority
   2. Compilation condition `#if STAGING` — second priority
@@ -83,17 +83,17 @@
 
 ## 10. Client validation
 
-- [ ] 10.1 Build and run the standard `sociallist` scheme; confirm the app hits the production URL (verify via logging or a proxy)
-- [ ] 10.2 Build and run the `sociallist (Staging)` scheme; confirm the app hits the staging URL
-- [ ] 10.3 Run the `sociallist (Staging)` build with launch argument `-feedEnvironment production`; confirm it hits production
-- [ ] 10.4 Run the standard `sociallist` build with launch argument `-feedEnvironment staging`; confirm it hits staging
+- [ ] 10.1 Build and run the standard `ballyhoo` scheme; confirm the app hits the production URL (verify via logging or a proxy)
+- [ ] 10.2 Build and run the `ballyhoo (Staging)` scheme; confirm the app hits the staging URL
+- [ ] 10.3 Run the `ballyhoo (Staging)` build with launch argument `-feedEnvironment production`; confirm it hits production
+- [ ] 10.4 Run the standard `ballyhoo` build with launch argument `-feedEnvironment staging`; confirm it hits staging
 - [ ] 10.5 Confirm no launch argument on either build falls back to the compiled default
 
 ## 11. Documentation
 
 - [ ] 11.1 Add a "Staging" section to `pipeline/README.md` covering: how to iterate a source on `staging`, how to reset `staging`, how to run staging without pushing (manual dispatch), the URL prefixes, and how to point the client
 - [ ] 11.2 Add a callout in the top-level `README.md` explaining that pushes to `staging` trigger a real pipeline run
-- [ ] 11.3 Document the launch-argument override in `sociallist/Data/EventStore.swift` as a doc comment on `FeedSource.production`
+- [ ] 11.3 Document the launch-argument override in `ballyhoo/Data/EventStore.swift` as a doc comment on `FeedSource.production`
 
 ## 12. Isolation soak
 

@@ -83,10 +83,10 @@ Same branch, different subtree. Alternative considered: dedicated `gh-pages-stag
 6. Push a trivial commit to `staging` (e.g. a whitespace change in a source module).
 7. Watch `staging-refresh.yml` fire, then the three dispatched source workflows, then the merge.
 8. Verify staging URLs exist and have valid content: `/staging/events.json`, `/staging/sources/calagator.json`, `/staging/sources/ticketmaster.json`, `/staging/sources/index.json`.
-9. Add the `Debug-Staging` Xcode configuration and `sociallist (Staging)` scheme.
-10. Update `sociallist/Data/EventStore.swift` to resolve `FeedSource.production` from launch args → compilation condition → default.
-11. Build the `sociallist (Staging)` scheme; confirm it hits the staging URL and renders the staging feed.
-12. Rebuild the standard `sociallist` scheme; confirm production is unaffected.
+9. Add the `Debug-Staging` Xcode configuration and `ballyhoo (Staging)` scheme.
+10. Update `ballyhoo/Data/EventStore.swift` to resolve `FeedSource.production` from launch args → compilation condition → default.
+11. Build the `ballyhoo (Staging)` scheme; confirm it hits the staging URL and renders the staging feed.
+12. Rebuild the standard `ballyhoo` scheme; confirm production is unaffected.
 13. Document the staging workflow in `pipeline/README.md`.
 
 **Rollback:** Delete the `staging` branch. Revert the workflow YAML changes so they no longer accept an `environment` input. The client's launch argument code and `Debug-Staging` scheme are inert without a staging URL to point at, so they can be left in place.

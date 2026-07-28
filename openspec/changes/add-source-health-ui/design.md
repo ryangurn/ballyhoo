@@ -63,7 +63,7 @@ When health is unavailable, the tab renders exactly what it renders today — fe
 - **Feed-derived counts and index counts will visibly differ if anyone compares them.** A curious user inspecting the raw JSON might wonder why the tab says 43 and the index says 47. → Acceptable; the index is a pipeline artifact, and the discrepancy is correct behavior (dedup and filtering). Documented in the pipeline README.
 - **Session-scoped caching means a source that recovers mid-session still shows stale until refresh.** → Acceptable and expected; the refresh control is right there, and health changes on an hourly cadence at most.
 - **A source removed from the pipeline entirely will linger in the feed-derived list until its events age out.** → Correct behavior — those events are still browsable, so the source still needs attribution.
-- **Two stores in the environment instead of one.** Slightly more wiring in `SociallistApp` and in previews. → Small and worth it for cohesion.
+- **Two stores in the environment instead of one.** Slightly more wiring in `BallyhooApp` and in previews. → Small and worth it for cohesion.
 - **The union rule means an index listing a never-launched source shows it with zero events.** Could look odd during pipeline development. → Acceptable; the pipeline only writes index entries for configured sources, and a configured source with zero events is genuinely worth surfacing.
 
 ## Migration Plan

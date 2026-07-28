@@ -29,11 +29,11 @@ None. `event-data-access` is untouched: health is fetched through its own reposi
 ## Impact
 
 - **New files:**
-  - `sociallist/Models/SourceHealth.swift` — `SourceHealth`, `SourceStatus`, `SourceHealthIndex`, and decoding.
-  - `sociallist/Data/SourceHealthRepository.swift` — protocol plus `MockSourceHealthRepository` and `RemoteSourceHealthRepository`.
+  - `ballyhoo/Models/SourceHealth.swift` — `SourceHealth`, `SourceStatus`, `SourceHealthIndex`, and decoding.
+  - `ballyhoo/Data/SourceHealthRepository.swift` — protocol plus `MockSourceHealthRepository` and `RemoteSourceHealthRepository`.
 - **Modified files:**
-  - `sociallist/Data/EventStore.swift` — gains a health-index URL derived from the same base as the feed URL, and exposes health state to views. (Alternatively a small dedicated `SourceHealthStore`; decided in design.)
-  - `sociallist/Features/Sources/SourcesView.swift` — substantially rewritten to merge feed-derived counts with index-derived status.
+  - `ballyhoo/Data/EventStore.swift` — gains a health-index URL derived from the same base as the feed URL, and exposes health state to views. (Alternatively a small dedicated `SourceHealthStore`; decided in design.)
+  - `ballyhoo/Features/Sources/SourcesView.swift` — substantially rewritten to merge feed-derived counts with index-derived status.
 - **Dependency on `add-events-aggregation-pipeline`:** this change requires `sources/index.json` to exist at the published URL. It cannot ship before that change is live. The mock implementation lets the UI be built and reviewed beforehand.
 - **No new third-party dependencies.** Apple frameworks only, consistent with the rest of the app.
 - **No change to the event feed path.** `EventRepository`, the `Event` model, and every other view are untouched.

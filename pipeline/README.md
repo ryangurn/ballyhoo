@@ -1,6 +1,6 @@
-# sociallist pipeline
+# Ballyhoo pipeline
 
-Aggregates Portland event data into a static JSON feed for the sociallist iOS app.
+Aggregates Portland event data into a static JSON feed for the Ballyhoo iOS app.
 There is no server: GitHub Actions fetches from each upstream source on a schedule,
 normalizes everything into one shape, and publishes a file the app downloads directly.
 

@@ -47,7 +47,7 @@ def _request(session: requests.Session, params: dict[str, Any]) -> dict[str, Any
                 config.EVENTS_URL,
                 params=params,
                 timeout=config.REQUEST_TIMEOUT_SECONDS,
-                headers={"Accept": "application/json", "User-Agent": "sociallist-pipeline/0.1"},
+                headers={"Accept": "application/json", "User-Agent": "ballyhoo-pipeline/0.1"},
             )
         except requests.RequestException as exc:
             last_error = exc

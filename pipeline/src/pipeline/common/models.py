@@ -1,6 +1,6 @@
 """Normalized event model shared by every source.
 
-Mirrors the Swift `Event` type in `sociallist/Models/Event.swift`. The JSON these
+Mirrors the Swift `Event` type in `ballyhoo/Models/Event.swift`. The JSON these
 dataclasses emit is what the iOS client decodes, so field names and shapes here are
 a contract, not an implementation detail. Changes must stay in sync with
 `pipeline/schema/event.schema.json` and the Swift model.

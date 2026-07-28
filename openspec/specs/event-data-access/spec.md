@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Defines how the sociallist app reads events from its data layer. All views consume events through a single normalized model and a repository protocol that hides whether the data comes from in-memory fixtures or the published static feed. This capability owns the schema contract between the app and the future build-time aggregation pipeline.
+Defines how the Ballyhoo app reads events from its data layer. All views consume events through a single normalized model and a repository protocol that hides whether the data comes from in-memory fixtures or the published static feed. This capability owns the schema contract between the app and the future build-time aggregation pipeline.
 
 ## Requirements
 

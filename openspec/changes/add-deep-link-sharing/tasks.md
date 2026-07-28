@@ -1,45 +1,45 @@
 ## 1. Landing page (prerequisite — must land before anything is shareable)
 
-- [ ] 1.1 Write `e/index.html` as a single hand-authored static page: reads `?id=` from the query string, attempts the equivalent `sociallist://event?id=…` URL to hand off to an installed app, and otherwise explains what sociallist is and where to get it
-- [ ] 1.2 Include a visible source-neutral note that the link points at an event aggregated by sociallist, so a recipient can tell what they are looking at without the app
+- [ ] 1.1 Write `e/index.html` as a single hand-authored static page: reads `?id=` from the query string, attempts the equivalent `ballyhoo://event?id=…` URL to hand off to an installed app, and otherwise explains what Ballyhoo is and where to get it
+- [ ] 1.2 Include a visible source-neutral note that the link points at an event aggregated by Ballyhoo, so a recipient can tell what they are looking at without the app
 - [ ] 1.3 Give the page generic Open Graph and `<title>` metadata — per-event metadata is explicitly out of scope and would need server-side rendering
 - [ ] 1.4 Handle a missing or empty `id` gracefully rather than rendering a broken state
 - [ ] 1.5 Commit the page to the `gh-pages` branch by hand, outside the pipeline, so no workflow generates or rewrites it
-- [ ] 1.6 Verify `https://ryangurn.github.io/sociallist/e/?id=calagator%3A1250482638` returns HTTP 200 with `text/html` and renders
+- [ ] 1.6 Verify `https://ryangurn.github.io/ballyhoo/e/?id=calagator%3A1250482638` returns HTTP 200 with `text/html` and renders
 - [ ] 1.7 Confirm a pipeline publish run leaves the page untouched and does not add it to the archive's per-run churn
 
 ## 2. Link grammar
 
-- [ ] 2.1 Create `sociallist/Models/EventLink.swift` holding the scheme, host, and path constants in exactly one place
-- [ ] 2.2 Implement formatting from an event id to the HTTPS form `https://ryangurn.github.io/sociallist/e/?id=<id>`, percent-encoding the colon as `%3A`
-- [ ] 2.3 Implement formatting from an event id to the custom-scheme form `sociallist://event?id=<id>` using the same encoding
+- [ ] 2.1 Create `ballyhoo/Models/EventLink.swift` holding the scheme, host, and path constants in exactly one place
+- [ ] 2.2 Implement formatting from an event id to the HTTPS form `https://ryangurn.github.io/ballyhoo/e/?id=<id>`, percent-encoding the colon as `%3A`
+- [ ] 2.3 Implement formatting from an event id to the custom-scheme form `ballyhoo://event?id=<id>` using the same encoding
 - [ ] 2.4 Add a convenience that formats directly from an `Event`
 - [ ] 2.5 Implement parsing that accepts both forms, requires a non-empty `id`, percent-decodes it, and returns the id
 - [ ] 2.6 Make parsing strict: reject other hosts, other paths, other custom-scheme hosts, and a missing or empty `id`
 - [ ] 2.7 Make parsing forward-compatible: ignore unrecognized additional query parameters rather than rejecting the URL
 - [ ] 2.8 Add round-trip tests over ids representative of the live feed — `calagator:1250482638`, `ticketmaster:vv1AaBbCc`, `obt:830`, `oregon_metro:4471`
-- [ ] 2.9 Add rejection tests for `https://ryangurn.github.io/sociallist/events.json`, `sociallist://event`, `sociallist://event?id=`, and `sociallist://source?id=calagator`
+- [ ] 2.9 Add rejection tests for `https://ryangurn.github.io/ballyhoo/events.json`, `ballyhoo://event`, `ballyhoo://event?id=`, and `ballyhoo://source?id=calagator`
 - [ ] 2.10 Add a test asserting `?id=…&ref=newsletter` resolves to the id and ignores `ref`
 - [ ] 2.11 Add a test asserting an id containing an already-encoded `%3A` parses identically to a raw colon, so both spellings resolve
 
 ## 3. Xcode target configuration — **performed by the user, not the agent**
 
-- [ ] 3.1 **User:** register the URL scheme in the app target's Info settings — add a `CFBundleURLTypes` entry with URL Schemes `sociallist` and a URL identifier of `com.ryangurnick.sociallist`. `project.pbxproj` is hand-managed in this repo, so no agent edits it
+- [ ] 3.1 **User:** register the URL scheme in the app target's Info settings — add a `CFBundleURLTypes` entry with URL Schemes `ballyhoo` and a URL identifier of `com.ryangurnick.ballyhoo`. `project.pbxproj` is hand-managed in this repo, so no agent edits it
 - [ ] 3.2 **User:** confirm the scheme is registered on a simulator build, whose bundle id is `devplaceholder.*` — URL schemes are not bundle-id scoped, so the scheme works there even though a future association file would not
 - [ ] 3.3 **User:** do **not** add an Associated Domains entitlement in this change; it would be inert without a valid association file. See section 12 for what to add if the prerequisite is ever met
 
 ## 4. Router and navigation lift
 
-- [ ] 4.1 Create `sociallist/Data/DeepLinkRouter.swift` as an `@Observable`, `MainActor`-isolated type
+- [ ] 4.1 Create `ballyhoo/Data/DeepLinkRouter.swift` as an `@Observable`, `MainActor`-isolated type
 - [ ] 4.2 Model the router's state explicitly: no pending link, a pending id awaiting feed load, a resolved event, event-not-found, and feed-load-failed
-- [ ] 4.3 Add a tab-selection binding to `TabView` in `SociallistApp`, replacing the current selection-less `TabView`
+- [ ] 4.3 Add a tab-selection binding to `TabView` in `BallyhooApp`, replacing the current selection-less `TabView`
 - [ ] 4.4 Lift `DiscoverView`'s private `selectedEvent` so the router can drive it, keeping the existing `navigationDestination(item:)` shape
 - [ ] 4.5 Leave `EventMapView` and `SavedView` selection state exactly as it is — they are not deep-link destinations
 - [ ] 4.6 Verify every existing navigation path still works before layering any deep-link behaviour on top: tapping a card in Discover, a pin callout in Map, a row in Saved, and back navigation from each
 
 ## 5. Inbound routing
 
-- [ ] 5.1 Attach `onOpenURL` once at the `WindowGroup` in `SociallistApp` and route the URL through `EventLink`
+- [ ] 5.1 Attach `onOpenURL` once at the `WindowGroup` in `BallyhooApp` and route the URL through `EventLink`
 - [ ] 5.2 On a parse failure, take no action at all — the app opens to its default state with no error surfaced
 - [ ] 5.3 On a parse success, hand the id to the router rather than to any view
 - [ ] 5.4 Resolve against `store.allEvents`, never `filteredEvents`, so active filters cannot hide a linked event
@@ -54,7 +54,7 @@
 
 ## 6. Not-found and load-failure destinations
 
-- [ ] 6.1 Create `sociallist/Features/Detail/EventNotFoundView.swift`
+- [ ] 6.1 Create `ballyhoo/Features/Detail/EventNotFoundView.swift`
 - [ ] 6.2 Write copy that states the event is no longer listed and that events drop out of the feed once they have passed, without asserting which of those happened
 - [ ] 6.3 Derive the source name from the id's `{source_id}` prefix and name it when it matches a known `Source`; omit it silently when it does not
 - [ ] 6.4 Offer a route back to browsing the current feed
@@ -63,7 +63,7 @@
 
 ## 7. Share payload
 
-- [ ] 7.1 Create `sociallist/Features/Detail/EventSharePayload.swift` composing the payload as a `String`
+- [ ] 7.1 Create `ballyhoo/Features/Detail/EventSharePayload.swift` composing the payload as a `String`
 - [ ] 7.2 Compose in order: title, then date and time with venue, then the attribution line, then the deep link on its own final line
 - [ ] 7.3 Format the date and time in the app's existing style, honoring `isAllDay` so an all-day event does not advertise a meaningless start time
 - [ ] 7.4 Omit the venue segment cleanly when the event has no venue, leaving no dangling separator
@@ -94,7 +94,7 @@
 
 ## 10. Verification
 
-- [ ] 10.1 Warm foreground: with the app running and the feed loaded, run `xcrun simctl openurl booted "sociallist://event?id=<id>"` and confirm the detail appears
+- [ ] 10.1 Warm foreground: with the app running and the feed loaded, run `xcrun simctl openurl booted "ballyhoo://event?id=<id>"` and confirm the detail appears
 - [ ] 10.2 Cold launch: terminate the app, run the same command, and confirm the destination presents in a loading state and then resolves without further input
 - [ ] 10.3 Cross-tab: select the Map tab, open a link, and confirm the app switches to Discover and presents the detail there
 - [ ] 10.4 Back navigation: dismiss a deep-linked detail and confirm the user lands on the Discover feed
@@ -103,13 +103,13 @@
 - [ ] 10.7 Not found: open a link for a fabricated id such as `calagator:0` and confirm the honest not-found state with Calagator named
 - [ ] 10.8 Unknown source: open a link for `nosuchsource:1` and confirm not-found renders without a source name
 - [ ] 10.9 Load failure: disable networking, cold-launch from a link, and confirm the load-failure state with retry appears rather than not-found; restore networking, tap retry, and confirm the event resolves
-- [ ] 10.10 Malformed links: open `sociallist://event`, `sociallist://source?id=x`, and an unrelated HTTPS URL on the domain, and confirm the app opens normally with nothing presented
+- [ ] 10.10 Malformed links: open `ballyhoo://event`, `ballyhoo://source?id=x`, and an unrelated HTTPS URL on the domain, and confirm the app opens normally with nothing presented
 - [ ] 10.11 Share payload on device: share an event to Messages, Mail, and the clipboard, and confirm attribution and every field arrive intact in all three
 - [ ] 10.12 Share an event with no `listing_url` and confirm the primary action is present and the secondary is absent
 - [ ] 10.13 Share an all-day event and confirm the payload reads sensibly
-- [ ] 10.14 Copy a shared HTTPS link into Safari on a device without the app and confirm the landing page renders; repeat with the app installed and confirm the `sociallist://` handoff fires
+- [ ] 10.14 Copy a shared HTTPS link into Safari on a device without the app and confirm the landing page renders; repeat with the app installed and confirm the `ballyhoo://` handoff fires
 - [ ] 10.15 Answer the open question: check whether iMessage renders a link preview for a URL on the last line of a multi-line text share, and record the result in the design's Open Questions
-- [ ] 10.16 Build clean: `xcodebuild -project sociallist.xcodeproj -scheme sociallist -destination 'platform=iOS Simulator,name=iPhone 17 Pro' build`
+- [ ] 10.16 Build clean: `xcodebuild -project ballyhoo.xcodeproj -scheme ballyhoo -destination 'platform=iOS Simulator,name=iPhone 17 Pro' build`
 
 ## 11. Documentation
 
@@ -122,7 +122,7 @@
 
 - [ ] 12.1 Prerequisite: move the published site to a host that can set a per-file `Content-Type`. GitHub Pages cannot, and serves an extensionless file as `application/octet-stream`, which Apple silently rejects. In practice this means a custom domain fronted by Cloudflare Pages, Netlify, or a Worker
 - [ ] 12.2 Confirm the prerequisite empirically before doing anything else: `curl -sSI https://<domain>/.well-known/apple-app-site-association` must show HTTP 200, `Content-Type: application/json`, and no `Location` header
-- [ ] 12.3 Author the association file with `appIDs` set to `<TEAMID>.com.ryangurnick.sociallist` and `components` scoped to the deep-link path and its `id` query parameter, not to the whole domain
+- [ ] 12.3 Author the association file with `appIDs` set to `<TEAMID>.com.ryangurnick.ballyhoo` and `components` scoped to the deep-link path and its `id` query parameter, not to the whole domain
 - [ ] 12.4 **User:** add the Associated Domains capability and the `applinks:<domain>` entitlement to the app target, and regenerate the provisioning profile
 - [ ] 12.5 **User:** during development, use `?mode=developer` on the entitlement to bypass Apple's CDN, and remove it before submitting
 - [ ] 12.6 Verify with Apple's App Search API validation tool and by tapping a link on a physical device

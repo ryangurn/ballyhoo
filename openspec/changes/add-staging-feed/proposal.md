@@ -10,9 +10,9 @@ We need a way to iterate on source code against real upstream data and see the r
 - Every existing pipeline workflow (source workflows + merge workflow) SHALL accept an `environment` input (`production` | `staging`) on `workflow_dispatch`, plus a `ref` input for staging that defaults to `staging`. When `environment: staging`, the workflow checks out the specified ref, runs its normal pipeline, and publishes to a `staging/` prefix on `gh-pages` instead of the root.
 - Introduce a `.github/workflows/staging-refresh.yml` workflow that triggers on push to the `staging` branch. It fans out `workflow_dispatch` calls to every source workflow with `environment: staging, ref: staging`, then to the merge workflow. Push a change to `staging`, and within minutes the staging feed rebuilds.
 - Publish staging artifacts at:
-  - `https://ryangurn.github.io/sociallist/staging/events.json` — merged staging feed
-  - `https://ryangurn.github.io/sociallist/staging/sources/<source_id>.json` — per-source staging files
-  - `https://ryangurn.github.io/sociallist/staging/sources/index.json` — staging health metadata
+  - `https://ryangurn.github.io/ballyhoo/staging/events.json` — merged staging feed
+  - `https://ryangurn.github.io/ballyhoo/staging/sources/<source_id>.json` — per-source staging files
+  - `https://ryangurn.github.io/ballyhoo/staging/sources/index.json` — staging health metadata
 - Staging publishes SHALL NEVER write to production paths, and production publishes SHALL NEVER write to staging paths. The two feeds are fully independent.
 - Client side: add a new `Debug-Staging` Xcode build configuration with a `STAGING` compilation condition. `FeedSource.production` resolves to the staging URL when built under that configuration.
 - Client side: add a launch-argument override (`-feedEnvironment staging`) so QA can force staging on any build without a rebuild. The compilation condition wins by default; the launch argument overrides it either direction.
@@ -36,8 +36,8 @@ None at the spec level. `event-aggregation-pipeline` and `feed-publication` rema
 - **Pipeline code change:** `pipeline/common/publish.py` gains awareness of the target environment and computes the path prefix (`""` for production, `"staging/"` for staging). No other pipeline module changes.
 - **Client change:**
   - New Xcode build configuration `Debug-Staging` (duplicate of `Debug` with `STAGING` in `SWIFT_ACTIVE_COMPILATION_CONDITIONS`).
-  - `sociallist/Data/EventStore.swift`: `FeedSource.production` becomes a computed static that reads the launch argument first, then the compilation condition, then falls back to the production URL.
-  - New scheme `sociallist (Staging)` that uses the `Debug-Staging` configuration for Run.
+  - `ballyhoo/Data/EventStore.swift`: `FeedSource.production` becomes a computed static that reads the launch argument first, then the compilation condition, then falls back to the production URL.
+  - New scheme `ballyhoo (Staging)` that uses the `Debug-Staging` configuration for Run.
 - **`gh-pages` branch layout gains:**
   - `staging/events.json`
   - `staging/sources/<source_id>.json`

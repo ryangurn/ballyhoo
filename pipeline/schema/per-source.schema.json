@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ryangurn.github.io/sociallist/schema/per-source.schema.json",
+  "$id": "https://ryangurn.github.io/ballyhoo/schema/per-source.schema.json",
   "title": "PerSourceFeed",
   "description": "One source's unmerged output, published at /sources/<source_id>.json. A supported public contract, not a pipeline internal.",
   "type": "object",

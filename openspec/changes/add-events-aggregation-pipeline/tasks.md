@@ -112,11 +112,11 @@
   - `history.json` seed for the floor check
 - [ ] 10.2 Push the branch
 - [ ] 10.3 Enable GitHub Pages in repo settings; source: `gh-pages` branch, root directory
-- [ ] 10.4 Verify the seed merged feed is reachable at `https://ryangurn.github.io/sociallist/events.json`
+- [ ] 10.4 Verify the seed merged feed is reachable at `https://ryangurn.github.io/ballyhoo/events.json`
 - [ ] 10.5 Verify GitHub Pages sends ETag and Last-Modified headers by hitting the URL with `curl -I`
 - [ ] 10.6 Create an orphan `archive` branch locally with a `README.md` documenting: that it is machine-managed, the two-tier layout, the retention policy, that snapshots are gzipped, and the `curl <raw-url> | gunzip | jq` read one-liner
 - [ ] 10.7 Push the `archive` branch; confirm it is NOT configured as a Pages source
-- [ ] 10.8 Verify an archived snapshot is publicly readable via `https://raw.githubusercontent.com/ryangurn/sociallist/archive/<path>`
+- [ ] 10.8 Verify an archived snapshot is publicly readable via `https://raw.githubusercontent.com/ryangurn/ballyhoo/archive/<path>`
 - [ ] 10.9 Confirm workflows shallow-clone each branch independently so `archive` growth never slows a `gh-pages` publish
 
 ## 11. Secrets configuration
@@ -149,7 +149,7 @@
 
 ## 13. Client wiring
 
-- [ ] 13.1 Flip `FeedSource.production` in `sociallist/Data/EventStore.swift` from `.mock` to `.remote(URL(string: "https://ryangurn.github.io/sociallist/events.json")!)`
+- [ ] 13.1 Flip `FeedSource.production` in `ballyhoo/Data/EventStore.swift` from `.mock` to `.remote(URL(string: "https://ryangurn.github.io/ballyhoo/events.json")!)`
 - [ ] 13.2 Build and run on the simulator; confirm the Discover feed renders real Portland events
 - [ ] 13.3 Build and run on a physical iPhone; confirm the same, and confirm ETag-based revalidation on a second cold launch (via a proxy or by inspecting `URLSession` logs)
 - [ ] 13.4 Confirm the Sources tab displays the correct `generatedAt` freshness reflecting the last merge run

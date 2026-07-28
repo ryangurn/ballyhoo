@@ -11,8 +11,8 @@ Each upstream source has its own quirks — Calagator is an open JSON endpoint, 
 - Ship two source workflows in this change:
   - **Calagator**: open JSON at `https://calagator.org/events.json`, no auth.
   - **Ticketmaster Discovery API**: free API key, scoped to Portland; well under the 5,000/day quota.
-- Publish the merged feed at a stable URL served by GitHub Pages: `https://ryangurn.github.io/sociallist/events.json`. ETag / Last-Modified revalidation is automatic on GitHub Pages, so the app's shared `URLSession` cache does conditional GETs cheaply.
-- Publish per-source artifacts at `https://ryangurn.github.io/sociallist/sources/<source_id>.json` as a **supported public contract**. Documented, schema-validated, safe for the Sources tab (or third parties) to consume in the future.
+- Publish the merged feed at a stable URL served by GitHub Pages: `https://ryangurn.github.io/ballyhoo/events.json`. ETag / Last-Modified revalidation is automatic on GitHub Pages, so the app's shared `URLSession` cache does conditional GETs cheaply.
+- Publish per-source artifacts at `https://ryangurn.github.io/ballyhoo/sources/<source_id>.json` as a **supported public contract**. Documented, schema-validated, safe for the Sources tab (or third parties) to consume in the future.
 - Publish per-source health metadata at `sources/index.json` (last-run timestamp, event count, status per source).
 - Retain **immutable historical snapshots** of every published artifact — the merged feed and every per-source file — on a dedicated public `archive` branch, readable via `raw.githubusercontent.com`. Snapshots are gzipped, content-hash deduplicated, and organized in two retention tiers: every changed snapshot for the last 7 days, plus one snapshot per day retained indefinitely. Archiving is a non-fatal step, so an archive failure can never roll back or block a live publish.
 - **Explicitly defer** any archive history-compaction workflow. Tiered retention bounds the archive's working tree without one; reclaiming git history is separate future work, deferred open-endedly because the rate at which history grows is not yet known well enough to justify a date. See design for why the two runway figures previously quoted here were withdrawn.
@@ -56,7 +56,7 @@ None. `event-data-access` already specifies that the remote implementation "read
   - `sources/<source_id>/recent/...` and `sources/<source_id>/daily/...`
   - Monthly manifests (`index.json`, uncompressed) listing capture time, content hash, event count, and size
 - **Repo settings:** GitHub Pages enabled from `gh-pages` branch root. `TICKETMASTER_API_KEY` added as a repository secret, referenced only from the Ticketmaster source workflow.
-- **Client change:** `sociallist/Data/EventStore.swift` — `FeedSource.production` flips from `.mock` to `.remote(URL(string: "https://ryangurn.github.io/sociallist/events.json")!)`. Still the only Swift file that changes.
+- **Client change:** `ballyhoo/Data/EventStore.swift` — `FeedSource.production` flips from `.mock` to `.remote(URL(string: "https://ryangurn.github.io/ballyhoo/events.json")!)`. Still the only Swift file that changes.
 - **Actions minutes:** two source workflows × hourly × ~1 min each = ~48 min/day source runs. Merge workflow triggered per source completion (~2/hour × ~1 min) + hourly safety cron = ~72 min/day merge runs. Total ~2 hours/day, well under free-tier limits on public repos.
 - **External dependencies added to pipeline (Python):** `requests`, `python-dateutil`, `beautifulsoup4` (for structured microdata in later scrape sources), `jsonschema` (CI validation). No dependency on any hosted service beyond GitHub and the upstream sources themselves.
 - **No client-side impact beyond the one-line source swap.** The `Event` model, `EventRepository` protocol, and every view stay untouched.

@@ -34,7 +34,7 @@ struct MockEventRepository: EventRepository {
 struct RemoteEventRepository: EventRepository {
     /// The single file the build-time pipeline publishes. Rebuilt hourly by
     /// GitHub Actions; see `pipeline/` for how it is produced.
-    static let productionFeedURL = URL(string: "https://ryangurn.github.io/sociallist/events.json")!
+    static let productionFeedURL = URL(string: "https://ryangurn.github.io/ballyhoo/events.json")!
 
     let feedURL: URL
     var session: URLSession = .shared

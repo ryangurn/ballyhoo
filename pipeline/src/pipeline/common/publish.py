@@ -23,8 +23,8 @@ log = get_logger(__name__)
 MAX_PUSH_ATTEMPTS = 5
 
 # Commits are attributed to the workflow rather than to whoever last touched the repo.
-BOT_NAME = "sociallist-pipeline"
-BOT_EMAIL = "sociallist-pipeline@users.noreply.github.com"
+BOT_NAME = "ballyhoo-pipeline"
+BOT_EMAIL = "ballyhoo-pipeline@users.noreply.github.com"
 
 
 class PublishError(Exception):

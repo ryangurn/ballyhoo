@@ -54,6 +54,6 @@ MAX_OCCURRENCES_PER_MARKET = 40
 REQUEST_TIMEOUT_SECONDS = 25
 MAX_RETRIES = 3
 
-USER_AGENT = "sociallist-pipeline/0.1 (+https://github.com/ryangurn/sociallist)"
+USER_AGENT = "ballyhoo-pipeline/0.1 (+https://github.com/ryangurn/ballyhoo)"
 
 TIMEZONE = "America/Los_Angeles"

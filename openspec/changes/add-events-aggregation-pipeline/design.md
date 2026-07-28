@@ -48,7 +48,7 @@ Fresh source data reaches the client within minutes of the source finishing, wit
 When two source workflows finish within seconds of each other, the older merge is cancelled in favor of the newer one. The newer merge reads whatever per-source files are on disk, so it inherently includes both sources' updates. Alternative considered: `cancel-in-progress: false` (queue merges). Rejected — under bursty triggers we'd accumulate a backlog of nearly-identical merges. Cancelling in progress is cheaper and gives a fresher final result.
 
 **Same repo, aggregators under `pipeline/`, per-source files and merged feed on the `gh-pages` branch of the same repo.**
-Keeps everything discoverable. The alternative of a separate `sociallist-data` repo means two repos to keep in sync, an extra deploy key or PAT to manage, and two places to look for issues. The pipeline directory is cleanly separated from the app, so it isn't clutter.
+Keeps everything discoverable. The alternative of a separate `ballyhoo-data` repo means two repos to keep in sync, an extra deploy key or PAT to manage, and two places to look for issues. The pipeline directory is cleanly separated from the app, so it isn't clutter.
 
 **GitHub Pages from `gh-pages` orphan branch. Merged feed at `/events.json`, per-source files at `/sources/<source_id>.json`, health index at `/sources/index.json`.**
 Zero extra infra, native to Actions, ETag-friendly by default on GitHub Pages. Alternative considered: Cloudflare Pages. Rejected — extra account, extra tokens, no meaningful benefit at our traffic. Alternative considered: Cloudflare R2 / S3 bucket. Rejected — more flexible than we need and adds bill/monitoring surface. If GitHub Pages ever pushes back, R2 is a straightforward migration because the client only knows the merged-feed URL.
@@ -103,7 +103,7 @@ Source workflows produce their unmerged, un-deduplicated output. The merge workf
 Sampling the live Ticketmaster data shows it is almost entirely large touring acts (Megan Moroney, Andrea Bocelli, Weezer, Childish Gambino, Matt Rife), which is a different universe from Calagator's community submissions. The two sources are complementary rather than overlapping, so cross-source dedup is insurance against future sources rather than a mechanism these two need. Build it — a later civic or venue source will overlap Calagator heavily — but treat it as lower priority than getting either source correct, and don't over-tune the heuristic against two sources that barely collide.
 
 **Archives live on a dedicated `archive` branch, not on `gh-pages`.**
-Every published artifact is snapshotted to an orphan `archive` branch, publicly readable via `raw.githubusercontent.com/<owner>/sociallist/archive/...`. Alternative considered: `gh-pages/archive/`, which would give clean `ryangurn.github.io` URLs. Rejected for two reasons: GitHub Pages has a soft 1 GB site size limit that archives would consume quickly, and every publishing workflow clones `gh-pages` on every run — bloating it slows every run forever. A separate branch keeps the serving path lean and lets workflows shallow-clone each branch independently. Archives are a debugging and audit artifact, so `raw.githubusercontent.com` is a perfectly adequate public URL.
+Every published artifact is snapshotted to an orphan `archive` branch, publicly readable via `raw.githubusercontent.com/<owner>/ballyhoo/archive/...`. Alternative considered: `gh-pages/archive/`, which would give clean `ryangurn.github.io` URLs. Rejected for two reasons: GitHub Pages has a soft 1 GB site size limit that archives would consume quickly, and every publishing workflow clones `gh-pages` on every run — bloating it slows every run forever. A separate branch keeps the serving path lean and lets workflows shallow-clone each branch independently. Archives are a debugging and audit artifact, so `raw.githubusercontent.com` is a perfectly adequate public URL.
 
 **Tiered retention from day one: per-run for 7 days, one-per-day forever.**
 Two tiers under each artifact:
@@ -164,7 +164,7 @@ Every workflow (each source, and the merge) accepts a boolean `dry_run` input vi
 Each source module is runnable directly: `uv run python -m pipeline.sources.calagator --output /tmp/calagator.json`. Merge is runnable directly: `uv run python -m pipeline.merge --sources-dir ./gh-pages/sources --output /tmp/events.json`. `pipeline/README.md` documents both.
 
 **Client wiring is a one-line change.**
-`sociallist/Data/EventStore.swift` today has `static let production = FeedSource.mock`. That flips to `.remote(URL(string: "https://ryangurn.github.io/sociallist/events.json")!)`. No new files. No new dependencies. `RemoteEventRepository` already uses `URLSession.shared`, whose URL cache honors ETag automatically.
+`ballyhoo/Data/EventStore.swift` today has `static let production = FeedSource.mock`. That flips to `.remote(URL(string: "https://ryangurn.github.io/ballyhoo/events.json")!)`. No new files. No new dependencies. `RemoteEventRepository` already uses `URLSession.shared`, whose URL cache honors ETag automatically.
 
 ## Risks / Trade-offs
 

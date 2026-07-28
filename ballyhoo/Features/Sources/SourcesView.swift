@@ -8,7 +8,7 @@ struct SourcesView: View {
     /// Published alongside the feed, so it shares the domain the app already
     /// depends on rather than introducing another thing that can go missing.
     /// The same URL goes in App Store Connect, where Apple requires it.
-    static let privacyPolicyURL = URL(string: "https://ryangurn.github.io/sociallist/privacy.html")!
+    static let privacyPolicyURL = URL(string: "https://ryangurn.github.io/ballyhoo/privacy.html")!
 
     private var counts: [(source: Source, count: Int)] {
         Dictionary(grouping: store.upcomingEvents, by: \.source)
@@ -68,7 +68,7 @@ struct SourcesView: View {
                 }
 
                 Section {
-                    Text("Sociallist is free, has no accounts, and collects no personal data. Saved events stay on your device.")
+                    Text("Ballyhoo is free, has no accounts, and collects no personal data. Saved events stay on your device.")
                         .font(.footnote)
                         .foregroundStyle(Theme.inkSecondary)
 

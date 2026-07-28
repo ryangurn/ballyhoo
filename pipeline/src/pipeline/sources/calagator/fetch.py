@@ -40,7 +40,7 @@ def fetch_raw(*, now: datetime | None = None, session: requests.Session | None =
                 config.EVENTS_URL,
                 params=params,
                 timeout=config.REQUEST_TIMEOUT_SECONDS,
-                headers={"Accept": "application/json", "User-Agent": "sociallist-pipeline/0.1"},
+                headers={"Accept": "application/json", "User-Agent": "ballyhoo-pipeline/0.1"},
             )
             response.raise_for_status()
             payload = response.json()

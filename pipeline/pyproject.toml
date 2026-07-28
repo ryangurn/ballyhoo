@@ -1,7 +1,7 @@
 [project]
-name = "sociallist-pipeline"
+name = "ballyhoo-pipeline"
 version = "0.1.0"
-description = "Aggregates Portland community events into a static JSON feed for the sociallist iOS app"
+description = "Aggregates Portland community events into a static JSON feed for the Ballyhoo iOS app"
 requires-python = ">=3.12"
 dependencies = [
     "requests>=2.32",

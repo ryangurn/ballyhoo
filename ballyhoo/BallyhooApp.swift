@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct SociallistApp: App {
+struct BallyhooApp: App {
     @State private var store = EventStore(repository: .production)
 
     var body: some Scene {

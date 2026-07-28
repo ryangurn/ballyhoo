@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ryangurn.github.io/sociallist/schema/events.schema.json",
+  "$id": "https://ryangurn.github.io/ballyhoo/schema/events.schema.json",
   "title": "EventFeed",
   "description": "The merged, canonical feed published at /events.json. This is the only artifact the iOS client reads.",
   "type": "object",

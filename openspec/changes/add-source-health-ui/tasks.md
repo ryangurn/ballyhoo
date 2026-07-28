@@ -1,6 +1,6 @@
 ## 1. Models
 
-- [ ] 1.1 Create `sociallist/Models/SourceHealth.swift`
+- [ ] 1.1 Create `ballyhoo/Models/SourceHealth.swift`
 - [ ] 1.2 Define `SourceStatus` as a `Codable` enum with cases `ok`, `stale`, `error`, and `unknown`, decoding unrecognized raw values to `.unknown` rather than throwing
 - [ ] 1.3 Define `SourceHealth` with `sourceID`, `lastRunAt`, `eventCount`, `status`, and an optional per-source feed `url`
 - [ ] 1.4 Define `SourceHealthIndex` envelope with `generatedAt` and `sources: [SourceHealth]`
@@ -9,7 +9,7 @@
 
 ## 2. Repository abstraction
 
-- [ ] 2.1 Create `sociallist/Data/SourceHealthRepository.swift` defining the `SourceHealthRepository` protocol with a single async throwing `fetchHealth()` returning `SourceHealthIndex`
+- [ ] 2.1 Create `ballyhoo/Data/SourceHealthRepository.swift` defining the `SourceHealthRepository` protocol with a single async throwing `fetchHealth()` returning `SourceHealthIndex`
 - [ ] 2.2 Implement `MockSourceHealthRepository` returning a fixture index that includes at least one `ok`, one `stale`, and one `error` source, with source IDs matching the mock event fixtures
 - [ ] 2.3 Implement `RemoteSourceHealthRepository` fetching over `URLSession.shared` so ETag revalidation applies
 - [ ] 2.4 Derive the health index URL from the configured feed URL (`<base>/events.json` → `<base>/sources/index.json`) rather than accepting a second independent URL
@@ -17,7 +17,7 @@
 
 ## 3. Health store
 
-- [ ] 3.1 Create `sociallist/Data/SourceHealthStore.swift` as an `@Observable`, `MainActor`-isolated type
+- [ ] 3.1 Create `ballyhoo/Data/SourceHealthStore.swift` as an `@Observable`, `MainActor`-isolated type
 - [ ] 3.2 Model load state explicitly (`idle`, `loading`, `loaded(SourceHealthIndex)`, `failed(String)`)
 - [ ] 3.3 Implement `loadIfNeeded()` that fetches only when state is `idle` or `failed`, so repeat tab appearances reuse the cached result
 - [ ] 3.4 Implement `refresh()` that always re-fetches, for the explicit refresh control
@@ -26,7 +26,7 @@
 
 ## 4. App wiring
 
-- [ ] 4.1 Construct a `SourceHealthStore` in `SociallistApp` alongside the existing `EventStore`, using the same `FeedSource`
+- [ ] 4.1 Construct a `SourceHealthStore` in `BallyhooApp` alongside the existing `EventStore`, using the same `FeedSource`
 - [ ] 4.2 Inject it into the environment
 - [ ] 4.3 Update every existing `#Preview` that injects `EventStore` to also inject a `SourceHealthStore`, or provide a shared preview helper that injects both
 

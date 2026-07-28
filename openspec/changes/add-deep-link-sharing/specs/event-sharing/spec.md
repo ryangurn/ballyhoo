@@ -54,7 +54,7 @@ The app SHALL offer a secondary share action that shares the upstream `listing_u
 #### Scenario: Sharing a ticketed event's listing directly
 
 - **WHEN** a user wants to send a friend the Ticketmaster page for a concert, with that site's own link preview
-- **THEN** a secondary action labelled with the source shares the bare upstream URL, rather than the sociallist payload
+- **THEN** a secondary action labelled with the source shares the bare upstream URL, rather than the Ballyhoo payload
 
 #### Scenario: The secondary action is absent when there is nothing to link
 

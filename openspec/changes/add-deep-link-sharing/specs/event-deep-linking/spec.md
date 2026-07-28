@@ -2,12 +2,12 @@
 
 ### Requirement: Canonical link grammar
 
-A single event SHALL be addressable by a canonical deep link that carries the event's `id` and nothing else. The link SHALL exist in exactly two forms over one grammar: an HTTPS form, `https://ryangurn.github.io/sociallist/e/?id=<event-id>`, and a custom-scheme form, `sociallist://event?id=<event-id>`. In both forms the event id SHALL be carried in a query parameter named `id`, percent-encoded, and SHALL NOT be carried in a path segment.
+A single event SHALL be addressable by a canonical deep link that carries the event's `id` and nothing else. The link SHALL exist in exactly two forms over one grammar: an HTTPS form, `https://ryangurn.github.io/ballyhoo/e/?id=<event-id>`, and a custom-scheme form, `ballyhoo://event?id=<event-id>`. In both forms the event id SHALL be carried in a query parameter named `id`, percent-encoded, and SHALL NOT be carried in a path segment.
 
 #### Scenario: Formatting an event into both forms
 
 - **WHEN** the app produces a deep link for the event `calagator:1250482638`
-- **THEN** the HTTPS form is `https://ryangurn.github.io/sociallist/e/?id=calagator%3A1250482638` and the custom-scheme form is `sociallist://event?id=calagator%3A1250482638`, both carrying the same id
+- **THEN** the HTTPS form is `https://ryangurn.github.io/ballyhoo/e/?id=calagator%3A1250482638` and the custom-scheme form is `ballyhoo://event?id=calagator%3A1250482638`, both carrying the same id
 
 #### Scenario: The colon is percent-encoded
 
@@ -25,22 +25,22 @@ Inbound URL parsing SHALL accept only the two canonical forms and SHALL reject a
 
 #### Scenario: A URL for an unrelated path is rejected
 
-- **WHEN** the app is opened with `https://ryangurn.github.io/sociallist/events.json`
+- **WHEN** the app is opened with `https://ryangurn.github.io/ballyhoo/events.json`
 - **THEN** parsing fails, no deep-link routing occurs, and the app opens normally to its default state
 
 #### Scenario: A link with no id is rejected
 
-- **WHEN** the app is opened with `sociallist://event` or with `sociallist://event?id=`
+- **WHEN** the app is opened with `ballyhoo://event` or with `ballyhoo://event?id=`
 - **THEN** parsing fails and the app opens normally rather than presenting a not-found state
 
 #### Scenario: Unknown extra parameters are tolerated
 
-- **WHEN** the app is opened with `https://ryangurn.github.io/sociallist/e/?id=calagator%3A1250482638&ref=newsletter`
+- **WHEN** the app is opened with `https://ryangurn.github.io/ballyhoo/e/?id=calagator%3A1250482638&ref=newsletter`
 - **THEN** the link resolves to event `calagator:1250482638` and the unrecognized `ref` parameter is ignored
 
 #### Scenario: An unknown custom-scheme host is rejected
 
-- **WHEN** the app is opened with `sociallist://source?id=calagator`
+- **WHEN** the app is opened with `ballyhoo://source?id=calagator`
 - **THEN** parsing fails, because only the `event` host is defined by this grammar
 
 ### Requirement: Universal Links are not claimed without a verified association file
@@ -59,7 +59,7 @@ The app SHALL NOT declare an Associated Domains `applinks:` entitlement for a do
 
 #### Scenario: The custom scheme works without any hosting
 
-- **WHEN** a `sociallist://event?id=...` URL is opened on a device or simulator with the app installed
+- **WHEN** a `ballyhoo://event?id=...` URL is opened on a device or simulator with the app installed
 - **THEN** the app launches and routes to the event, independent of any association file, domain, or network availability
 
 ### Requirement: Resolution reads the unfiltered feed
@@ -159,7 +159,7 @@ The HTTPS deep-link path SHALL be served by a static landing page so that a link
 #### Scenario: Link opened on a device that has the app
 
 - **WHEN** the landing page loads on a device with the app installed
-- **THEN** it attempts the equivalent `sociallist://` URL so the app can take over
+- **THEN** it attempts the equivalent `ballyhoo://` URL so the app can take over
 
 #### Scenario: The page is not a pipeline artifact
 

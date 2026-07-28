@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ryangurn.github.io/sociallist/schema/sources-index.schema.json",
+  "$id": "https://ryangurn.github.io/ballyhoo/schema/sources-index.schema.json",
   "title": "SourcesIndex",
   "description": "Per-source health metadata published at /sources/index.json. Lets the app's Sources tab report honest per-source status instead of inferring the source list from whichever events happen to be in the feed.",
   "type": "object",
