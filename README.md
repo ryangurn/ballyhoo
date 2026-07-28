@@ -1,4 +1,4 @@
-# sociallist — published feed
+# Ballyhoo — published feed
 
 Machine-managed. Do not edit by hand; the pipeline overwrites this branch.
 
@@ -10,7 +10,7 @@ Machine-managed. Do not edit by hand; the pipeline overwrites this branch.
 | `history.json` | Event counts from recent merges, for the anomaly floor check. |
 | `merge-report.json` | Last merge's dedup decisions and per-source problems. |
 
-Served at https://ryangurn.github.io/sociallist/
+Served at https://ryangurn.github.io/ballyhoo/
 
 Historical snapshots live on the `archive` branch.
 Source lives in `pipeline/` on `main`.
