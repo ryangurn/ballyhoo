@@ -3,7 +3,7 @@
 OBT sells tickets through Tessitura's TNEW web sales module at `my.obt.org`. TNEW
 backs its event listing with an unauthenticated JSON endpoint, so this source reads
 structured data rather than scraping markup. See `tessitura.py` for the endpoint and
-why the surrounding HTML is off limits.
+why the surrounding HTML is not read.
 
 Two hosts are involved, and they behave very differently:
 

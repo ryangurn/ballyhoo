@@ -8,9 +8,8 @@ The contact is written as a bare domain rather than `+https://github.com/...`.
 DoPDX's WAF rejects any User-Agent containing a URL scheme — measured directly:
 `sociallist-pipeline/0.1` and `sociallist-pipeline/0.1 (github.com/ryangurn/sociallist)`
 both return 200, while the same string with `+https://` returns 403, and plain
-`curl/8.0` returns 200. So the block is an incidental pattern match on the scheme,
-not a policy about automated access, which their robots.txt permits. Dropping the
-scheme keeps us fully identifiable while staying out of that rule's way.
+`curl/8.0` returns 200. The bare domain keeps us identifiable to an operator reading
+their logs without tripping that pattern.
 """
 
 from __future__ import annotations

@@ -366,15 +366,14 @@ for a `tnew.app.init({...})` call carrying the TNEW version.
 
 Three findings that shaped the implementation:
 
-- **The HTML pages are off limits.** `my.obt.org` sits behind Imperva Incapsula.
-  The JSON API is unmetered, but the server-rendered pages at
+- **The JSON API is the only path used.** `my.obt.org` sits behind Imperva Incapsula.
+  The API is unmetered, but the server-rendered pages at
   `/{productionSeasonId}/{performanceId}` serve exactly **five** real responses and
   then return a "Pardon Our Interruption" interstitial *with HTTP 200* — measured
   repeatedly, and unchanged by a cookie jar or by pacing requests two seconds apart.
-  It is a ticket-bot control on a ticketing site and is not something to work around.
-  Those pages are the only place TNEW publishes a **venue or a price**, so venues come
-  from the marketing site instead and price is honestly `unknown`. (For the record,
-  the detail pages priced the current Nutcracker run at $39–$168 all-in.)
+  This source does not read those pages. They are the only place TNEW publishes a
+  **venue or a price**, so venues come from the marketing site instead and price is
+  honestly `unknown`.
 - **One event per performance, not per production.** Eighteen Nutcrackers over three
   weeks become eighteen events. A production is not a thing anyone can attend, and the
   app answers "what is on tonight". This is only safe because Tessitura gives every

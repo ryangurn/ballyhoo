@@ -17,10 +17,9 @@ The JSON endpoint is the only durable way in. `my.obt.org` sits behind Imperva
 Incapsula, and while the API is unmetered, the server-rendered HTML pages under
 `/{productionSeasonId}/{performanceId}` serve exactly five real responses and then
 return a "Pardon Our Interruption" interstitial with HTTP 200 — measured repeatedly,
-and unchanged by a cookie jar or by pacing requests two seconds apart. It is a
-ticket-bot control on a ticketing site, which is entirely reasonable of them, and it
-is not something to work around. So those pages are off limits, and with them the
-only place TNEW publishes a venue or a price.
+and unchanged by a cookie jar or by pacing requests two seconds apart. This source
+therefore does not read those pages, and they are the only place TNEW publishes a
+venue or a price.
 
 The listing carries two timestamps per performance and they must agree. See
 `Performance.instant`.
