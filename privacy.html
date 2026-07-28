@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy — Portland Socialist</title>
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    max-width: 38rem; margin: 0 auto; padding: 2.5rem 1.25rem 5rem;
+  }
+  h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 .35rem; }
+  h2 { font-size: 1.15rem; margin: 2.25rem 0 .6rem; }
+  .updated { opacity: .6; font-size: .92rem; margin: 0 0 2rem; }
+  ul { padding-left: 1.2rem; }
+  li { margin: .4rem 0; }
+  code { font-size: .9em; opacity: .85; }
+  .lede { font-size: 1.05rem; }
+  footer { margin-top: 3rem; padding-top: 1.25rem; border-top: 1px solid rgba(128,128,128,.3); opacity: .7; font-size: .92rem; }
+  a { color: inherit; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+<p class="updated">Portland Socialist &middot; Last updated 27 July 2026</p>
+
+<p class="lede">Portland Socialist collects nothing about you. There are no accounts, no
+analytics, no advertising, no tracking, and no third-party SDKs of any kind. Nothing you do
+in the app is reported to anyone, including us.</p>
+
+<p>That said, an app that shows you events has to fetch those events, and fetching things
+over the internet is never entirely invisible. This page explains exactly what leaves your
+device and who can see it, because "we collect nothing" on its own would be a half-truth.</p>
+
+<h2>What is stored on your device</h2>
+<p>When you save an event, the app records that event's identifier in your device's local
+preferences. That list never leaves your phone, is not backed up to any server we control,
+and is deleted when you delete the app. It contains identifiers only &mdash; nothing about
+you.</p>
+
+<h2>What leaves your device</h2>
+<p>The app makes network requests for four reasons. In each case the other party can see
+your IP address, as they can for any website you visit.</p>
+<ul>
+  <li><strong>Fetching the event list.</strong> The app downloads a single public file from
+  GitHub Pages at <code>ryangurn.github.io</code>. It is the same file for every user and
+  contains no request for information about you. GitHub receives standard web-server log
+  data.</li>
+
+  <li><strong>Loading event images.</strong> Event artwork is hosted by whichever service
+  published the event, so images load directly from those hosts &mdash; currently
+  <code>img.evbuc.com</code> (Eventbrite), <code>res.cloudinary.com</code>,
+  <code>s1.ticketm.net</code> (Ticketmaster), <code>images.squarespace-cdn.com</code>, and
+  a small number of venue websites. Each of those hosts sees your IP address when one of
+  its images loads. We do not proxy or re-host images.</li>
+
+  <li><strong>Placing a venue on the map.</strong> Some event listings give a street address
+  but no coordinates. To show a map for those, the app asks Apple's geocoding service to
+  convert the address into a location. Apple receives the venue address &mdash; not your
+  location, and not anything about you. This happens only when you open an event whose venue
+  needs it, and the result is reused for the rest of that session. Apple's handling of that
+  request is covered by Apple's own privacy policy.</li>
+
+  <li><strong>Getting directions.</strong> Tapping directions opens Apple Maps with the venue
+  as the destination. From that point you are in Apple Maps, under Apple's privacy policy.</li>
+</ul>
+
+<h2>Links to other sites</h2>
+<p>Each event links back to the site that published it. Opening one leaves the app, and that
+site's own privacy practices apply. We have no relationship with those sites beyond reading
+their public event listings.</p>
+
+<h2>Location</h2>
+<p>The app never requests access to your location and cannot determine where you are. The map
+is centred on Portland for everyone.</p>
+
+<h2>Children</h2>
+<p>The app collects no personal information from anyone, of any age.</p>
+
+<h2>Changes</h2>
+<p>If this policy changes, the revised version will be posted here with a new date. Material
+changes would be described rather than quietly substituted.</p>
+
+<footer>
+Portland Socialist is free, open source, and has no business model. Source code and the event
+pipeline are at <a href="https://github.com/ryangurn/sociallist">github.com/ryangurn/sociallist</a>.
+Questions about this policy can be raised as an issue there.
+</footer>
+
+</body>
+</html>
