@@ -26,13 +26,19 @@ struct DiscoverView: View {
 
                     case .loaded:
                         if showsRails {
-                            tonightRail
+                            // Free leads. It is what the app is for, and it is the
+                            // harder thing to find elsewhere — a ticketed show tonight
+                            // is already well served by the sites selling the tickets.
                             freeRail
+                            tonightRail
                         }
                         feedSections
                     }
                 }
-                .padding(.vertical, 12)
+                // Asymmetric: the search field already provides separation above, so
+                // the top only needs enough to clear it.
+                .padding(.top, 4)
+                .padding(.bottom, 12)
             }
             // Extended past the safe areas so the translucent navigation and tab
             // bars have the canvas colour behind them. Scoped to the ScrollView the
@@ -41,7 +47,10 @@ struct DiscoverView: View {
             .background(Theme.canvas.ignoresSafeArea())
             .scrollDismissesKeyboard(.immediately)
             .navigationTitle("Portland")
-            .toolbarTitleDisplayMode(.large)
+            // Inline rather than large. The expanded title and its padding cost about
+            // 65pt before any content, and the app only ever shows one city — so the
+            // title is orientation, not information worth that much of the screen.
+            .toolbarTitleDisplayMode(.inline)
             .searchable(
                 text: $store.searchText,
                 placement: .navigationBarDrawer(displayMode: .always),
