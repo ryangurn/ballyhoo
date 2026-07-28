@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!--
+	  Privacy manifest. Required since May 2024 — App Store Connect rejects the
+	  upload without one when the binary touches a required-reason API.
+
+	  Audited against the whole target: UserDefaults is the only such API in use.
+	  No file-timestamp, system-boot-time, disk-space or active-keyboard calls
+	  anywhere, and no third-party SDKs that would ship manifests of their own —
+	  the app imports SwiftUI, Foundation, MapKit, CoreLocation and Observation
+	  and nothing else.
+	-->
+
+	<!-- No tracking as ATT defines it: no advertising, no data brokers, no
+	     linking of activity to identities across apps or websites. -->
+	<key>NSPrivacyTracking</key>
+	<false/>
+
+	<!-- No domains contacted for tracking purposes. The app does reach GitHub
+	     Pages for its feed and several image CDNs for artwork, but those serve
+	     content rather than track, so they do not belong here. They are
+	     disclosed in the privacy policy instead. -->
+	<key>NSPrivacyTrackingDomains</key>
+	<array/>
+
+	<!-- Nothing is collected. No accounts, no analytics, no crash reporting,
+	     no identifiers leaving the device. Saved events are event IDs held in
+	     local preferences and never transmitted. -->
+	<key>NSPrivacyCollectedDataTypes</key>
+	<array/>
+
+	<key>NSPrivacyAccessedAPITypes</key>
+	<array>
+		<dict>
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategoryUserDefaults</string>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<!--
+				  CA92.1 — read and write only to this app's own defaults.
+
+				  EventStore keeps the set of saved event IDs in
+				  UserDefaults.standard under "saved_event_ids". No app group,
+				  no shared container, nothing read from or written to another
+				  app's defaults.
+				-->
+				<string>CA92.1</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
