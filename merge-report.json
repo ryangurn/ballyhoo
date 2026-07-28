@@ -873,6 +873,14 @@
       "venue": "Wonder Ballroom"
     },
     {
+      "dropped": "willamette_week:19484128@2026-08-01T20:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfaUb0",
+      "start_at": "2026-08-01T20:30:00-07:00",
+      "title_dropped": "CHERRYBOMB 13 with Anatoray & Trunk Monkey",
+      "title_kept": "CHERRYBOMB 13 with Anatoray & Trunk Monkey",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19428135@2026-08-01T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfkpA0",
       "start_at": "2026-08-01T21:00:00-07:00",
@@ -2377,6 +2385,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:19484129@2026-08-11T20:00",
+      "kept": "dopdx:17637716",
+      "start_at": "2026-08-11T20:00:00-07:00",
+      "title_dropped": "CHRIS O'LEARY BAND",
+      "title_kept": "Chris O'leary Band",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "willamette_week:18846847@2026-08-11T21:00",
       "kept": "dopdx:17279217",
       "start_at": "2026-08-11T21:00:00-07:00",
@@ -2598,6 +2614,14 @@
       "start_at": "2026-08-13T20:00:00-07:00",
       "title_dropped": "Grandifolia with Lo.Quality, Ded Electric, Sodabox, & Passengers",
       "title_kept": "LO.QUALITY with Sodabox, Grandifolia, Ded Electric, & Passengers",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19484130@2026-08-13T20:00",
+      "kept": "dopdx:17631414",
+      "start_at": "2026-08-13T20:00:00-07:00",
+      "title_dropped": "LO.QUALITY with Sodabox, Grandifolia, Ded Electric, & Passengers",
+      "title_kept": "Grandifolia with Lo.Quality, Ded Electric, Sodabox, & Passengers",
       "venue": "Dante's"
     },
     {
@@ -3257,6 +3281,14 @@
       "venue": "Revolution Hall"
     },
     {
+      "dropped": "willamette_week:19484131@2026-08-17T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfaUjf",
+      "start_at": "2026-08-17T20:00:00-07:00",
+      "title_dropped": "Olivia Harms & the Roadrunners",
+      "title_kept": "Olivia Harms & the Roadrunners",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:17586570@2026-08-17T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AKPw87",
       "start_at": "2026-08-17T21:00:00-07:00",
@@ -3471,6 +3503,14 @@
       "title_dropped": "Los Mirlos",
       "title_kept": "Los Mirlos",
       "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "willamette_week:19484132@2026-08-20T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfaYOf",
+      "start_at": "2026-08-20T20:00:00-07:00",
+      "title_dropped": "Gillian Grogan and Megan Diana with Lilly Miller",
+      "title_kept": "Gillian Grogan and Megan Diana with Lilly Miller",
+      "venue": "Showdown Saloon"
     },
     {
       "dropped": "willamette_week:19212425@2026-08-20T21:00",
@@ -4241,6 +4281,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:18893389@2026-08-22T23:30",
+      "kept": "ticketmaster:rZ7HnEZ1Afv3rf",
+      "start_at": "2026-08-22T23:30:00-07:00",
+      "title_dropped": "SMASH disco~glam~metal~punk-hiphop",
+      "title_kept": "SMASH disco~glam~metal~punk-hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:18371069@2026-08-27T20:00",
       "kept": "ticketmaster:rZ7HnEZ1Afrf0N",
       "start_at": "2026-08-27T20:00:00-07:00",
@@ -4257,9 +4305,9 @@
       "venue": "Ilani Cowlitz Ballroom"
     }
   ],
-  "event_count": 5773,
-  "floor_check": "5773 events against a 5764-event baseline",
-  "generated_at": "2026-07-28T16:50:07+00:00",
+  "event_count": 5841,
+  "floor_check": "5841 events against a 5764-event baseline",
+  "generated_at": "2026-07-28T16:54:00+00:00",
   "problems": [],
   "sources": [
     "calagator",
