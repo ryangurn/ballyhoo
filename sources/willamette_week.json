@@ -48897,6 +48897,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19481483@2026-08-08T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dfnFOAUZnkmKZI7D760MpQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://eventbrite.com/e/yelp-wanted-stand-up-comedy-tickets-1995626080327",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-08T20:00:00-07:00",
+      "summary": "A stand-up comedy show where comedians tell jokes then review each other from a panel. You'll give the show 5 stars, guaranteed! YELP WANTED is a stand-up comedy show where comedians perform jokes on stage while a panel of the other comedians on the show review their sets, Yelp-style. Come see what happens when the comedians on the show get to review each other and experience what happens when a stand-up comedy show turns into a live Yelp review page! Hosted and created by SOFIYA ALEXANDRA (HBO, Comedy Central, Amazon Prime). This edition features CHRIS HUDSON (Leave Your Troubles), RONNIE MACARONI (WW's Funniest Five), ZANE THOMAS (The Smoke Break Podcast) and KIKI (Nu Glitter). Grab FREE tickets with RSVP via Eventbrite. Doors 8 PM, show at 8:30 PM. The full delicious food menu and tasty drink menu of Covert Café are available before and during the show.",
+      "ticket_url": "https://eventbrite.com/e/yelp-wanted-stand-up-comedy-tickets-1995626080327",
+      "title": "Yelp Wanted (stand-up comedy)",
+      "venue": {
+        "address": "803 Southeast 82nd Avenue",
+        "city": "Portland",
+        "latitude": 45.516757,
+        "longitude": -122.57931,
+        "name": "Covert Café"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19131681@2026-08-08T20:00",
@@ -107956,7 +107987,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-28T07:03:37+00:00",
+  "generated_at": "2026-07-28T09:57:29+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
