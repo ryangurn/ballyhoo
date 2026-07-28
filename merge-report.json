@@ -369,6 +369,14 @@
       "venue": "Moda Center"
     },
     {
+      "dropped": "eventbrite:1994108843230",
+      "kept": "dopdx:17451619",
+      "start_at": "2026-08-05T21:00:00-07:00",
+      "title_dropped": "Wednesday Wubs",
+      "title_kept": "Wednesday Wubs",
+      "venue": "Barrel Room Portland"
+    },
+    {
       "dropped": "dopdx:16997052",
       "kept": "ticketmaster:Z7r9jZ1A7-xJv",
       "start_at": "2026-08-06T19:00:00-07:00",
@@ -407,14 +415,6 @@
       "title_dropped": "Beggars Canyon with Arthur Buezo & It&I",
       "title_kept": "BEGGARS CANYON with Arthur Buezo & it&i",
       "venue": "Dante's"
-    },
-    {
-      "dropped": "eventbrite:1936898077289",
-      "kept": "dopdx:17204684",
-      "start_at": "2026-08-06T22:00:00-07:00",
-      "title_dropped": "Roast Battle Portland",
-      "title_kept": "Roast Battle Portland",
-      "venue": "Funhouse Lounge"
     },
     {
       "dropped": "dopdx:16997251",
@@ -1314,16 +1314,16 @@
     },
     {
       "dropped": "pdxparent_markets:vancouver-farmers-market@2026-08-22",
-      "kept": "eventbrite:1988199341752",
+      "kept": "eventbrite:1988026047424",
       "start_at": "2026-08-22T09:00:00-07:00",
       "title_dropped": "Vancouver Farmers Market",
-      "title_kept": "Recorrido del mercado de agricultores del centro de Vancouver",
+      "title_kept": "Farmers Market Tour - Downtown Vancouver",
       "venue": "Vancouver Farmers Market"
     }
   ],
-  "event_count": 4283,
-  "floor_check": "4283 events against a 4256-event baseline",
-  "generated_at": "2026-07-28T06:39:16+00:00",
+  "event_count": 4293,
+  "floor_check": "4293 events against a 4259-event baseline",
+  "generated_at": "2026-07-28T06:47:17+00:00",
   "problems": [],
   "sources": [
     "calagator",
