@@ -1281,6 +1281,38 @@
       "venue": "Newmark Theatre"
     },
     {
+      "dropped": "eventbrite:1993624950895",
+      "kept": "dopdx:17650446",
+      "start_at": "2026-08-26T18:30:00-07:00",
+      "title_dropped": "Make Waves presents Twisted Whistle: Bring it on Home A Reunion, a Concert",
+      "title_kept": "Twisted Whistle: Bring it on Home A Reunion, a Concert",
+      "venue": "Alberta Abbey"
+    },
+    {
+      "dropped": "dopdx:17409733",
+      "kept": "ticketmaster:rZ7HnEZ1AfPevK",
+      "start_at": "2026-08-26T20:00:00-07:00",
+      "title_dropped": "Bikini Trill",
+      "title_kept": "BIKINI TRILL",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17413670",
+      "kept": "ticketmaster:rZ7HnEZ1Af0PPS",
+      "start_at": "2026-08-26T21:00:00-07:00",
+      "title_dropped": "The Darts with Combobox & Unreal",
+      "title_kept": "THE DARTS with Combobox & Unreal",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "eventbrite:1994108846239",
+      "kept": "dopdx:17451622",
+      "start_at": "2026-08-26T21:00:00-07:00",
+      "title_dropped": "Wednesday Wubs",
+      "title_kept": "Wednesday Wubs",
+      "venue": "Barrel Room Portland"
+    },
+    {
       "dropped": "pdxparent_markets:vancouver-farmers-market@2026-08-22",
       "kept": "eventbrite:1988199341752",
       "start_at": "2026-08-22T09:00:00-07:00",
@@ -1289,9 +1321,9 @@
       "venue": "Vancouver Farmers Market"
     }
   ],
-  "event_count": 4223,
-  "floor_check": "4223 events against a 4253-event baseline",
-  "generated_at": "2026-07-28T01:00:54+00:00",
+  "event_count": 4220,
+  "floor_check": "4220 events against a 4253-event baseline",
+  "generated_at": "2026-07-28T01:01:37+00:00",
   "problems": [],
   "sources": [
     "calagator",
