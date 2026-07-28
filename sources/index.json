@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T03:32:19+00:00",
+  "generated_at": "2026-07-28T03:44:37+00:00",
   "sources": [
     {
       "event_count": 26,
@@ -16,8 +16,8 @@
       "url": "sources/dopdx.json"
     },
     {
-      "event_count": 1739,
-      "last_run_at": "2026-07-27T23:30:32+00:00",
+      "event_count": 1805,
+      "last_run_at": "2026-07-28T03:42:23+00:00",
       "source_id": "eventbrite",
       "status": "ok",
       "url": "sources/eventbrite.json"
@@ -38,7 +38,7 @@
     },
     {
       "event_count": 124,
-      "last_run_at": "2026-07-28T00:14:45+00:00",
+      "last_run_at": "2026-07-28T03:43:37+00:00",
       "source_id": "oregon_metro",
       "status": "ok",
       "url": "sources/oregon_metro.json"
