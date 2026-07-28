@@ -50,6 +50,7 @@ never committed. In CI the same values come from GitHub Actions secrets.
 
 | Source | Auth | Volume | Window | Notes |
 |---|---|---|---|---|
+| Willamette Week | none | ~3,650 | 30 d | Get Busy, via CitySpark. Larger than every other source combined |
 | Ticketmaster | API key | ~705 | 365 d | Touring acts plus independent venues |
 | PDX Parent markets | none | ~450 | 120 d | 36 neighbourhood farmers markets; schedules parsed from prose |
 | DoPDX | none | ~185 | 30 d | Curated city guide; the richest metadata of any source |
@@ -64,8 +65,11 @@ Volumes are measured, not estimated.
 
 Cross-source dedup earns its keep here: DoPDX and Ticketmaster list many of the same
 ticketed shows, since plenty of independent venues appear in both. Calagator and Oregon
-Metro overlap nothing. The last measured collapse count, 159, was taken when the feed
-was roughly twice this size, so re-measure before quoting a figure.
+Metro overlap nothing. Willamette Week overlaps nearly everything — it is a
+user-submission calendar covering the whole metro, so it carries its own copy of the
+farmers markets, the parks programming, the city meetings and a slice of the ticketed
+shows. The last measured collapse count, 159, was taken when the feed was roughly twice
+this size and before Willamette Week existed, so re-measure before quoting a figure.
 
 ### Sources evaluated and rejected
 
@@ -341,6 +345,151 @@ slugging so both forms agree.
 `dropped_unparseable_schedule` is 0 today. A jump means the roundup has been reworded
 into a form the parser does not read, and those markets are being withheld.
 
+### Willamette Week — Get Busy, via CitySpark
+
+Willamette Week's events calendar, *Get Busy*, at
+`https://www.wweek.com/getbusy/calendar/events/`. That page is a CitySpark widget: it
+embeds `portal.cityspark.com/PortalScripts/WillametteWeek`, which calls
+
+```
+POST https://portal.cityspark.com/api/events/GetEvents/WillametteWeek
+{"ppid": 9934, "start": "...", "end": "...", "distance": 25, "lat": ..., "lng": ..., "skip": 0, ...}
+```
+
+so we read the same endpoint the public page reads. No key, no browser impersonation:
+the project User-Agent with **no `Origin` and no `Referer`** returns a byte-identical
+response to the browser's request, measured directly. `portal.cityspark.com/robots.txt`
+disallows only `/test/` and `/v2/`.
+
+At ~3,650 events over 30 days this is now the largest source in the feed by a wide
+margin — bigger than all the others combined — which is the first thing to know about
+it. The per-source file is about 5.6 MB. If the merged feed needs to get smaller,
+`config.FETCH_WINDOW` is the lever, and it is close to linear: measured weekly totals
+from 2026-07-27 were 958, 989, 862, 708, 627, 472, 451, 360, 321, 290, 302, tapering to
+8,424 unique events across 154 days.
+
+**Named for Willamette Week rather than CitySpark**, on the grounds that CitySpark is
+the vendor the way Drupal is Oregon Metro's and Arc is wweek.com's, and we do not name
+sources after a CMS. WW does real editorial work here: their submission page says the
+calendar editor reviews submissions weekly and that not every one is approved, and
+`ppid=9934` scopes the query to WW's own partner id. The attribution is not airtight
+though, and the data shows the seams — a few events carry `inlanderprint` (Spokane's
+Inlander), `SummerGuideEW` (Eugene Weekly) and `FGnewsletter` labels, so some listings
+arrive through the shared platform rather than through WW's editor.
+
+#### The timestamp trap
+
+`DateStart` and `DateEnd` are Portland **local wall times carrying a `Z` suffix**.
+`StartUTC` and `EndUTC` are the real instants. The same event, live:
+
+```
+DateStart = 2026-07-27T07:30:00Z     StartUTC = 2026-07-27T14:30:00Z
+```
+
+The gap was exactly 7 hours on all 2,025 events sampled — the Pacific daylight offset.
+Parsing `DateStart` as the UTC it claims to be moves every event in the feed by seven
+hours, eight in winter. Only the `*UTC` pair is parsed. `DateStart` is read exactly
+once, to build the calendar's permalink, which keys on the local hour.
+
+This is the third variation of the same bug in this repo: Oregon Metro has an
+offset-free field that is really UTC, Ticketmaster has a zone missing from 37% of
+results. Different shape, same seven hours.
+
+#### The 2,025-result ceiling
+
+The endpoint stops paginating at its 2,025th result and says so — HTTP 200 with
+`Success: false` and `ErrorMessage: "Please refine your search"`. That is a server
+limit, not the end of the data: those 2,025 events spanned **16 days** while the
+calendar demonstrably holds events five months out. An unbounded query looks like it
+worked and silently ends mid-August.
+
+So a run walks the horizon in seven-day slices. `start`/`end` genuinely bound the
+result set, a bounded window terminates cleanly with an empty page, and the busiest
+week measured held 989 events — better than 2x headroom. If a window ever does trip the
+ceiling the fetcher raises rather than publishing the truncated prefix, the same posture
+as Ticketmaster's deep-paging guard. Windows overlap by a day at their boundaries, so
+collected events are deduplicated on `Id` as they arrive. A full 30-day run is 44
+requests and takes about 30 seconds.
+
+#### Identifiers: `PId`, not `Id`
+
+`Id` looks like the right key and is a trap. Its **first six characters are the event's
+last-modified date** — the prefix matched the `lm` date on 2,025 of 2,025 sampled
+events — so any upstream edit rewrites it and orphans every bookmark against it.
+
+`PId` is the stable series key: a plain integer, unmoved by edits, and the one
+CitySpark's own permalink route takes (`/details/:slug/:pid/:time?`). But it is shared
+across a series — 2,025 events came from 1,111 distinct PIds, one repeating 27 times.
+So the id is `PId` plus the occurrence's local start, which is the rule
+`common/recurrence.py` already sets out for expanded schedules. The trade is deliberate:
+a *rescheduled* event loses its bookmark, an *edited* one keeps it, and edits are far
+more common.
+
+#### Categories come from `Tags`, not `Labels`
+
+`Labels` looks like the category field and is not one. 81% of events have none, and the
+vocabulary is delivery mode (`csInPerson`, `csRemote`, `csHybrid`, `csOutdoor`) plus
+newsletter markers (`FGnewsletter`, `SummerGuideEW`) and one literal `Label:` string.
+None of it describes what an event is.
+
+`Tags` is the real taxonomy — 720 nodes under 23 roots, carried by 96% of events. It is
+undocumented, and the ids in `categories.py` were read out of the widget bundle, which
+embeds the tree as `{"parent": ..., "id": ..., "name": ...}`. The tree itself is *not*
+shipped here, because it does not need to be: 98.9% of tagged events carry the whole
+ancestor chain rather than just the leaf, so an event tagged Ska also carries Music and
+Performing Arts, and matching a small set of ancestors covers the corpus. Live
+resolution is 96.1% by an explicit rule, 3.9% by the default, with no unmapped root.
+
+Two things that were wrong first. `Special Audience` is the second most common root
+(572 events) and is an *audience*, not a topic — Kids 380, Teens 257, Family 251,
+Special Needs 204, LGBT 176 — so mapping the root to `family` would file every LGBT and
+disability-focused event under family. Only the child tags that really mean "for
+families" are mapped. And the facet subtrees have to be enumerated rather than resolved,
+because without the tree there is no way to ask whether a tag descends from a facet
+root; before they were, a live run reported LGBT and Singles as unmapped gaps on every
+run forever, which is how a real gap gets buried.
+
+Residual misfiling is upstream's and there is nothing on our side to distinguish it: a
+mimosa brunch tagged Health & Wellness, a wine flight tagged Film.
+
+#### Other things live data forced
+
+- **25 miles**, matching Ticketmaster. At 35 miles, 98.5% of results are already inside
+  25; the radius reaches Forest Grove (23.5), Newberg (23.8) and Banks (24.6) while
+  excluding Dayton, Mount Angel, McMinnville and Salem. Filtering in the request rather
+  than after costs one fewer page per window. The normalizer re-checks each event's own
+  `Distance` anyway, so a change in how the parameter is honoured shows up as dropped
+  events rather than as a feed that quietly grew to cover Salem. That guard has never
+  fired in a live run, which is the point.
+- **`Short` is generated boilerplate**, not a summary. All 2,025 sampled events began
+  "The event is held on \<date\> at \<venue\> in \<city\>." `Description` is the real
+  text, and it is Markdown, not HTML.
+- **The Get Busy deep link does not work** and is not emitted, though it is
+  reconstructible from the payload. `/details/{slug}/{pid}/{time}` is a client-side Vue
+  route inside the embedded widget; requesting it directly returns WW's 404 page with
+  the widget script absent. `PrimaryUrl` — the organizer's own page, on 91% of events —
+  is the listing instead, falling back to the ticket link, and an event with neither
+  gets no link rather than a dead one.
+- **Every event is pre-geocoded**, so there is no geocoding step and no venue table.
+  `Distance` agrees with a haversine from downtown to within 0.05 miles. 135 of 2,025
+  events have no venue *name*, mostly city meetings, and those fall back to the city
+  name so they keep their pin.
+- **`IsTicketed` was `false` on all 2,025 events**, including ones with a ticket URL and
+  a price, so it carries no information. `LowFullPrice`, `HighFullPrice`, `Occurances`,
+  `multipleTimes`, `StartLocal`, `EndLocal` and `tzAbbrev` were null on all 2,025.
+- `Free` is authoritative and `Price`/`PriceHigh` are a range. 32 events carry `Price: 0`
+  with `Free: false` and a non-zero high — a free tier alongside paid ones, so a range
+  rather than free. 60% state no price at all and are unknown, not free.
+- **`HasTime: false` is the real all-day signal.** 86 events had it against only 10
+  setting `AllDay`, and every `AllDay` event also had `HasTime: false`. Those carry
+  07:00Z, which is midnight in Portland.
+- Images are capped upstream at 700 px and 1.83 MB decoded, measured over 90 renditions.
+  That is a seventh of the Ticketmaster artwork that exhausted the app's memory, so
+  `LargeImg` is safe here — Medium at 420 px would be visibly soft on a 3x screen. The
+  thing to watch is the cap itself, not the choice.
+- 19 of 2,025 events are `isVirtual` and dropped. The `csRemote` and `csHybrid` labels
+  are broader and are not used for this: hybrid events have a real venue.
+
 ### Oregon Ballet Theatre — and Tessitura generally
 
 OBT sells through **Tessitura's TNEW** web sales module at `my.obt.org`, and TNEW
@@ -406,6 +555,17 @@ data; Calagator wins otherwise. The survivor backfills fields it lacks from the 
 and records every origin in `merged_sources`, so no attribution is lost. Matching is
 deliberately conservative: a false merge hides an event someone could have attended,
 while a missed merge is merely untidy.
+
+`_SOURCE_PRIORITY` lists only Ticketmaster and Calagator. **Willamette Week is
+deliberately not in it**, despite being the largest source. Everything else ranks last
+and is ordered by id, and `willamette_week` sorts after every existing source, so it
+loses every tie — which is the outcome we want, checked case by case rather than
+assumed. It is a user-submission calendar republishing what organizers send in, so
+wherever it collides with a first-party source that source knows more: Portland Parks
+and the farmers markets can assert `Price.free()` where WW says unknown, Oregon Metro
+publishes its own meetings, and Ticketmaster already outranks it for ticketed shows.
+Adding an entry would only be right if WW ever became the better record for something,
+and today it is not.
 
 It fired zero times when the feed was just Ticketmaster and Calagator — touring acts
 against tech meetups. It only starts earning its keep once two sources cover the same
