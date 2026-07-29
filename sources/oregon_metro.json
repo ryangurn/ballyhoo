@@ -4,56 +4,6 @@
       "categories": [
         "civic"
       ],
-      "id": "oregon_metro:regional-land-banking-partner-workgroup-session-2026-07-29",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/regional-land-banking-partner-workgroup-session-2026-07-29",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-07-29T10:00:00-07:00",
-      "title": "Regional land banking partner workgroup session",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "oregon_metro:summer-fun-days-blue-lake-regional-park-2026-07-29",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/summer-fun-days-blue-lake-regional-park-2026-07-29",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-07-29T11:00:00-07:00",
-      "title": "Summer fun days at Blue Lake Regional Park",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.55596,
-        "longitude": -122.45242,
-        "name": "Blue Lake Regional Park"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "id": "oregon_metro:metro-council-meeting-2026-07-30",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-council-meeting-2026-07-30",
@@ -195,9 +145,9 @@
       "title": "Life jacket giveaway",
       "venue": {
         "city": "Portland",
-        "latitude": 45.60036,
-        "longitude": -122.61474,
-        "name": "Broughton Beach"
+        "latitude": 45.49529,
+        "longitude": -122.29141,
+        "name": "Oxbow Regional Park"
       }
     },
     {
@@ -287,6 +237,31 @@
       },
       "start_at": "2026-08-12T13:00:00-07:00",
       "title": "TransPort meeting"
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:supportive-housing-services-regional-policy-and-oversight-committee-meeting-2026-08-12",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/supportive-housing-services-regional-policy-and-oversight-committee-meeting-2026-08-12",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-08-12T15:00:00-07:00",
+      "title": "Supportive Housing Services Regional Policy and Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
     },
     {
       "categories": [
@@ -1387,6 +1362,25 @@
       "categories": [
         "civic"
       ],
+      "id": "oregon_metro:transit-oriented-development-steering-committee-meeting-2026-10-13",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/transit-oriented-development-steering-committee-meeting-2026-10-13",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-13T15:00:00-07:00",
+      "title": "Transit-Oriented Development Steering Committee meeting"
+    },
+    {
+      "categories": [
+        "civic"
+      ],
       "id": "oregon_metro:quarterly-trails-forum-2026-10-14",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/quarterly-trails-forum-2026-10-14",
@@ -1890,6 +1884,31 @@
       },
       "start_at": "2026-11-06T09:00:00-08:00",
       "title": "Transportation Policy Alternatives Committee meeting"
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:2026-11-07",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/2026-11-07",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-07T09:00:00-08:00",
+      "title": "Household hazardous waste neighborhood collection event",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.51056,
+        "longitude": -122.52072,
+        "name": "Savage Memorial Presbyterian Church"
+      }
     },
     {
       "categories": [
@@ -2734,7 +2753,7 @@
       "title": "Committee on Racial Equity meeting"
     }
   ],
-  "generated_at": "2026-07-29T20:28:09+00:00",
+  "generated_at": "2026-07-29T22:25:57+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
