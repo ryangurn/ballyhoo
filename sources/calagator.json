@@ -438,6 +438,34 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-09-16T20:00:00-07:00",
+      "id": "calagator:1250482649",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/cloud-native-pdx/events/315866615",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-16T18:00:00-07:00",
+      "summary": "For September, we're taking advantage of a speaker in town for DevOpsDaysPDX, and making it an all-observability night, with FluentBit and OpenTelemetry.\r\n\r\nDate: Wednesday, September 16, 2026\r\nTime: 6:00 PM – 8:00 PM\r\nLocation: SteepleJack Brewing, Fireside Room, 2400 NE Broadway, Portland\r\n\r\nTalks are typically recorded (opt-in by speakers)\r\n\r\nA big thank you to SuSE for sponsoring catering at SteepleJack, as well as Eric's travel.\r\n\r\nFirst Presentation: No C, No Opaque AI: Watch Your First Fluent Bit Contribution Happen Live\r\n\r\nSpeaker: Eric D. Schabell, SuSE\r\n\r\nContributing to a CNCF graduated project feels out of reach until someone shows you exactly how it happens. In this session, that someone is on stage doing it in real time — spotting a gap between what the Fluent Bit codebase actually does and what the docs say, opening a branch on a live fork, running the project's prose linter, writing a properly signed commit, and pushing a pull request that closes a real tracked issue. Every step, no shortcuts, no slides pretending to be a terminal.\r\n\r\nYou will leave knowing the two-repo mental model that makes Fluent Bit doc contributions work, the git habits that signal credibility to maintainers, and the AI guardrails that keep your name attached to work you actually stand behind. Your first PR does not require deep C knowledge. It requires knowing where to look, how to show your work, and when to keep your hands on the wheel.\"\r\n\r\nSecond Presentation: Devs, Transform (Your Data) and Roll Out!: Learning and Leveraging OTTL\r\n\r\nSpeaker: Reese Lee, New Relic\r\n\r\nThe OpenTelemetry Collector is OTel’s power tool for ingesting and processing your app and infrastructure data, but there’s even more you can do with your data before it reaches your backend! Learn how to start leveraging OTTL, or OpenTelemetry Transformation Language, to manage your data volume and quality. We’ll explore the syntax basics and its underlying architecture within the Collector, where its strength really comes into play, when to use it (or not!), and more.",
+      "title": "Cloud Native PDX September: Observability Night!",
+      "venue": {
+        "address": "2400 NE Broadway, Portland, OR 97232",
+        "city": "Portland",
+        "latitude": 45.5349,
+        "longitude": -122.6408,
+        "name": "Steeplejack Brewing Company"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-09-17T20:00:00-07:00",
       "id": "calagator:1250482613",
       "is_all_day": false,
@@ -688,7 +716,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-29T17:24:37+00:00",
+  "generated_at": "2026-07-29T19:38:40+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
