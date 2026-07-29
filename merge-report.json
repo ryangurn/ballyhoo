@@ -3697,14 +3697,6 @@
       "venue": "Helium Comedy Club"
     },
     {
-      "dropped": "willamette_week:19012547@2026-08-22T19:30",
-      "kept": "dopdx:17358752",
-      "start_at": "2026-08-22T19:00:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Orion Levine",
-      "title_kept": "Aries Spears",
-      "venue": "Helium Comedy Club"
-    },
-    {
       "dropped": "willamette_week:19114763@2026-08-22T19:00",
       "kept": "dopdx:17260788",
       "start_at": "2026-08-22T19:00:00-07:00",
@@ -3719,6 +3711,14 @@
       "title_dropped": "WFC 196",
       "title_kept": "WFC 196",
       "venue": "Ilani Cowlitz Ballroom"
+    },
+    {
+      "dropped": "willamette_week:19012547@2026-08-22T19:30",
+      "kept": "dopdx:17358752",
+      "start_at": "2026-08-22T19:00:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Orion Levine",
+      "title_kept": "Aries Spears",
+      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "willamette_week:19449730@2026-08-22T19:30",
@@ -4305,9 +4305,9 @@
       "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 5879,
-  "floor_check": "5879 events against a 5872-event baseline",
-  "generated_at": "2026-07-29T18:33:36+00:00",
+  "event_count": 5893,
+  "floor_check": "5893 events against a 5874-event baseline",
+  "generated_at": "2026-07-29T18:35:22+00:00",
   "problems": [],
   "sources": [
     "calagator",
