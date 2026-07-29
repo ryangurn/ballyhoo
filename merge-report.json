@@ -4225,6 +4225,14 @@
       "venue": "Kenton Farmers Market"
     },
     {
+      "dropped": "willamette_week:19428245@2026-08-28T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfFOx7",
+      "start_at": "2026-08-28T20:00:00-07:00",
+      "title_dropped": "BEN RICE & THE PDX HUSTLE w/ Hwy 99 Blues Allstars",
+      "title_kept": "BEN RICE & THE PDX HUSTLE w/ Hwy 99 Blues Allstars",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "willamette_week:19442194@2026-08-07T11:00",
       "kept": "ticketmaster:Z7r9jZ1A70d0v",
       "start_at": "2026-08-07T11:00:00-07:00",
@@ -4255,11 +4263,35 @@
       "title_dropped": "SMASH disco~glam~metal~punk-hiphop",
       "title_kept": "SMASH disco~glam~metal~punk-hiphop",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:17962660@2026-08-28T18:35",
+      "kept": "ticketmaster:Z7r9jZ1A7Qv_N",
+      "start_at": "2026-08-28T18:35:00-07:00",
+      "title_dropped": "Tri-City Dust Devils at Hillsboro Hops",
+      "title_kept": "Hillsboro Hops vs. Tri-City Dust Devils",
+      "venue": "Hillsboro Ballpark"
+    },
+    {
+      "dropped": "willamette_week:19428246@2026-08-28T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfxkJd",
+      "start_at": "2026-08-28T21:00:00-07:00",
+      "title_dropped": "76TH STREET with Tornsey",
+      "title_kept": "76TH STREET with Tornsey",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:18747023@2026-08-28T23:45",
+      "kept": "ticketmaster:rZ7HnEZ1AfaFj0",
+      "start_at": "2026-08-28T23:45:00-07:00",
+      "title_dropped": "THE MIDNIGHT SHOW with JOHNNY FRANCO & His Real Brother Dom with their Six Pack of Buds",
+      "title_kept": "THE MIDNIGHT SHOW with JOHNNY FRANCO & His Real Brother Dom with their Six Pack of Buds",
+      "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 5870,
-  "floor_check": "5870 events against a 5867-event baseline",
-  "generated_at": "2026-07-29T03:35:41+00:00",
+  "event_count": 5851,
+  "floor_check": "5851 events against a 5867-event baseline",
+  "generated_at": "2026-07-29T03:45:48+00:00",
   "problems": [],
   "sources": [
     "calagator",
