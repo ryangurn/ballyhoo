@@ -15,3 +15,23 @@ __pycache__/
 # Local worktrees for the publishing branches
 gh-pages-worktree/
 archive-worktree/
+
+# App Store Connect API keys. The .p8 is downloadable exactly once and cannot
+# be re-issued from the same key, so a leak means revoking and re-keying. Kept
+# outside the repo entirely — this is the second line of defence, not the first.
+*.p8
+fastlane/.env
+fastlane/.env.*
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+build/
+*.ipa
+*.app.dSYM.zip
+
+# Bundler
+.bundle/
+vendor/bundle/

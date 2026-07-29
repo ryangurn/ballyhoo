@@ -1,0 +1,10 @@
+app_identifier("com.ryangurnick.ballyhoo")
+
+# Deliberately no `apple_id`. Everything that talks to Apple authenticates with
+# an App Store Connect API key instead, which is the only kind of credential
+# that survives an unattended run — see fastlane/README.md.
+
+# The Developer Portal team that signs the build. Already in the project file as
+# `DEVELOPMENT_TEAM`, so Xcode signs without it; read from the environment here
+# so nothing has to agree with a second copy checked in beside it.
+team_id(ENV["ASC_TEAM_ID"]) if ENV["ASC_TEAM_ID"]

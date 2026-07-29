@@ -1,0 +1,41 @@
+project("./ballyhoo.xcodeproj")
+scheme("ballyhoo")
+
+# Two sets is the whole requirement. App Store Connect scales every smaller
+# display class from the largest phone and the largest iPad, so uploading the
+# rest is work that changes nothing on the listing.
+#
+#   iPhone 17 Pro Max     6.9"  1320 x 2868
+#   iPad Air 13-inch (M4) 13"   2048 x 2732
+#
+# Both sizes are what the simulator actually writes, not what the device is
+# advertised as. `snapshot` matches these by name and fails if one has never
+# been created; the screenshots lane creates them rather than letting that
+# happen.
+devices([
+  "iPhone 17 Pro Max",
+  "iPad Air 13-inch (M4)"
+])
+
+# The listing is US-only. Adding a language here means committing to translated
+# App Store copy to go with it, which is a bigger decision than a Snapfile.
+languages(["en-US"])
+
+# deliver reads screenshots from here by default, so `upload_screenshots` needs
+# no path of its own.
+output_directory("./fastlane/screenshots")
+clear_previous_screenshots(true)
+
+# 9:41 and full bars, the way Apple's own marketing shots look. Without this the
+# status bar carries whatever time the run happened to start at and a battery
+# percentage that varies between the two devices.
+override_status_bar(true)
+
+# The mock feed the screenshots depend on is behind `#if DEBUG` in
+# BallyhooApp.swift, so a Release capture would quietly photograph the live feed
+# instead. Stated rather than inherited from the scheme for that reason.
+configuration("Debug")
+
+# Fail loudly, the same rule the pipeline runs on: a partial screenshot set that
+# uploads cleanly is worse than a run that stops and says why.
+stop_after_first_error(true)

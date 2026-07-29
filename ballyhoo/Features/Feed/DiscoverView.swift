@@ -216,6 +216,11 @@ struct DiscoverView: View {
                             }
                             .buttonStyle(.plain)
                             .padding(.horizontal, 16)
+                            // Not spoken by VoiceOver — it only gives the
+                            // screenshot test a stable way to reach a card
+                            // without matching on an event title that changes
+                            // with the feed.
+                            .accessibilityIdentifier("event-row")
                         }
                     }
                 }

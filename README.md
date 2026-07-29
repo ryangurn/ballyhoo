@@ -32,6 +32,8 @@ upstream sites ──▶ one workflow per source ──▶ sources/<id>.json ─
 ```
 ballyhoo/            SwiftUI app — SwiftUI, @Observable, iOS 17.6+, iPhone and iPad
 ballyhoo.xcodeproj/  Xcode project
+ballyhooUITests/     Drives the App Store screenshot capture
+fastlane/            Build, TestFlight and App Store automation (see fastlane/README.md)
 pipeline/            Python aggregation pipeline (see pipeline/README.md)
 .github/workflows/   One workflow per source, plus the merge
 design/              App icon artwork, light and dark
@@ -96,6 +98,19 @@ uv run python -m pipeline.sources.calagator --out /tmp/out   # one source, live
 
 Sources that need a key read it from `pipeline/.env.local`, which is gitignored; in CI
 the same values come from Actions secrets. Most sources need no credentials at all.
+
+**Releases.** fastlane, driven by an App Store Connect API key rather than an Apple ID
+so nothing stops to ask for a 2FA code.
+
+```sh
+bundle install
+bundle exec fastlane build          # clean compile, no credentials needed
+bundle exec fastlane beta           # TestFlight
+```
+
+Screenshots, upload lanes, the environment variables each needs, and a one-time Xcode
+step that has to happen before screenshots work are in
+[`fastlane/README.md`](fastlane/README.md).
 
 ## Two rules worth knowing before contributing
 

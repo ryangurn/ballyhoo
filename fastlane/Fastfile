@@ -1,0 +1,198 @@
+require "shellwords"
+
+default_platform(:ios)
+
+# fastlane/README.md is written by hand. Without this, fastlane replaces it with
+# generated lane docs after every run.
+skip_docs
+
+PROJECT = "ballyhoo.xcodeproj".freeze
+SCHEME = "ballyhoo".freeze
+BUILD_DIR = "build".freeze
+
+# `snapshot` matches simulators by name and fails outright when one has never
+# been created, and the 6.9" phone is not one of the defaults. These are the
+# names in the Snapfile paired with the device types that can make them.
+SCREENSHOT_SIMULATORS = {
+  "iPhone 17 Pro Max" => "com.apple.CoreSimulator.SimDeviceType.iPhone-17-Pro-Max",
+  "iPad Air 13-inch (M4)" => "com.apple.CoreSimulator.SimDeviceType.iPad-Air-13-inch-M4"
+}.freeze
+
+platform :ios do
+  desc "Compile the app clean. Needs no credentials, no keychain, no network."
+  desc "The one lane that works on a fresh checkout."
+  lane :build do
+    build_app(
+      project: PROJECT,
+      scheme: SCHEME,
+      configuration: "Debug",
+      # Simulator, so the compiler is exercised without a signing identity being
+      # anywhere near the machine. This catches what breaks in practice — a
+      # rename, a missing file, a Swift version drift — and stops short of the
+      # parts that need an Apple account.
+      sdk: "iphonesimulator",
+      destination: "generic/platform=iOS Simulator",
+      skip_archive: true,
+      skip_codesigning: true,
+      clean: true
+    )
+  end
+
+  desc "Capture App Store screenshots on the 6.9\" phone and the 13\" iPad."
+  desc "Needs the ballyhooUITests target to exist — see fastlane/README.md."
+  lane :screenshots do
+    ensure_screenshot_simulators
+    snapshot
+    UI.success("Screenshots in fastlane/screenshots. Upload with `fastlane upload_screenshots`.")
+  end
+
+  desc "Build a signed Release archive and send it to TestFlight."
+  lane :beta do |options|
+    credentials = asc_credentials
+    key = connect_api_key(credentials)
+
+    archive(credentials, options)
+
+    upload_to_testflight(
+      api_key: key,
+      # Processing takes as long as it takes and blocking on it buys nothing:
+      # the email arrives either way, and a CI job holding a runner open to
+      # watch a progress bar is a job that times out.
+      skip_waiting_for_build_processing: true,
+      distribute_external: false
+    )
+  end
+
+  desc "Build a signed Release archive and upload it for App Store review."
+  desc "Uploads the binary only, and does not submit — review is a decision, not a build step."
+  lane :release do |options|
+    credentials = asc_credentials
+    key = connect_api_key(credentials)
+
+    archive(credentials, options)
+
+    upload_to_app_store(
+      api_key: key,
+      # Metadata and screenshots have their own lane and their own cadence. A
+      # binary upload that also rewrote the listing would make every build a
+      # copy change nobody asked for.
+      skip_metadata: true,
+      skip_screenshots: true,
+      submit_for_review: false,
+      automatic_release: false,
+      run_precheck_before_submit: false,
+      force: true
+    )
+
+    UI.success("Uploaded. Submit for review in App Store Connect when the listing is ready.")
+  end
+
+  desc "Push whatever is in fastlane/screenshots to the App Store listing."
+  lane :upload_screenshots do
+    upload_to_app_store(
+      api_key: connect_api_key(asc_credentials),
+      skip_binary_upload: true,
+      skip_metadata: true,
+      skip_screenshots: false,
+      overwrite_screenshots: true,
+      submit_for_review: false,
+      run_precheck_before_submit: false,
+      force: true
+    )
+  end
+end
+
+# --- Signing and upload credentials ---
+
+# All three come from the environment. fastlane/README.md says where each value
+# is found; none of them belong in a file in this repo.
+def asc_credentials
+  path = File.expand_path(required_env("ASC_KEY_PATH"))
+  unless File.exist?(path)
+    UI.user_error!("ASC_KEY_PATH points at #{path}, which does not exist. The .p8 downloads once from App Store Connect and cannot be downloaded again.")
+  end
+
+  {
+    key_id: required_env("ASC_KEY_ID"),
+    issuer_id: required_env("ASC_ISSUER_ID"),
+    key_path: path
+  }
+end
+
+def connect_api_key(credentials)
+  app_store_connect_api_key(
+    key_id: credentials[:key_id],
+    issuer_id: credentials[:issuer_id],
+    key_filepath: credentials[:key_path],
+    in_house: false
+  )
+end
+
+def required_env(name)
+  value = ENV[name].to_s.strip
+  UI.user_error!("#{name} is not set. fastlane/README.md says where its value comes from.") if value.empty?
+  value
+end
+
+# --- Building ---
+
+def archive(credentials, options)
+  build_app(
+    project: PROJECT,
+    scheme: SCHEME,
+    configuration: "Release",
+    export_method: "app-store",
+    output_directory: BUILD_DIR,
+    output_name: "Ballyhoo.ipa",
+    clean: true,
+    xcargs: (signing_args(credentials) + build_number_args(options)).join(" "),
+    export_options: { signingStyle: "automatic" },
+    export_xcargs: signing_args(credentials).join(" ")
+  )
+end
+
+# Automatic signing has to be able to create a provisioning profile when one is
+# missing, and xcodebuild will only do that unattended if it is handed the same
+# API key everything else here uses. Without these it falls back to whichever
+# Apple ID is signed into Xcode — which means a 2FA prompt, which is the thing
+# this whole setup exists to avoid.
+def signing_args(credentials)
+  [
+    "-allowProvisioningUpdates",
+    "-authenticationKeyPath", credentials[:key_path].shellescape,
+    "-authenticationKeyID", credentials[:key_id].shellescape,
+    "-authenticationKeyIssuerID", credentials[:issuer_id].shellescape
+  ]
+end
+
+# `increment_build_number` rewrites ballyhoo.xcodeproj/project.pbxproj, and a
+# generated edit to that file is not a trade worth making. Overriding the build
+# setting on the command line puts the same CFBundleVersion in the binary and
+# leaves the project alone.
+#
+#   bundle exec fastlane beta build_number:7
+#
+# App Store Connect rejects a build number it has already seen, so without one
+# of these the upload fails the second time a given CURRENT_PROJECT_VERSION is
+# submitted.
+def build_number_args(options)
+  number = options[:build_number] || ENV["BALLYHOO_BUILD_NUMBER"]
+  return [] if number.to_s.strip.empty?
+
+  ["CURRENT_PROJECT_VERSION=#{number.to_s.strip.shellescape}"]
+end
+
+# --- Simulators ---
+
+def ensure_screenshot_simulators
+  available = sh("xcrun simctl list devices available", log: false)
+
+  SCREENSHOT_SIMULATORS.each do |name, device_type|
+    next if available.include?("#{name} (")
+
+    UI.important("No '#{name}' simulator on this machine. Creating one.")
+    # No runtime argument: simctl takes the newest one that supports the device,
+    # which is what a screenshot run wants anyway.
+    sh("xcrun", "simctl", "create", name, device_type)
+  end
+end
