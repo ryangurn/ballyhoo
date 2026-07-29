@@ -3,10 +3,15 @@ import MapKit
 
 /// Events grouped by the place they happen.
 ///
-/// The venue is the natural unit for a map. Portland's 722 upcoming events sit at
-/// only 47 distinct coordinates — Keller Auditorium alone hosts 84 of them — so
-/// plotting one pin per event stacks dozens of identical markers on the same point.
-/// No amount of spatial gridding separates coordinates that are equal.
+/// The venue is the natural unit for a map. Of the live feed's 5,872 events,
+/// 4,945 carry a location and those sit at only 692 distinct coordinates — one
+/// address alone hosts 166 of them — so plotting one pin per event stacks
+/// dozens of identical markers on the same point. No amount of spatial gridding
+/// separates coordinates that are equal.
+///
+/// 692 is still far too many to draw at once, which is what the merge below is
+/// for. It is also a number that grows every time a source is added, so the
+/// merge has to be sized against the screen rather than tuned to a pin count.
 struct VenuePin: Identifiable {
     let id: String
     let name: String
@@ -20,30 +25,81 @@ struct VenuePin: Identifiable {
 }
 
 enum VenueGrouping {
-    /// Pins closer together than roughly this fraction of the visible span would
-    /// overlap on screen, so they merge until the user zooms in.
-    private static let mergeThreshold = 0.045
+    /// How far apart two pins have to sit on screen before they stop competing
+    /// for the same touch.
+    ///
+    /// Twice the tap target rather than exactly one. The merge runs on a grid,
+    /// and two venues either side of a cell boundary can be arbitrarily close,
+    /// so a cell the size of the target still leaves targets overlapping — and
+    /// leaves no bare map between the pins for a pinch to start on. Against the
+    /// live feed this is the difference between the pins claiming 84% of a
+    /// phone screen at the default zoom and claiming a third of it.
+    private static let separation = Theme.minimumTapTarget * 2
+
+    /// `separation` is a distance on glass and a region is measured in degrees,
+    /// so something has to stand in for the height of the map view. A phone in
+    /// portrait is the case worth tuning for; a taller screen merges a little
+    /// more eagerly, which is the harmless direction to be wrong in.
+    private static let nominalMapHeight: CGFloat = 850
+
+    private static let mergeThreshold = Double(separation / nominalMapHeight)
+
+    /// Below this the merge stops: two venues five metres apart are the same
+    /// place however far the user has zoomed in.
+    private static let smallestCell = 0.00005
+
+    /// The grid stage two merges on, quantised to one step per halving of the
+    /// zoom.
+    ///
+    /// The quantising is the point. The camera reports a slightly different
+    /// span every time it settles — a pan alone re-derives it — and the cell
+    /// size used to track that span exactly, so every camera move re-cut the
+    /// grid and handed `ForEach` a different set of pin ids to rebuild. Rounded
+    /// like this, a camera delta too small to see produces an identical grid,
+    /// identical pins, and no annotation churn at all.
+    ///
+    /// A span sitting exactly on a bucket boundary can still flip between two
+    /// grids, but only across separate gestures: the region is sampled when a
+    /// gesture ends, never during one.
+    struct MergeGrid: Equatable {
+        let latitude: Double
+        let longitude: Double
+
+        init(for region: MKCoordinateRegion) {
+            latitude = Self.cell(spanning: region.span.latitudeDelta)
+            longitude = Self.cell(spanning: region.span.longitudeDelta)
+        }
+
+        private static func cell(spanning delta: Double) -> Double {
+            guard delta > 0, delta.isFinite else { return smallestCell }
+            return max(exp2(log2(delta).rounded()) * mergeThreshold, smallestCell)
+        }
+    }
 
     /// Position rounded to about a metre, keyed on rather than name so two
     /// spellings of one address still land on a single pin.
     ///
-    /// `nonisolated` because it is a pure function of its argument, and callers
-    /// pass it by reference into `compactMap` — which would otherwise mean
-    /// converting a main-actor function to an unisolated one.
+    /// `nonisolated` because it is a pure function of its argument and nothing
+    /// about it wants an actor.
     nonisolated static func venueKey(for venue: Venue) -> String? {
         guard let latitude = venue.latitude, let longitude = venue.longitude else { return nil }
         return String(format: "%.5f,%.5f", latitude, longitude)
     }
 
-    static func pins(for events: [Event], in region: MKCoordinateRegion) -> [VenuePin] {
-        // Stage one: collapse to venues. This is the bulk of the reduction.
+    /// Stage one: collapse events to the places they happen. This is the bulk
+    /// of the reduction and the expensive half — a pass over every filtered
+    /// event, formatting a key for each.
+    ///
+    /// Split out from the merge below because it does not depend on the camera.
+    /// Panning cannot change which venues exist, so a pan must not pay for this.
+    static func venues(for events: [Event]) -> [VenuePin] {
         var byVenue: [String: [Event]] = [:]
         for event in events {
             guard let venue = event.venue, let key = venueKey(for: venue) else { continue }
             byVenue[key, default: []].append(event)
         }
 
-        let venues: [VenuePin] = byVenue.compactMap { key, grouped in
+        return byVenue.compactMap { key, grouped in
             let sorted = grouped.sorted { $0.start < $1.start }
             guard let venue = sorted.first?.venue,
                   let latitude = venue.latitude,
@@ -55,33 +111,43 @@ enum VenueGrouping {
                 events: sorted
             )
         }
+        // Stable ordering stops SwiftUI reshuffling annotations on every update.
+        .sorted { $0.id < $1.id }
+    }
 
-        // Stage two: merge venues that would visually collide at this zoom, so a
-        // dense downtown block reads as one pin until it is worth separating.
-        let cellLatitude = max(region.span.latitudeDelta * mergeThreshold, 0.00005)
-        let cellLongitude = max(region.span.longitudeDelta * mergeThreshold, 0.00005)
-
+    /// Stage two: merge venues that would visually collide at this zoom, so a
+    /// dense downtown block reads as one pin until it is worth separating.
+    ///
+    /// Cheap — it walks the few hundred venues stage one produced, not the
+    /// thousands of events behind them — which is what makes it affordable to
+    /// re-run when the zoom changes.
+    static func merge(_ venues: [VenuePin], on grid: MergeGrid) -> [VenuePin] {
         var cells: [String: [VenuePin]] = [:]
         for pin in venues {
-            let row = (pin.coordinate.latitude / cellLatitude).rounded()
-            let column = (pin.coordinate.longitude / cellLongitude).rounded()
+            let row = (pin.coordinate.latitude / grid.latitude).rounded()
+            let column = (pin.coordinate.longitude / grid.longitude).rounded()
             cells["\(row)_\(column)", default: []].append(pin)
         }
 
-        return cells.map { key, group -> VenuePin in
+        return cells.values.map { group -> VenuePin in
             if group.count == 1 { return group[0] }
+            let members = group.map(\.id).sorted()
             let merged = group.flatMap(\.events).sorted { $0.start < $1.start }
             let latitude = group.map(\.coordinate.latitude).reduce(0, +) / Double(group.count)
             let longitude = group.map(\.coordinate.longitude).reduce(0, +) / Double(group.count)
             return VenuePin(
-                id: key,
+                // Identified by what it contains, not by the cell it landed in.
+                // A cell key encodes the zoom, so it changed under every camera
+                // move and SwiftUI tore the annotation down and built it again;
+                // the members are what the pin actually is, so a group that
+                // comes out the same at a different zoom keeps the view it had.
+                id: members.joined(separator: "|"),
                 name: "\(group.count) venues",
                 coordinate: CLLocationCoordinate2D(latitude: latitude, longitude: longitude),
                 events: merged,
                 isMerged: true
             )
         }
-        // Stable ordering stops SwiftUI reshuffling annotations on every update.
         .sorted { $0.id < $1.id }
     }
 }
@@ -105,41 +171,56 @@ private struct FilterSignature: Equatable {
     }
 }
 
+/// Everything outside the camera that decides which events the map draws.
+///
+/// Compared on every pass through `body` to work out whether the snapshot below
+/// is still good, so it is deliberately all cheap reads — no collection walks.
+private struct MapInputs: Equatable {
+    let filters: FilterSignature
+    /// A refresh can replace the feed without any filter changing.
+    let feedStamp: Date?
+    let feedCount: Int
+
+    init(_ store: EventStore) {
+        filters = FilterSignature(store)
+        feedStamp = store.lastUpdated
+        feedCount = store.allEvents.count
+    }
+}
+
 /// One walk over the store's collections, shared by the map, the filter bar and
 /// the status overlay.
 ///
-/// Each of these reads is a filter over the whole feed — about 6,000 events —
-/// and SwiftUI re-evaluates computed properties every time they are touched.
-/// Gathering them once per pass through `body` keeps that to a single traversal
-/// instead of one per consumer.
+/// Held in state rather than recomputed inside `body`, because the camera also
+/// drives `body` and this is the expensive half: a filter over the whole feed —
+/// about 6,000 events — and then a formatted key for each of the ~4,900 with a
+/// location. None of that can change while the map is merely being panned, so
+/// panning must not pay for it.
 private struct MapSnapshot {
+    /// What this was built from. A pass that has already seen a new filter but
+    /// not yet rebuilt can compare against it and tell that it is holding a
+    /// stale answer.
+    let inputs: MapInputs
     let events: [Event]
-    let pins: [VenuePin]
-    /// Distinct venues, counted before the zoom-dependent merge so the number
-    /// does not change as the user pinches.
-    let venueCount: Int
+    /// Stage one of the grouping: one entry per distinct coordinate, before the
+    /// zoom-dependent merge. The filter bar's "places" count comes off this, so
+    /// it has to be taken here — counted off the merged pins it would change as
+    /// the user pinched.
+    let venues: [VenuePin]
     /// Upcoming events with a location, before filters — the denominator.
     let mappableTotal: Int
-    let state: LoadState
-    /// Whether a feed has arrived at all, which is a different question from
-    /// whether the current filters match anything in it.
-    let hasContent: Bool
-    let filters: FilterSignature
 
-    init(store: EventStore, region: MKCoordinateRegion) {
+    init(store: EventStore) {
+        inputs = MapInputs(store)
         let mappable = store.filteredEvents.filter { $0.venue?.hasCoordinate == true }
         events = mappable
-        pins = VenueGrouping.pins(for: mappable, in: region)
-        venueCount = Set(mappable.compactMap { $0.venue.flatMap(VenueGrouping.venueKey) }).count
+        venues = VenueGrouping.venues(for: mappable)
         // `upcomingEvents` would say this more plainly, but it materialises a
         // second ~6,000-element array on a path that already built one for
         // `filteredEvents`. Same predicate, counted lazily off the source.
         mappableTotal = store.allEvents.lazy
             .filter { !$0.isPast && $0.venue?.hasCoordinate == true }
             .count
-        state = store.state
-        hasContent = !store.allEvents.isEmpty
-        filters = FilterSignature(store)
     }
 }
 
@@ -151,8 +232,24 @@ struct EventMapView: View {
     @State private var selectedPin: VenuePin?
     @State private var detailEvent: Event?
 
+    /// Nil until the first pass has run. Distinguishable from an empty snapshot
+    /// on purpose: "nothing matched" and "not worked out yet" want different
+    /// things on screen, and the second lasts one frame.
+    @State private var snapshot: MapSnapshot?
+    @State private var pins: [VenuePin] = []
+
     var body: some View {
-        let snapshot = MapSnapshot(store: store, region: visibleRegion)
+        let inputs = MapInputs(store)
+        let grid = VenueGrouping.MergeGrid(for: visibleRegion)
+        // Cheap enough to read live rather than snapshot, and reading it live
+        // keeps it honest while the snapshot is a frame behind.
+        let hasContent = !store.allEvents.isEmpty
+        // The snapshot lags by a pass whenever an input has just changed — the
+        // frame a feed lands on, most visibly. A count that is one frame stale
+        // is invisible, so the bar can have the snapshot regardless; a stale
+        // "nothing matched" is a full-screen panel thrown over a map that does
+        // have pins, so that one waits for the rebuild.
+        let settled = snapshot?.inputs == inputs ? snapshot : nil
 
         NavigationStack {
             // A stack rather than a `safeAreaInset`: the map deliberately bleeds
@@ -161,21 +258,29 @@ struct EventMapView: View {
             // would put the bar under the Dynamic Island. As siblings, the map
             // can ignore the top safe area while the bar keeps it.
             ZStack(alignment: .top) {
-                map(snapshot)
+                map(hasContent: hasContent, settled: settled)
 
                 // Nothing to filter until a feed arrives, and the loading and
                 // failure states own the screen until one does.
-                if snapshot.hasContent {
+                if hasContent {
                     MapFilterBar(
-                        matchedEvents: snapshot.events.count,
-                        matchedVenues: snapshot.venueCount,
-                        mappableTotal: snapshot.mappableTotal
+                        matchedEvents: snapshot?.events.count ?? 0,
+                        matchedVenues: snapshot?.venues.count ?? 0,
+                        mappableTotal: snapshot?.mappableTotal ?? 0
                     )
                 }
             }
-            .onChange(of: snapshot.filters) {
+            .onChange(of: inputs, initial: true) {
+                rebuild(on: grid)
+            }
+            .onChange(of: grid) {
+                recluster(on: grid)
+            }
+            .onChange(of: inputs.filters) {
                 // The open card would otherwise keep describing a venue that no
-                // longer has any matching events behind it.
+                // longer has any matching events behind it. Watched separately
+                // from `inputs` so a refresh landing underneath does not close
+                // a card the user is reading.
                 selectedPin = nil
             }
             .toolbar(.hidden, for: .navigationBar)
@@ -185,9 +290,24 @@ struct EventMapView: View {
         }
     }
 
-    private func map(_ snapshot: MapSnapshot) -> some View {
+    /// Both stages, for when the filters or the feed changed under the map.
+    private func rebuild(on grid: VenueGrouping.MergeGrid) {
+        let fresh = MapSnapshot(store: store)
+        snapshot = fresh
+        pins = VenueGrouping.merge(fresh.venues, on: grid)
+    }
+
+    /// Stage two alone — the whole cost of a camera move, and only when the
+    /// move crossed a zoom step. Leaves the pins alone rather than emptying
+    /// them if the camera somehow reports in before the first pass.
+    private func recluster(on grid: VenueGrouping.MergeGrid) {
+        guard let snapshot else { return }
+        pins = VenueGrouping.merge(snapshot.venues, on: grid)
+    }
+
+    private func map(hasContent: Bool, settled: MapSnapshot?) -> some View {
         Map(position: $position) {
-            ForEach(snapshot.pins) { pin in
+            ForEach(pins) { pin in
                 Annotation("", coordinate: pin.coordinate, anchor: .center) {
                     pinView(pin)
                 }
@@ -212,18 +332,18 @@ struct EventMapView: View {
             }
         }
         .animation(.snappy(duration: 0.25), value: selectedPin?.id)
-        .overlay { statusOverlay(snapshot) }
+        .overlay { statusOverlay(hasContent: hasContent, settled: settled) }
     }
 
     // MARK: States
 
     @ViewBuilder
-    private func statusOverlay(_ snapshot: MapSnapshot) -> some View {
-        if !snapshot.hasContent {
+    private func statusOverlay(hasContent: Bool, settled: MapSnapshot?) -> some View {
+        if !hasContent {
             // Gated on whether there is anything to draw rather than on `state`
             // alone, so a refresh that fails on top of an already-loaded feed
             // leaves the pins where they are instead of blanking the map.
-            switch snapshot.state {
+            switch store.state {
             case .idle, .loading:
                 loadingState
             case .failed(let message):
@@ -231,7 +351,7 @@ struct EventMapView: View {
             case .loaded:
                 emptyFeedState
             }
-        } else if snapshot.events.isEmpty {
+        } else if let settled, settled.events.isEmpty {
             noMatchesState
         }
     }
@@ -369,7 +489,7 @@ struct EventMapView: View {
             .frame(width: Theme.minimumTapTarget, height: Theme.minimumTapTarget)
             .contentShape(.rect)
         }
-        .buttonStyle(.plain)
+        .buttonStyle(MapPinButtonStyle())
         .animation(.snappy(duration: 0.2), value: isSelected)
         .accessibilityLabel(pinLabel(for: pin))
         .accessibilityHint(pin.isMerged ? "Zooms in to separate these venues" : "Shows what is on here")
@@ -478,6 +598,19 @@ struct EventMapView: View {
             .frame(width: 132, alignment: .leading)
         }
         .padding(.trailing, 4)
+    }
+}
+
+/// A press with no feedback of its own.
+///
+/// Pins crowd the busy part of the map, so fingers land on them during pans and
+/// pinches that were never aimed at a pin. The built-in styles dim their label
+/// on touch-down, which turns that into the annotations twinkling. Selection
+/// already announces itself — the pin grows and the card slides up — so the
+/// press has nothing left to say.
+private struct MapPinButtonStyle: ButtonStyle {
+    func makeBody(configuration: Configuration) -> some View {
+        configuration.label
     }
 }
 
