@@ -193,6 +193,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:18371065@2026-07-29T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfqsCK",
+      "start_at": "2026-07-29T20:30:00-07:00",
+      "title_dropped": "SIGH (JAPAN) with Dreadnought (Denver) and Mania",
+      "title_kept": "SIGH (JAPAN) with Dreadnought (Denver) and Mania",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:19428125@2026-07-29T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfFgA0",
       "start_at": "2026-07-29T20:30:00-07:00",
@@ -215,14 +223,6 @@
       "title_dropped": "ROME STREETZ, feat FERGIE BABY & SHA HEF",
       "title_kept": "ROME STREETZ, feat FERGIE BABY & SHA HEF",
       "venue": "Kelly's Olympian"
-    },
-    {
-      "dropped": "willamette_week:18371065@2026-07-29T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfqsCK",
-      "start_at": "2026-07-29T21:00:00-07:00",
-      "title_dropped": "SIGH (JAPAN) with Dreadnought (Denver) and Mania",
-      "title_kept": "SIGH (JAPAN) with Dreadnought (Denver) and Mania",
-      "venue": "Star Theater"
     },
     {
       "dropped": "willamette_week:18714803@2026-07-30T12:00",
@@ -4291,7 +4291,7 @@
   ],
   "event_count": 5851,
   "floor_check": "5851 events against a 5867-event baseline",
-  "generated_at": "2026-07-29T06:42:05+00:00",
+  "generated_at": "2026-07-29T06:43:57+00:00",
   "problems": [],
   "sources": [
     "calagator",
