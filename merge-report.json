@@ -1353,6 +1353,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19495586@2026-08-06T21:00",
+      "kept": "dopdx:17641124",
+      "start_at": "2026-08-06T21:00:00-07:00",
+      "title_dropped": "BEGGARS CANYON with Arthur Buezo & it&i",
+      "title_kept": "Beggars Canyon with Arthur Buezo & It&I",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:18418272@2026-08-06T21:00",
       "kept": "ticketmaster:Z7r9jZ1A7-UAY",
       "start_at": "2026-08-06T21:00:00-07:00",
@@ -4289,9 +4297,9 @@
       "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 5851,
-  "floor_check": "5851 events against a 5852-event baseline",
-  "generated_at": "2026-07-29T09:48:41+00:00",
+  "event_count": 5868,
+  "floor_check": "5868 events against a 5852-event baseline",
+  "generated_at": "2026-07-29T10:00:36+00:00",
   "problems": [],
   "sources": [
     "calagator",
