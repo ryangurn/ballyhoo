@@ -9304,6 +9304,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1A7P409",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P409",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-12T21:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P409",
+      "title": "Chanpan",
+      "venue": {
+        "address": "635 N Killingsworth Ct",
+        "city": "Portland",
+        "latitude": 45.5704,
+        "longitude": -122.690498,
+        "name": "Polaris Hall"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:Z7r9jZ1A7Ox_9",
@@ -12792,6 +12820,35 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:vvG1HZ_2StJ2Au",
+      "image_url": "https://s1.ticketm.net/dam/a/a52/571ecd1b-5559-4f1d-80fc-fd534a0e0a52_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.etix.com/ticket/p/56854449/esdeekid-council-house-rat-tour-portland-roseland-theater",
+      "organizer": "LIVE NATION MUSIC",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-02T20:00:00-07:00",
+      "ticket_url": "https://www.etix.com/ticket/p/56854449/esdeekid-council-house-rat-tour-portland-roseland-theater",
+      "title": "EsDeeKid - Council House Rat Tour",
+      "venue": {
+        "address": "8 NW 6th Ave",
+        "city": "Portland",
+        "latitude": 45.5232796,
+        "longitude": -122.6764252,
+        "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1AfOUfN",
       "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -14352,6 +14409,36 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Revolution Hall - Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfJfvd",
+      "image_url": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/hulder-with-antichrist-siege-machine-star-theater-tickets/14994043",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-15T19:40:00-07:00",
+      "ticket_url": "https://www.ticketweb.com/event/hulder-with-antichrist-siege-machine-star-theater-tickets/14994043",
+      "title": "HULDER with Antichrist Siege Machine & Guest",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
       }
     },
     {
@@ -20738,7 +20825,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-29T12:18:00+00:00",
+  "generated_at": "2026-07-29T15:18:30+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
