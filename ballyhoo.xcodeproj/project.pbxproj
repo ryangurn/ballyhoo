@@ -6,13 +6,33 @@
 	objectVersion = 90;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8231356AA18D12E2B412976D /* ScreenshotUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8402FB8DA41378BB86551498 /* ScreenshotUITests.swift */; };
+		E7A7BA937E720980EF523E8E /* SnapshotHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D598FFB29A348EB69C65C70 /* SnapshotHelper.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C1E4F91C20DB5DA83DDA9A19 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 000000000000000000000000 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 000000000000000100000000;
+			remoteInfo = ballyhoo;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
 		000000000000000000000120 /* ballyhoo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ballyhoo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D598FFB29A348EB69C65C70 /* SnapshotHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SnapshotHelper.swift; sourceTree = "<group>"; };
+		4E40C468A603B0CFFE22D5B4 /* ballyhooUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ballyhooUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8402FB8DA41378BB86551498 /* ScreenshotUITests.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ScreenshotUITests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		000000000000000000000010 /* ballyhoo */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
 			path = ballyhoo;
 			sourceTree = "<group>";
 		};
@@ -24,6 +44,13 @@
 			files = (
 			);
 		};
+		085CAC0C7F916A2CC2C46933 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -32,6 +59,7 @@
 			children = (
 				000000000000000000000010 /* ballyhoo */,
 				000000000000000000000020 /* Products */,
+				ABC71DC90BB1B66D9C7F364B /* ballyhooUITests */,
 			);
 			sourceTree = "<group>";
 		};
@@ -39,8 +67,19 @@
 			isa = PBXGroup;
 			children = (
 				000000000000000000000120 /* ballyhoo.app */,
+				4E40C468A603B0CFFE22D5B4 /* ballyhooUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		ABC71DC90BB1B66D9C7F364B /* ballyhooUITests */ = {
+			isa = PBXGroup;
+			children = (
+				8402FB8DA41378BB86551498 /* ScreenshotUITests.swift */,
+				1D598FFB29A348EB69C65C70 /* SnapshotHelper.swift */,
+			);
+			name = ballyhooUITests;
+			path = ballyhooUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -56,6 +95,8 @@
 			);
 			buildRules = (
 			);
+			dependencies = (
+			);
 			fileSystemSynchronizedGroups = (
 				000000000000000000000010 /* ballyhoo */,
 			);
@@ -63,6 +104,24 @@
 			productName = MyApp;
 			productReference = 000000000000000000000120 /* ballyhoo.app */;
 			productType = "com.apple.product-type.application";
+		};
+		5D29AEA71A321F3DF642C3CB /* ballyhooUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0112EBDD719980EE8A6DC38F /* Build configuration list for PBXNativeTarget "ballyhooUITests" */;
+			buildPhases = (
+				1ADFD55C9EB6F554E536CF95 /* Sources */,
+				085CAC0C7F916A2CC2C46933 /* Frameworks */,
+				D172BC3332872C2DFED3C035 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AD44037ABB89C023C6000E26 /* PBXTargetDependency */,
+			);
+			name = ballyhooUITests;
+			productName = ballyhooUITests;
+			productReference = 4E40C468A603B0CFFE22D5B4 /* ballyhooUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
@@ -76,6 +135,10 @@
 				TargetAttributes = {
 					000000000000000100000000 = {
 						CreatedOnToolsVersion = 26.3;
+					};
+					5D29AEA71A321F3DF642C3CB = {
+						CreatedOnToolsVersion = 26.3;
+						TestTargetID = 000000000000000100000000;
 					};
 				};
 			};
@@ -94,6 +157,7 @@
 			projectRoot = "";
 			targets = (
 				000000000000000100000000 /* ballyhoo */,
+				5D29AEA71A321F3DF642C3CB /* ballyhooUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -104,6 +168,13 @@
 			files = (
 			);
 		};
+		D172BC3332872C2DFED3C035 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -112,10 +183,28 @@
 			files = (
 			);
 		};
+		1ADFD55C9EB6F554E536CF95 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8231356AA18D12E2B412976D /* ScreenshotUITests.swift in Sources */,
+				E7A7BA937E720980EF523E8E /* SnapshotHelper.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		AD44037ABB89C023C6000E26 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ballyhoo;
+			target = 000000000000000100000000 /* ballyhoo */;
+			targetProxy = C1E4F91C20DB5DA83DDA9A19 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
-		000000000000000011000000 /* Debug configuration for PBXProject "ballyhoo" */ = {
+		000000000000000011000000 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -185,7 +274,7 @@
 			};
 			name = Debug;
 		};
-		000000000000000012000000 /* Release configuration for PBXProject "ballyhoo" */ = {
+		000000000000000012000000 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -247,7 +336,7 @@
 			};
 			name = Release;
 		};
-		000000000000000111000000 /* Debug configuration for PBXNativeTarget "ballyhoo" */ = {
+		000000000000000111000000 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -270,6 +359,7 @@
 				INFOPLIST_KEY_UIStatusBarStyle = "";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
@@ -292,7 +382,7 @@
 			};
 			name = Debug;
 		};
-		000000000000000112000000 /* Release configuration for PBXNativeTarget "ballyhoo" */ = {
+		000000000000000112000000 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -315,6 +405,7 @@
 				INFOPLIST_KEY_UIStatusBarStyle = "";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
@@ -337,23 +428,87 @@
 			};
 			name = Release;
 		};
+		833258DE027FBAE8D32E43B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FFF92ER9C4;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ryangurnick.ballyhoo.uitests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ballyhoo;
+			};
+			name = Debug;
+		};
+		DD559BFE956A78210FF426C4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FFF92ER9C4;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ryangurnick.ballyhoo.uitests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ballyhoo;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
 		000000000000000010000000 /* Build configuration list for PBXProject "ballyhoo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				000000000000000011000000 /* Debug configuration for PBXProject "ballyhoo" */,
-				000000000000000012000000 /* Release configuration for PBXProject "ballyhoo" */,
+				000000000000000011000000 /* Debug */,
+				000000000000000012000000 /* Release */,
 			);
 			defaultConfigurationName = Release;
 		};
 		000000000000000110000000 /* Build configuration list for PBXNativeTarget "ballyhoo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				000000000000000111000000 /* Debug configuration for PBXNativeTarget "ballyhoo" */,
-				000000000000000112000000 /* Release configuration for PBXNativeTarget "ballyhoo" */,
+				000000000000000111000000 /* Debug */,
+				000000000000000112000000 /* Release */,
 			);
+			defaultConfigurationName = Release;
+		};
+		0112EBDD719980EE8A6DC38F /* Build configuration list for PBXNativeTarget "ballyhooUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD559BFE956A78210FF426C4 /* Release */,
+				833258DE027FBAE8D32E43B4 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
