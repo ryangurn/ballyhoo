@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Support — Ballyhoo</title>
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    max-width: 38rem; margin: 0 auto; padding: 2.5rem 1.25rem 5rem;
+  }
+  h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 .35rem; }
+  h2 { font-size: 1.15rem; margin: 2.25rem 0 .6rem; }
+  .updated { opacity: .6; font-size: .92rem; margin: 0 0 2rem; }
+  ul { padding-left: 1.2rem; }
+  li { margin: .4rem 0; }
+  code { font-size: .9em; opacity: .85; }
+  .lede { font-size: 1.05rem; }
+  footer { margin-top: 3rem; padding-top: 1.25rem; border-top: 1px solid rgba(128,128,128,.3); opacity: .7; font-size: .92rem; }
+  a { color: inherit; }
+</style>
+</head>
+<body>
+
+<h1>Support</h1>
+<p class="updated">Ballyhoo &middot; Portland, Oregon</p>
+
+<p class="lede">Ballyhoo shows community events happening around Portland. It needs no
+account and collects nothing about you, so most problems come down to the event data
+itself rather than anything stored on your device.</p>
+
+<h2>Getting help</h2>
+<p>The fastest way to reach a person is to open an issue at
+<a href="https://github.com/ryangurn/ballyhoo/issues">github.com/ryangurn/ballyhoo/issues</a>.
+You do not need to know anything about code to file one — describing what you expected
+and what you saw is enough.</p>
+
+<h2>An event is missing, wrong, or out of date</h2>
+<p>Ballyhoo does not create event listings. It reads published calendars from around ten
+Portland sources and shows what they say. So if an event has the wrong time, the wrong
+venue, or a price that does not match, the original listing almost certainly says the
+same thing.</p>
+<p>Every event in the app links back to where it came from, and the Sources tab lists
+each calendar we read along with when it last updated successfully. That is the quickest
+way to tell whether something is a problem on our side or upstream. If a listing is
+correct at the source but wrong in the app, that is a bug worth reporting.</p>
+
+<h2>The list looks stale</h2>
+<p>Events are gathered on a schedule rather than live, so the feed reflects the last
+successful run rather than this moment. Pull down on the Discover tab, or use
+<strong>Refresh now</strong> on the Sources tab, to fetch the latest published file.
+The Sources tab also shows when the feed was published, which tells you whether the app
+is holding an old copy or the data itself has not moved.</p>
+
+<h2>Nothing is showing up</h2>
+<p>Ballyhoo needs a network connection to download the event feed. If the list is empty,
+check that filters are not excluding everything — the Discover and Map tabs share one
+set of filters, so a category chosen on one applies to the other. Clearing filters and
+refreshing resolves most empty screens.</p>
+
+<h2>Suggesting a source</h2>
+<p>Portland has far more calendars than the app currently reads, and suggestions for good
+ones are welcome, particularly neighborhood associations, libraries, colleges, and venues
+that publish their own schedules. Open an issue with a link.</p>
+
+<h2>Privacy</h2>
+<p>Ballyhoo has no accounts, no analytics, and no advertising. The
+<a href="privacy.html">privacy policy</a> covers what the app does and does not do,
+including the third parties that inevitably see a request when event artwork loads.</p>
+
+<footer>
+Ballyhoo is free and open source. The app and the pipeline that assembles its data are at
+<a href="https://github.com/ryangurn/ballyhoo">github.com/ryangurn/ballyhoo</a>.
+</footer>
+
+</body>
+</html>
