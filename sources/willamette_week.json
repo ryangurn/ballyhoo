@@ -39131,6 +39131,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-08-07T21:00:00-07:00",
+      "id": "willamette_week:19503644@2026-08-07T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/G60o1y9sb0Cal20qdB0NOA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://artdesignxchange.com/events/q7ahvtp1ugq2p647w5p1ih9z3vg9hf",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-07T17:00:00-07:00",
+      "summary": "Join us at ADX on August 7th for the opening night of Elementals by Lindsay Spina, Cynthia Veum, and Rick Shearing. The show will be accompanied by a music showcase by Ezra Meredith and the Deer Lodge All Stars, and a small bar. August 7th, 5-9 PM. 417 SE 11th Avenue. Free Event. Elementals celebrates the beauty, resilience, and transformative power of the natural world through painting, natural materials, and ceramics. Featuring the work of local art therapists Lindsay Spina and Cynthia Veum, alongside high school art teacher Rick Shearing, the exhibition brings together three distinct artistic voices united by a shared reverence for nature as both inspiration and teacher. Drawing from organic forms, landscapes, and the elemental forces that shape our environment, each artist explores the ways in which creativity fosters growth, healing, and connection. Through expressive painting, tactile ceramic forms, and works incorporating natural materials, the exhibition reflects on cycles of change, renewal, and the profound relationship between humans and the world around them. As practicing art therapists, Spina and Veum approach their work with an understanding of art as a vehicle for reflection, emotional exploration, and restoration, while Shearing's perspective as an educator highlights the enduring role of creative practice in cultivating curiosity and self-expression. Together, their work invites viewers to slow down, engage their senses, and consider the elemental forces that shape both the landscapes we inhabit and our own inner lives. Elementals offers a contemplative space where art becomes a bridge between the external environment and personal experience, encouraging visitors to reflect on transformation, resilience, and the enduring connections that bind us to the natural world.",
+      "title": "Gallery Opening: Elements",
+      "venue": {
+        "address": "417 SE 11th Avenue",
+        "city": "Portland",
+        "latitude": 45.519779,
+        "longitude": -122.654919,
+        "name": "Art Design Xchange (ADX)"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19484092@2026-08-07T17:00",
@@ -111343,7 +111374,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-29T21:14:23+00:00",
+  "generated_at": "2026-07-29T22:15:45+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
