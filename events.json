@@ -151,68 +151,6 @@
     },
     {
       "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-07-28T14:00:00-07:00",
-      "id": "pdxparent_markets:farmers-market-at-ohsu@2026-07-28",
-      "is_all_day": false,
-      "listing_url": "https://www.ohsu.edu/farmersmarket/",
-      "organizer": "Farmers Market at OHSU",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-07-28T10:00:00-07:00",
-      "summary": "Tuesdays, 10 am-2 pm, June through September 2026 Wednesday Farmers Markets Courtesy of The People’s Co-op",
-      "title": "Farmers Market at OHSU",
-      "venue": {
-        "address": "courtyard of the OHSU Auditorium",
-        "city": "Portland",
-        "latitude": 45.49971,
-        "longitude": -122.68864,
-        "name": "Farmers Market at OHSU"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-07-28T20:30:00-07:00",
-      "id": "pdxparent_markets:hillsboro-tuesday-marketplace@2026-07-28",
-      "is_all_day": false,
-      "listing_url": "https://www.tuesdaymarketplace.org/",
-      "organizer": "Hillsboro Tuesday Marketplace",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-07-28T17:00:00-07:00",
-      "summary": "Tuesdays, June 9-August 25, 2026, 5-8:30 pm",
-      "title": "Hillsboro Tuesday Marketplace",
-      "venue": {
-        "address": "Main Street between First and Second Avenues, Hillsboro",
-        "city": "Portland",
-        "name": "Hillsboro Tuesday Marketplace"
-      }
-    },
-    {
-      "categories": [
         "literary"
       ],
       "id": "willamette_week:19483972@2026-07-29T00:00",
@@ -174373,5 +174311,5 @@
       }
     }
   ],
-  "generated_at": "2026-07-29T09:21:19+00:00"
+  "generated_at": "2026-07-29T09:31:18+00:00"
 }
