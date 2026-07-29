@@ -20,6 +20,18 @@ struct VenuePin: Identifiable {
 
     var count: Int { events.count }
     var next: Event? { events.first }
+
+    /// The count as it goes on a pin.
+    ///
+    /// Exact to four figures, which covers every total the live feed can
+    /// currently produce — 4,945 events carry a location, so even one pin
+    /// holding all of them still reads exactly. Four figures is also where a
+    /// pin stops being wider than its own tap target, so past that the width
+    /// is worth more than the last three digits. `pinLabel` speaks the exact
+    /// number either way; spoken text has no width to run out of.
+    var countLabel: String {
+        count < 10_000 ? "\(count)" : "\(count / 1_000)k"
+    }
     /// Several venues merged because they were too close to tell apart at this zoom.
     var isMerged: Bool = false
 }
@@ -28,13 +40,15 @@ enum VenueGrouping {
     /// How far apart two pins have to sit on screen before they stop competing
     /// for the same touch.
     ///
-    /// Twice the tap target rather than exactly one. The merge runs on a grid,
-    /// and two venues either side of a cell boundary can be arbitrarily close,
-    /// so a cell the size of the target still leaves targets overlapping — and
-    /// leaves no bare map between the pins for a pinch to start on. Against the
-    /// live feed this is the difference between the pins claiming 84% of a
-    /// phone screen at the default zoom and claiming a third of it.
-    private static let separation = Theme.minimumTapTarget * 2
+    /// One tap target, so a grid cell is never narrower than the thing the user
+    /// is aiming at and two pins can never sit on top of each other. It is not
+    /// a guarantee — two venues either side of a cell boundary can still be
+    /// close — but it is the smallest value with a reason behind it, and the
+    /// reason is now only about aiming. Widening this used to also buy bare map
+    /// for a pinch to start on; pins no longer take gestures, so it does not
+    /// have to pay for that too. Against the live feed, at the default zoom:
+    /// 44pt leaves 112 pins on screen, 66pt leaves 82, 88pt leaves 57.
+    private static let separation = Theme.minimumTapTarget
 
     /// `separation` is a distance on glass and a region is measured in degrees,
     /// so something has to stand in for the height of the map view. A phone in
@@ -229,8 +243,13 @@ struct EventMapView: View {
 
     @State private var position: MapCameraPosition = .region(.portland)
     @State private var visibleRegion: MKCoordinateRegion = .portland
-    @State private var selectedPin: VenuePin?
     @State private var detailEvent: Event?
+
+    /// The selected pin's id, bound straight to the `Map`. Held as an id and not
+    /// as a `VenuePin` because the map is what sets it, and because a pin the
+    /// user zoomed away from should take its card with it rather than leave one
+    /// describing a venue that is no longer on screen.
+    @State private var selection: String?
 
     /// Nil until the first pass has run. Distinguishable from an empty snapshot
     /// on purpose: "nothing matched" and "not worked out yet" want different
@@ -281,7 +300,14 @@ struct EventMapView: View {
                 // longer has any matching events behind it. Watched separately
                 // from `inputs` so a refresh landing underneath does not close
                 // a card the user is reading.
-                selectedPin = nil
+                selection = nil
+            }
+            .onChange(of: selection) { _, id in
+                // A merged pin has no card to show, so selecting one means
+                // "take me closer". The map sets the selection; turning it into
+                // a zoom is the one behaviour the pins used to handle themselves.
+                guard let id, let pin = pins.first(where: { $0.id == id }), pin.isMerged else { return }
+                zoom(into: pin)
             }
             .toolbar(.hidden, for: .navigationBar)
             .navigationDestination(item: $detailEvent) { event in
@@ -294,7 +320,7 @@ struct EventMapView: View {
     private func rebuild(on grid: VenueGrouping.MergeGrid) {
         let fresh = MapSnapshot(store: store)
         snapshot = fresh
-        pins = VenueGrouping.merge(fresh.venues, on: grid)
+        apply(VenueGrouping.merge(fresh.venues, on: grid))
     }
 
     /// Stage two alone — the whole cost of a camera move, and only when the
@@ -302,15 +328,33 @@ struct EventMapView: View {
     /// them if the camera somehow reports in before the first pass.
     private func recluster(on grid: VenueGrouping.MergeGrid) {
         guard let snapshot else { return }
-        pins = VenueGrouping.merge(snapshot.venues, on: grid)
+        apply(VenueGrouping.merge(snapshot.venues, on: grid))
+    }
+
+    /// A selection with no pin behind it any more would sit there waiting to
+    /// reopen its card the next time the same venue came back out of a cluster,
+    /// so it is dropped along with the pin.
+    private func apply(_ merged: [VenuePin]) {
+        pins = merged
+        if let selection, !merged.contains(where: { $0.id == selection }) {
+            self.selection = nil
+        }
+    }
+
+    private var selectedPin: VenuePin? {
+        selection.flatMap { id in pins.first { $0.id == id } }
     }
 
     private func map(hasContent: Bool, settled: MapSnapshot?) -> some View {
-        Map(position: $position) {
+        // The map owns the selection. Tapping a pin sets it, tapping bare map
+        // clears it, and neither costs the pins a gesture of their own — see
+        // `pinView` for why that is the whole fix for pinch-to-zoom.
+        Map(position: $position, selection: $selection) {
             ForEach(pins) { pin in
                 Annotation("", coordinate: pin.coordinate, anchor: .center) {
                     pinView(pin)
                 }
+                .tag(pin.id)
                 // Titles omitted deliberately: a label beside every pin was the
                 // bulk of the clutter, and the card below names the selection.
                 .annotationTitles(.hidden)
@@ -331,7 +375,7 @@ struct EventMapView: View {
                     .transition(.move(edge: .bottom).combined(with: .opacity))
             }
         }
-        .animation(.snappy(duration: 0.25), value: selectedPin?.id)
+        .animation(.snappy(duration: 0.25), value: selection)
         .overlay { statusOverlay(hasContent: hasContent, settled: settled) }
     }
 
@@ -436,64 +480,97 @@ struct EventMapView: View {
 
     // MARK: Pins
 
+    /// Paint only. Nothing here responds to a touch, and that is the point.
+    ///
+    /// A pin used to be a `Button`, which put a gesture on top of the map at
+    /// every pin. A `Button`'s gesture claims the touch sequence the moment a
+    /// finger goes down, so `MKMapView` never assembled a two-finger pinch out
+    /// of a gesture that began on a pin — and with hundreds of pins that is most
+    /// pinches. The map read as unzoomable.
+    ///
+    /// Selection is `Map`'s job instead: each annotation is tagged and the map
+    /// owns the `selection` binding, which is how Apple Maps does it and why a
+    /// pinch that starts on one of its pins still zooms. VoiceOver is served by
+    /// the accessibility modifiers below rather than by a control — they publish
+    /// an activatable element without competing for touches.
     @ViewBuilder
     private func pinView(_ pin: VenuePin) -> some View {
-        let isSelected = selectedPin?.id == pin.id
+        let isSelected = selection == pin.id
         let tint = pin.isMerged ? Theme.evergreen : (pin.next?.primaryCategory.tint ?? Theme.evergreen)
 
-        // A button rather than a tap gesture, so VoiceOver can reach it and
-        // reports it as something to activate.
-        Button {
-            if pin.isMerged {
-                zoom(into: pin)
-            } else {
-                selectedPin = pin
-            }
-        } label: {
-            ZStack(alignment: .topTrailing) {
-                Group {
-                    if pin.isMerged {
-                        Text("\(pin.count)")
-                            .font(.system(size: 13, weight: .bold))
-                    } else {
-                        Image(systemName: pin.next?.primaryCategory.symbol ?? "mappin")
-                            .font(.system(size: 13, weight: .semibold))
-                    }
+        ZStack(alignment: .topTrailing) {
+            Group {
+                if pin.isMerged {
+                    Text(pin.countLabel)
+                        .font(.system(size: 13, weight: .bold))
+                        // Four figures do not fit across 32pt, and wrapped onto a
+                        // second line the count read as two numbers. Fixing the
+                        // size horizontally is what makes the pin widen instead:
+                        // the text keeps its ideal width whatever the pin proposes.
+                        .lineLimit(1)
+                        .fixedSize(horizontal: true, vertical: false)
+                        // Only padded once the label is wide enough to leave the
+                        // circle anyway. Three figures or fewer are sized by the
+                        // 32pt minimum with room to spare, and padding those
+                        // would tip the widest of them into a pill for nothing.
+                        .padding(.horizontal, pin.countLabel.count > 3 ? 6 : 0)
+                } else {
+                    Image(systemName: pin.next?.primaryCategory.symbol ?? "mappin")
+                        .font(.system(size: 13, weight: .semibold))
                 }
-                .foregroundStyle(Theme.onTint)
-                .frame(width: 32, height: 32)
-                .background(tint, in: .circle)
-                .overlay(
-                    Circle().stroke(
-                        Theme.onTint.opacity(isSelected ? 0.95 : 0.4),
-                        lineWidth: isSelected ? 2.5 : 1
-                    )
+            }
+            .foregroundStyle(Theme.onTint)
+            // A capsule 32pt on both sides draws as a circle, so a one- to
+            // three-figure pin looks exactly as it did and only a wide one
+            // becomes a pill. Height is pinned so only the width gives.
+            .frame(minWidth: 32, minHeight: 32, maxHeight: 32)
+            .background(tint, in: .capsule)
+            .overlay(
+                // Follows the shape rather than assuming a circle, or the ring
+                // would cut across a widened pin.
+                Capsule().stroke(
+                    Theme.onTint.opacity(isSelected ? 0.95 : 0.4),
+                    lineWidth: isSelected ? 2.5 : 1
                 )
-                .shadow(color: .black.opacity(0.3), radius: 3, y: 1)
+            )
+            .shadow(color: .black.opacity(0.3), radius: 3, y: 1)
 
-                // A single venue with a run of events shows how many without needing
-                // its own bubble, which keeps one venue reading as one place.
-                if !pin.isMerged, pin.count > 1 {
-                    Text(pin.count > 99 ? "99+" : "\(pin.count)")
-                        .font(.system(size: 10, weight: .bold))
-                        .foregroundStyle(Theme.ink)
-                        .padding(.horizontal, 4)
-                        .frame(minWidth: 16, minHeight: 16)
-                        .background(Theme.surface, in: .capsule)
-                        .offset(x: 6, y: -4)
-                }
+            // A single venue with a run of events shows how many without needing
+            // its own bubble, which keeps one venue reading as one place.
+            if !pin.isMerged, pin.count > 1 {
+                // "99+" rather than the exact count: this badge sits against the
+                // pin's shoulder, so it is the one number here that has to stay
+                // narrow. The card and VoiceOver both give the real figure.
+                Text(pin.count > 99 ? "99+" : "\(pin.count)")
+                    .font(.system(size: 10, weight: .bold))
+                    .foregroundStyle(Theme.ink)
+                    .lineLimit(1)
+                    .fixedSize()
+                    .padding(.horizontal, 4)
+                    .frame(minWidth: 16, minHeight: 16)
+                    .background(Theme.surface, in: .capsule)
+                    .offset(x: 6, y: -4)
             }
-            .scaleEffect(isSelected ? 1.2 : 1)
-            // 32pt of paint, 44pt of target. Sized last so the pin still draws
-            // at its own size and still centres on the coordinate.
-            .frame(width: Theme.minimumTapTarget, height: Theme.minimumTapTarget)
-            .contentShape(.rect)
         }
-        .buttonStyle(MapPinButtonStyle())
+        .scaleEffect(isSelected ? 1.2 : 1)
+        // The badge overhangs to the top trailing corner, so the ZStack alone
+        // does not centre the circle on the venue's coordinate. A square the size
+        // of the tap target, applied last, does — and leaves the map a little
+        // more than the paint to aim selection at. Deliberately without
+        // `.contentShape`: there is no gesture here for a hit shape to serve, and
+        // the less of this view that answers a touch at all, the better.
+        .frame(width: Theme.minimumTapTarget, height: Theme.minimumTapTarget)
         .animation(.snappy(duration: 0.2), value: isSelected)
+        // One element per pin rather than a glyph and a badge read separately.
+        .accessibilityElement(children: .ignore)
         .accessibilityLabel(pinLabel(for: pin))
         .accessibilityHint(pin.isMerged ? "Zooms in to separate these venues" : "Shows what is on here")
+        // The trait and the action together are what a `Button` was here for:
+        // VoiceOver announces the pin as something to activate and activating it
+        // does the same thing a tap does. Neither installs a gesture.
+        .accessibilityAddTraits(.isButton)
         .accessibilityAddTraits(isSelected ? .isSelected : [])
+        .accessibilityAction { select(pin) }
     }
 
     private func pinLabel(for pin: VenuePin) -> String {
@@ -506,9 +583,15 @@ struct EventMapView: View {
         return "\(pin.name), \(events), next \(next.start.relativeDayLabel) at \(next.start.shortTimeLabel)"
     }
 
+    /// Activating a pin under VoiceOver goes through the same binding a tap does,
+    /// so both land in the same place.
+    private func select(_ pin: VenuePin) {
+        selection = pin.id
+    }
+
     /// Drilling into a merged pin is the only way to reach the venues under it.
     private func zoom(into pin: VenuePin) {
-        selectedPin = nil
+        selection = nil
         let span = MKCoordinateSpan(
             latitudeDelta: max(visibleRegion.span.latitudeDelta / 3, 0.0015),
             longitudeDelta: max(visibleRegion.span.longitudeDelta / 3, 0.0015)
@@ -530,12 +613,17 @@ struct EventMapView: View {
 
                 Spacer(minLength: 0)
 
+                // Held to one line so a long venue name truncates instead — a
+                // clipped name is ordinary, "4945 events" folded onto two lines
+                // is the same defect as the pin had.
                 Text(pin.count == 1 ? "1 event" : "\(pin.count) events")
                     .font(.caption)
                     .foregroundStyle(Theme.inkSecondary)
+                    .lineLimit(1)
+                    .fixedSize()
 
                 Button {
-                    selectedPin = nil
+                    selection = nil
                 } label: {
                     Image(systemName: "xmark.circle.fill")
                         .font(.body)
@@ -591,26 +679,17 @@ struct EventMapView: View {
                     .lineLimit(2)
                     .multilineTextAlignment(.leading)
 
+                // The row is a fixed 132pt in a fixed 62pt-tall strip, so a long
+                // day label — "This Saturday · 11:45 PM" — would wrap into space
+                // the strip does not have and be clipped mid-line.
                 Text("\(event.start.relativeDayLabel) · \(event.start.shortTimeLabel)")
                     .font(.caption2)
                     .foregroundStyle(Theme.inkSecondary)
+                    .lineLimit(1)
             }
             .frame(width: 132, alignment: .leading)
         }
         .padding(.trailing, 4)
-    }
-}
-
-/// A press with no feedback of its own.
-///
-/// Pins crowd the busy part of the map, so fingers land on them during pans and
-/// pinches that were never aimed at a pin. The built-in styles dim their label
-/// on touch-down, which turns that into the annotations twinkling. Selection
-/// already announces itself — the pin grows and the card slides up — so the
-/// press has nothing left to say.
-private struct MapPinButtonStyle: ButtonStyle {
-    func makeBody(configuration: Configuration) -> some View {
-        configuration.label
     }
 }
 
