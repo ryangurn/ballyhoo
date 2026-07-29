@@ -46738,6 +46738,37 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-08-08T22:00:00-07:00",
+      "id": "willamette_week:19503604@2026-08-08T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M2cnOE_WuUCcoQLEJ-FEuQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pdxpopnow.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-08T20:00:00-07:00",
+      "summary": "THE THESIS x PDX POP NOW! Portland's premier music showcase has teamed up with PDX POP NOW! for a hip-hop showcase, live at Midtown Beer Garden in Portland, OR with live music from Lambo Lawson, tw0n, Majik9, and Julimar with resident DJ Verbz in the mix.",
+      "title": "THE THESIS x PDX POP NOW!",
+      "venue": {
+        "address": "431 SW Harvey Milk St",
+        "city": "Portland",
+        "latitude": 45.520887,
+        "longitude": -122.676047,
+        "name": "Midtown Beer Garden"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:19484094@2026-08-08T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/99517c82-5426-4b5e-8b96-6de75b652190.large.png",
       "is_all_day": false,
@@ -111312,7 +111343,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-29T19:47:19+00:00",
+  "generated_at": "2026-07-29T21:14:23+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
