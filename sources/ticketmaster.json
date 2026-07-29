@@ -11038,6 +11038,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfaFu7",
+      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/grivo-with-no-floor-herr-dantes-tickets/14248344",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 22.12,
+        "min": 22.12
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-23T20:00:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/grivo-with-no-floor-herr-dantes-tickets/14248344",
+      "title": "GRIVO with No Floor, Herr God, & House of Warmth",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7PIj6",
       "image_url": "https://s1.ticketm.net/dam/a/676/785b4e6d-2feb-4f59-ba70-5c51a1536676_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -20707,7 +20738,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-29T06:43:29+00:00",
+  "generated_at": "2026-07-29T09:48:12+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
