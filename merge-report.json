@@ -425,14 +425,6 @@
       "venue": "Oregon Pro Wrestling School"
     },
     {
-      "dropped": "willamette_week:18005468@2026-07-31T20:00",
-      "kept": "dopdx:16891869",
-      "start_at": "2026-07-31T20:00:00-07:00",
-      "title_dropped": "the Music of Little Miss Sunshine",
-      "title_kept": "DeVotchKa “A Tribute to the Music of Little Miss Sunshine”",
-      "venue": "Revolution Hall"
-    },
-    {
       "dropped": "willamette_week:19332494@2026-07-31T20:00",
       "kept": "dopdx:17451652",
       "start_at": "2026-07-31T20:00:00-07:00",
@@ -447,6 +439,14 @@
       "title_dropped": "Dueling Piano Show",
       "title_kept": "Dueling Piano Show",
       "venue": "Barrel Room Portland"
+    },
+    {
+      "dropped": "willamette_week:18005468@2026-07-31T20:00",
+      "kept": "dopdx:16891869",
+      "start_at": "2026-07-31T20:00:00-07:00",
+      "title_dropped": "the Music of Little Miss Sunshine",
+      "title_kept": "DeVotchKa “A Tribute to the Music of Little Miss Sunshine”",
+      "venue": "Revolution Hall"
     },
     {
       "dropped": "willamette_week:18877572@2026-07-31T20:00",
@@ -4291,7 +4291,7 @@
   ],
   "event_count": 5852,
   "floor_check": "5852 events against a 5867-event baseline",
-  "generated_at": "2026-07-29T08:07:54+00:00",
+  "generated_at": "2026-07-29T08:09:58+00:00",
   "problems": [],
   "sources": [
     "calagator",
