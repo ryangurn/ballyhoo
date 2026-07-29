@@ -56911,6 +56911,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-08T14:30:00-07:00",
+      "id": "willamette_week:19500766@2026-08-08T11:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/992d362b-d25a-4308-834f-ac82f5d57cb5.large.png",
+      "is_all_day": false,
+      "listing_url": "https://northplainsevents.com/mc-events/peak-annual-car-show-2/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-08T11:30:00-07:00",
+      "title": "PEAK Annual Car Show",
+      "venue": {
+        "city": "North Plains",
+        "latitude": 45.59706,
+        "longitude": -122.99344,
+        "name": "North Plains"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-08-08T11:45:00-07:00",
@@ -175558,5 +175585,5 @@
       }
     }
   ],
-  "generated_at": "2026-07-29T19:41:23+00:00"
+  "generated_at": "2026-07-29T19:48:15+00:00"
 }
