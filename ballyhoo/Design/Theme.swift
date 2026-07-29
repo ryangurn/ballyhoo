@@ -16,6 +16,20 @@ enum Theme {
     static let inkSecondary = Color(light: 0x5C6158, dark: 0xA8AEA3)
     static let hairline = Color(light: 0xE4DED4, dark: 0x33382F)
 
+    /// Foreground for content sitting on top of a filled tint — a selected chip,
+    /// a map pin glyph.
+    ///
+    /// Every tint in this palette is deliberately dark in light mode and a light
+    /// pastel in dark mode, so a fixed white foreground only works for half of
+    /// them: white on the dark-mode `evergreen` measures 1.73:1. Flipping the
+    /// foreground alongside the tint keeps the pairing legible in both.
+    static let onTint = Color(light: 0xFFFFFF, dark: 0x121311)
+
+    /// The smallest a control may be and still be reliably tappable, per the
+    /// Human Interface Guidelines. Applies to the touch area, not the paint —
+    /// a control may draw smaller so long as it claims this much.
+    static let minimumTapTarget: CGFloat = 44
+
     enum Radius {
         static let card: CGFloat = 20
         static let chip: CGFloat = 12

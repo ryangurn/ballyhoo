@@ -61,7 +61,7 @@ final class EventStore {
     }
 
     var filteredEvents: [Event] {
-        let query = searchText.trimmingCharacters(in: .whitespacesAndNewlines).lowercased()
+        let query = trimmedSearchText.lowercased()
 
         return upcomingEvents.filter { event in
             if freeOnly, !event.price.isFree { return false }
@@ -127,10 +127,34 @@ final class EventStore {
         !selectedCategories.isEmpty || freeOnly || dateWindow != .upcoming
     }
 
+    var trimmedSearchText: String {
+        searchText.trimmingCharacters(in: .whitespacesAndNewlines)
+    }
+
+    /// Whether anything at all is narrowing `filteredEvents`, the search field
+    /// included.
+    ///
+    /// `hasActiveFilters` leaves the query out on purpose: Discover renders the
+    /// search field directly above its results, so a query there is already
+    /// visible and does not need announcing. The map has no search field of its
+    /// own but reads the same `filteredEvents`, so a query typed on Discover
+    /// removes pins with nothing on screen to explain it. Anywhere that has to
+    /// account for every reason the results shrank wants this instead.
+    var hasActiveRefinements: Bool {
+        hasActiveFilters || !trimmedSearchText.isEmpty
+    }
+
     func clearFilters() {
         selectedCategories = []
         freeOnly = false
         dateWindow = .upcoming
+    }
+
+    /// `clearFilters()` plus the search query — the counterpart to
+    /// `hasActiveRefinements`, for callers offering to undo everything at once.
+    func clearRefinements() {
+        clearFilters()
+        searchText = ""
     }
 
     func toggle(_ category: Category) {

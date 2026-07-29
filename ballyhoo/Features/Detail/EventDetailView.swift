@@ -121,7 +121,7 @@ struct EventDetailView: View {
                 .font(.subheadline.weight(.semibold))
                 .frame(maxWidth: .infinity)
                 .padding(.vertical, 12)
-                .foregroundStyle(.white)
+                .foregroundStyle(Theme.onTint)
                 .background(Theme.evergreen, in: .rect(cornerRadius: 13))
         }
         .padding(.horizontal, 16)

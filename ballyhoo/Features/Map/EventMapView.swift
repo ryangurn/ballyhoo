@@ -24,16 +24,23 @@ enum VenueGrouping {
     /// overlap on screen, so they merge until the user zooms in.
     private static let mergeThreshold = 0.045
 
+    /// Position rounded to about a metre, keyed on rather than name so two
+    /// spellings of one address still land on a single pin.
+    ///
+    /// `nonisolated` because it is a pure function of its argument, and callers
+    /// pass it by reference into `compactMap` — which would otherwise mean
+    /// converting a main-actor function to an unisolated one.
+    nonisolated static func venueKey(for venue: Venue) -> String? {
+        guard let latitude = venue.latitude, let longitude = venue.longitude else { return nil }
+        return String(format: "%.5f,%.5f", latitude, longitude)
+    }
+
     static func pins(for events: [Event], in region: MKCoordinateRegion) -> [VenuePin] {
         // Stage one: collapse to venues. This is the bulk of the reduction.
         var byVenue: [String: [Event]] = [:]
         for event in events {
-            guard let venue = event.venue,
-                  let latitude = venue.latitude,
-                  let longitude = venue.longitude else { continue }
-            // Key on position rather than name so two spellings of one address
-            // still land on a single pin.
-            byVenue[String(format: "%.5f,%.5f", latitude, longitude), default: []].append(event)
+            guard let venue = event.venue, let key = venueKey(for: venue) else { continue }
+            byVenue[key, default: []].append(event)
         }
 
         let venues: [VenuePin] = byVenue.compactMap { key, grouped in
@@ -79,6 +86,63 @@ enum VenueGrouping {
     }
 }
 
+/// What the store's filters are set to, as one comparable value.
+///
+/// The map keeps a selected pin, and a filter change can take the events out
+/// from under it. Watching the filters as a whole is cheaper than diffing the
+/// pins on every pass.
+private struct FilterSignature: Equatable {
+    let categories: Set<Category>
+    let dateWindow: DateWindow
+    let freeOnly: Bool
+    let search: String
+
+    init(_ store: EventStore) {
+        categories = store.selectedCategories
+        dateWindow = store.dateWindow
+        freeOnly = store.freeOnly
+        search = store.trimmedSearchText
+    }
+}
+
+/// One walk over the store's collections, shared by the map, the filter bar and
+/// the status overlay.
+///
+/// Each of these reads is a filter over the whole feed — about 6,000 events —
+/// and SwiftUI re-evaluates computed properties every time they are touched.
+/// Gathering them once per pass through `body` keeps that to a single traversal
+/// instead of one per consumer.
+private struct MapSnapshot {
+    let events: [Event]
+    let pins: [VenuePin]
+    /// Distinct venues, counted before the zoom-dependent merge so the number
+    /// does not change as the user pinches.
+    let venueCount: Int
+    /// Upcoming events with a location, before filters — the denominator.
+    let mappableTotal: Int
+    let state: LoadState
+    /// Whether a feed has arrived at all, which is a different question from
+    /// whether the current filters match anything in it.
+    let hasContent: Bool
+    let filters: FilterSignature
+
+    init(store: EventStore, region: MKCoordinateRegion) {
+        let mappable = store.filteredEvents.filter { $0.venue?.hasCoordinate == true }
+        events = mappable
+        pins = VenueGrouping.pins(for: mappable, in: region)
+        venueCount = Set(mappable.compactMap { $0.venue.flatMap(VenueGrouping.venueKey) }).count
+        // `upcomingEvents` would say this more plainly, but it materialises a
+        // second ~6,000-element array on a path that already built one for
+        // `filteredEvents`. Same predicate, counted lazily off the source.
+        mappableTotal = store.allEvents.lazy
+            .filter { !$0.isPast && $0.venue?.hasCoordinate == true }
+            .count
+        state = store.state
+        hasContent = !store.allEvents.isEmpty
+        filters = FilterSignature(store)
+    }
+}
+
 struct EventMapView: View {
     @Environment(EventStore.self) private var store
 
@@ -87,57 +151,167 @@ struct EventMapView: View {
     @State private var selectedPin: VenuePin?
     @State private var detailEvent: Event?
 
-    private var mappableEvents: [Event] {
-        store.filteredEvents.filter { $0.venue?.hasCoordinate == true }
-    }
-
-    private var pins: [VenuePin] {
-        VenueGrouping.pins(for: mappableEvents, in: visibleRegion)
-    }
-
     var body: some View {
+        let snapshot = MapSnapshot(store: store, region: visibleRegion)
+
         NavigationStack {
-            Map(position: $position) {
-                ForEach(pins) { pin in
-                    Annotation("", coordinate: pin.coordinate, anchor: .center) {
-                        pinView(pin)
-                    }
-                    // Titles omitted deliberately: a label beside every pin was the
-                    // bulk of the clutter, and the card below names the selection.
-                    .annotationTitles(.hidden)
+            // A stack rather than a `safeAreaInset`: the map deliberately bleeds
+            // under the status bar, and both `safeAreaInset` and `overlay` place
+            // their content against the edge the map has already claimed, which
+            // would put the bar under the Dynamic Island. As siblings, the map
+            // can ignore the top safe area while the bar keeps it.
+            ZStack(alignment: .top) {
+                map(snapshot)
+
+                // Nothing to filter until a feed arrives, and the loading and
+                // failure states own the screen until one does.
+                if snapshot.hasContent {
+                    MapFilterBar(
+                        matchedEvents: snapshot.events.count,
+                        matchedVenues: snapshot.venueCount,
+                        mappableTotal: snapshot.mappableTotal
+                    )
                 }
             }
-            .mapStyle(.standard(pointsOfInterest: .excludingAll))
-            // Regrouped at the end of a gesture rather than continuously;
-            // reclustering every frame of a pinch is wasted work.
-            .onMapCameraChange(frequency: .onEnd) { context in
-                visibleRegion = context.region
+            .onChange(of: snapshot.filters) {
+                // The open card would otherwise keep describing a venue that no
+                // longer has any matching events behind it.
+                selectedPin = nil
             }
-            .ignoresSafeArea(edges: .top)
-            .safeAreaInset(edge: .bottom) {
-                if let pin = selectedPin {
-                    venueCard(pin)
-                        .padding(.horizontal, 16)
-                        .padding(.bottom, 8)
-                        .transition(.move(edge: .bottom).combined(with: .opacity))
-                }
-            }
-            .animation(.snappy(duration: 0.25), value: selectedPin?.id)
             .toolbar(.hidden, for: .navigationBar)
             .navigationDestination(item: $detailEvent) { event in
                 EventDetailView(event: event)
             }
-            .overlay {
-                if mappableEvents.isEmpty, store.state == .loaded {
-                    ContentUnavailableView(
-                        "Nothing to map",
-                        systemImage: "mappin.slash",
-                        description: Text("No events match your filters, or they have no location yet.")
-                    )
-                    .background(.regularMaterial)
+        }
+    }
+
+    private func map(_ snapshot: MapSnapshot) -> some View {
+        Map(position: $position) {
+            ForEach(snapshot.pins) { pin in
+                Annotation("", coordinate: pin.coordinate, anchor: .center) {
+                    pinView(pin)
                 }
+                // Titles omitted deliberately: a label beside every pin was the
+                // bulk of the clutter, and the card below names the selection.
+                .annotationTitles(.hidden)
             }
         }
+        .mapStyle(.standard(pointsOfInterest: .excludingAll))
+        // Regrouped at the end of a gesture rather than continuously;
+        // reclustering every frame of a pinch is wasted work.
+        .onMapCameraChange(frequency: .onEnd) { context in
+            visibleRegion = context.region
+        }
+        .ignoresSafeArea(edges: .top)
+        .safeAreaInset(edge: .bottom) {
+            if let pin = selectedPin {
+                venueCard(pin)
+                    .padding(.horizontal, 16)
+                    .padding(.bottom, 8)
+                    .transition(.move(edge: .bottom).combined(with: .opacity))
+            }
+        }
+        .animation(.snappy(duration: 0.25), value: selectedPin?.id)
+        .overlay { statusOverlay(snapshot) }
+    }
+
+    // MARK: States
+
+    @ViewBuilder
+    private func statusOverlay(_ snapshot: MapSnapshot) -> some View {
+        if !snapshot.hasContent {
+            // Gated on whether there is anything to draw rather than on `state`
+            // alone, so a refresh that fails on top of an already-loaded feed
+            // leaves the pins where they are instead of blanking the map.
+            switch snapshot.state {
+            case .idle, .loading:
+                loadingState
+            case .failed(let message):
+                failureState(message)
+            case .loaded:
+                emptyFeedState
+            }
+        } else if snapshot.events.isEmpty {
+            noMatchesState
+        }
+    }
+
+    private var loadingState: some View {
+        VStack(spacing: 14) {
+            ProgressView()
+                .controlSize(.large)
+            Text("Loading Portland events…")
+                .font(.subheadline)
+                .foregroundStyle(Theme.inkSecondary)
+        }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .background(.regularMaterial)
+        .accessibilityElement(children: .combine)
+        .accessibilityLabel("Loading events")
+    }
+
+    private func failureState(_ message: String) -> some View {
+        ContentUnavailableView {
+            Label("Couldn't load events", systemImage: "wifi.exclamationmark")
+        } description: {
+            Text(message)
+        } actions: {
+            retryButton("Try again")
+        }
+        .background(.regularMaterial)
+    }
+
+    private var emptyFeedState: some View {
+        ContentUnavailableView {
+            Label("No events yet", systemImage: "calendar.badge.exclamationmark")
+        } description: {
+            Text("The feed loaded, but had nothing upcoming in it.")
+        } actions: {
+            retryButton("Check again")
+        }
+        .background(.regularMaterial)
+    }
+
+    private var noMatchesState: some View {
+        ContentUnavailableView {
+            Label("Nothing to map", systemImage: "mappin.slash")
+        } description: {
+            Text(
+                store.hasActiveRefinements
+                    ? "No events match your filters, or the ones that do have no location yet."
+                    : "None of the upcoming events have a location yet."
+            )
+        } actions: {
+            if store.hasActiveRefinements {
+                Button {
+                    store.clearRefinements()
+                } label: {
+                    tintedButtonLabel("Clear filters")
+                }
+                .buttonStyle(.borderedProminent)
+                .tint(Theme.evergreen)
+            }
+        }
+        .background(.regularMaterial)
+    }
+
+    private func retryButton(_ title: String) -> some View {
+        Button {
+            Task { await store.load(revalidate: true) }
+        } label: {
+            tintedButtonLabel(title)
+        }
+        .buttonStyle(.borderedProminent)
+        .tint(Theme.evergreen)
+    }
+
+    /// `.borderedProminent` draws a white label over the tint, and the tint is a
+    /// pale green in dark mode. Setting the label colour explicitly keeps it
+    /// readable in both appearances.
+    private func tintedButtonLabel(_ title: String) -> some View {
+        Text(title)
+            .fontWeight(.semibold)
+            .foregroundStyle(Theme.onTint)
     }
 
     // MARK: Pins
@@ -147,43 +321,69 @@ struct EventMapView: View {
         let isSelected = selectedPin?.id == pin.id
         let tint = pin.isMerged ? Theme.evergreen : (pin.next?.primaryCategory.tint ?? Theme.evergreen)
 
-        ZStack(alignment: .topTrailing) {
-            Group {
-                if pin.isMerged {
-                    Text("\(pin.count)")
-                        .font(.system(size: 13, weight: .bold))
-                } else {
-                    Image(systemName: pin.next?.primaryCategory.symbol ?? "mappin")
-                        .font(.system(size: 13, weight: .semibold))
-                }
-            }
-            .foregroundStyle(.white)
-            .frame(width: 32, height: 32)
-            .background(tint, in: .circle)
-            .overlay(Circle().stroke(.white.opacity(isSelected ? 0.95 : 0.4), lineWidth: isSelected ? 2.5 : 1))
-            .shadow(color: .black.opacity(0.3), radius: 3, y: 1)
-
-            // A single venue with a run of events shows how many without needing
-            // its own bubble, which keeps one venue reading as one place.
-            if !pin.isMerged, pin.count > 1 {
-                Text(pin.count > 99 ? "99+" : "\(pin.count)")
-                    .font(.system(size: 10, weight: .bold))
-                    .foregroundStyle(Theme.ink)
-                    .padding(.horizontal, 4)
-                    .frame(minWidth: 16, minHeight: 16)
-                    .background(.white, in: .capsule)
-                    .offset(x: 6, y: -4)
-            }
-        }
-        .scaleEffect(isSelected ? 1.2 : 1)
-        .animation(.snappy(duration: 0.2), value: isSelected)
-        .onTapGesture {
+        // A button rather than a tap gesture, so VoiceOver can reach it and
+        // reports it as something to activate.
+        Button {
             if pin.isMerged {
                 zoom(into: pin)
             } else {
                 selectedPin = pin
             }
+        } label: {
+            ZStack(alignment: .topTrailing) {
+                Group {
+                    if pin.isMerged {
+                        Text("\(pin.count)")
+                            .font(.system(size: 13, weight: .bold))
+                    } else {
+                        Image(systemName: pin.next?.primaryCategory.symbol ?? "mappin")
+                            .font(.system(size: 13, weight: .semibold))
+                    }
+                }
+                .foregroundStyle(Theme.onTint)
+                .frame(width: 32, height: 32)
+                .background(tint, in: .circle)
+                .overlay(
+                    Circle().stroke(
+                        Theme.onTint.opacity(isSelected ? 0.95 : 0.4),
+                        lineWidth: isSelected ? 2.5 : 1
+                    )
+                )
+                .shadow(color: .black.opacity(0.3), radius: 3, y: 1)
+
+                // A single venue with a run of events shows how many without needing
+                // its own bubble, which keeps one venue reading as one place.
+                if !pin.isMerged, pin.count > 1 {
+                    Text(pin.count > 99 ? "99+" : "\(pin.count)")
+                        .font(.system(size: 10, weight: .bold))
+                        .foregroundStyle(Theme.ink)
+                        .padding(.horizontal, 4)
+                        .frame(minWidth: 16, minHeight: 16)
+                        .background(Theme.surface, in: .capsule)
+                        .offset(x: 6, y: -4)
+                }
+            }
+            .scaleEffect(isSelected ? 1.2 : 1)
+            // 32pt of paint, 44pt of target. Sized last so the pin still draws
+            // at its own size and still centres on the coordinate.
+            .frame(width: Theme.minimumTapTarget, height: Theme.minimumTapTarget)
+            .contentShape(.rect)
         }
+        .buttonStyle(.plain)
+        .animation(.snappy(duration: 0.2), value: isSelected)
+        .accessibilityLabel(pinLabel(for: pin))
+        .accessibilityHint(pin.isMerged ? "Zooms in to separate these venues" : "Shows what is on here")
+        .accessibilityAddTraits(isSelected ? .isSelected : [])
+    }
+
+    private func pinLabel(for pin: VenuePin) -> String {
+        let events = pin.count == 1 ? "1 event" : "\(pin.count) events"
+
+        guard !pin.isMerged, let next = pin.next else {
+            // `name` is already "N venues" for a merged pin.
+            return "\(pin.name), \(events)"
+        }
+        return "\(pin.name), \(events), next \(next.start.relativeDayLabel) at \(next.start.shortTimeLabel)"
     }
 
     /// Drilling into a merged pin is the only way to reach the venues under it.
@@ -220,8 +420,15 @@ struct EventMapView: View {
                     Image(systemName: "xmark.circle.fill")
                         .font(.body)
                         .foregroundStyle(Theme.inkSecondary)
+                        .frame(width: Theme.minimumTapTarget, height: Theme.minimumTapTarget)
+                        .contentShape(.rect)
                 }
                 .buttonStyle(.plain)
+                // The touch area is 44pt; the row it sits in is not. Letting the
+                // label overhang into the card's padding buys the target without
+                // making the card taller.
+                .frame(width: 24, height: 22)
+                .accessibilityLabel("Close venue details")
             }
 
             // A busy venue can hold dozens of events, so they scroll rather than

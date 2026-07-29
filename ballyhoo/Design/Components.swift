@@ -137,7 +137,7 @@ struct FilterChip: View {
             }
             .padding(.horizontal, 13)
             .padding(.vertical, 8)
-            .foregroundStyle(isSelected ? .white : Theme.ink)
+            .foregroundStyle(isSelected ? Theme.onTint : Theme.ink)
             .background(
                 isSelected ? tint : Theme.surface,
                 in: .rect(cornerRadius: Theme.Radius.chip)
@@ -146,8 +146,15 @@ struct FilterChip: View {
                 RoundedRectangle(cornerRadius: Theme.Radius.chip)
                     .stroke(isSelected ? .clear : Theme.hairline, lineWidth: 1)
             )
+            // The drawn pill is about 36pt tall, under the 44pt minimum target.
+            // Growing the frame *after* the background leaves the pill its own
+            // size and pads the touch area out around it, so the chips look
+            // unchanged and the rows housing them get 8pt taller.
+            .frame(minHeight: Theme.minimumTapTarget)
+            .contentShape(.rect)
         }
         .buttonStyle(.plain)
+        .accessibilityAddTraits(isSelected ? .isSelected : [])
     }
 }
 
