@@ -3216,6 +3216,35 @@
         "music"
       ],
       "end_at": "2026-08-01T02:00:00-07:00",
+      "id": "dopdx:17451652",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1780703141/event-17451652.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/7/31/dueling-piano-show-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-07-31T20:00:00-07:00",
+      "summary": "ATTENTION PLEASE Buying tickets separately? Indicate in \"Customer Notes\" to sit together. Thanks! VIP Tickets include a front row seat, and are the only guests with table service. Doors open one hour before showtime. Online ticket sales end two hours before showtime, after that please call 503-242-0700 for availability. *************************************************************************************************************** Dueling Pianos: A Musical Party of All-Request Fun! Join us for an unforgettable evening filled with laughter, music, and interactive excitement as our talented dueling pianists hit the keys and bring your favorite songs to life. It's an all-request show like no other, where we fly in top-notch performers from",
+      "title": "Dueling Piano Show",
+      "venue": {
+        "address": "120 NW Couch",
+        "city": "Portland",
+        "name": "Barrel Room Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-01T02:00:00-07:00",
       "id": "dopdx:16891869",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1769707078/event-16891869.jpg",
       "is_all_day": false,
@@ -3241,35 +3270,6 @@
         "latitude": 45.5189728,
         "longitude": -122.6520951,
         "name": "Revolution Hall"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-01T02:00:00-07:00",
-      "id": "dopdx:17451652",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1780703141/event-17451652.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/7/31/dueling-piano-show-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 1.0,
-        "min": 1.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-07-31T20:00:00-07:00",
-      "summary": "ATTENTION PLEASE Buying tickets separately? Indicate in \"Customer Notes\" to sit together. Thanks! VIP Tickets include a front row seat, and are the only guests with table service. Doors open one hour before showtime. Online ticket sales end two hours before showtime, after that please call 503-242-0700 for availability. *************************************************************************************************************** Dueling Pianos: A Musical Party of All-Request Fun! Join us for an unforgettable evening filled with laughter, music, and interactive excitement as our talented dueling pianists hit the keys and bring your favorite songs to life. It's an all-request show like no other, where we fly in top-notch performers from",
-      "title": "Dueling Piano Show",
-      "venue": {
-        "address": "120 NW Couch",
-        "city": "Portland",
-        "name": "Barrel Room Portland"
       }
     },
     {
@@ -32975,7 +32975,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-29T04:51:09+00:00",
+  "generated_at": "2026-07-29T08:07:54+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
