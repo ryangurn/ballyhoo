@@ -2394,35 +2394,6 @@
       "categories": [
         "arts"
       ],
-      "end_at": "2026-07-29T21:30:00-07:00",
-      "id": "willamette_week:18904438@2026-07-29T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d0b4344b-0d95-406c-946a-bad7573f2811.large.PNG",
-      "is_all_day": false,
-      "listing_url": "https://www.21ten.org/take-a-class",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-07-29T18:30:00-07:00",
-      "summary": "https://www.21ten.org/take-a-class",
-      "title": "On Camera II with Ted Rooney",
-      "venue": {
-        "address": "21ten Theatre, 2110 SE 10th Ave",
-        "city": "Portland",
-        "latitude": 45.507608,
-        "longitude": -122.655396,
-        "name": "Portland"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
       "end_at": "2026-07-29T22:00:00-07:00",
       "id": "willamette_week:19108221@2026-07-29T18:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/USIlMFFFVkSHDA0GuldRnA.large.png",
@@ -10886,6 +10857,33 @@
         "latitude": 45.490884,
         "longitude": -122.807034,
         "name": "Beaverton Area Chamber of Commerce"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-07-31T19:00:00-07:00",
+      "id": "willamette_week:19495541@2026-07-31T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/54c1dad8-7144-4479-9dca-888006c66c61.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-07-31T18:00:00-07:00",
+      "title": "Primo Acevedo-Lozano Charcoal Works Gala",
+      "venue": {
+        "address": "21ten Theatre, 2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507608,
+        "longitude": -122.655396,
+        "name": "Portland"
       }
     },
     {
@@ -23786,6 +23784,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-08-03T17:00:00-07:00",
+      "id": "willamette_week:16313814@2026-08-03T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b48c768e-5ab9-4073-8726-93f498d70930.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-03T16:00:00-07:00",
+      "summary": "Get ready to learn some engineering skills through LEGO play! E ach week we will have different challenges for you to work on. ¡Prepárate para aprender algunas habilidades de ingeniería a través del juego con LEGO! Cada semana tendremos diferentes retos para que trabajes. http s://or-cornelius.civicplus.com/calendar.aspx?EID=2098",
+      "title": "Legopalooza",
+      "venue": {
+        "address": "1370 N Adair St",
+        "city": "Cornelius",
+        "latitude": 45.521109,
+        "longitude": -123.055072,
+        "name": "Drake Learning Center"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-08-03T17:30:00-07:00",
@@ -23840,34 +23866,6 @@
         "latitude": 45.5624530442023,
         "longitude": -122.67152133558135,
         "name": "North Portland Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-08-03T17:00:00-07:00",
-      "id": "willamette_week:16313814@2026-08-03T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b48c768e-5ab9-4073-8726-93f498d70930.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-03T16:00:00-07:00",
-      "summary": "Get ready to learn some engineering skills through LEGO play! E ach week we will have different challenges for you to work on. ¡Prepárate para aprender algunas habilidades de ingeniería a través del juego con LEGO! Cada semana tendremos diferentes retos para que trabajes. http s://or-cornelius.civicplus.com/calendar.aspx?EID=2098",
-      "title": "Legopalooza",
-      "venue": {
-        "address": "1370 N Adair St",
-        "city": "Cornelius",
-        "latitude": 45.521109,
-        "longitude": -123.055072,
-        "name": "Drake Learning Center"
       }
     },
     {
@@ -24133,6 +24131,34 @@
         "latitude": 45.794119,
         "longitude": -122.7118,
         "name": "Ridgefield Outdoor Recreation Complex"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:19495556@2026-08-03T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/95BAGwrPvE66be77GwoSCg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1391996032821041/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-03T19:00:00-07:00",
+      "summary": "From a Pulitzer Prize-winning investigative journalist and a former White House senior advisor comes On Courage \\(Mariner Books\\), a deeply reported manual about how anyone can defy an authoritarian — based on original interviews with more than 100 dissidents, activists, and theorists across the world. The United States is only the latest country to face a leader who wields fear as a weapon, punishes political enemies, disappears people off the street, and undermines free and fair elections. Today nearly three out of four people on earth live under authoritarianism, the highest rate since the late 1970s. But even under repressive conditions, each of us holds the power to help defeat autocrats. Based on their acclaimed The New Yorker essay “So You Want to Be a Dissident?,” veteran reporter Julia Angwin and political strategist Ami Fields-Meyer give us a captivating — and profoundly hopeful — guide to courage in an age of fear. Meet a student from Hong Kong who risked everything for democracy. A mom in a working-class neighborhood of Caracas who broke with the political movement that raised her. Cairo twentysomethings who staged a gutsy stunt to help bring down a dictator. A mild-mannered immigrant fighting to save a landmark U.S. civil rights law. People throughout the United States and across five continents who faced serious risks for dissenting in their workplace, their community, or their country. On Courage is the story of how they did it anyway — and how you can do it, too. Blending rich, previously untold narratives with history, spirituality, and movement research, Angwin and Fields-Meyer deliver a highly accessible book full of practical lessons — an inspiring resource for anyone, anywhere, who feel the walls of history closing in on them. On Courage is a roadmap to political courage and a powerful case for how taking personal risks can help save the free world. Buy the book: https://www.powells.com/events/julia-angwin-ami-fields-meyer-9780063491946",
+      "title": "Powell's Presents: Julia Angwin & Ami Fields-Meyer",
+      "venue": {
+        "address": "1005 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.5231895447,
+        "longitude": -122.6814193726,
+        "name": "Powell's City of Books"
       }
     },
     {
@@ -27421,6 +27447,34 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19495557@2026-08-04T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mqZH8A6gYE6HUJXoju79NQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1354178756782369/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-04T19:00:00-07:00",
+      "summary": "Someone new is about to join Mr. Wolf's class! Mr. Wolf's class is welcoming Zora to her first day at Hazelwood Elementary. As the new kid, she wants to make a good first impression, but when her introduction goes a little too well, not everyone is happy for her. Randy is used to being the one who can make everyone laugh, and she's not sure how to feel about sharing that spotlight with somebody else. When the competition becomes heated and feelings get hurt, Zora and Randy will have to figure out how to get along in the same class! The New Student \\(Graphix\\) is the sixth book in Eisner Award-winning illustrator Aron Nels Steinke’s bestselling Mr. Wolf’s Class graphic novel series. Buy the book: https://www.powells.com/events/aron-nels-steinke-9781546175711",
+      "title": "Powell's Presents: Aron Nels Steinke",
+      "venue": {
+        "address": "3415 SW Cedar Hills Blvd.",
+        "city": "Beaverton",
+        "latitude": 45.4950010031,
+        "longitude": -122.8097496182,
+        "name": "Powell's Books at Cedar Hills Crossing"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-04T21:00:00-07:00",
@@ -30333,35 +30387,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "end_at": "2026-08-05T21:30:00-07:00",
-      "id": "willamette_week:18904438@2026-08-05T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d0b4344b-0d95-406c-946a-bad7573f2811.large.PNG",
-      "is_all_day": false,
-      "listing_url": "https://www.21ten.org/take-a-class",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-05T18:30:00-07:00",
-      "summary": "https://www.21ten.org/take-a-class",
-      "title": "On Camera II with Ted Rooney",
-      "venue": {
-        "address": "21ten Theatre, 2110 SE 10th Ave",
-        "city": "Portland",
-        "latitude": 45.507608,
-        "longitude": -122.655396,
-        "name": "Portland"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "id": "willamette_week:18683382@2026-08-05T18:30",
@@ -30444,6 +30469,34 @@
         "latitude": 45.794119,
         "longitude": -122.7118,
         "name": "Ridgefield Outdoor Recreation Complex"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "id": "willamette_week:19495558@2026-08-05T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cyGY2nj77UqAx-IAoMrHng.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1369352335343030/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-05T19:00:00-07:00",
+      "summary": "Based on a true story, an exquisitely rendered, singular graphic novel about a life-changing friendship between a seventeen-year-old girl and the dying stranger who moves into her family's home. It's the spring of 1985. Emil Wilson's father, Donald, invites his coworker Jim and his two Pomeranians, Henny and Penny, to move into his family's home. What he doesn't tell his wife, Annemarie, or his daughter, Lou, is that Jim has AIDS. Months before Rock Hudson's diagnosis shocked the public and ushered in a new era of awareness for the crisis, AIDS is a news story that happens in faraway places to faraway people, and Jim's presence in the house turns this small-town Oregon family upside down. As Annemarie's fear and resentment grows, resulting in increasingly bitter fights with the gentle and stubborn Donald, so too does Lou's unlikely friendship with Jim \\(and Henny and Penny\\) — a friendship that not only buoys Jim through the most difficult parts of his illness, but is a catalyst for Lou to finally pursue her truest and bravest self in the bigger world. The Nightingales \\(Avid Reader Press\\) is an unforgettable portrait of an imperfect family grappling with extraordinary circumstances, and a powerful example of how confronting the unknown with curiosity and compassion is the first step to building a better world. Wilson will be joined in conversation by Genevieve Hudson, author of Boys of Alabama. Buy the book: https://www.powells.com/events/emil-wilson-9781668217771",
+      "title": "Powell's Presents: Emil Wilson in Conversation With Genevieve Hudson",
+      "venue": {
+        "address": "1005 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.5231895447,
+        "longitude": -122.6814193726,
+        "name": "Powell's City of Books"
       }
     },
     {
@@ -34799,6 +34852,34 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19495559@2026-08-06T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4JTV6Ty58EO50pLipXFiwA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1694806448417166/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-06T19:00:00-07:00",
+      "summary": "In Allison Saft's enthralling new romantic fantasy, a chess grandmaster will go to any length to save the person she loves the most. Six years ago, Shea Fury's sister was whisked away by the High King of the Otherworld, the ruler of the treacherous land of fae. Although Shea has spent the years since dreaming of rescuing her sister from captivity, the Iron Veil that separates the human world from that of the fae has made it only a wish. That is, until an invitation to participate in a once-in-a-lifetime chess tournament in the Otherworld arrives on Shea's doorstep. The winner of the tournament may ask the High King to grant one wish, and Shea is finally within reach of hers. But entering the tournament and winning it are two different matters. Dark magic lurks around every corner in the Otherworld, and Shea's cutthroat opponents are willing to bend the rules to make their own wishes come true. To make it to the end — and to find her sister — she is forced to strike an alliance with her longtime rival, the sharply beautiful fae princess, Ciara of Bri Leith. One wrong move, though, and Shea could lose more than just the competition: she'd lose her sister, her dignity, and maybe even her life. In Immortal Game \\(Wednesday Books\\), Saft has written a high-stakes sapphic love story brimming with competitive tension set against a lush, Irish folklore-inspired fantasy world. Saft will be joined in conversation by Courtney Gould, author of What the Woods Took. Buy the book: https://www.powells.com/events/allison-saft-9781250404763",
+      "title": "Powell's Presents: Allison Saft in Conversation With Courtney Gould",
+      "venue": {
+        "address": "3415 SW Cedar Hills Blvd.",
+        "city": "Beaverton",
+        "latitude": 45.4950010031,
+        "longitude": -122.8097496182,
+        "name": "Powell's Books at Cedar Hills Crossing"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-07T00:00:00-07:00",
@@ -35666,6 +35747,34 @@
         "latitude": 45.523763,
         "longitude": -122.672724,
         "name": "Spyce Gentlemen's Club"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19495586@2026-08-06T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5n3RQNRypk29GjaUg_hpQQ.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fbeggars-canyon-with-arthur-buezo-dantes-tickets%252F14274534%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-06T21:00:00-07:00",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fbeggars-canyon-with-arthur-buezo-dantes-tickets%252F14274534%26utm_medium%3daffiliate",
+      "title": "BEGGARS CANYON with Arthur Buezo & it&i",
+      "venue": {
+        "address": "350 West Burnside",
+        "city": "Portland",
+        "latitude": 45.5230448395,
+        "longitude": -122.6738762856,
+        "name": "Dante's"
       }
     },
     {
@@ -48056,6 +48165,36 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-08-09T18:00:00-07:00",
+      "id": "willamette_week:19495550@2026-08-09T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FP-2eQ7AwkqihD2CDAKVjQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2265967947567978/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-09T09:00:00-07:00",
+      "summary": "Get ready for a full day of fun at the 5v5 Soccer Madness Tournament, happening during the Annual Latino Cultural Festival! It’s a great event for the whole family—enjoy delicious food, live performances, and helpful resources all around the awesome Hillsboro Ballpark. Come play or just soak up the festival vibes! The tournament is open to both youth and adult teams, and every team is guaranteed at least 3 games. Spots are limited, so register now to secure your place! Register your team here: hillsborofutsal.com/tournaments Tournament Details: Deadline to register: July 20, 2026 Divisions: Youth U8–U14, High School, Men’s, and Coed Team size: 5–10 players Games: Minimum of 3 games, with finals for the top teams Time: Between 9:00am – 6:00pm \\(exact times will depend on age group\\) Don’t miss out—grab your spot and join the fun!",
+      "ticket_url": "https://hillsborofutsal.com/tournaments/",
+      "title": "5v5 Soccer Madness Tournament",
+      "venue": {
+        "address": "4460 NE Century Blvd.",
+        "city": "Hillsboro",
+        "latitude": 45.554361,
+        "longitude": -122.908434,
+        "name": "Hillsboro Ballpark"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-08-09T17:30:00-07:00",
@@ -53135,6 +53274,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-08-10T17:00:00-07:00",
+      "id": "willamette_week:16313814@2026-08-10T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b48c768e-5ab9-4073-8726-93f498d70930.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-10T16:00:00-07:00",
+      "summary": "Get ready to learn some engineering skills through LEGO play! E ach week we will have different challenges for you to work on. ¡Prepárate para aprender algunas habilidades de ingeniería a través del juego con LEGO! Cada semana tendremos diferentes retos para que trabajes. http s://or-cornelius.civicplus.com/calendar.aspx?EID=2099",
+      "title": "Legopalooza",
+      "venue": {
+        "address": "1370 N Adair St",
+        "city": "Cornelius",
+        "latitude": 45.521109,
+        "longitude": -123.055072,
+        "name": "Drake Learning Center"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-08-10T17:30:00-07:00",
@@ -53272,34 +53439,6 @@
         "latitude": 45.63873,
         "longitude": -122.66149,
         "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-08-10T17:00:00-07:00",
-      "id": "willamette_week:16313814@2026-08-10T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b48c768e-5ab9-4073-8726-93f498d70930.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-10T16:00:00-07:00",
-      "summary": "Get ready to learn some engineering skills through LEGO play! E ach week we will have different challenges for you to work on. ¡Prepárate para aprender algunas habilidades de ingeniería a través del juego con LEGO! Cada semana tendremos diferentes retos para que trabajes. http s://or-cornelius.civicplus.com/calendar.aspx?EID=2099",
-      "title": "Legopalooza",
-      "venue": {
-        "address": "1370 N Adair St",
-        "city": "Cornelius",
-        "latitude": 45.521109,
-        "longitude": -123.055072,
-        "name": "Drake Learning Center"
       }
     },
     {
@@ -56515,6 +56654,34 @@
         "latitude": 45.554361,
         "longitude": -122.908434,
         "name": "Hillsboro Ballpark"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19495560@2026-08-11T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iJPVEumXQke-g7OPnYgfWg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1525663769312525/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-11T19:00:00-07:00",
+      "summary": "A chosen priestess trapped in service to a wrathful goddess. A kind man washed up on her shores. A choice: abandon her post and risk unleashing a deadly tempest or follow her heart and learn for herself how people live, and love, before the whole world drowns. Suila was born with a moon on her wrist, the mark of the sea goddess’s claim on her life. As one of nine priestesses, Suila possesses rare magic to tame wild seas and heal fatal wounds, but these gifts come at a cost — she can never leave the tiny island where she serves, no matter how much she wants to see the mainland and find the family who was forced to give her up. Her sacred duty is all that keeps the sea from rising and drowning the world. One night, the duke’s charming son, Rieg, comes ashore seeking aid for his cousin, Bronan. Suila uncovers a stain of dark magic holding Bronan in its thrall — magic that only the gods and their servants should wield. Suila can’t deny her curiosity, nor can she deny the sparks between her and Rieg. So she devises a dangerous plan… Suila tears out a piece of her soul and leaves it on the island, fooling the sea goddess into believing she’s still upholding her duty while she makes her escape. But in her quest for freedom, she’ll soon find it’s not just the world she’s putting at risk, but her heart, too. Carly Jonathan’s Soul of the Sea \\(Wise Oak Ink\\) is a lush, folkloric fantasy with an aching slow-burn romance for fans of Rebecca Ross and Juliet Marillier. Buy the book: https://www.powells.com/events/carly-jonathan-9798950893018",
+      "title": "Powell's Presents: Carly Jonathan",
+      "venue": {
+        "address": "3415 SW Cedar Hills Blvd.",
+        "city": "Beaverton",
+        "latitude": 45.4950010031,
+        "longitude": -122.8097496182,
+        "name": "Powell's Books at Cedar Hills Crossing"
       }
     },
     {
@@ -59741,35 +59908,6 @@
         "latitude": 45.309027,
         "longitude": -122.950962,
         "name": "Newbberg First United Methodist Church"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-08-12T21:30:00-07:00",
-      "id": "willamette_week:18904438@2026-08-12T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d0b4344b-0d95-406c-946a-bad7573f2811.large.PNG",
-      "is_all_day": false,
-      "listing_url": "https://www.21ten.org/take-a-class",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-12T18:30:00-07:00",
-      "summary": "https://www.21ten.org/take-a-class",
-      "title": "On Camera II with Ted Rooney",
-      "venue": {
-        "address": "21ten Theatre, 2110 SE 10th Ave",
-        "city": "Portland",
-        "latitude": 45.507608,
-        "longitude": -122.655396,
-        "name": "Portland"
       }
     },
     {
@@ -63826,6 +63964,34 @@
         "latitude": 45.554361,
         "longitude": -122.908434,
         "name": "Hillsboro Ballpark"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:19495561@2026-08-13T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HP9b4y8xw0mRgkYCuGs2FQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1722212238999793/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-13T19:00:00-07:00",
+      "summary": "From the writer Elle calls the \"most inspiringly wicked social critic of the moment\" comes a hands-on, don't-lose-hope study of how writers, painters, musicians, and other cultural figures respond to fascism. From veteran writer and activist Curtis White comes a concise yet potent guide to standing up to the myriad tyrannies of our current political landscape. We live in a time where independent thinking, love of literature and ideas, and passion for human expression are all under attack from a ruthless and uncaring government and a culture that values only immediate gratification and digital flash. In On Resistance \\(Melville House\\), White offers spiritual hope and intellectual fortification for those in despair about the bankruptcy of American life. Drawing on a range of books, films, essays, and artworks, White shows how our rich collective literary heritage gives us mental ammunition for our fight against the forces that would reduce us all to commodities and consumers. In doing so, he has penned a new classic in the noble history of American polemics. Buy the book: https://www.powells.com/events/curtis-white-9781685892692",
+      "title": "Powell's Presents: Curtis White",
+      "venue": {
+        "address": "1005 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.5231895447,
+        "longitude": -122.6814193726,
+        "name": "Powell's City of Books"
       }
     },
     {
@@ -69860,6 +70026,34 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-08-15T14:00:00-07:00",
+      "id": "willamette_week:17728144@2026-08-15T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/47e5b10e-ed29-4e2a-8d91-50d797b6ca01.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T10:00:00-07:00",
+      "summary": "Are you interested in meeting and brainstorming projects with o ther quilters in the community? Held every third Saturday of the month. Br ing your own supplies, including your own sewing machine. Are you just curious? Everyone is welcome to observe! This program is for 18\\+ y ears old; 14\\+ with parent supervision. ﻿﻿Event in the Drake Learning Center. https://or-cornelius.civicplus.com/calendar.aspx?EID=2134",
+      "title": "Quilting Friends",
+      "venue": {
+        "address": "1370 N Adair St",
+        "city": "Cornelius",
+        "latitude": 45.5197386178146,
+        "longitude": -123.05865727043835,
+        "name": "Cornelius Public Library"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-08-15T15:00:00-07:00",
@@ -70189,34 +70383,6 @@
         "latitude": 45.516149999999996,
         "longitude": -122.683357,
         "name": "Portland Art Museum"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-08-15T14:00:00-07:00",
-      "id": "willamette_week:17728144@2026-08-15T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/47e5b10e-ed29-4e2a-8d91-50d797b6ca01.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-15T10:00:00-07:00",
-      "summary": "Are you interested in meeting and brainstorming projects with o ther quilters in the community? Held every third Saturday of the month. Br ing your own supplies, including your own sewing machine. Are you just curious? Everyone is welcome to observe! This program is for 18\\+ y ears old; 14\\+ with parent supervision. ﻿﻿Event in the Drake Learning Center. https://or-cornelius.civicplus.com/calendar.aspx?EID=2134",
-      "title": "Quilting Friends",
-      "venue": {
-        "address": "1370 N Adair St",
-        "city": "Cornelius",
-        "latitude": 45.5197386178146,
-        "longitude": -123.05865727043835,
-        "name": "Cornelius Public Library"
       }
     },
     {
@@ -78324,6 +78490,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-08-17T17:00:00-07:00",
+      "id": "willamette_week:16313814@2026-08-17T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b48c768e-5ab9-4073-8726-93f498d70930.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-17T16:00:00-07:00",
+      "summary": "Get ready to learn some engineering skills through LEGO play! E ach week we will have different challenges for you to work on. ¡Prepárate para aprender algunas habilidades de ingeniería a través del juego con LEGO! Cada semana tendremos diferentes retos para que trabajes. http s://or-cornelius.civicplus.com/calendar.aspx?EID=2100",
+      "title": "Legopalooza",
+      "venue": {
+        "address": "1370 N Adair St",
+        "city": "Cornelius",
+        "latitude": 45.521109,
+        "longitude": -123.055072,
+        "name": "Drake Learning Center"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-08-17T17:30:00-07:00",
@@ -78433,34 +78627,6 @@
         "latitude": 45.63873,
         "longitude": -122.66149,
         "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-08-17T17:00:00-07:00",
-      "id": "willamette_week:16313814@2026-08-17T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b48c768e-5ab9-4073-8726-93f498d70930.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-17T16:00:00-07:00",
-      "summary": "Get ready to learn some engineering skills through LEGO play! E ach week we will have different challenges for you to work on. ¡Prepárate para aprender algunas habilidades de ingeniería a través del juego con LEGO! Cada semana tendremos diferentes retos para que trabajes. http s://or-cornelius.civicplus.com/calendar.aspx?EID=2100",
-      "title": "Legopalooza",
-      "venue": {
-        "address": "1370 N Adair St",
-        "city": "Cornelius",
-        "latitude": 45.521109,
-        "longitude": -123.055072,
-        "name": "Drake Learning Center"
       }
     },
     {
@@ -78618,6 +78784,34 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "id": "willamette_week:19495562@2026-08-17T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iom6eVuc-E6xT_Y5__dT9A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1476947524194313/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-17T19:00:00-07:00",
+      "summary": "Acclaimed author and Pulitzer Prize winner Rae Armantrout's remarkable new collection, Safe Rooms \\(Wesleyan University Press\\), explores the undercurrents of modern life with an unflinching eye on human nature, social malaise, and the unsettling ways in which we attempt to protect ourselves from a world that continually undermines our sense of safety. As the title poem says: \"your thoughts /roar and echo//around you—originating/god knows where.// You try to plug your ears/but you are an ear/ that can't stop listening.\" Through poems that examine our darker impulses — our tendencies to self-destruct, to grapple with envy, and to navigate the intricate web of family dynamics —Armantrout captures the complex, often contradictory ways in which we search for meaning and connection. Her work holds a mirror to the forces shaping us, both intimate and vast, showing that the so-called \"safe rooms\" we construct are fragile, temporary shelters, not havens from the chaos that surrounds us. Armantrout will be joined in conversation by poet John Beer, author of Lucinda. Buy the book: https://www.powells.com/events/rae-armantrout-9780819502568",
+      "title": "Powell's Presents: Rae Armantrout in Conversation With John Beer",
+      "venue": {
+        "address": "1005 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.5231895447,
+        "longitude": -122.6814193726,
+        "name": "Powell's City of Books"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-17T21:30:00-07:00",
@@ -78768,6 +78962,34 @@
         "latitude": 45.5227928162,
         "longitude": -122.6834030151,
         "name": "McMenamins Al's Den"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-17T20:30:00-07:00",
+      "id": "willamette_week:19495542@2026-08-17T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/the-cure-ate-her-tickets-1994475269220",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-17T19:30:00-07:00",
+      "title": "Molly McLean: The Cure Ate Her",
+      "venue": {
+        "address": "2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507610321,
+        "longitude": -122.6554260254,
+        "name": "Shoebox Theatre"
       }
     },
     {
@@ -83326,35 +83548,6 @@
       "categories": [
         "arts"
       ],
-      "end_at": "2026-08-19T21:30:00-07:00",
-      "id": "willamette_week:18904438@2026-08-19T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d0b4344b-0d95-406c-946a-bad7573f2811.large.PNG",
-      "is_all_day": false,
-      "listing_url": "https://www.21ten.org/take-a-class",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-19T18:30:00-07:00",
-      "summary": "https://www.21ten.org/take-a-class",
-      "title": "On Camera II with Ted Rooney",
-      "venue": {
-        "address": "21ten Theatre, 2110 SE 10th Ave",
-        "city": "Portland",
-        "latitude": 45.507608,
-        "longitude": -122.655396,
-        "name": "Portland"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
       "end_at": "2026-08-19T20:00:00-07:00",
       "id": "willamette_week:17792774@2026-08-19T18:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3EZsJ32h3Ey196PKbar3Ig.large.jpg",
@@ -83380,6 +83573,62 @@
         "latitude": 45.548801,
         "longitude": -122.661322,
         "name": "Back2Earth"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19495563@2026-08-19T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ZzyqAtABi0OB6NMXIii9-w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/988147920916758/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-19T19:00:00-07:00",
+      "summary": "From Dusk Till Dawn meets The Thing in A. P. Thayer’s debut horror novel, Tapeworm \\(Evil Twin\\), where a group of friends must confront questions of identity, aging, and desire during a vampire infestation in an isolated Californian desert. It needs to feed. After the recent separation from his wife Trish, Victor hopes his friends' annual weekend retreat to the Californian desert town of Superstition will loosen him up and reforge the group's fraying bonds. But something is waiting underneath Superstition, crawling its way into their group, and feeding into their desires. Victor knows too well what it means to repress his desires. He's always attempted to be the perfect partner, yet often found himself lacking. With Trish skipping the trip, he begins falling into the wild underbelly of Superstition in new ways. When the leader of the town's Welcoming Committee approaches him with a romantic, sexually charged offer, Victor wonders if it's too good to be true. But the Welcoming Committee expects a price to be paid for its services. One that cannot be fulfilled by willing bodies alone. By the end of the weekend, group bonding will have developed a whole new meaning. Because something is hungry for Victor and his friends. For fans of Stephen Graham Jones, V. Castro, and Rachel Harrison, Tapeworm is an unforgettable, body-horror vampire novel that answers how far one will go to stop repressing their desires and finally set themselves free. Thayer will be joined in conversation by Wendy N. Wagner, author of Girl in the Creek. Buy the book: https://www.powells.com/events/a-p-thayer-9781638933458",
+      "title": "Powell's Presents: A. P. Thayer in Conversation With Wendy N. Wagner",
+      "venue": {
+        "address": "3415 SW Cedar Hills Blvd.",
+        "city": "Beaverton",
+        "latitude": 45.4950010031,
+        "longitude": -122.8097496182,
+        "name": "Powell's Books at Cedar Hills Crossing"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "willamette_week:19495564@2026-08-19T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BpCZL0tFOUGfq9-2f-Osaw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1555553986361357/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-19T19:00:00-07:00",
+      "summary": "From Pulitzer Prize finalist Chang-rae Lee — author of Native Speaker and On Such a Full Sea — comes a story of guilt, innocence, and a boy on the cusp of adolescence. A spellbinding exploration of American masculinity and family dynamics as seen through the confused eyes of a prepubescent child of immigrants, A Tender Age \\(Riverhead\\) joins the rich tradition of the American bildungsroman. The natural descendent of characters like Huckleberry Finn and Holden Caufield, Korean American Jeon-Gi is torn between competing ideas of himself. At home, his working-class parents dote on him. Outside, he is part of a roving pack of kids with dominion over a derelict baseball field, weedy parking lot, and rusty jungle gym. Getting into and out of trouble is all-consuming. But the summer he turns eleven, he becomes embroiled in a staggering series of events reverberating far beyond himself and his family. Devastating in its emotional precision, A Tender Age captures a family and community in striking distance of the American dream, and a young person on the precipice of adult knowledge, looking at his own culpability and looking away — then thinking about it for the rest of his life. Lee will be joined in conversation by Willy Vlautin, author of The Left and the Lucky. Buy the book: https://www.powells.com/events/chang-rae-lee-9798217048441",
+      "title": "Powell's Presents: Chang-rae Lee in Conversation With Willy Vlautin",
+      "venue": {
+        "address": "1005 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.5231895447,
+        "longitude": -122.6814193726,
+        "name": "Powell's City of Books"
       }
     },
     {
@@ -86891,6 +87140,34 @@
         "latitude": 45.46845,
         "longitude": -122.6851,
         "name": "Burlingame"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "willamette_week:19495565@2026-08-20T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lmvVfdlLa0Ga4mztp1vBFQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1291949419486113/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-20T19:00:00-07:00",
+      "summary": "The Salt King \\(Bloosmbury\\) is an apocalyptic novel about belief, religion, and the power of myth that blends the gripping, end-of-the-world storytelling of The Passage with the biting wit and epic queer romance that makes Natasha Pulley's books “delightful” \\(The Washington Post\\). Jesuit priest Avelyn Brocken was born into a mining family in Hreodwater, a small, totally isolated salt town in the Fens of England. At age 16, he fled, abandoning his faith in the god of the mine — the Salt King — and the mythology that killed his whole family. When a fellow priest is miraculously healed only to then be turned to salt after a visit to Hreodwater, Avelyn is sent by the Vatican to investigate. But in Hreodwater, the town's gentle doctor, Jericho, tells him that the priest is not the only one experiencing strange cures — and may not be the only one in danger from a substance in the mine that the locals call “salt light.” Avelyn and Jericho team up to protect the world from the salt light — but they may already be too late: strange happenings are occurring at mines all around the world. At an archaeological dig on the Dead Sea, electrical devices froth salt; at another salt mine in Russia, a KGB officer finds the bodies of five tourists who seem to have turned to salt; and at the huge salt works at Wieliczska in Poland, all communication is lost, and rumors circulate of total annihilation. As salt light spreads, devastating cities around the world, Avelyn must decide what and who to believe — and whether his faith is strong enough to withstand an apocalypse. Pulley will be joined in conversation by Daniel H. Wilson, author of Hole in the Sky. Buy the book: https://www.powells.com/events/natasha-pulley-9781639737291",
+      "title": "Powell's Presents: Natasha Pulley in Conversation With Daniel H. Wilson",
+      "venue": {
+        "address": "1005 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.5231895447,
+        "longitude": -122.6814193726,
+        "name": "Powell's City of Books"
       }
     },
     {
@@ -95325,6 +95602,35 @@
       "categories": [
         "arts"
       ],
+      "end_at": "2026-08-22T22:30:00-07:00",
+      "id": "willamette_week:19353448@2026-08-22T21:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fcbc31b7-462b-498d-ad89-9c281361270c.large.png",
+      "is_all_day": false,
+      "listing_url": "https://aimeesinclair.com/throwback&sa=D&source=calendar&ust=1785476032657587&usg=AOvVaw0H4ObndU-0dBJtBhDox5Ws",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T21:30:00-07:00",
+      "summary": "https://aimeesinclair.com/throwback",
+      "title": "Throwback: A Comedy Show for the Nostalgic",
+      "venue": {
+        "address": "21ten Theatre, 2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507608,
+        "longitude": -122.655396,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "end_at": "2026-08-22T23:00:00-07:00",
       "id": "willamette_week:19474412@2026-08-22T21:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bD0nHB3n70S6slFt0uFCng.large.jpg",
@@ -99085,6 +99391,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-08-24T17:00:00-07:00",
+      "id": "willamette_week:16313814@2026-08-24T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b48c768e-5ab9-4073-8726-93f498d70930.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-24T16:00:00-07:00",
+      "summary": "Get ready to learn some engineering skills through LEGO play! E ach week we will have different challenges for you to work on. ¡Prepárate para aprender algunas habilidades de ingeniería a través del juego con LEGO! Cada semana tendremos diferentes retos para que trabajes. http s://or-cornelius.civicplus.com/calendar.aspx?EID=2101",
+      "title": "Legopalooza",
+      "venue": {
+        "address": "1370 N Adair St",
+        "city": "Cornelius",
+        "latitude": 45.521109,
+        "longitude": -123.055072,
+        "name": "Drake Learning Center"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-08-24T17:00:00-07:00",
@@ -99164,34 +99498,6 @@
         "latitude": 45.63873,
         "longitude": -122.66149,
         "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-08-24T17:00:00-07:00",
-      "id": "willamette_week:16313814@2026-08-24T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b48c768e-5ab9-4073-8726-93f498d70930.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-24T16:00:00-07:00",
-      "summary": "Get ready to learn some engineering skills through LEGO play! E ach week we will have different challenges for you to work on. ¡Prepárate para aprender algunas habilidades de ingeniería a través del juego con LEGO! Cada semana tendremos diferentes retos para que trabajes. http s://or-cornelius.civicplus.com/calendar.aspx?EID=2101",
-      "title": "Legopalooza",
-      "venue": {
-        "address": "1370 N Adair St",
-        "city": "Cornelius",
-        "latitude": 45.521109,
-        "longitude": -123.055072,
-        "name": "Drake Learning Center"
       }
     },
     {
@@ -99394,6 +99700,34 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "id": "willamette_week:19495566@2026-08-24T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Xx8BsYM3w0O0ETGQ2sblAA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1012783684700456/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-24T19:00:00-07:00",
+      "summary": "Azra never imagined what the Aegean Sea would bring to the Mossy Village. Born in this peculiar place, where time has stood still and magical black seaweed grows in the shallows and entangles the unwary, Azra watches as the waves deliver mysterious treasures from faraway lands. When the waters of her home recede and then, at last, vanish, Azra embarks on a quest. She encounters magical feathers, a phantom sailor, and a fabled Pearl Seller as she seeks to confront the famed witch Lilith and bring the waters back. As she tries to restore the sea, she begins to connect with her people's collective unconscious. The Ashes of the Forest \\(Korza Books\\) is a lyrical exploration of loss, remembrance, and the landscapes that shape who we become. The novel weaves together threads of traditional Turkish folklore with allegories for the psychological journey of the self and the destabilizing social effects of climate change. Echoing Orhan Pamuk's, \"When the Bosphorus Dries Up\" from The Black Book, Güzide Ertürk explores what happens when the sea withdraws from the shores of Mossy Village. Reimagining myth through the lens of magical realism, in the haunting vein of Cristina Rivera Garza's The Taiga Syndrome and Gabriel García Márquez's One Hundred Years of Solitude, Ertürk creates a surreal atmosphere that invites readers into the shifting labyrinths of the Mossy Village. Ertürk will be joined in conversation by Leni Zumas, author of Wolf Bells. Buy the book: https://www.powells.com/events/gu-zide-ertu-rk-9781957024127",
+      "title": "Powell's Presents: Güzide Ertürk in Conversation With Leni Zumas",
+      "venue": {
+        "address": "1005 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.5231895447,
+        "longitude": -122.6814193726,
+        "name": "Powell's City of Books"
       }
     },
     {
@@ -101353,6 +101687,62 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19495568@2026-08-25T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bu-wBdazykGFt4MgUcXQVQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1972643920058420/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-25T19:00:00-07:00",
+      "summary": "Nobody Broke Your Heart \\(Dutton\\) is a tender, nuanced narrative of Elliott Smith, one of the most influential and tragic musicians of the 1990s, whose records are deeply beloved to this day, written by New York Times Magazine and The New Yorker–published author Jamie Fisher. Starting with his childhood in Texas, following him through his making as an artist in Portland and New York, and reckoning honestly with his unmaking in Los Angeles, Fisher has used never-before-seen archival evidence \\(unheard recordings, draft lyrics, photos, and correspondence\\) alongside extensive interviews with friends, family, girlfriends, and collaborators to shed light on the real Elliott Smith, in all his complexity. Vividly animating Elliott’s world and analyzing his work and legacy in loving depth, Nobody Broke Your Heart is an essential book for anyone who loves Elliott Smith and his music — and anyone who’s loved someone grappling with addiction and mental illness. Fisher will be joined in conversation by Larry Crane, editor and founder of Tape Op Magazine and owner of Portland’s Jackpot! Recording Studio. Buy the book: https://www.powells.com/events/jamie-fisher-9780593475669",
+      "title": "Powell's Presents: Jamie Fisher in Conversation With Larry Crane",
+      "venue": {
+        "address": "1005 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.5231895447,
+        "longitude": -122.6814193726,
+        "name": "Powell's City of Books"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "willamette_week:19495567@2026-08-25T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/k52kawv2HUecJHzd9ZgRuQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1322527670041937/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-25T19:00:00-07:00",
+      "summary": "Three girls bond in unsettling ways when a grizzly starts picking off known abusers in their secluded mountain town in Clare Edge’s Natural Selection \\(Delacorte\\), a darkly funny, deeply feminist novel for fans of books like The Honeys and Wilder Girls. When it comes to boys and bears, always choose the bear. The girls of Riverside are raised to grin and bear it. Until three of them can’t anymore. Megan Lawless \\(aka Outlaw\\): Riverside born and raised. Lettered in volleyball, basketball, and track. HATES Kevin Johnson, but tolerates him for her best friend, Megan. Megan Deloria: Outlaw’s ride or die. Riverside royalty and soon to be valedictorian. Shoo-in for the homecoming crown alongside her boyfriend, Kevin. Meghan Bach \\(aka Bee\\): moved to Riverside last year. Still the “new girl.” Pulls tarot cards daily. Just wants to forget what happened last summer at that party with Kevin. And then there’s Kevin Johnson: Riverside’s Golden Boy. Only scared of two things — the dark and bears. Soon, he’ll be scared of three more. Because Megan, Megan, and Meghan are done with Kevin, and they’re about to teach everyone in their tiny rural town the new natural order: predator, meet prey. Edge will be joined in conversation by Margot Wood, author of Fresh. Buy the book: https://www.powells.com/events/clare-edge-9798217117451",
+      "title": "Powell's Presents: Clare Edge in Conversation With Margot Wood",
+      "venue": {
+        "address": "3415 SW Cedar Hills Blvd.",
+        "city": "Beaverton",
+        "latitude": 45.4950010031,
+        "longitude": -122.8097496182,
+        "name": "Powell's Books at Cedar Hills Crossing"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-08-25T21:00:00-07:00",
@@ -103062,6 +103452,36 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-26T18:30:00-07:00",
+      "id": "willamette_week:19495551@2026-08-26T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RdEeuXEpSkShD2aLD912DQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1032819929383217/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-26T17:00:00-07:00",
+      "summary": "Step out of the office and into a summer evening of networking and fun! Join the Washington County Young Professionals for Bullseyes & Business Cards, a summer networking social at Blue Ox Axe Throwing. Enjoy complimentary food while you mingle, then test your aim with axe throwing! No experience is necessary—Blue Ox staff will provide instruction, making it easy for first-time throwers and seasoned competitors alike. Bring your business cards, make new connections, and enjoy an evening of networking, friendly competition, great food, and summer fun. We can't wait to see you there! The Young Professionals program brings together emerging leaders \\(primarily ages 18–35\\) to build connections, grow their careers, and engage with the local business community. For questions about the program, contact Jessica at JessicaA@wcchamber.org or Ashley at AshleyB@wcchamber.org Thank you to InRoads Credit Union for sponsoring the Young Professionals Group!",
+      "ticket_url": "https://web.washingtoncountychamberor.com/atlas/events/young-professionals-bullseyes-business-cards-16406/details",
+      "title": "Young Professionals: Bullseyes & Business Cards, Summer Networking Social",
+      "venue": {
+        "address": "264 E Main St",
+        "city": "Hillsboro",
+        "latitude": 45.522398,
+        "longitude": -122.986631,
+        "name": "Blue Ox Hillsboro"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-26T19:00:00-07:00",
@@ -103528,35 +103948,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "end_at": "2026-08-26T21:30:00-07:00",
-      "id": "willamette_week:18904438@2026-08-26T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d0b4344b-0d95-406c-946a-bad7573f2811.large.PNG",
-      "is_all_day": false,
-      "listing_url": "https://www.21ten.org/take-a-class",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-26T18:30:00-07:00",
-      "summary": "https://www.21ten.org/take-a-class",
-      "title": "On Camera II with Ted Rooney",
-      "venue": {
-        "address": "21ten Theatre, 2110 SE 10th Ave",
-        "city": "Portland",
-        "latitude": 45.507608,
-        "longitude": -122.655396,
-        "name": "Portland"
-      }
-    },
-    {
-      "categories": [
         "food"
       ],
       "end_at": "2026-08-26T20:00:00-07:00",
@@ -103643,6 +104034,62 @@
         "latitude": 45.554361,
         "longitude": -122.908434,
         "name": "Hillsboro Ballpark"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:19495570@2026-08-26T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EmNtA_Hq8UGvtaPNroz_uw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1713729269886190/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-26T19:00:00-07:00",
+      "summary": "The revived Knights of the Ku Klux Klan flourished in Oregon in the early 1920s. With more than sixty chapters established in both large and small communities like Portland, Medford, Astoria, and La Grande, the Klan's power escalated in the region. Klan salesmen, working on commission, successfully enlisted Oregonians with a message of religious prejudice and racism. At the Klan's peak, Portland was home to the sixth largest chapter in the country and there were more members per capita in Oregon than in any other state except one. In Peddlers of Hate \\(Oregon State University\\), journalist Steve Law draws on published and unpublished sources, new research, and interviews with leading scholars to provide a comprehensive account of how Oregon became one of the Klan's strongest outposts. Representing the Klan as merely a fraternal lodge, Klan recruiters were trained to vilify Catholics, immigrants, Blacks, and Jews. They gained wide support, toppling an incumbent governor and congressman, persuading voters to ban Catholic schools, and winning control of the legislature and several local governments. From stories of \"escaped nuns\" to fiery crosses at mass Klan rallies at Salem's state fairgrounds and Portland's Mount Tabor Park, Law examines this divisive and forgotten time in Oregon's history. He shows how it was finally greed, hypocrisy, and corruption that spurred the hate group's demise — providing historical lessons that will resonate today. Buy the book: https://www.powells.com/events/steve-law-9781962645706",
+      "title": "Powell's Presents: Steve Law",
+      "venue": {
+        "address": "1005 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.5231895447,
+        "longitude": -122.6814193726,
+        "name": "Powell's City of Books"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:19495569@2026-08-26T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xl8f_wHrPUiok874-6fbCg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2143236159903152/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-26T19:00:00-07:00",
+      "summary": "Everyone's favorite vampire odd couple is back for another bloody good time in Summer Coven \\(Berkley Books\\), the new supernatural mystery from Kat Hillis and Rosiee Thor, authors of Dead and Breakfast. Arthur Miller \\(no relation to the playwright\\) and his beloved, Salvatore Conte, are settling into their \\(para\\)normal lives in Trident Falls. Finally, everything seems to be going swimmingly… business is booming at the inn and Arthur is hard at work on his first case as a private detective: finding their friend Brody's missing mom. But when a pet psychic is felled by a poisoned potion she \\(somehow\\) didn't see coming, Arthur's investigation takes an enchanting turn — and not in a good way. It turns out the psychic was a member of the Celestine Coven, a powerful group of witches who sell their charms for a price. Did the pet psychic find herself on the wrong side of the coven? Or did she trigger someone’s pet peeves with her predictions? It will require all of Arthur's wit and Sal's whimsy to solve this murder, find their missing person, and avoid becoming part of the witches' wicked brew. Hillis and Thor will be joined in conversation by Jamie Pacton, author of The Hyacinth Labyrinth. Buy the book: https://www.powells.com/events/kat-hillis-rosiee-thor-9780593952733",
+      "title": "Powell's Presents: Kat Hillis & Rosiee Thor in Conversation With Jamie Pacton",
+      "venue": {
+        "address": "3415 SW Cedar Hills Blvd.",
+        "city": "Beaverton",
+        "latitude": 45.4950010031,
+        "longitude": -122.8097496182,
+        "name": "Powell's Books at Cedar Hills Crossing"
       }
     },
     {
@@ -106793,6 +107240,34 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "id": "willamette_week:19495571@2026-08-27T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QGBQCN8aaECePRl8ekI8Dg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1396239692364472/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-27T19:00:00-07:00",
+      "summary": "The cult drama of The Girls meets Yellowface’s searing exploration of lies, immigration, and identity in False Prophet \\(Melville House\\), Afsheen Farhadi’s propulsive literary thriller debut. Actor Jal Persad is enjoying moderate success when the death of his mother, Rita, sends him into a tailspin — after all, how could he grieve a woman he barely knew? Rita had grown up in Guyana during the rise and fall of the Jonestown cult, but never spoke of her home to Jal, always keeping him at a distance. After months of avoiding work, a misunderstanding at lunch with his manager leads Jal into a web of lies. He soon finds himself writing a memoir of his mother’s adolescence, one that places her in direct contact with Jim Jones himself. There’s just one issue — Rita never met the man. Suddenly, the book goes viral, and Jal must face the looming threat of exposure, and his own guilt. Alternating between Jal’s rapid rise and Rita’s distorted story, False Prophet confronts the intergenerational legacy of colonialism, the allure of power, and the age-old question — how much of yourself are you willing to lose in order to succeed? Farhadi will be joined in conversation by Daniel Nieh, author of Take No Names. Buy the book: https://www.powells.com/events/afsheen-farhadi-9781685892418",
+      "title": "Powell's Presents: Afsheen Farhadi in Conversation With Daniel Nieh",
+      "venue": {
+        "address": "1005 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.5231895447,
+        "longitude": -122.6814193726,
+        "name": "Powell's City of Books"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "willamette_week:18893395@2026-08-27T19:00",
@@ -108980,6 +109455,34 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "willamette_week:19495543@2026-08-28T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UJF2KfKQ8E2JoH1AVkTNhQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://thereser.org/events/converge-45-opening-reception/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-28T15:00:00-07:00",
+      "summary": "The community is invited to attend a special reception during the Converge 45 opening weekend on Friday, August 28th, from 3 - 5 pm. Celebrating the new exhibitions, artist introductions and comments will begin at 4:00 pm, followed by self-guided tours of the exhibitions and other public artworks at The Reser. IMAGE: Still from Carnelian by Lex Brown",
+      "title": "Converge 45 Opening Reception",
+      "venue": {
+        "address": "12625 SW Crescent St",
+        "city": "Beaverton",
+        "latitude": 45.4913146584866,
+        "longitude": -122.8071339999992,
+        "name": "Patricia Reser Center for the Arts"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-08-28T17:00:00-07:00",
@@ -110631,7 +111134,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-29T06:47:19+00:00",
+  "generated_at": "2026-07-29T09:59:35+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
