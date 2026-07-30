@@ -4,34 +4,6 @@
       "categories": [
         "tech"
       ],
-      "end_at": "2026-07-29T19:30:00-07:00",
-      "id": "calagator:1250482645",
-      "is_all_day": false,
-      "listing_url": "https://luma.com/5vr7zrrs",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "calagator",
-        "name": "Calagator",
-        "url": "https://calagator.org"
-      },
-      "start_at": "2026-07-29T17:30:00-07:00",
-      "summary": "Event Agenda:\r\nThere will be a main talk between 30 minutes to 1 hour followed by optional lighting talks.\r\n\r\nScalable processing with Ray: unstructured data, multimodal data, and integration with your custom code by Adam Breindel\r\n\r\nIn this talk, we'll look at building applications and data pipelines that operate on unstructured or multimodal data using the open-source Ray framework. Ray provides abstractions for running distributed, scalable, stateful code as well as higher-level constructs for orchestrating data pipelines where you can supply your own business logic.\r\n\r\nSome logic might involve using or training AI models -- but this talk is not focused on (or written by) AI. We'll look at general issues that arise when scaling interesting logic and talk a bit about the algorithms that the Ray Core and Ray Data schedulers employ to address common challenges.\r\n\r\nLast, since I've met so many awesome folks in the local Python communities who are looking for jobs, we'll also talk a bit about the tech stacks and other dynamics driving employment and the role of Portland's economy in the evolving landscape.\r\n\r\nLightning Talks:\r\nLightning talks are talks up to 5 minutes in length on any topic that might interest other Python people. See PyCon’s Lightning Talks description for more details.",
-      "title": "July 29, 2026 Portland Python User Group Meetup",
-      "venue": {
-        "address": "111 SW 5th Ave",
-        "city": "Portland",
-        "latitude": 45.5222,
-        "longitude": -122.6763,
-        "name": "111 SW 5th Ave"
-      }
-    },
-    {
-      "categories": [
-        "tech"
-      ],
       "end_at": "2026-07-30T15:30:00-07:00",
       "id": "calagator:1250482647",
       "is_all_day": false,
@@ -716,7 +688,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-29T23:08:59+00:00",
+  "generated_at": "2026-07-30T03:18:57+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
