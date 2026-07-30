@@ -13381,6 +13381,36 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "id": "willamette_week:19506989@2026-08-01T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/i7KLDSVzbEiV8nLXCKE6pw.large.jpg",
+      "is_all_day": true,
+      "listing_url": "http://www.pdxfestofcinema.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 12.0,
+        "min": 9.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-01T00:00:00-07:00",
+      "summary": "Join PFCAT - a film and animation focused film festival at OMSI! The full list of films and animations along with trailers and descriptions can be found at www.pdxfestofcinema.com. All screenings and events before 5pm are designed to be a good fit for all ages. Films include live action features, animation for kids, animation for adults, sci-fi, comedies and documentaries. In addition to screenings of films and animations by visionary filmmakers and animators, the festival also includes dome film screenings in the Kendall Planetarium, Virtual Reality showcases, Q&A sessions with 100+ filmmakers, parties, and panel discussions on topics ranging from adapting books into films to making stop-motion animation. 2026 festival by the numbers • 170 films from 31 countries • 100+ animated films, including 30+ stop-motion works and two stop-motion features • 30+ world premieres and over 120 U.S., West Coast, Pacific Northwest & Oregon premieres • 100+ filmmakers attending to represent their films • 4 OMSI venues, 3 official festival parties, 1 Creator Expo Special guests include: Doug Jones (Pan's Labyrinth, The Shape of Water, Hellboy) attends Opening Night for the Oregon premiere of Pretty Boys, screening in the 6pm shorts block \"Fathers Across Space and Time.\" Matthew Inman, creator of The Oatmeal, gives a keynote presentation followed by the Pacific Northwest festival premiere of My Dog: The Paradox, an animated short based on his viral webcomic. Eleven-time Emmy-winning producer Brian A. Miller (Samurai Jack, Adventure Time, Star Wars: The Clone Wars) joins a fireside conversation on his career and the evolving animation industry. Authors and filmmakers Abigail Hing Wen (the Loveboat Taipei franchise) and Debra Williams (Church Hat) present \"From Short Story to Screen,\" a panel and book signing on adapting children's books into films.",
+      "title": "PFCAT (Portland Festival of Cinema, Animation & Technology",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "id": "willamette_week:19483976@2026-08-01T00:00",
@@ -47652,36 +47682,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-07T19:00:00-07:00",
-      "id": "willamette_week:18981803@2026-08-07T17:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Qssv86lDcEKsZb2DL-iZXw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1503125541252490/1503125547919156/?active_tab=about",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-07T17:00:00-07:00",
-      "summary": "Join us for a series of Food Truck Fridays at Tualatin Estate Vineyard and fill up on wine, great food, live music and summer vibes. This summer tradition takes place on Fridays from June 5th through August 21st. Reservations are highly recommended. Flight service ends at 5 pm, and bottle and glass service ends at 7 pm.",
-      "ticket_url": "https://www.exploretock.com/wvvtualatin/event/579107/2026-food-truck-friday",
-      "title": "Food Truck Fridays at Tualatin Estate",
-      "venue": {
-        "address": "10850 NW Seavey Rd, Forest Grove",
-        "city": "Banks",
-        "latitude": 45.60043,
-        "longitude": -123.17172,
-        "name": "Banks"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-08-07T21:00:00-07:00",
@@ -47709,6 +47709,36 @@
         "latitude": 45.519779,
         "longitude": -122.654919,
         "name": "Art Design Xchange (ADX)"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-07T19:00:00-07:00",
+      "id": "willamette_week:18981803@2026-08-07T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Qssv86lDcEKsZb2DL-iZXw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1503125541252490/1503125547919156/?active_tab=about",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-07T17:00:00-07:00",
+      "summary": "Join us for a series of Food Truck Fridays at Tualatin Estate Vineyard and fill up on wine, great food, live music and summer vibes. This summer tradition takes place on Fridays from June 5th through August 21st. Reservations are highly recommended. Flight service ends at 5 pm, and bottle and glass service ends at 7 pm.",
+      "ticket_url": "https://www.exploretock.com/wvvtualatin/event/579107/2026-food-truck-friday",
+      "title": "Food Truck Fridays at Tualatin Estate",
+      "venue": {
+        "address": "10850 NW Seavey Rd, Forest Grove",
+        "city": "Banks",
+        "latitude": 45.60043,
+        "longitude": -123.17172,
+        "name": "Banks"
       }
     },
     {
@@ -94476,36 +94506,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "id": "willamette_week:19488307@2026-08-15T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M5tz5Uh50EiiOHqeTAJY_A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://rosecityrollers.com/schedule/wreckers-v-sick-town-rocky-horror-picture-show/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 22.0,
-        "min": 22.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-15T20:00:00-07:00",
-      "summary": "DRAG NIGHT Wreckers vs. Sick Town Saturday, August 15th Doors at 7pm | Game at 8pm GET TICKETS At the Hangar at Oaks Park Coming in from out of town? Got family and friends visiting? DoubleTree Portland is the Official Hotel Partner of Rose City Rollers! Book your stay at the DoubleTree Portland! SPECIAL BOOKING LINK: $139/night for quad rooms including breakfast for four and free parking What to Expect: General Admission Bleacher Seating: So close to the action that you can feel the adrenaline on the track. ADA seating is available. Email events@rosecityrollers.com for accommodations. Parking: Available onsite for $3-$5 Food & Drinks: A tasty local food cart at every game, and beverages from the Plow Stop Bar featuring RCR sponsors: 2Towns Cider, Gigantic Brewing, and NA options from Best Day Brewing! Raffles: Win exclusive prizes and support local derby! Team Merch: Grab gear to rep your favorite team! Upcoming Bouts: Check the schedule for game dates, times, and special events. All at the iconic Hangar at Oaks Park, Portland's ultimate derby destination. Info about roller derby rules and gameplay here! VOLUNTEER with the Rose City Rollers and come watch for free! Be a part of this rad community!",
-      "title": "Wreckers v Sick Town: Drag Night",
-      "venue": {
-        "address": "7805 SE Oaks Park Way",
-        "city": "Portland",
-        "latitude": 45.4734382,
-        "longitude": -122.6628867,
-        "name": "Rose City Rollers"
-      }
-    },
-    {
-      "categories": [
         "nightlife"
       ],
       "end_at": "2026-08-16T03:00:00-07:00",
@@ -94533,6 +94533,36 @@
         "latitude": 45.496756,
         "longitude": -122.622951,
         "name": "The Velvet Rope"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "willamette_week:19488307@2026-08-15T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M5tz5Uh50EiiOHqeTAJY_A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://rosecityrollers.com/schedule/wreckers-v-sick-town-rocky-horror-picture-show/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 22.0,
+        "min": 22.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T20:00:00-07:00",
+      "summary": "DRAG NIGHT Wreckers vs. Sick Town Saturday, August 15th Doors at 7pm | Game at 8pm GET TICKETS At the Hangar at Oaks Park Coming in from out of town? Got family and friends visiting? DoubleTree Portland is the Official Hotel Partner of Rose City Rollers! Book your stay at the DoubleTree Portland! SPECIAL BOOKING LINK: $139/night for quad rooms including breakfast for four and free parking What to Expect: General Admission Bleacher Seating: So close to the action that you can feel the adrenaline on the track. ADA seating is available. Email events@rosecityrollers.com for accommodations. Parking: Available onsite for $3-$5 Food & Drinks: A tasty local food cart at every game, and beverages from the Plow Stop Bar featuring RCR sponsors: 2Towns Cider, Gigantic Brewing, and NA options from Best Day Brewing! Raffles: Win exclusive prizes and support local derby! Team Merch: Grab gear to rep your favorite team! Upcoming Bouts: Check the schedule for game dates, times, and special events. All at the iconic Hangar at Oaks Park, Portland's ultimate derby destination. Info about roller derby rules and gameplay here! VOLUNTEER with the Rose City Rollers and come watch for free! Be a part of this rad community!",
+      "title": "Wreckers v Sick Town: Drag Night",
+      "venue": {
+        "address": "7805 SE Oaks Park Way",
+        "city": "Portland",
+        "latitude": 45.4734382,
+        "longitude": -122.6628867,
+        "name": "Rose City Rollers"
       }
     },
     {
@@ -107031,6 +107061,36 @@
         "address": "3552 N Mississippi Ave",
         "city": "Portland",
         "name": "Atlantis Lounge"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "end_at": "2026-08-19T19:15:00-07:00",
+      "id": "willamette_week:19487375@2026-08-19T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4Wbtq0QxrE6Ffv08a-AUQQ.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-19T17:30:00-07:00",
+      "summary": "Come hear about two international humanitarian relief organizations - the Scientology Volunteer Ministers and Medical Teams, International. Hear firsthand experiences from someone who has led relief efforts in war-torn and impoverished areas such as Ukraine. This Open House is in recognition of World Humanitarian Day and is for anyone interested in humanitarian work around the world and locally.",
+      "title": "World Humanitarian Day Open House",
+      "venue": {
+        "address": "309 SW 3rd Avenue",
+        "city": "Portland",
+        "latitude": 45.520804,
+        "longitude": -122.674545,
+        "name": "Church of Scientology"
       }
     },
     {
@@ -177418,5 +177478,5 @@
       }
     }
   ],
-  "generated_at": "2026-07-30T06:40:04+00:00"
+  "generated_at": "2026-07-30T06:44:54+00:00"
 }
