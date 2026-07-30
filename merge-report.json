@@ -121,6 +121,14 @@
       "venue": "Hillsboro Ballpark"
     },
     {
+      "dropped": "willamette_week:19510892@2026-07-30T19:00",
+      "kept": "dopdx:17278214",
+      "start_at": "2026-07-30T19:00:00-07:00",
+      "title_dropped": "Slater Nalley",
+      "title_kept": "Willow Avalon – Pink Pocket Pistol Tour With special guests Audrey McGraw and Slater Nalley",
+      "venue": "Wonder Ballroom"
+    },
+    {
       "dropped": "willamette_week:19334935@2026-07-30T19:00",
       "kept": "dopdx:17451636",
       "start_at": "2026-07-30T19:00:00-07:00",
@@ -241,6 +249,22 @@
       "venue": "Wonder Ballroom"
     },
     {
+      "dropped": "willamette_week:19510897@2026-07-30T20:00",
+      "kept": "dopdx:17423811",
+      "start_at": "2026-07-30T20:30:00-07:00",
+      "title_dropped": "Samiarus & Funeral Chant & Diabolic Oath",
+      "title_kept": "Funeral Chant, Samiarus, Diabolic Oath",
+      "venue": "High Water Mark Lounge"
+    },
+    {
+      "dropped": "willamette_week:19510903@2026-07-31T18:30",
+      "kept": "portland_parks:2026-07-31-spring-garden-park-story-tune",
+      "start_at": "2026-07-31T18:30:00-07:00",
+      "title_dropped": "Story & Tune",
+      "title_kept": "Story & Tune",
+      "venue": "Spring Garden Park"
+    },
+    {
       "dropped": "willamette_week:17011253@2026-07-31T18:35",
       "kept": "ticketmaster:Z7r9jZ1A7QvbY",
       "start_at": "2026-07-31T18:35:00-07:00",
@@ -295,6 +319,14 @@
       "title_dropped": "Oregon Professional Wrestling July 31st",
       "title_kept": "Oregon Professional Wrestling",
       "venue": "Oregon Pro Wrestling School"
+    },
+    {
+      "dropped": "willamette_week:19510907@2026-07-31T19:30",
+      "kept": "dopdx:17416554",
+      "start_at": "2026-07-31T19:30:00-07:00",
+      "title_dropped": ".COM & vhs ghost & porch kiss",
+      "title_kept": ".COM with VHS Ghost + Famous Friend + Porch Kiss",
+      "venue": "Atlantis Lounge"
     },
     {
       "dropped": "willamette_week:19332494@2026-07-31T20:00",
@@ -409,6 +441,14 @@
       "venue": "Holocene"
     },
     {
+      "dropped": "willamette_week:19510911@2026-07-31T21:00",
+      "kept": "dopdx:17352883",
+      "start_at": "2026-07-31T21:00:00-07:00",
+      "title_dropped": "1tbsp",
+      "title_kept": "1 Tbsp",
+      "venue": "NOVA PDX"
+    },
+    {
       "dropped": "willamette_week:18803875@2026-07-31T21:00",
       "kept": "dopdx:17315982",
       "start_at": "2026-07-31T21:00:00-07:00",
@@ -423,6 +463,14 @@
       "title_dropped": "Special Event: Margaret Cho: Choligarchy",
       "title_kept": "Margaret Cho: Choligarchy",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19510915@2026-07-31T22:00",
+      "kept": "dopdx:17297551",
+      "start_at": "2026-07-31T22:00:00-07:00",
+      "title_dropped": "Hybrid Minds",
+      "title_kept": "Hybrid Minds",
+      "venue": "45 East"
     },
     {
       "dropped": "willamette_week:19225591@2026-07-31T23:55",
@@ -455,6 +503,14 @@
       "title_dropped": "2026 Chinese Festival",
       "title_kept": "2026 Chinese Festival",
       "venue": "Pioneer Courthouse Square"
+    },
+    {
+      "dropped": "willamette_week:19510918@2026-08-01T12:00",
+      "kept": "dopdx:17218818",
+      "start_at": "2026-08-01T12:00:00-07:00",
+      "title_dropped": "All Out War & Balmora & Dead Heat & Doomsday & Firestarter & POINT OF CONTACT & Scalp & Witness Chamber",
+      "title_kept": "North West Hardcore Fest",
+      "venue": "The Off Beat"
     },
     {
       "dropped": "willamette_week:19394659@2026-08-01T16:00",
@@ -609,6 +665,14 @@
       "venue": "Patricia Reser Center for the Arts"
     },
     {
+      "dropped": "willamette_week:19510929@2026-08-01T20:00",
+      "kept": "dopdx:17584814",
+      "start_at": "2026-08-01T19:30:00-07:00",
+      "title_dropped": "Retro Rock Night",
+      "title_kept": "Throwbacks",
+      "venue": "Atlantis Lounge"
+    },
+    {
       "dropped": "willamette_week:18350425@2026-08-01T20:00",
       "kept": "dopdx:17045420",
       "start_at": "2026-08-01T20:00:00-07:00",
@@ -687,6 +751,14 @@
       "title_dropped": "Special Event: Margaret Cho: Choligarchy",
       "title_kept": "Margaret Cho: Choligarchy",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19510933@2026-08-01T22:00",
+      "kept": "dopdx:17283413",
+      "start_at": "2026-08-01T22:00:00-07:00",
+      "title_dropped": "Ranger Trucco",
+      "title_kept": "Ranger Trucco",
+      "venue": "45 East"
     },
     {
       "dropped": "willamette_week:19322381@2026-08-01T22:00",
@@ -4385,9 +4457,9 @@
       "venue": "Hillsboro Ballpark"
     }
   ],
-  "event_count": 6008,
-  "floor_check": "6008 events against a 5958-event baseline",
-  "generated_at": "2026-07-30T18:44:10+00:00",
+  "event_count": 6068,
+  "floor_check": "6068 events against a 5958-event baseline",
+  "generated_at": "2026-07-30T18:50:42+00:00",
   "problems": [],
   "sources": [
     "calagator",
