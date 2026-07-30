@@ -4638,6 +4638,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-07-30T22:30:00-07:00",
+      "id": "willamette_week:19513686@2026-07-30T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ILE8TnzLr0eeNOaH3IEVrg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://portland.boldtypetickets.com/events/185968068/laura-peek-and-friends",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 22.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-07-30T20:00:00-07:00",
+      "summary": "You may know Portland-adjacent comedians Amy Miller and Laura Peek from the All Fantasy Everything podcast, After Midnight with Taylor Tomlinson, or their Don’t Tell Comedy specials. Come celebrate their PDX influence at this special Siren Theater show featuring a few surprise guests. Bonus: Miller and Peek will do new material for what they call “Portland, the best comedy crowd in the world.”",
+      "ticket_url": "https://portland.boldtypetickets.com/events/185968068/laura-peek-and-friends",
+      "title": "Amy Miller & Laura Peek",
+      "venue": {
+        "address": "3913 N. Mississippi Ave.",
+        "city": "Portland",
+        "latitude": 45.551131,
+        "longitude": -122.675849,
+        "name": "The Siren Theater"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-07-30T00:00:00-07:00",
@@ -19019,6 +19051,34 @@
         "latitude": 45.5005865,
         "longitude": -122.6546943,
         "name": "Pioneer Courthouse Square"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "id": "willamette_week:19513206@2026-08-02T11:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yr9tf7ESSUei40tGIXAkFw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://breakside.com/events/drag-brunch-2/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-02T11:30:00-07:00",
+      "summary": "Breakside Drag Brunch! Treat yourself to a fabulous Drag Brunch with Nicole Onoscopi and friends! Our chef is whipping up another delightful menu, along with mimosas, bloody marys, and all the beer your heart can dream of! Grab your tickets in advance, because we sell out quick! Doors at 10:45am | Show at 11:30am Grab your tickets today!",
+      "title": "Drag Brunch with Nicole Onoscopi",
+      "venue": {
+        "address": "Northwest 22nd Ave.",
+        "city": "Portland",
+        "latitude": 45.532524,
+        "longitude": -122.696686,
+        "name": "Breakside Brewery - NW Slabtown"
       }
     },
     {
@@ -90841,6 +90901,38 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-08-21T13:00:00-07:00",
+      "id": "willamette_week:19513654@2026-08-21T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hs5F9kl9T0irtfqMGQUOlQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://events.humanitix.com/free-noontime-concert",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-21T12:00:00-07:00",
+      "summary": "Enjoy our free monthly concert series with top musicians! Hossein Salehi Master Persian Santoor player. Born in 1949 in Tehran, Iran; Hossein was exposed to traditional Iranian music by his father, Maestro Abbas Salehi, a master violinist. At age seven, Hossein became enamored with the shimmering sound of the Santoor (Persian hammered dulcimer) and began teaching himself to play as well as learning music fundamentals from his father. After twenty years of extensive training, he studied under some of Iran’s most renowned musicians. Throughout his musical career, Maestro Salehi has been the recipient of many awards. In 1998, the Oregon Historical Society recognized him as a master artist on the Santoor and in Persian Music. All ages, free, registration requested, consider donating to EJC programming at checkout. Pack a lunch or stop by one of the many pods at 24th and Glisan, bring your food in (no pork or shellfish, please), and come and hear the music! Small concerts that are semi-acoustic and always enlivening. All are welcome. What better thing is there to do on a Friday afternoon?!",
+      "ticket_url": "https://events.humanitix.com/free-noontime-concert",
+      "title": "Master Iranian Santoor Player Hossein Salehi: EJC Free Noontime Concert!",
+      "venue": {
+        "address": "2420 NE Sandy Blvd.",
+        "city": "Portland",
+        "latitude": 45.527603,
+        "longitude": -122.640667,
+        "name": "Eastside Jewish Commons"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-08-21T15:00:00-07:00",
       "id": "willamette_week:18548788@2026-08-21T12:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/81BiVnn48EatUD43M2lqcg.large.png",
@@ -116502,7 +116594,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-30T18:49:38+00:00",
+  "generated_at": "2026-07-30T20:36:43+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
