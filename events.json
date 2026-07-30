@@ -87535,6 +87535,37 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-08-15T03:00:00-07:00",
+      "id": "willamette_week:19465086@2026-08-14T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9PFzOrcTSEmZ_cddo0kGew.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://velvetropepdx.com/event/8-14-2026/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 80.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-14T20:00:00-07:00",
+      "summary": "The competition is optional. The fun isn’t. • Playful, lifestyle-inspired games • Greek-inspired attire earns BONUS points (encouraged, not required) • Sign up online before the event to earn BONUS points • Participate in as many—or as few—games as you’d like • Full club, hot tubs & play spaces open all night Whether you’re competing for gold or just soaking up the energy, Night 1 is packed with playful competition, laughter, and flirty fun. Compete in as many—or as few—games as you’d like while earning points toward prizes and Sex Olympics bragging rights. Sign up online for bonus points and check in by 9:30PM to guarantee your spot. Greek-inspired attire also earns bonus points, but costumes are always optional. Not competing? The fun doesn’t stop there. Enjoy the dance floor, cocktails, hot tubs, and play spaces all night long. Go for the gold… or just enjoy the games.",
+      "title": "12TH ANNUAL TVR S** OLYMPICS DAY 1",
+      "venue": {
+        "address": "3533 SE Cesar E Chavez Blvd",
+        "city": "Portland",
+        "latitude": 45.496756,
+        "longitude": -122.622951,
+        "name": "The Velvet Rope"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19484100@2026-08-14T20:00",
@@ -87589,37 +87620,6 @@
         "latitude": 45.395589,
         "longitude": -122.742865,
         "name": "The Headliners Club"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-08-15T03:00:00-07:00",
-      "id": "willamette_week:19465086@2026-08-14T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9PFzOrcTSEmZ_cddo0kGew.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://velvetropepdx.com/event/8-14-2026/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 80.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-14T20:00:00-07:00",
-      "summary": "The competition is optional. The fun isn’t. • Playful, lifestyle-inspired games • Greek-inspired attire earns BONUS points (encouraged, not required) • Sign up online before the event to earn BONUS points • Participate in as many—or as few—games as you’d like • Full club, hot tubs & play spaces open all night Whether you’re competing for gold or just soaking up the energy, Night 1 is packed with playful competition, laughter, and flirty fun. Compete in as many—or as few—games as you’d like while earning points toward prizes and Sex Olympics bragging rights. Sign up online for bonus points and check in by 9:30PM to guarantee your spot. Greek-inspired attire also earns bonus points, but costumes are always optional. Not competing? The fun doesn’t stop there. Enjoy the dance floor, cocktails, hot tubs, and play spaces all night long. Go for the gold… or just enjoy the games.",
-      "title": "12TH ANNUAL TVR S** OLYMPICS DAY 1",
-      "venue": {
-        "address": "3533 SE Cesar E Chavez Blvd",
-        "city": "Portland",
-        "latitude": 45.496756,
-        "longitude": -122.622951,
-        "name": "The Velvet Rope"
       }
     },
     {
@@ -177477,5 +177477,5 @@
       }
     }
   ],
-  "generated_at": "2026-07-30T14:30:14+00:00"
+  "generated_at": "2026-07-30T14:36:22+00:00"
 }
