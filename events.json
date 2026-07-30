@@ -33148,7 +33148,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-08-04T18:30:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "summary": "EARLY START 6pm Doors6:30pm Lessons7:30pm Band",
       "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-western-showdown-saloon-tickets/14248434",
       "title": "Two-Step Tuesday with Western Edition and Dance Lessons with Peggy",
       "venue": {
@@ -43380,41 +43380,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfaFoV",
-      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/line-dancing-lessons-with-kat-showdown-saloon-tickets/14248474",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 13.86,
-        "min": 13.86
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-06T19:00:00-07:00",
-      "summary": "Learn to line dance with Kat at The Showdown!**Lessons start at 7PM then we roll right into social dancing!****Beginner friendly****No Partner Needed****Lets dance it out!**",
-      "ticket_url": "https://www.ticketweb.com/event/line-dancing-lessons-with-kat-showdown-saloon-tickets/14248474",
-      "title": "Line Dancing Lessons with Kat",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
-        "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "id": "willamette_week:19495559@2026-08-06T19:00",
@@ -43528,6 +43493,35 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:18557766@2026-08-06T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HyOz3nIWy0O4u3nEtDBIYA.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fline-dancing-lessons-with-kat-showdown-saloon-tickets%252F14248474%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-06T19:00:00-07:00",
+      "summary": "Learn to line dance with Kat at The Showdown!\\\\Lessons start at 7PM then we roll right into social dancing!\\\\\\\\Beginner friendly\\\\\\\\No Partner Needed\\\\\\\\Lets dance it out!",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fline-dancing-lessons-with-kat-showdown-saloon-tickets%252F14248474%26utm_medium%3daffiliate",
+      "title": "Line Dancing Lessons with Kat",
+      "venue": {
+        "address": "1223 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.501092,
+        "longitude": -122.652817,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -44385,6 +44379,37 @@
         "latitude": 45.519531,
         "longitude": -122.636324,
         "name": "Goodfoot"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfaFoV",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/line-dancing-lessons-with-kat-showdown-saloon-tickets/14248474",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-08-06T20:00:00-07:00",
+      "summary": "Learn to line dance with Kat at The Showdown!**Lessons start at 7PM then we roll right into social dancing!****Beginner friendly****No Partner Needed****Lets dance it out!**",
+      "ticket_url": "https://www.ticketweb.com/event/line-dancing-lessons-with-kat-showdown-saloon-tickets/14248474",
+      "title": "Line Dancing Lessons with Kat",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -178930,5 +178955,5 @@
       }
     }
   ],
-  "generated_at": "2026-07-30T18:40:39+00:00"
+  "generated_at": "2026-07-30T18:44:10+00:00"
 }
