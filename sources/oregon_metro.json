@@ -2,56 +2,6 @@
   "events": [
     {
       "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:metro-council-meeting-2026-07-30",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metro-council-meeting-2026-07-30",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-07-30T10:00:00-07:00",
-      "title": "Metro Council meeting",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "oregon_metro:summer-fun-days-blue-lake-regional-park-2026-07-30",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/summer-fun-days-blue-lake-regional-park-2026-07-30",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-07-30T11:00:00-07:00",
-      "title": "Summer fun days at Blue Lake Regional Park",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.55596,
-        "longitude": -122.45242,
-        "name": "Blue Lake Regional Park"
-      }
-    },
-    {
-      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:life-jacket-giveaway-2026-07-30",
@@ -2753,7 +2703,7 @@
       "title": "Committee on Racial Equity meeting"
     }
   ],
-  "generated_at": "2026-07-30T18:51:58+00:00",
+  "generated_at": "2026-07-30T20:39:10+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
