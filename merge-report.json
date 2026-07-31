@@ -3689,6 +3689,14 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "dopdx:16762182",
+      "kept": "ticketmaster:rZ7HnEZ1A4ZduK",
+      "start_at": "2026-08-23T19:00:00-07:00",
+      "title_dropped": "Church Of Hive",
+      "title_kept": ".MS.BOAN / SRSQ with Jackie Body",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:19012546@2026-08-23T19:00",
       "kept": "dopdx:17358754",
       "start_at": "2026-08-23T19:00:00-07:00",
@@ -4433,9 +4441,9 @@
       "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 6031,
-  "floor_check": "6031 events against a 6030-event baseline",
-  "generated_at": "2026-07-31T16:52:54+00:00",
+  "event_count": 6033,
+  "floor_check": "6033 events against a 6030-event baseline",
+  "generated_at": "2026-07-31T16:55:59+00:00",
   "problems": [],
   "sources": [
     "calagator",
