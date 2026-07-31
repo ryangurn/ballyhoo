@@ -5934,6 +5934,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1A4ZduK",
+      "image_url": "https://s1.ticketm.net/dam/a/f13/1929b20b-8023-456b-a6fc-09782cdf0f13_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/msboan-srsq-with-jackie-star-theater-tickets/15003353",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 22.12,
+        "min": 22.12
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-08-23T19:00:00-07:00",
+      "summary": "MOAN ZONE & HUNTER : PRESENTS MS. BOANSRSQJACKIE BODY 6.30pm door : 7pm show$15 pre : $20 dos21+includes admission to HIVE vs MOAN ZONE dance party at 10pm",
+      "ticket_url": "https://www.ticketweb.com/event/msboan-srsq-with-jackie-star-theater-tickets/15003353",
+      "title": ".MS.BOAN / SRSQ with Jackie Body",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A70YeF",
       "image_url": "https://s1.ticketm.net/dam/a/834/36bd28bc-32a5-45fd-a48c-915a2131d834_1654091_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -13071,6 +13102,34 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:Z7r9jZ1A70P40",
+      "image_url": "https://s1.ticketm.net/dam/a/e10/e07f18ff-d073-4029-8788-a1ad44dabe10_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70P40",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-06T20:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70P40",
+      "title": "Lolo",
+      "venue": {
+        "address": "1001 SE Morrison St",
+        "city": "Portland",
+        "latitude": 45.513901,
+        "longitude": -122.642799,
+        "name": "Holocene"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7xpvz",
       "image_url": "https://s1.ticketm.net/dam/a/e1c/a4b656a9-3f89-4f7f-bb44-981173629e1c_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -17522,6 +17581,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1A7PKAZ",
+      "image_url": "https://s1.ticketm.net/dam/a/033/3e6df469-1176-4e65-8b42-879ec07b7033_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PKAZ",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-18T20:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PKAZ",
+      "title": "Maddie Zahm w/ OSTON",
+      "venue": {
+        "address": "1507 SE 39th Ave",
+        "city": "Portland",
+        "latitude": 45.513901,
+        "longitude": -122.642799,
+        "name": "Hawthorne Theatre"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:Z7r9jZ1A7-z-K",
@@ -20500,7 +20587,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-31T14:37:06+00:00",
+  "generated_at": "2026-07-31T16:55:23+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
