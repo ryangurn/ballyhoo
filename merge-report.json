@@ -97,6 +97,14 @@
       "venue": "Portland International Raceway"
     },
     {
+      "dropped": "willamette_week:18518540@2026-08-27T18:00",
+      "kept": "dopdx:17188664",
+      "start_at": "2026-08-27T18:00:00-07:00",
+      "title_dropped": "Shook Twins + The National Parks",
+      "title_kept": "Shook Twins + The National Parks",
+      "venue": "Topaz Farm"
+    },
+    {
       "dropped": "willamette_week:19510903@2026-07-31T18:30",
       "kept": "portland_parks:2026-07-31-spring-garden-park-story-tune",
       "start_at": "2026-07-31T18:30:00-07:00",
@@ -3921,14 +3929,6 @@
       "venue": "Barrel Room Portland"
     },
     {
-      "dropped": "willamette_week:18518540@2026-08-27T18:00",
-      "kept": "dopdx:17188664",
-      "start_at": "2026-08-27T18:00:00-07:00",
-      "title_dropped": "Shook Twins + The National Parks",
-      "title_kept": "Shook Twins + The National Parks",
-      "venue": "Topaz Farm"
-    },
-    {
       "dropped": "willamette_week:17962659@2026-08-27T18:35",
       "kept": "ticketmaster:Z7r9jZ1A7Qvby",
       "start_at": "2026-08-27T18:35:00-07:00",
@@ -4433,9 +4433,9 @@
       "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 6030,
-  "floor_check": "6030 events against a 6030-event baseline",
-  "generated_at": "2026-07-31T15:50:09+00:00",
+  "event_count": 6031,
+  "floor_check": "6031 events against a 6030-event baseline",
+  "generated_at": "2026-07-31T16:52:54+00:00",
   "problems": [],
   "sources": [
     "calagator",
