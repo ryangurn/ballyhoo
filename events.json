@@ -12471,35 +12471,6 @@
     },
     {
       "categories": [
-        "film"
-      ],
-      "end_at": "2026-08-01T17:00:00-07:00",
-      "id": "willamette_week:19508406@2026-08-01T15:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5rhrBL155UKm1sofyt1yhQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://cstpdx.com/event/pdx-48-hour-film-project-2026-block-c/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-01T15:00:00-07:00",
-      "summary": "Please make sure you are purchasing the correct tickets. These are tickets for Block C. Join us for an exciting celebration of local talent and creativity as we witness how Portland filmmakers brought their cinematic visions to life in just 48 hours! Don’t miss this chance to catch these short films crafted in a whirlwind of passion, collaboration, and inspiration. With genres such as horror, romance, comedy, suspense, and more- there is truly something for everyone at a PDX 48HFP screening!",
-      "title": "PDX 48 Hour Film Project 2026: Block C",
-      "venue": {
-        "address": "2522 SE Clinton St",
-        "city": "Portland",
-        "latitude": 45.5033352971,
-        "longitude": -122.640119344,
-        "name": "Clinton Street Theater"
-      }
-    },
-    {
-      "categories": [
         "outdoors"
       ],
       "end_at": "2026-08-01T20:00:00-07:00",
@@ -12528,6 +12499,35 @@
         "latitude": 45.519869,
         "longitude": -122.70799,
         "name": "Portland International Rose Test Garden"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-08-01T17:00:00-07:00",
+      "id": "willamette_week:19508406@2026-08-01T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5rhrBL155UKm1sofyt1yhQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://cstpdx.com/event/pdx-48-hour-film-project-2026-block-c/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-01T15:00:00-07:00",
+      "summary": "Please make sure you are purchasing the correct tickets. These are tickets for Block C. Join us for an exciting celebration of local talent and creativity as we witness how Portland filmmakers brought their cinematic visions to life in just 48 hours! Don’t miss this chance to catch these short films crafted in a whirlwind of passion, collaboration, and inspiration. With genres such as horror, romance, comedy, suspense, and more- there is truly something for everyone at a PDX 48HFP screening!",
+      "title": "PDX 48 Hour Film Project 2026: Block C",
+      "venue": {
+        "address": "2522 SE Clinton St",
+        "city": "Portland",
+        "latitude": 45.5033352971,
+        "longitude": -122.640119344,
+        "name": "Clinton Street Theater"
       }
     },
     {
@@ -13460,6 +13460,38 @@
         "address": "6414 se foster rd",
         "city": "portland",
         "name": "Fern & Wolf"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-08-01T21:00:00-07:00",
+      "id": "willamette_week:19514607@2026-08-01T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yiK_ENtTuEegLd7i7I275Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.starfestival.org/submissions",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.8,
+        "min": 20.8
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-01T18:00:00-07:00",
+      "summary": "It's Here! The 6th Annual Tauraro Film Festival of Black and Native films from filmmakers, documentarians and artists outside the binary. We're at The Vault this year on the westside. Tix are $20 with doors at 6pm and screenings at 7pm. Libations available in the lobby. Come thru! You won't want to miss this very special Summer event. 18+",
+      "ticket_url": "https://bagnbaggage.app.getcuebox.com/o/SJ0K0BCF/shows/BN7P7Y43?fbclid=IwdGRjcATYzRtjbGNrBNjM7nBkb2YFZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe2VcDr3C7AYUzSxCegpX_0udIkQVcQ1ykhRLzXsYtWGKDQcU0iGUpnR5MlIk_aem_XsERehvc89E1jNNa4-hDCw",
+      "title": "6th Annual Tauraro Film Festival",
+      "venue": {
+        "address": "350 E. Main St.",
+        "city": "Hillsboro",
+        "latitude": 45.52244,
+        "longitude": -122.985075,
+        "name": "The Vault Theater"
       }
     },
     {
@@ -47508,9 +47540,15 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1775862902/event-17204686.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/8/7/leave-your-troubles-at-the-door-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 15.0,
+        "min": 12.0
       },
       "source": {
         "id": "dopdx",
@@ -47518,6 +47556,8 @@
         "url": "https://dopdx.com"
       },
       "start_at": "2026-08-07T22:00:00-07:00",
+      "summary": "Leave Your Troubles at The Door is a completely improvised stand-up comedy showcase where the audience's anonymously submitted problems help create the topics of jokes that comedians riff on stage. Audience members write their problems / troubles down on pieces of paper, put them in a box before the show and then many of the best comedians from the Pacific Northwest and beyond take on those issues using their on-the-spot jokes. You can STAY anonymous, too. It's a rare comedy show where instead of the comedians joking about their problems, they joke about yours! You're more than likely to walk away from the show feeling at least slightly better about your problems. Just leave 'em at the door. This month features SEAN JORDAN (Comedy Central, The Late Late Show, All Fantasy Everything), Ameerah Sanders (Astrobabe Comedy, Helium Comedy Club), M.K. Paulsen (Inside Jokes on Amazon Prime), Cody Chasteen and Sabrena Contreras. Hosted by Chris Hudson. Doors at 10 PM, show at 10:30 PM. Visit @leaveyourtroubles on Instagram for more info!",
+      "ticket_url": "https://tickettailor.com/events/livecomedy/2338263",
       "title": "Leave Your Troubles at the Door",
       "venue": {
         "address": "2432 SE 11th Ave, Portland, Oregon 97214",
@@ -179734,5 +179774,5 @@
       }
     }
   ],
-  "generated_at": "2026-07-31T03:52:13+00:00"
+  "generated_at": "2026-07-31T03:56:19+00:00"
 }

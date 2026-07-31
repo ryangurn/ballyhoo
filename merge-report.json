@@ -1409,6 +1409,14 @@
       "venue": "Helium Comedy Club - Portland"
     },
     {
+      "dropped": "willamette_week:19514606@2026-08-07T22:00",
+      "kept": "dopdx:17204686",
+      "start_at": "2026-08-07T22:00:00-07:00",
+      "title_dropped": "Leave Your Troubles at The Door (stand-up comedy)",
+      "title_kept": "Leave Your Troubles at the Door",
+      "venue": "Funhouse Lounge"
+    },
+    {
       "dropped": "dopdx:17339137",
       "kept": "ticketmaster:rZ7HnEZ1Af03pd",
       "start_at": "2026-08-07T23:55:00-07:00",
@@ -4425,9 +4433,9 @@
       "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 6031,
-  "floor_check": "6031 events against a 6081-event baseline",
-  "generated_at": "2026-07-31T03:52:13+00:00",
+  "event_count": 6032,
+  "floor_check": "6032 events against a 6081-event baseline",
+  "generated_at": "2026-07-31T03:56:19+00:00",
   "problems": [],
   "sources": [
     "calagator",
