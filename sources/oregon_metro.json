@@ -1674,56 +1674,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "id": "oregon_metro:2026-10-31",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/2026-10-31",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-31T09:00:00-07:00",
-      "title": "Household hazardous waste neighborhood collection event",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.32208,
-        "longitude": -122.57526,
-        "name": "Clackamas Community College - Wilsonville campus"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:metro-council-work-session-2026-11-03",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-11-03",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-03T10:00:00-08:00",
-      "title": "Metro Council work session",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metropolitan-exposition-recreation-commission-meeting-2026-11-04",
@@ -1833,31 +1783,6 @@
         "latitude": 45.51056,
         "longitude": -122.52072,
         "name": "Savage Memorial Presbyterian Church"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:planting-scouters-mountain-2026-11-07",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/planting-scouters-mountain-2026-11-07",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-07T10:30:00-08:00",
-      "title": "Planting at Scouters Mountain",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.44707,
-        "longitude": -122.50858,
-        "name": "Scouters Mountain Nature Park"
       }
     },
     {
@@ -2486,75 +2411,6 @@
       "categories": [
         "civic"
       ],
-      "id": "oregon_metro:future-vision-commission-meeting-2026-12-10",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/future-vision-commission-meeting-2026-12-10",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-12-10T16:00:00-08:00",
-      "title": "Future Vision Commission meeting",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:metro-council-work-session-2026-12-15",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-12-15",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-12-15T10:00:00-08:00",
-      "title": "Metro Council work session",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:transportation-policy-alternatives-committee-workshop-2026-12-16",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/transportation-policy-alternatives-committee-workshop-2026-12-16",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-12-16T09:00:00-08:00",
-      "title": "Transportation Policy Alternatives Committee workshop"
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "id": "oregon_metro:metro-policy-advisory-committee-meeting-2026-12-16",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-policy-advisory-committee-meeting-2026-12-16",
@@ -2678,7 +2534,7 @@
       "title": "Committee on Racial Equity meeting"
     }
   ],
-  "generated_at": "2026-07-31T21:33:35+00:00",
+  "generated_at": "2026-07-31T23:27:28+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
