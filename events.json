@@ -146885,6 +146885,37 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-08-29T20:00:00-07:00",
+      "id": "willamette_week:19268710@2026-08-29T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Sgh0aiKl9UqBeWwVdU-WNA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://sidereuswinery.com/event/live-music-with-lane-norberg/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T17:00:00-07:00",
+      "summary": "Portland singer/songwriter Lane Norberg joins Sidereus Winery on Saturday, Aug. 29 from 5-8 p.m. for an after-hours special music event. Lane has captivated audiences everywhere through his honest songwriting and warming vocals and a “James Taylor meets John Mayer” style. The performance will be outdoors on the deck. Seating is first come, first served. Feel free to bring blankets and lawn chair for lawn seating. Wine will be available by the glass or bottle, along with beer and nonalcoholic beverages.",
+      "title": "Live Music with Lane Norberg at Sidereus Winery",
+      "venue": {
+        "address": "5195 SW Hergert Rd",
+        "city": "Cornelius",
+        "latitude": 45.4831,
+        "longitude": -123.07762,
+        "name": "Sidereus Vineyard & Winery"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-08-29T19:00:00-07:00",
       "id": "willamette_week:19099105@2026-08-29T17:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yJGIdHwZxEWgwN_eTD9Tjw.large.png",
@@ -146940,37 +146971,6 @@
         "latitude": 45.5214884877,
         "longitude": -122.6874154061,
         "name": "Artists Repertory Theatre"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-29T20:00:00-07:00",
-      "id": "willamette_week:19268710@2026-08-29T17:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Sgh0aiKl9UqBeWwVdU-WNA.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://sidereuswinery.com/event/live-music-with-lane-norberg/",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-29T17:00:00-07:00",
-      "summary": "Portland singer/songwriter Lane Norberg joins Sidereus Winery on Saturday, Aug. 29 from 5-8 p.m. for an after-hours special music event. Lane has captivated audiences everywhere through his honest songwriting and warming vocals and a “James Taylor meets John Mayer” style. The performance will be outdoors on the deck. Seating is first come, first served. Feel free to bring blankets and lawn chair for lawn seating. Wine will be available by the glass or bottle, along with beer and nonalcoholic beverages.",
-      "title": "Live Music with Lane Norberg at Sidereus Winery",
-      "venue": {
-        "address": "5195 SW Hergert Rd",
-        "city": "Cornelius",
-        "latitude": 45.4831,
-        "longitude": -123.07762,
-        "name": "Sidereus Vineyard & Winery"
       }
     },
     {
@@ -182454,5 +182454,5 @@
       }
     }
   ],
-  "generated_at": "2026-07-31T23:17:03+00:00"
+  "generated_at": "2026-07-31T23:19:32+00:00"
 }
