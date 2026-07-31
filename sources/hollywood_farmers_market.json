@@ -1017,9 +1017,41 @@
         "longitude": -122.61756,
         "name": "Hollywood Farmers Market"
       }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-28T13:00:00-08:00",
+      "id": "hollywood_farmers_market:market@2026-11-28",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-11-28T08:00:00-08:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
     }
   ],
-  "generated_at": "2026-07-31T03:59:56+00:00",
+  "generated_at": "2026-07-31T09:23:26+00:00",
   "source_id": "hollywood_farmers_market",
   "status": "ok"
 }
