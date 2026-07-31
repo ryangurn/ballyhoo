@@ -16070,6 +16070,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-02T00:00:00-07:00",
+      "id": "willamette_week:19515806@2026-08-02T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vTLaxqYVP0yQn3pRWtsZjw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108480643?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-02T19:00:00-07:00",
+      "summary": "We’re a regularly working Country Blues band with a unique sound realized by traditional vocal harmonies, tight arrangements, and hot picking. We meld these together through the country blues lexicon employing Bluegrass drive, Honky Tonk swing, Old Time fiddling, Surf Rock, Rockabilly, and whatever else spurs our inspiration. We've shared bills with: Wayne Hancock, Reverend Peyton's Big Damn Band, JP Harris & the Tough Choices, Foghorn Stringband, Dawg Yawp, Husky Burnette, Filthy Still, Joseph Huber, the Urban Pioneers, the Sweetback Sisters, the Ten Foot Polecats, Sasquatch and the Sickabillies, Josh Morningstar, Jake & the Burtones and many other acts. We've played at numerous festivals, have played live on television and radio, and have appreciated air play several terrestrial stations in the US and Rockabilly Worldwide's 24-hr. Rockin' Therapy Radio in Europe. Joe Macheret \\(Cincinnati, OH\\), bandleader, has also lent his instrumental skills on stage and in the studio to folks like the Tillers, Woody Pines, JD Wilkes, Rachel Brooke, the Urban Pioneers, Wayne Hancock, Lucky Tubb and the Modern Day Troubadours, Lenny Lashley, and many other musicians and bands. Through Joe’s Truck Stop’s touring effort and Joe’s work as a sideman with several touring bands, Joe’s Truck Stop has a following that spreads throughout the United States, as well as numerous other countries. “...I couldn’t help but be in awe of the picking skills and tone manipulation work of guitarist Joe Macheret. Throughout the evening, his array of visibly road-weary tools created a variety of sounds from classic chicken pickin, to lap steel sounding slides and bends that would rival the finest high end tele/tube amp combo. At one point in the evening he set down the six strings to ask a lovely lady for a dance, mid-song, and dance they did.” -Tuning Fork Magazine",
+      "title": "Joe's Truck Stop",
+      "venue": {
+        "address": "2327 SE 60th Ave",
+        "city": "Portland",
+        "latitude": 45.48415735,
+        "longitude": -122.71588695,
+        "name": "House Show"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "id": "willamette_week:19484088@2026-08-02T19:00",
@@ -16415,6 +16444,64 @@
         "latitude": 45.4913146584866,
         "longitude": -122.8071339999992,
         "name": "Patricia Reser Center for the Arts"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-02T00:00:00-07:00",
+      "id": "willamette_week:19515809@2026-08-02T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dv-c5oTiy0u6-p4M6LCb5Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108662287?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-02T20:00:00-07:00",
+      "summary": "Full Band",
+      "title": "The Horsenecks",
+      "venue": {
+        "address": "2014 NE 42nd Ave",
+        "city": "Portland",
+        "latitude": 45.53734629999999,
+        "longitude": -122.6197918,
+        "name": "The Moon and Sixpence"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-02T00:00:00-07:00",
+      "id": "willamette_week:19515808@2026-08-02T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tc7oA7-TQUqW0U3uSx097A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108516176?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-02T20:00:00-07:00",
+      "summary": "Doors at 7 Show at 8 Ticket link coming soon!",
+      "title": "Hannah Juanita & Leroy From the North",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.5010531,
+        "longitude": -122.6528153,
+        "name": "The Showdown"
       }
     },
     {
@@ -115572,7 +115659,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-31T16:59:39+00:00",
+  "generated_at": "2026-07-31T18:47:50+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
