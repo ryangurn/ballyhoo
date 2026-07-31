@@ -737,6 +737,14 @@
       "venue": "Patricia Reser Center for the Arts"
     },
     {
+      "dropped": "willamette_week:19515808@2026-08-02T20:00",
+      "kept": "dopdx:17525171",
+      "start_at": "2026-08-02T20:00:00-07:00",
+      "title_dropped": "Hannah Juanita & Leroy From the North",
+      "title_kept": "Hannah Juanita & the Hardliners and Leroy From the North",
+      "venue": "The Showdown"
+    },
+    {
       "dropped": "dopdx:17352810",
       "kept": "ticketmaster:Z7r9jZ1A70tvs",
       "start_at": "2026-08-02T20:00:00-07:00",
@@ -4441,9 +4449,9 @@
       "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 6075,
-  "floor_check": "6075 events against a 6030-event baseline",
-  "generated_at": "2026-07-31T18:44:40+00:00",
+  "event_count": 6077,
+  "floor_check": "6077 events against a 6030-event baseline",
+  "generated_at": "2026-07-31T18:49:14+00:00",
   "problems": [],
   "sources": [
     "calagator",
