@@ -3561,6 +3561,14 @@
       "venue": "Clackamas County Event Center"
     },
     {
+      "dropped": "willamette_week:19516128@2026-08-22T19:30",
+      "kept": "dopdx:17599304",
+      "start_at": "2026-08-22T20:00:00-07:00",
+      "title_dropped": "Telltale Presents: LET'S HOLD HANDS AT THE END OF THE WORLD",
+      "title_kept": "Telltale Presents: Let’S Hold Hands (At The End Of The World)",
+      "venue": "Kelly's Olympian"
+    },
+    {
       "dropped": "willamette_week:19428230@2026-08-22T20:00",
       "kept": "ticketmaster:Z7r9jZ1A7PEfY",
       "start_at": "2026-08-22T20:00:00-07:00",
@@ -4449,9 +4457,9 @@
       "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 6080,
-  "floor_check": "6080 events against a 6037-event baseline",
-  "generated_at": "2026-07-31T20:37:46+00:00",
+  "event_count": 6107,
+  "floor_check": "6107 events against a 6037-event baseline",
+  "generated_at": "2026-07-31T20:38:45+00:00",
   "problems": [],
   "sources": [
     "calagator",
