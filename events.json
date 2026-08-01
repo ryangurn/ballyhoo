@@ -119,37 +119,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfaF_V",
-      "image_url": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/the-midnight-show-with-johnny-showdown-saloon-tickets/14248674",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-07-31T23:45:00-07:00",
-      "summary": "Free Show!",
-      "ticket_url": "https://www.ticketweb.com/event/the-midnight-show-with-johnny-showdown-saloon-tickets/14248674",
-      "title": "THE MIDNIGHT SHOW with JOHNNY FRANCO & His Real Brother Dom with their Six Pack of Buds",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
-        "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "end_at": "2026-08-01T12:00:00-07:00",
@@ -136485,41 +136454,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-29T02:00:00-07:00",
-      "id": "dopdx:17339140",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1778532214/event-17339140.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/8/28/hotwax-disco-glam-metal-punk-hiphop-tickets",
-      "merged_sources": [
-        "dopdx",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 2.08,
-        "min": 2.08
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-08-28T23:55:00-07:00",
-      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fhotwax-discoglammetalpunkhiphop-dantes-tickets%252F14912533%26utm_medium%3daffiliate",
-      "title": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
-      "venue": {
-        "address": "350 West Burnside",
-        "city": "Portland",
-        "latitude": 45.5229642,
-        "longitude": -122.6737152,
-        "name": "Dante's"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-08-29T01:55:00-07:00",
@@ -136546,6 +136480,42 @@
         "address": "2432 SE 11th Ave, Portland, Oregon 97214",
         "city": "Portland",
         "name": "Funhouse Lounge"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-29T02:00:00-07:00",
+      "id": "ticketmaster:rZ7HnEZ1Af03fS",
+      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/hotwax-discoglammetalpunkhiphop-dantes-tickets/14912533",
+      "merged_sources": [
+        "dopdx",
+        "ticketmaster"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 2.08,
+        "min": 2.08
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-08-28T23:55:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/hotwax-discoglammetalpunkhiphop-dantes-tickets/14912533",
+      "title": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
       }
     },
     {
@@ -176646,5 +176616,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-01T08:58:08+00:00"
+  "generated_at": "2026-08-01T09:19:33+00:00"
 }

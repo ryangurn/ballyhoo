@@ -3945,6 +3945,14 @@
       "venue": "Funhouse Lounge"
     },
     {
+      "dropped": "dopdx:17339140",
+      "kept": "ticketmaster:rZ7HnEZ1Af03fS",
+      "start_at": "2026-08-28T23:55:00-07:00",
+      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19225591@2026-08-28T23:55",
       "kept": "dopdx:17339140",
       "start_at": "2026-08-28T23:55:00-07:00",
@@ -4329,9 +4337,9 @@
       "venue": "Hawthorne Theatre"
     }
   ],
-  "event_count": 5932,
-  "floor_check": "5932 events against a 5937-event baseline",
-  "generated_at": "2026-08-01T08:58:08+00:00",
+  "event_count": 5931,
+  "floor_check": "5931 events against a 5937-event baseline",
+  "generated_at": "2026-08-01T09:19:33+00:00",
   "problems": [],
   "sources": [
     "calagator",
