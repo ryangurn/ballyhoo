@@ -551,34 +551,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A7QvbY",
-      "image_url": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QvbY",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-07-31T18:35:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7QvbY",
-      "title": "Hillsboro Hops vs. Everett AquaSox",
-      "venue": {
-        "address": "4460 NW 229th Ave",
-        "city": "Hillsboro",
-        "latitude": 45.616501,
-        "longitude": -122.954498,
-        "name": "Hillsboro Ballpark"
-      }
-    },
-    {
-      "categories": [
         "film"
       ],
       "end_at": "2026-08-01T02:00:00-07:00",
@@ -722,6 +694,34 @@
         "address": "1510 SE 9th Ave",
         "city": "Portland",
         "name": "Helium Comedy Club"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-08-01T02:00:00-07:00",
+      "id": "dopdx:17431929",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1780463969/event-17431929.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/7/31/portland-fire-vs-indiana-fever-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-07-31T19:00:00-07:00",
+      "title": "Portland Fire vs Indiana Fever",
+      "venue": {
+        "address": "1 N Center Court St",
+        "city": "Portland",
+        "latitude": 45.53149690000001,
+        "longitude": -122.6667829,
+        "name": "Moda Center"
       }
     },
     {
@@ -1063,40 +1063,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "end_at": "2026-08-01T02:00:00-07:00",
-      "id": "ticketmaster:vvG1HZ_6KNaGYp",
-      "image_url": "https://s1.ticketm.net/dam/a/cd2/d1df13b2-f278-4244-add4-52a168fcacd2_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/portland-fire-vs-indiana-fever-portland-oregon-07-31-2026/event/0F006474E324CC16",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-07-31T19:00:00-07:00",
-      "summary": "To ensure an expedited entry experience on Rose Quarter campus, guests are permitted bags up to 10\" x 6\" x 2\" in size. Guests will hold their bags throughout the security screening process, unless they are sent to secondary screening for further inspection. Medical and childcare exceptions are permitted and will be screened via x-ray at designated locations. Medical and childcare bags cannot exceed 14\" x 14\" x 6\". Bag check will be available on a first-come-first-serve basis for a fee; however, we encourage guests to bring smaller bags (10\" x 6\" x 2\") for a faster experience. Please note checking prohibited items will be denied.",
-      "ticket_url": "https://www.ticketmaster.com/portland-fire-vs-indiana-fever-portland-oregon-07-31-2026/event/0F006474E324CC16",
-      "title": "Portland Fire vs. Indiana Fever",
-      "venue": {
-        "address": "One Center Court, Suite 100",
-        "city": "Portland",
-        "latitude": 45.53118896,
-        "longitude": -122.66645813,
-        "name": "Moda Center"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-08-01T02:00:00-07:00",
@@ -1237,6 +1203,38 @@
         "address": "120 NW Couch",
         "city": "Portland",
         "name": "Barrel Room Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-01T02:00:00-07:00",
+      "id": "dopdx:16891869",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1769707078/event-16891869.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/7/31/devotchka-a-tribute-to-the-music-of-little-miss-sunshine-tickets",
+      "organizer": "20th Anniversary of the Movie LMS",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 43.76,
+        "min": 43.76
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-07-31T20:00:00-07:00",
+      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance. General Admission & All Ages. 21+ Standing Room Only Floor / All Ages Fully Seated Balcony (Subject to Change). * GA 21+ FLOOR tickets gain general admission access to the standing room floor ONLY* * GA All Ages BALCONY tickets gain general admission access to the fully seated balcony ONLY* In a serendipitous moment on “Morning Becomes Eclectic,” the radio station KCRW in Santa Monica changed the trajectory of both indie cinema and one of Denver's most distinctive musical voices. When filmmakers Jonathan Dayton and Valerie Faris heard DeVotchKa's evocative sound drifting through the airwave",
+      "title": "DeVotchKa “A Tribute to the Music of Little Miss Sunshine”",
+      "venue": {
+        "address": "1300 SE STARK ST",
+        "city": "Portland",
+        "latitude": 45.5189728,
+        "longitude": -122.6520951,
+        "name": "Revolution Hall"
       }
     },
     {
@@ -1415,14 +1413,10 @@
         "music"
       ],
       "end_at": "2026-08-01T02:00:00-07:00",
-      "id": "ticketmaster:rZ7HnEZ1Af-UjN",
-      "image_url": "https://s1.ticketm.net/dam/a/fb9/2f37211b-6278-4c75-8ec6-505a4ac9efb9_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "dopdx:17269633",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1777151227/event-17269633.png",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/lowdown-brass-band-w-argyle-jack-london-revue-tickets/14876723",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
+      "listing_url": "https://dopdx.com/events/2026/7/31/lowdown-brass-band-tickets",
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -1430,147 +1424,17 @@
         "min": 31.39
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
       },
       "start_at": "2026-07-31T20:00:00-07:00",
-      "summary": "LowDown Brass BandNotes on Seating: Open seating, may be limited or standing room only. First come, first seated. Open dance floor may obscure sightlines. LOWDOWN BRASSEmbodying the vibrant Chicago music culture, LowDown Brass Band is a one-of-a-kind horn ensemble weaving the rhythm of the streets with conscious hip hop, reggae, and soul. Rigorously touring, LowDown has performed on the most unique stages, from the Montreal Jazz Fest to the Cotai Jazz Fest.Despite the last four years, LowDown has stayed busy, releasing Three albums, The Reel Sessions, LowDown Nights and $itizens of the World, which showcase their unique sound and further push the boundaries of their genre. Leaning on their talent and unconventional style, LowDown Brass Band continues to carve out a path, defying convention and charting their own course in the ever-evolving landscape of music.",
-      "ticket_url": "https://www.ticketweb.com/event/lowdown-brass-band-w-argyle-jack-london-revue-tickets/14876723",
+      "summary": "LowDown Brass BandNotes on Seating: Open seating, may be limited or standing room only. First come, first seated. Open dance floor may obscure sightlines. Embodying the vibrant Chicago music culture, LowDown Brass Band is a one-of-a-kind horn ensemble weaving the rhythm of the streets with conscious hip hop, reggae, and soul. Rigorously touring, LowDown has performed on the most unique stages, from the Montreal Jazz Fest to the Cotai Jazz Fest.Despite the last four years, LowDown has stayed busy, releasing Three albums, The Reel Sessions, LowDown Nights and $itizens of the World, which showcase their unique sound and further push the boundaries of their genre. Leaning on their talent and unconventional style, LowDown Brass Band continues to",
       "title": "LOWDOWN BRASS BAND w/ Argyle",
       "venue": {
-        "address": "529 SW 4th Ave.",
+        "address": "529 SW 4th Ave",
         "city": "Portland",
-        "latitude": 45.519452,
-        "longitude": -122.676291,
         "name": "Jack London Revue"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfJZ0S",
-      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/one-way-out-star-theater-tickets/14980933",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 25.21,
-        "min": 25.21
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-07-31T20:00:00-07:00",
-      "summary": "One Way Out - Portland's Tribute to the Allman Brothers BandStar Theater and Sould Out Present:One Way Out - Portlands Premier Tribute to the Allman Brothers BandDoors: 7:00pmShow: 8:00pmAges 21+.",
-      "ticket_url": "https://www.ticketweb.com/event/one-way-out-star-theater-tickets/14980933",
-      "title": "ONE WAY OUT",
-      "venue": {
-        "address": "13 NW Sixth Avenue",
-        "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
-        "name": "Star Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfFAuf",
-      "image_url": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/the-takes-with-the-lowtimers-showdown-saloon-tickets/14205354",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 25.16,
-        "min": 25.16
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-07-31T20:00:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/the-takes-with-the-lowtimers-showdown-saloon-tickets/14205354",
-      "title": "The Takes with The Lowtimers",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
-        "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-01T02:00:00-07:00",
-      "id": "ticketmaster:Z7r9jZ1A70V8s",
-      "image_url": "https://s1.ticketm.net/dam/a/fc2/fbbfe289-1250-482b-9dc5-087fb1ba5fc2_844071_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70V8s",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "20th Anniversary of the Movie LMS",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 43.76,
-        "min": 43.76
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-07-31T20:00:00-07:00",
-      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance. General Admission & All Ages. 21+ Standing Room Only Floor / All Ages Fully Seated Balcony (Subject to Change). * GA 21+ FLOOR tickets gain general admission access to the standing room floor ONLY* * GA All Ages BALCONY tickets gain general admission access to the fully seated balcony ONLY* In a serendipitous moment on “Morning Becomes Eclectic,” the radio station KCRW in Santa Monica changed the trajectory of both indie cinema and one of Denver's most distinctive musical voices. When filmmakers Jonathan Dayton and Valerie Faris heard DeVotchKa's evocative sound drifting through the airwave",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70V8s",
-      "title": "DeVotchKa w/ Black Viiolet",
-      "venue": {
-        "address": "1300 SE Stark Street #110",
-        "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "Revolution Hall - Portland"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A70PCZ",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70PCZ",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-07-31T20:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70PCZ",
-      "title": "Left of the Dial perform R.E.M.???s Document (21 and Over)",
-      "venue": {
-        "address": "836 N Russell St",
-        "city": "Portland",
-        "latitude": 45.543499,
-        "longitude": -122.674202,
-        "name": "White Eagle Saloon and Hotel"
       }
     },
     {
@@ -23199,7 +23063,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-08-04T18:30:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "summary": "EARLY START 6pm Doors6:30pm Lessons7:30pm Band",
       "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-western-showdown-saloon-tickets/14248434",
       "title": "Two-Step Tuesday with Western Edition and Dance Lessons with Peggy",
       "venue": {
@@ -178077,5 +177941,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-01T03:46:02+00:00"
+  "generated_at": "2026-08-01T03:47:31+00:00"
 }
