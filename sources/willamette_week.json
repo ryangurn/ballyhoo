@@ -53814,6 +53814,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-08-13T18:00:00-07:00",
+      "id": "willamette_week:19517200@2026-08-13T15:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HnEZKTPn8EycNznO4P0Sfw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://shapescapemac.com/#auditions",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-13T15:30:00-07:00",
+      "summary": "Performance Opportunities: \\-Celtic Light Orchestra From the Shire September 25th-27th Echo Theater Back by popular demand, From the Shire returns after two sold out performances. Perform alongside the Celtic Light Orchestra in a theatrical concert featuring music inspired by Tolkien, Celtic traditions, and LED Zepplin. Seeking aerialists, dancers, LED performers, and flow artists for fully staged productions. \\-McMinnville Scottish Festival October 3rd-4th Yamhill County FairgroundsSpend a weekend bringing the festival grounds to life. Seeking confident improvisational aerialists and flow artists who enjoy interacting with audiences in a lively outdoor setting. Perform throughout the day on our portable aerial rig and as roaming entertainers. \\-Artifact January 30th- February 7th Echo TheaterArtifact is a collaborative creation process where performers help shape the work from the ground up. Designed for artists ready to develop choreography, performance skills, and creative confidence while building a full-length production together. Performers are compensated through an equitable profit-share model, with net proceeds divided among participating artists.",
+      "title": "ShapeScape Season Auditions",
+      "venue": {
+        "address": "1420 NW 17th Ave",
+        "city": "Portland",
+        "latitude": 45.533186,
+        "longitude": -122.688107,
+        "name": "Echo West"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-08-13T16:30:00-07:00",
@@ -111574,7 +111605,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-01T00:14:48+00:00",
+  "generated_at": "2026-08-01T03:53:58+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
