@@ -796,6 +796,56 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:2026-09-19",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/2026-09-19",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-09-19T09:00:00-07:00",
+      "title": "Household hazardous waste neighborhood collection event",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.44918,
+        "longitude": -122.82845,
+        "name": "Southwest Bible Church"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:natural-areas-and-capital-program-performance-oversight-committee-meeting-2026-09-21",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/natural-areas-and-capital-program-performance-oversight-committee-meeting-2026-09-21",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-09-21T16:30:00-07:00",
+      "title": "Natural Areas and Capital Program Performance Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metro-council-work-session-2026-09-22",
@@ -1580,6 +1630,56 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:2026-10-31",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/2026-10-31",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-31T09:00:00-07:00",
+      "title": "Household hazardous waste neighborhood collection event",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.32208,
+        "longitude": -122.57526,
+        "name": "Clackamas Community College - Wilsonville campus"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:metro-council-work-session-2026-11-03",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-11-03",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-03T10:00:00-08:00",
+      "title": "Metro Council work session",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metropolitan-exposition-recreation-commission-meeting-2026-11-04",
@@ -2045,6 +2145,69 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:free-parking-day-metro-parks-2026-11-27",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/free-parking-day-metro-parks-2026-11-27",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-27T07:00:00-08:00",
+      "title": "Free parking day at Metro parks"
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:metro-council-work-session-2026-12-01",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-12-01",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-12-01T10:00:00-08:00",
+      "title": "Metro Council work session",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:metro-central-enhancement-grant-committee-meeting-2026-12-01",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/metro-central-enhancement-grant-committee-meeting-2026-12-01",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-12-01T17:00:00-08:00",
+      "title": "Metro Central Enhancement Grant Committee meeting"
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metropolitan-exposition-recreation-commission-meeting-2026-12-02",
@@ -2446,7 +2609,7 @@
       "title": "Committee on Racial Equity meeting"
     }
   ],
-  "generated_at": "2026-08-01T06:46:15+00:00",
+  "generated_at": "2026-08-01T09:28:32+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
