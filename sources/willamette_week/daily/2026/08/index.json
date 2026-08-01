@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/willamette_week",
+  "month": "2026-08",
+  "snapshots": [
+    {
+      "bytes": 6078397,
+      "captured_at": "2026-08-01T00:14:48+00:00",
+      "content_sha256": "9f9d7e2c4b2c2c3964321ccb81c11331910390faa26433d837d6a4424129b1d7",
+      "daily": "sources/willamette_week/daily/2026/08/01.json.gz",
+      "event_count": 3778,
+      "gzip_bytes": 1385129,
+      "recent": "sources/willamette_week/recent/2026-08-01/001448Z.json.gz",
+      "sha256": "bb4807c9e8f084b7cc3116d5c2fb59d0903d8fe135d82f1ce29b7bdd627c0172",
+      "unchanged": false
+    }
+  ]
+}
