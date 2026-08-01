@@ -9198,6 +9198,36 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-08T11:30:00-07:00",
+      "id": "dopdx:17680671",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785624666/event-17680671.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/8/cully-food-forest-and-agroforestry-tour-tickets",
+      "organizer": "Portland Food Forest Initiative",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-08T10:00:00-07:00",
+      "summary": "Join Portland Food Forest Initiative for a tour of two of our NE Portland Food Forest demonstration sites! We'll explore the wonders of regenerative urban agriculture, permaculture, and food forestry. Located near 5700 NE Alberta St (you'll receive an email with exact address before the tour), this in-person tour will showcase the beauty, benefits, and complexities of syntropic agroforestry and forest garden food forests in the urban environment. Learn about permaculture, unusual and unexpectedly edible plants, and how we can create a more sustainable, resilient, nutrient-dense future that supports multi-species communities, food security, social cohesion, and connection to land. Learn more at pdxfoodforest.org To ensure that tho",
+      "title": "Cully Food Forest and Agroforestry Tour",
+      "venue": {
+        "address": "5700 NE Alberta",
+        "city": "Portland",
+        "name": "Portland Food Forest Initiative Demonstration Site"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-08-08T13:00:00-07:00",
@@ -34068,7 +34098,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-01T22:31:31+00:00",
+  "generated_at": "2026-08-01T23:33:22+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
