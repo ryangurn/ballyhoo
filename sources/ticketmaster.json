@@ -2,37 +2,6 @@
   "events": [
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfaF_V",
-      "image_url": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/the-midnight-show-with-johnny-showdown-saloon-tickets/14248674",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-07-31T23:45:00-07:00",
-      "summary": "Free Show!",
-      "ticket_url": "https://www.ticketweb.com/event/the-midnight-show-with-johnny-showdown-saloon-tickets/14248674",
-      "title": "THE MIDNIGHT SHOW with JOHNNY FRANCO & His Real Brother Dom with their Six Pack of Buds",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
-        "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
         "sports"
       ],
       "id": "ticketmaster:Z7r9jZ1A7Qv_7",
@@ -6474,6 +6443,37 @@
         "latitude": 45.50122605,
         "longitude": -122.65284748,
         "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1Af03fS",
+      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/hotwax-discoglammetalpunkhiphop-dantes-tickets/14912533",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 2.08,
+        "min": 2.08
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-08-28T23:55:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/hotwax-discoglammetalpunkhiphop-dantes-tickets/14912533",
+      "title": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
       }
     },
     {
@@ -21750,7 +21750,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-01T06:39:48+00:00",
+  "generated_at": "2026-08-01T09:18:59+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
