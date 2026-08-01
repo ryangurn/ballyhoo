@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/ticketmaster",
+  "month": "2026-08",
+  "snapshots": [
+    {
+      "bytes": 898258,
+      "captured_at": "2026-08-01T03:47:01+00:00",
+      "content_sha256": "4ebe41ce220aceb182840d6245d2ab49cb2ddd5478293278e81c5bd3b1268356",
+      "daily": "sources/ticketmaster/daily/2026/08/01.json.gz",
+      "event_count": 749,
+      "gzip_bytes": 122858,
+      "recent": "sources/ticketmaster/recent/2026-08-01/034701Z.json.gz",
+      "sha256": "be0addc9cd7f36e317685966f0619880037fb9a9dceb0f40047d7d29eaba118c",
+      "unchanged": false
+    }
+  ]
+}
