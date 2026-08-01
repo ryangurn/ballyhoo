@@ -73,6 +73,30 @@
       "venue": "Moda Center"
     },
     {
+      "dropped": "willamette_week:19533359@2026-08-12T19:00",
+      "kept": "dopdx:17436230",
+      "start_at": "2026-08-12T19:00:00-07:00",
+      "title_dropped": "Scene Intensive: Improv Workshop Series & Drop-In",
+      "title_kept": "Summer Open Court - Improv Jam",
+      "venue": "Curious Comedy Theater"
+    },
+    {
+      "dropped": "willamette_week:19533363@2026-08-12T19:00",
+      "kept": "dopdx:17436230",
+      "start_at": "2026-08-12T19:00:00-07:00",
+      "title_dropped": "Indie Team Diagnostics - Level Up Your Ensemble With Direct Feedback",
+      "title_kept": "Summer Open Court - Improv Jam",
+      "venue": "Curious Comedy Theater"
+    },
+    {
+      "dropped": "willamette_week:19533360@2026-08-12T19:00",
+      "kept": "dopdx:17436230",
+      "start_at": "2026-08-12T19:00:00-07:00",
+      "title_dropped": "Summer Open Court",
+      "title_kept": "Summer Open Court - Improv Jam",
+      "venue": "Curious Comedy Theater"
+    },
+    {
       "dropped": "willamette_week:19348739@2026-08-12T19:00",
       "kept": "ticketmaster:rZ7HnEZ1AfaK4f",
       "start_at": "2026-08-12T19:00:00-07:00",
@@ -583,6 +607,14 @@
       "title_dropped": "Poppy",
       "title_kept": "Poppy",
       "venue": "Roseland Theater"
+    },
+    {
+      "dropped": "willamette_week:19533361@2026-08-03T19:00",
+      "kept": "dopdx:17496818",
+      "start_at": "2026-08-03T19:00:00-07:00",
+      "title_dropped": "BUILDING ENVIRONMENT - SUMMER WORKSHOP: SINGLE-USE",
+      "title_kept": "JUST KEEP WATCHING: A Concert Cabaret",
+      "venue": "Curious Comedy Theater"
     },
     {
       "dropped": "willamette_week:19108225@2026-08-03T19:00",
@@ -3089,6 +3121,14 @@
       "venue": "Clackamas County Event Center"
     },
     {
+      "dropped": "willamette_week:19533290@2026-08-21T20:00",
+      "kept": "dopdx:17501943",
+      "start_at": "2026-08-21T20:00:00-07:00",
+      "title_dropped": "Gallant",
+      "title_kept": "Gallant",
+      "venue": "Hawthorne Theatre"
+    },
+    {
       "dropped": "willamette_week:18683389@2026-08-21T20:00",
       "kept": "dopdx:17250513",
       "start_at": "2026-08-21T20:00:00-07:00",
@@ -4057,6 +4097,22 @@
       "venue": "Providence Park"
     },
     {
+      "dropped": "willamette_week:19533295@2026-08-29T20:00",
+      "kept": "dopdx:17501944",
+      "start_at": "2026-08-29T20:00:00-07:00",
+      "title_dropped": "Kublaii - Hawthorne Lounge",
+      "title_kept": "Kawaii Rave",
+      "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "willamette_week:19533294@2026-08-29T20:00",
+      "kept": "dopdx:17501944",
+      "start_at": "2026-08-29T20:00:00-07:00",
+      "title_dropped": "Kawaii Rave",
+      "title_kept": "Kawaii Rave",
+      "venue": "Hawthorne Theatre"
+    },
+    {
       "dropped": "dopdx:17641128",
       "kept": "ticketmaster:rZ7HnEZ1AfasOf",
       "start_at": "2026-08-29T20:00:00-07:00",
@@ -4337,9 +4393,9 @@
       "venue": "Hawthorne Theatre"
     }
   ],
-  "event_count": 5938,
-  "floor_check": "5938 events against a 5938-event baseline",
-  "generated_at": "2026-08-01T15:16:42+00:00",
+  "event_count": 5990,
+  "floor_check": "5990 events against a 5938-event baseline",
+  "generated_at": "2026-08-01T15:31:02+00:00",
   "problems": [],
   "sources": [
     "calagator",
