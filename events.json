@@ -5384,38 +5384,6 @@
       "categories": [
         "sports"
       ],
-      "id": "ticketmaster:Z7r9jZ1A7Qv_7",
-      "image_url": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Qv_7",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-01T17:03:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Qv_7",
-      "title": "Hillsboro Hops vs. Everett AquaSox",
-      "venue": {
-        "address": "4460 NW 229th Ave",
-        "city": "Hillsboro",
-        "latitude": 45.616501,
-        "longitude": -122.954498,
-        "name": "Hillsboro Ballpark"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
       "id": "willamette_week:19504864@2026-08-01T17:03",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-Fjy7oORMkePDK37jmx3lQ.large.png",
       "is_all_day": false,
@@ -5439,6 +5407,32 @@
         "latitude": 45.55475,
         "longitude": -122.90973,
         "name": "Hops Ballpark"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "willamette_week:17011254@2026-08-01T17:03",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6e74b627-35a7-40b7-8d2f-fd20a520a2a4.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-01T17:03:00-07:00",
+      "title": "Hillsboro Hops vs. Everett AquaSox",
+      "venue": {
+        "address": "4460 NW 229th Ave",
+        "city": "Hillsboro",
+        "latitude": 45.554361,
+        "longitude": -122.908434,
+        "name": "Hillsboro Ballpark"
       }
     },
     {
@@ -8440,8 +8434,8 @@
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 40.66,
-        "min": 40.66
+        "max": 45.81,
+        "min": 45.81
       },
       "source": {
         "id": "ticketmaster",
@@ -21151,7 +21145,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-08-04T18:30:00-07:00",
-      "summary": "EARLY START 6pm Doors6:30pm Lessons7:30pm Band",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
       "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-western-showdown-saloon-tickets/14248434",
       "title": "Two-Step Tuesday with Western Edition and Dance Lessons with Peggy",
       "venue": {
@@ -178282,5 +178276,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-02T00:07:13+00:00"
+  "generated_at": "2026-08-02T00:10:17+00:00"
 }
