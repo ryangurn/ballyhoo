@@ -129,38 +129,6 @@
       "venue": "Topaz Farm"
     },
     {
-      "dropped": "dopdx:16696556",
-      "kept": "ticketmaster:vvG1HZbz2ajbjF",
-      "start_at": "2026-08-01T19:00:00-07:00",
-      "title_dropped": "Megan Moroney with JP Saxe and Solon Holt",
-      "title_kept": "Megan Moroney: The Cloud 9 Tour",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "dopdx:17416435",
-      "kept": "ticketmaster:Z7r9jZ1A7-zOo",
-      "start_at": "2026-08-01T19:30:00-07:00",
-      "title_dropped": "Harry Potter and the Cursed Child",
-      "title_kept": "Harry Potter and the Cursed Child (Touring)",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "dopdx:16657665",
-      "kept": "ticketmaster:Z7r9jZ1A7roZ9",
-      "start_at": "2026-08-01T19:30:00-07:00",
-      "title_dropped": "Portland Timbers vs Seattle Sounders FC",
-      "title_kept": "Portland Timbers vs. Seattle Sounders FC",
-      "venue": "Providence Park"
-    },
-    {
-      "dropped": "dopdx:17276998",
-      "kept": "ticketmaster:rZ7HnEZ1Afxe1K",
-      "start_at": "2026-08-01T20:00:00-07:00",
-      "title_dropped": "John Primer",
-      "title_kept": "JOHN PRIMER",
-      "venue": "Jack London Revue"
-    },
-    {
       "dropped": "dopdx:17431930",
       "kept": "ticketmaster:vvG1HZ_6KxTHRt",
       "start_at": "2026-08-02T12:30:00-07:00",
@@ -4041,6 +4009,54 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19442195@2026-08-31T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfaFOf",
+      "start_at": "2026-08-31T19:00:00-07:00",
+      "title_dropped": "Square Dancing",
+      "title_kept": "Square Dancing",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "dopdx:16714340",
+      "kept": "ticketmaster:Z7r9jZ1A7-kxb",
+      "start_at": "2026-08-31T20:00:00-07:00",
+      "title_dropped": "Osees Ft. Brigid Dawson",
+      "title_kept": "Osees w/ Traps PS",
+      "venue": "McMenamins Crystal Ballroom"
+    },
+    {
+      "dropped": "dopdx:17308784",
+      "kept": "ticketmaster:Z7r9jZ1A703rA",
+      "start_at": "2026-08-31T20:00:00-07:00",
+      "title_dropped": "Brenn! Amateur At Best World Tour Vip Upgrade (Entry Ticket Not Included)",
+      "title_kept": "Brenn!",
+      "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "willamette_week:19120308@2026-08-31T20:00",
+      "kept": "dopdx:17308784",
+      "start_at": "2026-08-31T20:00:00-07:00",
+      "title_dropped": "Brenn! - Hawthorne Theare - Portland",
+      "title_kept": "Brenn! Amateur At Best World Tour Vip Upgrade (Entry Ticket Not Included)",
+      "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "willamette_week:18418308@2026-08-31T20:00",
+      "kept": "dopdx:17104817",
+      "start_at": "2026-08-31T20:00:00-07:00",
+      "title_dropped": "My New Band Believe",
+      "title_kept": "My New Band Believe",
+      "venue": "Polaris Hall"
+    },
+    {
+      "dropped": "willamette_week:19489019@2026-08-31T20:00",
+      "kept": "dopdx:17652187",
+      "start_at": "2026-08-31T20:00:00-07:00",
+      "title_dropped": "Jon Gabrus Live",
+      "title_kept": "Jon Gabrus Live",
+      "venue": "Kickstand Comedy"
+    },
+    {
       "dropped": "willamette_week:17670892@2026-08-02T09:00",
       "kept": "pdxparent_markets:hillsdale-farmers-market@2026-08-02",
       "start_at": "2026-08-02T09:00:00-07:00",
@@ -4119,27 +4135,11 @@
       "title_dropped": "Tri-City Dust Devils at Hillsboro Hops",
       "title_kept": "Hillsboro Hops vs. Tri-City Dust Devils",
       "venue": "Hillsboro Ballpark"
-    },
-    {
-      "dropped": "willamette_week:19442195@2026-08-31T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfaFOf",
-      "start_at": "2026-08-31T19:00:00-07:00",
-      "title_dropped": "Square Dancing",
-      "title_kept": "Square Dancing",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:19120308@2026-08-31T20:00",
-      "kept": "ticketmaster:Z7r9jZ1A703rA",
-      "start_at": "2026-08-31T20:00:00-07:00",
-      "title_dropped": "Brenn! - Hawthorne Theare - Portland",
-      "title_kept": "Brenn!",
-      "venue": "Hawthorne Theatre"
     }
   ],
-  "event_count": 5855,
-  "floor_check": "5855 events against a 5989-event baseline",
-  "generated_at": "2026-08-02T01:09:59+00:00",
+  "event_count": 5792,
+  "floor_check": "5792 events against a 5989-event baseline",
+  "generated_at": "2026-08-02T01:13:16+00:00",
   "problems": [],
   "sources": [
     "calagator",
