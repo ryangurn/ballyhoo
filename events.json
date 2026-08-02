@@ -443,34 +443,6 @@
     },
     {
       "categories": [
-        "outdoors"
-      ],
-      "id": "willamette_week:19508652@2026-08-02T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e3ng-IzxOkSjksNUu5qAlQ.large.png",
-      "is_all_day": true,
-      "listing_url": "https://www.visitvancouverwa.com/event/into-the-woods/30180/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-02T00:00:00-07:00",
-      "summary": "James Lapine and Stephen Sondheim take everyone’s favorite storybook characters and bring them together for a timeless, yet relevant, piece… and a...",
-      "title": "Into the Woods",
-      "venue": {
-        "address": "1400 Northeast 136th Avenue #201",
-        "city": "Vancouver",
-        "latitude": 45.634085,
-        "longitude": -122.536082,
-        "name": "Journey Theater"
-      }
-    },
-    {
-      "categories": [
         "film"
       ],
       "id": "willamette_week:19484150@2026-08-02T00:00",
@@ -497,6 +469,34 @@
         "latitude": 45.508437953549475,
         "longitude": -122.66602451429013,
         "name": "OMSI"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "willamette_week:19508652@2026-08-02T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e3ng-IzxOkSjksNUu5qAlQ.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.visitvancouverwa.com/event/into-the-woods/30180/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-02T00:00:00-07:00",
+      "summary": "James Lapine and Stephen Sondheim take everyone’s favorite storybook characters and bring them together for a timeless, yet relevant, piece… and a...",
+      "title": "Into the Woods",
+      "venue": {
+        "address": "1400 Northeast 136th Avenue #201",
+        "city": "Vancouver",
+        "latitude": 45.634085,
+        "longitude": -122.536082,
+        "name": "Journey Theater"
       }
     },
     {
@@ -1617,6 +1617,35 @@
         "latitude": 45.516752,
         "longitude": -122.57927,
         "name": "The Covert Cafe"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-08-02T12:00:00-07:00",
+      "id": "willamette_week:19220706@2026-08-02T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/29d986aa-c45e-45bb-9f35-4dc9420efdd5.large.png",
+      "is_all_day": false,
+      "listing_url": "https://explorewashingtonpark.org/event/summer-public-tour-4/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-02T11:00:00-07:00",
+      "summary": "Explore one of Hoyt Arboretum’s three nationally-accredited collections with a knowledgeable guide. Public Tours will follow seasonal routes to highlight the flowering trees and the Magnolia Collection in the spring, the Conifer Collection in the summer, and fall color and the Maple Collection in the fall. Reserve your spot in-person the day of the tour by checking-in with the front desk inside the Visitor Center.",
+      "title": "Summer Public Tour",
+      "venue": {
+        "address": "4000 SW Fairview Blvd",
+        "city": "Portland",
+        "latitude": 45.5162616,
+        "longitude": -122.71521239999998,
+        "name": "Hoyt Arboretum"
       }
     },
     {
@@ -19386,6 +19415,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-08-06T12:00:00-07:00",
+      "id": "willamette_week:19484150@2026-08-06T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AiPvP9YADkCGEMLzywVNJw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://omsi.edu/events/adrenaline-rush-the-science-of-risk/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-06T11:00:00-07:00",
+      "summary": "From breathtaking views of skydiving to a 4,265-foot base jump off a legendary Norwegian cliff, explore the psychological and physiological forces behind risk taking. The film also follows skydivers as they undertake a unique scientific experiment: an attempt to fly Leonardo da Vinci's 1485 parachute design, the first ever recorded.",
+      "title": "Adrenaline Rush: The Science of Risk",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-08-06T22:00:00-07:00",
@@ -29511,6 +29569,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-07T20:15:00-07:00",
+      "id": "willamette_week:19540002@2026-08-07T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/36dad397-e126-4541-beab-aaf65ad0f5bb.large.png",
+      "is_all_day": false,
+      "listing_url": "https://omsi.edu/events/circle-of-light/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-07T19:00:00-07:00",
+      "summary": "Circle of Light: The Love of Rumi & Shams is an immersive 360° dome experience that ushers you into the mystical world of the Persian Sufi poet Rumi, featuring the voice of the most renowned living Iranian vocalist,Shahram Nazeri, performed in Rumi's original language.",
+      "title": "Circle of Light: The Love of Rumi & Shams",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-08-07T21:00:00-07:00",
@@ -38664,6 +38751,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-08T21:00:00-07:00",
+      "id": "willamette_week:19540129@2026-08-08T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MEJtRsQKCk2lRIFL8lolOw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.mcmenamins.com/events/277792-the-light-fantastic",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-08T19:00:00-07:00",
+      "summary": "Formed in 2017, The Light Fantastic is a Portland, Oregon based instrumental quartet offering a hip-shaking, orchestrated and eclectic mix of 50-70's jazz-funk inspired psychedelic rockin' and groovin' tunes, from deep-cut arrangements to smokin' originals. The Light Fantastic delivers a polished, high-energy live set that blends tight musicianship with an unmistakable sense of atmosphere. Their sound moves confidently between groove-driven rhythms, layered textures, and sharp, memorable hooks-built to land just as well on a packed dance floor as it does in a focused listening room. Inspiration and influence can be seen from the likes of Jimmy Smith, Rahsaan Roland Kirk, The Crusaders, Roy Ayers, The Meters, Hot Tuna, Al Green, George Benson, Funkadelic, Stevie Wonder, The Brothers Johnson, Freddie Hubbard, Frank Zappa, and so many more!! - All ages welcome!",
+      "title": "The Light Fantastic",
+      "venue": {
+        "address": "30340 SW Boones Ferry Rd",
+        "city": "Wilsonville",
+        "latitude": 45.300559625,
+        "longitude": -122.7734224498,
+        "name": "McMenamins Old Church And Pub"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-08-08T21:00:00-07:00",
@@ -42503,6 +42621,35 @@
         "latitude": 45.5704,
         "longitude": -122.690498,
         "name": "Portland International Raceway"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-08-09T12:00:00-07:00",
+      "id": "willamette_week:19220706@2026-08-09T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/29d986aa-c45e-45bb-9f35-4dc9420efdd5.large.png",
+      "is_all_day": false,
+      "listing_url": "https://explorewashingtonpark.org/event/summer-public-tour-5/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-09T11:00:00-07:00",
+      "summary": "Explore one of Hoyt Arboretum’s three nationally-accredited collections with a knowledgeable guide. Public Tours will follow seasonal routes to highlight the flowering trees and the Magnolia Collection in the spring, the Conifer Collection in the summer, and fall color and the Maple Collection in the fall. Reserve your spot in-person the day of the tour by checking-in with the front desk inside the Visitor Center.",
+      "title": "Summer Public Tour",
+      "venue": {
+        "address": "4000 SW Fairview Blvd",
+        "city": "Portland",
+        "latitude": 45.5162616,
+        "longitude": -122.71521239999998,
+        "name": "Hoyt Arboretum"
       }
     },
     {
@@ -87965,6 +88112,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "id": "willamette_week:19540003@2026-08-18T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/oQWuu7LkQEy9y3c0S8v-xg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://omsi.edu/events/science-pub-making-memories/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-18T21:00:00-07:00",
+      "summary": "with Brice Kuhl, PhD, Professor of Psychology and Neuroscience at the University of Oregon.",
+      "title": "Science Pub: Making Memories",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-08-18T22:30:00-07:00",
@@ -87990,6 +88165,35 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-08-18T23:15:00-07:00",
+      "id": "willamette_week:19540004@2026-08-18T21:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ocHneZRq3UKAVkhiH1tnaw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://omsi.edu/events/pfcat/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-18T21:15:00-07:00",
+      "summary": "OMSI is the place to be for the Portland Festival of Cinema, Animation & Technology! Enjoy a six-day celebration of independent film and animation featuring exclusive screenings, filmmaker Q&As, an interactive expo, and visionary experiences that explore the future of storytelling through immersive VR, dome screenings in the Kendall Planetarium, and emerging technologies.",
+      "title": "PFCAT",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
       }
     },
     {
@@ -107793,6 +107997,34 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "id": "willamette_week:19540004@2026-08-22T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ocHneZRq3UKAVkhiH1tnaw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://omsi.edu/events/pfcat/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T21:00:00-07:00",
+      "summary": "OMSI is the place to be for the Portland Festival of Cinema, Animation & Technology! Enjoy a six-day celebration of independent film and animation featuring exclusive screenings, filmmaker Q&As, an interactive expo, and visionary experiences that explore the future of storytelling through immersive VR, dome screenings in the Kendall Planetarium, and emerging technologies.",
+      "title": "PFCAT",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19428232@2026-08-22T21:00",
@@ -112325,6 +112557,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-08-23T22:30:00-07:00",
+      "id": "willamette_week:19540004@2026-08-23T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ocHneZRq3UKAVkhiH1tnaw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://omsi.edu/events/pfcat/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-23T20:00:00-07:00",
+      "summary": "OMSI is the place to be for the Portland Festival of Cinema, Animation & Technology! Enjoy a six-day celebration of independent film and animation featuring exclusive screenings, filmmaker Q&As, an interactive expo, and visionary experiences that explore the future of storytelling through immersive VR, dome screenings in the Kendall Planetarium, and emerging technologies.",
+      "title": "PFCAT",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "end_at": "2026-08-24T03:00:00-07:00",
@@ -115790,6 +116051,35 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-25T20:30:00-07:00",
+      "id": "willamette_week:19540003@2026-08-25T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/oQWuu7LkQEy9y3c0S8v-xg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://omsi.edu/events/science-pub-making-memories/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-25T18:30:00-07:00",
+      "summary": "with Brice Kuhl, PhD, Professor of Psychology and Neuroscience at the University of Oregon.",
+      "title": "Science Pub: Making Memories",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
       }
     },
     {
@@ -123470,6 +123760,34 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Revolution Hall - Portland"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "willamette_week:19539999@2026-08-27T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/55F76Pfz3EKr-L0ITXVG7w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://omsi.edu/events/designing-futures/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-27T19:00:00-07:00",
+      "summary": "Admission: $40| OMSI Members Receive 15% off | Teen Only Event Ages 13 - 18",
+      "title": "Designing Futures",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
       }
     },
     {
@@ -142081,6 +142399,34 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "id": "willamette_week:19540005@2026-09-01T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/oQWuu7LkQEy9y3c0S8v-xg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://omsi.edu/events/science-pub-our-coyote-neighbors/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-01T21:00:00-07:00",
+      "summary": "with Liz Weinberg, Assistant Director, Portland Urban Coyote Project",
+      "title": "Our Coyote Neighbors",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
       }
     },
     {
@@ -171849,5 +172195,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-02T11:33:54+00:00"
+  "generated_at": "2026-08-02T11:37:06+00:00"
 }
