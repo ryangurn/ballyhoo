@@ -1609,6 +1609,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:19544183@2026-08-13T19:30",
+      "kept": "dopdx:17470724",
+      "start_at": "2026-08-13T19:00:00-07:00",
+      "title_dropped": "PROFANATICA",
+      "title_kept": "Profanatica",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "dopdx:17416445",
       "kept": "ticketmaster:Z7r9jZ1A7-zO0",
       "start_at": "2026-08-13T19:30:00-07:00",
@@ -3921,6 +3929,14 @@
       "venue": "Mississippi Studios"
     },
     {
+      "dropped": "willamette_week:18521271@2026-08-05T15:00",
+      "kept": "portland_farmers_market:kenton-farmers-market-2026@2026-08-05",
+      "start_at": "2026-08-05T15:00:00-07:00",
+      "title_dropped": "Kenton Farmers Market",
+      "title_kept": "Kenton Farmers Market",
+      "venue": "Kenton Farmers Market"
+    },
+    {
       "dropped": "willamette_week:17670892@2026-08-16T09:00",
       "kept": "pdxparent_markets:hillsdale-farmers-market@2026-08-16",
       "start_at": "2026-08-16T09:00:00-07:00",
@@ -3951,6 +3967,14 @@
       "title_dropped": "a notion",
       "title_kept": "a notion",
       "venue": "Lents International Farmers Market"
+    },
+    {
+      "dropped": "willamette_week:18521270@2026-08-05T10:00",
+      "kept": "portland_farmers_market:shemanski-park-farmers-market-2026@2026-08-05",
+      "start_at": "2026-08-05T10:00:00-07:00",
+      "title_dropped": "Shemanski Park Farmers Market",
+      "title_kept": "Shemanski Park Farmers Market",
+      "venue": "Shemanski Park Farmers Market"
     },
     {
       "dropped": "willamette_week:19466044@2026-08-26T17:00",
@@ -4041,9 +4065,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 5823,
-  "floor_check": "5823 events against a 5734-event baseline",
-  "generated_at": "2026-08-03T19:56:05+00:00",
+  "event_count": 5840,
+  "floor_check": "5840 events against a 5734-event baseline",
+  "generated_at": "2026-08-03T20:02:13+00:00",
   "problems": [],
   "sources": [
     "calagator",
