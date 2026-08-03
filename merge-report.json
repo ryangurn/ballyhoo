@@ -17,14 +17,6 @@
       "venue": "Pioneer Courthouse Square"
     },
     {
-      "dropped": "willamette_week:19185786@2026-08-06T19:00",
-      "kept": "dopdx:17467268",
-      "start_at": "2026-08-06T19:00:00-07:00",
-      "title_dropped": "Damn Tall Buildings - Band of Comerados",
-      "title_kept": "Damn Tall Buildings Band of Comerados",
-      "venue": "The Alberta Rose Theatre"
-    },
-    {
       "dropped": "dopdx:17431931",
       "kept": "ticketmaster:vvG1HZ_6KxkHit",
       "start_at": "2026-08-06T19:00:00-07:00",
@@ -39,6 +31,14 @@
       "title_dropped": "Toronto Tempo at Portland Fire",
       "title_kept": "Portland Fire vs Toronto Tempo",
       "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:19185786@2026-08-06T19:00",
+      "kept": "dopdx:17467268",
+      "start_at": "2026-08-06T19:00:00-07:00",
+      "title_dropped": "Damn Tall Buildings - Band of Comerados",
+      "title_kept": "Damn Tall Buildings Band of Comerados",
+      "venue": "The Alberta Rose Theatre"
     },
     {
       "dropped": "willamette_week:18518485@2026-08-06T19:00",
@@ -2041,22 +2041,6 @@
       "venue": "Barrel Room Portland"
     },
     {
-      "dropped": "dopdx:17327060",
-      "kept": "ticketmaster:Z7r9jZ1A70YZa",
-      "start_at": "2026-08-15T19:00:00-07:00",
-      "title_dropped": "Joe List",
-      "title_kept": "Joe List",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "willamette_week:18896351@2026-08-15T19:00",
-      "kept": "dopdx:17327060",
-      "start_at": "2026-08-15T19:00:00-07:00",
-      "title_dropped": "Special Event: Joe List",
-      "title_kept": "Joe List",
-      "venue": "Helium Comedy Club"
-    },
-    {
       "dropped": "dopdx:17343285",
       "kept": "ticketmaster:Z7r9jZ1A70bfk",
       "start_at": "2026-08-15T19:00:00-07:00",
@@ -2071,6 +2055,22 @@
       "title_dropped": "anees",
       "title_kept": "Anees",
       "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "dopdx:17327060",
+      "kept": "ticketmaster:Z7r9jZ1A70YZa",
+      "start_at": "2026-08-15T19:00:00-07:00",
+      "title_dropped": "Joe List",
+      "title_kept": "Joe List",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "willamette_week:18896351@2026-08-15T19:00",
+      "kept": "dopdx:17327060",
+      "start_at": "2026-08-15T19:00:00-07:00",
+      "title_dropped": "Special Event: Joe List",
+      "title_kept": "Joe List",
+      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "dopdx:17392361",
@@ -2113,14 +2113,6 @@
       "venue": "Revolution Hall"
     },
     {
-      "dropped": "dopdx:17613214",
-      "kept": "ticketmaster:rZ7HnEZ1Afa-37",
-      "start_at": "2026-08-15T20:00:00-07:00",
-      "title_dropped": "Barnaby Jones with Nervous State, Too Close for Comfort, Interstate, & The Kieth's",
-      "title_kept": "BARNABY JONES with Nervous State, Too Close For Comfort, Innerstate, & The Kieth's",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "dopdx:17232002",
       "kept": "ticketmaster:Z7r9jZ1A709Gz",
       "start_at": "2026-08-15T20:00:00-07:00",
@@ -2135,6 +2127,14 @@
       "title_dropped": "Chris Ramsay Presents: It's Probably Nothing",
       "title_kept": "It’s Probably Nothing...",
       "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "dopdx:17613214",
+      "kept": "ticketmaster:rZ7HnEZ1Afa-37",
+      "start_at": "2026-08-15T20:00:00-07:00",
+      "title_dropped": "Barnaby Jones with Nervous State, Too Close for Comfort, Interstate, & The Kieth's",
+      "title_kept": "BARNABY JONES with Nervous State, Too Close For Comfort, Innerstate, & The Kieth's",
+      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:18371068@2026-08-15T20:00",
@@ -2335,14 +2335,6 @@
       "title_dropped": "Sinferno Cabaret",
       "title_kept": "SINFERNO CABARET",
       "venue": "Dante's"
-    },
-    {
-      "dropped": "willamette_week:18842643@2026-08-17T19:00",
-      "kept": "dopdx:17307245",
-      "start_at": "2026-08-17T19:00:00-07:00",
-      "title_dropped": "Oliver Tree",
-      "title_kept": "Oliver Tree – Love You Madly, Hate You Badly World’S First World Tour",
-      "venue": "Roseland Theater"
     },
     {
       "dropped": "willamette_week:19114765@2026-08-17T20:00",
@@ -4049,9 +4041,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 5765,
-  "floor_check": "5765 events against a 5692-event baseline",
-  "generated_at": "2026-08-03T18:20:32+00:00",
+  "event_count": 5784,
+  "floor_check": "5784 events against a 5705-event baseline",
+  "generated_at": "2026-08-03T18:22:34+00:00",
   "problems": [],
   "sources": [
     "calagator",
