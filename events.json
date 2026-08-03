@@ -585,68 +585,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfPs4d",
-      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971543",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 6.2,
-        "min": 6.2
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-02T21:00:00-07:00",
-      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance partySKULLY : LORD NOCTIS9pm : $5 : 21+",
-      "ticket_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971543",
-      "title": "CHURCH OF HIVE",
-      "venue": {
-        "address": "13 NW Sixth Avenue",
-        "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
-        "name": "Star Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfFY-V",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/sinferno-cabaret-dantes-tickets/14230874",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 313.61,
-        "min": 13.91
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-02T22:00:00-07:00",
-      "summary": "Voted by BURLESQUE MAGAZINE as one of the Top 10 Burlesque shows in the USA!A sinful circus of burlesque, fire-dancing, DJs & debauchery. Every Sunday night for 20 years...the longest-running weekly cabaret show on the west coast!SEATING IS LIMITED and is first-come, first served. Seating IS NOT GUARANTEED for General Admission ticket holders!",
-      "ticket_url": "https://www.ticketweb.com/event/sinferno-cabaret-dantes-tickets/14230874",
-      "title": "SINFERNO CABARET",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
-      }
-    },
-    {
-      "categories": [
         "outdoors"
       ],
       "id": "willamette_week:19508652@2026-08-03T00:00",
@@ -7298,7 +7236,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-08-04T18:30:00-07:00",
-      "summary": "EARLY START 6pm Doors6:30pm Lessons7:30pm Band",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
       "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-western-showdown-saloon-tickets/14248434",
       "title": "Two-Step Tuesday with Western Edition and Dance Lessons with Peggy",
       "venue": {
@@ -72030,7 +71968,7 @@
       "start_at": "2026-08-15T20:00:00-07:00",
       "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
       "ticket_url": "https://www.ticketweb.com/event/barnaby-jones-with-nervous-state-dantes-tickets/14261484",
-      "title": "BARNABY JONES with Nervous State, Too Close For Comfort, Interstate, & The Kieth's",
+      "title": "BARNABY JONES with Nervous State, Too Close For Comfort, Innerstate, & The Kieth's",
       "venue": {
         "address": "350 West Burnside Street",
         "city": "Portland",
@@ -133887,6 +133825,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1A4ZFud",
+      "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/orchestre-lpow-followed-by-sinferno-dantes-tickets/15008343",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 21.09,
+        "min": 21.09
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-08-30T20:30:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/orchestre-lpow-followed-by-sinferno-dantes-tickets/15008343",
+      "title": "ORCHESTRE L'POW followed by Sinferno Cabaret",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-08-31T02:00:00-07:00",
       "id": "dopdx:17633073",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1784644244/event-17633073.jpg",
@@ -133941,6 +133910,37 @@
         "latitude": 45.5233726501,
         "longitude": -122.6767425537,
         "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfFYx7",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/sinferno-cabaret-dantes-tickets/14230884",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 313.61,
+        "min": 13.91
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-08-30T22:00:00-07:00",
+      "summary": "Voted by BURLESQUE MAGAZINE as one of the Top 10 Burlesque shows in the USA!A sinful circus of burlesque, fire-dancing, DJs & debauchery. Every Sunday night for 20 years...the longest-running weekly cabaret show on the west coast!SEATING IS LIMITED and is first-come, first served. Seating IS NOT GUARANTEED for General Admission ticket holders!",
+      "ticket_url": "https://www.ticketweb.com/event/sinferno-cabaret-dantes-tickets/14230884",
+      "title": "SINFERNO CABARET",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
       }
     },
     {
@@ -169290,5 +169290,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-03T07:40:36+00:00"
+  "generated_at": "2026-08-03T07:44:54+00:00"
 }
