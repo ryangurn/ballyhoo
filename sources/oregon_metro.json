@@ -2,31 +2,6 @@
   "events": [
     {
       "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:cemetery-tending-2026-08-01",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/cemetery-tending-2026-08-01",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-08-01T10:30:00-07:00",
-      "title": "Cemetery tending",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.49579,
-        "longitude": -122.43396,
-        "name": "Escobar Cemetery"
-      }
-    },
-    {
-      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metropolitan-exposition-recreation-commission-meeting-2026-08-05",
@@ -2609,7 +2584,7 @@
       "title": "Committee on Racial Equity meeting"
     }
   ],
-  "generated_at": "2026-08-03T15:59:25+00:00",
+  "generated_at": "2026-08-03T18:13:29+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
