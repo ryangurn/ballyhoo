@@ -17741,6 +17741,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-06T21:00:00-07:00",
+      "id": "calagator:1250482653",
+      "is_all_day": false,
+      "listing_url": "https://pdxlinux.org/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-06T19:00:00-07:00",
+      "summary": "Summary:\r\n\r\nRussell will talk about OpenWrt on Realtek-based switches, like the EnGenius EWS2910P and Zyxel GS1900 line of managed switches. Some devices provide Power over Ethernet with port-level control. The talk will include some fun demonstrations of installation and reverse engineering.\r\n\r\nBio:\r\n\r\nRussell has been a Linux user since December 1992.  Since 2005, he's been involved with the Personal Telco Project, and has been the President of that organization since 2009, building public-access wifi networks and advocating for better telecommunications policy. He's also been active in an effort to energize political support for a public fiber-optic last-mile network in Portland in order to break the monopoly power of the deregulated incumbent carriers. In recent years, he's become more active in recruiting speakers for PLUG, kind of accidentally falling into the coordinator role as Michael Dexter stepped back. This talk represents a failure to find a better speaker, not only Russell's failure, but the failure of the entire PLUG community. Shame on one and all! ;-)",
+      "title": "Portland Linux/Unix Group General Monthly Meeting: Installing OpenWrt on Realtek-based managed switches, with Russell Senior",
+      "venue": {
+        "address": "1900 Southwest 4th Avenue",
+        "city": "Portland",
+        "latitude": 45.5095,
+        "longitude": -122.6811,
+        "name": "Portland State University Fourth Avenue Building (FAB) Room FAB 86-01"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-06T21:00:00-07:00",
@@ -169408,5 +169436,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-03T01:17:12+00:00"
+  "generated_at": "2026-08-03T03:48:53+00:00"
 }
