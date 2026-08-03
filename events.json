@@ -101221,6 +101221,38 @@
         "sports"
       ],
       "end_at": "2026-08-22T16:00:00-07:00",
+      "id": "willamette_week:19546065@2026-08-22T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-W9hdXhNNU6VK_HWFqebhQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://app.courtreserve.com/online/publicbookings/7429?tab=explore&startdate=2026-08-17&date=2026-08-22&step=review&eventId=2071353&reservationId=53675259",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T13:00:00-07:00",
+      "summary": "Get the family together and bring your competitive spirit — it’s time for Family Field Day at RECS! From relay races and pickleball games to fun team challenges, families will compete together for fun prizes and bragging rights. This event is all about teamwork, laughs, a little chaos, and making memories together. Whether your family is ultra competitive or just here for the fun, there’s something for everyone. 🕓 1–4 PM 👧 Kids play FREE 👨 Adults: $20 to participate for members, $35 for visitors Build your dream team, wear matching outfits if you dare, and get ready for an evening of family-friendly competition and fun.",
+      "ticket_url": "https://app.courtreserve.com/online/publicbookings/7429?tab=explore&startdate=2026-08-17&date=2026-08-22&step=review&eventId=2071353&reservationId=53675259",
+      "title": "Family Field Day at RECS Clackamas!",
+      "venue": {
+        "address": "17015 Southeast 82nd Drive",
+        "city": "Clackamas",
+        "latitude": 45.399698,
+        "longitude": -122.569771,
+        "name": "RECS Clackamas"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-08-22T16:00:00-07:00",
       "id": "willamette_week:19533330@2026-08-22T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/q5FZ_3YIoUGANi4PB8rOtQ.large.png",
       "is_all_day": false,
@@ -173591,5 +173623,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-03T23:18:36+00:00"
+  "generated_at": "2026-08-03T23:30:20+00:00"
 }
