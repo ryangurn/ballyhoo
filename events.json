@@ -16819,7 +16819,9 @@
       "organizer": "North America Tour 2026",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 75.5,
+        "min": 75.5
       },
       "source": {
         "id": "dopdx",
@@ -173561,5 +173563,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-03T21:44:31+00:00"
+  "generated_at": "2026-08-03T21:46:18+00:00"
 }
