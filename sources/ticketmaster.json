@@ -229,7 +229,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-08-04T18:30:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "summary": "EARLY START 6pm Doors6:30pm Lessons7:30pm Band",
       "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-western-showdown-saloon-tickets/14248434",
       "title": "Two-Step Tuesday with Western Edition and Dance Lessons with Peggy",
       "venue": {
@@ -4471,7 +4471,7 @@
       "start_at": "2026-08-20T21:00:00-07:00",
       "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
       "ticket_url": "https://www.ticketweb.com/event/dale-watson-and-his-lone-dantes-tickets/14932213",
-      "title": "DALE WATSON AND HIS LONE STARS with Guests",
+      "title": "DALE WATSON AND HIS LONE STARS with Cooper And Her Daddy Issues",
       "venue": {
         "address": "350 West Burnside Street",
         "city": "Portland",
@@ -13982,6 +13982,34 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "McMenamins Crystal Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1A7PdGb",
+      "image_url": "https://s1.ticketm.net/dam/a/dcb/789e1c0d-901d-4d73-a839-880a8ed50dcb_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PdGb",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-13T20:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PdGb",
+      "title": "Jenna Raine",
+      "venue": {
+        "address": "1001 SE Morrison St",
+        "city": "Portland",
+        "latitude": 45.513901,
+        "longitude": -122.642799,
+        "name": "Holocene"
       }
     },
     {
@@ -23574,7 +23602,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-03T21:20:17+00:00",
+  "generated_at": "2026-08-03T23:17:56+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
