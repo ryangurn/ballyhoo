@@ -129,30 +129,6 @@
       "venue": "Topaz Farm"
     },
     {
-      "dropped": "dopdx:17352810",
-      "kept": "ticketmaster:Z7r9jZ1A70tvs",
-      "start_at": "2026-08-02T20:00:00-07:00",
-      "title_dropped": "The Downside with Gianmarco Soresi and Russell Daniels Live!",
-      "title_kept": "The Downside with Gianmarco Soresi and Russell Daniels Live!",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "dopdx:17313391",
-      "kept": "ticketmaster:Z7r9jZ1A70ou3",
-      "start_at": "2026-08-02T20:00:00-07:00",
-      "title_dropped": "Bad Nerves",
-      "title_kept": "Bad Nerves",
-      "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "dopdx:17573155",
-      "kept": "ticketmaster:rZ7HnEZ1AfFY-V",
-      "start_at": "2026-08-02T22:00:00-07:00",
-      "title_dropped": "Sinferno Cabaret",
-      "title_kept": "SINFERNO CABARET",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:19185833@2026-08-03T16:30",
       "kept": "dopdx:17475442",
       "start_at": "2026-08-03T16:30:00-07:00",
@@ -3913,6 +3889,30 @@
       "venue": "Kickstand Comedy"
     },
     {
+      "dropped": "willamette_week:18418174@2026-09-01T18:00",
+      "kept": "dopdx:17585418",
+      "start_at": "2026-09-01T18:00:00-07:00",
+      "title_dropped": "Dadweed",
+      "title_kept": "Dadweed (Bluegrass) - TUESDAY HH",
+      "venue": "Laurelthirst Public House"
+    },
+    {
+      "dropped": "willamette_week:19082952@2026-09-01T18:30",
+      "kept": "dopdx:17436257",
+      "start_at": "2026-09-01T18:30:00-07:00",
+      "title_dropped": "Duane Betts & Palmetto Motel - ISLE OF HOPE TOUR",
+      "title_kept": "Duane Betts & Palmetto Motel – Isle of Hope Tour",
+      "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "willamette_week:19538826@2026-09-01T20:00",
+      "kept": "dopdx:17614021",
+      "start_at": "2026-09-01T20:00:00-07:00",
+      "title_dropped": "Magic Sword w/ SKYLIMIT",
+      "title_kept": "Magic Sword",
+      "venue": "Mississippi Studios"
+    },
+    {
       "dropped": "willamette_week:17670892@2026-08-16T09:00",
       "kept": "pdxparent_markets:hillsdale-farmers-market@2026-08-16",
       "start_at": "2026-08-16T09:00:00-07:00",
@@ -4033,9 +4033,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 5730,
-  "floor_check": "5730 events against a 5789-event baseline",
-  "generated_at": "2026-08-03T01:10:06+00:00",
+  "event_count": 5696,
+  "floor_check": "5696 events against a 5789-event baseline",
+  "generated_at": "2026-08-03T01:13:16+00:00",
   "problems": [],
   "sources": [
     "calagator",
