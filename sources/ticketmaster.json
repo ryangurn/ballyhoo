@@ -1999,7 +1999,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-08-09T21:00:00-07:00",
-      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party 9pm : $5 : 21+",
+      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party SAINT : SINEAD9pm : $5 : 21+",
       "ticket_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971583",
       "title": "CHURCH OF HIVE",
       "venue": {
@@ -6424,6 +6424,37 @@
         "latitude": 45.523,
         "longitude": -122.67443,
         "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfPs_d",
+      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971643",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 6.2,
+        "min": 6.2
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-08-30T21:00:00-07:00",
+      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party 9pm : $5 : 21+",
+      "ticket_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971643",
+      "title": "CHURCH OF HIVE",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
       }
     },
     {
@@ -19375,6 +19406,34 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:LvZ18QEeVUI89HCf1YIBe",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.universe.com/events/life-surge-fresno-tickets-16FSCR?ref=ticketmaster",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-12T08:30:00-08:00",
+      "ticket_url": "https://www.universe.com/events/life-surge-fresno-tickets-16FSCR?ref=ticketmaster",
+      "title": "Life Surge Fresno",
+      "venue": {
+        "address": "777 NE Martin Luther King, Jr Blvd",
+        "city": "Portland",
+        "latitude": 45.528231,
+        "longitude": -122.661699,
+        "name": "Oregon Convention Center"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7J38b",
       "image_url": "https://s1.ticketm.net/dam/c/f7b/ef64d601-8740-43cd-86ea-ed9b392e4f7b_105961_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -21214,6 +21273,34 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:Z7r9jZ1A7JAfv",
+      "image_url": "https://s1.ticketm.net/dam/a/4a8/7992269a-de2d-4901-b356-a0571c0c84a8_299471_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JAfv",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-02-16T19:30:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JAfv",
+      "title": "Wynton Marsalis",
+      "venue": {
+        "address": "1037 SW Broadway Dr",
+        "city": "Portland",
+        "latitude": 45.5201,
+        "longitude": -122.6884,
+        "name": "Arlene Schnitzer Concert Hall"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:vvG1HZ_CxjxPgX",
       "image_url": "https://s1.ticketm.net/dam/a/171/b9169b7f-161a-4414-baf0-0b19f5ff9171_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -22392,7 +22479,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-03T15:13:50+00:00",
+  "generated_at": "2026-08-03T17:19:32+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
