@@ -2769,6 +2769,14 @@
       "venue": "Patricia Reser Center for the Arts"
     },
     {
+      "dropped": "willamette_week:19384462@2026-08-22T11:00",
+      "kept": "dopdx:17690779",
+      "start_at": "2026-08-22T11:00:00-07:00",
+      "title_dropped": "Smile Boat Parade - North Waterfront",
+      "title_kept": "Smile Boat Parade",
+      "venue": "Portland Yacht Club"
+    },
+    {
       "dropped": "dopdx:16843346",
       "kept": "ticketmaster:Z7r9jZ1A7Ox_f",
       "start_at": "2026-08-22T17:45:00-07:00",
@@ -4139,7 +4147,7 @@
   ],
   "event_count": 5864,
   "floor_check": "5864 events against a 5822-event baseline",
-  "generated_at": "2026-08-04T19:10:42+00:00",
+  "generated_at": "2026-08-04T19:12:50+00:00",
   "problems": [],
   "sources": [
     "calagator",
