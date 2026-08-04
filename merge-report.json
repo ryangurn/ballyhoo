@@ -3785,12 +3785,28 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "dopdx:17689331",
+      "kept": "ticketmaster:rZ7HnEZ1A4ZFud",
+      "start_at": "2026-08-30T20:30:00-07:00",
+      "title_dropped": "Orchestre L'pow Followed by Sinferno Cabaret",
+      "title_kept": "ORCHESTRE L'POW followed by Sinferno Cabaret",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-08-30T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPs_d",
       "start_at": "2026-08-30T21:00:00-07:00",
       "title_dropped": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
       "title_kept": "CHURCH OF HIVE",
       "venue": "Star Theater"
+    },
+    {
+      "dropped": "dopdx:17689332",
+      "kept": "ticketmaster:rZ7HnEZ1AfFYx7",
+      "start_at": "2026-08-30T22:00:00-07:00",
+      "title_dropped": "Sinferno Cabaret",
+      "title_kept": "SINFERNO CABARET",
+      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19442195@2026-08-31T19:00",
@@ -4105,9 +4121,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 5819,
-  "floor_check": "5819 events against a 5822-event baseline",
-  "generated_at": "2026-08-04T17:15:15+00:00",
+  "event_count": 5822,
+  "floor_check": "5822 events against a 5822-event baseline",
+  "generated_at": "2026-08-04T17:16:55+00:00",
   "problems": [],
   "sources": [
     "calagator",
