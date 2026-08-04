@@ -14228,7 +14228,7 @@
       ],
       "end_at": "2026-08-16T02:00:00-07:00",
       "id": "dopdx:17688502",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785863716/event-17688502.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/8/15/elsewhere-neon-stardust-drag-burlesque-hosted-by-xavialune-featuring-tsunani-helena-hemlock-violette-scarlett-eris-tickets",
       "price": {
@@ -21581,6 +21581,35 @@
         "address": "12725 SW Millikan Way #240,",
         "city": "Beaverton",
         "name": "Patricia Reser Center for the Arts"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-22T13:00:00-07:00",
+      "id": "dopdx:17690779",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/22/smile-boat-parade-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-22T11:00:00-07:00",
+      "summary": "Portland's Most Joyful Boat Parade Take to the water for the Smile Boat Parade, a colorful celebration bringing Portland's boating community together on Saturday, August 22. Starting at Hayden Island, boaters of all shapes and sizes will cruise two miles down the Columbia River, showing off creative decorations and themed boats as they make their way toward the Bridgeton neighborhood. The fun continues after the parade with an afternoon celebration featuring awards, refreshments, and a floating barge gathering. Whether arriving by motorboat, sailboat, kayak, canoe, paddleboard, or another watercraft, the Smile Boat Parade is a unique way to enjoy Portland's waterfront and connect with the local boating community. Registration is required f",
+      "title": "Smile Boat Parade",
+      "venue": {
+        "address": "1241 Northeast Marine Drive",
+        "city": "Portland",
+        "name": "Portland Yacht Club"
       }
     },
     {
@@ -31930,7 +31959,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-04T17:14:49+00:00",
+  "generated_at": "2026-08-04T19:10:31+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
