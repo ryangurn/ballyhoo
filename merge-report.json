@@ -1441,6 +1441,14 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "dopdx:17494375",
+      "kept": "ticketmaster:Z7r9jZ1A7P0ft",
+      "start_at": "2026-08-12T20:00:00-07:00",
+      "title_dropped": "Cat Power: The Greatest Tour",
+      "title_kept": "Cat Power",
+      "venue": "Revolution Hall - Portland"
+    },
+    {
       "dropped": "dopdx:16999198",
       "kept": "ticketmaster:Z7r9jZ1A709GM",
       "start_at": "2026-08-12T20:00:00-07:00",
@@ -2047,6 +2055,14 @@
       "title_dropped": "Harry Potter and the Cursed Child",
       "title_kept": "Harry Potter and the Cursed Child (Touring)",
       "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17290468",
+      "kept": "ticketmaster:Z7r9jZ1AAZvea",
+      "start_at": "2026-08-15T20:00:00-07:00",
+      "title_dropped": "SOLD OUT: Gillian Welch & David Rawlings play Grateful Dead acoustic Reckoning",
+      "title_kept": "Bailen (21 and Over)",
+      "venue": "Revolution Hall - Portland"
     },
     {
       "dropped": "willamette_week:19114765@2026-08-15T20:00",
@@ -4121,9 +4137,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 5822,
-  "floor_check": "5822 events against a 5822-event baseline",
-  "generated_at": "2026-08-04T18:00:57+00:00",
+  "event_count": 5855,
+  "floor_check": "5855 events against a 5822-event baseline",
+  "generated_at": "2026-08-04T18:04:10+00:00",
   "problems": [],
   "sources": [
     "calagator",
