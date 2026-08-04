@@ -217,62 +217,6 @@
       "venue": "Topaz Farm"
     },
     {
-      "dropped": "willamette_week:19185833@2026-08-03T16:30",
-      "kept": "dopdx:17475442",
-      "start_at": "2026-08-03T16:30:00-07:00",
-      "title_dropped": "Foundations of Acting for Teens",
-      "title_kept": "Foundations of Acting for Teens",
-      "venue": "100 Lives Theatre"
-    },
-    {
-      "dropped": "willamette_week:18256892@2026-08-03T18:00",
-      "kept": "dopdx:16980332",
-      "start_at": "2026-08-03T18:00:00-07:00",
-      "title_dropped": "Poppy",
-      "title_kept": "Poppy",
-      "venue": "Roseland Theater"
-    },
-    {
-      "dropped": "willamette_week:19533361@2026-08-03T19:00",
-      "kept": "dopdx:17496818",
-      "start_at": "2026-08-03T19:00:00-07:00",
-      "title_dropped": "BUILDING ENVIRONMENT - SUMMER WORKSHOP: SINGLE-USE",
-      "title_kept": "JUST KEEP WATCHING: A Concert Cabaret",
-      "venue": "Curious Comedy Theater"
-    },
-    {
-      "dropped": "willamette_week:19108225@2026-08-03T19:00",
-      "kept": "dopdx:17496818",
-      "start_at": "2026-08-03T19:00:00-07:00",
-      "title_dropped": "JUST KEEP WATCHING: A Concert Cabaret",
-      "title_kept": "JUST KEEP WATCHING: A Concert Cabaret",
-      "venue": "Curious Comedy Theater"
-    },
-    {
-      "dropped": "willamette_week:18889670@2026-08-03T20:00",
-      "kept": "dopdx:17252198",
-      "start_at": "2026-08-03T20:00:00-07:00",
-      "title_dropped": "The Strike",
-      "title_kept": "The Strike",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "willamette_week:19412620@2026-08-03T20:00",
-      "kept": "dopdx:17530152",
-      "start_at": "2026-08-03T20:00:00-07:00",
-      "title_dropped": "KOALLABY, THIN & CLEAN, BRITES",
-      "title_kept": "Koallaby, Thin & Clean, Brites",
-      "venue": "Kelly's Olympian"
-    },
-    {
-      "dropped": "willamette_week:17586570@2026-08-03T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPwF0",
-      "start_at": "2026-08-03T21:00:00-07:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:18195620@2026-08-04T18:00",
       "kept": "dopdx:16920554",
       "start_at": "2026-08-04T18:30:00-07:00",
@@ -4047,11 +3991,51 @@
       "title_dropped": "KEEP CLOSE with Split Persona, The Way Below, & Guest",
       "title_kept": "KEEP CLOSE with Split Persona, The Way Below, & Guest",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19509603@2026-09-03T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A70883",
+      "start_at": "2026-09-03T19:30:00-07:00",
+      "title_dropped": "Special Event: Craig Robinson",
+      "title_kept": "Craig Robinson",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "willamette_week:18797145@2026-09-03T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A70883",
+      "start_at": "2026-09-03T19:30:00-07:00",
+      "title_dropped": "Special Event: Craig Robinson",
+      "title_kept": "Craig Robinson",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "willamette_week:19509598@2026-09-03T20:00",
+      "kept": "ticketmaster:Z7r9jZ1A70883",
+      "start_at": "2026-09-03T19:30:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Sabrina Wu",
+      "title_kept": "Craig Robinson",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "willamette_week:18548778@2026-09-03T20:00",
+      "kept": "ticketmaster:Z7r9jZ1A70883",
+      "start_at": "2026-09-03T19:30:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Sabrina Wu",
+      "title_kept": "Craig Robinson",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "willamette_week:19449601@2026-09-03T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfFzFf",
+      "start_at": "2026-09-03T21:00:00-07:00",
+      "title_dropped": "BLACK LIPS with Escape-ism",
+      "title_kept": "BLACK LIPS with Escape-ism",
+      "venue": "Dante's"
     }
   ],
-  "event_count": 5839,
-  "floor_check": "5839 events against a 5840-event baseline",
-  "generated_at": "2026-08-04T03:34:59+00:00",
+  "event_count": 5833,
+  "floor_check": "5833 events against a 5840-event baseline",
+  "generated_at": "2026-08-04T03:43:08+00:00",
   "problems": [],
   "sources": [
     "calagator",
