@@ -4057,6 +4057,14 @@
       "venue": "Hillsboro Ballpark"
     },
     {
+      "dropped": "willamette_week:17586570@2026-08-31T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPw37",
+      "start_at": "2026-08-31T21:00:00-07:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19509603@2026-09-03T19:30",
       "kept": "ticketmaster:Z7r9jZ1A70883",
       "start_at": "2026-09-03T19:30:00-07:00",
@@ -4097,9 +4105,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 5823,
-  "floor_check": "5823 events against a 5840-event baseline",
-  "generated_at": "2026-08-04T06:38:14+00:00",
+  "event_count": 5822,
+  "floor_check": "5822 events against a 5840-event baseline",
+  "generated_at": "2026-08-04T06:39:55+00:00",
   "problems": [],
   "sources": [
     "calagator",
