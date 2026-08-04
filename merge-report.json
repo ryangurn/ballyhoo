@@ -329,14 +329,6 @@
       "venue": "Discovery Museum"
     },
     {
-      "dropped": "willamette_week:19466039@2026-08-05T17:00",
-      "kept": "portland_farmers_market:the-portland-mountain-boys@2026-08-05",
-      "start_at": "2026-08-05T17:00:00-07:00",
-      "title_dropped": "The Portland Mountain Boys",
-      "title_kept": "The Portland Mountain Boys",
-      "venue": "Kenton Farmers Market"
-    },
-    {
       "dropped": "willamette_week:18796120@2026-08-05T18:00",
       "kept": "dopdx:17552672",
       "start_at": "2026-08-05T18:00:00-07:00",
@@ -4042,7 +4034,7 @@
     },
     {
       "dropped": "willamette_week:18521270@2026-08-05T10:00",
-      "kept": "portland_farmers_market:shemanski-park-farmers-market-2026@2026-08-05",
+      "kept": "portland_farmers_market:shemanski-park-farmers-market@2026-08-05",
       "start_at": "2026-08-05T10:00:00-07:00",
       "title_dropped": "Shemanski Park Farmers Market",
       "title_kept": "Shemanski Park Farmers Market",
@@ -4147,7 +4139,7 @@
   ],
   "event_count": 5864,
   "floor_check": "5864 events against a 5822-event baseline",
-  "generated_at": "2026-08-04T19:52:07+00:00",
+  "generated_at": "2026-08-04T19:53:13+00:00",
   "problems": [],
   "sources": [
     "calagator",

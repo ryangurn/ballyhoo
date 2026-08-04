@@ -5509,11 +5509,11 @@
         "market",
         "food"
       ],
-      "end_at": "2026-08-05T14:00:00-07:00",
-      "id": "portland_farmers_market:shemanski-park-farmers-market-2026@2026-08-05",
+      "end_at": "2026-08-05T13:00:00-07:00",
+      "id": "portland_farmers_market:shemanski-park-farmers-market@2026-08-05",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2022/10/Shemanski_P1030294-scaled.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.portlandfarmersmarket.org/event/shemanski-park-farmers-market-2026/2026-08-05/",
+      "listing_url": "https://www.portlandfarmersmarket.org/event/shemanski-park-farmers-market/",
       "merged_sources": [
         "portland_farmers_market",
         "willamette_week"
@@ -7201,43 +7201,6 @@
     },
     {
       "categories": [
-        "music",
-        "market"
-      ],
-      "end_at": "2026-08-05T19:00:00-07:00",
-      "id": "portland_farmers_market:the-portland-mountain-boys@2026-08-05",
-      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2025/05/image-e1748379647423.png",
-      "is_all_day": false,
-      "listing_url": "https://www.portlandfarmersmarket.org/event/the-portland-mountain-boys/",
-      "merged_sources": [
-        "portland_farmers_market",
-        "willamette_week"
-      ],
-      "organizer": "Portland Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "portland_farmers_market",
-        "name": "Portland Farmers Market",
-        "url": "https://www.portlandfarmersmarket.org"
-      },
-      "start_at": "2026-08-05T17:00:00-07:00",
-      "summary": "Enjoy live music by The Portland Mountain Boys at Kenton Farmers Market on Wednesday, August 5, 2026.",
-      "title": "The Portland Mountain Boys",
-      "venue": {
-        "address": "N McClellan St & N Denver Ave",
-        "city": "Portland",
-        "latitude": 45.5832371,
-        "longitude": -122.6873115,
-        "name": "Kenton Farmers Market"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-08-05T19:00:00-07:00",
@@ -7350,6 +7313,35 @@
         "latitude": 45.55272,
         "longitude": -122.90778,
         "name": "Hillsboro Stadium"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-05T19:00:00-07:00",
+      "id": "willamette_week:19466039@2026-08-05T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CFXEpKNAqEOxlLfHHm31dA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/the-portland-mountain-boys/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-05T17:00:00-07:00",
+      "summary": "Featuring old-timey and timeless tunes played with heart, The Portland Mountain Boys have spent more than a decade developing their unique sound on front porches and back decks of Portland’s east side. This 6-piece string band \\(guitar, banjo, mandolin, bass, and two fiddles\\) plays an eclectic mix of old-time, Americana, and folk music, with a few authentic-sounding originals thrown in. A PMB show is always a sweet-strumming, bass-thumping, fast-picking good time.",
+      "title": "The Portland Mountain Boys",
+      "venue": {
+        "address": "N McClellan St & N Denver Ave",
+        "city": "Portland",
+        "latitude": 45.583106,
+        "longitude": -122.686899,
+        "name": "Kenton Farmers Market"
       }
     },
     {
@@ -174263,5 +174255,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-04T19:52:07+00:00"
+  "generated_at": "2026-08-04T19:53:13+00:00"
 }
