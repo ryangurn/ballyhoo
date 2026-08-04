@@ -5,11 +5,11 @@
         "market",
         "food"
       ],
-      "end_at": "2026-08-05T14:00:00-07:00",
-      "id": "portland_farmers_market:shemanski-park-farmers-market-2026@2026-08-05",
+      "end_at": "2026-08-05T13:00:00-07:00",
+      "id": "portland_farmers_market:shemanski-park-farmers-market@2026-08-05",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2022/10/Shemanski_P1030294-scaled.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.portlandfarmersmarket.org/event/shemanski-park-farmers-market-2026/2026-08-05/",
+      "listing_url": "https://www.portlandfarmersmarket.org/event/shemanski-park-farmers-market/",
       "organizer": "Portland Farmers Market",
       "price": {
         "currency": "USD",
@@ -58,39 +58,6 @@
       "start_at": "2026-08-05T15:00:00-07:00",
       "summary": "Situated in a historic neighborhood of North Portland, this market features a dozen vendors and serves as a convenient midweek destination for fresh produce and local food.",
       "title": "Kenton Farmers Market",
-      "venue": {
-        "address": "N McClellan St & N Denver Ave",
-        "city": "Portland",
-        "latitude": 45.5832371,
-        "longitude": -122.6873115,
-        "name": "Kenton Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "music",
-        "market"
-      ],
-      "end_at": "2026-08-05T19:00:00-07:00",
-      "id": "portland_farmers_market:the-portland-mountain-boys@2026-08-05",
-      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2025/05/image-e1748379647423.png",
-      "is_all_day": false,
-      "listing_url": "https://www.portlandfarmersmarket.org/event/the-portland-mountain-boys/",
-      "organizer": "Portland Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "portland_farmers_market",
-        "name": "Portland Farmers Market",
-        "url": "https://www.portlandfarmersmarket.org"
-      },
-      "start_at": "2026-08-05T17:00:00-07:00",
-      "summary": "Enjoy live music by The Portland Mountain Boys at Kenton Farmers Market on Wednesday, August 5, 2026.",
-      "title": "The Portland Mountain Boys",
       "venue": {
         "address": "N McClellan St & N Denver Ave",
         "city": "Portland",
@@ -3268,7 +3235,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-04T14:36:19+00:00",
+  "generated_at": "2026-08-04T19:52:25+00:00",
   "source_id": "portland_farmers_market",
   "status": "ok"
 }
