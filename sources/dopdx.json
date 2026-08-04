@@ -4249,6 +4249,31 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-08-07T23:00:00-07:00",
+      "id": "dopdx:17690881",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785871119/event-17690881.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/7/chaotic-singles-game-night-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-07T20:00:00-07:00",
+      "summary": "A Chaotic Night for Portland Singles Skip the awkward small talk and meet new people at Chaotic Singles Game Night, coming to Moxy Portland Downtown on Friday, August 7. This playful singles event puts a fun spin on meeting someone new with games, conversation, and plenty of opportunities to connect in a relaxed, social setting. Whether you're looking for a spark, new friends, or simply a fun night out, expect a lively evening designed to get Portland singles mingling and having a good time. Come ready to play, meet new people, and embrace a little chaos.",
+      "title": "Chaotic Singles Game Night",
+      "venue": {
+        "name": "Moxy Portland Downtown"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-08-08T02:00:00-07:00",
       "id": "dopdx:17505109",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1781843231/event-17505109.png",
@@ -4272,31 +4297,6 @@
         "address": "529 SW 4th Ave",
         "city": "Portland",
         "name": "Jack London Revue"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-07T23:00:00-07:00",
-      "id": "dopdx:17690881",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785871119/event-17690881.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/8/7/chaotic-singles-game-night-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-08-07T20:00:00-07:00",
-      "summary": "A Chaotic Night for Portland Singles Skip the awkward small talk and meet new people at Chaotic Singles Game Night, coming to Moxy Portland Downtown on Friday, August 7. This playful singles event puts a fun spin on meeting someone new with games, conversation, and plenty of opportunities to connect in a relaxed, social setting. Whether you're looking for a spark, new friends, or simply a fun night out, expect a lively evening designed to get Portland singles mingling and having a good time. Come ready to play, meet new people, and embrace a little chaos.",
-      "title": "Chaotic Singles Game Night",
-      "venue": {
-        "name": "Moxy Portland Downtown"
       }
     },
     {
@@ -31982,7 +31982,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-04T20:52:36+00:00",
+  "generated_at": "2026-08-04T22:39:14+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
