@@ -377,14 +377,6 @@
       "venue": "Keller Auditorium"
     },
     {
-      "dropped": "willamette_week:19053283@2026-08-05T20:00",
-      "kept": "dopdx:17341563",
-      "start_at": "2026-08-05T20:00:00-07:00",
-      "title_dropped": "the FIXX",
-      "title_kept": "the FIXX",
-      "venue": "Aladdin Theater"
-    },
-    {
       "dropped": "dopdx:17152923",
       "kept": "ticketmaster:vvG1HZ_6EERjpW",
       "start_at": "2026-08-05T20:00:00-07:00",
@@ -399,6 +391,14 @@
       "title_dropped": "Benson Boone",
       "title_kept": "Benson Boone",
       "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:19053283@2026-08-05T20:00",
+      "kept": "dopdx:17341563",
+      "start_at": "2026-08-05T20:00:00-07:00",
+      "title_dropped": "the FIXX",
+      "title_kept": "the FIXX",
+      "venue": "Aladdin Theater"
     },
     {
       "dropped": "willamette_week:16681265@2026-08-05T20:00",
@@ -2761,14 +2761,6 @@
       "venue": "Patricia Reser Center for the Arts"
     },
     {
-      "dropped": "willamette_week:19384462@2026-08-22T11:00",
-      "kept": "dopdx:17690779",
-      "start_at": "2026-08-22T11:00:00-07:00",
-      "title_dropped": "Smile Boat Parade - North Waterfront",
-      "title_kept": "Smile Boat Parade",
-      "venue": "Portland Yacht Club"
-    },
-    {
       "dropped": "dopdx:16843346",
       "kept": "ticketmaster:Z7r9jZ1A7Ox_f",
       "start_at": "2026-08-22T17:45:00-07:00",
@@ -4137,9 +4129,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 5868,
-  "floor_check": "5868 events against a 5822-event baseline",
-  "generated_at": "2026-08-04T20:52:38+00:00",
+  "event_count": 5870,
+  "floor_check": "5870 events against a 5822-event baseline",
+  "generated_at": "2026-08-04T20:55:17+00:00",
   "problems": [],
   "sources": [
     "calagator",
