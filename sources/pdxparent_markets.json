@@ -5,38 +5,6 @@
         "market",
         "food"
       ],
-      "end_at": "2026-08-03T19:00:00-07:00",
-      "id": "pdxparent_markets:come-thru-black-indigenous-market@2026-08-03",
-      "is_all_day": false,
-      "listing_url": "https://www.comethrupdx.org/",
-      "organizer": "Come Thru Black & Indigenous Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-03T15:00:00-07:00",
-      "summary": "1st and 3rd Mondays, June-October, 3-7 pm Tuesday Farmers Markets Courtesy of Hillsboro Tuesday Marketplace",
-      "title": "Come Thru Black & Indigenous Market",
-      "venue": {
-        "address": "2766 NE Martin Luther King Jr. Blvd.",
-        "city": "Portland",
-        "latitude": 45.54279,
-        "longitude": -122.66115,
-        "name": "Come Thru Black & Indigenous Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
       "end_at": "2026-08-04T14:00:00-07:00",
       "id": "pdxparent_markets:farmers-market-at-ohsu@2026-08-04",
       "is_all_day": false,
@@ -13298,9 +13266,41 @@
         "longitude": -122.38984,
         "name": "Troutdale Farm Market"
       }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-02T19:00:00-08:00",
+      "id": "pdxparent_markets:peoples-farmers-market@2026-12-02",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People’s Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "pdxparent_markets",
+        "name": "PDX Parent",
+        "url": "https://pdxparent.com"
+      },
+      "start_at": "2026-12-02T14:00:00-08:00",
+      "summary": "Wednesdays, 2-7 pm (Winter hours 2-6 pm)",
+      "title": "People’s Farmers Market",
+      "venue": {
+        "address": "3029 SE 21st Ave.",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People’s Farmers Market"
+      }
     }
   ],
-  "generated_at": "2026-08-04T03:55:38+00:00",
+  "generated_at": "2026-08-04T09:31:21+00:00",
   "source_id": "pdxparent_markets",
   "status": "ok"
 }
