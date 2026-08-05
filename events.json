@@ -146077,6 +146077,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1A4ZF-d",
+      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/harm-retreat-ep-release-with-star-theater-tickets/15008843",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.06,
+        "min": 20.06
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-17T20:00:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/harm-retreat-ep-release-with-star-theater-tickets/15008843",
+      "title": "HARM RETREAT (EP RELEASE) with Dolls Die Twice and A Killing's Worth",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1AAZ8Gt",
       "image_url": "https://s1.ticketm.net/dam/a/b05/86458cb4-3b36-4038-a164-665231047b05_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -146261,7 +146292,7 @@
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 33.6,
+        "max": 58.02,
         "min": 27.62
       },
       "source": {
@@ -170750,6 +170781,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1A4Z4PS",
+      "image_url": "https://s1.ticketm.net/dam/c/27e/458d1b62-6e4f-4ffd-8941-9ed303d8e27e_106041_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/iron-prophecy-bob-jack-london-revue-tickets/15015973",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 24.18,
+        "min": 24.18
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-02-06T20:00:00-08:00",
+      "summary": "Iron Prophecy - Bob Marley B-Day Bash w Simba Puma Sould Out and Jack London Present:Iron Prophecy - Bob Marley Birthday Bash, with Simba Puma and the Roaring Lions + Trinity Sound.Doors: 7:00pmShow: 8:00pmAges 21+Notes on Seating: Open seating, may be limited or standing room only. First come, first seated. Open dance floor may obscure sightlines.",
+      "ticket_url": "https://www.ticketweb.com/event/iron-prophecy-bob-jack-london-revue-tickets/15015973",
+      "title": "IRON PROPHECY - BOB MARLEY B-DAY BASH",
+      "venue": {
+        "address": "529 SW 4th Ave.",
+        "city": "Portland",
+        "latitude": 45.519452,
+        "longitude": -122.676291,
+        "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_2mbtM6J",
@@ -173199,5 +173261,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-05T15:51:34+00:00"
+  "generated_at": "2026-08-05T16:52:53+00:00"
 }
