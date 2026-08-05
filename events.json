@@ -4089,8 +4089,8 @@
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 16.25,
-        "min": 16.25
+        "max": 20.49,
+        "min": 20.49
       },
       "source": {
         "id": "dopdx",
@@ -41150,6 +41150,35 @@
         "latitude": 45.5124236,
         "longitude": -122.6483752,
         "name": "No Fun"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-12T02:00:00-07:00",
+      "id": "dopdx:17696493",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785963139/event-17696493.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/11/kieran-harden-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.07,
+        "min": 13.07
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-11T19:00:00-07:00",
+      "summary": "Fallfiftyfeet, Tomorrow’s Never Promised, War From Within and Eunoia at the High Limit Room, 8/11/26 7pm",
+      "title": "Kieran Harden",
+      "venue": {
+        "address": "720 SE Hawthorne Blvd, Portland, OR, 97214",
+        "city": "Portland",
+        "name": "The High Limit Room"
       }
     },
     {
@@ -174782,5 +174811,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-05T21:51:13+00:00"
+  "generated_at": "2026-08-05T21:54:06+00:00"
 }
