@@ -2,31 +2,6 @@
   "events": [
     {
       "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:metropolitan-exposition-recreation-commission-meeting-2026-08-05",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metropolitan-exposition-recreation-commission-meeting-2026-08-05",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-08-05T12:30:00-07:00",
-      "title": "Metropolitan Exposition Recreation Commission meeting",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.52832,
-        "longitude": -122.66311,
-        "name": "Oregon Convention Center"
-      }
-    },
-    {
-      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:life-jacket-giveaway-2026-08-06",
@@ -1107,25 +1082,6 @@
         "longitude": -122.66024,
         "name": "Metro Regional Center"
       }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:transportation-policy-alternatives-committee-meeting-2026-10-02",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/transportation-policy-alternatives-committee-meeting-2026-10-02",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-02T09:00:00-07:00",
-      "title": "Transportation Policy Alternatives Committee meeting"
     },
     {
       "categories": [
@@ -2710,7 +2666,7 @@
       "title": "Committee on Racial Equity meeting"
     }
   ],
-  "generated_at": "2026-08-05T20:00:42+00:00",
+  "generated_at": "2026-08-05T21:38:35+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
