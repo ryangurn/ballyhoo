@@ -1657,6 +1657,14 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
+      "dropped": "willamette_week:19017574@2026-08-14T19:00",
+      "kept": "dopdx:17692291",
+      "start_at": "2026-08-14T19:00:00-07:00",
+      "title_dropped": "Outdoor Equine Sound Bath & Meditation Summer Series",
+      "title_kept": "Sound Bath with Horses",
+      "venue": "Blue Frog Equine"
+    },
+    {
       "dropped": "dopdx:17392359",
       "kept": "ticketmaster:Z7r9jZ1A70YZ3",
       "start_at": "2026-08-14T19:00:00-07:00",
@@ -4171,7 +4179,7 @@
   ],
   "event_count": 5831,
   "floor_check": "5831 events against a 5879-event baseline",
-  "generated_at": "2026-08-05T04:46:51+00:00",
+  "generated_at": "2026-08-05T04:48:34+00:00",
   "problems": [],
   "sources": [
     "calagator",
