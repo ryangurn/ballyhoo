@@ -2929,6 +2929,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:18297706@2026-08-23T19:00",
+      "kept": "dopdx:17692374",
+      "start_at": "2026-08-23T19:00:00-07:00",
+      "title_dropped": "Paint Fight PDX",
+      "title_kept": "Paint Fight!",
+      "venue": "High Water Mark Lounge"
+    },
+    {
       "dropped": "dopdx:17373912",
       "kept": "ticketmaster:Z7r9jZ1A70YeF",
       "start_at": "2026-08-23T19:30:00-07:00",
@@ -3561,6 +3569,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:17670892@2026-08-30T09:00",
+      "kept": "pdxparent_markets:hillsdale-farmers-market@2026-08-30",
+      "start_at": "2026-08-30T09:00:00-07:00",
+      "title_dropped": "Hillsdale Farmers' Market",
+      "title_kept": "Hillsdale Farmers Market",
+      "venue": "Hillsdale Farmers Market"
+    },
+    {
       "dropped": "willamette_week:17962663@2026-08-30T13:05",
       "kept": "ticketmaster:Z7r9jZ1A7Qv_4",
       "start_at": "2026-08-30T13:05:00-07:00",
@@ -4009,14 +4025,6 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
-      "dropped": "willamette_week:17670892@2026-08-30T09:00",
-      "kept": "pdxparent_markets:hillsdale-farmers-market@2026-08-30",
-      "start_at": "2026-08-30T09:00:00-07:00",
-      "title_dropped": "Hillsdale Farmers' Market",
-      "title_kept": "Hillsdale Farmers Market",
-      "venue": "Hillsdale Farmers Market"
-    },
-    {
       "dropped": "willamette_week:19466208@2026-09-02T17:00",
       "kept": "portland_farmers_market:a-notion-2@2026-09-02",
       "start_at": "2026-09-02T17:00:00-07:00",
@@ -4177,9 +4185,9 @@
       "venue": "Helium Comedy Club - Portland"
     }
   ],
-  "event_count": 5830,
-  "floor_check": "5830 events against a 5828-event baseline",
-  "generated_at": "2026-08-05T18:08:11+00:00",
+  "event_count": 5853,
+  "floor_check": "5853 events against a 5828-event baseline",
+  "generated_at": "2026-08-05T18:10:25+00:00",
   "problems": [],
   "sources": [
     "calagator",
