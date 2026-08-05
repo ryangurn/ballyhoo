@@ -1873,22 +1873,6 @@
       "venue": "Providence Park"
     },
     {
-      "dropped": "willamette_week:19332494@2026-08-15T18:00",
-      "kept": "dopdx:17451657",
-      "start_at": "2026-08-15T18:00:00-07:00",
-      "title_dropped": "Dueling Piano Show",
-      "title_kept": "Dueling Piano Show",
-      "venue": "Barrel Room Portland"
-    },
-    {
-      "dropped": "willamette_week:19332504@2026-08-15T18:00",
-      "kept": "dopdx:17451657",
-      "start_at": "2026-08-15T18:00:00-07:00",
-      "title_dropped": "Dueling Piano Show",
-      "title_kept": "Dueling Piano Show",
-      "venue": "Barrel Room Portland"
-    },
-    {
       "dropped": "dopdx:17343285",
       "kept": "ticketmaster:Z7r9jZ1A70bfk",
       "start_at": "2026-08-15T19:00:00-07:00",
@@ -2511,6 +2495,14 @@
       "title_dropped": "Special Event: Aries Spears",
       "title_kept": "Aries Spears",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:18766017@2026-08-21T19:00",
+      "kept": "dopdx:17696630",
+      "start_at": "2026-08-21T19:00:00-07:00",
+      "title_dropped": "Vibrational Wellness: Sound Bath Meditation",
+      "title_kept": "Vibrational Wellness: Sound Bath Meditation",
+      "venue": "Multnomah Arts Center"
     },
     {
       "dropped": "willamette_week:19012547@2026-08-21T19:30",
@@ -3311,6 +3303,14 @@
       "title_dropped": "Lazarus with special guest Alex Callenberger",
       "title_kept": "Lazarus Alex Callenberger",
       "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "willamette_week:19017574@2026-08-28T19:00",
+      "kept": "dopdx:17696643",
+      "start_at": "2026-08-28T19:00:00-07:00",
+      "title_dropped": "Outdoor Equine Sound Bath & Meditation Summer Series",
+      "title_kept": "The Outdoor Pony Farm Series: Sound Bath Meditation at Blue Frog Equine",
+      "venue": "Blue Frog Equine"
     },
     {
       "dropped": "willamette_week:18107994@2026-08-28T19:00",
@@ -4225,9 +4225,9 @@
       "venue": "Helium Comedy Club - Portland"
     }
   ],
-  "event_count": 5970,
-  "floor_check": "5970 events against a 5881-event baseline",
-  "generated_at": "2026-08-05T23:31:52+00:00",
+  "event_count": 5971,
+  "floor_check": "5971 events against a 5881-event baseline",
+  "generated_at": "2026-08-05T23:33:26+00:00",
   "problems": [],
   "sources": [
     "calagator",
