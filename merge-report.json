@@ -217,30 +217,6 @@
       "venue": "Topaz Farm"
     },
     {
-      "dropped": "willamette_week:19206827@2026-08-28T19:00",
-      "kept": "dopdx:17496866",
-      "start_at": "2026-08-28T19:00:00-07:00",
-      "title_dropped": "Lazarus with special guest Alex Callenberger",
-      "title_kept": "Lazarus Alex Callenberger",
-      "venue": "The Alberta Rose Theatre"
-    },
-    {
-      "dropped": "willamette_week:18107994@2026-08-28T19:00",
-      "kept": "dopdx:17176446",
-      "start_at": "2026-08-28T19:30:00-07:00",
-      "title_dropped": "Special Event: Ben Bankas",
-      "title_kept": "The Neon Room at Helium: Rachel Williams",
-      "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:18548781@2026-08-28T19:30",
-      "kept": "dopdx:17176446",
-      "start_at": "2026-08-28T19:30:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Rachel Williams",
-      "title_kept": "The Neon Room at Helium: Rachel Williams",
-      "venue": "Helium Comedy Club"
-    },
-    {
       "dropped": "willamette_week:18064150@2026-08-05T11:30",
       "kept": "dopdx:16729990",
       "start_at": "2026-08-05T11:30:00-07:00",
@@ -3305,6 +3281,30 @@
       "venue": "Hillsboro Ballpark"
     },
     {
+      "dropped": "willamette_week:19206827@2026-08-28T19:00",
+      "kept": "dopdx:17496866",
+      "start_at": "2026-08-28T19:00:00-07:00",
+      "title_dropped": "Lazarus with special guest Alex Callenberger",
+      "title_kept": "Lazarus Alex Callenberger",
+      "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "willamette_week:18107994@2026-08-28T19:00",
+      "kept": "dopdx:17176446",
+      "start_at": "2026-08-28T19:30:00-07:00",
+      "title_dropped": "Special Event: Ben Bankas",
+      "title_kept": "The Neon Room at Helium: Rachel Williams",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:18548781@2026-08-28T19:30",
+      "kept": "dopdx:17176446",
+      "start_at": "2026-08-28T19:30:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Rachel Williams",
+      "title_kept": "The Neon Room at Helium: Rachel Williams",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:18783835@2026-08-28T20:00",
       "kept": "dopdx:17132427",
       "start_at": "2026-08-28T20:00:00-07:00",
@@ -4177,9 +4177,9 @@
       "venue": "Helium Comedy Club - Portland"
     }
   ],
-  "event_count": 5831,
-  "floor_check": "5831 events against a 5879-event baseline",
-  "generated_at": "2026-08-05T04:50:17+00:00",
+  "event_count": 5830,
+  "floor_check": "5830 events against a 5879-event baseline",
+  "generated_at": "2026-08-05T06:39:09+00:00",
   "problems": [],
   "sources": [
     "calagator",
