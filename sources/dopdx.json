@@ -3447,6 +3447,31 @@
         "music"
       ],
       "end_at": "2026-08-07T23:00:00-07:00",
+      "id": "dopdx:17690881",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785871119/event-17690881.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/7/chaotic-singles-game-night-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-07T20:00:00-07:00",
+      "summary": "A Chaotic Night for Portland Singles Skip the awkward small talk and meet new people at Chaotic Singles Game Night, coming to Moxy Portland Downtown on Friday, August 7. This playful singles event puts a fun spin on meeting someone new with games, conversation, and plenty of opportunities to connect in a relaxed, social setting. Whether you're looking for a spark, new friends, or simply a fun night out, expect a lively evening designed to get Portland singles mingling and having a good time. Come ready to play, meet new people, and embrace a little chaos.",
+      "title": "Chaotic Singles Game Night",
+      "venue": {
+        "name": "Moxy Portland Downtown"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-07T23:00:00-07:00",
       "id": "dopdx:17592149",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1783736106/event-17592149.png",
       "is_all_day": false,
@@ -3468,31 +3493,6 @@
       "venue": {
         "address": "2016 NE Sandy Portland, OR 97232",
         "name": "The Blue Diamond"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-07T23:00:00-07:00",
-      "id": "dopdx:17690881",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785871119/event-17690881.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/8/7/chaotic-singles-game-night-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-08-07T20:00:00-07:00",
-      "summary": "A Chaotic Night for Portland Singles Skip the awkward small talk and meet new people at Chaotic Singles Game Night, coming to Moxy Portland Downtown on Friday, August 7. This playful singles event puts a fun spin on meeting someone new with games, conversation, and plenty of opportunities to connect in a relaxed, social setting. Whether you're looking for a spark, new friends, or simply a fun night out, expect a lively evening designed to get Portland singles mingling and having a good time. Come ready to play, meet new people, and embrace a little chaos.",
-      "title": "Chaotic Singles Game Night",
-      "venue": {
-        "name": "Moxy Portland Downtown"
       }
     },
     {
@@ -12124,6 +12124,34 @@
         "address": "2012 SE Hawthorne",
         "city": "Portland",
         "name": "Cinemagic Theater"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-14T20:00:00-07:00",
+      "id": "dopdx:17692291",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785896866/event-17692291.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/14/sound-bath-with-horses-tickets",
+      "organizer": "Sentinel Sound LLC",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-14T19:00:00-07:00",
+      "summary": "Outdoor Sound Bath: Meditation Among Horses Explore stillness, sound and equine presence. This outdoor series is a truly unique experience where participants experience a relaxing sound bath meditation with the retired equine residents of Blue Frog Equine. Located in West Linn, Oregon, this family owned farm provides love, care, and support for the elderly horses that reside on site. Participants relax in between the shed row stalls and myself for a truly immersive experience. All beings benefit from healing frequencies and the outdoors. Humans benefit from being in the electromagnetic field of horses and practicing mindfulness. A bespoke selection of curated sound healing instruments will guide you through this relaxing experience. This l",
+      "title": "Sound Bath with Horses",
+      "venue": {
+        "address": "1226 SW Borland Rd",
+        "city": "West Linn",
+        "name": "Blue Frog Equine"
       }
     },
     {
@@ -31812,7 +31840,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-05T00:58:24+00:00",
+  "generated_at": "2026-08-05T04:46:52+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
