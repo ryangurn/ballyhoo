@@ -2361,6 +2361,14 @@
       "venue": "Mississippi Studios"
     },
     {
+      "dropped": "willamette_week:19570802@2026-08-19T20:00",
+      "kept": "dopdx:17476565",
+      "start_at": "2026-08-19T20:00:00-07:00",
+      "title_dropped": "Helado Tropical (Helado Negro & Reyna Tropical",
+      "title_kept": "Helado Tropical (Helado Negro & Reyna Tropical)",
+      "venue": "Revolution Hall"
+    },
+    {
       "dropped": "willamette_week:16681265@2026-08-19T20:00",
       "kept": "dopdx:17306797",
       "start_at": "2026-08-19T20:00:00-07:00",
@@ -2910,6 +2918,14 @@
       "start_at": "2026-08-23T19:00:00-07:00",
       "title_dropped": "Church Of Hive",
       "title_kept": ".MS.BOAN / SRSQ with Jackie Body",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:19570939@2026-08-23T19:00",
+      "kept": "dopdx:16762182",
+      "start_at": "2026-08-23T19:00:00-07:00",
+      "title_dropped": ".MS.BOAN / SRSQ with Jackie Body",
+      "title_kept": "Church Of Hive",
       "venue": "Star Theater"
     },
     {
@@ -3721,6 +3737,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19570940@2026-08-30T20:30",
+      "kept": "dopdx:17689331",
+      "start_at": "2026-08-30T20:30:00-07:00",
+      "title_dropped": "ORCHESTRE L'POW followed by Sinferno Cabaret",
+      "title_kept": "Orchestre L'pow Followed by Sinferno Cabaret",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-08-30T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPs_d",
       "start_at": "2026-08-30T21:00:00-07:00",
@@ -3913,6 +3937,14 @@
       "venue": "Revolution Hall - Portland"
     },
     {
+      "dropped": "willamette_week:19570803@2026-09-03T19:00",
+      "kept": "dopdx:17595285",
+      "start_at": "2026-09-03T19:00:00-07:00",
+      "title_dropped": "Hannibal Buress",
+      "title_kept": "Hannibal Buress",
+      "venue": "Revolution Hall"
+    },
+    {
       "dropped": "dopdx:17648796",
       "kept": "ticketmaster:rZ7HnEZ1Af-xuK",
       "start_at": "2026-09-03T19:00:00-07:00",
@@ -4089,6 +4121,14 @@
       "venue": "Hillsboro Ballpark"
     },
     {
+      "dropped": "willamette_week:18893389@2026-08-29T23:30",
+      "kept": "ticketmaster:rZ7HnEZ1Afv3x7",
+      "start_at": "2026-08-29T23:30:00-07:00",
+      "title_dropped": "SMASH disco~glam~metal~punk-hiphop",
+      "title_kept": "SMASH disco~glam~metal~punk-hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:17586570@2026-08-31T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AKPw37",
       "start_at": "2026-08-31T21:00:00-07:00",
@@ -4185,9 +4225,9 @@
       "venue": "Helium Comedy Club - Portland"
     }
   ],
-  "event_count": 5883,
-  "floor_check": "5883 events against a 5880-event baseline",
-  "generated_at": "2026-08-05T22:19:51+00:00",
+  "event_count": 5969,
+  "floor_check": "5969 events against a 5881-event baseline",
+  "generated_at": "2026-08-05T22:30:39+00:00",
   "problems": [],
   "sources": [
     "calagator",
