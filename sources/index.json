@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-06T15:02:33+00:00",
+  "generated_at": "2026-08-06T15:32:34+00:00",
   "sources": [
     {
       "event_count": 29,
-      "last_run_at": "2026-08-06T12:11:19+00:00",
+      "last_run_at": "2026-08-06T15:28:41+00:00",
       "source_id": "calagator",
       "status": "ok",
       "url": "sources/calagator.json"
@@ -58,15 +58,15 @@
       "url": "sources/portland_parks.json"
     },
     {
-      "event_count": 837,
-      "last_run_at": "2026-08-06T12:16:44+00:00",
+      "event_count": 840,
+      "last_run_at": "2026-08-06T15:26:15+00:00",
       "source_id": "ticketmaster",
       "status": "ok",
       "url": "sources/ticketmaster.json"
     },
     {
       "event_count": 3759,
-      "last_run_at": "2026-08-06T12:20:57+00:00",
+      "last_run_at": "2026-08-06T15:30:40+00:00",
       "source_id": "willamette_week",
       "status": "ok",
       "url": "sources/willamette_week.json"
