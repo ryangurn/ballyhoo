@@ -32472,6 +32472,37 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-08-12T20:00:00-07:00",
+      "id": "willamette_week:19572633@2026-08-12T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rcStDaYaDkuwO1sm72_7DQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.fusetheatreensemble.com/magic-tea-party",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 45.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-12T18:00:00-07:00",
+      "summary": "Join us on Wednesday, August 12th for a night of comedy on the farm with the hilarious Portland-based \"That's What She Said\" Feminist Comedy Collective! TWSS has been doing fundraiser shows and offering Queer centered comedy for 10 years! Come see these baddies and get a plate full of locally grown bias they takeover the cutest little queer-owned farm at Sideyard! You won't want to miss this one! About the Chef! Chef Kenzie has been with Side Yard for 8 years+ ! She will be cooking up wood fired, late summer shish kabobs with farm chutneys and flatbread. For dessert, Chef Kenzie will be making peach crumble with buttermilk whip. Yum! \\Both dinner and dessert can be made V & GF. BAR: Local beer, wine and chicha morada available. *Comedy On the Farm: Your Hosts!* *Jenna Britann* and *Quinne Salameh* have been slingin’ jokes and serving great lineups for 5 summers- and this one is proving to be the hottest summer yet! Come let these power-bottoms treat you right for an evening of hilarious comedy with some of Portland’s best and brightest while you feast on delicious food before the movie starts! You can also catch these two co-hosting the queer comedy showcase \"Bechdel Set\" at Haymaker every second Tuesday of the month. *This month's Lineup with “That’s What She Said”:* *Brooks* brings her Philly roots and Menopausal shenanigans to every set, we are so thrilled her and the TWSS gang are coming through this month! *Samhita Reddy* is a non-profit fundraiser who displays car-avoidant behaviors. She's a PDX native who spent most of her adulthood in New York before landing back in Portland again; thankfully, this makes it easy for her to make fun of people who take themselves too seriously on either coast. *Sarah B* is back! A true gem, she'll make the most relatable moments in life shine with sass and hilarity everytime. *Shannon Sales* is Portland's Premier Cat Whisperer, a founding member of That's What She Said, and a local forlorn Goth. She has over 35 clown paintings in her house, but no TV credits. *Ticket includes COMEDY SHOW, DINNER, DESSERT & A BEVERAGE. Doors open at 6PM. Comedy show starts at 6:45pm**",
+      "title": "Queer Comedy on the Farm with That’s What She Said!",
+      "venue": {
+        "address": "4800 NE Simpson St.",
+        "city": "Portland",
+        "latitude": 45.564738,
+        "longitude": -122.613136,
+        "name": "Side Yard Farm & Kitchen"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-08-12T19:30:00-07:00",
@@ -52326,6 +52357,37 @@
         "latitude": 45.5155719,
         "longitude": -122.6645717,
         "name": "THE DEN"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-08-16T21:00:00-07:00",
+      "id": "willamette_week:19572639@2026-08-16T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c90X2dvqZ0WVbaDcpcQYEQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.fusetheatreensemble.com/magic-tea-party",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-16T19:30:00-07:00",
+      "summary": "In this live Dungeons & Dragons show, a hilarious cast of LGBTQ+ comedians and performers take to the stage to play some theatre games, share some jokes, and play some D&D. This season of Magic Tea Party, you will join Dungeon Master Juliet Mylan who will lead: \\- Cosmo Reynolds (Joey, just some guy with a ukelele that frequents Portland open mics) \\- Jenna Britann (Holbrook, a 165,786,084 yr old dilophosaurus), \\- and Riley McCarthy (Enoch \"Nucky\" Fallstar, a apostle of doomsday cult Threshold of Paradise with some unorthodox powers) Audience members will take part in controlling the players' fate as they navigate an AU magical Portland in a series of side quests to gather magical artifacts for MOMSI (that's Magical OMSI for the layperson). We have a cute name but our show can include strong adult themes and language - so if you bring your 8 yr old just know they may learn something you were hoping to discuss with them after they hit puberty. We recommend ages 16+ and parental guidance for those younger. Small concessions booth with snacks, sodas, seltzers, beer, and wine available at the show. Coffee shop located in front of the theater and beverages are welcome in the theater. Tickets are GAYAF (Give As You’re Able Friend) with a suggested donation of $20 to compensate the performers and keep this independent LGBTQ theater running!",
+      "title": "Magic Tea Party: A Live, Queer Dungeons & Dragons Comedy Show",
+      "venue": {
+        "address": "4319 SE Hawthorne Blvd",
+        "city": "Portland",
+        "latitude": 45.512278,
+        "longitude": -122.617832,
+        "name": "Fuse Ensemble Back Door Theater"
       }
     },
     {
@@ -110802,7 +110864,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-06T00:12:10+00:00",
+  "generated_at": "2026-08-06T03:43:01+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
