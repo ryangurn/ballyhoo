@@ -59750,6 +59750,37 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-08-15T17:00:00-07:00",
+      "id": "willamette_week:19544602@2026-08-15T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3491619c-7af4-425a-97c8-477b025b9278.large.png",
+      "is_all_day": false,
+      "listing_url": "https://clubs.bluesombrero.com/Default.aspx?tabid=1140518",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 50.0,
+        "min": 50.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T12:00:00-07:00",
+      "summary": "Banks Youth Football hosts its annual cornhole tournament fundraiser as part of the Banks BBQ at Banks Sunset Park. Grab a partner and compete: registration is $50 per team, and each team receives 10 raffle tickets toward prizes. Pre-registration is required as space is limited; sign up through the Banks Youth Football website. Raffle and prizes throughout the day. Proceeds support Banks Youth Football.",
+      "title": "Banks Youth Football Cornhole Tournament Fundraiser",
+      "venue": {
+        "address": "12765 NW Main Street",
+        "city": "Banks",
+        "latitude": 45.613562,
+        "longitude": -123.114987,
+        "name": "Banks Sunset Park"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-08-15T14:00:00-07:00",
@@ -177117,5 +177148,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-06T06:44:03+00:00"
+  "generated_at": "2026-08-06T06:49:44+00:00"
 }
