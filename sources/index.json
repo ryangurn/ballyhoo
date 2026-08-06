@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-08-06T15:32:34+00:00",
+  "generated_at": "2026-08-06T23:05:28+00:00",
   "sources": [
     {
       "event_count": 29,
       "last_run_at": "2026-08-06T15:28:41+00:00",
       "source_id": "calagator",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/calagator.json"
     },
     {
       "event_count": 1165,
       "last_run_at": "2026-08-06T13:12:45+00:00",
       "source_id": "dopdx",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/dopdx.json"
     },
     {
       "event_count": 31,
       "last_run_at": "2026-08-06T14:52:22+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
       "event_count": 19,
-      "last_run_at": "2026-08-06T15:00:34+00:00",
+      "last_run_at": "2026-08-06T22:39:04+00:00",
       "source_id": "obt",
       "status": "ok",
       "url": "sources/obt.json"
@@ -33,42 +33,42 @@
       "event_count": 118,
       "last_run_at": "2026-08-06T14:43:51+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
       "event_count": 417,
       "last_run_at": "2026-08-06T15:02:07+00:00",
       "source_id": "pdxparent_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/pdxparent_markets.json"
     },
     {
       "event_count": 98,
       "last_run_at": "2026-08-06T14:31:41+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
       "event_count": 26,
       "last_run_at": "2026-08-06T13:18:24+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
       "event_count": 840,
       "last_run_at": "2026-08-06T15:26:15+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
       "event_count": 3759,
       "last_run_at": "2026-08-06T15:30:40+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
