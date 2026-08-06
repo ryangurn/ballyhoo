@@ -9700,6 +9700,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1A70Y-o",
+      "image_url": "https://s1.ticketm.net/dam/a/59c/261b469d-253e-47d4-8f92-735d7432759c_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Y-o",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-19T20:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Y-o",
+      "title": "Spafford",
+      "venue": {
+        "address": "116 SE Yamhill St",
+        "city": "Portland",
+        "latitude": 45.5704,
+        "longitude": -122.690498,
+        "name": "The Den - Portland"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:Z7r9jZ1A70Afa",
@@ -9901,6 +9929,34 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Revolution Hall - Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1A70Y-F",
+      "image_url": "https://s1.ticketm.net/dam/a/59c/261b469d-253e-47d4-8f92-735d7432759c_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Y-F",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-20T20:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Y-F",
+      "title": "Spafford",
+      "venue": {
+        "address": "116 SE Yamhill St",
+        "city": "Portland",
+        "latitude": 45.5704,
+        "longitude": -122.690498,
+        "name": "The Den - Portland"
       }
     },
     {
@@ -18598,6 +18654,34 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:Z7r9jZ1AAZoQ8",
+      "image_url": "https://s1.ticketm.net/dam/a/893/372a5db9-3060-4f2a-ab27-3f9a66da9893_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZoQ8",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-18T19:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZoQ8",
+      "title": "Story of the Year w/ Silverstein",
+      "venue": {
+        "address": "1332  West Burnside St",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "McMenamins Crystal Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7Pg_3",
       "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -24321,7 +24405,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-06T12:16:44+00:00",
+  "generated_at": "2026-08-06T15:26:15+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
