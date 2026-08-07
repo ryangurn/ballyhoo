@@ -19784,6 +19784,35 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:vvG1HZ_2B6GkFr",
+      "image_url": "https://s1.ticketm.net/dam/a/bda/f54ce77c-9819-4688-bb31-0ba4e06b3bda_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/the-wolfs-nice-christmas-show-portland-oregon-12-06-2026/event/0F0064FE8730621E",
+      "organizer": "PROMOTED BY VENUE",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-06T19:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/the-wolfs-nice-christmas-show-portland-oregon-12-06-2026/event/0F0064FE8730621E",
+      "title": "The Wolf's Nice Christmas Show",
+      "venue": {
+        "address": "300 Winning Way",
+        "city": "Portland",
+        "latitude": 45.533299,
+        "longitude": -122.667442,
+        "name": "Veterans Memorial Coliseum"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1AfJ3vK",
       "image_url": "https://s1.ticketm.net/dam/a/775/6a06f86e-6a58-4ce4-8405-14a4c4f89775_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -24267,7 +24296,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-07T13:36:21+00:00",
+  "generated_at": "2026-08-07T15:07:33+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
