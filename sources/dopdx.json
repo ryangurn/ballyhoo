@@ -15450,33 +15450,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-19T02:00:00-07:00",
-      "id": "dopdx:17451597",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1780702908/event-17451597.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/8/18/open-jam-games-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-08-18T19:00:00-07:00",
-      "summary": "Rock out at our Open Musician's Jam! Join us for our jam sessions, where music meets fun and friends meet rock 'n roll! It's gonna be a blast, and here's what's in store: Gear Galore: Pianos, electric/acoustic guitars, tube amps, bass (4 or 5 string), drum set, ukulele – we've got 'em ready for you! Plus, extra mics for singers and whatever else you want to bring. Covers welcome: Bring your band, or team up with fellow jammers. We often get lots of blues, rock, pop, funk, and a load of awesome covers from all decades, but especially 90's. Let's make some noise! Game On: We've got Ping Pong tables and arcade machines for friendly competition. No Limits: Bring your musical mojo, and let's get wild! Whether you're a pro or just here for the goo",
-      "title": "Open Jam & Games",
-      "venue": {
-        "address": "120 NW Couch",
-        "city": "Portland",
-        "name": "Barrel Room Portland"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-08-19T02:00:00-07:00",
@@ -15500,6 +15473,33 @@
         "address": "1510 SE 9th Ave",
         "city": "Portland",
         "name": "Helium Comedy Club"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-19T02:00:00-07:00",
+      "id": "dopdx:17451597",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1780702908/event-17451597.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/18/open-jam-games-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-18T19:00:00-07:00",
+      "summary": "Rock out at our Open Musician's Jam! Join us for our jam sessions, where music meets fun and friends meet rock 'n roll! It's gonna be a blast, and here's what's in store: Gear Galore: Pianos, electric/acoustic guitars, tube amps, bass (4 or 5 string), drum set, ukulele – we've got 'em ready for you! Plus, extra mics for singers and whatever else you want to bring. Covers welcome: Bring your band, or team up with fellow jammers. We often get lots of blues, rock, pop, funk, and a load of awesome covers from all decades, but especially 90's. Let's make some noise! Game On: We've got Ping Pong tables and arcade machines for friendly competition. No Limits: Bring your musical mojo, and let's get wild! Whether you're a pro or just here for the goo",
+      "title": "Open Jam & Games",
+      "venue": {
+        "address": "120 NW Couch",
+        "city": "Portland",
+        "name": "Barrel Room Portland"
       }
     },
     {
@@ -33609,7 +33609,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-07T03:33:22+00:00",
+  "generated_at": "2026-08-07T05:19:43+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
