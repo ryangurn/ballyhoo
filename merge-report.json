@@ -3841,6 +3841,14 @@
       "venue": "Helium Comedy Club - Portland"
     },
     {
+      "dropped": "willamette_week:19582207@2026-09-03T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4Zb4N",
+      "start_at": "2026-09-03T20:00:00-07:00",
+      "title_dropped": "ABSTRACT RUDE with King Khazm",
+      "title_kept": "ABSTRACT RUDE with King Khazm, DJ Klyph, Mic Crenshaw, Rob the Universe, Rhymewave, The Inspirational Rapper , DJ Gobi, DJ Neebor and DJ Shmix",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "dopdx:17582318",
       "kept": "ticketmaster:rZ7HnEZ1AfFzFf",
       "start_at": "2026-09-03T21:00:00-07:00",
@@ -4457,9 +4465,9 @@
       "venue": "Ilani Cowlitz Ballroom"
     }
   ],
-  "event_count": 5896,
-  "floor_check": "5896 events against a 5896-event baseline",
-  "generated_at": "2026-08-07T11:55:48+00:00",
+  "event_count": 5890,
+  "floor_check": "5890 events against a 5896-event baseline",
+  "generated_at": "2026-08-07T12:00:46+00:00",
   "problems": [],
   "sources": [
     "calagator",
