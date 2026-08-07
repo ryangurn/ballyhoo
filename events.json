@@ -204,31 +204,6 @@
     },
     {
       "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:life-jacket-giveaway-2026-08-06",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/life-jacket-giveaway-2026-08-06",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-08-06T11:00:00-07:00",
-      "title": "Life jacket giveaway",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.49529,
-        "longitude": -122.29141,
-        "name": "Oxbow Regional Park"
-      }
-    },
-    {
-      "categories": [
         "market",
         "food"
       ],
@@ -39950,6 +39925,25 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:metro-central-enhancement-grant-information-session-2026-08-13",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/metro-central-enhancement-grant-information-session-2026-08-13",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-08-13T13:00:00-07:00",
+      "title": "Metro Central Enhancement Grant information session"
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-08-13T15:00:00-07:00",
@@ -65977,6 +65971,31 @@
         "latitude": 45.5283737183,
         "longitude": -122.6631393433,
         "name": "Oregon Convention Center"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:1926-rate-day-glendoveer-2026-08-18",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/1926-rate-day-glendoveer-2026-08-18",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-08-18T07:30:00-07:00",
+      "title": "1926 rate day at Glendoveer",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52799,
+        "longitude": -122.52799,
+        "name": "Glendoveer Golf Course"
       }
     },
     {
@@ -164416,6 +164435,31 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:planting-scouters-mountain-2026-11-07",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/planting-scouters-mountain-2026-11-07",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-07T10:30:00-08:00",
+      "title": "Planting at Scouters Mountain",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.44707,
+        "longitude": -122.50858,
+        "name": "Scouters Mountain Nature Park"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_2mbT6u-",
@@ -174703,5 +174747,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-07T00:34:45+00:00"
+  "generated_at": "2026-08-07T00:46:36+00:00"
 }
