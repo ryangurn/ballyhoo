@@ -2481,6 +2481,14 @@
       "venue": "Patricia Reser Center for the Arts"
     },
     {
+      "dropped": "willamette_week:19578748@2026-08-22T17:00",
+      "kept": "dopdx:17701762",
+      "start_at": "2026-08-22T17:00:00-07:00",
+      "title_dropped": "DEFIANT JOY - Cozy, Chaotic, Cute Comedy",
+      "title_kept": "DEFIANT JOY - Cozy, Chaotic, Cute Comedy",
+      "venue": "Covert Cafe"
+    },
+    {
       "dropped": "dopdx:16843346",
       "kept": "ticketmaster:Z7r9jZ1A7Ox_f",
       "start_at": "2026-08-22T17:45:00-07:00",
@@ -4443,7 +4451,7 @@
   ],
   "event_count": 5872,
   "floor_check": "5872 events against a 5959-event baseline",
-  "generated_at": "2026-08-07T03:33:29+00:00",
+  "generated_at": "2026-08-07T03:35:14+00:00",
   "problems": [],
   "sources": [
     "calagator",

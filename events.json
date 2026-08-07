@@ -87478,31 +87478,33 @@
         "arts"
       ],
       "end_at": "2026-08-22T18:45:00-07:00",
-      "id": "willamette_week:19578748@2026-08-22T17:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gc6F18aUnEGVFIWVAJC4MA.large.jpg",
+      "id": "dopdx:17701762",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786062457/event-17701762.jpg",
       "is_all_day": false,
-      "listing_url": "http://www.eventbrite.com/e/defiant-joy-cozy-chaotic-cute-comedy-tickets-1996560072924",
+      "listing_url": "https://dopdx.com/events/2026/8/22/defiant-joy-cozy-chaotic-cute-comedy-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 20.0,
+        "max": 10.0,
         "min": 10.0
       },
       "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
       },
       "start_at": "2026-08-22T17:00:00-07:00",
-      "summary": "Portland’s undisputed coziest, cutest, and most chaotic comedy show returns to Covert Café on Saturday, August 22 with yet another show-stopping lineup. This month’s headliner Katie Bowman joins us all the way from Denver. Her debut comedy album Neurodivergent Nightmare hit number one on iTunes and Amazon. She’s appeared on festivals across the country and opened for Astuko Okastuka, Todd Barry, Laurie Kilmartin, Ron Lynch, and more. (Just to name a FEW of her lovely credits.) Joining her, we’ve got a downright delightful roster of the PNW’s top talent and rising superstars: • Jody Bolt • Havana Aladro • Eren Senel • Billie Manton • A.F. Kinsey Guest-hosted by the incredible Jane Dillinger, the joy kicks off at 5:00PM with doors “open” at 4:30PM (but we won’t stop you if you want to show up earlier to order food and drinks). Tickets are $10 online or a suggested donation of $10-20, but all are welcome to attend regardless of funds. This one’s gonna be extra cute, so we hope to see you there!",
+      "summary": "Portland’s undisputed coziest, cutest, and most chaotic comedy show returns to Covert Café on Saturday, August 22 with yet another show-stopping lineup. This month’s headliner Katie Bowman joins us all the way from Denver. Her debut comedy album Neurodivergent Nightmare hit number one on iTunes and Amazon. She’s appeared on festivals across the country and opened for Astuko Okastuka, Todd Barry, Laurie Kilmartin, Ron Lynch, and more. (Just to name a FEW of her lovely credits.) Joining her, we’ve got a downright delightful roster of the PNW’s top talent and rising superstars: • Jody Bolt • Havana Aladro • Eren Senel • Billie Manton • A.F. Kinsey Guest-hosted by the incredible Jane Dillinger, the joy kicks off at 5:00PM with doors “op",
       "ticket_url": "http://www.eventbrite.com/e/defiant-joy-cozy-chaotic-cute-comedy-tickets-1996560072924",
       "title": "DEFIANT JOY - Cozy, Chaotic, Cute Comedy",
       "venue": {
-        "address": "803 SE 82nd Ave",
+        "address": "803 SE 82nd Ave.",
         "city": "Portland",
-        "latitude": 45.516757,
-        "longitude": -122.57931,
-        "name": "Covert Café"
+        "name": "Covert Cafe"
       }
     },
     {
@@ -174495,5 +174497,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-07T03:33:29+00:00"
+  "generated_at": "2026-08-07T03:35:14+00:00"
 }
