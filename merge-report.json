@@ -49,6 +49,14 @@
       "venue": "Hillsboro Ballpark"
     },
     {
+      "dropped": "willamette_week:19543979@2026-08-12T18:30",
+      "kept": "dopdx:17603284",
+      "start_at": "2026-08-12T19:00:00-07:00",
+      "title_dropped": "Victor Artis with Oblivion 9",
+      "title_kept": "Meet the Brewer",
+      "venue": "McMenamins Grand Lodge"
+    },
+    {
       "dropped": "willamette_week:19411453@2026-08-12T19:00",
       "kept": "dopdx:17603284",
       "start_at": "2026-08-12T19:00:00-07:00",
@@ -4449,9 +4457,9 @@
       "venue": "Ilani Cowlitz Ballroom"
     }
   ],
-  "event_count": 5870,
-  "floor_check": "5870 events against a 5879-event baseline",
-  "generated_at": "2026-08-07T05:48:32+00:00",
+  "event_count": 5888,
+  "floor_check": "5888 events against a 5877-event baseline",
+  "generated_at": "2026-08-07T05:53:29+00:00",
   "problems": [],
   "sources": [
     "calagator",
