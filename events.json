@@ -169073,6 +169073,38 @@
         "market",
         "food"
       ],
+      "end_at": "2026-12-05T13:00:00-08:00",
+      "id": "hollywood_farmers_market:market@2026-12-05",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-12-05T08:00:00-08:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2026-12-05T14:00:00-08:00",
       "id": "portland_farmers_market:psu-farmers-market-2026-2@2026-12-05",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/05/PSU-winter-2023.jpg",
@@ -175244,5 +175276,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-07T07:49:55+00:00"
+  "generated_at": "2026-08-07T07:52:24+00:00"
 }
