@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:01:35+00:00",
+  "generated_at": "2026-08-07T06:17:56+00:00",
   "sources": [
     {
       "event_count": 28,
@@ -47,7 +47,7 @@
       "event_count": 96,
       "last_run_at": "2026-08-07T00:12:19+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "event_count": 835,
-      "last_run_at": "2026-08-07T05:04:05+00:00",
+      "last_run_at": "2026-08-07T06:17:10+00:00",
       "source_id": "ticketmaster",
       "status": "ok",
       "url": "sources/ticketmaster.json"
