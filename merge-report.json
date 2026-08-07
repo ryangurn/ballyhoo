@@ -705,6 +705,22 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
+      "dropped": "willamette_week:18521269@2026-08-09T10:00",
+      "kept": "portland_farmers_market:king-farmers-market-3@2026-08-09",
+      "start_at": "2026-08-09T10:00:00-07:00",
+      "title_dropped": "King Farmers Market",
+      "title_kept": "King Farmers Market",
+      "venue": "King Farmers Market"
+    },
+    {
+      "dropped": "willamette_week:18521272@2026-08-09T10:00",
+      "kept": "portland_farmers_market:lents-international-farmers-market@2026-08-09",
+      "start_at": "2026-08-09T10:00:00-07:00",
+      "title_dropped": "Lents International Farmers Market",
+      "title_kept": "Lents International Farmers Market",
+      "venue": "Lents International Farmers Market"
+    },
+    {
       "dropped": "dopdx:17416442",
       "kept": "ticketmaster:Z7r9jZ1A7-zOO",
       "start_at": "2026-08-09T13:00:00-07:00",
@@ -1727,6 +1743,14 @@
       "title_dropped": "SOLD OUT: Gillian Welch & David Rawlings play Grateful Dead acoustic Reckoning",
       "title_kept": "Bailen (21 and Over)",
       "venue": "Revolution Hall - Portland"
+    },
+    {
+      "dropped": "willamette_week:19579475@2026-08-15T20:00",
+      "kept": "dopdx:17290468",
+      "start_at": "2026-08-15T20:00:00-07:00",
+      "title_dropped": "Bailen (21 and Over)",
+      "title_kept": "SOLD OUT: Gillian Welch & David Rawlings play Grateful Dead acoustic Reckoning",
+      "venue": "Revolution Hall"
     },
     {
       "dropped": "willamette_week:19114765@2026-08-15T20:00",
@@ -3937,6 +3961,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:19579477@2026-09-04T20:00",
+      "kept": "ticketmaster:Z7r9jZ1A7P4-o",
+      "start_at": "2026-09-04T20:00:00-07:00",
+      "title_dropped": "Noname",
+      "title_kept": "Noname",
+      "venue": "Wonder Ballroom"
+    },
+    {
       "dropped": "dopdx:17339141",
       "kept": "ticketmaster:rZ7HnEZ1AfPS3K",
       "start_at": "2026-09-04T21:00:00-07:00",
@@ -4409,9 +4441,9 @@
       "venue": "Ilani Cowlitz Ballroom"
     }
   ],
-  "event_count": 5875,
-  "floor_check": "5875 events against a 5959-event baseline",
-  "generated_at": "2026-08-07T03:15:47+00:00",
+  "event_count": 5872,
+  "floor_check": "5872 events against a 5959-event baseline",
+  "generated_at": "2026-08-07T03:21:18+00:00",
   "problems": [],
   "sources": [
     "calagator",
