@@ -5,164 +5,6 @@
         "market",
         "food"
       ],
-      "end_at": "2026-08-06T14:00:00-07:00",
-      "id": "pdxparent_markets:east-vancouver-farmers-market@2026-08-06",
-      "is_all_day": false,
-      "listing_url": "https://www.vancouverfarmersmarket.com/",
-      "organizer": "East Vancouver Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-06T10:00:00-07:00",
-      "summary": "Thursdays, June-September 2026, 10 am-2 pm",
-      "title": "East Vancouver Farmers Market",
-      "venue": {
-        "address": "Columbia Tech Center, 17701 SE Mill Plain Blvd., Vancouver",
-        "city": "Portland",
-        "latitude": 45.61623,
-        "longitude": -122.48209,
-        "name": "East Vancouver Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-08-06T17:00:00-07:00",
-      "id": "pdxparent_markets:south-waterfront-market@2026-08-06",
-      "is_all_day": false,
-      "listing_url": "https://southwaterfront.com/farmers-market",
-      "organizer": "South Waterfront Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-06T12:00:00-07:00",
-      "summary": "Thursdays, June-October 2026, 12-5 pm",
-      "title": "South Waterfront Market",
-      "venue": {
-        "address": "Elizabeth Caruthers Park, 3508 S Moody Ave",
-        "city": "Portland",
-        "latitude": 45.49768,
-        "longitude": -122.67172,
-        "name": "South Waterfront Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-08-06T19:00:00-07:00",
-      "id": "pdxparent_markets:aloha-community-farmers-market@2026-08-06",
-      "is_all_day": false,
-      "listing_url": "https://alohacommunityfarmersmarket.org/",
-      "organizer": "Aloha Community Farmers’ Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-06T15:00:00-07:00",
-      "summary": "Thursdays, May-September, 3-7 pm",
-      "title": "Aloha Community Farmers’ Market",
-      "venue": {
-        "address": "17675 SW Farmington Rd., Aloha",
-        "city": "Portland",
-        "name": "Aloha Community Farmers’ Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-08-06T19:00:00-07:00",
-      "id": "pdxparent_markets:rockwood-community-market@2026-08-06",
-      "is_all_day": false,
-      "listing_url": "https://www.rockwoodcommunitymarket.com/",
-      "organizer": "Rockwood Community Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-06T15:00:00-07:00",
-      "summary": "Thursdays, June-September, 3-7 pm",
-      "title": "Rockwood Community Market",
-      "venue": {
-        "address": "Downtown Rockwood Plaza, 458 SE 185th Ave., Gresham",
-        "city": "Portland",
-        "latitude": 45.51987,
-        "longitude": -122.47193,
-        "name": "Rockwood Community Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-08-06T20:00:00-07:00",
-      "id": "pdxparent_markets:cully-farmers-market@2026-08-06",
-      "is_all_day": false,
-      "listing_url": "https://cullyfarmersmarket.com/",
-      "organizer": "Cully Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-06T16:00:00-07:00",
-      "summary": "Thursdays, May-September 2026, 4-8 pm",
-      "title": "Cully Farmers Market",
-      "venue": {
-        "address": "NE 42nd Ave. & NE Alberta St., Portland",
-        "city": "Portland",
-        "latitude": 45.53093,
-        "longitude": -122.62038,
-        "name": "Cully Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
       "end_at": "2026-08-07T19:00:00-07:00",
       "id": "pdxparent_markets:mt-hood-farmers-market-sandy@2026-08-07",
       "is_all_day": false,
@@ -13112,9 +12954,105 @@
         "longitude": -122.38984,
         "name": "Troutdale Farm Market"
       }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-05T13:00:00-08:00",
+      "id": "pdxparent_markets:oregon-city-farmers-market@2026-12-05",
+      "is_all_day": false,
+      "listing_url": "https://orcityfarmersmarket.com/",
+      "organizer": "Oregon City Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "pdxparent_markets",
+        "name": "PDX Parent",
+        "url": "https://pdxparent.com"
+      },
+      "start_at": "2026-12-05T09:00:00-08:00",
+      "summary": "Saturdays, 9 am-1 pm; the market’s winter schedule continues on select Saturdays",
+      "title": "Oregon City Farmers Market",
+      "venue": {
+        "address": "Clackamas Community College, Green Lot #1, at S Beavercreek Rd. & Clairmont Drive",
+        "city": "Portland",
+        "latitude": 45.32467,
+        "longitude": -122.57355,
+        "name": "Oregon City Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-05T16:00:00-08:00",
+      "id": "pdxparent_markets:troutdale-farm-market@2026-12-05",
+      "is_all_day": false,
+      "listing_url": "https://troutdalefarmmarket.com/",
+      "organizer": "Troutdale Farm Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "pdxparent_markets",
+        "name": "PDX Parent",
+        "url": "https://pdxparent.com"
+      },
+      "start_at": "2026-12-05T10:00:00-08:00",
+      "summary": "Fridays, 2-7 pm; Saturdays and Sundays, 10 am-4 pm",
+      "title": "Troutdale Farm Market",
+      "venue": {
+        "address": "450 NW 257th Way, Unit 450, Troutdale",
+        "city": "Portland",
+        "latitude": 45.54195,
+        "longitude": -122.38984,
+        "name": "Troutdale Farm Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-05T14:00:00-08:00",
+      "id": "pdxparent_markets:vancouver-farmers-market@2026-12-05",
+      "is_all_day": false,
+      "listing_url": "https://www.vancouverfarmersmarket.com/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "pdxparent_markets",
+        "name": "PDX Parent",
+        "url": "https://pdxparent.com"
+      },
+      "start_at": "2026-12-05T10:00:00-08:00",
+      "summary": "Saturdays, year-round. April-October, 9 am-3 pm; November-March, 10 am-2 pm",
+      "title": "Vancouver Farmers Market",
+      "venue": {
+        "address": "8th and Esther Streets, Vancouver",
+        "city": "Portland",
+        "latitude": 45.62731,
+        "longitude": -122.67611,
+        "name": "Vancouver Farmers Market"
+      }
     }
   ],
-  "generated_at": "2026-08-07T03:40:57+00:00",
+  "generated_at": "2026-08-07T08:01:56+00:00",
   "source_id": "pdxparent_markets",
   "status": "ok"
 }
