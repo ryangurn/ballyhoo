@@ -528,6 +528,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-08T02:00:00-07:00",
+      "id": "dopdx:17705812",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786147993/event-17705812.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/weekly/fri/happy-hours-till-closing-tickets",
+      "organizer": "Singacoustic",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-07T21:00:00-07:00",
+      "title": "Happy Hours Till Closing",
+      "venue": {
+        "address": "2600 NE Sandy Blvd.",
+        "city": "Portland",
+        "name": "Singacoustic"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:rZ7HnEZ1AfFzJf",
@@ -81822,6 +81851,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-22T21:30:00-07:00",
+      "id": "dopdx:17705842",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786149517/event-17705842.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/22/swade-trio-soul-jazz-groove-tickets",
+      "organizer": "Singacoustic",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-22T19:30:00-07:00",
+      "title": "Swade Trio: Soul, Jazz & Groove",
+      "venue": {
+        "address": "2600 NE Sandy Blvd.",
+        "city": "Portland",
+        "name": "Singacoustic"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "id": "portland_parks:2026-08-22-sewallcrest-park-cool-runnings",
@@ -86795,6 +86853,40 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-08-24T08:00:00-07:00",
+      "id": "dopdx:17705867",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786150898/event-17705867.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/23/dust-grit-grace-an-evening-with-sam-pace-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "organizer": "Singacoustic",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-23T18:00:00-07:00",
+      "summary": "From Austin's vibrant music scene, Sam Pace delivers a captivating blend of Americana, blues, and rock",
+      "title": "Dust, Grit & Grace: An Evening with Sam Pace",
+      "venue": {
+        "address": "2600 NE Sandy Blvd.",
+        "city": "Portland",
+        "name": "Singacoustic"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-08-24T02:00:00-07:00",
       "id": "dopdx:17633069",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1784644240/event-17633069.jpg",
@@ -86856,37 +86948,6 @@
         "latitude": 45.523,
         "longitude": -122.67443,
         "name": "Dante's"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-23T20:00:00-07:00",
-      "id": "willamette_week:19108237@2026-08-23T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JFErBxUx_kSFksVT4GP04A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/dust-grit-grace-an-evening-with-sam-pace-tickets-1990759986710",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 12.51,
-        "min": 12.51
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-23T18:00:00-07:00",
-      "summary": "From Austin's vibrant music scene, Sam Pace delivers a captivating blend of Americana, blues, and rock",
-      "title": "Dust, Grit & Grace: An Evening with Sam Pace",
-      "venue": {
-        "address": "2600 NE Sandy Blvd.",
-        "city": "Portland",
-        "latitude": 45.52817,
-        "longitude": -122.63906,
-        "name": "Singacoustic"
       }
     },
     {
@@ -169799,5 +169860,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-08T02:30:51+00:00"
+  "generated_at": "2026-08-08T02:32:43+00:00"
 }

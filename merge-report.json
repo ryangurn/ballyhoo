@@ -2473,6 +2473,14 @@
       "venue": "Curious Comedy Theater"
     },
     {
+      "dropped": "willamette_week:19108237@2026-08-23T18:00",
+      "kept": "dopdx:17705867",
+      "start_at": "2026-08-23T18:00:00-07:00",
+      "title_dropped": "Dust, Grit & Grace: An Evening with Sam Pace",
+      "title_kept": "Dust, Grit & Grace: An Evening with Sam Pace",
+      "venue": "Singacoustic"
+    },
+    {
       "dropped": "dopdx:17515465",
       "kept": "ticketmaster:rZ7HnEZ1Afk9v7",
       "start_at": "2026-08-23T18:00:00-07:00",
@@ -4281,9 +4289,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5714,
-  "floor_check": "5714 events against a 5918-event baseline",
-  "generated_at": "2026-08-08T02:30:51+00:00",
+  "event_count": 5716,
+  "floor_check": "5716 events against a 5918-event baseline",
+  "generated_at": "2026-08-08T02:32:43+00:00",
   "problems": [],
   "sources": [
     "calagator",
