@@ -2,34 +2,6 @@
   "events": [
     {
       "categories": [
-        "arts"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A7-zOb",
-      "image_url": "https://s1.ticketm.net/dam/a/db0/e3e63d22-f43c-43cb-8e4a-972b9b4d9db0_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-zOb",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-08T13:30:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-zOb",
-      "title": "Harry Potter and the Cursed Child (Touring)",
-      "venue": {
-        "address": "222 SW Clay St",
-        "city": "Portland",
-        "latitude": 45.497799,
-        "longitude": -122.693703,
-        "name": "Keller Auditorium"
-      }
-    },
-    {
-      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_6KxyjRC",
@@ -23978,7 +23950,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-08T19:43:12+00:00",
+  "generated_at": "2026-08-08T20:46:28+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
