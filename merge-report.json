@@ -1153,6 +1153,14 @@
       "venue": "Topaz Farm"
     },
     {
+      "dropped": "willamette_week:18418286@2026-08-14T19:00",
+      "kept": "dopdx:17707971",
+      "start_at": "2026-08-14T19:00:00-07:00",
+      "title_dropped": "Jason Isbell",
+      "title_kept": "Swing & Standards Trio McMenamins Grand Lodge",
+      "venue": "McMenamins Grand Lodge"
+    },
+    {
       "dropped": "dopdx:17327058",
       "kept": "ticketmaster:Z7r9jZ1A70YZ3",
       "start_at": "2026-08-14T19:00:00-07:00",
@@ -1183,6 +1191,14 @@
       "title_dropped": "Outdoor Equine Sound Bath & Meditation Summer Series",
       "title_kept": "Sound Bath with Horses",
       "venue": "Blue Frog Equine"
+    },
+    {
+      "dropped": "willamette_week:19544052@2026-08-14T19:30",
+      "kept": "dopdx:17707971",
+      "start_at": "2026-08-14T19:00:00-07:00",
+      "title_dropped": "The Swing & Standards Band",
+      "title_kept": "Swing & Standards Trio McMenamins Grand Lodge",
+      "venue": "McMenamins Grand Lodge"
     },
     {
       "dropped": "dopdx:17392359",
@@ -4297,9 +4313,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5708,
-  "floor_check": "5708 events against a 5708-event baseline",
-  "generated_at": "2026-08-08T14:09:03+00:00",
+  "event_count": 5710,
+  "floor_check": "5710 events against a 5708-event baseline",
+  "generated_at": "2026-08-08T14:10:47+00:00",
   "problems": [],
   "sources": [
     "calagator",
