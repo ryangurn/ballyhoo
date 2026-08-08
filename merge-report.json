@@ -153,14 +153,6 @@
       "venue": "Topaz Farm"
     },
     {
-      "dropped": "willamette_week:19442194@2026-08-08T11:00",
-      "kept": "ticketmaster:Z7r9jZ1A70d0e",
-      "start_at": "2026-08-08T11:00:00-07:00",
-      "title_dropped": "Grand Prix of Portland",
-      "title_kept": "Grand Prix of Portland",
-      "venue": "Portland International Raceway"
-    },
-    {
       "dropped": "willamette_week:19474189@2026-08-08T12:00",
       "kept": "dopdx:17648648",
       "start_at": "2026-08-08T12:00:00-07:00",
@@ -1069,7 +1061,7 @@
       "kept": "ticketmaster:rZ7HnEZ1AfasvV",
       "start_at": "2026-08-13T20:00:00-07:00",
       "title_dropped": "Grandifolia with Lo.Quality, Ded Electric, Sodabox, & Passengers",
-      "title_kept": "LO.QUALITY with Sodabox, Grandifolia, Ded Electric, & Passengers",
+      "title_kept": "LO.QUALITY with Grandifolia, Ded Electric, & Passengers",
       "venue": "Dante's"
     },
     {
@@ -4314,8 +4306,8 @@
     }
   ],
   "event_count": 5718,
-  "floor_check": "5718 events against a 5716-event baseline",
-  "generated_at": "2026-08-08T18:54:59+00:00",
+  "floor_check": "5718 events against a 5717-event baseline",
+  "generated_at": "2026-08-08T18:57:07+00:00",
   "problems": [],
   "sources": [
     "calagator",
