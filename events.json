@@ -5231,6 +5231,35 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-08-08T18:00:00-07:00",
+      "id": "willamette_week:19590147@2026-08-08T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_tKpvT6UkKPTUTLe2xYjg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://carsandcoffeeevents.com/event/crews-brews/2026-08-08/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-08T15:00:00-07:00",
+      "summary": "Crews & Brews is held every Saturday from 3 PM to 5 PM. The event welcomes all cars and trucks. It takes place at 7407 NE 113th Cir.",
+      "title": "Crews & Brews",
+      "venue": {
+        "address": "7407 NE 113th Cir",
+        "city": "Vancouver",
+        "latitude": 45.7028,
+        "longitude": -122.596271,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-08-08T17:00:00-07:00",
@@ -10580,6 +10609,35 @@
         "address": "9100 SW Burnham St., Tigard",
         "city": "Portland",
         "name": "Tigard Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-08-09T12:00:00-07:00",
+      "id": "willamette_week:19590150@2026-08-09T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/C8OASi6VW0aXMadXB9a-Og.large.png",
+      "is_all_day": false,
+      "listing_url": "https://carsandcoffeeevents.com/event/orchards-cars-coffee/2026-08-09/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-09T09:00:00-07:00",
+      "summary": "Orchards Cars & Coffee is a recurring Cars & Coffee gathering in Vancouver. It takes place every Sunday from 9am to 11am at Vancouver Mall SE Parking Lot \\(8700 NE Vancouver Mall Drive\\). Cars & Coffee meets are casual morning get-togethers where local enthusiasts bring their vehicles, grab a coffee, and talk cars — all makes, models, and years welcome. A relaxed way to start the day around interesting machinery and good company.",
+      "title": "Orchards Cars & Coffee",
+      "venue": {
+        "address": "8700 NE Vancouver Mall Drive",
+        "city": "Vancouver",
+        "latitude": 45.657999,
+        "longitude": -122.584331,
+        "name": "Vancouver Mall SE Parking Lot"
       }
     },
     {
@@ -63952,6 +64010,38 @@
       "title": "Foot Traffic & Trailblazers Tip-off Kick-off Run!",
       "venue": {
         "name": "Foot Traffic on 23rd"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-08-19T21:00:00-07:00",
+      "id": "willamette_week:19590030@2026-08-19T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KqD84bkYBkKCZ4xIi_0yAg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.finewinecirclepdx.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 120.0,
+        "min": 120.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-19T18:00:00-07:00",
+      "summary": "Portland has many incredible wine events—this one is a little different. Part educational tasting, part community dinner, you'll discover Abacela one of Oregon's pioneering wineries, meet the people behind the wines, and learn how place, climate and passion shape every bottle. Join The Fine Wine Circle on August 19th at L'Échelle for an evening with Greg Jones from Abacela. After the tasting, we’ll continue enjoying the wines with a thoughtfully crafted buffet by L'Échelle, great food, meaningful conversations, and the chance to connect with new friends. To preserve the intimate atmosphere, seating is limited. If you'd like to join us, reserve your tickets through: https://www.finewinecirclepdx.com/",
+      "ticket_url": "https://www.finewinecirclepdx.com/",
+      "title": "Fine Wine Circle PDX Featuring Abacela",
+      "venue": {
+        "address": "4537 SE Division St.,",
+        "city": "Portland",
+        "latitude": 45.505419,
+        "longitude": -122.615366,
+        "name": "L'Echelle Community Happ"
       }
     },
     {
@@ -169929,5 +170019,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-08T18:57:07+00:00"
+  "generated_at": "2026-08-08T19:02:40+00:00"
 }
