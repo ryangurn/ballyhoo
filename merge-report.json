@@ -4217,30 +4217,6 @@
       "venue": "Kenton Farmers Market"
     },
     {
-      "dropped": "willamette_week:18247201@2026-08-07T19:00",
-      "kept": "ticketmaster:vvG1HZ_A2PvOSY",
-      "start_at": "2026-08-07T19:00:00-07:00",
-      "title_dropped": "Ali Wong Live",
-      "title_kept": "Ali Wong Live",
-      "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
-      "dropped": "willamette_week:18896347@2026-08-07T19:00",
-      "kept": "ticketmaster:Z7r9jZ1A70YZ7",
-      "start_at": "2026-08-07T19:00:00-07:00",
-      "title_dropped": "Special Event: Godfrey",
-      "title_kept": "Godfrey",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "willamette_week:19442093@2026-08-07T19:00",
-      "kept": "ticketmaster:Z7r9jZ1A70ee8",
-      "start_at": "2026-08-07T19:00:00-07:00",
-      "title_dropped": "Midland Band",
-      "title_kept": "Midland Band",
-      "venue": "Clark County Fairgrounds"
-    },
-    {
       "dropped": "willamette_week:17962707@2026-08-07T19:30",
       "kept": "ticketmaster:Z7r9jZ1A7-zO9",
       "start_at": "2026-08-07T19:30:00-07:00",
@@ -4353,6 +4329,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:18896347@2026-08-07T19:00",
+      "kept": "ticketmaster:Z7r9jZ1A70tJ_",
+      "start_at": "2026-08-07T19:30:00-07:00",
+      "title_dropped": "Special Event: Godfrey",
+      "title_kept": "Sophie Buddle",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
       "dropped": "willamette_week:19586744@2026-08-23T18:30",
       "kept": "ticketmaster:rZ7HnEZ1A4ZduK",
       "start_at": "2026-08-23T19:00:00-07:00",
@@ -4361,9 +4345,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5902,
-  "floor_check": "5902 events against a 5918-event baseline",
-  "generated_at": "2026-08-08T02:14:48+00:00",
+  "event_count": 5900,
+  "floor_check": "5900 events against a 5918-event baseline",
+  "generated_at": "2026-08-08T02:20:32+00:00",
   "problems": [],
   "sources": [
     "calagator",
