@@ -5,100 +5,6 @@
         "market",
         "food"
       ],
-      "end_at": "2026-08-07T19:00:00-07:00",
-      "id": "pdxparent_markets:mt-hood-farmers-market-sandy@2026-08-07",
-      "is_all_day": false,
-      "listing_url": "https://mounthoodfarmersmarket.org/",
-      "organizer": "Mt Hood Farmers Market (Sandy)",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-07T14:00:00-07:00",
-      "summary": "Fridays, May 15-October 16, 2026, 2-7 pm. No market July 10",
-      "title": "Mt Hood Farmers Market (Sandy)",
-      "venue": {
-        "address": "38600 Proctor Blvd, Sandy",
-        "city": "Portland",
-        "latitude": 45.39704,
-        "longitude": -122.26609,
-        "name": "Mt Hood Farmers Market (Sandy)"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-08-07T19:00:00-07:00",
-      "id": "pdxparent_markets:troutdale-farm-market@2026-08-07",
-      "is_all_day": false,
-      "listing_url": "https://troutdalefarmmarket.com/",
-      "organizer": "Troutdale Farm Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-07T14:00:00-07:00",
-      "summary": "Fridays, 2-7 pm; Saturdays and Sundays, 10 am-4 pm",
-      "title": "Troutdale Farm Market",
-      "venue": {
-        "address": "450 NW 257th Way, Unit 450, Troutdale",
-        "city": "Portland",
-        "latitude": 45.54195,
-        "longitude": -122.38984,
-        "name": "Troutdale Farm Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-08-07T20:00:00-07:00",
-      "id": "pdxparent_markets:cornelius-community-market@2026-08-07",
-      "is_all_day": false,
-      "listing_url": "https://www.adelantefarmersmarket.org/cornelius",
-      "organizer": "Cornelius Community Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-07T16:00:00-07:00",
-      "summary": "Fridays, June 5-August 28, 2026, 4-8 pm Saturday Farmers Markets Courtesy of Beaverton Farmers Market",
-      "title": "Cornelius Community Market",
-      "venue": {
-        "address": "14th Street between the Cornelius Public Library and Old Cornelius Elementary School, Cornelius",
-        "city": "Portland",
-        "name": "Cornelius Community Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
       "end_at": "2026-08-08T13:30:00-07:00",
       "id": "pdxparent_markets:beaverton-farmers-market@2026-08-08",
       "is_all_day": false,
@@ -13050,9 +12956,73 @@
         "longitude": -122.67611,
         "name": "Vancouver Farmers Market"
       }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-06T14:00:00-08:00",
+      "id": "pdxparent_markets:montavilla-farmers-market@2026-12-06",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "pdxparent_markets",
+        "name": "PDX Parent",
+        "url": "https://pdxparent.com"
+      },
+      "start_at": "2026-12-06T10:00:00-08:00",
+      "summary": "Every Sunday, May-December 20, 10 am-2 pm; every other Sunday, January-April.",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "SE Stark & 76th",
+        "city": "Portland",
+        "latitude": 45.51923,
+        "longitude": -122.59312,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-06T16:00:00-08:00",
+      "id": "pdxparent_markets:troutdale-farm-market@2026-12-06",
+      "is_all_day": false,
+      "listing_url": "https://troutdalefarmmarket.com/",
+      "organizer": "Troutdale Farm Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "pdxparent_markets",
+        "name": "PDX Parent",
+        "url": "https://pdxparent.com"
+      },
+      "start_at": "2026-12-06T10:00:00-08:00",
+      "summary": "Sundays, 10 am-4 pm. Also open Fridays, 2-7 pm, and Saturdays, 10 am-4 pm.",
+      "title": "Troutdale Farm Market",
+      "venue": {
+        "address": "450 NW 257th Way, Unit 450, Troutdale",
+        "city": "Portland",
+        "latitude": 45.54195,
+        "longitude": -122.38984,
+        "name": "Troutdale Farm Market"
+      }
     }
   ],
-  "generated_at": "2026-08-08T02:46:02+00:00",
+  "generated_at": "2026-08-08T07:37:12+00:00",
   "source_id": "pdxparent_markets",
   "status": "ok"
 }
