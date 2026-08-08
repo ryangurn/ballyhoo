@@ -36259,6 +36259,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-15T17:30:00-07:00",
+      "id": "willamette_week:19588018@2026-08-15T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LJnPywqTkU25uktUG-jo4Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://havalinapdx.com/events/the-jimmy-mcdonoughmargaret-dollrod-gary-stewart-bookmusic-tour",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T16:00:00-07:00",
+      "summary": "New York Times bestselling author and \"King of the Crazy Biographers\" Jimmy McDonough (Shakey: Neil Young's Biography) will be talking about his new hit biography about an incandescent and tragic country singer, Gary Stewart: I am From the Honky-Tonks, raved about in Rolling Stone, the Wall Street Journal, Mojo, Paste, the London Times and many others (John Waters just declared it his read of the summer in Vanity Fair). Jimmy will have books for sale and sign them. Legendary Detroit rocker Margaret Dollrod (Demolition Doll Rods) will perform an electric solo set of Stewart songs.",
+      "title": "JIMMY McDONOUGH/MARGARET DOLLROD/GARY STEWART BOOK TALK AND MUSIC",
+      "venue": {
+        "address": "8927 N. Lombard St",
+        "city": "Portland",
+        "latitude": 45.591993,
+        "longitude": -122.756374,
+        "name": "Havalina"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "id": "willamette_week:18401084@2026-08-15T16:00",
@@ -104352,7 +104383,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-08T02:24:03+00:00",
+  "generated_at": "2026-08-08T04:30:49+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
