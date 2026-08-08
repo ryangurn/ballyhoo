@@ -82003,6 +82003,37 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "id": "willamette_week:19590937@2026-08-29T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/j4c76m16Q0Cfp94Ohavo_w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.manyhatscollaboration.org/thehatchery",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 50.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T14:00:00-07:00",
+      "summary": "The Hatchery is a revolutionary annual new works festival that supports the creation of music and movement-centered theater by providing time, space, and resources for theater-makers to realize their artistic goals. Following two weeks of intensive new work development in the studio, two production teams will welcome the public into their theater-making process with two days of work-in-progress performances. This year’s projects include Undertow, a new musical adapted from the award-winning queer, Peruvian film Contracorriente, and The Cannery Project, an educational play about the legacy of an Alaskan salmon cannery told through historical documentation, factory-inspired movement, and song. Audiences will experience each full-length project as a semi-staged work-in-progress performance. Sliding-scale/pay-what-you-will tickets are available. All events on Saturday, August 29, are ASL-Interpreted. AUGUST 29 2:00 p.m. – The Cannery Project (ASL interpreted) 3:00 p.m. – Reception with a lobby performance by Trick Pony (ASL interpreted) 5:00 p.m. – Undertow (ASL interpreted) AUGUST 30 2:00 p.m. – Undertow 5:00 p.m. – Screening of Contracorriente with writer/director Javier Fuentes-Léon 7:30 p.m. – The Cannery Project",
+      "ticket_url": "https://www.manyhatscollaboration.org/thehatchery",
+      "title": "The Hatchery 2026 - A New Works Festival",
+      "venue": {
+        "address": "1000 SW Broadway, T-100",
+        "city": "Portland",
+        "latitude": 45.51697,
+        "longitude": -122.680636,
+        "name": "The Judy"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-29T16:00:00-07:00",
@@ -85542,6 +85573,37 @@
         "latitude": 45.554361,
         "longitude": -122.908434,
         "name": "Hillsboro Ballpark"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "willamette_week:19590937@2026-08-30T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/j4c76m16Q0Cfp94Ohavo_w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.manyhatscollaboration.org/thehatchery",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 50.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-30T14:00:00-07:00",
+      "summary": "The Hatchery is a revolutionary annual new works festival that supports the creation of music and movement-centered theater by providing time, space, and resources for theater-makers to realize their artistic goals. Following two weeks of intensive new work development in the studio, two production teams will welcome the public into their theater-making process with two days of work-in-progress performances. This year’s projects include Undertow, a new musical adapted from the award-winning queer, Peruvian film Contracorriente, and The Cannery Project, an educational play about the legacy of an Alaskan salmon cannery told through historical documentation, factory-inspired movement, and song. Audiences will experience each full-length project as a semi-staged work-in-progress performance. Sliding-scale/pay-what-you-will tickets are available. All events on Saturday, August 29, are ASL-Interpreted. AUGUST 29 2:00 p.m. – The Cannery Project (ASL interpreted) 3:00 p.m. – Reception with a lobby performance by Trick Pony (ASL interpreted) 5:00 p.m. – Undertow (ASL interpreted) AUGUST 30 2:00 p.m. – Undertow 5:00 p.m. – Screening of Contracorriente with writer/director Javier Fuentes-Léon 7:30 p.m. – The Cannery Project",
+      "ticket_url": "https://www.manyhatscollaboration.org/thehatchery",
+      "title": "The Hatchery 2026 - A New Works Festival",
+      "venue": {
+        "address": "1000 SW Broadway, T-100",
+        "city": "Portland",
+        "latitude": 45.51697,
+        "longitude": -122.680636,
+        "name": "The Judy"
       }
     },
     {
@@ -104679,7 +104741,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-08T20:51:05+00:00",
+  "generated_at": "2026-08-08T21:48:37+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
