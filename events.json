@@ -141045,6 +141045,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-14T19:00:00-07:00",
+      "id": "calagator:1250482660",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/rladies-pdx/events/316026203/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-14T17:00:00-07:00",
+      "summary": "This is a meeting of the local R-Ladies chapter, where R is the statistical programming language! join us on meetup if you like. \r\n\r\nLet's get together, make some friends, and brainstorm ideas for what we want to see at future meetups! I'll bring nametags, index cards, post-its and sharpies. Bring a pen and some ideas!\r\n\r\nThis is also the first day of posit::conf - if you're doing the workshops, bring that energy and share what you've learned! Discuss with others about what talks you're most excited to see.\r\n\r\nTentatively, I'd like to meet at least every 2 months, and maybe find a regular day that works for a lot of people to plan around.",
+      "title": "R-Ladies Social plus Future Event Brainstorming",
+      "venue": {
+        "address": "1033 SE Main St",
+        "city": "Portland",
+        "latitude": 45.514,
+        "longitude": -122.655,
+        "name": "Honey Latte Cafe"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metro-council-work-session-2026-09-15",
@@ -169845,5 +169873,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-08T16:05:49+00:00"
+  "generated_at": "2026-08-08T16:48:37+00:00"
 }
