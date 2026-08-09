@@ -81339,6 +81339,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-25T12:30:00-07:00",
+      "id": "willamette_week:19595867@2026-08-25T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hPSMZMhtTUCOiEoJqCcMKg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://business.beaverton.org/calendar/Details/how-to-lower-your-costs-while-maximizing-your-insurance-1881830?sourceTypeId=Website",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-25T11:00:00-07:00",
+      "summary": "Description Lower Your Insurance Costs & Maximize Your Coverage Join us for an informative workshop designed to help business owners better understand their insurance coverage while identifying opportunities to reduce unnecessary costs. Learn how to evaluate your current policies, understand what you're paying for, identify potential savings, and make sure your business has the right protection in place. This workshop will provide practical tips to help you make more informed insurance decisions, avoid common mistakes, and maximize your coverage without overpaying.",
+      "title": "How to Lower Your Costs While Maximizing your Insurance",
+      "venue": {
+        "address": "12600 SW Crescent Street Ste 160",
+        "city": "Beaverton",
+        "latitude": 45.490884,
+        "longitude": -122.807034,
+        "name": "Beaverton Area Chamber of Commerce"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-08-25T13:00:00-07:00",
@@ -94821,6 +94850,35 @@
         "address": "14603 South Stoneridge Drive",
         "city": "Oregon City",
         "name": "Stone Creek Golf Club"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-08-28T20:00:00-07:00",
+      "id": "willamette_week:19595868@2026-08-28T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gB30eCfBmUi5owGPKdqx5Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://business.beaverton.org/calendar/Details/conexi-n-latina-1878303?sourceTypeId=Website",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-28T17:30:00-07:00",
+      "summary": "Description Conexión Latina es un espacio creado para reunir a profesionales, emprendedores y miembros de la comunidad latina. Nuestro objetivo es fomentar conexiones auténticas, compartir recursos y apoyarnos mutuamente a través de la conversación, la colaboración y el compromiso comunitario. Ya seas dueño de un negocio, emprendedor en crecimiento o simplemente estés buscando ampliar tu red de contactos, Conexión Latina ofrece un ambiente acogedor e inclusivo para conectar, aprender y crecer juntos. Conexión Latina is a welcoming space created to bring Latino professionals, entrepreneurs, and community members together. Our gatherings focus on building meaningful connections, sharing resources, and supporting one another through conversation, collaboration, and community engagement. Whether you're a business owner, aspiring entrepreneur, or simply looking to expand your network, Conexión Latina offers a relaxed and inclusive environment to connect, learn, and grow together.",
+      "title": "Conexión Latina",
+      "venue": {
+        "address": "4500 SW Watson Ave",
+        "city": "Beaverton",
+        "latitude": 45.486909,
+        "longitude": -122.805871,
+        "name": "Loyal Legion Beer Hall"
       }
     },
     {
@@ -164122,5 +164180,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-09T23:45:29+00:00"
+  "generated_at": "2026-08-09T23:50:16+00:00"
 }
