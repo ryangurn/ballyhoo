@@ -2144,38 +2144,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A70d0d",
-      "image_url": "https://s1.ticketm.net/dam/c/093/c74cfd95-af21-4e64-9f85-47677b951093_105651_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70d0d",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-09T11:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70d0d",
-      "title": "Grand Prix of Portland",
-      "venue": {
-        "address": "1940 N. Victory Blvd.",
-        "city": "Portland",
-        "latitude": 45.5704,
-        "longitude": -122.690498,
-        "name": "Portland International Raceway"
-      }
-    },
-    {
-      "categories": [
         "outdoors"
       ],
       "end_at": "2026-08-09T12:00:00-07:00",
@@ -2292,6 +2260,32 @@
         "latitude": 45.522619,
         "longitude": -123.073174,
         "name": "Forest Grove"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19442194@2026-08-09T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/432488c8-9874-4a5e-9175-7e2bbc2e65cf.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-09T11:00:00-07:00",
+      "title": "Grand Prix of Portland",
+      "venue": {
+        "address": "1940 N Victory Blvd",
+        "city": "Portland",
+        "latitude": 45.59371,
+        "longitude": -122.688485,
+        "name": "Portland International Raceway"
       }
     },
     {
@@ -163544,5 +163538,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-09T18:57:12+00:00"
+  "generated_at": "2026-08-09T18:59:57+00:00"
 }
