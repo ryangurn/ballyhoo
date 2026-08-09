@@ -24924,6 +24924,33 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "id": "willamette_week:19592191@2026-08-14T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2G-MYn_tekaq_cBYslaEbQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://truewestpresents.com/page/1",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-14T20:00:00-07:00",
+      "title": "80s+90s Video Dance Attack",
+      "venue": {
+        "address": "1300 SE Stark St #110",
+        "city": "Portland",
+        "latitude": 45.5192951113,
+        "longitude": -122.6524239779,
+        "name": "Revolution Hall"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19585911@2026-08-14T20:00",
@@ -66074,6 +66101,36 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-08-26T23:00:00-07:00",
+      "id": "willamette_week:19592193@2026-08-26T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wp0S9U1dHkKzQPAaqY28bw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.sickening.events/e/avatar-the-last-gender-bender?aff=cityspark",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-26T20:00:00-07:00",
+      "summary": "Avatar: The Last Gender Bender is an All Asian and PoC \\(performers of color\\) Avatar The Last Airbender Tribute Show. Co-produced by Baba Gaynush and Papa Titty. With some of Portland's favorite Asian, Pacific Islander, and Native Hawaiian Drag Performers.",
+      "ticket_url": "https://www.sickening.events/e/avatar-the-last-gender-bender/tickets?aff=cityspark",
+      "title": "Avatar: The Last Gender Bender",
+      "venue": {
+        "address": "1400 SE Morrison St",
+        "city": "Portland",
+        "latitude": 45.517008,
+        "longitude": -122.651351,
+        "name": "Peacock PDX"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19428241@2026-08-26T20:00",
@@ -100163,7 +100220,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-09T04:39:39+00:00",
+  "generated_at": "2026-08-09T06:00:44+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
