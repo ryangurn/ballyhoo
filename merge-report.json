@@ -137,62 +137,6 @@
       "venue": "Topaz Farm"
     },
     {
-      "dropped": "dopdx:17303539",
-      "kept": "ticketmaster:Z7r9jZ1A70YZv",
-      "start_at": "2026-08-08T19:30:00-07:00",
-      "title_dropped": "Godfrey",
-      "title_kept": "Sophie Buddle",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "dopdx:17313348",
-      "kept": "ticketmaster:Z7r9jZ1A70YZv",
-      "start_at": "2026-08-08T19:30:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Sophie Buddle",
-      "title_kept": "Sophie Buddle",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "dopdx:17593554",
-      "kept": "ticketmaster:rZ7HnEZ1Afa8PV",
-      "start_at": "2026-08-08T19:30:00-07:00",
-      "title_dropped": "Within The Pyre with Dear Assassin, Piranhapuss, Before The Fallen, & Rustmine",
-      "title_kept": "WITHIN THE PYRE with Dear Assassin, Piranhapuss, Before The Fallen, & Rustmine",
-      "venue": "Dante's"
-    },
-    {
-      "dropped": "dopdx:17505110",
-      "kept": "ticketmaster:rZ7HnEZ1AfFve7",
-      "start_at": "2026-08-08T20:00:00-07:00",
-      "title_dropped": "Max Hatt & Edda Glass",
-      "title_kept": "MAX HATT & EDDA GLASS",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "dopdx:17303540",
-      "kept": "ticketmaster:Z7r9jZ1A70YZA",
-      "start_at": "2026-08-08T21:30:00-07:00",
-      "title_dropped": "Godfrey",
-      "title_kept": "Godfrey",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "dopdx:17313349",
-      "kept": "ticketmaster:Z7r9jZ1A70YZA",
-      "start_at": "2026-08-08T21:30:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Sophie Buddle",
-      "title_kept": "Godfrey",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "dopdx:17602754",
-      "kept": "ticketmaster:rZ7HnEZ1Afv3P7",
-      "start_at": "2026-08-08T23:30:00-07:00",
-      "title_dropped": "Smash Disco~Glam~Metal~Punk-Hiphop",
-      "title_kept": "SMASH disco~glam~metal~punk-hiphop",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:17670892@2026-08-09T09:00",
       "kept": "pdxparent_markets:hillsdale-farmers-market@2026-08-09",
       "start_at": "2026-08-09T09:00:00-07:00",
@@ -3913,6 +3857,38 @@
       "venue": "Ilani Cowlitz Ballroom"
     },
     {
+      "dropped": "dopdx:17528303",
+      "kept": "ticketmaster:Z7r9jZ1A7PsfE",
+      "start_at": "2026-09-07T19:00:00-07:00",
+      "title_dropped": "Brandon Flowers",
+      "title_kept": "Brandon Flowers",
+      "venue": "Roseland Theater"
+    },
+    {
+      "dropped": "willamette_week:19304191@2026-09-07T19:00",
+      "kept": "dopdx:17528303",
+      "start_at": "2026-09-07T19:00:00-07:00",
+      "title_dropped": "Brandon Flowers",
+      "title_kept": "Brandon Flowers",
+      "venue": "Roseland Theater"
+    },
+    {
+      "dropped": "willamette_week:19510053@2026-09-07T19:30",
+      "kept": "dopdx:17392363",
+      "start_at": "2026-09-07T19:30:00-07:00",
+      "title_dropped": "Special Event: The Bitchuation Room",
+      "title_kept": "The Bitchuation Room",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19076583@2026-09-07T19:30",
+      "kept": "dopdx:17392363",
+      "start_at": "2026-09-07T19:30:00-07:00",
+      "title_dropped": "Special Event: The Bitchuation Room",
+      "title_kept": "The Bitchuation Room",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:17670892@2026-08-16T09:00",
       "kept": "pdxparent_markets:hillsdale-farmers-market@2026-08-16",
       "start_at": "2026-08-16T09:00:00-07:00",
@@ -4001,14 +3977,6 @@
       "venue": "Dante's"
     },
     {
-      "dropped": "willamette_week:19304191@2026-09-07T19:00",
-      "kept": "ticketmaster:Z7r9jZ1A7PsfE",
-      "start_at": "2026-09-07T19:00:00-07:00",
-      "title_dropped": "Brandon Flowers",
-      "title_kept": "Brandon Flowers",
-      "venue": "Roseland Theater"
-    },
-    {
       "dropped": "willamette_week:18177112@2026-09-08T19:00",
       "kept": "ticketmaster:vvG1HZ_dmH0IYK",
       "start_at": "2026-09-08T19:00:00-07:00",
@@ -4025,9 +3993,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5596,
-  "floor_check": "5596 events against a 5722-event baseline",
-  "generated_at": "2026-08-09T02:37:38+00:00",
+  "event_count": 5525,
+  "floor_check": "5525 events against a 5722-event baseline",
+  "generated_at": "2026-08-09T02:39:02+00:00",
   "problems": [],
   "sources": [
     "calagator",
