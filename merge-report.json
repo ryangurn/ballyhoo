@@ -321,6 +321,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19469867@2026-08-09T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPspd",
+      "start_at": "2026-08-09T21:00:00-07:00",
+      "title_dropped": "CHURCH OF HIVE",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-08-09T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPspd",
       "start_at": "2026-08-09T21:00:00-07:00",
@@ -1417,6 +1425,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19469867@2026-08-16T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPs4K",
+      "start_at": "2026-08-16T21:00:00-07:00",
+      "title_dropped": "CHURCH OF HIVE",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-08-16T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPs4K",
       "start_at": "2026-08-16T21:00:00-07:00",
@@ -2249,6 +2265,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19469867@2026-08-23T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPsqd",
+      "start_at": "2026-08-23T21:00:00-07:00",
+      "title_dropped": "CHURCH OF HIVE",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-08-23T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPsqd",
       "start_at": "2026-08-23T21:00:00-07:00",
@@ -3023,6 +3047,14 @@
       "title_dropped": "ORCHESTRE L'POW followed by Sinferno Cabaret",
       "title_kept": "Orchestre L'pow Followed by Sinferno Cabaret",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19469867@2026-08-30T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPs_d",
+      "start_at": "2026-08-30T21:00:00-07:00",
+      "title_dropped": "CHURCH OF HIVE",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
     },
     {
       "dropped": "willamette_week:16902271@2026-08-30T21:00",
@@ -4001,9 +4033,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5503,
-  "floor_check": "5503 events against a 5503-event baseline",
-  "generated_at": "2026-08-09T10:51:56+00:00",
+  "event_count": 5502,
+  "floor_check": "5502 events against a 5503-event baseline",
+  "generated_at": "2026-08-09T10:55:53+00:00",
   "problems": [],
   "sources": [
     "calagator",
