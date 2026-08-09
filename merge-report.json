@@ -169,14 +169,6 @@
       "venue": "Patricia Reser Center for the Arts"
     },
     {
-      "dropped": "dopdx:17431932",
-      "kept": "ticketmaster:vvG1HZ_6KxyjRC",
-      "start_at": "2026-08-08T17:30:00-07:00",
-      "title_dropped": "Portland Fire vs Seattle Storm",
-      "title_kept": "Portland Fire vs. Seattle Storm",
-      "venue": "Moda Center"
-    },
-    {
       "dropped": "willamette_week:17962649@2026-08-08T17:30",
       "kept": "dopdx:17431932",
       "start_at": "2026-08-08T17:30:00-07:00",
@@ -217,30 +209,6 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
-      "dropped": "dopdx:17262313",
-      "kept": "ticketmaster:vvG1HZ_kV9SYlE",
-      "start_at": "2026-08-08T19:00:00-07:00",
-      "title_dropped": "Ali Wong Live",
-      "title_kept": "Ali Wong Live",
-      "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
-      "dropped": "dopdx:17262313",
-      "kept": "ticketmaster:Z7r9jZ1A7-I8N",
-      "start_at": "2026-08-08T19:00:00-07:00",
-      "title_dropped": "Ali Wong Live",
-      "title_kept": "Ali Wong",
-      "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
-      "dropped": "dopdx:17303539",
-      "kept": "ticketmaster:Z7r9jZ1A70YZd",
-      "start_at": "2026-08-08T19:00:00-07:00",
-      "title_dropped": "Godfrey",
-      "title_kept": "Godfrey",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
       "dropped": "willamette_week:18896347@2026-08-08T19:00",
       "kept": "dopdx:17303539",
       "start_at": "2026-08-08T19:00:00-07:00",
@@ -273,27 +241,27 @@
       "venue": "Kickstand Comedy"
     },
     {
-      "dropped": "willamette_week:19442094@2026-08-08T19:00",
-      "kept": "ticketmaster:Z7r9jZ1A70eeo",
-      "start_at": "2026-08-08T19:00:00-07:00",
-      "title_dropped": "I Love The 90's",
-      "title_kept": "I Love The 90's",
-      "venue": "Clark County Fairgrounds"
-    },
-    {
-      "dropped": "dopdx:17313348",
-      "kept": "ticketmaster:Z7r9jZ1A70YZd",
-      "start_at": "2026-08-08T19:00:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Sophie Buddle",
-      "title_kept": "Godfrey",
+      "dropped": "dopdx:17303539",
+      "kept": "ticketmaster:Z7r9jZ1A70YZv",
+      "start_at": "2026-08-08T19:30:00-07:00",
+      "title_dropped": "Godfrey",
+      "title_kept": "Sophie Buddle",
       "venue": "Helium Comedy Club - Portland"
     },
     {
       "dropped": "willamette_week:18896348@2026-08-08T19:30",
-      "kept": "ticketmaster:Z7r9jZ1A70YZd",
+      "kept": "dopdx:17303539",
       "start_at": "2026-08-08T19:00:00-07:00",
       "title_dropped": "The Neon Room at Helium: Sophie Buddle",
       "title_kept": "Godfrey",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "dopdx:17313348",
+      "kept": "ticketmaster:Z7r9jZ1A70YZv",
+      "start_at": "2026-08-08T19:30:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Sophie Buddle",
+      "title_kept": "Sophie Buddle",
       "venue": "Helium Comedy Club - Portland"
     },
     {
@@ -4297,9 +4265,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5721,
-  "floor_check": "5721 events against a 5722-event baseline",
-  "generated_at": "2026-08-09T02:25:42+00:00",
+  "event_count": 5718,
+  "floor_check": "5718 events against a 5722-event baseline",
+  "generated_at": "2026-08-09T02:27:11+00:00",
   "problems": [],
   "sources": [
     "calagator",

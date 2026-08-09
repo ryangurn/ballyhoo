@@ -5942,32 +5942,32 @@
         "sports"
       ],
       "end_at": "2026-08-09T02:00:00-07:00",
-      "id": "ticketmaster:vvG1HZ_6KxyjRC",
-      "image_url": "https://s1.ticketm.net/dam/a/cd2/d1df13b2-f278-4244-add4-52a168fcacd2_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "dopdx:17431932",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1780461865/event-17431932.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/portland-fire-vs-seattle-storm-portland-oregon-08-08-2026/event/0F006474E2E5CBCE",
+      "listing_url": "https://dopdx.com/events/2026/8/8/portland-fire-vs-seattle-storm-tickets",
       "merged_sources": [
         "dopdx",
-        "ticketmaster"
+        "willamette_week"
       ],
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 165.85,
+        "min": 121.77
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
       },
       "start_at": "2026-08-08T17:30:00-07:00",
-      "summary": "To ensure an expedited entry experience on Rose Quarter campus, guests are permitted bags up to 10\" x 6\" x 2\" in size. Guests will hold their bags throughout the security screening process, unless they are sent to secondary screening for further inspection. Medical and childcare exceptions are permitted and will be screened via x-ray at designated locations. Medical and childcare bags cannot exceed 14\" x 14\" x 6\". Bag check will be available on a first-come-first-serve basis for a fee; however, we encourage guests to bring smaller bags (10\" x 6\" x 2\") for a faster experience. Please note checking prohibited items will be denied.",
-      "ticket_url": "https://www.ticketmaster.com/portland-fire-vs-seattle-storm-portland-oregon-08-08-2026/event/0F006474E2E5CBCE",
-      "title": "Portland Fire vs. Seattle Storm",
+      "title": "Portland Fire vs Seattle Storm",
       "venue": {
-        "address": "One Center Court, Suite 100",
+        "address": "1 N Center Court St",
         "city": "Portland",
-        "latitude": 45.53118896,
-        "longitude": -122.66645813,
+        "latitude": 45.53149690000001,
+        "longitude": -122.6667829,
         "name": "Moda Center"
       }
     },
@@ -6780,34 +6780,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A70e7p",
-      "image_url": "https://s1.ticketm.net/dam/a/072/655afbee-f2be-4655-96ac-59e845324072_443701_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70e7p",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-08T18:30:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70e7p",
-      "title": "LCD Soundsystem",
-      "venue": {
-        "address": "2126 SW Halsey",
-        "city": "Troutdale",
-        "latitude": 45.527699,
-        "longitude": -122.373802,
-        "name": "McMenamins Historic Edgefield Manor"
-      }
-    },
-    {
-      "categories": [
         "film"
       ],
       "end_at": "2026-08-08T20:30:00-07:00",
@@ -6987,6 +6959,38 @@
         "address": "3000 NE Alberta St",
         "city": "Portland",
         "name": "The Alberta Rose Theatre"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-08-09T02:00:00-07:00",
+      "id": "dopdx:17262313",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1777332722/event-17262313.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/8/ali-wong-live-tickets",
+      "organizer": "Presented by Live Nation",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 66.2,
+        "min": 66.2
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-08T19:00:00-07:00",
+      "summary": "Ali Wong is an Emmy award-winning actress, comedian, writer, and producer known for her breakout Netflix stand-up specials \"Baby Cobra,\" \"Hard Knock Wife,\" and the Emmy-nominated \"Don Wong.\" She released her fourth and latest Netflix comedy special, \"Ali Wong: Single Lady\" in October 2024. Ali received a Golden Globe Award for the special and was nominated for a Critics Choice TV Award and a Directors Guild of America Award. Wong recently directed Frankie Quiñones’ upcoming stand up special for Hulu. In Spring 2023, Wong starred in and executive produced the Netflix and A24 dark comedy \"Beef\" opposite Steven Yeun. The series premiered in April 2023 to widespread acclaim, receiving 8 Emmy Awards and 13 nominations. Wong's performance as Amy L",
+      "title": "Ali Wong Live",
+      "venue": {
+        "address": "1037 Southwest Broadway",
+        "city": "Portland",
+        "latitude": 45.5172295,
+        "longitude": -122.6814325,
+        "name": "Arlene Schnitzer Concert Hall"
       }
     },
     {
@@ -7369,149 +7373,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "end_at": "2026-08-09T02:00:00-07:00",
-      "id": "ticketmaster:vvG1HZ_kV9SYlE",
-      "image_url": "https://s1.ticketm.net/dam/a/253/e03b01e0-2f00-4b0e-be33-7c89a92f3253_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=WONG&linkID=pcpa&shopperContext=&caller=&cgc=",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "LIVE NATION MUSIC",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 66.2,
-        "min": 66.2
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-08T19:00:00-07:00",
-      "summary": "Ali Wong is an Emmy award-winning actress, comedian, writer, and producer known for her breakout Netflix stand-up specials \"Baby Cobra,\" \"Hard Knock Wife,\" and the Emmy-nominated \"Don Wong.\" She released her fourth and latest Netflix comedy special, \"Ali Wong: Single Lady\" in October 2024. Ali received a Golden Globe Award for the special and was nominated for a Critics Choice TV Award and a Directors Guild of America Award. Wong recently directed Frankie Quiñones’ upcoming stand up special for Hulu. In Spring 2023, Wong starred in and executive produced the Netflix and A24 dark comedy \"Beef\" opposite Steven Yeun. The series premiered in April 2023 to widespread acclaim, receiving 8 Emmy Awards and 13 nominations. Wong's performance as Amy L",
-      "ticket_url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=WONG&linkID=pcpa&shopperContext=&caller=&cgc=",
-      "title": "Ali Wong Live",
-      "venue": {
-        "address": "1037 SW Broadway Ave",
-        "city": "Portland",
-        "latitude": 45.516856,
-        "longitude": -122.681188,
-        "name": "Arlene Schnitzer Concert Hall"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-08-09T02:00:00-07:00",
-      "id": "ticketmaster:Z7r9jZ1A7-I8N",
-      "image_url": "https://s1.ticketm.net/dam/a/253/e03b01e0-2f00-4b0e-be33-7c89a92f3253_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-I8N",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "Presented by Live Nation",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 66.2,
-        "min": 66.2
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-08T19:00:00-07:00",
-      "summary": "Ali Wong is an Emmy award-winning actress, comedian, writer, and producer known for her breakout Netflix stand-up specials \"Baby Cobra,\" \"Hard Knock Wife,\" and the Emmy-nominated \"Don Wong.\" She released her fourth and latest Netflix comedy special, \"Ali Wong: Single Lady\" in October 2024. Ali received a Golden Globe Award for the special and was nominated for a Critics Choice TV Award and a Directors Guild of America Award. Wong recently directed Frankie Quiñones’ upcoming stand up special for Hulu. In Spring 2023, Wong starred in and executive produced the Netflix and A24 dark comedy \"Beef\" opposite Steven Yeun. The series premiered in April 2023 to widespread acclaim, receiving 8 Emmy Awards and 13 nominations. Wong's performance as Amy L",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-I8N",
-      "title": "Ali Wong",
-      "venue": {
-        "address": "1037 SW Broadway Dr",
-        "city": "Portland",
-        "latitude": 45.5201,
-        "longitude": -122.6884,
-        "name": "Arlene Schnitzer Concert Hall"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-08-09T02:00:00-07:00",
-      "id": "ticketmaster:Z7r9jZ1A70YZd",
-      "image_url": "https://s1.ticketm.net/dam/a/5cc/4c227195-7b94-4072-b9f5-9d3e9d1535cc_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70YZd",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 36.0,
-        "min": 28.0
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-08T19:00:00-07:00",
-      "summary": "As one of the most dominant forces in the comedy circuit, Godfrey has been seen on stages from New York to Los Angeles to Dubai. Along with his own Comedy Central Special, his onscreen credits include \"Zoolander,\" \"30 Rock,\" and a recurring role on \"Louie.\" - 2 premium seats - $90 food & beverage credit ($45 per person) - Gratuity - Ticket Protection Management reserves the right to prevent customers from entering the facility who they deem disruptive or dangerous to other patrons.",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70YZd",
-      "title": "Godfrey",
-      "venue": {
-        "address": "1510 SE 9th Ave",
-        "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "Helium Comedy Club - Portland"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A70eeo",
-      "image_url": "https://s1.ticketm.net/dam/a/49a/50edfbfd-cbf9-432f-a5f2-295dd08d249a_392611_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70eeo",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-08T19:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70eeo",
-      "title": "I Love The 90's",
-      "venue": {
-        "address": "17402 NE Delfel Road",
-        "city": "Ridgefield",
-        "latitude": 45.8046,
-        "longitude": -122.693298,
-        "name": "Clark County Fairgrounds"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-08-08T21:00:00-07:00",
@@ -7539,6 +7400,32 @@
         "latitude": 45.300559625,
         "longitude": -122.7734224498,
         "name": "McMenamins Old Church And Pub"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19442094@2026-08-08T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FXa3KHMIwkGHNRlm4PJlRA.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-08T19:00:00-07:00",
+      "title": "I Love The 90's",
+      "venue": {
+        "address": "17402 NE Delfel Road",
+        "city": "Ridgefield",
+        "latitude": 45.747201,
+        "longitude": -122.667466,
+        "name": "Clark County Fairgrounds"
       }
     },
     {
@@ -8011,13 +7898,21 @@
       "categories": [
         "arts"
       ],
+      "end_at": "2026-08-09T02:00:00-07:00",
       "id": "ticketmaster:Z7r9jZ1A70YZv",
       "image_url": "https://s1.ticketm.net/dam/a/b5e/26ce860a-665b-4af3-9779-27dd7866fb5e_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70YZv",
+      "merged_sources": [
+        "dopdx",
+        "ticketmaster",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 187.0,
+        "min": 34.0
       },
       "source": {
         "id": "ticketmaster",
@@ -8025,6 +7920,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-08-08T19:30:00-07:00",
+      "summary": "As one of the most dominant forces in the comedy circuit, Godfrey has been seen on stages from New York to Los Angeles to Dubai. Along with his own Comedy Central Special, his onscreen credits include \"Zoolander,\" \"30 Rock,\" and a recurring role on \"Louie.\" - 2 premium seats - $90 food & beverage credit ($45 per person) - Gratuity - Ticket Protection Management reserves the right to prevent customers from entering the facility who they deem disruptive or dangerous to other patrons.",
       "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70YZv",
       "title": "Sophie Buddle",
       "venue": {
@@ -170019,5 +169915,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-09T02:25:42+00:00"
+  "generated_at": "2026-08-09T02:27:11+00:00"
 }
