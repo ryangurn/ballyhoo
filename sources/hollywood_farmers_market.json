@@ -2,60 +2,6 @@
   "events": [
     {
       "categories": [
-        "community",
-        "market"
-      ],
-      "end_at": "2026-08-08T00:00:00-07:00",
-      "id": "hollywood_farmers_market:event-schedule/national-farmers-market-week",
-      "is_all_day": true,
-      "listing_url": "https://www.hollywoodfarmersmarket.org/event-schedule/national-farmers-market-week",
-      "organizer": "Hollywood Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "hollywood_farmers_market",
-        "name": "Hollywood Farmers Market",
-        "url": "https://www.hollywoodfarmersmarket.org"
-      },
-      "start_at": "2026-08-02T00:00:00-07:00",
-      "title": "National Farmers Market Week"
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-08-08T13:00:00-07:00",
-      "id": "hollywood_farmers_market:market@2026-08-08",
-      "is_all_day": false,
-      "listing_url": "https://www.hollywoodfarmersmarket.org/",
-      "organizer": "Hollywood Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "hollywood_farmers_market",
-        "name": "Hollywood Farmers Market",
-        "url": "https://www.hollywoodfarmersmarket.org"
-      },
-      "start_at": "2026-08-08T08:00:00-07:00",
-      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
-      "title": "Hollywood Farmers Market",
-      "venue": {
-        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
-        "city": "Portland",
-        "latitude": 45.53635,
-        "longitude": -122.61756,
-        "name": "Hollywood Farmers Market"
-      }
-    },
-    {
-      "categories": [
         "music",
         "market"
       ],
@@ -985,7 +931,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-09T02:35:01+00:00",
+  "generated_at": "2026-08-09T07:31:21+00:00",
   "source_id": "hollywood_farmers_market",
   "status": "ok"
 }
