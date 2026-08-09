@@ -3128,6 +3128,42 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-08-10T02:00:00-07:00",
+      "id": "dopdx:17416442",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1780383826/event-17416442.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/9/harry-potter-and-the-cursed-child-click-for-showtimes-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "organizer": "Presented by Broadway in Portland",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 78.3,
+        "min": 78.3
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-09T13:00:00-07:00",
+      "summary": "Showtimes: 1:00 PM, 7:00 PM Broadway’s spellbinding spectacular Harry Potter and the Cursed Child is coming to a city near you. Join the next adventure and experience the wizarding world like never before at this record-breaking hit and winner of six Tony Awards including Best Play. “It’s one of the most defining pop culture events of the decade” (Forbes). When Harry Potter’s head-strong son Albus befriends the son of his fiercest rival, Draco Malfoy, it sparks an unbelievable new journey for them all—with the power to change the past and future forever. Prepare for a mind-blowing race through time, spectacular spells, and an epic battle, all brought to life with the most astonishing theatrical magic ever seen on stage. It’s a “marvel of ima",
+      "title": "Harry Potter and the Cursed Child - Click for showtimes",
+      "venue": {
+        "address": "222 SW Clay",
+        "city": "Portland",
+        "latitude": 45.5125091,
+        "longitude": -122.6782122,
+        "name": "Keller Auditorium"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-09T16:00:00-07:00",
@@ -3216,43 +3252,6 @@
         "latitude": 45.5832371,
         "longitude": -122.6873115,
         "name": "Kenton Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-08-10T02:00:00-07:00",
-      "id": "ticketmaster:Z7r9jZ1A7-zOO",
-      "image_url": "https://s1.ticketm.net/dam/a/db0/e3e63d22-f43c-43cb-8e4a-972b9b4d9db0_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-zOO",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "Presented by Broadway in Portland",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 78.3,
-        "min": 78.3
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-09T13:00:00-07:00",
-      "summary": "Showtimes: 1:00 PM, 7:00 PM Broadway’s spellbinding spectacular Harry Potter and the Cursed Child is coming to a city near you. Join the next adventure and experience the wizarding world like never before at this record-breaking hit and winner of six Tony Awards including Best Play. “It’s one of the most defining pop culture events of the decade” (Forbes). When Harry Potter’s head-strong son Albus befriends the son of his fiercest rival, Draco Malfoy, it sparks an unbelievable new journey for them all—with the power to change the past and future forever. Prepare for a mind-blowing race through time, spectacular spells, and an epic battle, all brought to life with the most astonishing theatrical magic ever seen on stage. It’s a “marvel of ima",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-zOO",
-      "title": "Harry Potter and the Cursed Child (Touring)",
-      "venue": {
-        "address": "222 SW Clay St",
-        "city": "Portland",
-        "latitude": 45.497799,
-        "longitude": -122.693703,
-        "name": "Keller Auditorium"
       }
     },
     {
@@ -163929,5 +163928,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-09T20:48:31+00:00"
+  "generated_at": "2026-08-09T20:51:05+00:00"
 }
