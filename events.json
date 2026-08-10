@@ -36862,6 +36862,37 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-16T16:00:00-07:00",
+      "id": "willamette_week:19603145@2026-08-16T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rJ9qYULw1EKNreGqTAk60A.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://amaterrawines.com/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-16T12:00:00-07:00",
+      "summary": "For one afternoon, Amaterra Winery will transform into a book lover’s retreat as Hidden Worlds Bookstore fills our Barrel Room and Terrace with a thoughtfully curated collection of books available for purchase. Browse for your next great read, settle in with a glass of wine, seasonal bites, or your favorite beverage, and enjoy a leisurely afternoon overlooking the vineyard. Whether you’re searching for a new favorite novel or simply looking for a unique way to spend a summer day, this is an experience you won’t want to miss. Reservations aren’t necessary!",
+      "title": "Book Fair at Amaterra",
+      "venue": {
+        "address": "8150 SW Swede Hl Dr",
+        "city": "Portland",
+        "latitude": 45.516439,
+        "longitude": -122.759497,
+        "name": "Amaterra Winery"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-08-16T15:00:00-07:00",
@@ -161365,5 +161396,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-10T21:00:32+00:00"
+  "generated_at": "2026-08-10T21:05:30+00:00"
 }
