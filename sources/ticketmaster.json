@@ -6679,6 +6679,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfZ-37",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021484",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.15,
+        "min": 23.15
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-12T22:30:00-07:00",
+      "summary": "Join us at the Jack London for the latest edition of our late-night cabaret spectacular, hosted by the Mad Marquis and featuring some of the finest dancers from the Rose City and beyond. Treat yourself to a sensational evening of sultry and exotic delights, liberally spiced with old-fashioned spontaneous fun! The show starts after the evenings musical performance.",
+      "ticket_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021484",
+      "title": "BURLY-Q REVUE",
+      "venue": {
+        "address": "529 SW 4th Ave.",
+        "city": "Portland",
+        "latitude": 45.519452,
+        "longitude": -122.676291,
+        "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:Z7r9jZ1A7Ox_9",
@@ -23287,7 +23318,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-10T17:07:10+00:00",
+  "generated_at": "2026-08-10T18:02:21+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
