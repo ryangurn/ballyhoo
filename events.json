@@ -123346,28 +123346,34 @@
       "categories": [
         "music"
       ],
-      "id": "willamette_week:16902271@2026-09-06T21:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/W_yeDvr5tUeizggPrepCgg.large.png",
+      "id": "ticketmaster:rZ7HnEZ1AfPsOd",
+      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
-      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fchurch-of-hive-star-theater-tickets%252F14018334%26utm_medium%3daffiliate",
+      "listing_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971803",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 6.2,
+        "min": 6.2
       },
       "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-09-06T21:00:00-07:00",
-      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party",
-      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fchurch-of-hive-star-theater-tickets%252F14018334%26utm_medium%3daffiliate",
-      "title": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
+      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party 9pm : $5 : 21+",
+      "ticket_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971803",
+      "title": "CHURCH OF HIVE",
       "venue": {
-        "address": "13 NW 6th Ave",
+        "address": "13 NW Sixth Avenue",
         "city": "Portland",
-        "latitude": 45.5233726501,
-        "longitude": -122.6767425537,
+        "latitude": 45.523588,
+        "longitude": -122.676857,
         "name": "Star Theater"
       }
     },
@@ -154609,6 +154615,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1A4ZOqK",
+      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/genevieve-artadi-featuring-louis-cole-star-theater-tickets/15020753",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 34.48,
+        "min": 34.48
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-12T20:00:00-08:00",
+      "summary": "Genevieve Artadi featuring Louis Cole & Chiquita MagicSould Out Presents:Genevieve Artadi , featuring Louis Cole and Chiquita Magic. Doors: 7:00pmShow: 8:00pm Ages 21+.Step Into GVA!!!! - Genevieve Artadis New Anime-Inspired RecordTeleport into Genevieve Artadis supersonic universe with her newanime-inspired record, GVA!!!!!Channeled by the kinetic energy of her anime favorites from Naruto, Bleach, Initial D, Fullmetal Alchemist Brotherhood, Jojos Bizarre Adventures, Rurouni Kenshin and Attack on Titan Artadis fifth album is my dedication to anime.Speaking on the albums inspiration, Artadi describes, The inspiration I felt was like being turned inside out, like some dormant dreams could awaken in a really fun and creative way. It was great to feel driven like this instead of getting pulverized by the worlds increasing grayness. Of course this would come out in my music and in a twisted kind of way.The album continues her signature fusion of experimental jazz with indie punk, dream pop, alt-electronic, cinematic ballads, and lush harmonic writing, but it is Genevieves voice and arrangements that crystallizes her beautiful expression into a future-sonic world that is truly her own. GVA!!!! is brought to life with her collaborators: Louis Cole, Pedro Martins, Justin Brown, Daryl Johns, Sam Wilkes, Chiquita Magic, Chris Fishman, and Miku Nakamura (of C shu Nie). GVA!!!!! is an energetic, rocking, colorful record through which I hope to bring a sense of ignition to peoples souls who hear it, explains Artadi.Out on all platforms this October 30, follow the release with her anime-inspired retro music videos and live tour dates with Louis Cole and Chiquita Magic.",
+      "ticket_url": "https://www.ticketweb.com/event/genevieve-artadi-featuring-louis-cole-star-theater-tickets/15020753",
+      "title": "GENEVIEVE ARTADI featuring Louis Cole and Chiquita Magic",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:vvG1HZ_FbURTjV",
       "image_url": "https://s1.ticketm.net/dam/a/ba4/6ab45818-4738-4ee0-9eb5-0bafbb966ba4_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -159657,5 +159694,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-10T15:42:38+00:00"
+  "generated_at": "2026-08-10T16:11:08+00:00"
 }
