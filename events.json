@@ -5048,34 +5048,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A70e79",
-      "image_url": "https://s1.ticketm.net/dam/a/072/655afbee-f2be-4655-96ac-59e845324072_443701_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70e79",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-09T18:30:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70e79",
-      "title": "LCD Soundsystem",
-      "venue": {
-        "address": "2126 SW Halsey",
-        "city": "Troutdale",
-        "latitude": 45.527699,
-        "longitude": -122.373802,
-        "name": "McMenamins Historic Edgefield Manor"
-      }
-    },
-    {
-      "categories": [
         "sports"
       ],
       "end_at": "2026-08-09T21:30:00-07:00",
@@ -5131,107 +5103,6 @@
         "latitude": 45.522867,
         "longitude": -122.672965,
         "name": "Can Can's Paris Theatre"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A7-zO-",
-      "image_url": "https://s1.ticketm.net/dam/a/db0/e3e63d22-f43c-43cb-8e4a-972b9b4d9db0_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-zO-",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 167.91,
-        "min": 122.76
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-09T19:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-zO-",
-      "title": "Harry Potter and the Cursed Child (Touring)",
-      "venue": {
-        "address": "222 SW Clay St",
-        "city": "Portland",
-        "latitude": 45.497799,
-        "longitude": -122.693703,
-        "name": "Keller Auditorium"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A70YZk",
-      "image_url": "https://s1.ticketm.net/dam/a/5cc/4c227195-7b94-4072-b9f5-9d3e9d1535cc_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70YZk",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 187.0,
-        "min": 34.0
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-09T19:00:00-07:00",
-      "summary": "As one of the most dominant forces in the comedy circuit, Godfrey has been seen on stages from New York to Los Angeles to Dubai. Along with his own Comedy Central Special, his onscreen credits include \"Zoolander,\" \"30 Rock,\" and a recurring role on \"Louie.\" Couple's Package includes: \\- 2 premium seats - $90 food & beverage credit ($45 per person) - Gratuity - Ticket Protection Management reserves the right to prevent customers from entering the facility who they deem disruptive or dangerous to other patrons.",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70YZk",
-      "title": "Godfrey",
-      "venue": {
-        "address": "1510 SE 9th Ave",
-        "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "Helium Comedy Club - Portland"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A70ee3",
-      "image_url": "https://s1.ticketm.net/dam/a/5f7/8ac0ac25-119e-400b-bbcc-4f419c5d95f7_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70ee3",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-09T19:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70ee3",
-      "title": "Collective Soul",
-      "venue": {
-        "address": "17402 NE Delfel Road",
-        "city": "Ridgefield",
-        "latitude": 45.8046,
-        "longitude": -122.693298,
-        "name": "Clark County Fairgrounds"
       }
     },
     {
@@ -5318,6 +5189,63 @@
         "latitude": 45.522873,
         "longitude": -122.982139,
         "name": "Walters Cultural Arts Center"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19442095@2026-08-09T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8W-byUoqwkyPEUsww-6WAA.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-09T19:00:00-07:00",
+      "title": "Collective Soul",
+      "venue": {
+        "address": "17402 NE Delfel Road",
+        "city": "Ridgefield",
+        "latitude": 45.747201,
+        "longitude": -122.667466,
+        "name": "Clark County Fairgrounds"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:18896347@2026-08-09T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/R0AxZH3osk6rihKNEkNe1g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portland.heliumcomedy.com/events/136568",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 187.0,
+        "min": 34.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-09T19:00:00-07:00",
+      "summary": "As one of the most dominant forces in the comedy circuit, Godfrey has been seen on stages from New York to Los Angeles to Dubai. Along with his own Comedy Central Special, his onscreen credits include \"Zoolander,\" \"30 Rock,\" and a recurring role on \"Louie.\" Couple's Package includes: \\- 2 premium seats - $90 food & beverage credit ($45 per person) - Gratuity - Ticket Protection Management reserves the right to prevent customers from entering the facility who they deem disruptive or dangerous to other patrons.",
+      "ticket_url": "https://portland.heliumcomedy.com/events/136568",
+      "title": "Special Event: Godfrey",
+      "venue": {
+        "address": "1510 SE 9th Ave",
+        "city": "Portland",
+        "latitude": 45.5120477825,
+        "longitude": -122.6566256583,
+        "name": "Helium Comedy Club"
       }
     },
     {
@@ -5411,6 +5339,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "id": "willamette_week:17962707@2026-08-09T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6A3CB_tgkCAGVTSfnNs-A.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 167.91,
+        "min": 122.76
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-09T19:00:00-07:00",
+      "title": "Harry Potter and the Cursed Child",
+      "venue": {
+        "address": "222 SW Clay St.",
+        "city": "Portland",
+        "latitude": 45.5124588013,
+        "longitude": -122.6781082153,
+        "name": "Keller Auditorium"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "id": "willamette_week:17670807@2026-08-09T19:00",
@@ -5441,32 +5397,57 @@
       "categories": [
         "sports"
       ],
-      "id": "ticketmaster:Z7r9jZ1A7--Gx",
-      "image_url": "https://s1.ticketm.net/dam/a/04d/da8b7bf9-599c-45f8-8253-401e5cd5504d_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "willamette_week:19428147@2026-08-09T19:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/581c6e67-319f-483b-84f3-2f6d9bd37b0c.large.JPG",
       "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7--Gx",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
       "price": {
         "currency": "USD",
         "is_free": false
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-08-09T19:15:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7--Gx",
       "title": "Portland Timbers vs. Club America",
       "venue": {
-        "address": "1844 SW Morrison St.",
+        "address": "1844 SW Morrison St",
         "city": "Portland",
-        "latitude": 45.5201,
-        "longitude": -122.6884,
+        "latitude": 45.521686554,
+        "longitude": -122.6917266846,
         "name": "Providence Park"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "willamette_week:18896350@2026-08-09T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mtk8DgdW90-8HBCr2FmjXQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portland.heliumcomedy.com/events/136821",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 39.0,
+        "min": 29.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-09T19:30:00-07:00",
+      "summary": "Based in NYC, Charles Engle's comedy blends personal vulnerability with the absurdity of everyday life. He has been featured in the NY Comedy Festival, Big Pine Comedy Festival, Seattle International Comedy Festival, and Tours for the Troops. He tours regularly with comedians such as Preacher Lawson, Jessie Johnson and Shapel Lacey. Management reserves the right to prevent customers from entering the facility who they deem disruptive or dangerous to other patrons.",
+      "ticket_url": "https://portland.heliumcomedy.com/shows/371396",
+      "title": "The Neon Room at Helium: Charles Engle",
+      "venue": {
+        "address": "1510 SE 9th Ave",
+        "city": "Portland",
+        "latitude": 45.5120477825,
+        "longitude": -122.6566256583,
+        "name": "Helium Comedy Club"
       }
     },
     {
@@ -143178,6 +143159,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1A4ZxCd",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/cirkus-pandemonium-a-dark-fantasy-dantes-tickets/15022383",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 21.09,
+        "min": 21.09
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-04T20:00:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/cirkus-pandemonium-a-dark-fantasy-dantes-tickets/15022383",
+      "title": "CIRKUS PANDEMONIUM: A Dark Fantasy Immersion",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7xpj_",
       "image_url": "https://s1.ticketm.net/dam/a/dd9/b084ba10-e6ef-4d9d-aad4-978623bbfdd9_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -143228,37 +143240,6 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1A4ZxCd",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/cirkus-pandemonium-a-dark-fantasy-dantes-tickets/15022383",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 26.24,
-        "min": 26.24
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-04T22:00:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/cirkus-pandemonium-a-dark-fantasy-dantes-tickets/15022383",
-      "title": "CIRKUS PANDEMONIUM: A Dark Fantasy Immersion",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
       }
     },
     {
@@ -163370,5 +163351,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-10T02:30:14+00:00"
+  "generated_at": "2026-08-10T02:32:12+00:00"
 }
