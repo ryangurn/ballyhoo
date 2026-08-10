@@ -136381,6 +136381,31 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:stewardship-day-glendoveer-2026-09-24",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/stewardship-day-glendoveer-2026-09-24",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-09-24T10:30:00-07:00",
+      "title": "Stewardship day at Glendoveer",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.53345,
+        "longitude": -122.51152,
+        "name": "Glendoveer Nature Trail"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -147597,6 +147622,31 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:self-defense-park-2026-10-24",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/self-defense-park-2026-10-24",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-24T11:00:00-07:00",
+      "title": "Self-defense in the park",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.53345,
+        "longitude": -122.51152,
+        "name": "Glendoveer Nature Trail"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:Z7r9jZ1A7PfZd",
@@ -151818,6 +151868,29 @@
       },
       "start_at": "2026-11-13T09:00:00-08:00",
       "title": "Metro Technical Advisory Committee meeting"
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:cemetery-tending-multnomah-park-cemetery-2026-11-13",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/cemetery-tending-multnomah-park-cemetery-2026-11-13",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-13T10:30:00-08:00",
+      "title": "Cemetery tending at Multnomah Park Cemetery",
+      "venue": {
+        "city": "Portland",
+        "name": "Multnomah Park Cemetery"
+      }
     },
     {
       "categories": [
@@ -161452,5 +161525,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-10T22:59:52+00:00"
+  "generated_at": "2026-08-10T23:03:03+00:00"
 }
