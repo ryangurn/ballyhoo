@@ -49701,42 +49701,6 @@
         "music"
       ],
       "end_at": "2026-08-20T02:00:00-07:00",
-      "id": "ticketmaster:rZ7HnEZ1Afax_V",
-      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/kyndal-the-barefoot-tour-with-star-theater-tickets/14262674",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 30.36,
-        "min": 30.36
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-19T19:00:00-07:00",
-      "summary": "For Kyndal, the journey is the destination, her music capturing the raw tension of the in-between through infectious melodies and unfiltered lyricism. Her work serves as a vulnerable inventory of self-expectation, reflecting the persistent weight of navigating love and ambition while fighting to stay true to herself. By leaning into these honest spaces, she has built a profound connection with a global audience. Following a standout run into the Top 9 of American Idol, Kyndal has solidified her place as an artist of profound depth, creativity, and vision with over 50 million streams to date. She has toured as support for Wild Rivers, Darren Kiely, and Steinza, and is now ready to step into the spotlight on her own. Join Kyndal on her debut headline tour - tickets available now. General Admission Tickets - $25VIP Tickets - $75The VIP Package:Early entry into the venueFirst access to merchandiseMeet & greet with KyndalIncludes admission ticket",
-      "ticket_url": "https://www.ticketweb.com/event/kyndal-the-barefoot-tour-with-star-theater-tickets/14262674",
-      "title": "KYNDAL the barefoot tour with Lila Dupont",
-      "venue": {
-        "address": "13 NW Sixth Avenue",
-        "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
-        "name": "Star Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-20T02:00:00-07:00",
       "id": "ticketmaster:Z7r9jZ1A7xF0I",
       "image_url": "https://s1.ticketm.net/dam/a/d4e/a49ecab3-089d-46ff-baa5-7942c994ed4e_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -50184,6 +50148,43 @@
         "address": "1510 SE 9th Ave",
         "city": "Portland",
         "name": "Helium Comedy Club"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-20T02:00:00-07:00",
+      "id": "ticketmaster:rZ7HnEZ1Afax_V",
+      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/kyndal-the-barefoot-tour-with-star-theater-tickets/14262674",
+      "merged_sources": [
+        "dopdx",
+        "ticketmaster",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 30.36,
+        "min": 30.36
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-08-19T19:30:00-07:00",
+      "summary": "For Kyndal, the journey is the destination, her music capturing the raw tension of the in-between through infectious melodies and unfiltered lyricism. Her work serves as a vulnerable inventory of self-expectation, reflecting the persistent weight of navigating love and ambition while fighting to stay true to herself. By leaning into these honest spaces, she has built a profound connection with a global audience. Following a standout run into the Top 9 of American Idol, Kyndal has solidified her place as an artist of profound depth, creativity, and vision with over 50 million streams to date. She has toured as support for Wild Rivers, Darren Kiely, and Steinza, and is now ready to step into the spotlight on her own. Join Kyndal on her debut headline tour - tickets available now. General Admission Tickets - $25VIP Tickets - $75The VIP Package:Early entry into the venueFirst access to merchandiseMeet & greet with KyndalIncludes admission ticket",
+      "ticket_url": "https://www.ticketweb.com/event/kyndal-the-barefoot-tour-with-star-theater-tickets/14262674",
+      "title": "KYNDAL the barefoot tour with Lila Dupont",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
       }
     },
     {
@@ -161364,5 +161365,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-10T20:56:44+00:00"
+  "generated_at": "2026-08-10T21:00:32+00:00"
 }

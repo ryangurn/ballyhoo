@@ -1353,14 +1353,6 @@
       "venue": "McMenamins Crystal Ballroom"
     },
     {
-      "dropped": "dopdx:17616534",
-      "kept": "ticketmaster:rZ7HnEZ1Afax_V",
-      "start_at": "2026-08-19T19:00:00-07:00",
-      "title_dropped": "KYNDAL the barefoot tour with Lila Dupont",
-      "title_kept": "KYNDAL the barefoot tour with Lila Dupont",
-      "venue": "Star Theater"
-    },
-    {
       "dropped": "willamette_week:19449597@2026-08-19T19:00",
       "kept": "dopdx:17616534",
       "start_at": "2026-08-19T19:00:00-07:00",
@@ -1375,6 +1367,14 @@
       "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
       "title_kept": "Intermediate Two-Step Lessons with Peggy and Dillon",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "dopdx:17616534",
+      "kept": "ticketmaster:rZ7HnEZ1Afax_V",
+      "start_at": "2026-08-19T19:30:00-07:00",
+      "title_dropped": "KYNDAL the barefoot tour with Lila Dupont",
+      "title_kept": "KYNDAL the barefoot tour with Lila Dupont",
+      "venue": "Star Theater"
     },
     {
       "dropped": "willamette_week:19076581@2026-08-19T19:30",
@@ -3955,7 +3955,7 @@
   ],
   "event_count": 5439,
   "floor_check": "5439 events against a 5439-event baseline",
-  "generated_at": "2026-08-10T20:56:44+00:00",
+  "generated_at": "2026-08-10T21:00:32+00:00",
   "problems": [],
   "sources": [
     "calagator",
