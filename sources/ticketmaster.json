@@ -22624,6 +22624,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1A4ZYvd",
+      "image_url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/charlie-ballantine-jack-london-revue-tickets/15030043",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 237.39,
+        "min": 31.39
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-03-17T20:00:00-07:00",
+      "summary": "Charlie BallantineSould Out Presents: Charlie BallantineDoors: 7:00pmShow: 8:00pmAges 21+. https://www.charlieballantine.com/bioJLR Seating Map Notes: For this show, you may reserve individual tables on the map pictured. Note that some tables have limited sightlines as noted. General Admission ticket holders note that seating and sightlines are limted and may be standing room only. All table reservations include admission.Instructions: For Table Reservations: Note the relative location of the stage and bar on the map. Then click a table number to see prices, or click Show All Tickets. Click the + button to add a specific table to your cart. For General Admission tickets: click the GA Standing area. Click the + button to add additional tickets.Click Agree",
+      "ticket_url": "https://www.ticketweb.com/event/charlie-ballantine-jack-london-revue-tickets/15030043",
+      "title": "CHARLIE BALLANTINE",
+      "venue": {
+        "address": "529 SW 4th Ave.",
+        "city": "Portland",
+        "latitude": 45.519452,
+        "longitude": -122.676291,
+        "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:Z7r9jZ1A7Pbv6",
@@ -23778,7 +23809,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-11T18:06:07+00:00",
+  "generated_at": "2026-08-11T19:18:15+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
