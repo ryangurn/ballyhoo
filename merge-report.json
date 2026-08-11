@@ -65,6 +65,14 @@
       "venue": "Moda Center"
     },
     {
+      "dropped": "willamette_week:19533360@2026-08-12T19:00",
+      "kept": "dopdx:17436230",
+      "start_at": "2026-08-12T19:00:00-07:00",
+      "title_dropped": "Summer Open Court",
+      "title_kept": "Summer Open Court - Improv Jam",
+      "venue": "Curious Comedy Theater"
+    },
+    {
       "dropped": "willamette_week:19533359@2026-08-12T19:00",
       "kept": "dopdx:17436230",
       "start_at": "2026-08-12T19:00:00-07:00",
@@ -77,14 +85,6 @@
       "kept": "dopdx:17436230",
       "start_at": "2026-08-12T19:00:00-07:00",
       "title_dropped": "Indie Team Diagnostics - Level Up Your Ensemble With Direct Feedback",
-      "title_kept": "Summer Open Court - Improv Jam",
-      "venue": "Curious Comedy Theater"
-    },
-    {
-      "dropped": "willamette_week:19533360@2026-08-12T19:00",
-      "kept": "dopdx:17436230",
-      "start_at": "2026-08-12T19:00:00-07:00",
-      "title_dropped": "Summer Open Court",
       "title_kept": "Summer Open Court - Improv Jam",
       "venue": "Curious Comedy Theater"
     },
@@ -2145,6 +2145,14 @@
       "venue": "Roseland Theater"
     },
     {
+      "dropped": "willamette_week:19533360@2026-08-26T19:00",
+      "kept": "dopdx:17612925",
+      "start_at": "2026-08-26T19:00:00-07:00",
+      "title_dropped": "Summer Open Court",
+      "title_kept": "Summer Open Court - Improv Jam",
+      "venue": "Curious Comedy Theater"
+    },
+    {
       "dropped": "willamette_week:19348739@2026-08-26T19:00",
       "kept": "ticketmaster:rZ7HnEZ1AfaKpf",
       "start_at": "2026-08-26T19:00:00-07:00",
@@ -3985,9 +3993,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5478,
-  "floor_check": "5478 events against a 5478-event baseline",
-  "generated_at": "2026-08-11T07:34:41+00:00",
+  "event_count": 5480,
+  "floor_check": "5480 events against a 5478-event baseline",
+  "generated_at": "2026-08-11T07:41:21+00:00",
   "problems": [],
   "sources": [
     "calagator",

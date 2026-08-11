@@ -9225,7 +9225,7 @@
       },
       "start_at": "2026-08-12T19:00:00-07:00",
       "summary": "It's Portland’s longest running improv jam—at 7pm for the Summer! Escape the heat and join us for four jams during July & August. What happens when improvisers of all levels of skill and experience, from all different theaters and troupes, from Portland and beyond, come together to perform long-form improv comedy for each other and the audience? FUN! Everyone is welcome to play in Open Court whether you have been playing for years or have never been on a stage before in your life. Teams are picked randomly and coached by supportive, experienced improvisers from the Curious Comedy Company. We warm up in our teams and then perform for each other and the audience. Just want to watch? That’s great! No pressure to play - not ever! Curious Comedy’",
-      "ticket_url": "https://www.crowdwork.com/e/scene-intensive-improv-workshop-series-drop-in",
+      "ticket_url": "https://www.crowdwork.com/e/summer-open-court-improv-jam",
       "title": "Summer Open Court - Improv Jam",
       "venue": {
         "address": "5225 NE Martin Luther King Blvd",
@@ -56639,6 +56639,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-21T19:00:00-07:00",
+      "id": "willamette_week:19614345@2026-08-21T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FHn-T5M1o0WvUehrA-1Q8w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/slime-time-development-strategies-solutions-tickets-1997534623832",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-21T17:30:00-07:00",
+      "summary": "Brilliantly surreal and absurdly funny, Slime Time Development Strategies & Solutions brings you music, comedy, and original videos in one epic show. A creative collision crafted by Tommy Psychic-Spaghetteria and James Hartenfeld (the duo responsible for 'Catch & Release' featured in Scumdance Film Festival) this new live show is unlike anything touring in music or comedy today.",
+      "title": "SLIME TIME DEVELOPMENT STRATEGIES & SOLUTIONS",
+      "venue": {
+        "address": "803 Southeast 82nd Avenue",
+        "city": "Portland",
+        "latitude": 45.516757,
+        "longitude": -122.57931,
+        "name": "Covert Cafe"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-08-21T19:00:00-07:00",
@@ -78444,6 +78475,10 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1784171655/event-17612925.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/8/26/summer-open-court-improv-jam-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -78457,6 +78492,7 @@
       },
       "start_at": "2026-08-26T19:00:00-07:00",
       "summary": "It's Portland’s longest running improv jam—at 7pm for the Summer! Escape the heat and join us for four jams during July & August. What happens when improvisers of all levels of skill and experience, from all different theaters and troupes, from Portland and beyond, come together to perform long-form improv comedy for each other and the audience? FUN! Everyone is welcome to play in Open Court whether you have been playing for years or have never been on a stage before in your life. Teams are picked randomly and coached by supportive, experienced improvisers from the Curious Comedy Company. We warm up in our teams and then perform for each other and the audience. Just want to watch? That’s great! No pressure to play - not ever! Curious Comedy’",
+      "ticket_url": "https://www.crowdwork.com/e/summer-open-court-improv-jam",
       "title": "Summer Open Court - Improv Jam",
       "venue": {
         "address": "5225 NE Martin Luther King Blvd",
@@ -86527,6 +86563,35 @@
         "address": "14th Street between the Cornelius Public Library and Old Cornelius Elementary School, Cornelius",
         "city": "Portland",
         "name": "Cornelius Community Market"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-08-28T18:00:00-07:00",
+      "id": "willamette_week:19614353@2026-08-28T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MIwfof2CH0GRngkkfriMgQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://literary-arts.org/event/august-hand-sewing-social-with-scrap-pdx/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-28T16:00:00-07:00",
+      "summary": "Join us at The Literary Arts Bookstore & Cafe to hand-sew decorative plush to celebrate summer fruit! Sew felt cherries, strawberries, citrus slices, bananas, avocados, and more! ✨ Bring a friend! Make a friend! Grab a beverage, browse the books, and gather round to hand-sew some incredible \\(inedible\\) fruitful charms! Traceable templates & embroidery stitch print-outs provided. Self-guided & beginner-friendly. A SCRAP educator will be ready to assist newer sewists with hand-sewing basics! This is a ticketed event. Drop-ins welcome. Get tickets here.",
+      "title": "August Hand-Sewing Social with SCRAP PDX",
+      "venue": {
+        "address": "925 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5212202668,
+        "longitude": -122.6807206124,
+        "name": "Literary Arts"
       }
     },
     {
@@ -162513,5 +162578,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-11T07:34:41+00:00"
+  "generated_at": "2026-08-11T07:41:21+00:00"
 }
