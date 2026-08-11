@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T13:40:48+00:00",
+  "generated_at": "2026-08-11T13:46:51+00:00",
   "sources": [
     {
       "event_count": 26,
@@ -19,7 +19,7 @@
       "event_count": 29,
       "last_run_at": "2026-08-11T07:45:45+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
@@ -65,8 +65,8 @@
       "url": "sources/ticketmaster.json"
     },
     {
-      "event_count": 3353,
-      "last_run_at": "2026-08-11T11:59:57+00:00",
+      "event_count": 3354,
+      "last_run_at": "2026-08-11T13:45:45+00:00",
       "source_id": "willamette_week",
       "status": "ok",
       "url": "sources/willamette_week.json"
