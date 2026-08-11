@@ -151188,6 +151188,31 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:stewardship-day-glendoveer-2026-11-06",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/stewardship-day-glendoveer-2026-11-06",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-06T10:30:00-08:00",
+      "title": "Stewardship day at Glendoveer",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.53345,
+        "longitude": -122.51152,
+        "name": "Glendoveer Nature Trail"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -154035,6 +154060,31 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "McMenamins Crystal Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:stewardship-day-glendoveer-2026-11-20",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/stewardship-day-glendoveer-2026-11-20",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-20T10:30:00-08:00",
+      "title": "Stewardship day at Glendoveer",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.53345,
+        "longitude": -122.51152,
+        "name": "Glendoveer Nature Trail"
       }
     },
     {
@@ -162314,5 +162364,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-11T02:31:13+00:00"
+  "generated_at": "2026-08-11T02:33:49+00:00"
 }
