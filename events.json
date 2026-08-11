@@ -4726,35 +4726,6 @@
         "music"
       ],
       "end_at": "2026-08-12T02:00:00-07:00",
-      "id": "dopdx:17593789",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/8/11/two-step-tuesday-with-shorty-the-mustangs-and-dance-lessons-with-peggy-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 13.86,
-        "min": 13.86
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-08-11T19:30:00-07:00",
-      "summary": "7pm Doors7:30pm Dance Lessons8:30pm Band",
-      "title": "Two-Step Tuesday with Shorty & the Mustangs and Dance Lessons with Peggy",
-      "venue": {
-        "address": "1195 SE Powell Dr",
-        "city": "Portland",
-        "name": "The Showdown"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-12T02:00:00-07:00",
       "id": "dopdx:17562763",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1783376076/event-17562763.jpg",
       "is_all_day": false,
@@ -4778,6 +4749,35 @@
         "address": "1300 SE Stark St #101",
         "city": "Portland",
         "name": "Show Bar"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-12T02:00:00-07:00",
+      "id": "dopdx:17593789",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/11/two-step-tuesday-with-shorty-the-mustangs-and-dance-lessons-with-peggy-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-11T19:30:00-07:00",
+      "summary": "7pm Doors7:30pm Dance Lessons8:30pm Band",
+      "title": "Two-Step Tuesday with Shorty & the Mustangs and Dance Lessons with Peggy",
+      "venue": {
+        "address": "1195 SE Powell Dr",
+        "city": "Portland",
+        "name": "The Showdown"
       }
     },
     {
@@ -162610,5 +162610,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-11T09:34:13+00:00"
+  "generated_at": "2026-08-11T09:36:15+00:00"
 }
