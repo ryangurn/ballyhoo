@@ -3079,6 +3079,36 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-08-11T21:00:00-07:00",
+      "id": "willamette_week:18366965@2026-08-11T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Hlsvc7996kqWnoMEZoUWUg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/homemade-gnocchi-marinara-pasta-making-cooking-class-in-portland-classpoptm-tickets-1989454773783",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.86,
+        "min": 65.86
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-11T19:00:00-07:00",
+      "title": "Homemade Gnocchi Marinara - Pasta Making Cooking Class in Portland | Classpop!™",
+      "venue": {
+        "address": "10117 SE Sunnyside Rd Suite J, Clackamas",
+        "city": "Portland",
+        "latitude": 45.434037,
+        "longitude": -122.560701,
+        "name": "Cup of Tea"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:19570820@2026-08-11T19:00",
@@ -3406,36 +3436,6 @@
         "latitude": 45.484791,
         "longitude": -122.752596,
         "name": "Change Through Play: Improvisation & Training Studio"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-08-11T21:00:00-07:00",
-      "id": "willamette_week:18366965@2026-08-11T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Hlsvc7996kqWnoMEZoUWUg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/homemade-gnocchi-marinara-pasta-making-cooking-class-in-portland-classpoptm-tickets-1989454773783",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 65.86,
-        "min": 65.86
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-11T19:00:00-07:00",
-      "title": "Homemade Gnocchi Marinara - Pasta Making Cooking Class in Portland | Classpop!™",
-      "venue": {
-        "address": "10117 SE Sunnyside Rd Suite J, Clackamas",
-        "city": "Portland",
-        "latitude": 45.434037,
-        "longitude": -122.560701,
-        "name": "Cup of Tea"
       }
     },
     {
@@ -8487,6 +8487,37 @@
         "latitude": 45.505547,
         "longitude": -122.664407,
         "name": "Caruthers Landing Dock"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-13T11:30:00-07:00",
+      "id": "willamette_week:18730981@2026-08-13T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DQrcEk-U606bK2ZQN1697w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/quiet-networking-tickets-1990602450515",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-13T10:00:00-07:00",
+      "summary": "Come join us for a relaxed networking event where you can make connections in a relaxed and quiet atmosphere!",
+      "title": "Quiet Networking",
+      "venue": {
+        "address": "5441 SE Belmont St",
+        "city": "Portland",
+        "latitude": 45.516823,
+        "longitude": -122.607399,
+        "name": "TaborSpace"
       }
     },
     {
@@ -14922,6 +14953,37 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-08-14T13:00:00-07:00",
+      "id": "willamette_week:18730987@2026-08-14T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rUZP3ZHMWUS0udwDKTum5A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/community-sack-lunch-packing-for-blanchet-house-portland-tickets-1994315224522",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-14T12:00:00-07:00",
+      "summary": "Join us to pack lunches and spread some love for the folks at Blanchet House!",
+      "title": "Community Sack Lunch Packing for Blanchet House Portland",
+      "venue": {
+        "address": "9755 SW Barnes Rd",
+        "city": "Portland",
+        "latitude": 45.511795,
+        "longitude": -122.777945,
+        "name": "Keller Williams Realty Professionals - North Parking Lot"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-08-14T17:00:00-07:00",
@@ -20760,6 +20822,37 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-08-15T13:30:00-07:00",
+      "id": "willamette_week:18974131@2026-08-15T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ZdJljxY8TkGKFiLiHGEHmA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/harp-circle-jam-with-tracey-rose-brown-tickets-1987967181354",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 12.87,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T12:00:00-07:00",
+      "summary": "Play-along tune book on site, solos most welcome. Come enjoy harp company in Artichoke’s cozy cafe, a fabulous community music making space",
+      "title": "Harp Circle Jam with Tracey Rose Brown",
+      "venue": {
+        "address": "2007 SE Powell Boulevard",
+        "city": "Portland",
+        "latitude": 45.49979,
+        "longitude": -122.64544,
+        "name": "Artichoke Community Music"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-08-15T17:00:00-07:00",
       "id": "willamette_week:19599879@2026-08-15T12:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/56f47fd6-6d85-4365-9ff3-2e959abc4df6.large.png",
@@ -22045,6 +22138,36 @@
         "latitude": 45.505547,
         "longitude": -122.664407,
         "name": "Caruthers Landing Dock"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-08-15T17:30:00-07:00",
+      "id": "willamette_week:19030917@2026-08-15T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ERkygTx4YEGcPK6hz4I-Wg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/build-your-own-home-decor-paint-and-sip-in-portland-classpoptm-tickets-1989800344394",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 54.12,
+        "min": 54.12
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T15:00:00-07:00",
+      "title": "Build Your Own Home Décor - Paint and Sip in Portland | Classpop!™",
+      "venue": {
+        "address": "3522 N Vancouver Ave",
+        "city": "Portland",
+        "latitude": 45.548762,
+        "longitude": -122.667669,
+        "name": "DIY Bar"
       }
     },
     {
@@ -26472,6 +26595,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-16T16:00:00-07:00",
+      "id": "willamette_week:18979530@2026-08-16T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uVoGngJdykuTLCNbliLmXA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/songcircle-brightwell-moran-song-circle-third-sundays-in-the-venue-tickets-1987966179357",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-16T14:00:00-07:00",
+      "summary": "Jump into Artichoke Music’s Songwriters Circle hosted by Kelly Brightwell and Woody Moran!",
+      "title": "Songcircle: Brightwell & Moran Song Circle - Third Sundays in the Venue",
+      "venue": {
+        "address": "2007 SE Powell Boulevard",
+        "city": "Portland",
+        "latitude": 45.49979,
+        "longitude": -122.64544,
+        "name": "Artichoke Community Music"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-08-16T16:00:00-07:00",
@@ -26979,6 +27133,37 @@
         "latitude": 45.479840365229144,
         "longitude": -122.69410805828335,
         "name": "Hillsdale Library"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-08-16T17:30:00-07:00",
+      "id": "willamette_week:19302315@2026-08-16T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Hl6gsnYkGkiR76qPQHjxSA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/aloka-sound-lab-w-graham-slick-a-weekly-nervous-system-sound-bath-tickets-1992037469696",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 44.52,
+        "min": 28.52
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-16T16:00:00-07:00",
+      "summary": "Body, Breath, Bowls, Bliss. Join Graham at Sound Lab as he guides you through a nervous system sound and breath journey.",
+      "title": "Aloka - Sound Lab w. Graham Slick, A Weekly Nervous System Sound Bath",
+      "venue": {
+        "address": "124 SW Yamhill St",
+        "city": "Portland",
+        "latitude": 45.517076,
+        "longitude": -122.674574,
+        "name": "Yoga on Yamhill"
       }
     },
     {
@@ -31398,6 +31583,37 @@
       "categories": [
         "arts"
       ],
+      "end_at": "2026-08-18T18:15:00-07:00",
+      "id": "willamette_week:19108153@2026-08-18T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5hw5OJPIJkGTXllIk3nCYQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/sewing-machine-consultations-august-18-tickets-1992594363380",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 17.85,
+        "min": 17.85
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-18T16:00:00-07:00",
+      "summary": "Learn about your sewing machine, troubleshoot an issue, or find out how to maintain & care for your machine. All experience levels welcome!",
+      "title": "Sewing Machine Consultations",
+      "venue": {
+        "address": "5431 NE 20th Ave",
+        "city": "Portland",
+        "latitude": 45.562345,
+        "longitude": -122.645126,
+        "name": "Leaven Community Center"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "end_at": "2026-08-18T17:00:00-07:00",
       "id": "willamette_week:19504938@2026-08-18T16:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/r3IPjgu-n0isabSnwPxxig.large.png",
@@ -35564,6 +35780,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-19T21:00:00-07:00",
+      "id": "willamette_week:18672470@2026-08-19T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GnBUEJYvcUyh-lJRdRXrGg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/acoustic-village-open-mic-tickets-1990914687424",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 7.62,
+        "min": 7.62
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-19T19:00:00-07:00",
+      "summary": "Join the Acoustic Village Open Mic! Share your talent and connect with music lovers for a cozy night of acoustic magic.",
+      "title": "Acoustic Village Open Mic",
+      "venue": {
+        "address": "2007 SE Powell Boulevard",
+        "city": "Portland",
+        "latitude": 45.49979,
+        "longitude": -122.64544,
+        "name": "Artichoke Community Music"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "id": "willamette_week:19591416@2026-08-19T19:00",
@@ -38917,6 +39164,36 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-08-20T19:00:00-07:00",
+      "id": "willamette_week:19020981@2026-08-20T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mu31f1bmREerZrTUrSed_w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/make-sushi-with-chef-sarah-sushi-making-cooking-class-in-portland-classpoptm-tickets-1993351223168",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.86,
+        "min": 65.86
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-20T17:00:00-07:00",
+      "title": "Make Sushi With Chef Sarah - Sushi Making Cooking Class in Portland | Classpop!™",
+      "venue": {
+        "address": "403 SE 79th Ave",
+        "city": "Portland",
+        "latitude": 45.519489,
+        "longitude": -122.582673,
+        "name": "Threshold Brewing"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-20T21:00:00-07:00",
@@ -39703,6 +39980,69 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-20T00:00:00-07:00",
+      "id": "willamette_week:19108234@2026-08-20T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MTtFaldLrEW7IJZM4PQkOg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108418390?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 38.8,
+        "min": 22.6
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-20T19:00:00-07:00",
+      "summary": "Born and raised in the Bama clay, these boys are as southern as they come. Taught how to bend a string and break a heart by Skynyrd and Hank, brothers James and Frank Ford along with their hometown friends Andrew Davis and Ben Crain formed the southern rock band known as Them Dirty Roses. Piling into an RV they made their way from Gadsden, AL to Nashville, TN. All living all under one roof, Them Dirty Roses are living the quintessential rock and roll American Dream. Their live show calls for a shot of whiskey and a 2 for 1 special -- BUT what that really means is you better be ready to throw back 12 for 6 and get the fuck down with them Dirty boys. Vocals \\+ Guitar / James Ford Lead Guitar / Andrew Davis Bass / Ben Crain Drums / Frank Ford",
+      "ticket_url": "https://www.bandsintown.com/t/108418390?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "Them Dirty Roses",
+      "venue": {
+        "address": "10350 N Vancouver Wy",
+        "city": "Portland",
+        "latitude": 45.597461,
+        "longitude": -122.669663,
+        "name": "Ponderosa Lounge & Grill"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-08-20T21:00:00-07:00",
+      "id": "willamette_week:19377896@2026-08-20T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4smfpFdZVU-e0dnsb3tAfQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/aloka-ground-lab-w-graham-slick-a-weekly-spirit-leaf-sound-bath-ritual-tickets-1994748520522",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 44.52,
+        "min": 28.52
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-20T19:00:00-07:00",
+      "summary": "Graham guides an intentional sound bath journey through body, breath, and bowls. Come calm and settle your nervous system with us.",
+      "title": "Aloka - Ground Lab w. Graham Slick, A Weekly Spirit Leaf Sound Bath Ritual",
+      "venue": {
+        "address": "124 SW Yamhill St",
+        "city": "Portland",
+        "latitude": 45.517076,
+        "longitude": -122.674574,
+        "name": "Yoga on Yamhill"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-08-20T21:00:00-07:00",
@@ -40311,36 +40651,6 @@
         "latitude": 45.5120477825,
         "longitude": -122.6566256583,
         "name": "Helium Comedy Club"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "willamette_week:19108234@2026-08-20T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MTtFaldLrEW7IJZM4PQkOg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/them-dirty-roses-tickets-1989950783361",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 38.8,
-        "min": 22.6
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-20T20:00:00-07:00",
-      "summary": "Them Dirty Roses bring gritty Southern rock from Alabama roots to Nashville—honest songs, brotherhood, and live shows with real soul",
-      "title": "Them Dirty Roses",
-      "venue": {
-        "address": "10350 N Vancouver Wy",
-        "city": "Portland",
-        "latitude": 45.597461,
-        "longitude": -122.669663,
-        "name": "Ponderosa Lounge & Grill"
       }
     },
     {
@@ -40982,6 +41292,36 @@
         "latitude": 45.494683,
         "longitude": -122.794197,
         "name": "ACMA PTO"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19016278@2026-08-21T08:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nJD2VOfdA0-yr51aGXCKPw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/business-process-optimization-workshop-august-20-21-2026-tickets-1975355632873",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 3149.71,
+        "min": 3149.71
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-21T08:00:00-07:00",
+      "summary": "From bottleneck to free flow: Engineer the workflows that make your business unstoppable, and run predictably, like it was built on purpose.",
+      "title": "Business Process Optimization Workshop",
+      "venue": {
+        "address": "4145 Southwest Watson Avenue",
+        "city": "Beaverton",
+        "latitude": 45.489833,
+        "longitude": -122.806573,
+        "name": "Portland"
       }
     },
     {
@@ -44441,6 +44781,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19108234@2026-08-21T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MTtFaldLrEW7IJZM4PQkOg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/them-dirty-roses-tickets-1989950783361",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 38.8,
+        "min": 22.6
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-21T20:00:00-07:00",
+      "summary": "Them Dirty Roses bring gritty Southern rock from Alabama roots to Nashville—honest songs, brotherhood, and live shows with real soul!",
+      "title": "Them Dirty Roses",
+      "venue": {
+        "address": "10350 N Vancouver Wy",
+        "city": "Portland",
+        "latitude": 45.597461,
+        "longitude": -122.669663,
+        "name": "Ponderosa Lounge & Grill"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:19570934@2026-08-21T20:00",
@@ -47628,35 +47998,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "end_at": "2026-08-22T16:30:00-07:00",
-      "id": "willamette_week:18905794@2026-08-22T14:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-l2mUxbLP064eJ-DciOw8A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/citizenship-class-soar-109",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-22T14:30:00-07:00",
-      "summary": "Learn about the process of becoming a citizen. Prepare for your citizenship interview. Study United States history and government for the examination. Classes are taught in English. Registration information call 503.379.1598, ext 105, or email jstephenson@emoregon.org Clases gratuitas de Ciudadanía en persona Aprenda sobre la historia de los Estados Unidos, su gobierno y otra información importante para prepararse para el examen de Ciudadanía. Estas clases se enseñan en inglés. Para inscribirse llame al 503.379.1598, extensión 105, o escriba a jstephenson@emoregon.org 免费入籍课程 了解美国历史、政府 和其他信息，以准备 入籍考试。 英语授课 请致电 本课程以英语授课。\\(503\\) 379-1598 或 发电邮 jstephenson@emoregon.org 注册 Lớp học thi nhập quốc tịch Tìm hiểu về lịch sử và chính phủ Hoa kỳ cùng thông tin chuẩn bị thi nhập quốc tịch. Lớp học hướng dẫn bằng tiếng Anh. Để ghi danh, xin gọi 503.379.1598 hoặc gửi email cho jstephenson@emoregon.org Бесплатные классы по гражданству США Узнайте об истории и правительстве США, а также другую необходимую информацию для подготовки к экзамену на гражданство. Занятия проводятся на английском языке. Для регистрации звоните 379-1598 или отправьте электронное письмо по адресу jstephenson@emoregon.org.",
-      "title": "Citizenship Class - SOAR",
-      "venue": {
-        "address": "7905 SE Holgate Boulevard",
-        "city": "Portland",
-        "latitude": 45.490504558338586,
-        "longitude": -122.58224808281963,
-        "name": "Holgate Library"
-      }
-    },
-    {
-      "categories": [
         "food"
       ],
       "end_at": "2026-08-22T15:30:00-07:00",
@@ -47684,6 +48025,35 @@
         "latitude": 45.551955,
         "longitude": -122.675848,
         "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-08-22T16:30:00-07:00",
+      "id": "willamette_week:18905794@2026-08-22T14:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-l2mUxbLP064eJ-DciOw8A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/citizenship-class-soar-109",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T14:30:00-07:00",
+      "summary": "Learn about the process of becoming a citizen. Prepare for your citizenship interview. Study United States history and government for the examination. Classes are taught in English. Registration information call 503.379.1598, ext 105, or email jstephenson@emoregon.org Clases gratuitas de Ciudadanía en persona Aprenda sobre la historia de los Estados Unidos, su gobierno y otra información importante para prepararse para el examen de Ciudadanía. Estas clases se enseñan en inglés. Para inscribirse llame al 503.379.1598, extensión 105, o escriba a jstephenson@emoregon.org 免费入籍课程 了解美国历史、政府 和其他信息，以准备 入籍考试。 英语授课 请致电 本课程以英语授课。\\(503\\) 379-1598 或 发电邮 jstephenson@emoregon.org 注册 Lớp học thi nhập quốc tịch Tìm hiểu về lịch sử và chính phủ Hoa kỳ cùng thông tin chuẩn bị thi nhập quốc tịch. Lớp học hướng dẫn bằng tiếng Anh. Để ghi danh, xin gọi 503.379.1598 hoặc gửi email cho jstephenson@emoregon.org Бесплатные классы по гражданству США Узнайте об истории и правительстве США, а также другую необходимую информацию для подготовки к экзамену на гражданство. Занятия проводятся на английском языке. Для регистрации звоните 379-1598 или отправьте электронное письмо по адресу jstephenson@emoregon.org.",
+      "title": "Citizenship Class - SOAR",
+      "venue": {
+        "address": "7905 SE Holgate Boulevard",
+        "city": "Portland",
+        "latitude": 45.490504558338586,
+        "longitude": -122.58224808281963,
+        "name": "Holgate Library"
       }
     },
     {
@@ -48514,6 +48884,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-08-22T21:00:00-07:00",
+      "id": "willamette_week:19143824@2026-08-22T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dyZHWMWixUOrJjfxJQ5e-A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/gets-dark-comedy-show-tickets-1976686275862",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.18,
+        "min": 23.18
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T19:00:00-07:00",
+      "summary": "Portland’s darkest comedy show in Portland's darkest place, because life can be dark af, and all you can do is laugh.",
+      "title": "Gets Dark Comedy Show",
+      "venue": {
+        "address": "211 SW Ankeny St",
+        "city": "Portland",
+        "latitude": 45.5227,
+        "longitude": -122.672553,
+        "name": "Shanghai Tunnel Bar"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-08-22T21:00:00-07:00",
@@ -49275,6 +49676,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:18507478@2026-08-22T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-xoG5_QOvEaNMtuYwF6yHA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/brandon-jones-tickets-1986036376264",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.0,
+        "min": 17.2
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T21:00:00-07:00",
+      "summary": "Black Hills native Brandon Jones brings gritty vocals, high-energy shows, and a rowdy country night you won’t want to miss!",
+      "ticket_url": "https://www.bandsintown.com/t/1038519806?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "Brandon Jones",
+      "venue": {
+        "address": "10350 N Vancouver Wy",
+        "city": "Portland",
+        "latitude": 45.597461,
+        "longitude": -122.669663,
+        "name": "Ponderosa Lounge & Grill"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "id": "willamette_week:19540004@2026-08-22T21:00",
@@ -49385,36 +49817,6 @@
         "latitude": 45.5514335632,
         "longitude": -122.6758499146,
         "name": "Mississippi Studios"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-22T00:00:00-07:00",
-      "id": "willamette_week:18507478@2026-08-22T21:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-xoG5_QOvEaNMtuYwF6yHA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/1038519806?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-22T21:00:00-07:00",
-      "summary": "Black Hills native Brandon Jones brings gritty vocals, high-energy shows, and a rowdy country night you won’t want to miss!",
-      "ticket_url": "https://www.bandsintown.com/t/1038519806?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
-      "title": "Brandon Jones",
-      "venue": {
-        "address": "10350 N Vancouver Wy",
-        "city": "Portland",
-        "latitude": 45.597461,
-        "longitude": -122.669663,
-        "name": "Ponderosa Lounge & Grill"
       }
     },
     {
@@ -50219,6 +50621,37 @@
         "latitude": 45.317554,
         "longitude": -122.70586,
         "name": "Llama Walks at Frog Pond Farm"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-08-23T13:00:00-07:00",
+      "id": "willamette_week:19108146@2026-08-23T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Ga69PUv0pEOq53ssvzaxCg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/sashiko-mending-workshop-august-tickets-1993382943043",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 71.21,
+        "min": 17.85
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-23T10:00:00-07:00",
+      "summary": "Learn to mend your clothing using the traditional Japanese visible mending art of sashiko embroidery!",
+      "title": "Sashiko Mending Workshop",
+      "venue": {
+        "address": "5431 NE 20th Ave",
+        "city": "Portland",
+        "latitude": 45.562345,
+        "longitude": -122.645126,
+        "name": "Leaven Community Center"
       }
     },
     {
@@ -51264,6 +51697,67 @@
         "latitude": 45.522782,
         "longitude": -122.684751,
         "name": "McMenamins Crystal Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-08-23T15:00:00-07:00",
+      "id": "willamette_week:19108681@2026-08-23T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kiyzP0LIDEGLgSk9a_l3gA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/release-trauma-stored-in-the-body-in-this-somatic-healing-workshop-tickets-1992696624245",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.52,
+        "min": 28.52
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-23T13:00:00-07:00",
+      "summary": "Join us for a supportive and empowering space to release the trauma stored in your body, restore equilibrium, and reconnect with your self.",
+      "title": "Release Trauma Stored in the Body in this Somatic Healing Workshop",
+      "venue": {
+        "city": "Hillsboro",
+        "latitude": 45.527475,
+        "longitude": -122.931775,
+        "name": "Breathing Room Yoga + Wellness Studio"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-23T16:00:00-07:00",
+      "id": "willamette_week:19123422@2026-08-23T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/58QmYQHEJ0GDbrffdMkvOQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/jam-portland-bluegrass-sunday-jam-tickets-1987968495284",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 5.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-23T13:00:00-07:00",
+      "summary": "Come join the fun! 2nd and 4th Sundays!",
+      "title": "Jam- Portland Bluegrass Sunday Jam",
+      "venue": {
+        "address": "2007 SE Powell Boulevard",
+        "city": "Portland",
+        "latitude": 45.49979,
+        "longitude": -122.64544,
+        "name": "Artichoke Community Music"
       }
     },
     {
@@ -52967,6 +53461,36 @@
         "latitude": 45.523713,
         "longitude": -122.671727,
         "name": "Barrel Room Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:18507478@2026-08-23T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-xoG5_QOvEaNMtuYwF6yHA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/brandon-jones-tickets-1986036376264",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.0,
+        "min": 17.2
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-23T21:00:00-07:00",
+      "summary": "Black Hills native Brandon Jones brings gritty vocals, high-energy shows, and a rowdy country night you won’t want to miss!",
+      "title": "Brandon Jones",
+      "venue": {
+        "address": "10350 N Vancouver Wy",
+        "city": "Portland",
+        "latitude": 45.597461,
+        "longitude": -122.669663,
+        "name": "Ponderosa Lounge & Grill"
       }
     },
     {
@@ -55745,6 +56269,37 @@
     },
     {
       "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-08-25T19:00:00-07:00",
+      "id": "willamette_week:19108200@2026-08-25T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uQiPLsnmWEi4s8AvtUiXkw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/portland-wellness-practitioners-connect-tickets-1994113748903",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 18.0,
+        "min": 18.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-25T17:30:00-07:00",
+      "summary": "Are you a wellness & healthcare practitioner in Portland? This is a space to learn, connect, and support each other.",
+      "title": "Portland Wellness Practitioners Connect",
+      "venue": {
+        "address": "1413 Southeast Hawthorne Boulevard",
+        "city": "Portland",
+        "latitude": 45.51243,
+        "longitude": -122.65095,
+        "name": "House Nine Wellness & Tea"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-25T19:30:00-07:00",
@@ -56326,6 +56881,37 @@
         "latitude": 45.554361,
         "longitude": -122.908434,
         "name": "Hillsboro Ballpark"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "end_at": "2026-08-25T21:00:00-07:00",
+      "id": "willamette_week:19108220@2026-08-25T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/D9buAMuGnkSD_v1Cp4OSKg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/millennial-skip-the-small-talk-night-at-the-heist-tickets-1994508455481",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 19.0,
+        "min": 19.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-25T19:00:00-07:00",
+      "summary": "Meaningful conversations with strangers that don't leave you drained. We use question prompts to spark unique convos.",
+      "title": "Millennial Skip the Small Talk Night at The Heist",
+      "venue": {
+        "address": "4727 Southeast Woodstock Boulevard",
+        "city": "Portland",
+        "latitude": 45.479557,
+        "longitude": -122.613843,
+        "name": "The Heist Bar & Food Carts"
       }
     },
     {
@@ -58704,6 +59290,37 @@
         "latitude": 45.751627,
         "longitude": -122.598601,
         "name": "Manor Evangelical Church"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-26T19:30:00-07:00",
+      "id": "willamette_week:18729817@2026-08-26T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v28eD2qMJEuBNQRG39MIlw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/networking-at-meraki-tickets-1993381355294",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 19.44,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-26T18:00:00-07:00",
+      "summary": "This networking group is designed to connect and inspire all types of entrepreneurs, professionals and creatives.",
+      "title": "Networking at Meraki",
+      "venue": {
+        "address": "1610 C Street, ## 103",
+        "city": "Vancouver",
+        "latitude": 45.633766,
+        "longitude": -122.669674,
+        "name": "Méraki Collective / Body Vitality"
       }
     },
     {
@@ -64830,6 +65447,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-28T14:00:00-07:00",
+      "id": "willamette_week:19548081@2026-08-28T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/WBtiTnGeRk6pvQ9-FP9CFg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/community-song-circle-a-coffee-and-a-song-fourth-fridays-noon-tickets-1987966244552",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-28T12:00:00-07:00",
+      "summary": "Join us for \"A Blending of Artichoke Music Communities\", a monthly song circle open to all, hosted by Soliders Songs and Voices PDX.",
+      "title": "Community Song Circle, \"A Coffee and a Song\". Fourth Fridays @ Noon!",
+      "venue": {
+        "address": "2007 SE Powell Boulevard",
+        "city": "Portland",
+        "latitude": 45.49979,
+        "longitude": -122.64544,
+        "name": "Artichoke Community Music"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-08-28T21:00:00-07:00",
@@ -66965,6 +67613,37 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:19173841@2026-08-28T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/acOfXABma0KwXYY_r2IYsg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/cheyenne-west-tickets-1991710197817",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.0,
+        "min": 17.2
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-28T21:00:00-07:00",
+      "summary": "Nashville's Cheyenne West brings country-rock fire, powerhouse vocals, and high-energy shows that keep fans coming back for more",
+      "ticket_url": "https://www.bandsintown.com/t/1039347972?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "Cheyenne West",
+      "venue": {
+        "address": "10350 N Vancouver Wy",
+        "city": "Portland",
+        "latitude": 45.597461,
+        "longitude": -122.669663,
+        "name": "Ponderosa Lounge & Grill"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:19428246@2026-08-28T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CVnfJBLNt0Wk2tONRskf2g.large.png",
       "is_all_day": false,
@@ -67017,36 +67696,6 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "willamette_week:19173841@2026-08-28T21:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/acOfXABma0KwXYY_r2IYsg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/cheyenne-west-tickets-1991710197817",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 28.0,
-        "min": 17.2
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-28T21:00:00-07:00",
-      "summary": "Nashville's Cheyenne West brings country-rock fire, powerhouse vocals, and high-energy shows that keep fans coming back for more",
-      "title": "Cheyenne West",
-      "venue": {
-        "address": "10350 N Vancouver Wy",
-        "city": "Portland",
-        "latitude": 45.597461,
-        "longitude": -122.669663,
-        "name": "Ponderosa Lounge & Grill"
       }
     },
     {
@@ -67941,6 +68590,37 @@
         "latitude": 45.317554,
         "longitude": -122.70586,
         "name": "Llama Walks at Frog Pond Farm"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-29T12:30:00-07:00",
+      "id": "willamette_week:18911237@2026-08-29T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mkLpDxJ9QUO6NEwctq3MWA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/learn-to-darn-august-tickets-1993498385334",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 55.2,
+        "min": 12.51
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T10:00:00-07:00",
+      "summary": "Join us for a hands-on class where you will learn several darning methods for repairing holes so you can keep wearing your favorite clothes!",
+      "title": "Learn to Darn",
+      "venue": {
+        "address": "5431 NE 20th Ave",
+        "city": "Portland",
+        "latitude": 45.562345,
+        "longitude": -122.645126,
+        "name": "Leaven Community Center"
       }
     },
     {
@@ -69135,6 +69815,37 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-08-29T17:00:00-07:00",
+      "id": "willamette_week:19108148@2026-08-29T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Ut96_wmIw0KixbC_zx-Mrg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/diy-mending-august-tickets-1997155505880",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 71.21,
+        "min": 23.18
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T14:00:00-07:00",
+      "summary": "Join us for personalized advice and hands-on help with mending your treasured textiles!",
+      "title": "DIY Mending",
+      "venue": {
+        "address": "5431 NE 20th Ave",
+        "city": "Portland",
+        "latitude": 45.562345,
+        "longitude": -122.645126,
+        "name": "Leaven Community Center"
       }
     },
     {
@@ -70898,6 +71609,66 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "id": "willamette_week:19108239@2026-08-29T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/oVq-8EP-yEiaCzYVaoZxDw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/brandon-hartt-presents-the-cowboy-kickback-tickets-1990898796895",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 44.2,
+        "min": 22.6
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T21:00:00-07:00",
+      "summary": "Kick back with three authentic country acts bringing twang, storytelling and cowboy grit to the Pondo stage",
+      "title": "Brandon Hartt Presents The Cowboy Kickback",
+      "venue": {
+        "address": "10350 N Vancouver Wy",
+        "city": "Portland",
+        "latitude": 45.597461,
+        "longitude": -122.669663,
+        "name": "Ponderosa Lounge & Grill"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19173841@2026-08-29T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/acOfXABma0KwXYY_r2IYsg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/cheyenne-west-tickets-1991710197817",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.0,
+        "min": 17.2
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T21:00:00-07:00",
+      "summary": "Nashville's Cheyenne West brings country-rock fire, powerhouse vocals, and high-energy shows that keep fans coming back for more!",
+      "title": "Cheyenne West",
+      "venue": {
+        "address": "10350 N Vancouver Wy",
+        "city": "Portland",
+        "latitude": 45.597461,
+        "longitude": -122.669663,
+        "name": "Ponderosa Lounge & Grill"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-30T02:00:00-07:00",
@@ -70926,36 +71697,6 @@
         "latitude": 45.513423,
         "longitude": -122.663157,
         "name": "Wonderlove"
-      }
-    },
-    {
-      "categories": [
-        "literary"
-      ],
-      "id": "willamette_week:19108239@2026-08-29T21:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/oVq-8EP-yEiaCzYVaoZxDw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/brandon-hartt-presents-the-cowboy-kickback-tickets-1990898796895",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 44.2,
-        "min": 22.6
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-29T21:00:00-07:00",
-      "summary": "Kick back with three authentic country acts bringing twang, storytelling and cowboy grit to the Pondo stage",
-      "title": "Brandon Hartt Presents The Cowboy Kickback",
-      "venue": {
-        "address": "10350 N Vancouver Wy",
-        "city": "Portland",
-        "latitude": 45.597461,
-        "longitude": -122.669663,
-        "name": "Ponderosa Lounge & Grill"
       }
     },
     {
@@ -74388,6 +75129,36 @@
         "latitude": 45.5230448395,
         "longitude": -122.6738762856,
         "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "id": "willamette_week:19108239@2026-08-30T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/oVq-8EP-yEiaCzYVaoZxDw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/brandon-hartt-presents-the-cowboy-kickback-tickets-1990898796895",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 44.2,
+        "min": 22.6
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-30T21:00:00-07:00",
+      "summary": "Kick back with three authentic country acts bringing twang, storytelling and cowboy grit to the Pondo stage!",
+      "title": "Brandon Hartt Presents The Cowboy Kickback",
+      "venue": {
+        "address": "10350 N Vancouver Wy",
+        "city": "Portland",
+        "latitude": 45.597461,
+        "longitude": -122.669663,
+        "name": "Ponderosa Lounge & Grill"
       }
     },
     {
@@ -77871,6 +78642,36 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-09-01T21:00:00-07:00",
+      "id": "willamette_week:18366956@2026-09-01T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KGY4W8l5r0GZFedtT9Cz4A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/the-art-of-handcrafted-sushi-sushi-making-cooking-class-in-portland-classpoptm-tickets-1991038282099",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.86,
+        "min": 65.86
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-01T19:00:00-07:00",
+      "title": "The Art of Handcrafted Sushi - Sushi Making Cooking Class in Portland | Classpop!™",
+      "venue": {
+        "address": "10117 SE Sunnyside Rd Suite J, Clackamas",
+        "city": "Portland",
+        "latitude": 45.434037,
+        "longitude": -122.560701,
+        "name": "Cup of Tea"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "end_at": "2026-09-01T21:00:00-07:00",
@@ -79663,6 +80464,37 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-09-02T21:00:00-07:00",
+      "id": "willamette_week:18694683@2026-09-02T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_Lfk7fJVrEWtg91kalCMJw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/open-mic-for-teens-and-young-adults-tickets-1996478691510",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-02T19:00:00-07:00",
+      "summary": "This FREE Open Mic, hosted by Katy Ohsiek \\(Foamboy\\), is only for teens and young adults.",
+      "title": "Open Mic for Teens and Young Adults",
+      "venue": {
+        "address": "2007 SE Powell Boulevard",
+        "city": "Portland",
+        "latitude": 45.49979,
+        "longitude": -122.64544,
+        "name": "Artichoke Community Music"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-02T21:00:00-07:00",
@@ -79959,6 +80791,37 @@
         "latitude": 45.51905500749822,
         "longitude": -122.65214632802947,
         "name": "Show Bar"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-09-02T22:30:00-07:00",
+      "id": "willamette_week:19072619@2026-09-02T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iga1ADUqGkyAgziyzkBmaw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/house-of-danger-tickets-1996919704592",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.52,
+        "min": 17.85
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-02T20:00:00-07:00",
+      "summary": "A Queer Wrestling Variety Show",
+      "title": "HOUSE OF DANGER",
+      "venue": {
+        "address": "727 SE Grand Ave",
+        "city": "Portland",
+        "latitude": 45.517495,
+        "longitude": -122.661024,
+        "name": "Swan Dive"
       }
     },
     {
@@ -81831,6 +82694,37 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-09-03T21:00:00-07:00",
+      "id": "willamette_week:19108182@2026-09-03T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ErQ2UrVNHUG1hrrscv8tHQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/gabbys-supper-club-sep-3-tickets-1992031290213",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 95.0,
+        "min": 95.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-03T18:00:00-07:00",
+      "summary": "Our monthly supper club meeting featuring five, hyper-seasonal Italian-American courses.",
+      "title": "Gabby's Supper Club",
+      "venue": {
+        "address": "5425 Northeast 30th Avenue",
+        "city": "Portland",
+        "latitude": 45.562398,
+        "longitude": -122.635083,
+        "name": "Gabby's Next Door"
       }
     },
     {
@@ -85939,6 +86833,36 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:19108241@2026-09-04T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/WV1LEXVsAkayf5i6qmeSyw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/twain-tribute-the-shania-experience-tickets-1990890245317",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 38.8,
+        "min": 22.6
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-04T21:00:00-07:00",
+      "summary": "Feel like a woman! Experience the hits, style, and star power of Shania Twain in this high-energy tribute show",
+      "title": "Twain Tribute: The Shania Experience",
+      "venue": {
+        "address": "10350 N Vancouver Wy",
+        "city": "Portland",
+        "latitude": 45.597461,
+        "longitude": -122.669663,
+        "name": "Ponderosa Lounge & Grill"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:19449605@2026-09-04T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ydSAG2ugFkyQRSfXEGsVlg.large.png",
       "is_all_day": false,
@@ -85990,36 +86914,6 @@
         "latitude": 45.5230448395,
         "longitude": -122.6738762856,
         "name": "Dante's"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:19108241@2026-09-04T21:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/WV1LEXVsAkayf5i6qmeSyw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/twain-tribute-the-shania-experience-tickets-1990890245317",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 38.8,
-        "min": 22.6
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-04T21:00:00-07:00",
-      "summary": "Feel like a woman! Experience the hits, style, and star power of Shania Twain in this high-energy tribute show",
-      "title": "Twain Tribute: The Shania Experience",
-      "venue": {
-        "address": "10350 N Vancouver Wy",
-        "city": "Portland",
-        "latitude": 45.597461,
-        "longitude": -122.669663,
-        "name": "Ponderosa Lounge & Grill"
       }
     },
     {
@@ -89090,6 +89984,36 @@
         "latitude": 45.500705719,
         "longitude": -122.6545333862,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19108241@2026-09-05T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/WV1LEXVsAkayf5i6qmeSyw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/twain-tribute-the-shania-experience-tickets-1990890245317",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 38.8,
+        "min": 22.6
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-05T21:00:00-07:00",
+      "summary": "Feel like a woman! Experience the hits, style, and star power of Shania Twain in this high-energy tribute show.",
+      "title": "Twain Tribute: The Shania Experience",
+      "venue": {
+        "address": "10350 N Vancouver Wy",
+        "city": "Portland",
+        "latitude": 45.597461,
+        "longitude": -122.669663,
+        "name": "Ponderosa Lounge & Grill"
       }
     },
     {
@@ -93799,6 +94723,37 @@
     },
     {
       "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-09-08T00:00:00-07:00",
+      "id": "willamette_week:18843264@2026-09-08T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jUOo_iaFbU-1xHmF-IyvMQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/healing-sound-bath-tickets-1994238683586",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.96,
+        "min": 23.96
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-08T18:30:00-07:00",
+      "summary": "Join us for an intentional gathering designed to soothe the stress, melt tension and rejuvenate spirits.",
+      "title": "Healing Sound Bath",
+      "venue": {
+        "address": "100 East 19th Street, #suit 500",
+        "city": "Vancouver",
+        "latitude": 45.635779,
+        "longitude": -122.67115,
+        "name": "Fern and Fae Massage Community Space"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-09-08T19:15:00-07:00",
@@ -93853,6 +94808,36 @@
         "latitude": 45.5212202668,
         "longitude": -122.6807206124,
         "name": "Literary Arts"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-09-08T21:00:00-07:00",
+      "id": "willamette_week:18366965@2026-09-08T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Hlsvc7996kqWnoMEZoUWUg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/homemade-gnocchi-marinara-pasta-making-cooking-class-in-portland-classpoptm-tickets-1991674457918",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.86,
+        "min": 65.86
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-08T19:00:00-07:00",
+      "title": "Homemade Gnocchi Marinara - Pasta Making Cooking Class in Portland | Classpop!™",
+      "venue": {
+        "address": "10117 SE Sunnyside Rd Suite J, Clackamas",
+        "city": "Portland",
+        "latitude": 45.434037,
+        "longitude": -122.560701,
+        "name": "Cup of Tea"
       }
     },
     {
@@ -98925,7 +99910,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-11T16:13:46+00:00",
+  "generated_at": "2026-08-11T17:15:15+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
