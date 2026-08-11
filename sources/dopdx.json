@@ -1542,6 +1542,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-12T20:00:00-07:00",
+      "id": "dopdx:17717760",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786481518/event-17717760.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/12/portland-psychedelic-society-s-find-your-facilitator-educational-event-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-12T18:00:00-07:00",
+      "summary": "Find Your Facilitator Meet local facilitators. Ask questions. Make informed decisions. Thinking about working with a psychedelic facilitator - but not sure where to begin? Join Portland Psychedelic Society for an interactive evening designed to help you better understand Oregon's facilitator landscape and connect directly with licensed professionals in a welcoming, educational setting. The evening begins with a short presentation covering what psychedelic facilitators do, how Oregon's regulated program works, what training and ethical standards to look for, and the questions everyone should consider before choosing someone to support their journey. Then, you'll have the opportunity to meet one-on-one with facilitators from across the Portla",
+      "title": "Portland Psychedelic Society's \"Find Your Facilitator\" Educational Event",
+      "venue": {
+        "address": "2505 NE Pacific St.",
+        "city": "Portland",
+        "name": "The Haven"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-13T02:00:00-07:00",
@@ -6077,6 +6106,36 @@
         "address": "2012 SE Hawthorne",
         "city": "Portland",
         "name": "Cinemagic Theater"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-15T21:00:00-07:00",
+      "id": "dopdx:17717719",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786480541/event-17717719.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/15/the-hatch-ride-in-tickets",
+      "organizer": "Big Cat Motor Club presents:",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-15T17:00:00-07:00",
+      "summary": "Roll up. Kickstands down. Good times ahead. Get your best leather jacket out and your dancin’ boots on. We’re getting together for an evening of motorcycles, food, music, vendors, and good people. Joining us: • Tattoos by Sol Rojas • Vintage clothing from Dadbod Vintage • Tintype portraits by Liz • Food from Hen Haus • Ice cream from Half Pint Ice Cream Co. • DJ set by Family Julez • Beer, cider, seltzer, and NA options It’s rockabilly themed, so dust off your leathers and 1950s-inspired clothes and wear them if you have them. Ride in, show up, bring your friends and family, and come enjoy good times with great company. Community is the point. Motorcycles are the excuse.",
+      "title": "The Hatch Ride In",
+      "venue": {
+        "address": "310 SE Stephens St, Suite C",
+        "city": "Portland",
+        "name": "Hatch Motorcycle Collective"
       }
     },
     {
@@ -32154,7 +32213,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-11T19:40:11+00:00",
+  "generated_at": "2026-08-11T21:25:38+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
