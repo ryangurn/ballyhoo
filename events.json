@@ -141482,6 +141482,34 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:Z7r9jZ1AAZJ_z",
+      "image_url": "https://s1.ticketm.net/dam/a/ffd/0946eed0-8c29-45ac-aec1-1960b603effd_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZJ_z",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-01T19:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZJ_z",
+      "title": "Mike D",
+      "venue": {
+        "address": "1332  West Burnside St",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "McMenamins Crystal Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:vvG1HZ_72b4Eji",
       "image_url": "https://s1.ticketm.net/dam/a/4f6/59d763b4-53ac-4ffd-be3f-a33345d7f4f6_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -148163,6 +148191,37 @@
         "latitude": 45.543999,
         "longitude": -122.643501,
         "name": "Wonder Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1A4Zt-S",
+      "image_url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/the-alex-hamburger-and-jos-jack-london-revue-tickets/15029873",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 237.39,
+        "min": 31.39
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-18T20:00:00-07:00",
+      "summary": "The Alex Hamburger and José Luiz Martins DuoSould Out Presents: The Alex Hamburger and Jos Luiz Martins DuoDoors: 7:00pmShow: 8:00pmAges 21+JLR Seating Map Notes: For this show, you may reserve individual tables on the map pictured. Note that some tables have limited sightlines as noted. General Admission ticket holders note that seating and sightlines are limted and may be standing room only. All table reservations include admission.Instructions: For Table Reservations: Note the relative location of the stage and bar on the map. Then click a table number to see prices, or click Show All Tickets. Click the + button to add a specific table to your cart. For General Admission tickets: click the GA Standing area. Click the + button to add additional tickets.Click Agree",
+      "ticket_url": "https://www.ticketweb.com/event/the-alex-hamburger-and-jos-jack-london-revue-tickets/15029873",
+      "title": "The Alex Hamburger and José Luiz Martins Duo",
+      "venue": {
+        "address": "529 SW 4th Ave.",
+        "city": "Portland",
+        "latitude": 45.519452,
+        "longitude": -122.676291,
+        "name": "Jack London Revue"
       }
     },
     {
@@ -163944,5 +164003,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-11T17:44:24+00:00"
+  "generated_at": "2026-08-11T18:07:04+00:00"
 }
