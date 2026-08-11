@@ -156930,6 +156930,38 @@
     },
     {
       "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-09T19:00:00-08:00",
+      "id": "pdxparent_markets:peoples-farmers-market@2026-12-09",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People’s Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "pdxparent_markets",
+        "name": "PDX Parent",
+        "url": "https://pdxparent.com"
+      },
+      "start_at": "2026-12-09T14:00:00-08:00",
+      "summary": "Wednesdays, 2-7 pm (Winter hours 2-6 pm)",
+      "title": "People’s Farmers Market",
+      "venue": {
+        "address": "3029 SE 21st Ave.",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People’s Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:supportive-housing-services-regional-policy-and-oversight-committee-meeting-2026-12-09",
@@ -162578,5 +162610,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-11T07:58:43+00:00"
+  "generated_at": "2026-08-11T07:59:41+00:00"
 }
