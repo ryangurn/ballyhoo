@@ -852,7 +852,7 @@
       ],
       "end_at": "2026-08-11T13:00:00-07:00",
       "id": "willamette_week:19556539@2026-08-11T11:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c537856d-867f-43e4-8bdd-b49297ef9405.large.png",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/90554c9b-e4e9-4ddd-baa0-4b4ee7f02adc.large.png",
       "is_all_day": false,
       "listing_url": "https://www.facebook.com/events/1754923748834138/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
       "price": {
@@ -868,11 +868,11 @@
       "summary": "Aug 11 - Rocket Launch Lab 3...2...1... Blast off! Join us for the grand finale of Kids Summer Playdates as we launch into an exciting world of science, creativity, and discovery. Rocket Launch Lab invites young astronauts, scientists, and explorers to experiment, create, and imagine what lies beyond the stars. From sensory experiences to hands-on STEM-inspired activities, this space-themed adventure is the perfect way to end an unforgettable summer. Activities Include: Space Craft Workshop Galaxy Slime Station Space Sensory Bottles ⚗️ Space Experiment Lab Prepare for an out-of-this-world experience that's sure to spark curiosity and inspire future explorers! For more information, visit our website: https://www.shopvancouvermall.com/event/40890-playdate-rocket-launch-lab",
       "title": "Kids Summer Playdate I Rocket Launch Lab",
       "venue": {
-        "address": "8700 NE Vancouver Mall Dr",
+        "address": "8700 NE Vancouver Mall Drive",
         "city": "Vancouver",
-        "latitude": 45.658169,
-        "longitude": -122.583609,
-        "name": "Vancouver Mall North Parking Lots"
+        "latitude": 45.657999,
+        "longitude": -122.584331,
+        "name": "Vancouver Mall SE Parking Lot"
       }
     },
     {
@@ -38263,6 +38263,37 @@
         "latitude": 45.505547,
         "longitude": -122.664407,
         "name": "Caruthers Landing Dock"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-20T20:00:00-07:00",
+      "id": "willamette_week:19615002@2026-08-20T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bKm6T-zWsEejL8IO7EI8vQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://www.pdxhiphopweek.com",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-20T15:00:00-07:00",
+      "summary": "PDX Hip Hop Week 2026: Block Party Kick-Off Kick off PDX Hip Hop Week 2026 with an afternoon of music, community, and celebration on the steps of Portland City Hall. This free, all-ages block party brings Portland’s Hip Hop community together for live performances, DJs, and good vibes in the heart of downtown. Featuring live performances by Mighty, Tia P, and Mikey Vegas, hosted by DJ O.G.ONE and DJ Klyph, with special guest DJs Jumbo, Mixmasta KD, The Mighty Juggernaut, and more. Come celebrate the artists, DJs, and community that continue to make Portland Hip Hop what it is. Thursday, August 20, 3–8 pm Portland City Hall — Steps Free • All Ages",
+      "title": "PDX Hip Hop Week Block Party Kick Off",
+      "venue": {
+        "address": "1221 SW 4th Ave #110",
+        "city": "Portland",
+        "latitude": 45.514831,
+        "longitude": -122.67903,
+        "name": "Portland City Hall"
       }
     },
     {
@@ -98800,7 +98831,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-11T11:59:57+00:00",
+  "generated_at": "2026-08-11T13:45:45+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
