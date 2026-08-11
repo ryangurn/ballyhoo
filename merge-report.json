@@ -3585,6 +3585,22 @@
       "venue": "Funhouse Lounge"
     },
     {
+      "dropped": "dopdx:17716461",
+      "kept": "ticketmaster:rZ7HnEZ1AfvKe7",
+      "start_at": "2026-09-05T23:30:00-07:00",
+      "title_dropped": "Smash Disco~Glam~Metal~Punk-Hiphop",
+      "title_kept": "SMASH disco~glam~metal~punk-hiphop",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:18893389@2026-09-05T23:30",
+      "kept": "dopdx:17716461",
+      "start_at": "2026-09-05T23:30:00-07:00",
+      "title_dropped": "SMASH disco~glam~metal~punk-hiphop",
+      "title_kept": "Smash Disco~Glam~Metal~Punk-Hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "dopdx:16843347",
       "kept": "ticketmaster:Z7r9jZ1A7Ox_p",
       "start_at": "2026-09-06T13:00:00-07:00",
@@ -3711,6 +3727,14 @@
       "title_dropped": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
       "title_kept": "CHURCH OF HIVE",
       "venue": "Star Theater"
+    },
+    {
+      "dropped": "dopdx:17716462",
+      "kept": "ticketmaster:rZ7HnEZ1AfFYr7",
+      "start_at": "2026-09-06T22:00:00-07:00",
+      "title_dropped": "Sinferno Cabaret",
+      "title_kept": "SINFERNO CABARET",
+      "venue": "Dante's"
     },
     {
       "dropped": "dopdx:17528303",
@@ -3961,14 +3985,6 @@
       "venue": "Dante's"
     },
     {
-      "dropped": "willamette_week:18893389@2026-09-05T23:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfvKe7",
-      "start_at": "2026-09-05T23:30:00-07:00",
-      "title_dropped": "SMASH disco~glam~metal~punk-hiphop",
-      "title_kept": "SMASH disco~glam~metal~punk-hiphop",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:17586570@2026-09-07T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AKPwk7",
       "start_at": "2026-09-07T21:00:00-07:00",
@@ -4009,9 +4025,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5527,
-  "floor_check": "5527 events against a 5491-event baseline",
-  "generated_at": "2026-08-11T18:29:01+00:00",
+  "event_count": 5532,
+  "floor_check": "5532 events against a 5491-event baseline",
+  "generated_at": "2026-08-11T18:32:04+00:00",
   "problems": [],
   "sources": [
     "calagator",
