@@ -3905,14 +3905,6 @@
       "venue": "Kenton Farmers Market"
     },
     {
-      "dropped": "willamette_week:17586570@2026-08-10T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPw7V",
-      "start_at": "2026-08-10T21:00:00-07:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:18893389@2026-08-15T23:30",
       "kept": "ticketmaster:rZ7HnEZ1AfvK7f",
       "start_at": "2026-08-15T23:30:00-07:00",
@@ -3953,6 +3945,30 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:18893395@2026-09-10T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af0v7S",
+      "start_at": "2026-09-10T19:00:00-07:00",
+      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19061507@2026-09-10T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af0kZK",
+      "start_at": "2026-09-10T20:00:00-07:00",
+      "title_dropped": "BLACK UHURU with Trinity Sound",
+      "title_kept": "BLACK UHURU with Coloso and Trinity Sound",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:19436719@2026-09-10T20:00",
+      "kept": "ticketmaster:Z7r9jZ1A7PsF-",
+      "start_at": "2026-09-10T20:00:00-07:00",
+      "title_dropped": "RAAHiiM & Isaiah Falls",
+      "title_kept": "Isaiah Falls w/ RAAHiiM",
+      "venue": "Hawthorne Theatre"
+    },
+    {
       "dropped": "willamette_week:19586744@2026-08-23T18:30",
       "kept": "ticketmaster:rZ7HnEZ1A4ZduK",
       "start_at": "2026-08-23T19:00:00-07:00",
@@ -3961,9 +3977,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5456,
-  "floor_check": "5456 events against a 5443-event baseline",
-  "generated_at": "2026-08-11T02:26:15+00:00",
+  "event_count": 5471,
+  "floor_check": "5471 events against a 5445-event baseline",
+  "generated_at": "2026-08-11T02:31:13+00:00",
   "problems": [],
   "sources": [
     "calagator",
