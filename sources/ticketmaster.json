@@ -4,37 +4,6 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:rZ7HnEZ1AfaFrf",
-      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/square-dancing-showdown-saloon-tickets/14248794",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 15.92,
-        "min": 15.92
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-10T19:00:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/square-dancing-showdown-saloon-tickets/14248794",
-      "title": "Square Dancing",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
-        "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "id": "ticketmaster:rZ7HnEZ1AKPw7V",
       "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -17071,6 +17040,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1A4ZEeK",
+      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/chris-acker-showdown-saloon-tickets/15027093",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.16,
+        "min": 25.16
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-14T20:00:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/chris-acker-showdown-saloon-tickets/15027093",
+      "title": "Chris Acker",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A70KOY",
       "image_url": "https://s1.ticketm.net/dam/a/be9/d489e4b1-e026-4066-90d0-44a4637fcbe9_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -23374,7 +23374,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-10T23:49:32+00:00",
+  "generated_at": "2026-08-11T02:25:36+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
