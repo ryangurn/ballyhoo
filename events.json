@@ -133610,6 +133610,25 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:free-parking-day-metro-parks-2026-09-17",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/free-parking-day-metro-parks-2026-09-17",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-09-17T07:00:00-07:00",
+      "title": "Free parking day at Metro parks"
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:joint-policy-advisory-committee-transportation-meeting-2026-09-17",
@@ -148210,6 +148229,31 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:2026-10-24",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/2026-10-24",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-24T09:00:00-07:00",
+      "title": "Household hazardous waste neighborhood collection event",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.53035,
+        "longitude": -122.83334,
+        "name": "Sunset Presbyterian Church"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -155996,6 +156040,25 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:transportation-policy-alternatives-committee-meeting-2026-12-04",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/transportation-policy-alternatives-committee-meeting-2026-12-04",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-12-04T09:00:00-08:00",
+      "title": "Transportation Policy Alternatives Committee meeting"
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -162693,5 +162756,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-12T15:18:24+00:00"
+  "generated_at": "2026-08-12T15:26:39+00:00"
 }
