@@ -737,6 +737,14 @@
       "venue": "Portland International Raceway"
     },
     {
+      "dropped": "willamette_week:19474410@2026-08-15T17:00",
+      "kept": "dopdx:17718461",
+      "start_at": "2026-08-15T17:00:00-07:00",
+      "title_dropped": "Tits Up Presents",
+      "title_kept": "Tits Up Talent Showcase",
+      "venue": "Alberta Street Pub"
+    },
+    {
       "dropped": "dopdx:16843345",
       "kept": "ticketmaster:Z7r9jZ1A7Ox_K",
       "start_at": "2026-08-15T17:45:00-07:00",
@@ -871,6 +879,14 @@
       "title_dropped": "Barnaby Jones with Nervous State, Too Close for Comfort, Interstate, & The Kieth's",
       "title_kept": "BARNABY JONES with Nervous State, Too Close For Comfort, Innerstate, & The Kieth's",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19570858@2026-08-15T20:00",
+      "kept": "dopdx:17718462",
+      "start_at": "2026-08-15T20:00:00-07:00",
+      "title_dropped": "Video Goth Dance Night",
+      "title_kept": "Video Goth Night",
+      "venue": "Alberta Street Pub"
     },
     {
       "dropped": "willamette_week:18371068@2026-08-15T20:00",
@@ -2391,6 +2407,14 @@
       "title_dropped": "Vibrational Wellness: A Sound Bath Immersion Meditation",
       "title_kept": "Vibrational Wellness: Sound Bath Meditation",
       "venue": "The Goldsmith Blocks"
+    },
+    {
+      "dropped": "willamette_week:17962662@2026-08-29T17:03",
+      "kept": "ticketmaster:Z7r9jZ1A7Qvb9",
+      "start_at": "2026-08-29T17:03:00-07:00",
+      "title_dropped": "Tri-City Dust Devils at Hillsboro Hops",
+      "title_kept": "Hillsboro Hops vs. Tri-City Dust Devils",
+      "venue": "Hillsboro Ballpark"
     },
     {
       "dropped": "willamette_week:19332494@2026-08-29T18:00",
@@ -3961,14 +3985,6 @@
       "venue": "Dante's"
     },
     {
-      "dropped": "willamette_week:17962662@2026-08-29T17:03",
-      "kept": "ticketmaster:Z7r9jZ1A7Qvb9",
-      "start_at": "2026-08-29T17:03:00-07:00",
-      "title_dropped": "Tri-City Dust Devils at Hillsboro Hops",
-      "title_kept": "Hillsboro Hops vs. Tri-City Dust Devils",
-      "venue": "Hillsboro Ballpark"
-    },
-    {
       "dropped": "willamette_week:18893389@2026-08-29T23:30",
       "kept": "ticketmaster:rZ7HnEZ1Afv3x7",
       "start_at": "2026-08-29T23:30:00-07:00",
@@ -4041,9 +4057,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5487,
-  "floor_check": "5487 events against a 5482-event baseline",
-  "generated_at": "2026-08-12T17:33:56+00:00",
+  "event_count": 5533,
+  "floor_check": "5533 events against a 5482-event baseline",
+  "generated_at": "2026-08-12T17:35:34+00:00",
   "problems": [],
   "sources": [
     "calagator",
