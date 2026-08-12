@@ -2905,6 +2905,14 @@
       "venue": "Swan Dive"
     },
     {
+      "dropped": "willamette_week:19620726@2026-09-02T21:00",
+      "kept": "dopdx:17451623",
+      "start_at": "2026-09-02T21:00:00-07:00",
+      "title_dropped": "Wednesday Wubs",
+      "title_kept": "Wednesday Wubs",
+      "venue": "Barrel Room Portland"
+    },
+    {
       "dropped": "dopdx:17595285",
       "kept": "ticketmaster:Z7r9jZ1A7JFAI",
       "start_at": "2026-09-03T19:00:00-07:00",
@@ -3761,6 +3769,14 @@
       "venue": "Star Theater"
     },
     {
+      "dropped": "willamette_week:19620726@2026-09-09T21:00",
+      "kept": "dopdx:17451624",
+      "start_at": "2026-09-09T21:00:00-07:00",
+      "title_dropped": "Wednesday Wubs",
+      "title_kept": "Wednesday Wubs",
+      "venue": "Barrel Room Portland"
+    },
+    {
       "dropped": "willamette_week:18602719@2026-09-10T19:00",
       "kept": "dopdx:16977304",
       "start_at": "2026-09-10T19:00:00-07:00",
@@ -4025,9 +4041,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5482,
-  "floor_check": "5482 events against a 5479-event baseline",
-  "generated_at": "2026-08-12T15:42:03+00:00",
+  "event_count": 5485,
+  "floor_check": "5485 events against a 5479-event baseline",
+  "generated_at": "2026-08-12T16:14:10+00:00",
   "problems": [],
   "sources": [
     "calagator",
