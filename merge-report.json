@@ -113,6 +113,30 @@
       "venue": "Portland International Raceway"
     },
     {
+      "dropped": "dopdx:17600841",
+      "kept": "ticketmaster:rZ7HnEZ1Af-xaN",
+      "start_at": "2026-08-20T19:00:00-07:00",
+      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19013731@2026-08-20T19:00",
+      "kept": "dopdx:17600841",
+      "start_at": "2026-08-20T19:00:00-07:00",
+      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19012546@2026-08-20T19:30",
+      "kept": "dopdx:17358747",
+      "start_at": "2026-08-20T19:30:00-07:00",
+      "title_dropped": "Special Event: Aries Spears",
+      "title_kept": "Aries Spears",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:18518540@2026-08-27T18:00",
       "kept": "dopdx:17188664",
       "start_at": "2026-08-27T18:00:00-07:00",
@@ -1263,30 +1287,6 @@
       "title_dropped": "Allen Stone & The Dip at Topaz Farm",
       "title_kept": "Allen Stone & The Dip",
       "venue": "Topaz Farm"
-    },
-    {
-      "dropped": "dopdx:17600841",
-      "kept": "ticketmaster:rZ7HnEZ1Af-xaN",
-      "start_at": "2026-08-20T19:00:00-07:00",
-      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:19013731@2026-08-20T19:00",
-      "kept": "dopdx:17600841",
-      "start_at": "2026-08-20T19:00:00-07:00",
-      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:19012546@2026-08-20T19:30",
-      "kept": "dopdx:17358747",
-      "start_at": "2026-08-20T19:30:00-07:00",
-      "title_dropped": "Special Event: Aries Spears",
-      "title_kept": "Aries Spears",
-      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "willamette_week:19012547@2026-08-20T20:00",
@@ -4025,9 +4025,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5480,
-  "floor_check": "5480 events against a 5544-event baseline",
-  "generated_at": "2026-08-12T00:44:12+00:00",
+  "event_count": 5481,
+  "floor_check": "5481 events against a 5544-event baseline",
+  "generated_at": "2026-08-12T02:38:56+00:00",
   "problems": [],
   "sources": [
     "calagator",

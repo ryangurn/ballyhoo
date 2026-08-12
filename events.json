@@ -47938,6 +47938,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-20T21:00:00-07:00",
+      "id": "calagator:1250482661",
+      "is_all_day": false,
+      "listing_url": "https://bsd.pizza",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-08-20T19:00:00-07:00",
+      "summary": "A meeting of folks interested in BSD operating systems and related technologies to get together, eat pizza, drink beer, and talk about what interesting things have been going on.",
+      "title": "BSD Pizza Night",
+      "venue": {
+        "address": "2239 SE 11th Ave",
+        "city": "Portland",
+        "latitude": 45.5067,
+        "longitude": -122.6549,
+        "name": "Ranch PDX Southeast (with Baerlic Beer Co)"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-21T02:00:00-07:00",
@@ -162696,5 +162724,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-12T00:44:12+00:00"
+  "generated_at": "2026-08-12T02:38:56+00:00"
 }
