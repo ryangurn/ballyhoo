@@ -92269,6 +92269,37 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-09-09T19:00:00-07:00",
+      "id": "willamette_week:19618573@2026-09-09T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/X9sy4KZLyUyf3h2GlhWn9g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.geekweekpdx.com/sneaky-squatch-pdx-art-hunt",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-09T17:00:00-07:00",
+      "summary": "Meet the Artists Behind the Sneaky Sasquatch Art Hunt. Come meet the talented local artists behind Geek Week PDX’s Sneaky Sasquatch Art Hunt. This reception celebrates the creators who are turning Portland into a giant game of Art and Seek, with Sasquatch-inspired works hidden throughout the city. Get a closer look at their artwork, meet the artists, hear the stories behind the creations, and learn more about the citywide Art Hunt launching during Geek Week PDX. Come curious. Leave inspired. And keep your eyes peeled—you never know where Sasquatch might be hiding.",
+      "title": "Sneaky Sasquatch PDX: Artist Meet and Greet Reception",
+      "venue": {
+        "address": "1005 SE Grand Ave.",
+        "city": "Portland",
+        "latitude": 45.515539,
+        "longitude": -122.661019,
+        "name": "Urbanite - Fine Art Gallery"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "end_at": "2026-09-09T18:00:00-07:00",
@@ -98828,7 +98859,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-12T00:02:24+00:00",
+  "generated_at": "2026-08-12T02:47:37+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
