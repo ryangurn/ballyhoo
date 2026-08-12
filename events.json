@@ -1242,31 +1242,6 @@
     },
     {
       "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:self-defense-park-2026-08-12",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/self-defense-park-2026-08-12",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-08-12T11:00:00-07:00",
-      "title": "Self-defense in the park",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.53345,
-        "longitude": -122.51152,
-        "name": "Glendoveer Nature Trail"
-      }
-    },
-    {
-      "categories": [
         "food"
       ],
       "end_at": "2026-08-12T22:00:00-07:00",
@@ -152536,6 +152511,29 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:cemetery-tending-2026-10-31",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/cemetery-tending-2026-10-31",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-31T10:30:00-07:00",
+      "title": "Cemetery tending",
+      "venue": {
+        "city": "Portland",
+        "name": "Columbia Pioneer Cemetery"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_2mbBE1H",
@@ -164949,5 +164947,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-12T21:07:18+00:00"
+  "generated_at": "2026-08-12T21:10:16+00:00"
 }
