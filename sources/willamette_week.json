@@ -96511,36 +96511,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "id": "willamette_week:19604150@2026-09-11T08:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lcUI__MeqUOlLiwVXppxhA.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.geekweekpdx.com/sneaky-squatch-pdx-art-hunt",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-11T08:00:00-07:00",
-      "summary": "In recent weeks, reports have surfaced of strange markings appearing across the city. Murals. Stickers. Hidden works of art—each depicting the same figure. Witnesses describe a presence. Not seen directly… but felt. Always out there. Some believe it’s an artist. Others say it’s a collective. A few insist… It’s something else entirely. But one thing is certain. The pieces are connected. And they’re leading somewhere. The Art is out there... Find the unique Bigfoot pieces hidden across the city during Geek Week PDX. Portland, Oregon. A city known for coffee, creativity… and the unexplained. This is not just art. It’s a hunt. Your mission is simple. Find the Art. Explore the city. Follow the signs. Document what you discover. But be warned…Not everything wants to be found. And sometimes… it finds you first.",
-      "title": "Sneaky Sasquatch: A Geek Week PDX Art Hut",
-      "venue": {
-        "address": "1221 SW 4th Ave",
-        "city": "Portland",
-        "latitude": 45.514831,
-        "longitude": -122.67903,
-        "name": "Portland - Citywide"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "id": "willamette_week:19596791@2026-09-11T08:00",
@@ -96566,6 +96536,36 @@
         "city": "Portland",
         "latitude": 45.518773,
         "longitude": -122.681327,
+        "name": "Portland - Citywide"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19604150@2026-09-11T08:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lcUI__MeqUOlLiwVXppxhA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.geekweekpdx.com/sneaky-squatch-pdx-art-hunt",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-11T08:00:00-07:00",
+      "summary": "In recent weeks, reports have surfaced of strange markings appearing across the city. Murals. Stickers. Hidden works of art—each depicting the same figure. Witnesses describe a presence. Not seen directly… but felt. Always out there. Some believe it’s an artist. Others say it’s a collective. A few insist… It’s something else entirely. But one thing is certain. The pieces are connected. And they’re leading somewhere. The Art is out there... Find the unique Bigfoot pieces hidden across the city during Geek Week PDX. Portland, Oregon. A city known for coffee, creativity… and the unexplained. This is not just art. It’s a hunt. Your mission is simple. Find the Art. Explore the city. Follow the signs. Document what you discover. But be warned…Not everything wants to be found. And sometimes… it finds you first.",
+      "title": "Sneaky Sasquatch: A Geek Week PDX Art Hut",
+      "venue": {
+        "address": "1221 SW 4th Ave",
+        "city": "Portland",
+        "latitude": 45.514831,
+        "longitude": -122.67903,
         "name": "Portland - Citywide"
       }
     },
@@ -98859,7 +98859,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-12T12:01:22+00:00",
+  "generated_at": "2026-08-12T13:51:06+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
