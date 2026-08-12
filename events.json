@@ -24898,37 +24898,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "id": "willamette_week:19418295@2026-08-15T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PSOXzVoEkESFL6UgugHQOg.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.tixr.com/e/198351",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 37.0,
-        "min": 37.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-15T18:00:00-07:00",
-      "summary": "Pat McGann is quickly rising as one of the sharpest stand-ups in the comedy world. A relative latecomer to the scene, Pat began stand up at the age of 31 after realizing he was not very good at selling packaging. He hustled his way to become the house emcee at Zanies Chicago, where he distinguished himself as especially adept at working the crowd. A father of 3 young children, Pat’s appeal stems from his quick wit & relatable take on family. In 2017, McGann began touring as the opening act for Sebastian Maniscalco, moving with him from clubs, to theaters, and to arenas, including 4 sold out shows at Madison Square Garden. McGann’s relatively short, but impressive resume, includes performances on The Late Show with David Letterman, The Late Show with Stephen Colbert, Montreal’s famed Just For Laughs Festival, Gilda’s LaughFest, The Great American Comedy Festival and the Nashville Comedy Fest. McGann still calls Chicago home.",
-      "ticket_url": "https://www.tixr.com/e/198351",
-      "title": "Pat McGann (seated show)",
-      "venue": {
-        "address": "680 SE 6th Ave",
-        "city": "Portland",
-        "latitude": 45.519235,
-        "longitude": -122.677975,
-        "name": "The Get Down"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "id": "willamette_week:18991333@2026-08-15T18:00",
@@ -54940,6 +54909,37 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-21T22:00:00-07:00",
+      "id": "willamette_week:19624496@2026-08-21T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/WaAiBz8WnEazd7v2blldQg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/ambience-concerts-presents-a-candlelit-tribute-to-bob-dylan-tickets-1993630966889?aff=oddtdtcreator",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 60.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-21T20:00:00-07:00",
+      "summary": "Ambience Concerts Presents: A Candlelit Tribute to Bob Dylan Step into an unforgettable evening celebrating the music of one of America's greatest songwriters. This debut production traces Bob Dylan's extraordinary musical journey—from the intimate folk clubs of Greenwich Village through the evolution of his groundbreaking songwriting and later career. Featuring timeless classics and deep cuts, the performance honors the artistry, poetry, and enduring influence of his legendary catalog. Led by some of the Pacific Northwest's finest musicians, this authentic live tribute captures the spirit of Dylan's music while presenting it in a breathtaking immersive setting. The experience transforms the historic 1891 Venetian Gothic Sanctuary Hall with over 1,500 flickering LED candles, atmospheric architectural lighting, and projection-mapped visuals that bring the music to life in a way unlike a traditional concert. Whether you're a lifelong Dylan fan or discovering his music for the first time, this promises to be an intimate, powerful, and visually stunning evening. Come experience the songs that helped define generations—presented in a setting as timeless as the music itself. • Bar with beer, wine, cider, non alcoholic options and snacks available • Doors 7PM Show 8PM",
+      "title": "Bob Dylan: A Candlelit Tribute",
+      "venue": {
+        "address": "1126 SW Park Ave",
+        "city": "Portland",
+        "latitude": 45.516423,
+        "longitude": -122.682051,
+        "name": "Sanctuary Hall"
       }
     },
     {
@@ -164947,5 +164947,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-12T22:01:21+00:00"
+  "generated_at": "2026-08-12T22:07:07+00:00"
 }
