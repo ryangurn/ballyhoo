@@ -2,25 +2,6 @@
   "events": [
     {
       "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:transit-oriented-development-steering-committee-meeting-2026-08-11",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/transit-oriented-development-steering-committee-meeting-2026-08-11",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-08-11T15:00:00-07:00",
-      "title": "Transit-Oriented Development Steering Committee meeting"
-    },
-    {
-      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:self-defense-park-2026-08-12",
@@ -754,25 +735,6 @@
         "longitude": -122.71269,
         "name": "Oregon Zoo"
       }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:free-parking-day-metro-parks-2026-09-17",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/free-parking-day-metro-parks-2026-09-17",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-09-17T07:00:00-07:00",
-      "title": "Free parking day at Metro parks"
     },
     {
       "categories": [
@@ -1629,31 +1591,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "id": "oregon_metro:2026-10-24",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/2026-10-24",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-24T09:00:00-07:00",
-      "title": "Household hazardous waste neighborhood collection event",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.53035,
-        "longitude": -122.83334,
-        "name": "Sunset Presbyterian Church"
-      }
-    },
-    {
-      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:self-defense-park-2026-10-24",
@@ -2476,25 +2413,6 @@
       "categories": [
         "civic"
       ],
-      "id": "oregon_metro:transportation-policy-alternatives-committee-meeting-2026-12-04",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/transportation-policy-alternatives-committee-meeting-2026-12-04",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-12-04T09:00:00-08:00",
-      "title": "Transportation Policy Alternatives Committee meeting"
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "id": "oregon_metro:metro-council-work-session-2026-12-08",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-12-08",
@@ -2825,7 +2743,7 @@
       "title": "Committee on Racial Equity meeting"
     }
   ],
-  "generated_at": "2026-08-11T23:08:23+00:00",
+  "generated_at": "2026-08-12T00:04:16+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
