@@ -343,38 +343,6 @@
     },
     {
       "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-08-12T19:00:00-07:00",
-      "id": "pdxparent_markets:peoples-farmers-market@2026-08-12",
-      "is_all_day": false,
-      "listing_url": "https://www.peoples.coop/farmers-market",
-      "organizer": "People’s Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-12T14:00:00-07:00",
-      "summary": "Wednesdays, 2-7 pm (Winter hours 2-6 pm)",
-      "title": "People’s Farmers Market",
-      "venue": {
-        "address": "3029 SE 21st Ave.",
-        "city": "Portland",
-        "latitude": 45.5008,
-        "longitude": -122.64489,
-        "name": "People’s Farmers Market"
-      }
-    },
-    {
-      "categories": [
         "civic"
       ],
       "id": "oregon_metro:supportive-housing-services-regional-policy-and-oversight-committee-meeting-2026-08-12",
@@ -396,38 +364,6 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-08-12T19:00:00-07:00",
-      "id": "pdxparent_markets:camas-farmers-market@2026-08-12",
-      "is_all_day": false,
-      "listing_url": "https://camasfarmersmarket.org/",
-      "organizer": "Camas Farmer’s Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-12T15:00:00-07:00",
-      "summary": "Wednesdays, June 3-September 30, 2026, 3-7 pm",
-      "title": "Camas Farmer’s Market",
-      "venue": {
-        "address": "314 NE Birch St., Camas, WA",
-        "city": "Portland",
-        "latitude": 45.58513,
-        "longitude": -122.40428,
-        "name": "Camas Farmer’s Market"
       }
     },
     {
@@ -494,68 +430,6 @@
         "latitude": 45.5832371,
         "longitude": -122.6873115,
         "name": "Kenton Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-08-12T20:00:00-07:00",
-      "id": "pdxparent_markets:forest-grove-farmers-market@2026-08-12",
-      "is_all_day": false,
-      "listing_url": "https://discoverforestgrove.org/events/forest-grove-farmers-market-opening/",
-      "organizer": "Forest Grove Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-12T16:00:00-07:00",
-      "summary": "Wednesdays, May 6-October 28, 4-8 pm",
-      "title": "Forest Grove Farmers Market",
-      "venue": {
-        "address": "2030 Main St., Suite A, Forest Grove.",
-        "city": "Portland",
-        "name": "Forest Grove Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-08-12T20:00:00-07:00",
-      "id": "pdxparent_markets:wednesdays-in-willamette-summer-street-market@2026-08-12",
-      "is_all_day": false,
-      "listing_url": "https://www.historicwillamette.com/market/",
-      "organizer": "Wednesdays in Willamette Summer Street Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "pdxparent_markets",
-        "name": "PDX Parent",
-        "url": "https://pdxparent.com"
-      },
-      "start_at": "2026-08-12T16:00:00-07:00",
-      "summary": "Wednesdays, May 13-September 9, 2026, 4-8 pm",
-      "title": "Wednesdays in Willamette Summer Street Market",
-      "venue": {
-        "address": "Willamette Falls Drive & 14th, West Linn",
-        "city": "Portland",
-        "latitude": 45.34622,
-        "longitude": -122.64779,
-        "name": "Wednesdays in Willamette Summer Street Market"
       }
     },
     {
@@ -158946,6 +158820,38 @@
     },
     {
       "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-11T19:00:00-08:00",
+      "id": "pdxparent_markets:troutdale-farm-market@2026-12-11",
+      "is_all_day": false,
+      "listing_url": "https://troutdalefarmmarket.com/",
+      "organizer": "Troutdale Farm Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "pdxparent_markets",
+        "name": "PDX Parent",
+        "url": "https://pdxparent.com"
+      },
+      "start_at": "2026-12-11T14:00:00-08:00",
+      "summary": "Fridays, 2-7 pm; Saturdays and Sundays, 10 am-4 pm",
+      "title": "Troutdale Farm Market",
+      "venue": {
+        "address": "450 NW 257th Way, Unit 450, Troutdale",
+        "city": "Portland",
+        "latitude": 45.54195,
+        "longitude": -122.38984,
+        "name": "Troutdale Farm Market"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "obt:855",
@@ -164438,5 +164344,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-13T08:01:18+00:00"
+  "generated_at": "2026-08-13T08:08:44+00:00"
 }
