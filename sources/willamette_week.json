@@ -9357,6 +9357,35 @@
       "categories": [
         "arts"
       ],
+      "end_at": "2026-08-14T21:30:00-07:00",
+      "id": "willamette_week:19633462@2026-08-14T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hxv3YjPeYkiuBrbXfnZsEw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.opsfest.org/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-14T19:00:00-07:00",
+      "summary": "Political drama, onstage? In this economy, day and age? Sure, why not. We could all use a bit of new media dissociation. Original Practice Shakespeare Festival’s production of Julius Caesar will deliver just that. OPS Fest’s actors have no idea what character they will play until the audience casts the show one hour prior to curtain—that’s how this thing works. Arrive early to cast the play at 6 pm and watch the creation take shape at 7. Picnics and leashed dogs are welcome.",
+      "title": "Original Practice Shakespeare Festival Presents 𝘑𝘶𝘭𝘪𝘶𝘴 𝘊𝘢𝘦𝘴𝘢𝘳",
+      "venue": {
+        "address": "410 SW Kingston Ave.",
+        "city": "Portland",
+        "latitude": 45.519735,
+        "longitude": -122.70555,
+        "name": "Washington Park Amphitheater"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "end_at": "2026-08-14T20:30:00-07:00",
       "id": "willamette_week:19587210@2026-08-14T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/w0ozImIgqU-qyjTqWSxS0w.large.jpg",
@@ -11886,6 +11915,66 @@
         "latitude": 45.317554,
         "longitude": -122.70586,
         "name": "Llama Walks at Frog Pond Farm"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-08-15T16:00:00-07:00",
+      "id": "willamette_week:19633517@2026-08-15T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nkcbzo1WtkyahkpnjtLgPw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.soapboxracer.org/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T10:00:00-07:00",
+      "summary": "If you’ve yet to experience the Portland tradition that is our Adult Soapbox Derby, make this the year to witness this particular jewel on Portland’s whimsical crown. More than 40 racers will speed down Mount Tabor in their impressively campy/kitschy DIY creations while 7,000 of your friends and neighbors from all quadrants scream, cheer and dance in celebration.",
+      "title": "Portland Adult Soapbox Derby",
+      "venue": {
+        "address": "SE 60th Ave. & SE Salmon St.",
+        "city": "Portland",
+        "latitude": 45.514086,
+        "longitude": -122.601924,
+        "name": "Mt. Tabor Park"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-08-15T16:00:00-07:00",
+      "id": "willamette_week:19633487@2026-08-15T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VvvJWhvRwEmfrbKVDN6MlQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/building-libraries-together/belmont",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T10:00:00-07:00",
+      "summary": "Portland’s library renaissance is in full bloom, and the reopening parties have been some of this year’s most exciting community events. Belmont’s new facility will be yet another summer fun day for the whole family to become reacquainted with the new and improved library while enjoying live music, complimentary snacks, and a body-rocking dance party. Ain’t no party like a library party cuz a library party has books. Clock it.",
+      "title": "Belmont Library Grand Opening",
+      "venue": {
+        "address": "1038 SE César E. Chávez",
+        "city": "Portland",
+        "latitude": 45.515289,
+        "longitude": -122.622673,
+        "name": "Belmont Library"
       }
     },
     {
@@ -100289,7 +100378,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-13T17:15:15+00:00",
+  "generated_at": "2026-08-13T18:09:19+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
