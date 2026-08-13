@@ -73,6 +73,14 @@
       "venue": "Roseland Theater"
     },
     {
+      "dropped": "willamette_week:19631269@2026-09-08T19:00",
+      "kept": "dopdx:17451600",
+      "start_at": "2026-09-08T19:00:00-07:00",
+      "title_dropped": "Open Jam and Games",
+      "title_kept": "Open Jam & Games",
+      "venue": "Barrel Room Portland"
+    },
+    {
       "dropped": "willamette_week:18400753@2026-08-13T17:30",
       "kept": "dopdx:16997070",
       "start_at": "2026-08-13T17:30:00-07:00",
@@ -2657,6 +2665,14 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
+      "dropped": "willamette_week:19631269@2026-09-01T19:00",
+      "kept": "dopdx:17451599",
+      "start_at": "2026-09-01T19:00:00-07:00",
+      "title_dropped": "Open Jam and Games",
+      "title_kept": "Open Jam & Games",
+      "venue": "Barrel Room Portland"
+    },
+    {
       "dropped": "willamette_week:19538826@2026-09-01T20:00",
       "kept": "dopdx:17614021",
       "start_at": "2026-09-01T20:00:00-07:00",
@@ -3425,6 +3441,14 @@
       "venue": "McMenamins Crystal Ballroom"
     },
     {
+      "dropped": "willamette_week:19631269@2026-09-06T20:00",
+      "kept": "dopdx:17451708",
+      "start_at": "2026-09-06T20:00:00-07:00",
+      "title_dropped": "Open Jam and Games",
+      "title_kept": "Sunday Open Jam",
+      "venue": "Barrel Room Portland"
+    },
+    {
       "dropped": "willamette_week:19449610@2026-09-06T20:00",
       "kept": "ticketmaster:rZ7HnEZ1AfF_4V",
       "start_at": "2026-09-06T20:00:00-07:00",
@@ -4049,9 +4073,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5572,
-  "floor_check": "5572 events against a 5569-event baseline",
-  "generated_at": "2026-08-13T19:18:50+00:00",
+  "event_count": 5573,
+  "floor_check": "5573 events against a 5569-event baseline",
+  "generated_at": "2026-08-13T19:29:37+00:00",
   "problems": [],
   "sources": [
     "calagator",
