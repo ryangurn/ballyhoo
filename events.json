@@ -2994,6 +2994,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-08-13T16:00:00-07:00",
+      "id": "willamette_week:19634272@2026-08-13T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fmiEawY5L0OkRSY5zLRa2g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/teen-camp-video-creation-camp-2",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-13T14:00:00-07:00",
+      "summary": "Do you want to be a YouTube star or go viral on TikTok? Up your game and learn the basic techniques of composition, light, audio, editing and storytelling through film. The Rockwood Makerspace and MetroEast Community Media will give you the tools to tell your story. All materials are provided. Grades 6-12. Registration is required; sign ups will open on July 20. Rockwood Makerspace programming is made possible by gifts to The Library Foundation , a local nonprofit dedicated to supporting Multnomah County Library's innovative and groundbreaking work.",
+      "title": "Teen Camp: Video Creation Camp",
+      "venue": {
+        "address": "17917 SE Stark Street",
+        "city": "Portland",
+        "latitude": 45.51951806199975,
+        "longitude": -122.47906864110425,
+        "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-08-13T17:00:00-07:00",
@@ -10868,6 +10897,35 @@
       "title": "Weekend of Survival",
       "venue": {
         "name": "Molalla Ripple"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-14T21:00:00-07:00",
+      "id": "willamette_week:19634278@2026-08-14T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E4iZYR3t1kG6GLEfB0PG2Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://theallison.com/event/john-nilsen/2026-08-14/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-14T17:00:00-07:00",
+      "summary": "Join us in The Living Room each evening for music at The Allison, featuring talented musicians from the Great Pacific Northwest! About John Nilsen John Nilsen is one of the Pacific Northwest’s most successful performance and recording artists. Nilsen’s label, Magic Wing, has a catalog of twenty one titles, all distributed internationally. Many have been licensed in countries outside the United States, including Germany, Great Britain, The Philippines, Canada, Taiwan and Singapore. John Nilsen’s record sales far exceed a million copies, a rare accomplishment in the music industry. 240 of his compositions and arrangements receive performance and mechanical royalties. In 2021 John was selected as a Yamaha Piano Artist. More John Nilsen",
+      "title": "John Nilsen @ The Allison",
+      "venue": {
+        "address": "2525 Allison Lane",
+        "city": "Newberg",
+        "latitude": 45.319767,
+        "longitude": -122.946366,
+        "name": "The Living Room @ The Allison Inn & Spa"
       }
     },
     {
@@ -24159,6 +24217,10 @@
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/King-aug-22-image-close.jpg",
       "is_all_day": false,
       "listing_url": "https://www.portlandfarmersmarket.org/event/king-farmers-market-3/2026-08-16/",
+      "merged_sources": [
+        "portland_farmers_market",
+        "willamette_week"
+      ],
       "organizer": "Portland Farmers Market",
       "price": {
         "currency": "USD",
@@ -24192,6 +24254,10 @@
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2024/01/lents-110423-header-imagery.jpg",
       "is_all_day": false,
       "listing_url": "https://www.portlandfarmersmarket.org/event/lents-international-farmers-market/2026-08-16/",
+      "merged_sources": [
+        "portland_farmers_market",
+        "willamette_week"
+      ],
       "organizer": "Portland Farmers Market",
       "price": {
         "currency": "USD",
@@ -25880,6 +25946,35 @@
       "title": "Free Flag Rugby Introductory Clinic - Girls Rugby (N Portland / St. Johns)",
       "venue": {
         "name": "Northgate Park"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-16T15:00:00-07:00",
+      "id": "willamette_week:19634259@2026-08-16T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7TO1tDwxDUqpAHoKTE36eQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/ai-everyday-life-workshop-2",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-16T14:00:00-07:00",
+      "summary": "Curious about Artificial Intelligence? Join us for a beginner hands-on workshop. Whether you're a student, professional, or just curious about AI, this session will introduce you to practical apps that can boost productivity. Bring your smartphone or laptop and we'll walk you through setting up and using AI tools that meet your needs. No prior experience required- just bring your device and willingness to explore! All ages welcome. Library devices available upon request.",
+      "title": "AI for Everyday Life Workshop",
+      "venue": {
+        "address": "801 SW 10th Ave",
+        "city": "Portland",
+        "latitude": 45.5192273855,
+        "longitude": -122.6826296747,
+        "name": "Multnomah County Central Library"
       }
     },
     {
@@ -47171,6 +47266,37 @@
     },
     {
       "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-08-21T17:00:00-07:00",
+      "id": "willamette_week:19616553@2026-08-21T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c3iMOsN_3EWeE24EabB7_Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.yvfwc.com/event/portland-health-fair/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-21T13:00:00-07:00",
+      "summary": "Rosewood Family Health Center - Powell will host a free community health fair in SE Portland on Friday, August 21, from 1:00 to 5:00 p.m. The event includes preventive services, immunizations, dental screenings, health checks, $10 sports physicals, family activities, raffle prizes, and free food. Everyone is welcome to attend.",
+      "title": "Free Family Health Fair at Rosewood Family Health Center",
+      "venue": {
+        "address": "3530 SE 88th Ave",
+        "city": "Portland",
+        "latitude": 45.496926,
+        "longitude": -122.571587,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-21T18:00:00-07:00",
@@ -55455,6 +55581,35 @@
         "music"
       ],
       "end_at": "2026-08-22T19:30:00-07:00",
+      "id": "willamette_week:19634267@2026-08-22T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/edimbaV3lU6FMt5AysvYSw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://rosecityrollers.com/schedule/skatemobile-at-skates-in-the-park/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T17:30:00-07:00",
+      "summary": "Join the fun at Tualatin Hills Parks & Rec SKATES IN THE PARK! Get FREE skate rentals \\(and protective gear\\) from Skatemobile! Saturday, August 22nd 5pm - 7:30pm Center Street Park in Beaverton",
+      "title": "Skatemobile at Skates in the Park",
+      "venue": {
+        "address": "11895 SW Center St",
+        "city": "Beaverton",
+        "latitude": 45.4946017,
+        "longitude": -122.7990283,
+        "name": "Beaverton"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-22T19:30:00-07:00",
       "id": "willamette_week:19464663@2026-08-22T17:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OnQDQ6CuGkyR_7D62NKeLQ.large.jpg",
       "is_all_day": false,
@@ -58046,6 +58201,35 @@
       "categories": [
         "arts"
       ],
+      "end_at": "2026-08-22T22:30:00-07:00",
+      "id": "willamette_week:19353448@2026-08-22T21:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fcbc31b7-462b-498d-ad89-9c281361270c.large.png",
+      "is_all_day": false,
+      "listing_url": "https://aimeesinclair.com/throwback&sa=D&source=calendar&ust=1785476032657587&usg=AOvVaw0H4ObndU-0dBJtBhDox5Ws",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T21:30:00-07:00",
+      "summary": "https://aimeesinclair.com/throwback",
+      "title": "Throwback: A Comedy Show for the Nostalgic",
+      "venue": {
+        "address": "21ten Theatre, 2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507608,
+        "longitude": -122.655396,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "end_at": "2026-08-22T23:00:00-07:00",
       "id": "willamette_week:19002755@2026-08-22T21:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VozQqdQAGUeqHf3AJMRrzw.large.jpg",
@@ -58072,35 +58256,6 @@
         "latitude": 45.522875,
         "longitude": -122.673009,
         "name": "Can Can's Paris Theatre"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-08-22T22:30:00-07:00",
-      "id": "willamette_week:19353448@2026-08-22T21:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fcbc31b7-462b-498d-ad89-9c281361270c.large.png",
-      "is_all_day": false,
-      "listing_url": "https://aimeesinclair.com/throwback&sa=D&source=calendar&ust=1785476032657587&usg=AOvVaw0H4ObndU-0dBJtBhDox5Ws",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-22T21:30:00-07:00",
-      "summary": "https://aimeesinclair.com/throwback",
-      "title": "Throwback: A Comedy Show for the Nostalgic",
-      "venue": {
-        "address": "21ten Theatre, 2110 SE 10th Ave",
-        "city": "Portland",
-        "latitude": 45.507608,
-        "longitude": -122.655396,
-        "name": "Portland"
       }
     },
     {
@@ -59220,8 +59375,13 @@
       ],
       "end_at": "2026-08-23T14:00:00-07:00",
       "id": "pdxparent_markets:montavilla-farmers-market@2026-08-23",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/22d85ac2-3459-4cf1-beb2-1f544cd7471e.large.png",
       "is_all_day": false,
       "listing_url": "https://www.montavillamarket.org/",
+      "merged_sources": [
+        "pdxparent_markets",
+        "willamette_week"
+      ],
       "organizer": "Montavilla Farmers Market",
       "price": {
         "currency": "USD",
@@ -68630,6 +68790,35 @@
         "latitude": 45.5483541638,
         "longitude": -122.675479576,
         "name": "Mississippi Pizza Pub"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-08-26T09:00:00-07:00",
+      "id": "willamette_week:19634277@2026-08-26T07:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/22d85ac2-3459-4cf1-beb2-1f544cd7471e.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/transportation/walking-biking-transit-safety/events/2026/8/23/bike-walk-day-montavilla-farmers",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-26T07:15:00-07:00",
+      "summary": "Every week, 2,000-3,000 people come to the Montavilla Farmers Market. If you've ever attended, you know how popular it is and how hard it can be to drive and find parking. Join the 60% of market attendees who walk or bike! Since the Portland Bureau of Transportation \\(PBOT\\) completed the improvements on SE Washington, there are new crosswalks and a new protected bike lane, making it safer than ever to walk or bike to the market. On August 23rd, bike, walk, or ride transit to the Market to earn a $5 market token courtesy of the Portland Bureau of Transportation. Plus, PBOT will offer a chance to win a Montavilla Farmers Market tote bag. TriMet lines 15 and 72 get you straight to the Farmers Market. No circling for a parking spot and still having to walk 8 blocks. Try biking, walking, or transit for convenience, low cost, and accessibility. Get There Jade & Montavilla View full size image of The logo for Get There Jade & Montavilla This event is part of the Get There Jade & Montavilla campaign. Learn more about how to participate and earn rewards for biking, riding transit, and walking.",
+      "title": "Bike & Walk Day at the Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St",
+        "city": "Portland",
+        "latitude": 45.518951,
+        "longitude": -122.584323,
+        "name": "Montavilla Farmers Market"
       }
     },
     {
@@ -85511,6 +85700,35 @@
         "address": "3530 SE Division St, Portland, OR 97202",
         "city": "Portland",
         "name": "Tomorrow Theater"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-08-29T22:00:00-07:00",
+      "id": "willamette_week:19634277@2026-08-29T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/22d85ac2-3459-4cf1-beb2-1f544cd7471e.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/transportation/walking-biking-transit-safety/events/2026/8/23/bike-walk-day-montavilla-farmers",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T16:00:00-07:00",
+      "summary": "Every week, 2,000-3,000 people come to the Montavilla Farmers Market. If you've ever attended, you know how popular it is and how hard it can be to drive and find parking. Join the 60% of market attendees who walk or bike! Since the Portland Bureau of Transportation \\(PBOT\\) completed the improvements on SE Washington, there are new crosswalks and a new protected bike lane, making it safer than ever to walk or bike to the market. On August 23rd, bike, walk, or ride transit to the Market to earn a $5 market token courtesy of the Portland Bureau of Transportation. Plus, PBOT will offer a chance to win a Montavilla Farmers Market tote bag. TriMet lines 15 and 72 get you straight to the Farmers Market. No circling for a parking spot and still having to walk 8 blocks. Try biking, walking, or transit for convenience, low cost, and accessibility. Get There Jade & Montavilla View full size image of The logo for Get There Jade & Montavilla This event is part of the Get There Jade & Montavilla campaign. Learn more about how to participate and earn rewards for biking, riding transit, and walking.",
+      "title": "Bike & Walk Day at the Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St",
+        "city": "Portland",
+        "latitude": 45.518951,
+        "longitude": -122.584323,
+        "name": "Montavilla Farmers Market"
       }
     },
     {
@@ -106928,10 +107146,10 @@
       "ticket_url": "https://eventvesta.com/events/157340/t/tickets",
       "title": "Dueling Pianos",
       "venue": {
-        "address": "120 Northwest Couch Street",
+        "address": "120 NW Couch St",
         "city": "Portland",
         "latitude": 45.523713,
-        "longitude": -122.671737,
+        "longitude": -122.671727,
         "name": "Barrel Room Portland"
       }
     },
@@ -111655,10 +111873,10 @@
       "ticket_url": "https://eventvesta.com/events/157340/t/tickets",
       "title": "Dueling Pianos",
       "venue": {
-        "address": "120 Northwest Couch Street",
+        "address": "120 NW Couch St",
         "city": "Portland",
         "latitude": 45.523713,
-        "longitude": -122.671737,
+        "longitude": -122.671727,
         "name": "Barrel Room Portland"
       }
     },
@@ -118779,6 +118997,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-08T15:30:00-07:00",
+      "id": "willamette_week:19634260@2026-09-08T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7TO1tDwxDUqpAHoKTE36eQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/microsoft-excel-goodwill-industries-60",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-08T14:00:00-07:00",
+      "summary": "Enhance your professional competencies by beginning to utilize the capabilities possible with Microsoft Excel. Students will be introduced to critical Excel functions such as creating graphs and tables from data sets, becoming familiar with tools to sort and filter large data sets, and enhance the efficiency of their data entry. This course offers students a space to build a strong foundation for understanding a complex software program and the opportunity to explore potential applications for using Microsoft Excel. Microsoft Excel Class Objectives: Learn how to interact with and access the application. Get started making charts and using keyboard shortcuts. Explore using formulas, equations, tables, and graphs. Discover conditional formatting and other page layout options. Review how to check, protect and share workbooks. Presented by volunteers from Goodwill Industries of the Columbia Willamette. Browse more technology classes",
+      "title": "Microsoft Excel with Goodwill Industries",
+      "venue": {
+        "address": "17917 SE Stark Street",
+        "city": "Portland",
+        "latitude": 45.51951806199975,
+        "longitude": -122.47906864110425,
+        "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-08T16:00:00-07:00",
@@ -119949,6 +120196,34 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-09-08T21:00:00-07:00",
+      "id": "willamette_week:19634266@2026-09-08T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portlandpilots.com/calendar.aspx?game_id=13408&amp;sport_id=6",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-08T19:00:00-07:00",
+      "summary": "University of Portland Men's Soccer vs Southern Oregon Streaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference",
+      "title": "University of Portland Men's Soccer vs Southern Oregon",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Merlo Field at the Clive Charles Soccer Complex"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-09-08T21:00:00-07:00",
@@ -120519,6 +120794,33 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19634279@2026-09-09T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BuJ4aY1DCUWcw2hdTV-3Lg.large.png",
+      "is_all_day": true,
+      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-09T00:00:00-07:00",
+      "title": "Banks Public Library - Craft Night",
+      "venue": {
+        "address": "42461 NW Market Street",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
       }
     },
     {
@@ -128302,6 +128604,35 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-09-11T15:00:00-07:00",
+      "id": "willamette_week:19634273@2026-09-11T14:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/preschool-sensory-storytime-222",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-11T14:15:00-07:00",
+      "summary": "This preschool storytime is especially welcoming for children ages 3-5 and families who are looking for a smaller, more adaptive library experience. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Preschool Sensory Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-11T16:45:00-07:00",
@@ -129693,10 +130024,10 @@
       "ticket_url": "https://eventvesta.com/events/157340/t/tickets",
       "title": "Dueling Pianos",
       "venue": {
-        "address": "120 Northwest Couch Street",
+        "address": "120 NW Couch St",
         "city": "Portland",
         "latitude": 45.523713,
-        "longitude": -122.671737,
+        "longitude": -122.671727,
         "name": "Barrel Room Portland"
       }
     },
@@ -134167,6 +134498,38 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-09-12T23:30:00-07:00",
+      "id": "willamette_week:19620150@2026-09-12T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uLYRPve1rUWWwM6YIx_Cxw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://eventvesta.com/events/157340/t/tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.45,
+        "min": 28.45
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-12T19:00:00-07:00",
+      "summary": "Oregon's last Dueling Piano Show! Sing, clap, and dance along to our all-request musical showdown with the PNW's finest live musicians. 🎹🎶 Dueling Pianos: A Musical Party of All-Request Fun! 🎶🎹 Join us for an unforgettable evening filled with laughter, music, and interactive excitement as our talented dueling pianists hit the keys and bring your favorite songs to life. It's an all-request show like no other, where we fly in top-notch performers from around the country that have an incredible repertoire of thousands of songs spanning every genre imaginable. 🎤 Sing, Clap, Dance Along! 🎤 Be prepared to become an integral part of the show as the dueling pianists engage the audience to sing, clap, and sway along to the tunes that you choose! Whether you're a die-hard fan of rock classics, a pop music aficionado, a country crooner, or a jazz enthusiast, these versatile pianists will take you on a musical journey tailored to your preferences. 💰 The Power of Your Tip! 💰 Want to hear your favorite song right away? The more you tip, the quicker the performers will serenade you with your chosen melody. And here's a twist: if there's a song playing that you'd rather swap out, just tip $1 more than the previous requester and watch the musical magic unfold as your selection takes center stage. 🍹 Unwind with Exceptional Libations! 🍹 While you enjoy the sensational tunes, make sure to savor our top-notch cocktails crafted by our skilled mixologists. Every month we create custom cocktails to fit the mood. If you're a fan of craft brews, we have a selection of local favorites on tap. And for those with a discerning appetite, our kitchen is continually adding delectable options to the menu. 🎉 Perfect for Celebrations of All Kinds! 🎉 Dueling Pianos at Barrel Room is the perfect place to celebrate life's special moments! Whether it's a birthday, bachelorette party, romantic date night, or simply an evening dedicated to reveling in the magic of music and good vibes, we've got you covered. Share the experience of a night that seamlessly blends music, community, and the vibrant spirit of your local small business scene. Don't miss out on this incredible night of musical camaraderie, laughter, and tip-controlled tunes at Barrel Room. Book your tables now and immerse yourself in a symphony of melodies, memories, and unforgettable moments!",
+      "ticket_url": "https://eventvesta.com/events/157340/t/tickets",
+      "title": "Dueling Pianos",
+      "venue": {
+        "address": "120 NW Couch St",
+        "city": "Portland",
+        "latitude": 45.523713,
+        "longitude": -122.671727,
+        "name": "Barrel Room Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-09-12T21:30:00-07:00",
       "id": "willamette_week:19626407@2026-09-12T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/h-g1CwNsqEONqK0F1XTNUQ.large.png",
@@ -134192,38 +134555,6 @@
         "latitude": 45.626012,
         "longitude": -122.671325,
         "name": "Our 3rd Space"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-09-12T23:30:00-07:00",
-      "id": "willamette_week:19620150@2026-09-12T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uLYRPve1rUWWwM6YIx_Cxw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://eventvesta.com/events/157340/t/tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 28.45,
-        "min": 28.45
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-12T19:00:00-07:00",
-      "summary": "Oregon's last Dueling Piano Show! Sing, clap, and dance along to our all-request musical showdown with the PNW's finest live musicians. 🎹🎶 Dueling Pianos: A Musical Party of All-Request Fun! 🎶🎹 Join us for an unforgettable evening filled with laughter, music, and interactive excitement as our talented dueling pianists hit the keys and bring your favorite songs to life. It's an all-request show like no other, where we fly in top-notch performers from around the country that have an incredible repertoire of thousands of songs spanning every genre imaginable. 🎤 Sing, Clap, Dance Along! 🎤 Be prepared to become an integral part of the show as the dueling pianists engage the audience to sing, clap, and sway along to the tunes that you choose! Whether you're a die-hard fan of rock classics, a pop music aficionado, a country crooner, or a jazz enthusiast, these versatile pianists will take you on a musical journey tailored to your preferences. 💰 The Power of Your Tip! 💰 Want to hear your favorite song right away? The more you tip, the quicker the performers will serenade you with your chosen melody. And here's a twist: if there's a song playing that you'd rather swap out, just tip $1 more than the previous requester and watch the musical magic unfold as your selection takes center stage. 🍹 Unwind with Exceptional Libations! 🍹 While you enjoy the sensational tunes, make sure to savor our top-notch cocktails crafted by our skilled mixologists. Every month we create custom cocktails to fit the mood. If you're a fan of craft brews, we have a selection of local favorites on tap. And for those with a discerning appetite, our kitchen is continually adding delectable options to the menu. 🎉 Perfect for Celebrations of All Kinds! 🎉 Dueling Pianos at Barrel Room is the perfect place to celebrate life's special moments! Whether it's a birthday, bachelorette party, romantic date night, or simply an evening dedicated to reveling in the magic of music and good vibes, we've got you covered. Share the experience of a night that seamlessly blends music, community, and the vibrant spirit of your local small business scene. Don't miss out on this incredible night of musical camaraderie, laughter, and tip-controlled tunes at Barrel Room. Book your tables now and immerse yourself in a symphony of melodies, memories, and unforgettable moments!",
-      "ticket_url": "https://eventvesta.com/events/157340/t/tickets",
-      "title": "Dueling Pianos",
-      "venue": {
-        "address": "120 Northwest Couch Street",
-        "city": "Portland",
-        "latitude": 45.523713,
-        "longitude": -122.671737,
-        "name": "Barrel Room Portland"
       }
     },
     {
@@ -166848,5 +167179,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-13T21:01:24+00:00"
+  "generated_at": "2026-08-13T21:07:06+00:00"
 }

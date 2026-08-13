@@ -793,6 +793,22 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:18521269@2026-08-16T10:00",
+      "kept": "portland_farmers_market:king-farmers-market-3@2026-08-16",
+      "start_at": "2026-08-16T10:00:00-07:00",
+      "title_dropped": "King Farmers Market",
+      "title_kept": "King Farmers Market",
+      "venue": "King Farmers Market"
+    },
+    {
+      "dropped": "willamette_week:18521272@2026-08-16T10:00",
+      "kept": "portland_farmers_market:lents-international-farmers-market@2026-08-16",
+      "start_at": "2026-08-16T10:00:00-07:00",
+      "title_dropped": "Lents International Farmers Market",
+      "title_kept": "Lents International Farmers Market",
+      "venue": "Lents International Farmers Market"
+    },
+    {
       "dropped": "willamette_week:19134891@2026-08-16T11:00",
       "kept": "dopdx:17428218",
       "start_at": "2026-08-16T11:00:00-07:00",
@@ -1607,6 +1623,14 @@
       "title_dropped": "Burly Q Revue",
       "title_kept": "BURLY-Q REVUE",
       "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19634277@2026-08-23T10:00",
+      "kept": "pdxparent_markets:montavilla-farmers-market@2026-08-23",
+      "start_at": "2026-08-23T10:00:00-07:00",
+      "title_dropped": "Bike & Walk Day at the Montavilla Farmers Market",
+      "title_kept": "Montavilla Farmers Market",
+      "venue": "Montavilla Farmers Market"
     },
     {
       "dropped": "willamette_week:18041354@2026-08-23T10:30",
@@ -4073,9 +4097,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5615,
-  "floor_check": "5615 events against a 5571-event baseline",
-  "generated_at": "2026-08-13T21:01:24+00:00",
+  "event_count": 5626,
+  "floor_check": "5626 events against a 5571-event baseline",
+  "generated_at": "2026-08-13T21:07:06+00:00",
   "problems": [],
   "sources": [
     "calagator",
