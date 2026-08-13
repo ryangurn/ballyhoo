@@ -337,6 +337,14 @@
       "venue": "Helium Comedy Club - Portland"
     },
     {
+      "dropped": "willamette_week:19627178@2026-08-14T19:30",
+      "kept": "dopdx:17705542",
+      "start_at": "2026-08-14T19:30:00-07:00",
+      "title_dropped": "Johnny Wheels: Keep On Pushin",
+      "title_kept": "Johnny Wheels: Live at Singacoustic",
+      "venue": "Singacoustic"
+    },
+    {
       "dropped": "willamette_week:17962707@2026-08-14T19:30",
       "kept": "ticketmaster:Z7r9jZ1A7-zOJ",
       "start_at": "2026-08-14T19:30:00-07:00",
@@ -399,6 +407,14 @@
       "title_dropped": "Maria BC",
       "title_kept": "Greg Mendez",
       "venue": "Polaris Hall"
+    },
+    {
+      "dropped": "willamette_week:19627180@2026-08-14T20:00",
+      "kept": "dopdx:17705123",
+      "start_at": "2026-08-14T20:00:00-07:00",
+      "title_dropped": "TEN02, w SILVERTONGUE & DEATH BOOGIE",
+      "title_kept": "Ten02 (Canada), Silvertongue & Death Boogie",
+      "venue": "Kelly's Olympian"
     },
     {
       "dropped": "willamette_week:19055536@2026-08-14T20:00",
@@ -4033,9 +4049,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5553,
-  "floor_check": "5553 events against a 5551-event baseline",
-  "generated_at": "2026-08-13T16:09:54+00:00",
+  "event_count": 5569,
+  "floor_check": "5569 events against a 5551-event baseline",
+  "generated_at": "2026-08-13T16:13:55+00:00",
   "problems": [],
   "sources": [
     "calagator",

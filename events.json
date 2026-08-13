@@ -839,6 +839,34 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "end_at": "2026-08-13T10:00:00-07:00",
+      "id": "willamette_week:19627096@2026-08-13T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2e0e8299-23ce-4db7-b413-87b88228110a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.cityofvancouver.us/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-13T09:00:00-07:00",
+      "summary": "View meeting agenda and minutes",
+      "title": "Parking Advisory Committee Meeting",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-13T21:30:00-07:00",
@@ -7744,6 +7772,37 @@
     },
     {
       "categories": [
+        "market"
+      ],
+      "end_at": "2026-08-14T16:00:00-07:00",
+      "id": "willamette_week:19627177@2026-08-14T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Gr9IjI7eHkK8GpaOQ1_PTg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/maywood-parks-annual-garage-sale-tickets-1993955646013",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-14T09:00:00-07:00",
+      "summary": "Neighborhood wide garage sale with 50\\+ participating households, food trucks, and more!",
+      "title": "Maywood Park's Annual Garage Sale",
+      "venue": {
+        "address": "10100 Northeast Prescott Street",
+        "city": "Portland",
+        "latitude": 45.554678,
+        "longitude": -122.558612,
+        "name": "10100 NE Prescott St"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-14T17:00:00-07:00",
@@ -12603,6 +12662,10 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786142181/event-17705542.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/8/14/johnny-wheels-live-at-singacoustic-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "organizer": "Johnny Wheels",
       "price": {
         "currency": "USD",
@@ -13201,6 +13264,10 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786129508/event-17705123.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/8/14/ten02-canada-silvertongue-death-boogie-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -13213,6 +13280,7 @@
         "url": "https://dopdx.com"
       },
       "start_at": "2026-08-14T20:00:00-07:00",
+      "summary": "Don't miss Aberta's TEN02 on their only Portland stop of the US tour! With local support from SILVERTONGUE and DEATH BOOGIE. Time to Rock.",
       "title": "Ten02 (Canada), Silvertongue & Death Boogie",
       "venue": {
         "address": "426 SW Washington St",
@@ -13429,6 +13497,37 @@
         "latitude": 45.853617,
         "longitude": -122.707375,
         "name": "Ilani Cowlitz Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-08-15T01:30:00-07:00",
+      "id": "willamette_week:19627179@2026-08-14T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8tGPwchwiU230k1nvGXOjA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/queerd-pdx-81426-tickets-1997178899852",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 12.51,
+        "min": 12.51
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-14T20:00:00-07:00",
+      "summary": "Queer'd PDX is a fabulously QUEER DANCE PARTY with drag and queer vendors supporting the non-profit: Oregon Food Bank",
+      "title": "Queer'd PDX",
+      "venue": {
+        "address": "9004 Northeast Sandy Boulevard",
+        "city": "Portland",
+        "latitude": 45.55569,
+        "longitude": -122.569745,
+        "name": "Escape Bar & Grill"
       }
     },
     {
@@ -13992,6 +14091,68 @@
         "address": "680 SE 6th Ave",
         "city": "Portland",
         "name": "The Get Down"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-08-15T01:00:00-07:00",
+      "id": "willamette_week:19627182@2026-08-14T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Omol-J2C90q4J5F4OmSSuw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/summer-of-wonder-81426-tickets-1997122066863",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 17.85,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-14T21:00:00-07:00",
+      "summary": "Community EDM event showcasing local talent and incredible Portland sky views from the Wonderlove Rooftop.",
+      "title": "Summer of Wonder (8.14.26)",
+      "venue": {
+        "address": "262 SE Main St",
+        "city": "Portland",
+        "latitude": 45.513423,
+        "longitude": -122.663157,
+        "name": "Wonderlove"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-08-15T02:00:00-07:00",
+      "id": "willamette_week:19627181@2026-08-14T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RozBYcsz20OWKPHTGQPVBg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/party-all-the-time-tickets-1994910690577",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 12.51,
+        "min": 7.18
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-14T21:00:00-07:00",
+      "summary": "Circuit's first-ever collaboration with Secret Grove. PARTY ALL THE TIME brings one of our most stacked lineups yet!",
+      "title": "Party All The Time",
+      "venue": {
+        "address": "1425A Northwest Flanders Street",
+        "city": "Portland",
+        "latitude": 45.525982,
+        "longitude": -122.68562,
+        "name": "Secret Grove"
       }
     },
     {
@@ -15227,6 +15388,37 @@
         "latitude": 45.57178,
         "longitude": -122.65934,
         "name": "Woodlawn Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-08-15T16:00:00-07:00",
+      "id": "willamette_week:19627177@2026-08-15T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Gr9IjI7eHkK8GpaOQ1_PTg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/maywood-parks-annual-garage-sale-tickets-1993955646013",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T09:00:00-07:00",
+      "summary": "Neighborhood wide garage sale with 50\\+ participating households, food trucks, and more!",
+      "title": "Maywood Park's Annual Garage Sale",
+      "venue": {
+        "address": "10100 Northeast Prescott Street",
+        "city": "Portland",
+        "latitude": 45.554678,
+        "longitude": -122.558612,
+        "name": "10100 NE Prescott St"
       }
     },
     {
@@ -18835,6 +19027,34 @@
         "latitude": 45.505547,
         "longitude": -122.664407,
         "name": "Caruthers Landing Dock"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-15T17:00:00-07:00",
+      "id": "willamette_week:19627275@2026-08-15T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e2cc44d5-8e29-43a7-b195-3b8cc3efe880.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T15:00:00-07:00",
+      "summary": "Come to the library and build a dedicated bug hotel! Made out of natural and recycled materials, this structure is a great way to help plant protecting bugs thrive while eating up the pests. This program is for adults. ¡Ven a la biblioteca y construye un hotel para insectos! Hecho con materiales naturales y reciclados, esta estructura es una excelente manera de ayudar a que los insectos protectores de plantas prosperen mientras se alimentan de las plagas. Este programa es para adultos. https://or-cornelius.civicplus.com/calendar.aspx?EID=2189",
+      "title": "DIY Bug Hotel | Hotel para insectos casero",
+      "venue": {
+        "address": "1370 N Adair St",
+        "city": "Cornelius",
+        "latitude": 45.5197386178146,
+        "longitude": -123.05865727043835,
+        "name": "Cornelius Public Library"
       }
     },
     {
@@ -29687,6 +29907,34 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "end_at": "2026-08-17T18:00:00-07:00",
+      "id": "willamette_week:19627096@2026-08-17T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2e0e8299-23ce-4db7-b413-87b88228110a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.cityofvancouver.us/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-17T16:00:00-07:00",
+      "summary": "View meeting agenda and minutes",
+      "title": "Parking Advisory Committee Meeting",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-08-17T17:00:00-07:00",
@@ -35040,6 +35288,34 @@
         "latitude": 45.5283737183,
         "longitude": -122.6631393433,
         "name": "Oregon Convention Center"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-08-19T10:00:00-07:00",
+      "id": "willamette_week:19627096@2026-08-19T08:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2e0e8299-23ce-4db7-b413-87b88228110a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.cityofvancouver.us/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-19T08:00:00-07:00",
+      "summary": "View meeting agenda and minutes",
+      "title": "Parking Advisory Committee Meeting",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
       }
     },
     {
@@ -41063,6 +41339,34 @@
         "latitude": 45.5644833,
         "longitude": -122.6302851,
         "name": "Kennedy School"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-08-20T14:30:00-07:00",
+      "id": "willamette_week:19627096@2026-08-20T12:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2e0e8299-23ce-4db7-b413-87b88228110a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.cityofvancouver.us/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-20T12:30:00-07:00",
+      "summary": "View meeting agenda and minutes",
+      "title": "Parking Advisory Committee Meeting",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
       }
     },
     {
@@ -63762,6 +64066,34 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "end_at": "2026-08-24T18:00:00-07:00",
+      "id": "willamette_week:19627096@2026-08-24T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2e0e8299-23ce-4db7-b413-87b88228110a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.cityofvancouver.us/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-24T15:00:00-07:00",
+      "summary": "View meeting agenda and minutes",
+      "title": "Parking Advisory Committee Meeting",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-24T19:00:00-07:00",
@@ -66034,6 +66366,34 @@
       "venue": {
         "address": "616 NW 21st Ave, Portland, Oregon 97209",
         "name": "Cinema 21 Theater"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-08-25T20:00:00-07:00",
+      "id": "willamette_week:19627096@2026-08-25T16:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2e0e8299-23ce-4db7-b413-87b88228110a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.cityofvancouver.us/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-25T16:30:00-07:00",
+      "summary": "View meeting agenda and minutes",
+      "title": "Parking Advisory Committee Meeting",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
       }
     },
     {
@@ -95343,6 +95703,34 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "end_at": "2026-09-01T20:00:00-07:00",
+      "id": "willamette_week:19627096@2026-09-01T16:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2e0e8299-23ce-4db7-b413-87b88228110a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.cityofvancouver.us/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-01T16:30:00-07:00",
+      "summary": "View meeting agenda and minutes",
+      "title": "Parking Advisory Committee Meeting",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-01T18:30:00-07:00",
@@ -118163,6 +118551,34 @@
         "civic"
       ],
       "end_at": "2026-09-08T14:00:00-07:00",
+      "id": "willamette_week:19627096@2026-09-08T13:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2e0e8299-23ce-4db7-b413-87b88228110a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.cityofvancouver.us/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-08T13:30:00-07:00",
+      "summary": "View meeting agenda and minutes",
+      "title": "Parking Advisory Committee Meeting",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-09-08T14:00:00-07:00",
       "id": "willamette_week:19152753@2026-09-08T13:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3dea698a-9861-4118-8976-da04ce3746f9.large.png",
       "is_all_day": false,
@@ -120033,6 +120449,34 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-09-09T09:00:00-07:00",
+      "id": "willamette_week:19627096@2026-09-09T08:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2e0e8299-23ce-4db7-b413-87b88228110a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.cityofvancouver.us/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-09T08:00:00-07:00",
+      "summary": "View meeting agenda and minutes",
+      "title": "Parking Advisory Committee Meeting",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
       }
     },
     {
@@ -124493,6 +124937,34 @@
         "address": "3552 N Mississippi Ave",
         "city": "Portland",
         "name": "Atlantis Lounge"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-09-10T18:30:00-07:00",
+      "id": "willamette_week:19627096@2026-09-10T16:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2e0e8299-23ce-4db7-b413-87b88228110a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.cityofvancouver.us/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-10T16:30:00-07:00",
+      "summary": "View meeting agenda and minutes",
+      "title": "Parking Advisory Committee Meeting",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
       }
     },
     {
@@ -164962,5 +165434,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-13T16:09:54+00:00"
+  "generated_at": "2026-08-13T16:13:55+00:00"
 }
