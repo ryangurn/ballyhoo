@@ -81781,6 +81781,35 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-09-05T12:00:00-07:00",
+      "id": "willamette_week:19631358@2026-09-05T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3ff77288-6701-4149-bb17-a6a8fc6aa575.large.png",
+      "is_all_day": false,
+      "listing_url": "https://scld.libcal.com/event/16608070",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-05T11:00:00-07:00",
+      "summary": "Get an overview of how to plant bulbs, including the best seasons and methods for planting. Bring your questions about bulbs to get them answered. Presented by Kurt Madison, WSU Extension Spokane County Master Gardener Volunteer",
+      "title": "Planting Bulbs",
+      "venue": {
+        "address": "22324 E Wellesley Ave",
+        "city": "Orchards",
+        "latitude": 45.6888,
+        "longitude": -122.53026,
+        "name": "Otis Orchards"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-05T14:00:00-07:00",
@@ -100260,7 +100289,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-13T16:12:56+00:00",
+  "generated_at": "2026-08-13T17:15:15+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
