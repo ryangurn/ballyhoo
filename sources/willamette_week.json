@@ -54257,6 +54257,35 @@
     },
     {
       "categories": [
+        "market"
+      ],
+      "end_at": "2026-08-27T13:00:00-07:00",
+      "id": "willamette_week:19508572@2026-08-27T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/53f759f7-92c9-4db0-a5eb-b37baf4aecbc.large.png",
+      "is_all_day": false,
+      "listing_url": "https://vancouverfarmersmarket.org/event/havre-de-grace-at-the-east-vancouver-farmers-market-2/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-27T11:00:00-07:00",
+      "summary": "Thank you for your interest in performing at the Vancouver Farmers Market \\(VFM\\)! Please select up to TWO performance dates by completing the form below. If you have additional questions, please email us at bookin@vancouverfarmersmarket.com Performances will take place June – September on Thursdays, from 11am to 1pm. Did you put your full band name into the “name” section above?:Yes \\(Please do this!!\\) 📆 Reschedule or cancel this event: https://zcal.co/e/6984fca58ae10ab0477a44ac Scheduling by zcal.co",
+      "title": "Havre De Grace at the East Vancouver Farmers Market",
+      "venue": {
+        "address": "17701 SE Mill Plain Blvd",
+        "city": "Vancouver",
+        "latitude": 45.615318,
+        "longitude": -122.494443,
+        "name": "Columbia Tech Center"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-27T17:00:00-07:00",
@@ -99149,7 +99178,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-13T05:10:24+00:00",
+  "generated_at": "2026-08-13T06:48:37+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
