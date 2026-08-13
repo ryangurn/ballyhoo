@@ -119513,6 +119513,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-08T20:30:00-07:00",
+      "id": "calagator:1250482662",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/pdxpug/events/316102878/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-08T18:30:00-07:00",
+      "summary": "Please note different time and location this month at [UpStart Collective](https://www.upstartcollective.org/) at the U.S. Bancorp Tower (a.k.a. Big Pink).  Please RSVP on MeetUp.  Tuesday September 8, 2026 from 6:30pm to 8:30pm.\r\n\r\nCoinciding with [devopsdays Portland, OR](https://devopsdays.org/events/2026-portland-or/welcome/), Sept 8-10, 2026.\r\n\r\nIn v18, Postgres got temporal primary keys, unique constraints, and foreign keys (with `NO ACTION`). Hopefully in v19 we'll have `UPDATE/DELETE FOR PORTION OF`. So it's a good time to start thinking about migrating your schema to a temporal structure. Some advantages include:\r\n\r\n- Easier queries and joins to reconstruct historical data.\r\n- A better way to do soft-deletes (preserving referential integrity).\r\n- No bugs from foreign key references to since-updated data.\r\n- A less ad hoc way of representing historical data.\r\n\r\nThis talk will explore how to migrate your schema to include application-time `daterange` and `tstzrange` columns. I'll use an existing schema for a time-tracking and invoicing application (used by me for over 12 years), showing the pain points of the old structure, not sparing my pride at some bad decisions, and give an approach to bring it all into a nicer temporal structure.\r\n\r\nWe will also talk about some remaining pain points in using temporal tables, and suggestions to mitigate them.\r\nIf you are contemplating a move to temporal tables, this talk will give you an overview of the landscape.\r\n\r\nPresented by Paul Jungwirth:\r\n\r\nPaul is a freelance software developer in Portland, Oregon.\r\nHe has built applications with Postgres since 2010 and is the author of several extensions.\r\nHis Postgres contributions include work on GiST indexes, multiranges, and SQL:2011 application-time features.",
+      "title": "PDXPUG MeetUp: Migrating to a Temporal Schema",
+      "venue": {
+        "address": "111 SW 5th Ave",
+        "city": "Portland",
+        "latitude": 45.5227,
+        "longitude": -122.676,
+        "name": "Upstart Collective"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-08T21:00:00-07:00",
@@ -165508,5 +165536,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-13T18:39:32+00:00"
+  "generated_at": "2026-08-13T19:16:09+00:00"
 }

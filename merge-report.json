@@ -49,6 +49,30 @@
       "venue": "Topaz Farm"
     },
     {
+      "dropped": "dopdx:16953340",
+      "kept": "ticketmaster:vvG1HZ_dmH0IYK",
+      "start_at": "2026-09-08T19:00:00-07:00",
+      "title_dropped": "Tame Impala with special guest: Dominic Fike",
+      "title_kept": "Tame Impala - The Deadbeat Tour",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:18177112@2026-09-08T19:00",
+      "kept": "dopdx:16953340",
+      "start_at": "2026-09-08T19:00:00-07:00",
+      "title_dropped": "Tame Impala - The Deadbeat Tour",
+      "title_kept": "Tame Impala with special guest: Dominic Fike",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:18842644@2026-09-08T19:00",
+      "kept": "dopdx:17297673",
+      "start_at": "2026-09-08T19:00:00-07:00",
+      "title_dropped": "Bear McCreary",
+      "title_kept": "Bear Mccreary",
+      "venue": "Roseland Theater"
+    },
+    {
       "dropped": "willamette_week:18400753@2026-08-13T17:30",
       "kept": "dopdx:16997070",
       "start_at": "2026-08-13T17:30:00-07:00",
@@ -3473,30 +3497,6 @@
       "venue": "Helium Comedy Club"
     },
     {
-      "dropped": "dopdx:16953340",
-      "kept": "ticketmaster:vvG1HZ_dmH0IYK",
-      "start_at": "2026-09-08T19:00:00-07:00",
-      "title_dropped": "Tame Impala with special guest: Dominic Fike",
-      "title_kept": "Tame Impala - The Deadbeat Tour",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "willamette_week:18177112@2026-09-08T19:00",
-      "kept": "dopdx:16953340",
-      "start_at": "2026-09-08T19:00:00-07:00",
-      "title_dropped": "Tame Impala - The Deadbeat Tour",
-      "title_kept": "Tame Impala with special guest: Dominic Fike",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "willamette_week:18842644@2026-09-08T19:00",
-      "kept": "dopdx:17297673",
-      "start_at": "2026-09-08T19:00:00-07:00",
-      "title_dropped": "Bear McCreary",
-      "title_kept": "Bear Mccreary",
-      "venue": "Roseland Theater"
-    },
-    {
       "dropped": "willamette_week:19511084@2026-09-08T19:30",
       "kept": "dopdx:17358757",
       "start_at": "2026-09-08T19:30:00-07:00",
@@ -4049,9 +4049,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5571,
-  "floor_check": "5571 events against a 5568-event baseline",
-  "generated_at": "2026-08-13T18:39:32+00:00",
+  "event_count": 5572,
+  "floor_check": "5572 events against a 5568-event baseline",
+  "generated_at": "2026-08-13T19:16:09+00:00",
   "problems": [],
   "sources": [
     "calagator",
