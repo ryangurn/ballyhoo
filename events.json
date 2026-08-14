@@ -3696,33 +3696,27 @@
     },
     {
       "categories": [
-        "arts"
+        "outdoors"
       ],
-      "id": "ticketmaster:Z7r9jZ1A70kfJ",
-      "image_url": "https://s1.ticketm.net/dam/a/39f/df924024-9079-43a9-822f-e6e6d7a5e39f_93681_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "willamette_week:19442196@2026-08-14T16:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QUKfHEpWMkuzQpzoSiFDww.large.png",
       "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70kfJ",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
       "price": {
         "currency": "USD",
         "is_free": false
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-08-14T16:30:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70kfJ",
       "title": "Garden Brothers Circus",
       "venue": {
-        "address": "1940 N. Victory Blvd.",
+        "address": "1940 N Victory Blvd",
         "city": "Portland",
-        "latitude": 45.5704,
-        "longitude": -122.690498,
+        "latitude": 45.59371,
+        "longitude": -122.688485,
         "name": "Portland International Raceway"
       }
     },
@@ -6326,9 +6320,9 @@
       ],
       "price": {
         "currency": "USD",
-        "is_free": false,
-        "max": 30.88,
-        "min": 30.88
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
       },
       "source": {
         "id": "ticketmaster",
@@ -166584,5 +166578,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-14T23:32:24+00:00"
+  "generated_at": "2026-08-14T23:35:09+00:00"
 }
