@@ -27069,6 +27069,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-20T18:00:00-07:00",
+      "id": "willamette_week:19637362@2026-08-20T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vlHQRCcoikSz9KQPj6vynQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://pnclivestudio.com/swimfish",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-20T17:00:00-07:00",
+      "summary": "Portland's own John Nilsen and SWIMFISH are performing in the PNC Live Studio for a FREE, all-ages show Thursday, August 20th at 5 PM. Experience their unique blend of acoustic, piano-driven music, soulful melodies and rich musicianship—perfect for a Thursday happy hour. Sign up now at PNCLiveStudio.com. Then, catch John Nilsen and SWIMFISH live at HoKu Events on Madison Friday, August 21st at 7 PM. Tickets are just 15 dollars, but they’re going fast! Get yours now at AftonTickets.com.",
+      "title": "John Nilsen & SWIMFISH",
+      "venue": {
+        "address": "1210 SW 6th Ave",
+        "city": "Portland",
+        "latitude": 45.51558,
+        "longitude": -122.68029,
+        "name": "PNC Live Studio"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-08-20T19:00:00-07:00",
@@ -92760,6 +92791,35 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:19637449@2026-09-11T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/27a0caff-3cb7-4778-9cd8-3492169d2512.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1098330346173429/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-11T21:00:00-07:00",
+      "summary": "TICKETS ️ truewest.info/SPOT26 A wildly unorthodox force emerging on the national circuit, Portland native Scott Pemberton and his nimble, funky band bring uninhibited joy and intensity to the Mississippi stage. Enjoy progressive roots music, deep jazz, blues and more! Tickets are on sale now.",
+      "ticket_url": "https://truewest.info/SPOT26",
+      "title": "Scott Pemberton",
+      "venue": {
+        "address": "3939 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5514335632,
+        "longitude": -122.6758499146,
+        "name": "Mississippi Studios"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:19108242@2026-09-11T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LRSXxSg30UaesCOHkfeb4w.large.png",
       "is_all_day": false,
@@ -99361,7 +99421,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-14T19:58:43+00:00",
+  "generated_at": "2026-08-14T20:48:37+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
