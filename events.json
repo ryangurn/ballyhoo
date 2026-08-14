@@ -79119,6 +79119,36 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-08-29T16:00:00-07:00",
+      "id": "willamette_week:19463564@2026-08-29T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dP5uSrqB-0iogvnlM23hlw.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T14:00:00-07:00",
+      "summary": "A ribbon-cutting ceremony for Divine Complexions' new storefront in Newberg, Oregon.",
+      "title": "Divine Complexions Ribbon Cutting",
+      "venue": {
+        "address": "4203 E Crestview Drive",
+        "city": "Newberg",
+        "latitude": 45.311215,
+        "longitude": -122.93551,
+        "name": "Divine Complexions"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-29T17:00:00-07:00",
@@ -79208,36 +79238,6 @@
         "latitude": 45.300045,
         "longitude": -122.973704,
         "name": "Art Elements Gallery"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "end_at": "2026-08-29T16:00:00-07:00",
-      "id": "willamette_week:19463564@2026-08-29T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dP5uSrqB-0iogvnlM23hlw.large.jpg",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-29T14:00:00-07:00",
-      "summary": "A ribbon-cutting ceremony for Divine Complexions' new storefront in Newberg, Oregon.",
-      "title": "Divine Complexions Ribbon Cutting",
-      "venue": {
-        "address": "4203 E Crestview Drive",
-        "city": "Newberg",
-        "latitude": 45.311215,
-        "longitude": -122.93551,
-        "name": "Divine Complexions"
       }
     },
     {
@@ -80774,6 +80774,38 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-29T21:00:00-07:00",
+      "id": "willamette_week:19108238@2026-08-29T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I-xdNs6hgkeiBEOj5ocqag.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/artichoke-music-presents-walter-parks-tickets-1990675876133",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 54.83,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T19:00:00-07:00",
+      "summary": "Acclaimed Americana artist Walter Parks brings an authentic, deeply rooted musical tradition to the stage. Archived in the Library of Congress for his research into the folk music of the Okefenokee Swamp, Parks spent a decade touring the world as the lead guitarist for Woodstock legend Richie Havens and serving as sole accompanist to Judy Collins. Fronting roots groups Swamp Cabbage and The Unlawful Assembly, Parks presents his signature \"Woodstock Variations\" series solo every August. Played directly on Havens’ own 1967 Guild acoustic guitar, these performances offer a tasteful, spirit-driven interpretation of classic Havens and Woodstock-era repertoires—delivering an inspired celebration of American roots music rather than a traditional impersonation.",
+      "ticket_url": "https://www.eventbrite.com/e/low-ticket-alert-walter-parks-tickets-1990675876133?aff=oddtdtcreator&keep_tld=true",
+      "title": "Artichoke Music Presents Walter Parks",
+      "venue": {
+        "address": "2007 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.49979,
+        "longitude": -122.64544,
+        "name": "Artichoke Community Music"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-08-29T20:00:00-07:00",
@@ -80923,37 +80955,6 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-29T21:00:00-07:00",
-      "id": "willamette_week:19108238@2026-08-29T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I-xdNs6hgkeiBEOj5ocqag.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/artichoke-music-presents-walter-parks-tickets-1990675876133",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 54.83,
-        "min": 30.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-29T19:00:00-07:00",
-      "summary": "Swampy Southern U.S. Roots Music – Reels, hollers and spirituals. Originals and unique covers",
-      "title": "Artichoke Music Presents Walter Parks",
-      "venue": {
-        "address": "2007 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.4998,
-        "longitude": -122.64542,
-        "name": "Artichoke Community Music"
       }
     },
     {
@@ -166053,5 +166054,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-14T19:56:28+00:00"
+  "generated_at": "2026-08-14T19:59:56+00:00"
 }
