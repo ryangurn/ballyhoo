@@ -3921,6 +3921,14 @@
       "venue": "Revolution Hall"
     },
     {
+      "dropped": "dopdx:17724519",
+      "kept": "ticketmaster:rZ7HnEZ1A4ZgON",
+      "start_at": "2026-09-12T20:00:00-07:00",
+      "title_dropped": "Transcend Together",
+      "title_kept": "TRANSCEND TOGETHER",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "dopdx:17456526",
       "kept": "ticketmaster:rZ7HnEZ1AfPgaS",
       "start_at": "2026-09-12T20:00:00-07:00",
@@ -4129,9 +4137,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5579,
-  "floor_check": "5579 events against a 5579-event baseline",
-  "generated_at": "2026-08-14T19:32:18+00:00",
+  "event_count": 5588,
+  "floor_check": "5588 events against a 5579-event baseline",
+  "generated_at": "2026-08-14T19:34:09+00:00",
   "problems": [],
   "sources": [
     "calagator",
