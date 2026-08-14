@@ -1953,6 +1953,14 @@
       "venue": "Blue Frog Equine"
     },
     {
+      "dropped": "willamette_week:19636921@2026-08-28T19:00",
+      "kept": "dopdx:17728302",
+      "start_at": "2026-08-28T19:00:00-07:00",
+      "title_dropped": "Trails & Tunes Live at Threshold Brewing",
+      "title_kept": "Trails & Tunes Live!",
+      "venue": "Threshold Brewing"
+    },
+    {
       "dropped": "willamette_week:18107994@2026-08-28T19:00",
       "kept": "dopdx:17176446",
       "start_at": "2026-08-28T19:30:00-07:00",
@@ -4121,9 +4129,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5578,
-  "floor_check": "5578 events against a 5576-event baseline",
-  "generated_at": "2026-08-14T19:12:39+00:00",
+  "event_count": 5579,
+  "floor_check": "5579 events against a 5578-event baseline",
+  "generated_at": "2026-08-14T19:18:02+00:00",
   "problems": [],
   "sources": [
     "calagator",
