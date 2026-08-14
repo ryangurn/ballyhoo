@@ -36096,9 +36096,15 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786645994/event-17723737.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/8/20/john-nilsen-swimfish-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
       },
       "source": {
         "id": "dopdx",
@@ -36106,6 +36112,7 @@
         "url": "https://dopdx.com"
       },
       "start_at": "2026-08-20T17:00:00-07:00",
+      "summary": "Portland's own John Nilsen and SWIMFISH are performing in the PNC Live Studio for a FREE, all-ages show Thursday, August 20th at 5 PM. Experience their unique blend of acoustic, piano-driven music, soulful melodies and rich musicianship—perfect for a Thursday happy hour. Sign up now at PNCLiveStudio.com. Then, catch John Nilsen and SWIMFISH live at HoKu Events on Madison Friday, August 21st at 7 PM. Tickets are just 15 dollars, but they’re going fast! Get yours now at AftonTickets.com.",
       "title": "John Nilsen & SWIMFISH",
       "venue": {
         "address": "1210 SW 6th Ave",
@@ -125290,6 +125297,10 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786674011/event-17725484.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/9/11/scott-pemberton-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "organizer": "Mississippi Studios Presents",
       "price": {
         "currency": "USD",
@@ -125304,6 +125315,7 @@
       },
       "start_at": "2026-09-11T21:00:00-07:00",
       "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance. Posted ticket limits are strictly enforced. We reserve the right to cancel any or all orders and tickets if you exceed the posted limits, including orders associated with the same name, e-mail address, billing address, credit card number or other information. One thing is clear when you hear Scott Pemberton O Theory. This is something new. Rooted in the familiar yet utterly unique, this nimble Power Trio creates their own brand of progressive roots music blending deep jazz, blues, rock/grunge, funk and psychedelia. It’s all there, and often all in the same song. Driven by Scott's wildly uno",
+      "ticket_url": "https://truewest.info/SPOT26",
       "title": "Scott Pemberton",
       "venue": {
         "address": "3939 North Mississippi Ave",
@@ -166053,5 +166065,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-14T20:44:48+00:00"
+  "generated_at": "2026-08-14T20:50:00+00:00"
 }
