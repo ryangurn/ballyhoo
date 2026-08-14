@@ -3673,6 +3673,14 @@
       "venue": "Blue Frog Equine"
     },
     {
+      "dropped": "willamette_week:19636700@2026-09-11T19:00",
+      "kept": "dopdx:17701923",
+      "start_at": "2026-09-11T19:00:00-07:00",
+      "title_dropped": "Breaking News Presents: Please Stand By",
+      "title_kept": "Breaking News Presents: Please Stand By",
+      "venue": "Kickstand Comedy"
+    },
+    {
       "dropped": "willamette_week:19114769@2026-09-11T19:30",
       "kept": "dopdx:17290470",
       "start_at": "2026-09-11T19:30:00-07:00",
@@ -4113,9 +4121,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5579,
-  "floor_check": "5579 events against a 5575-event baseline",
-  "generated_at": "2026-08-14T18:05:57+00:00",
+  "event_count": 5581,
+  "floor_check": "5581 events against a 5575-event baseline",
+  "generated_at": "2026-08-14T18:09:31+00:00",
   "problems": [],
   "sources": [
     "calagator",
