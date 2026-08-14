@@ -12749,6 +12749,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-15T20:00:00-07:00",
+      "id": "willamette_week:19638791@2026-08-15T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9n9efA9c60OtCAb-kbk_HA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/tabor-space-summer-fest-silent-disco-tickets-1995880203416",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 55.2,
+        "min": 12.51
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T17:00:00-07:00",
+      "summary": "Taborspace- Non-profit Community Center “Summer Fest Benefit” & Community Showcase Saturday August 15, 2026 4-8pm",
+      "title": "Tabor Space Summer Fest & Silent Disco",
+      "venue": {
+        "address": "5441 SE Belmont St",
+        "city": "Portland",
+        "latitude": 45.516823,
+        "longitude": -122.607399,
+        "name": "TaborSpace"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "id": "willamette_week:19484101@2026-08-15T17:00",
@@ -13738,6 +13769,37 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Hawthorne Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-15T21:00:00-07:00",
+      "id": "willamette_week:19638792@2026-08-15T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/U76hs9qMCkuYn36QDQTGZQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/portland-ghost-tour-sinister-after-dark-haunted-walking-tour-tickets-1996657962715",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.18,
+        "min": 23.18
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T19:00:00-07:00",
+      "summary": "Explore Portland’s most haunted locations. Real ghost hunting, new route, and Sinister After Dark drinks before & after.",
+      "title": "Portland Ghost Tour: Sinister After Dark Haunted Walking Tour",
+      "venue": {
+        "address": "301 SW Morrison St",
+        "city": "Portland",
+        "latitude": 45.51846,
+        "longitude": -122.675661,
+        "name": "Sinister Coffee & Creamery"
       }
     },
     {
@@ -166578,5 +166640,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-14T23:35:09+00:00"
+  "generated_at": "2026-08-14T23:42:26+00:00"
 }
