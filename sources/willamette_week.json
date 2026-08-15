@@ -3598,6 +3598,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-15T17:00:00-07:00",
+      "id": "willamette_week:19645158@2026-08-15T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PNOz1yt-jkepDoy1d1MW6A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://milagro.org/event/enfoque-exploration-of-cuban-musical-styles/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T14:00:00-07:00",
+      "summary": "Gather in the Milagro Theatre for an educational presentation featuring Jessie Marquez, Lorenzo Molina, and Milagro Education Director Yosmel López Ortiz. Topics include the history of Filin, Afro-Cuban rhythm, clave, and ensemble interplay. Following the presentations, guests will transition to Milagro’s community gathering space, El Zócalo, for a descarga, a participatory jam session celebrating improvisation, dancing, food, and community. Musicians and audience members are invited to jam along, or guests may simply soak up of one of Cuba’s enduring musical traditions while sharing food and conversation. Age Recommendation: All Ages Estimated Running Time: 1 hour for Educational Presentation; 2 hours for Descarga This event is presented in partnership with Montavilla Jazz with support form Chamber Music America’s Jazz Consortium Grant and the Oregon Arts Commission’s Arts Build Communities program.",
+      "title": "enfoque: Exploration of Cuban Musical Styles",
+      "venue": {
+        "address": "525 SE Stark St",
+        "city": "Portland",
+        "latitude": 45.5194050819,
+        "longitude": -122.6603981853,
+        "name": "Milagro"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-15T15:00:00-07:00",
@@ -5519,6 +5548,36 @@
         "latitude": 45.48019,
         "longitude": -122.56929,
         "name": "Lighthouse Community Yoga PDX"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-15T21:00:00-07:00",
+      "id": "willamette_week:19645184@2026-08-15T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/062d4c89-203d-4b32-8806-9952f398dc8f.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1667657600880736/1667657614214068/?active_tab=about",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T19:30:00-07:00",
+      "summary": "Outrageous musical improv where anything can happen. A box of audience suggestions sits on the stage and the cast has no idea what the night has in store, but it's guaranteed to be hilarious, surprising, and at least as bold as you are. Featuring a fully lgbtqia2s\\+ cast of extraordinary singers, improvisers, and storytellers, Dropped Notes is a show for the theater-gay in all of us \\(allies welcome!\\) Come ready to hold your breath and lose it with laughter as the cast tackles your new topics every night. Want to bring the family? Check out the Dropped Notes Family Friendly Show on June 20th. DETAILS 3rd Saturdays, March - August at Curious Comedy Doors at 7:00 pm Show at 7:30 pm Advanced Ticket $15.00 Door Ticket $20.00",
+      "ticket_url": "https://www.crowdwork.com/e/dropped-notes-an-outrageous-musical-revue",
+      "title": "Dropped Notes: An Outrageous Musical Revue",
+      "venue": {
+        "address": "5225 NE MLK Blvd",
+        "city": "Portland",
+        "latitude": 45.5613746643,
+        "longitude": -122.6619644165,
+        "name": "Curious Comedy Theater"
       }
     },
     {
@@ -97149,7 +97208,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-15T21:37:33+00:00",
+  "generated_at": "2026-08-15T22:41:03+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
