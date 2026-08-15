@@ -188,6 +188,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19642956@2026-08-15T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iuf-PIXlK0y9lIeUdgdkzw.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.visitvancouverwa.com/event/okeefe-farms-sunflower-festival-%7c-u-pick-flowers-%26-family-fun/27561/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-15T00:00:00-07:00",
+      "summary": "Two weekends of sunflower fields, U-pick blooms, local vendors, delicious food, photo ops & family fun at O'Keefe Farms! Overview Celebrate summer...",
+      "title": "O'Keefe Farms Sunflower Festival | U-Pick Flowers & Family Fun",
+      "venue": {
+        "address": "17604 NE 182nd Ave",
+        "city": "Brush Prairie",
+        "latitude": 45.75036,
+        "longitude": -122.48839,
+        "name": "O'Keefe Farms"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19641208@2026-08-15T00:00",
@@ -6925,6 +6953,34 @@
         "latitude": 45.5216508,
         "longitude": -122.6722152,
         "name": "Kells Irish Restaurant & Pub"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19642956@2026-08-16T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iuf-PIXlK0y9lIeUdgdkzw.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.visitvancouverwa.com/event/okeefe-farms-sunflower-festival-%7c-u-pick-flowers-%26-family-fun/27561/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-16T00:00:00-07:00",
+      "summary": "Two weekends of sunflower fields, U-pick blooms, local vendors, delicious food, photo ops & family fun at O'Keefe Farms! Overview Celebrate summer...",
+      "title": "O'Keefe Farms Sunflower Festival | U-Pick Flowers & Family Fun",
+      "venue": {
+        "address": "17604 NE 182nd Ave",
+        "city": "Brush Prairie",
+        "latitude": 45.75036,
+        "longitude": -122.48839,
+        "name": "O'Keefe Farms"
       }
     },
     {
@@ -96811,7 +96867,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-15T14:42:02+00:00",
+  "generated_at": "2026-08-15T15:38:02+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
