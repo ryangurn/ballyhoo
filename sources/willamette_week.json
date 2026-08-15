@@ -32987,6 +32987,38 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-08-22T23:30:00-07:00",
+      "id": "willamette_week:19516128@2026-08-22T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bSn1QBZxJ0mSkqmDR_47Mw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/telltale-presents-lets-hold-hands-at-the-end-of-the-world-tickets-1993641464287",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T19:30:00-07:00",
+      "summary": "21+ event. There will be stories told between each musical performance.",
+      "ticket_url": "https://www.eventbrite.com/e/telltale-presents-lets-hold-hands-at-the-end-of-the-world-tickets-1993641464287",
+      "title": "Telltale Presents: LET'S HOLD HANDS AT THE END OF THE WORLD",
+      "venue": {
+        "address": "426 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5199093372,
+        "longitude": -122.6762111485,
+        "name": "Kelly's Olympian"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-08-22T21:30:00-07:00",
       "id": "willamette_week:19618070@2026-08-22T19:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/de8a8d2e-0aee-4a6e-b082-3194ae1b1c25.large.png",
@@ -33012,38 +33044,6 @@
         "latitude": 45.521690526832046,
         "longitude": -123.08607918789842,
         "name": "Garage Door"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-22T23:30:00-07:00",
-      "id": "willamette_week:19516128@2026-08-22T19:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/G-e3EsBWhEKglQBmQwOTWg.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/telltale-presents-lets-hold-hands-at-the-end-of-the-world-tickets-1993641464287",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 15.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-22T19:30:00-07:00",
-      "summary": "21+ event. There will be stories told between each musical performance.",
-      "ticket_url": "https://www.eventbrite.com/e/telltale-presents-lets-hold-hands-at-the-end-of-the-world-tickets-1993641464287",
-      "title": "Telltale Presents: LET'S HOLD HANDS AT THE END OF THE WORLD",
-      "venue": {
-        "address": "426 SW Washington St",
-        "city": "Portland",
-        "latitude": 45.5199093372,
-        "longitude": -122.6762111485,
-        "name": "Kelly's Olympian"
       }
     },
     {
@@ -97123,7 +97123,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-15T17:38:30+00:00",
+  "generated_at": "2026-08-15T18:49:24+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
