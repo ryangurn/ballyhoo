@@ -81862,6 +81862,32 @@
       "categories": [
         "sports"
       ],
+      "id": "willamette_week:19644525@2026-08-31T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/56924039-b795-486d-a4a5-a79d4c6399ff.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-31T17:00:00-07:00",
+      "title": "JV Football at Banks High",
+      "venue": {
+        "address": "13050 NW Main St",
+        "city": "Banks",
+        "latitude": 45.615034,
+        "longitude": -123.111331,
+        "name": "Banks High School"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
       "end_at": "2026-08-31T22:00:00-07:00",
       "id": "willamette_week:19152443@2026-08-31T17:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd3_DRlJ3EGDL7c9ei8Yvg.large.jpg",
@@ -163131,5 +163157,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-15T21:34:27+00:00"
+  "generated_at": "2026-08-15T21:38:39+00:00"
 }
