@@ -89,78 +89,6 @@
       "venue": "Barrel Room Portland"
     },
     {
-      "dropped": "dopdx:17343285",
-      "kept": "ticketmaster:Z7r9jZ1A70bfk",
-      "start_at": "2026-08-15T19:00:00-07:00",
-      "title_dropped": "Anees",
-      "title_kept": "anees",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "dopdx:17327060",
-      "kept": "ticketmaster:Z7r9jZ1A70YZa",
-      "start_at": "2026-08-15T19:00:00-07:00",
-      "title_dropped": "Joe List",
-      "title_kept": "Joe List",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "dopdx:17392361",
-      "kept": "ticketmaster:Z7r9jZ1A70YZa",
-      "start_at": "2026-08-15T19:00:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Ron Taylor",
-      "title_kept": "Joe List",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "dopdx:17290468",
-      "kept": "ticketmaster:Z7r9jZ1AAZvea",
-      "start_at": "2026-08-15T20:00:00-07:00",
-      "title_dropped": "SOLD OUT: Gillian Welch & David Rawlings play Grateful Dead acoustic Reckoning",
-      "title_kept": "Bailen (21 and Over)",
-      "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "dopdx:17232002",
-      "kept": "ticketmaster:Z7r9jZ1A709Gz",
-      "start_at": "2026-08-15T20:00:00-07:00",
-      "title_dropped": "It’s Probably Nothing...",
-      "title_kept": "Chris Ramsay Presents: It???s Probably Nothing...",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "dopdx:17613214",
-      "kept": "ticketmaster:rZ7HnEZ1Afa-37",
-      "start_at": "2026-08-15T20:00:00-07:00",
-      "title_dropped": "Barnaby Jones with Nervous State, Too Close for Comfort, Interstate, & The Kieth's",
-      "title_kept": "BARNABY JONES with Nervous State, Too Close For Comfort, Innerstate, & The Kieth's",
-      "venue": "Dante's"
-    },
-    {
-      "dropped": "dopdx:17327061",
-      "kept": "ticketmaster:Z7r9jZ1A70YZF",
-      "start_at": "2026-08-15T21:45:00-07:00",
-      "title_dropped": "Joe List",
-      "title_kept": "Joe List",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "dopdx:17392362",
-      "kept": "ticketmaster:Z7r9jZ1A70YZF",
-      "start_at": "2026-08-15T21:45:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Ron Taylor",
-      "title_kept": "Joe List",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "dopdx:17610058",
-      "kept": "ticketmaster:rZ7HnEZ1AfZ-_V",
-      "start_at": "2026-08-15T22:30:00-07:00",
-      "title_dropped": "Burly Q Revue",
-      "title_kept": "BURLY-Q REVUE",
-      "venue": "Jack London Revue"
-    },
-    {
       "dropped": "willamette_week:18521269@2026-08-16T10:00",
       "kept": "portland_farmers_market:king-farmers-market-3@2026-08-16",
       "start_at": "2026-08-16T10:00:00-07:00",
@@ -3737,6 +3665,14 @@
       "venue": "Barrel Room Portland"
     },
     {
+      "dropped": "willamette_week:19637450@2026-09-14T20:00",
+      "kept": "dopdx:17701100",
+      "start_at": "2026-09-14T20:00:00-07:00",
+      "title_dropped": "Ruby Friedman Orchestra",
+      "title_kept": "Ruby Friedman Orchestra",
+      "venue": "Mississippi Studios"
+    },
+    {
       "dropped": "willamette_week:17670892@2026-08-16T09:00",
       "kept": "pdxparent_markets:hillsdale-farmers-market@2026-08-16",
       "start_at": "2026-08-16T09:00:00-07:00",
@@ -3857,9 +3793,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5338,
-  "floor_check": "5338 events against a 5493-event baseline",
-  "generated_at": "2026-08-16T02:08:26+00:00",
+  "event_count": 5283,
+  "floor_check": "5283 events against a 5493-event baseline",
+  "generated_at": "2026-08-16T02:10:15+00:00",
   "problems": [],
   "sources": [
     "calagator",
