@@ -121,6 +121,14 @@
       "venue": "Northgate Park"
     },
     {
+      "dropped": "willamette_week:19442196@2026-08-16T16:00",
+      "kept": "ticketmaster:Z7r9jZ1AAZo7K",
+      "start_at": "2026-08-16T16:00:00-07:00",
+      "title_dropped": "Garden Brothers Circus",
+      "title_kept": "Garden Brothers Circus",
+      "venue": "Portland International Raceway"
+    },
+    {
       "dropped": "willamette_week:18400756@2026-08-16T17:30",
       "kept": "dopdx:16997079",
       "start_at": "2026-08-16T17:45:00-07:00",
@@ -191,6 +199,14 @@
       "title_dropped": "ODDBALLS AND OUTLAWS: IV and The Strange Band + Clownvis Presley",
       "title_kept": "ODDBALLS AND OUTLAWS: IV and The Strange Band + Clownvis Presley",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19442196@2026-08-16T19:00",
+      "kept": "ticketmaster:Z7r9jZ1AAZo7f",
+      "start_at": "2026-08-16T19:00:00-07:00",
+      "title_dropped": "Garden Brothers Circus",
+      "title_kept": "Garden Brothers Circus",
+      "venue": "Portland International Raceway"
     },
     {
       "dropped": "willamette_week:19053284@2026-08-16T20:00",
@@ -809,6 +825,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:19651606@2026-08-22T19:00",
+      "kept": "dopdx:17436256",
+      "start_at": "2026-08-22T19:00:00-07:00",
+      "title_dropped": "BOYeurism with special guest Lovey Goldmine",
+      "title_kept": "Boyeurism",
+      "venue": "The Alberta Rose Theatre"
+    },
+    {
       "dropped": "willamette_week:19114763@2026-08-22T19:00",
       "kept": "dopdx:17260788",
       "start_at": "2026-08-22T19:00:00-07:00",
@@ -934,6 +958,14 @@
       "start_at": "2026-08-22T22:30:00-07:00",
       "title_dropped": "Burly Q Revue",
       "title_kept": "BURLY-Q REVUE",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:14445255@2026-08-22T22:30",
+      "kept": "dopdx:17637719",
+      "start_at": "2026-08-22T22:30:00-07:00",
+      "title_dropped": "BURLY-Q REVUE",
+      "title_kept": "Burly Q Revue",
       "venue": "Jack London Revue"
     },
     {
@@ -1183,6 +1215,14 @@
       "title_dropped": "The Ocean Hates You! with Forrest Shaw",
       "title_kept": "The Ocean Hates You! with Forrest Shaw",
       "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "willamette_week:19651656@2026-08-26T18:30",
+      "kept": "dopdx:17650446",
+      "start_at": "2026-08-26T18:30:00-07:00",
+      "title_dropped": "Make Waves presents Twisted Whistle: Bring it on Home A Reunion, a Concert",
+      "title_kept": "Twisted Whistle: Bring it on Home A Reunion, a Concert",
+      "venue": "Alberta Abbey"
     },
     {
       "dropped": "willamette_week:17962658@2026-08-26T18:35",
@@ -1759,6 +1799,14 @@
       "title_dropped": "The Neon Room at Helium: Rachel Williams",
       "title_kept": "The Neon Room at Helium: Rachel Williams",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:14445255@2026-08-29T22:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfZ-87",
+      "start_at": "2026-08-29T22:30:00-07:00",
+      "title_dropped": "BURLY-Q REVUE",
+      "title_kept": "BURLY-Q REVUE",
+      "venue": "Jack London Revue"
     },
     {
       "dropped": "willamette_week:17670892@2026-08-30T09:00",
@@ -2681,6 +2729,14 @@
       "venue": "Funhouse Lounge"
     },
     {
+      "dropped": "willamette_week:14445255@2026-09-05T22:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfZ-4f",
+      "start_at": "2026-09-05T22:30:00-07:00",
+      "title_dropped": "BURLY-Q REVUE",
+      "title_kept": "BURLY-Q REVUE",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "dopdx:17716461",
       "kept": "ticketmaster:rZ7HnEZ1AfvKe7",
       "start_at": "2026-09-05T23:30:00-07:00",
@@ -3513,6 +3569,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:14445255@2026-09-12T22:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfZ-37",
+      "start_at": "2026-09-12T22:30:00-07:00",
+      "title_dropped": "BURLY-Q REVUE",
+      "title_kept": "BURLY-Q REVUE",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "willamette_week:18460997@2026-09-13T11:00",
       "kept": "dopdx:17708949",
       "start_at": "2026-09-13T11:00:00-07:00",
@@ -3793,9 +3857,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5270,
-  "floor_check": "5270 events against a 5270-event baseline",
-  "generated_at": "2026-08-16T17:33:27+00:00",
+  "event_count": 5424,
+  "floor_check": "5424 events against a 5270-event baseline",
+  "generated_at": "2026-08-16T17:37:13+00:00",
   "problems": [],
   "sources": [
     "calagator",
