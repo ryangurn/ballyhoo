@@ -331,6 +331,17 @@
       "recent": "sources/pdxparent_markets/recent/2026-08-15/071810Z.json.gz",
       "sha256": "93e850c26aff79f64ab536897de833ec8fa0e31ed73a07ca50c4e773b6d2fc20",
       "unchanged": false
+    },
+    {
+      "bytes": 370039,
+      "captured_at": "2026-08-16T02:12:13+00:00",
+      "content_sha256": "52663b4640ad389ec8ea59ef6e219f17a77c5c4bf640105f7a1bfef10b677ae9",
+      "daily": "sources/pdxparent_markets/daily/2026/08/16.json.gz",
+      "event_count": 386,
+      "gzip_bytes": 16911,
+      "recent": "sources/pdxparent_markets/recent/2026-08-16/021213Z.json.gz",
+      "sha256": "777df6e780c82b87393576a8d4be27f88d3c459178b30d0a574ba04be9f2510f",
+      "unchanged": true
     }
   ]
 }
