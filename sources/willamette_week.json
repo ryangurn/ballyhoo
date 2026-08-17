@@ -18209,6 +18209,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-22T00:00:00-07:00",
+      "id": "willamette_week:19660231@2026-08-21T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fta5NS-sHUeFBD2dLCzXsA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://theheadlinersclub.com/event/dance-nation-082126/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-21T20:00:00-07:00",
+      "ticket_url": "https://aftontickets.com/event/buyticket/1qjwvn3y97/dance-nation",
+      "title": "Dance Nation LIVE: Portland’s Ultimate Top 40 Dance Party",
+      "venue": {
+        "address": "17880 SW McEwan Rd",
+        "city": "Lake Oswego",
+        "latitude": 45.395589,
+        "longitude": -122.742865,
+        "name": "The Headliner’s Club"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:19651614@2026-08-21T20:00",
@@ -96049,7 +96080,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-17T22:44:11+00:00",
+  "generated_at": "2026-08-17T23:40:53+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
