@@ -1297,20 +1297,20 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
-      "dropped": "willamette_week:19017574@2026-08-28T19:00",
-      "kept": "dopdx:17696643",
-      "start_at": "2026-08-28T19:00:00-07:00",
-      "title_dropped": "Outdoor Equine Sound Bath & Meditation Summer Series",
-      "title_kept": "The Outdoor Pony Farm Series: Sound Bath Meditation at Blue Frog Equine",
-      "venue": "Blue Frog Equine"
-    },
-    {
       "dropped": "willamette_week:19636921@2026-08-28T19:00",
       "kept": "dopdx:17728302",
       "start_at": "2026-08-28T19:00:00-07:00",
       "title_dropped": "Trails & Tunes Live at Threshold Brewing",
       "title_kept": "Trails & Tunes Live!",
       "venue": "Threshold Brewing"
+    },
+    {
+      "dropped": "willamette_week:19017574@2026-08-28T19:00",
+      "kept": "dopdx:17696643",
+      "start_at": "2026-08-28T19:00:00-07:00",
+      "title_dropped": "Outdoor Equine Sound Bath & Meditation Summer Series",
+      "title_kept": "The Outdoor Pony Farm Series: Sound Bath Meditation at Blue Frog Equine",
+      "venue": "Blue Frog Equine"
     },
     {
       "dropped": "willamette_week:18107994@2026-08-28T19:00",
@@ -3731,7 +3731,7 @@
   ],
   "event_count": 5340,
   "floor_check": "5340 events against a 5339-event baseline",
-  "generated_at": "2026-08-17T15:53:39+00:00",
+  "generated_at": "2026-08-17T15:55:31+00:00",
   "problems": [],
   "sources": [
     "calagator",
