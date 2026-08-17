@@ -28361,6 +28361,38 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-22T20:00:00-07:00",
+      "id": "willamette_week:19654209@2026-08-22T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_6UyPsYlZUiA6eWgaygkPw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://northbankbrewers.com/content.aspx?page_id=4002&club_id=796448&item_id=2958859",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 64.0,
+        "min": 49.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T15:00:00-07:00",
+      "summary": "Over 30 breweries—one epic event! Our beloved Northbank Brewers are teaming up with top breweries from Oregon and beyond to craft exclusive, one-of-a-kind brews you won’t find anywhere else. Unlimited tastings, food trucks, and live entertainment. Ticket Info General Admission – $49 Includes unlimited tastings, entertainment, and a commemorative tasting glass. VIP Admission – $64 Arrive an hour early (2:00 PM), beat the crowds, and enjoy early access featuring a larger tasting glass, snacks, and hot dogs.",
+      "ticket_url": "https://northbankbrewers.com/content.aspx?page_id=4002&club_id=796448&item_id=2958859",
+      "title": "Brewing Bridges Collaboration Festival",
+      "venue": {
+        "address": "9400 NE 134th St",
+        "city": "Vancouver",
+        "latitude": 45.72245,
+        "longitude": -122.57692,
+        "name": "Heathen Estate Winery"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-22T18:00:00-07:00",
@@ -157848,5 +157880,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-17T07:14:54+00:00"
+  "generated_at": "2026-08-17T07:19:50+00:00"
 }
