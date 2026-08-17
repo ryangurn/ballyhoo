@@ -1,14 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:19466042@2026-08-16T13:00",
-      "kept": "portland_farmers_market:pythias-braswell-2@2026-08-16",
-      "start_at": "2026-08-16T13:00:00-07:00",
-      "title_dropped": "Pythias Braswell",
-      "title_kept": "Pythias Braswell",
-      "venue": "Lents International Farmers Market"
-    },
-    {
       "dropped": "dopdx:17600841",
       "kept": "ticketmaster:rZ7HnEZ1Af-xaN",
       "start_at": "2026-08-20T19:00:00-07:00",
@@ -103,6 +95,14 @@
       "title_dropped": "Kettlebell 101: Simple & Sinister™ Workshop-Portland, OR",
       "title_kept": "Kettlebell 101: Simple & Sinister™ Workshop—, USA",
       "venue": "Industrial Strength Gym: Fitness & Jiu Jitsu"
+    },
+    {
+      "dropped": "willamette_week:19466042@2026-08-16T13:00",
+      "kept": "portland_farmers_market:pythias-braswell-2@2026-08-16",
+      "start_at": "2026-08-16T13:00:00-07:00",
+      "title_dropped": "Pythias Braswell",
+      "title_kept": "Pythias Braswell",
+      "venue": "Lents International Farmers Market"
     },
     {
       "dropped": "willamette_week:19474441@2026-08-16T14:00",
@@ -3841,9 +3841,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5428,
-  "floor_check": "5428 events against a 5428-event baseline",
-  "generated_at": "2026-08-16T23:58:31+00:00",
+  "event_count": 5427,
+  "floor_check": "5427 events against a 5428-event baseline",
+  "generated_at": "2026-08-17T01:51:54+00:00",
   "problems": [],
   "sources": [
     "calagator",
