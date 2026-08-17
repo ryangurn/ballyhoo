@@ -6799,6 +6799,37 @@
         "music"
       ],
       "end_at": "2026-08-19T02:00:00-07:00",
+      "id": "dopdx:17732761",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786798989/event-17732761.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/18/super-secret-band-friends-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 8.0,
+        "min": 8.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-18T20:00:00-07:00",
+      "summary": "Super Secret Band has become a goodfoot staple. Their blazing live shows touch on rock, dark jazz, blues and funk with ambient jams that drop into dance floor burners effortlessly. They’ll be here Tuesdays (2nd-4th) in August with guests and friends throughout the month. $8",
+      "title": "Super Secret Band & Friends",
+      "venue": {
+        "address": "2845 SE Stark",
+        "city": "PDX",
+        "latitude": 45.519531,
+        "longitude": -122.636324,
+        "name": "Goodfoot"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-19T02:00:00-07:00",
       "id": "ticketmaster:rZ7HnEZ1AfPN8d",
       "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -21646,6 +21677,40 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-08-21T20:00:00-07:00",
+      "id": "dopdx:17397683",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786983755/event-17397683.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/weekly/fri/can-can-s-dolly-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 29.0,
+        "min": 29.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-21T18:30:00-07:00",
+      "summary": "A reverie of rhinestones and ruffles, dazzling dance, and iconic sing-alongs, Dolly! is an original, fictional summertime spectacle inspired by the divine feminine. Magical and honey-covered, this jukebox-dance musical is a soulful romp that follows the miracle maven as she uses her supernatural powers to transform the world into a glittery utopia. Big hair and even bigger ballads will inspire even the most apprehensive to sing through the laughs, love, tears, and joy.",
+      "ticket_url": "https://feverup.com/m/558626",
+      "title": "Can Can's Dolly!",
+      "venue": {
+        "address": "6 SW 3rd Ave",
+        "city": "Portland",
+        "name": "Can Can's Paris Theatre"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "portland_parks:2026-08-21-glenwood-park-picante",
@@ -21736,38 +21801,6 @@
         "latitude": 45.630798,
         "longitude": -122.858101,
         "name": "Topaz Farm"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-08-21T20:00:00-07:00",
-      "id": "willamette_week:19002755@2026-08-21T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VozQqdQAGUeqHf3AJMRrzw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.cancanportland.com/dolly-2026",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 79.0,
-        "min": 29.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-21T18:30:00-07:00",
-      "summary": "A reverie of rhinestones and ruffles, dazzling dance, and iconic sing-alongs, Dolly! is an original, fictional summertime spectacle inspired by the divine feminine. Magical and honey-covered, this jukebox-dance musical is a soulful romp that follows the miracle maven as she uses her supernatural powers to transform the world into a glittery utopia. Big hair and even bigger ballads will inspire even the most apprehensive to sing through the laughs, love, tears, and joy.",
-      "ticket_url": "https://feverup.com/m/558626",
-      "title": "Can Can's Dolly!",
-      "venue": {
-        "address": "6 SW 3rd Ave",
-        "city": "Portland",
-        "latitude": 45.522875,
-        "longitude": -122.673009,
-        "name": "Can Can's Paris Theatre"
       }
     },
     {
@@ -38422,6 +38455,35 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-08-24T21:00:00-07:00",
+      "id": "dopdx:17729285",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786745367/event-17729285.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/24/good-old-kyle-s-75th-birthday-bash-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 12.87,
+        "min": 10.24
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-24T19:00:00-07:00",
+      "summary": "Good Old Kyle's 75th Birthday Party",
+      "title": "Good Old Kyle's 75th Birthday Bash",
+      "venue": {
+        "address": "2007 SE Powell Blvd",
+        "city": "Portland",
+        "name": "Artichoke Music"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1AfaFO7",
       "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -42334,6 +42396,37 @@
         "address": "421 SE Grand Ave",
         "city": "Portland",
         "name": "The Coffin Club"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-26T02:00:00-07:00",
+      "id": "dopdx:17732762",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786798992/event-17732762.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/25/super-secret-band-friends-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 8.0,
+        "min": 8.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-25T20:00:00-07:00",
+      "summary": "Super Secret Band has become a goodfoot staple. Their blazing live shows touch on rock, dark jazz, blues and funk with ambient jams that drop into dance floor burners effortlessly. They’ll be here Tuesdays (2nd-4th) in August with guests and friends throughout the month. $8",
+      "title": "Super Secret Band & Friends",
+      "venue": {
+        "address": "2845 SE Stark",
+        "city": "PDX",
+        "latitude": 45.519531,
+        "longitude": -122.636324,
+        "name": "Goodfoot"
       }
     },
     {
@@ -51675,10 +51768,15 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-08-28T02:00:00-07:00",
       "id": "ticketmaster:rZ7HnEZ1A4Zy_N",
       "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketweb.com/event/videoboy-with-carny-cumm-dantes-tickets/15039663",
+      "merged_sources": [
+        "dopdx",
+        "ticketmaster"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -54437,6 +54535,32 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-08-28T21:45:00-07:00",
+      "id": "dopdx:17728712",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/28/it-ends-multiple-showtimes-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-28T16:30:00-07:00",
+      "summary": "Friends on a late-night food run become trapped on an infinite highway with otherworldly terrors lurking beyond. Confined in their Jeep Cherokee, they must decide whether to accept their fate or attempt escape.",
+      "title": "It Ends (Multiple Showtimes)",
+      "venue": {
+        "address": "616 NW 21st Ave, Portland, Oregon 97209",
+        "name": "Cinema 21 Theater"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-28T19:30:00-07:00",
@@ -56998,6 +57122,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-29T02:00:00-07:00",
+      "id": "dopdx:17732763",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786798995/event-17732763.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/28/soul-stew-with-dj-aquaman-friends-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-28T21:00:00-07:00",
+      "summary": "Portland’s longest running DJ Dance Night, Soul Stew delivers deep & delicious cuts of funk, soul, disco & break beats on vinyl 45s. $10",
+      "title": "Soul Stew With Dj Aquaman & Friends",
+      "venue": {
+        "address": "2845 SE Stark",
+        "city": "PDX",
+        "latitude": 45.519531,
+        "longitude": -122.636324,
+        "name": "Goodfoot"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-29T02:00:00-07:00",
@@ -57996,6 +58151,31 @@
         "latitude": 45.484095,
         "longitude": -122.804067,
         "name": "Beaverton City Park"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-08-30T02:00:00-07:00",
+      "id": "dopdx:17729009",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786741148/event-17729009.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/29/diaper-dash-fun-run-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-29T09:00:00-07:00",
+      "summary": "Run, walk & make a difference! Join us for the Diaper Dash Fun Run supporting local families and the upcoming Community Baby Shower.",
+      "title": "Diaper Dash Fun Run",
+      "venue": {
+        "name": "Swift Skatepark"
       }
     },
     {
@@ -63279,6 +63459,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-30T02:00:00-07:00",
+      "id": "dopdx:17732764",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786798997/event-17732764.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/29/keep-it-cool-with-maxx-bass-dj-brad-vachal-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-29T21:00:00-07:00",
+      "summary": "Keep It Cool with these two Portland DJ institutions, equally at home behind the turntables as they are behind the record store counter. Goodfoot regulars know Brad Vachal as one of the Soul Stew DJs, while others know him from Portland’s halcyon rave days or his years at Platinum Records. A neighborhood fixture in his own right, Maxx Bass runs the crate-digger’s paradise, Clinton Street Record & Stereo, and for over 20 years, has kept dance floors moving everywhere from Oaks Park to Pickathon to the legendary Strutt. Pulling from their sizable collections, they’ll serve up a boundary-free, genre-fluid mix of old and new, timeless classics and hidden gems, blending organic and electronic sounds into one ecstatic, all-night dance-floor jam. $",
+      "title": "KEEP IT COOL with MAXX BASS & DJ BRAD VACHAL",
+      "venue": {
+        "address": "2845 SE Stark",
+        "city": "PDX",
+        "latitude": 45.519531,
+        "longitude": -122.636324,
+        "name": "Goodfoot"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-30T02:00:00-07:00",
@@ -65995,6 +66206,32 @@
       "title": "Free Flag Rugby Introductory Clinic - Girls Rugby (NE Portland)",
       "venue": {
         "name": "Normandale Park"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-08-30T19:15:00-07:00",
+      "id": "dopdx:17728714",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/30/it-ends-multiple-showtimes-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-30T14:00:00-07:00",
+      "summary": "Friends on a late-night food run become trapped on an infinite highway with otherworldly terrors lurking beyond. Confined in their Jeep Cherokee, they must decide whether to accept their fate or attempt escape.",
+      "title": "It Ends (Multiple Showtimes)",
+      "venue": {
+        "address": "616 NW 21st Ave, Portland, Oregon 97209",
+        "name": "Cinema 21 Theater"
       }
     },
     {
@@ -69263,6 +69500,32 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-08-31T19:30:00-07:00",
+      "id": "dopdx:17728715",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/31/it-ends-multiple-showtimes-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-31T16:30:00-07:00",
+      "summary": "Friends on a late-night food run become trapped on an infinite highway with otherworldly terrors lurking beyond. Confined in their Jeep Cherokee, they must decide whether to accept their fate or attempt escape.",
+      "title": "It Ends (Multiple Showtimes)",
+      "venue": {
+        "address": "616 NW 21st Ave, Portland, Oregon 97209",
+        "name": "Cinema 21 Theater"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-08-31T18:30:00-07:00",
@@ -69524,6 +69787,37 @@
         "address": "1195 SE Powell Dr",
         "city": "Portland",
         "name": "The Showdown"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-01T02:00:00-07:00",
+      "id": "dopdx:17732765",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786799001/event-17732765.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/31/laugh-basement-stand-up-comedy-showcase-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-31T19:00:00-07:00",
+      "summary": "Laugh Basement Comedy Showcase is now a weekly Monday event! Hosted by Hewitt Pagenstecher, Laugh Basement delivers the funniest comics from the Pacific Northwest and beyond. Check back for tonight’s line-up soon. $10",
+      "title": "Laugh Basement Stand Up Comedy Showcase",
+      "venue": {
+        "address": "2845 SE Stark",
+        "city": "PDX",
+        "latitude": 45.519531,
+        "longitude": -122.636324,
+        "name": "Goodfoot"
       }
     },
     {
@@ -71834,6 +72128,32 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-01T19:30:00-07:00",
+      "id": "dopdx:17728716",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/1/it-ends-multiple-showtimes-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-01T16:30:00-07:00",
+      "summary": "Friends on a late-night food run become trapped on an infinite highway with otherworldly terrors lurking beyond. Confined in their Jeep Cherokee, they must decide whether to accept their fate or attempt escape.",
+      "title": "It Ends (Multiple Showtimes)",
+      "venue": {
+        "address": "616 NW 21st Ave, Portland, Oregon 97209",
+        "name": "Cinema 21 Theater"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-09-01T18:30:00-07:00",
@@ -73378,6 +73698,37 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-09-02T02:00:00-07:00",
+      "id": "dopdx:17732766",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786799006/event-17732766.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/1/trio-of-boom-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 8.0,
+        "min": 8.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-01T20:00:00-07:00",
+      "summary": "We’re thrilled for our September Tuesday residency with Trio of Boom! TOB is an organ Trio featuring Peter Knudsen (Ghost-Note, Mono Neon, Greaterkind) on Guitar, Carlin White (J.Cole, Lana Del Rey, Lucky Daye) on drums and Galen Clark (Outer Orbit, Anna Tivel, Sleater-Kinney) on Organ. Should be a funky good time, indeed! $8",
+      "title": "Trio Of Boom",
+      "venue": {
+        "address": "2845 SE Stark",
+        "city": "PDX",
+        "latitude": 45.519531,
+        "longitude": -122.636324,
+        "name": "Goodfoot"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-09-01T22:00:00-07:00",
       "id": "willamette_week:19431192@2026-09-01T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/NvVWFC_sZESXESwAu7r56g.large.png",
@@ -74874,6 +75225,32 @@
         "latitude": 45.520489,
         "longitude": -123.112364,
         "name": "Main St between 21st and Pacific Ave and 21st between Main and College"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-02T19:30:00-07:00",
+      "id": "dopdx:17728717",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/2/it-ends-multiple-showtimes-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-02T16:30:00-07:00",
+      "summary": "Friends on a late-night food run become trapped on an infinite highway with otherworldly terrors lurking beyond. Confined in their Jeep Cherokee, they must decide whether to accept their fate or attempt escape.",
+      "title": "It Ends (Multiple Showtimes)",
+      "venue": {
+        "address": "616 NW 21st Ave, Portland, Oregon 97209",
+        "name": "Cinema 21 Theater"
       }
     },
     {
@@ -78568,6 +78945,59 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-03T19:30:00-07:00",
+      "id": "dopdx:17728718",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/3/it-ends-multiple-showtimes-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-03T16:30:00-07:00",
+      "summary": "Friends on a late-night food run become trapped on an infinite highway with otherworldly terrors lurking beyond. Confined in their Jeep Cherokee, they must decide whether to accept their fate or attempt escape.",
+      "title": "It Ends (Multiple Showtimes)",
+      "venue": {
+        "address": "616 NW 21st Ave, Portland, Oregon 97209",
+        "name": "Cinema 21 Theater"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-09-03T19:00:00-07:00",
+      "id": "dopdx:17729242",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786743991/event-17729242.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/3/september-first-thursday-feat-mariachi-portland-rafael-astorga-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-03T17:00:00-07:00",
+      "summary": "Join us for our September First Thursday! Mariachi Portland is stopping by to play some beautiful tunes, and local photographer Rafael Astorga has a meet & greet in our PGE Gallery for his current exhibit READY STOP GO. And of course, enjoy a complimentary select beer provided by Deschutes Brewery while supplies last. See ya there! Mariachi Portland, established in 2006, serves the greater Portland-Vancouver area with vibrant performances. Known for playing at local festivals, holiday events, and community gatherings from Hillsboro to Gresham, the group has become a staple in the Portland region. For bookings and inquiries, please contact Rafael Cervantes by email at mariachiportland11@gmail.com or by phone at 503-747-2763 or 503-810-6038. R",
+      "title": "September First Thursday feat. Mariachi Portland & Rafael Astorga",
+      "venue": {
+        "address": "128 NW 11th Ave",
+        "city": "Portland",
+        "name": "Portland Center Stage at The Armory"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-09-03T18:00:00-07:00",
@@ -80216,6 +80646,37 @@
         "latitude": 45.59183729999999,
         "longitude": -122.8729504,
         "name": "Rock Creek Tavern"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-04T02:00:00-07:00",
+      "id": "dopdx:17732767",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786799009/event-17732767.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/3/sean-mclean-the-vibetenders-with-the-quick-and-easy-boys-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-03T20:00:00-07:00",
+      "summary": "This September we’re hosting a Thursday residency with Sean McLean and The Vibetenders. SMVT is a rootsy and mulit-genre jamband led by sax master Sean McLean! Each week they will be joined by a second band for a two-biller (with plenty of sit in/jam possibilities) and this week’s special guests are goodfoot favorites, The Quick & Easy Boys, a fiery rock’n’roll party band! $10",
+      "title": "SEAN McLEAN & THE VIBETENDERS with THE QUICK AND EASY BOYS",
+      "venue": {
+        "address": "2845 SE Stark",
+        "city": "PDX",
+        "latitude": 45.519531,
+        "longitude": -122.636324,
+        "name": "Goodfoot"
       }
     },
     {
@@ -85154,6 +85615,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-05T02:00:00-07:00",
+      "id": "dopdx:17732768",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786799012/event-17732768.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/4/first-friday-superjam-with-dj-magneto-friends-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-04T21:00:00-07:00",
+      "summary": "Dance and party to classic funk, soul, disco, jazz and various funky jams, skillfully mixed by resident DJ’s Mr Jeigh and Magneto. $10",
+      "title": "FIRST FRIDAY SUPERJAM with DJ MAGNETO & FRIENDS",
+      "venue": {
+        "address": "2845 SE Stark",
+        "city": "PDX",
+        "latitude": 45.519531,
+        "longitude": -122.636324,
+        "name": "Goodfoot"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-05T02:00:00-07:00",
@@ -85496,6 +85988,33 @@
         "address": "2432 SE 11th Ave, Portland, Oregon 97214",
         "city": "Portland",
         "name": "Funhouse Lounge"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-05T02:00:00-07:00",
+      "id": "dopdx:17733539",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786815258/event-17733539.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/4/bloodmoon-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-04T22:00:00-07:00",
+      "summary": "Ken O'Hara is a \"Mindhunter\" - a serial killer specialist enlisted to find the mass murderer intent on killing the strongest fighters in New York City. Trying to catch this cunning and clever killer is the hardest assignment Ken has ever had. Now, the moon is rising again and he must use all of his resources to hunt down the murderer....or he may be the next to die.",
+      "title": "Bloodmoon",
+      "venue": {
+        "address": "2012 SE Hawthorne",
+        "city": "Portland",
+        "name": "Cinemagic Theater"
       }
     },
     {
@@ -90149,6 +90668,35 @@
         "music"
       ],
       "end_at": "2026-09-06T02:00:00-07:00",
+      "id": "dopdx:17732769",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786799015/event-17732769.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/5/ungulit-presents-yak-attack-friends-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-05T21:00:00-07:00",
+      "summary": "We are Yak Attack. We were grown and raised right here at the Goodfoot in Portland. We’re old dogs or angsty teenagers, depending how you look at a 13-year old band, but we feel nothing but love from the Portland and PNW scene. We’ve made a lot of friends over the years and we’re pumped to throw down with lots of them for Labor Day weekend. Come ready to dance, collaborate, contribute, tip the staff, adorn yourself with crazy costumes and accessories, show love and respect to your fellow humans, like, follow, and subscribe to real music played by real humans at one of the realest places in town.",
+      "title": "Ungulit Presents: Yak Attack & Friends",
+      "venue": {
+        "address": "2845 SE Stark",
+        "city": "PDX",
+        "latitude": 45.519531,
+        "longitude": -122.636324,
+        "name": "Goodfoot"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-06T02:00:00-07:00",
       "id": "dopdx:17670255",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785432814/event-17670255.png",
       "is_all_day": false,
@@ -90257,6 +90805,33 @@
         "latitude": 45.5514335632,
         "longitude": -122.6758499146,
         "name": "Mississippi Studios"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-06T02:00:00-07:00",
+      "id": "dopdx:17733540",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786815266/event-17733540.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/5/ichi-the-killer-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-05T21:30:00-07:00",
+      "summary": "As sadomasochistic yakuza enforcer Kakihara searches for his missing boss he comes across Ichi, a repressed and psychotic killer who may be able to inflict levels of pain that Kakihara has only dreamed of.",
+      "title": "Ichi The Killer",
+      "venue": {
+        "address": "2012 SE Hawthorne",
+        "city": "Portland",
+        "name": "Cinemagic Theater"
       }
     },
     {
@@ -95302,6 +95877,37 @@
         "music"
       ],
       "end_at": "2026-09-08T02:00:00-07:00",
+      "id": "dopdx:17732771",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786799030/event-17732771.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/7/laugh-basement-stand-up-comedy-showcase-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-07T19:00:00-07:00",
+      "summary": "Laugh Basement Comedy Showcase is now a weekly Monday event! Hosted by Hewitt Pagenstecher, Laugh Basement delivers the funniest comics from the Pacific Northwest and beyond. Check back for tonight’s line-up soon. $10",
+      "title": "Laugh Basement Stand Up Comedy Showcase",
+      "venue": {
+        "address": "2845 SE Stark",
+        "city": "PDX",
+        "latitude": 45.519531,
+        "longitude": -122.636324,
+        "name": "Goodfoot"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-08T02:00:00-07:00",
       "id": "ticketmaster:Z7r9jZ1A7PsfE",
       "image_url": "https://s1.ticketm.net/dam/a/ba8/40b0da44-ee77-464b-9785-b776d909cba8_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -95516,6 +96122,37 @@
         "latitude": 45.519069,
         "longitude": -122.652295,
         "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-08T02:00:00-07:00",
+      "id": "dopdx:17732770",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786799021/event-17732770.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/7/dyke-pool-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-07T21:00:00-07:00",
+      "summary": "Join us in the upstairs pub every other Monday from 6-9pm for Dyke Pool, our twice monthly 8-ball tournament hosted by Tucker Lasso! $5-$10 donation requested.",
+      "title": "Dyke Pool",
+      "venue": {
+        "address": "2845 SE Stark",
+        "city": "PDX",
+        "latitude": 45.519531,
+        "longitude": -122.636324,
+        "name": "Goodfoot"
       }
     },
     {
@@ -98373,6 +99010,36 @@
         "music"
       ],
       "end_at": "2026-09-09T02:00:00-07:00",
+      "id": "dopdx:17732942",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/8/the-low-bar-chorale-tickets",
+      "organizer": "Low Bar Chorale Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 19.27,
+        "min": 19.27
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-08T19:30:00-07:00",
+      "summary": "You show up at a bar or music venue. You grab a drink and within minutes you’re singing the hell out of your favorite rock song with a hundred other folks and - wait for it - a live band of nationally known musicians. In three-part harmony, no less! Wait, what just happened? Welcome to the Low Bar Chorale and what we all not-so-secretly wish singing could be. We’re drop-in only: no auditions, rehearsals or commitments ever. We sing rock, alt-indie and pop music like Bowie, Lady Gaga, Yacht Rock, or Michael Kiwanuka. We’ve got an incredible band, and we’ve performed with some amazing acts - Built To Spill, Portugal. The Man, Storm Large, and others. The best thing is that ANYONE CAN DO THIS. No prior musical experience required. Just show up",
+      "title": "The Low Bar Chorale",
+      "venue": {
+        "address": "1300 SE Stark St #101",
+        "city": "Portland",
+        "name": "Show Bar"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-09T02:00:00-07:00",
       "id": "dopdx:17095633",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1773752350/event-17095633.jpg",
       "is_all_day": false,
@@ -100732,6 +101399,36 @@
         "address": "2007 SE Powell Blvd",
         "city": "Portland",
         "name": "Artichoke Music"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-10T02:00:00-07:00",
+      "id": "dopdx:17732944",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/9/lady-killers-hosted-by-ally-j-ward-and-devan-daliy-tickets",
+      "organizer": "Show Bar Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.62,
+        "min": 13.62
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-09T19:00:00-07:00",
+      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view your tickets until 14 days prior to the performance Show Bar is proud to host the Laughs PDX production Lady Killers! Hosted by Ally J Ward (Willamette Week’s Funniest Five) and Devan Daily, Lady Killers is a femme focused stand up comedy show highlighting the best female comedians in the Pacific Northwest! Also featuring queer, trans, and nonbinary comedians, just no straight men to make you feel uncomfortable. Bring your best babes and laugh with some of the funniest ladies in Portland! Every second Wednesday 7pm at Show Bar. GENERAL ADMISSION AND FULLY SEATED. THIS EVENT IS 21 AND OVER. NO MINORS. VALID US OR CANADA ID REQUIRED FOR EN",
+      "title": "Lady Killers hosted by Ally J Ward and Devan Daliy",
+      "venue": {
+        "address": "1300 SE Stark St #101",
+        "city": "Portland",
+        "name": "Show Bar"
       }
     },
     {
@@ -109158,6 +109855,35 @@
         "latitude": 45.54075599999999,
         "longitude": -122.6754525,
         "name": "White Eagle Saloon"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-11T22:00:00-07:00",
+      "id": "dopdx:17731466",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786781387/event-17731466.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/11/i-want-to-remember-the-x-files-drag-show-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 18.0,
+        "min": 18.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-11T20:00:00-07:00",
+      "summary": "Friday, September 11 @ 8:00 PM – 10:00 PM Doors @ 7:00 PM / Show @ 8:00PM 21+ Hosted by your Mulder & Scully, EZZA BELLE and XO SKELETON! FEATURING YOUR FAVORITE CRYPTIDS / ALIENS / CREATURES: ANNA KARENEMA BABY LESTRANGE ED DU’ BULL NINE ROMIE ROMAK ROLLZ ROYCE RY BRED WOLFGANGX WONDERFUL!",
+      "title": "I WANT TO REMEMBER: The X Files Drag Show",
+      "venue": {
+        "address": "2522 SE Clinton St",
+        "city": "Portland",
+        "name": "Clinton St. Theater"
       }
     },
     {
@@ -118146,6 +118872,31 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-09-14T02:00:00-07:00",
+      "id": "dopdx:17729010",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786741153/event-17729010.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/13/leadbetter-walk-roll-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-13T13:00:00-07:00",
+      "summary": "Join Camas Parks and Recreation for a one mile car-free journey down SE Leadbetter Road. Walk, Bike, Skate, Scooter or stroll. All ages.",
+      "title": "Leadbetter Walk & Roll",
+      "venue": {
+        "name": "Southeast Leadbetter Road"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-09-13T15:30:00-07:00",
@@ -119459,6 +120210,35 @@
         "address": "720 SE Hawthorne Blvd, Portland, OR, 97214",
         "city": "Portland",
         "name": "The High Limit Room"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-13T22:00:00-07:00",
+      "id": "dopdx:17731467",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786781390/event-17731467.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/13/we-are-everywhere-art-and-film-festival-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-13T18:00:00-07:00",
+      "summary": "Sunday, September 13 @ 6:00 PM – 10:00 PM 21 + WAEFest is returning for a second year! We Are Everywhere is a Portland-based collective bringing together artists, performers, and filmmakers with the shared experience of being adult entertainers. Over the course of the festival, viewers will be able to appreciate artwork made by and about sex workers. This year’s film screening will feature an anthology of short films directed by and starring a diverse mix of performers. This event is 21+ only.",
+      "title": "We Are Everywhere Art and Film Festival",
+      "venue": {
+        "address": "2522 SE Clinton St",
+        "city": "Portland",
+        "name": "Clinton St. Theater"
       }
     },
     {
@@ -158552,5 +159332,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-17T16:58:48+00:00"
+  "generated_at": "2026-08-17T17:00:45+00:00"
 }

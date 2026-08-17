@@ -369,6 +369,14 @@
       "venue": "Topaz Farm"
     },
     {
+      "dropped": "willamette_week:19002755@2026-08-21T18:30",
+      "kept": "dopdx:17397683",
+      "start_at": "2026-08-21T18:30:00-07:00",
+      "title_dropped": "Can Can's Dolly!",
+      "title_kept": "Can Can's Dolly!",
+      "venue": "Can Can's Paris Theatre"
+    },
+    {
       "dropped": "willamette_week:19012546@2026-08-21T19:00",
       "kept": "dopdx:17358749",
       "start_at": "2026-08-21T19:00:00-07:00",
@@ -1257,6 +1265,14 @@
       "venue": "Ilani Cowlitz Ballroom"
     },
     {
+      "dropped": "dopdx:17735472",
+      "kept": "ticketmaster:rZ7HnEZ1A4Zy_N",
+      "start_at": "2026-08-27T21:00:00-07:00",
+      "title_dropped": "Videoboy with Carny Cumm & Blood Jacuzzi",
+      "title_kept": "VIDEOBOY with Carny Cumm & Blood Jacuzzi",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19495543@2026-08-28T15:00",
       "kept": "dopdx:17644654",
       "start_at": "2026-08-28T15:00:00-07:00",
@@ -1887,6 +1903,14 @@
       "title_dropped": "Magic Sword w/ SKYLIMIT",
       "title_kept": "Magic Sword",
       "venue": "Mississippi Studios"
+    },
+    {
+      "dropped": "willamette_week:19466208@2026-09-02T17:00",
+      "kept": "portland_farmers_market:a-notion-2@2026-09-02",
+      "start_at": "2026-09-02T17:00:00-07:00",
+      "title_dropped": "a notion",
+      "title_kept": "a notion",
+      "venue": "Lents International Farmers Market"
     },
     {
       "dropped": "willamette_week:19533117@2026-09-02T18:00",
@@ -2735,6 +2759,14 @@
       "title_dropped": "Special Event: The Bitchuation Room",
       "title_kept": "The Bitchuation Room",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:17586570@2026-09-07T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPwk7",
+      "start_at": "2026-09-07T21:00:00-07:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19511084@2026-09-08T19:30",
@@ -3649,14 +3681,6 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
-      "dropped": "willamette_week:19466208@2026-09-02T17:00",
-      "kept": "portland_farmers_market:a-notion-2@2026-09-02",
-      "start_at": "2026-09-02T17:00:00-07:00",
-      "title_dropped": "a notion",
-      "title_kept": "a notion",
-      "venue": "Lents International Farmers Market"
-    },
-    {
       "dropped": "willamette_week:17670892@2026-09-06T09:00",
       "kept": "pdxparent_markets:hillsdale-farmers-market@2026-09-06",
       "start_at": "2026-09-06T09:00:00-07:00",
@@ -3705,14 +3729,6 @@
       "venue": "Dante's"
     },
     {
-      "dropped": "willamette_week:17586570@2026-09-07T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPwk7",
-      "start_at": "2026-09-07T21:00:00-07:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:19165859@2026-09-16T19:00",
       "kept": "ticketmaster:vvG1HZ_1Ki5oQv",
       "start_at": "2026-09-16T19:00:00-07:00",
@@ -3737,9 +3753,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5344,
-  "floor_check": "5344 events against a 5339-event baseline",
-  "generated_at": "2026-08-17T16:58:48+00:00",
+  "event_count": 5371,
+  "floor_check": "5371 events against a 5339-event baseline",
+  "generated_at": "2026-08-17T17:00:45+00:00",
   "problems": [],
   "sources": [
     "calagator",
