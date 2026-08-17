@@ -120465,6 +120465,41 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfPw7K",
+      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14972113",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 6.2,
+        "min": 6.2
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-13T21:00:00-07:00",
+      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party 9pm : $5 : 21+",
+      "ticket_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14972113",
+      "title": "CHURCH OF HIVE",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-09-13T00:00:00-07:00",
       "id": "willamette_week:18507487@2026-09-13T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5PCWUlPwbkKkuTUNWotY7g.large.png",
@@ -120488,35 +120523,6 @@
         "latitude": 45.5134315491,
         "longitude": -122.6580352783,
         "name": "White Owl Social Club"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:16902271@2026-09-13T21:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/W_yeDvr5tUeizggPrepCgg.large.png",
-      "is_all_day": false,
-      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fchurch-of-hive-star-theater-tickets%252F14018194%26utm_medium%3daffiliate",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-13T21:00:00-07:00",
-      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party",
-      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fchurch-of-hive-star-theater-tickets%252F14018194%26utm_medium%3daffiliate",
-      "title": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
-      "venue": {
-        "address": "13 NW 6th Ave",
-        "city": "Portland",
-        "latitude": 45.5233726501,
-        "longitude": -122.6767425537,
-        "name": "Star Theater"
       }
     },
     {
@@ -158594,5 +158600,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-17T16:39:55+00:00"
+  "generated_at": "2026-08-17T16:45:01+00:00"
 }
