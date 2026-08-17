@@ -134,7 +134,7 @@
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 82.89,
+        "max": 31.39,
         "min": 31.39
       },
       "source": {
@@ -4256,6 +4256,34 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Hawthorne Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AAZgav",
+      "image_url": "https://s1.ticketm.net/dam/a/952/3dfcfe2c-c1ac-4e85-a1c3-d420cb0ea952_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZgav",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-11T18:30:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZgav",
+      "title": "Liz Phair w/ Sleater-Kinney",
+      "venue": {
+        "address": "2126 SW Halsey",
+        "city": "Troutdale",
+        "latitude": 45.527699,
+        "longitude": -122.373802,
+        "name": "McMenamins Historic Edgefield Manor"
       }
     },
     {
@@ -18208,7 +18236,7 @@
       "start_at": "2026-12-10T20:30:00-08:00",
       "summary": "ALL SALES FINALNO REFUNDS/EXCHANGES",
       "ticket_url": "https://www.ticketweb.com/event/missio-love-heartbreak-tour-star-theater-tickets/15027083",
-      "title": "MISSIO: Love & Heartbreak Tour  w/ Fifteenoeight, Kent Osborne",
+      "title": "MISSIO: Love & Heartbreak Tour  w/ Ryan Oakes, Wrung",
       "venue": {
         "address": "13 NW Sixth Avenue",
         "city": "Portland",
@@ -23525,7 +23553,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-17T17:43:17+00:00",
+  "generated_at": "2026-08-17T18:55:37+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
