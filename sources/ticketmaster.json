@@ -6640,6 +6640,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfZ-fV",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021534",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.15,
+        "min": 23.15
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-19T22:30:00-07:00",
+      "summary": "Join us at the Jack London for the latest edition of our late-night cabaret spectacular, hosted by the Mad Marquis and featuring some of the finest dancers from the Rose City and beyond. Treat yourself to a sensational evening of sultry and exotic delights, liberally spiced with old-fashioned spontaneous fun! The show starts after the evenings musical performance.",
+      "ticket_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021534",
+      "title": "BURLY-Q REVUE",
+      "venue": {
+        "address": "529 SW 4th Ave.",
+        "city": "Portland",
+        "latitude": 45.519452,
+        "longitude": -122.676291,
+        "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_AJHoUnc",
@@ -13717,7 +13748,7 @@
       "start_at": "2026-10-27T20:00:00-07:00",
       "summary": "Horror punk legends BLITZKID return to the road this fall in support of their long-awaited new studio album, MODERN HEL, their first full length release in sixteen years.Formed in 1997, Blitzkid quickly became one of the most influential bands in modern horror punk and has remained one of the genres leading exponents. Known for their driving punk energy, dark atmosphere, and unforgettable melodic hooks, the band has built an international following through decades of touring across the globe.From Wave Gotik Treffen to Wacken Open Air, Blitzkids versatility has allowed them to perform at some of the worlds most notable genre festivals, demonstrating the bands unique ability to connect with audiences across multiple underground scenes.With MODERN HEL, Blitzkid enters a powerful new chapter. While the bands signature haunting melodies and anthemic choruses remain firmly intact, the new material pushes their sound into more aggressive territory, incorporating a blistering fusion of thrash and hardcore to a degree the band has never explored before.The result is a blistering blend of driving riffs and haunting hooks that have defined Blitzkid for nearly three decades.MODERN HEL TOUR brings this new era to stages across the United States from October through December, performing classics spanning their catalog alongside brand new material from MODERN HEL.A limited VIP Meet and Greet experience will be available at all shows, including early entry, exclusive merchandise, and a special pre show acoustic performance.LONG LIVE THE HORROR!!!",
       "ticket_url": "https://www.ticketweb.com/event/blitzkid-modern-hel-tour-2026-dantes-tickets/14246484",
-      "title": "BLITZKID: Modern Hel Tour 2026 with guests",
+      "title": "BLITZKID: Modern Hel Tour 2026 with Hideous Monster",
       "venue": {
         "address": "350 West Burnside Street",
         "city": "Portland",
@@ -17748,6 +17779,37 @@
         "latitude": 45.519452,
         "longitude": -122.676291,
         "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1A4ZMZd",
+      "image_url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/isaiah-sharkey-star-theater-tickets/15037003",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 32.42,
+        "min": 32.42
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-05T20:00:00-08:00",
+      "summary": "Isaiah Sharkey stands at the confluence of modern soul, jazz, Rwinning guitarist, vocalist, composer, and producer, Sharkey has become one of the most respected musicians of his generationcelebrated for his sophisticated harmonic sensibility, unmistakable tone, and ability to shape-shift effortlessly between musical worlds.Born and raised on Chicagos North Side in a deeply musical family, Sharkey was immersed from childhood in gospel, jazz, and classic Rs extraordinary ear and feel, guiding him through professional-level repertoire before most children his age would form basic chords. By the time he was 14, Sharkey was touring nationally; by his late teens, he had already become a first-call session player in Chicagos tight-knit recording community.",
+      "ticket_url": "https://www.ticketweb.com/event/isaiah-sharkey-star-theater-tickets/15037003",
+      "title": "ISAIAH SHARKEY",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
       }
     },
     {
@@ -23463,7 +23525,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-17T16:44:06+00:00",
+  "generated_at": "2026-08-17T17:43:17+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
