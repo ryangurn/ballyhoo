@@ -3697,6 +3697,14 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
+      "dropped": "willamette_week:19658009@2026-08-19T17:00",
+      "kept": "portland_farmers_market:richie-bean-3@2026-08-19",
+      "start_at": "2026-08-19T17:00:00-07:00",
+      "title_dropped": "Richie Bean",
+      "title_kept": "Richie Bean",
+      "venue": "Kenton Farmers Market"
+    },
+    {
       "dropped": "willamette_week:19466044@2026-08-26T17:00",
       "kept": "portland_farmers_market:major-four@2026-08-26",
       "start_at": "2026-08-26T17:00:00-07:00",
@@ -3753,9 +3761,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5386,
-  "floor_check": "5386 events against a 5346-event baseline",
-  "generated_at": "2026-08-17T18:56:30+00:00",
+  "event_count": 5399,
+  "floor_check": "5399 events against a 5346-event baseline",
+  "generated_at": "2026-08-17T19:01:53+00:00",
   "problems": [],
   "sources": [
     "calagator",

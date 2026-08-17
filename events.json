@@ -9147,6 +9147,10 @@
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2025/06/richie-bean.png",
       "is_all_day": false,
       "listing_url": "https://www.portlandfarmersmarket.org/event/richie-bean-3/",
+      "merged_sources": [
+        "portland_farmers_market",
+        "willamette_week"
+      ],
       "organizer": "Portland Farmers Market",
       "price": {
         "currency": "USD",
@@ -25867,6 +25871,33 @@
     },
     {
       "categories": [
+        "market"
+      ],
+      "end_at": "2026-08-22T12:00:00-07:00",
+      "id": "willamette_week:19657928@2026-08-22T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/36a61875-d480-4eb5-98ad-1cd19e60756e.large.png",
+      "is_all_day": false,
+      "listing_url": "https://traveloregon.com/things-to-do/oregon-attractions/shopping/rocky-butte-farmers-market-8/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T10:00:00-07:00",
+      "title": "Rocky Butte Farmers Market",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-08-22T12:00:00-07:00",
@@ -32917,6 +32948,33 @@
         "latitude": 45.48012,
         "longitude": -122.56962,
         "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-08-23T14:00:00-07:00",
+      "id": "willamette_week:19657929@2026-08-23T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.large.png",
+      "is_all_day": false,
+      "listing_url": "https://traveloregon.com/things-to-do/events/culinary-events/woodstock-farmers-market-3/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-23T10:00:00-07:00",
+      "title": "Woodstock Farmers Market",
+      "venue": {
+        "city": "Woodstock",
+        "latitude": 45.47901,
+        "longitude": -122.60843,
+        "name": "Woodstock"
       }
     },
     {
@@ -46563,6 +46621,32 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19657930@2026-08-27T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/oregon-attractions/shopping/last-thursday-5/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-27T00:00:00-07:00",
+      "title": "Last Thursday",
+      "venue": {
+        "address": "on Alberta Street in",
+        "city": "Portland",
+        "latitude": 45.458617,
+        "longitude": -122.594343,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:18641483@2026-08-27T00:00",
@@ -52180,6 +52264,31 @@
         "latitude": 45.5216508,
         "longitude": -122.6722152,
         "name": "Kells Irish Restaurant & Pub"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19657931@2026-08-28T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/nature-wildlife-events/hood-to-coast/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-28T00:00:00-07:00",
+      "title": "Hood to Coast",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
       }
     },
     {
@@ -57944,6 +58053,31 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19657931@2026-08-29T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/nature-wildlife-events/hood-to-coast/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T00:00:00-07:00",
+      "title": "Hood to Coast",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "market"
       ],
       "id": "willamette_week:19207160@2026-08-29T00:00",
@@ -59018,6 +59152,33 @@
         "latitude": 45.319767,
         "longitude": -122.946365,
         "name": "The Allison Inn & Spa"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-08-29T12:00:00-07:00",
+      "id": "willamette_week:19657928@2026-08-29T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/36a61875-d480-4eb5-98ad-1cd19e60756e.large.png",
+      "is_all_day": false,
+      "listing_url": "https://traveloregon.com/things-to-do/oregon-attractions/shopping/rocky-butte-farmers-market-9/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T10:00:00-07:00",
+      "title": "Rocky Butte Farmers Market",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
       }
     },
     {
@@ -65030,6 +65191,33 @@
         "latitude": 45.48012,
         "longitude": -122.56962,
         "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-08-30T14:00:00-07:00",
+      "id": "willamette_week:19657929@2026-08-30T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.large.png",
+      "is_all_day": false,
+      "listing_url": "https://traveloregon.com/things-to-do/events/culinary-events/woodstock-farmers-market-4/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-30T10:00:00-07:00",
+      "title": "Woodstock Farmers Market",
+      "venue": {
+        "city": "Woodstock",
+        "latitude": 45.47901,
+        "longitude": -122.60843,
+        "name": "Woodstock"
       }
     },
     {
@@ -87388,6 +87576,33 @@
     },
     {
       "categories": [
+        "market"
+      ],
+      "end_at": "2026-09-05T12:00:00-07:00",
+      "id": "willamette_week:19657928@2026-09-05T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/36a61875-d480-4eb5-98ad-1cd19e60756e.large.png",
+      "is_all_day": false,
+      "listing_url": "https://traveloregon.com/things-to-do/oregon-attractions/shopping/rocky-butte-farmers-market-10/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-05T10:00:00-07:00",
+      "title": "Rocky Butte Farmers Market",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-09-05T11:00:00-07:00",
@@ -92002,6 +92217,33 @@
         "latitude": 45.48012,
         "longitude": -122.56962,
         "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-09-06T14:00:00-07:00",
+      "id": "willamette_week:19657929@2026-09-06T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.large.png",
+      "is_all_day": false,
+      "listing_url": "https://traveloregon.com/things-to-do/events/culinary-events/woodstock-farmers-market-5/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-06T10:00:00-07:00",
+      "title": "Woodstock Farmers Market",
+      "venue": {
+        "city": "Woodstock",
+        "latitude": 45.47901,
+        "longitude": -122.60843,
+        "name": "Woodstock"
       }
     },
     {
@@ -99441,6 +99683,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19657933@2026-09-09T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ce7ccbd1-ef6f-4132-8c62-45eab8f35a1b.large.png",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/visual-performing-arts-events/still-obsessed-at-holocene/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-09T00:00:00-07:00",
+      "title": "Still Obsessed at Holocene",
+      "venue": {
+        "address": "1001 SE Morrison St",
+        "city": "Portland",
+        "latitude": 45.5175819397,
+        "longitude": -122.6553573608,
+        "name": "Holocene"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "willamette_week:19634279@2026-09-09T00:00",
@@ -102346,6 +102615,31 @@
         "address": "421 SE Grand Ave",
         "city": "Portland",
         "name": "The Coffin Club"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19657934@2026-09-10T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/anne-wilson/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-10T00:00:00-07:00",
+      "title": "Anne Wilson",
+      "venue": {
+        "city": "Wilson",
+        "latitude": 45.47984,
+        "longitude": -122.51426,
+        "name": "Wilson"
       }
     },
     {
@@ -112340,6 +112634,33 @@
     },
     {
       "categories": [
+        "market"
+      ],
+      "end_at": "2026-09-12T12:00:00-07:00",
+      "id": "willamette_week:19657928@2026-09-12T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/36a61875-d480-4eb5-98ad-1cd19e60756e.large.png",
+      "is_all_day": false,
+      "listing_url": "https://traveloregon.com/things-to-do/oregon-attractions/shopping/rocky-butte-farmers-market-11/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-12T10:00:00-07:00",
+      "title": "Rocky Butte Farmers Market",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-12T16:00:00-07:00",
@@ -117968,6 +118289,33 @@
         "latitude": 45.48012,
         "longitude": -122.56962,
         "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-09-13T14:00:00-07:00",
+      "id": "willamette_week:19657929@2026-09-13T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.large.png",
+      "is_all_day": false,
+      "listing_url": "https://traveloregon.com/things-to-do/events/culinary-events/woodstock-farmers-market-6/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-13T10:00:00-07:00",
+      "title": "Woodstock Farmers Market",
+      "venue": {
+        "city": "Woodstock",
+        "latitude": 45.47901,
+        "longitude": -122.60843,
+        "name": "Woodstock"
       }
     },
     {
@@ -159728,5 +160076,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-17T18:56:30+00:00"
+  "generated_at": "2026-08-17T19:01:53+00:00"
 }
