@@ -1324,6 +1324,34 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:Z7r9jZ1AAZg_U",
+      "image_url": "https://s1.ticketm.net/dam/a/7e5/02c396dd-5dde-4a2f-a455-c68a60b957e5_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZg_U",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-08-26T20:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZg_U",
+      "title": "honestav",
+      "venue": {
+        "address": "8 NW 6th Avenue",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1AfaKp7",
       "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -3956,6 +3984,34 @@
         "latitude": 45.53118896,
         "longitude": -122.66645813,
         "name": "Moda Center"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AAZgQ8",
+      "image_url": "https://s1.ticketm.net/dam/a/99d/a9929b09-ced3-42fb-acc6-96426e2c499d_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZgQ8",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-08T20:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZgQ8",
+      "title": "Bear McCreary",
+      "venue": {
+        "address": "8 NW 6th Avenue",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Roseland Theater"
       }
     },
     {
@@ -7013,6 +7069,34 @@
         "latitude": 45.53118896,
         "longitude": -122.66645813,
         "name": "Moda Center"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AAZgQf",
+      "image_url": "https://s1.ticketm.net/dam/a/5af/391cb3bc-6c17-44e2-a389-b8b2baeda5af_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZgQf",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-22T20:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZgQf",
+      "title": "Elder",
+      "venue": {
+        "address": "8 NW 6th Avenue",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Roseland Theater"
       }
     },
     {
@@ -23727,7 +23811,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-18T19:39:37+00:00",
+  "generated_at": "2026-08-18T20:38:23+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
