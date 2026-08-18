@@ -457,6 +457,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:19667967@2026-08-21T19:30",
+      "kept": "dopdx:17705732",
+      "start_at": "2026-08-21T19:30:00-07:00",
+      "title_dropped": "Elizabeth and the Catapult plus Jon Patrick Titterington",
+      "title_kept": "Elizabeth And The Catapult Plus Jon Patrick Titterington",
+      "venue": "Singacoustic"
+    },
+    {
       "dropped": "willamette_week:19449730@2026-08-21T19:30",
       "kept": "ticketmaster:Z7r9jZ1A70o_t",
       "start_at": "2026-08-21T19:30:00-07:00",
@@ -4009,9 +4017,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5546,
-  "floor_check": "5546 events against a 5492-event baseline",
-  "generated_at": "2026-08-18T22:40:14+00:00",
+  "event_count": 5547,
+  "floor_check": "5547 events against a 5496-event baseline",
+  "generated_at": "2026-08-18T22:45:29+00:00",
   "problems": [],
   "sources": [
     "calagator",
