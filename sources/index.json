@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:04:32+00:00",
+  "generated_at": "2026-08-18T13:05:25+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -44,10 +44,10 @@
       "url": "sources/pdxparent_markets.json"
     },
     {
-      "event_count": 93,
-      "last_run_at": "2026-08-18T07:00:28+00:00",
+      "event_count": 90,
+      "last_run_at": "2026-08-18T13:04:37+00:00",
       "source_id": "portland_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/portland_farmers_market.json"
     },
     {
