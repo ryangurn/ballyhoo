@@ -33,12 +33,44 @@
       "venue": "Siren Theater"
     },
     {
-      "dropped": "willamette_week:18518540@2026-08-27T18:00",
-      "kept": "dopdx:17188664",
-      "start_at": "2026-08-27T18:00:00-07:00",
-      "title_dropped": "Shook Twins + The National Parks",
-      "title_kept": "Shook Twins + The National Parks",
-      "venue": "Topaz Farm"
+      "dropped": "willamette_week:19651656@2026-08-26T18:30",
+      "kept": "dopdx:17650446",
+      "start_at": "2026-08-26T18:30:00-07:00",
+      "title_dropped": "Make Waves presents Twisted Whistle: Bring it on Home A Reunion, a Concert",
+      "title_kept": "Twisted Whistle: Bring it on Home A Reunion, a Concert",
+      "venue": "Alberta Abbey"
+    },
+    {
+      "dropped": "willamette_week:17962658@2026-08-26T18:35",
+      "kept": "ticketmaster:Z7r9jZ1A7Qv_e",
+      "start_at": "2026-08-26T18:35:00-07:00",
+      "title_dropped": "Tri-City Dust Devils at Hillsboro Hops",
+      "title_kept": "Hillsboro Hops vs. Tri-City Dust Devils",
+      "venue": "Hillsboro Ballpark"
+    },
+    {
+      "dropped": "willamette_week:19264413@2026-08-26T19:00",
+      "kept": "dopdx:17489667",
+      "start_at": "2026-08-26T19:00:00-07:00",
+      "title_dropped": "honestav - The Sweet American Boy Tour",
+      "title_kept": "Honestav – The Sweet American Boy Tour",
+      "venue": "Roseland Theater"
+    },
+    {
+      "dropped": "willamette_week:19533360@2026-08-26T19:00",
+      "kept": "dopdx:17612925",
+      "start_at": "2026-08-26T19:00:00-07:00",
+      "title_dropped": "Summer Open Court",
+      "title_kept": "Summer Open Court - Improv Jam",
+      "venue": "Curious Comedy Theater"
+    },
+    {
+      "dropped": "willamette_week:19348739@2026-08-26T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfaKpf",
+      "start_at": "2026-08-26T19:00:00-07:00",
+      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "title_kept": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "venue": "Showdown Saloon"
     },
     {
       "dropped": "dopdx:16953340",
@@ -1033,46 +1065,6 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
-      "dropped": "willamette_week:19651656@2026-08-26T18:30",
-      "kept": "dopdx:17650446",
-      "start_at": "2026-08-26T18:30:00-07:00",
-      "title_dropped": "Make Waves presents Twisted Whistle: Bring it on Home A Reunion, a Concert",
-      "title_kept": "Twisted Whistle: Bring it on Home A Reunion, a Concert",
-      "venue": "Alberta Abbey"
-    },
-    {
-      "dropped": "willamette_week:17962658@2026-08-26T18:35",
-      "kept": "ticketmaster:Z7r9jZ1A7Qv_e",
-      "start_at": "2026-08-26T18:35:00-07:00",
-      "title_dropped": "Tri-City Dust Devils at Hillsboro Hops",
-      "title_kept": "Hillsboro Hops vs. Tri-City Dust Devils",
-      "venue": "Hillsboro Ballpark"
-    },
-    {
-      "dropped": "willamette_week:19264413@2026-08-26T19:00",
-      "kept": "dopdx:17489667",
-      "start_at": "2026-08-26T19:00:00-07:00",
-      "title_dropped": "honestav - The Sweet American Boy Tour",
-      "title_kept": "Honestav – The Sweet American Boy Tour",
-      "venue": "Roseland Theater"
-    },
-    {
-      "dropped": "willamette_week:19533360@2026-08-26T19:00",
-      "kept": "dopdx:17612925",
-      "start_at": "2026-08-26T19:00:00-07:00",
-      "title_dropped": "Summer Open Court",
-      "title_kept": "Summer Open Court - Improv Jam",
-      "venue": "Curious Comedy Theater"
-    },
-    {
-      "dropped": "willamette_week:19348739@2026-08-26T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfaKpf",
-      "start_at": "2026-08-26T19:00:00-07:00",
-      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "title_kept": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "willamette_week:19114766@2026-08-26T19:30",
       "kept": "dopdx:16992271",
       "start_at": "2026-08-26T19:30:00-07:00",
@@ -1159,6 +1151,14 @@
       "title_dropped": "Wednesday Wubs",
       "title_kept": "Wednesday Wubs",
       "venue": "Barrel Room Portland"
+    },
+    {
+      "dropped": "willamette_week:18518540@2026-08-27T18:00",
+      "kept": "dopdx:17188664",
+      "start_at": "2026-08-27T18:00:00-07:00",
+      "title_dropped": "Shook Twins + The National Parks",
+      "title_kept": "Shook Twins + The National Parks",
+      "venue": "Topaz Farm"
     },
     {
       "dropped": "willamette_week:17962659@2026-08-27T18:35",
@@ -3761,9 +3761,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5394,
-  "floor_check": "5394 events against a 5351-event baseline",
-  "generated_at": "2026-08-18T00:01:27+00:00",
+  "event_count": 5393,
+  "floor_check": "5393 events against a 5351-event baseline",
+  "generated_at": "2026-08-18T01:47:11+00:00",
   "problems": [],
   "sources": [
     "calagator",
