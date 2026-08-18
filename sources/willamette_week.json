@@ -16313,6 +16313,38 @@
         "music"
       ],
       "end_at": "2026-08-21T21:30:00-07:00",
+      "id": "willamette_week:19667967@2026-08-21T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rCnr1-ks80WsCdYYRhqRVQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://singacoustic.com/all-events/?event=3090",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 30.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-21T19:30:00-07:00",
+      "summary": "Elizabeth and the Catapult return to celebrate the long-awaited release of her sixth record, Responsible Friend. Elizabeth and the Catapult return to celebrate the long-awaited release of her sixth record, Responsible Friend. Based on letters written but never sent, the new record is a deeply personal collection inspired by the lives of those closest to her. Created with producer Dan Molad (Lucius), Adam Minkoff and Jon Titterington, the album blooms with cinematic spirited arrangements. For these special release shows, Elizabeth is joined by Portland native, Jon Titterington (Father John Misty) on piano and guitar. Jon will also open the show with a set of his own music.",
+      "ticket_url": "https://www.eventbrite.com/e/elizabeth-and-the-catapult-plus-jon-patrick-titterington-tickets-1993428052968?aff=oddtdtcreator",
+      "title": "Elizabeth and the Catapult plus Jon Patrick Titterington",
+      "venue": {
+        "address": "2600 NE Sandy Blvd.",
+        "city": "Portland",
+        "latitude": 45.528211,
+        "longitude": -122.639078,
+        "name": "Singacoustic"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-21T21:30:00-07:00",
       "id": "willamette_week:19618020@2026-08-21T19:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/de8a8d2e-0aee-4a6e-b082-3194ae1b1c25.large.png",
       "is_all_day": false,
@@ -49967,6 +49999,38 @@
         "latitude": 45.505547,
         "longitude": -122.664407,
         "name": "Caruthers Landing Dock"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-30T17:00:00-07:00",
+      "id": "willamette_week:19667965@2026-08-30T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bJJGt35wHEun4sbkJ9Zdqg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://friendsofnoise.org/event/8-30-the-way-you-restore-me/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.0,
+        "min": 4.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-30T15:00:00-07:00",
+      "summary": "The Way You Restore Me A Restorative Justice Fundraiser Featuring Music, Comedy & Community Date: Sunday, August 30 Time: 3:00 PM to 5:00 PM Location: The Off Beat 8440 N Interstate Ave, Portland, OR 97217 Join us for The Way You Restore Me, a unique community event celebrating healing, accountability, and transformation through restorative justice. Hosted by RambotheGOAT, this uplifting afternoon will feature: Live comedy performances Music from local artists Restorative justice storytelling and conversation Opportunities to connect with community members committed to healing and positive change The event was created by a participant in the Portland Community Justice Partnership (PCJP), a restorative justice program that provides an alternative to the traditional criminal legal system. Through the restorative process, participants work to repair harm, take accountability, and make meaningful amends. Funds raised through ticket sales, raffle tickets, and donations will help support restorative agreements and community-based healing efforts. Any funds raised beyond the current goal will help future PCJP participants fulfill their restorative commitments. This event is more than a fundraiser. It is an opportunity to witness restoration in action and support community-driven solutions that foster healing, accountability, and meaningful change. Why Attend? Support restorative justice in our community Help individuals fulfill restorative agreements Learn about alternatives that promote healing and accountability Enjoy an afternoon of entertainment, inspiration, and connection Tickets: https://friendsofnoise.org/event/8-30-the-way-you-restore-me/ Can't attend but want to support? Donate here: https://www.gofundme.com/f/help-fund-restorative-justice-efforts Together, we can restore more than just cases. We can restore lives.",
+      "ticket_url": "https://friendsofnoise.org/event/8-30-the-way-you-restore-me/",
+      "title": "The Way You Restore Me",
+      "venue": {
+        "address": "8440 N Interstate Ave",
+        "city": "Portland",
+        "latitude": 45.58435,
+        "longitude": -122.68639,
+        "name": "The Offbeat"
       }
     },
     {
@@ -99969,7 +100033,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-18T21:41:50+00:00",
+  "generated_at": "2026-08-18T22:44:17+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
