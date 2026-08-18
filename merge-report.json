@@ -3849,6 +3849,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:17586570@2026-09-14T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPwo7",
+      "start_at": "2026-09-14T21:00:00-07:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:17962680@2026-09-17T19:00",
       "kept": "ticketmaster:vvG1HZ_6KNeiRg",
       "start_at": "2026-09-17T19:00:00-07:00",
@@ -3929,9 +3937,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5458,
-  "floor_check": "5458 events against a 5440-event baseline",
-  "generated_at": "2026-08-18T04:47:28+00:00",
+  "event_count": 5457,
+  "floor_check": "5457 events against a 5440-event baseline",
+  "generated_at": "2026-08-18T04:50:38+00:00",
   "problems": [],
   "sources": [
     "calagator",
