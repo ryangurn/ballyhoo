@@ -3209,6 +3209,14 @@
       "venue": "Polaris Hall"
     },
     {
+      "dropped": "willamette_week:19664527@2026-09-11T21:00",
+      "kept": "dopdx:17539274",
+      "start_at": "2026-09-11T21:00:00-07:00",
+      "title_dropped": "Metalesque Fest",
+      "title_kept": "2025 Metalesque Fest",
+      "venue": "NOVA PDX"
+    },
+    {
       "dropped": "willamette_week:19511103@2026-09-11T21:15",
       "kept": "dopdx:17290386",
       "start_at": "2026-09-11T21:15:00-07:00",
@@ -3961,9 +3969,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5482,
-  "floor_check": "5482 events against a 5464-event baseline",
-  "generated_at": "2026-08-18T18:58:11+00:00",
+  "event_count": 5483,
+  "floor_check": "5483 events against a 5465-event baseline",
+  "generated_at": "2026-08-18T19:03:52+00:00",
   "problems": [],
   "sources": [
     "calagator",
