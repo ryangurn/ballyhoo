@@ -3601,6 +3601,14 @@
       "venue": "Star Theater"
     },
     {
+      "dropped": "dopdx:17742398",
+      "kept": "ticketmaster:rZ7HnEZ1AfFY-0",
+      "start_at": "2026-09-13T22:00:00-07:00",
+      "title_dropped": "Sinferno Cabaret",
+      "title_kept": "SINFERNO CABARET",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19637450@2026-09-14T20:00",
       "kept": "dopdx:17701100",
       "start_at": "2026-09-14T20:00:00-07:00",
@@ -3953,9 +3961,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5465,
-  "floor_check": "5465 events against a 5458-event baseline",
-  "generated_at": "2026-08-18T17:00:35+00:00",
+  "event_count": 5478,
+  "floor_check": "5478 events against a 5458-event baseline",
+  "generated_at": "2026-08-18T17:02:10+00:00",
   "problems": [],
   "sources": [
     "calagator",
