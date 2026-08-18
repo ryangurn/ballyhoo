@@ -113,22 +113,6 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
-      "dropped": "willamette_week:19484131@2026-08-17T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfaUjf",
-      "start_at": "2026-08-17T20:00:00-07:00",
-      "title_dropped": "Olivia Harms & the Roadrunners",
-      "title_kept": "Olivia Harms & the Roadrunners w/ Joey Roger",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:17586570@2026-08-17T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPw87",
-      "start_at": "2026-08-17T21:00:00-07:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:18935341@2026-08-18T17:00",
       "kept": "dopdx:17353771",
       "start_at": "2026-08-18T17:00:00-07:00",
@@ -375,6 +359,14 @@
       "title_dropped": "LUST OF LANA - PORTLAND (21+)",
       "title_kept": "Lust For Lana: A Lana Del Rey Dance Night – 21+",
       "venue": "Holocene"
+    },
+    {
+      "dropped": "willamette_week:19660520@2026-08-20T22:00",
+      "kept": "dopdx:17255665",
+      "start_at": "2026-08-20T22:00:00-07:00",
+      "title_dropped": "Roast Batte Portland",
+      "title_kept": "Roast Battle Portland",
+      "venue": "Funhouse Lounge"
     },
     {
       "dropped": "willamette_week:17758226@2026-08-20T22:00",
@@ -2121,6 +2113,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19660520@2026-09-03T22:00",
+      "kept": "dopdx:17310382",
+      "start_at": "2026-09-03T22:00:00-07:00",
+      "title_dropped": "Roast Batte Portland",
+      "title_kept": "Roast Battle Portland",
+      "venue": "Funhouse Lounge"
+    },
+    {
       "dropped": "willamette_week:17758226@2026-09-03T22:00",
       "kept": "dopdx:17310382",
       "start_at": "2026-09-03T22:00:00-07:00",
@@ -3009,6 +3009,14 @@
       "venue": "Star Theater"
     },
     {
+      "dropped": "willamette_week:19660520@2026-09-10T22:00",
+      "kept": "dopdx:17344540",
+      "start_at": "2026-09-10T22:00:00-07:00",
+      "title_dropped": "Roast Batte Portland",
+      "title_kept": "Roast Battle Portland",
+      "venue": "Funhouse Lounge"
+    },
+    {
       "dropped": "willamette_week:17758226@2026-09-10T22:00",
       "kept": "dopdx:17344540",
       "start_at": "2026-09-10T22:00:00-07:00",
@@ -3753,6 +3761,78 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:17962680@2026-09-17T19:00",
+      "kept": "ticketmaster:vvG1HZ_6KNeiRg",
+      "start_at": "2026-09-17T19:00:00-07:00",
+      "title_dropped": "Phoenix Mercury at Portland Fire",
+      "title_kept": "Portland Fire vs. Phoenix Mercury",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:19450280@2026-09-17T19:00",
+      "kept": "ticketmaster:vvG1HZ_5lU9LU2",
+      "start_at": "2026-09-17T19:00:00-07:00",
+      "title_dropped": "Riley Green: Cowboy As It Gets Tour 2026",
+      "title_kept": "Riley Green: Cowboy As It Gets Tour 2026",
+      "venue": "Cascades Amphitheater"
+    },
+    {
+      "dropped": "willamette_week:18507492@2026-09-17T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A7Jv83",
+      "start_at": "2026-09-17T19:30:00-07:00",
+      "title_dropped": "Gregory Alan Isakov & Oregon Symphony",
+      "title_kept": "Gregory Alan Isakov with the Oregon Symphony",
+      "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "willamette_week:19449626@2026-09-17T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A7Pteb",
+      "start_at": "2026-09-17T19:30:00-07:00",
+      "title_dropped": "Dan and Phil",
+      "title_kept": "Dan and Phil",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "willamette_week:19602373@2026-09-17T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A70Af6",
+      "start_at": "2026-09-17T19:30:00-07:00",
+      "title_dropped": "Special Event: Kelsey Cook",
+      "title_kept": "Kelsey Cook",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "willamette_week:18775466@2026-09-17T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A70Af6",
+      "start_at": "2026-09-17T19:30:00-07:00",
+      "title_dropped": "Special Event: Kelsey Cook",
+      "title_kept": "Kelsey Cook",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "willamette_week:19602403@2026-09-17T20:00",
+      "kept": "ticketmaster:Z7r9jZ1A70Af6",
+      "start_at": "2026-09-17T19:30:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Kev Herrera",
+      "title_kept": "Kelsey Cook",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "willamette_week:19449627@2026-09-17T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfP_bN",
+      "start_at": "2026-09-17T20:00:00-07:00",
+      "title_dropped": "THE SPITS with Paradise Cleaners & Amy Beth And Thee Creeps",
+      "title_kept": "THE SPITS with Paradise Cleaners & Amy Beth And Thee Creeps",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19579481@2026-09-17T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4ZF-d",
+      "start_at": "2026-09-17T20:00:00-07:00",
+      "title_dropped": "HARM RETREAT (EP RELEASE) with Dolls Die Twice and A Killing's Worth",
+      "title_kept": "HARM RETREAT (EP RELEASE) with Dolls Die Twice and A Killing's Worth",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:19586744@2026-08-23T18:30",
       "kept": "ticketmaster:rZ7HnEZ1A4ZduK",
       "start_at": "2026-08-23T19:00:00-07:00",
@@ -3761,9 +3841,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5393,
-  "floor_check": "5393 events against a 5393-event baseline",
-  "generated_at": "2026-08-18T01:49:30+00:00",
+  "event_count": 5445,
+  "floor_check": "5445 events against a 5393-event baseline",
+  "generated_at": "2026-08-18T01:54:29+00:00",
   "problems": [],
   "sources": [
     "calagator",
