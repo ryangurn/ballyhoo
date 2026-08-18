@@ -12313,6 +12313,37 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-08-20T21:00:00-07:00",
+      "id": "willamette_week:19664989@2026-08-20T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DIEn1_iPKE2sTQxLo9Sf7g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://www.sakedesu.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 30.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-20T17:00:00-07:00",
+      "summary": "Try four sake from renowned brewery Iwase Shuzo, in Chiba Prefecture Japan.",
+      "title": "Sake Tasting at Sake Desu | Iwase Shuzo",
+      "venue": {
+        "address": "109 SE Salmon St.",
+        "city": "Portland",
+        "latitude": 45.514609,
+        "longitude": -122.664543,
+        "name": "Sake Desu"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-08-20T20:00:00-07:00",
@@ -58926,6 +58957,37 @@
         "address": "1036 NE Alberta St",
         "city": "Portland",
         "name": "Alberta Street Pub"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-29T21:00:00-07:00",
+      "id": "willamette_week:19664977@2026-08-29T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/U0ksr-KPkUW_j0RaOReHww.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://partiful.com/e/qqqkbyQJDHinB3Tw3jBl",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T17:00:00-07:00",
+      "summary": "MAX FIELD is a soulful twangy indie rock band from PDX. Singer and bassist Maxfield Fleishman also happens to be the sake slinger in charge of Sake Desu. Come catch him in the act! MIDDLE NAMES are the self proclaimed originators of the genre \"friendcore.\" Easy to listen to with plenty of depth, these buds are fuuuuuuuun. And sake's flowing all night long!",
+      "title": "Live Music At Sake Desu | Max Field and Middle Names",
+      "venue": {
+        "address": "109 SE Salmon St.",
+        "city": "Portland",
+        "latitude": 45.514609,
+        "longitude": -122.664543,
+        "name": "Sake Desu"
       }
     },
     {
@@ -162571,5 +162633,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-18T19:40:34+00:00"
+  "generated_at": "2026-08-18T19:44:15+00:00"
 }
