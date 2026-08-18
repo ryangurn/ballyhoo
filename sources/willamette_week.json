@@ -83840,6 +83840,37 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "end_at": "2026-09-12T19:00:00-07:00",
+      "id": "willamette_week:19663939@2026-09-12T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/92oY34gq80OAUqfrpOkQ4g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.buckmanjournal.com/events/20269/12/grand-opening-party",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-12T15:00:00-07:00",
+      "summary": "Join us at the PALS (Portland Arts & Literary Society) Building to celebrate the opening of our multi-use space and the launch of the current issue, Buckman Journal: Shed! We will have snacks and drinks and cake, crafts and books for sale, and art by local artists on display. Meg Hayertz, a local author, will be doing literary tarot readings for writers from 4-6pm. Hope to see you there! Inside PALS: Up Up Books, Yikes! Gallery, The Buckman Mothership, and Buckman’s future workshop space.",
+      "title": "PALS Building Grand Opening",
+      "venue": {
+        "address": "1452 NE 28th Ave",
+        "city": "Portland",
+        "latitude": 45.533665,
+        "longitude": -122.636817,
+        "name": "PALS (Portland Arts & Literary Society) Building"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-09-12T19:00:00-07:00",
@@ -98055,7 +98086,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-18T16:50:59+00:00",
+  "generated_at": "2026-08-18T17:46:44+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
