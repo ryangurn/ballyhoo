@@ -49036,6 +49036,10 @@
       "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketweb.com/event/mamuse-with-rebecca-elatiki-star-theater-tickets/14206014",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -129077,6 +129081,36 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-09-17T00:00:00-07:00",
+      "id": "willamette_week:19663613@2026-09-17T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6F6LBb9BKkavmJU8OUkDng.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108469592?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-17T19:00:00-07:00",
+      "summary": "hi i make music :\\)",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketmaster.com%252Fevent%252FZ7r9jZ1A7Pa0v%26utm_medium%3daffiliate",
+      "title": "jigitz & Killen.",
+      "venue": {
+        "address": "128 NE Russell St",
+        "city": "Portland",
+        "latitude": 45.5406417847,
+        "longitude": -122.6633834839,
+        "name": "Wonder Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:19246724@2026-09-17T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/G5Yc3_BbsEilcqKhHJjCzw.large.png",
       "is_all_day": false,
@@ -130217,10 +130251,15 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-09-17T00:00:00-07:00",
       "id": "ticketmaster:Z7r9jZ1A7Pa0v",
       "image_url": "https://s1.ticketm.net/dam/a/f88/dafc791d-bd83-425d-b1fe-97c836585f88_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pa0v",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false
@@ -130231,6 +130270,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-09-17T20:00:00-07:00",
+      "summary": "hi i make music :\\)",
       "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pa0v",
       "title": "jigitz (21 and Over)",
       "venue": {
@@ -161947,5 +161987,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-18T16:47:43+00:00"
+  "generated_at": "2026-08-18T16:52:16+00:00"
 }
