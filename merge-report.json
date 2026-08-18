@@ -641,6 +641,14 @@
       "venue": "Barrel Room Portland"
     },
     {
+      "dropped": "willamette_week:19666899@2026-08-22T18:00",
+      "kept": "dopdx:17679319",
+      "start_at": "2026-08-22T18:00:00-07:00",
+      "title_dropped": "Paint & Sip",
+      "title_kept": "Paint & Sip",
+      "venue": "Portland Wine Bar & Winery Tasting Room"
+    },
+    {
       "dropped": "dopdx:17145549",
       "kept": "ticketmaster:vvG1HZ_6J-b9W6",
       "start_at": "2026-08-22T19:00:00-07:00",
@@ -711,6 +719,22 @@
       "title_dropped": "The Neon Room at Helium: Orion Levine",
       "title_kept": "Aries Spears",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19666901@2026-08-22T19:00",
+      "kept": "dopdx:17436214",
+      "start_at": "2026-08-22T19:30:00-07:00",
+      "title_dropped": "Campfire Tales: Portland's Community-Driven Story Stage",
+      "title_kept": "Curious Comedy Showdown",
+      "venue": "Curious Comedy Theater"
+    },
+    {
+      "dropped": "willamette_week:19666903@2026-08-22T19:30",
+      "kept": "dopdx:17705842",
+      "start_at": "2026-08-22T19:30:00-07:00",
+      "title_dropped": "Swade Trio: Soul, Jazz & Groove",
+      "title_kept": "Swade Trio: Soul, Jazz & Groove",
+      "venue": "Singacoustic"
     },
     {
       "dropped": "willamette_week:19449730@2026-08-22T19:30",
@@ -815,6 +839,14 @@
       "title_dropped": "BURLY-Q REVUE",
       "title_kept": "Burly Q Revue",
       "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19666906@2026-08-23T10:00",
+      "kept": "dopdx:17693101",
+      "start_at": "2026-08-23T10:00:00-07:00",
+      "title_dropped": "LGBTQ+ Community Workout",
+      "title_kept": "LGBTQ+ Community Workout",
+      "venue": "Oregon Park"
     },
     {
       "dropped": "willamette_week:19634277@2026-08-23T10:00",
@@ -959,6 +991,14 @@
       "title_dropped": "Nonpoint w/ Spineshank",
       "title_kept": "Nonpoint",
       "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "willamette_week:19666655@2026-08-23T19:30",
+      "kept": "dopdx:17436229",
+      "start_at": "2026-08-23T19:30:00-07:00",
+      "title_dropped": "THE GAUNTLET - SEASON 8 FINALE",
+      "title_kept": "The Gauntlet",
+      "venue": "Curious Comedy Theater"
     },
     {
       "dropped": "willamette_week:19334908@2026-08-23T20:00",
@@ -3969,9 +4009,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5497,
-  "floor_check": "5497 events against a 5485-event baseline",
-  "generated_at": "2026-08-18T21:37:23+00:00",
+  "event_count": 5541,
+  "floor_check": "5541 events against a 5486-event baseline",
+  "generated_at": "2026-08-18T21:43:02+00:00",
   "problems": [],
   "sources": [
     "calagator",
