@@ -33,6 +33,30 @@
       "venue": "Siren Theater"
     },
     {
+      "dropped": "willamette_week:19069306@2026-08-21T21:00",
+      "kept": "dopdx:17380377",
+      "start_at": "2026-08-21T21:00:00-07:00",
+      "title_dropped": "La Luz w/ Spacemoth",
+      "title_kept": "SOLD OUT: La Luz",
+      "venue": "Mississippi Studios"
+    },
+    {
+      "dropped": "willamette_week:19012546@2026-08-21T21:15",
+      "kept": "dopdx:17358751",
+      "start_at": "2026-08-21T21:15:00-07:00",
+      "title_dropped": "Special Event: Aries Spears",
+      "title_kept": "Aries Spears",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19012547@2026-08-21T21:45",
+      "kept": "dopdx:17358751",
+      "start_at": "2026-08-21T21:15:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Orion Levine",
+      "title_kept": "Aries Spears",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:19651656@2026-08-26T18:30",
       "kept": "dopdx:17650446",
       "start_at": "2026-08-26T18:30:00-07:00",
@@ -527,30 +551,6 @@
       "title_dropped": "STAINLESS - Album Release Show with Solicitor & Wizard Cage",
       "title_kept": "Stainless - Album Release Show with Solicitor & Wizard Cage",
       "venue": "Dante's"
-    },
-    {
-      "dropped": "willamette_week:19069306@2026-08-21T21:00",
-      "kept": "dopdx:17380377",
-      "start_at": "2026-08-21T21:00:00-07:00",
-      "title_dropped": "La Luz w/ Spacemoth",
-      "title_kept": "SOLD OUT: La Luz",
-      "venue": "Mississippi Studios"
-    },
-    {
-      "dropped": "willamette_week:19012546@2026-08-21T21:15",
-      "kept": "dopdx:17358751",
-      "start_at": "2026-08-21T21:15:00-07:00",
-      "title_dropped": "Special Event: Aries Spears",
-      "title_kept": "Aries Spears",
-      "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:19012547@2026-08-21T21:45",
-      "kept": "dopdx:17358751",
-      "start_at": "2026-08-21T21:15:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Orion Levine",
-      "title_kept": "Aries Spears",
-      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "willamette_week:18120034@2026-08-21T22:00",
@@ -3961,9 +3961,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5478,
-  "floor_check": "5478 events against a 5458-event baseline",
-  "generated_at": "2026-08-18T17:08:04+00:00",
+  "event_count": 5479,
+  "floor_check": "5479 events against a 5458-event baseline",
+  "generated_at": "2026-08-18T17:38:32+00:00",
   "problems": [],
   "sources": [
     "calagator",
