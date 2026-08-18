@@ -485,6 +485,25 @@
       "categories": [
         "civic"
       ],
+      "id": "oregon_metro:affordable-housing-bond-oversight-committee-meeting-2026-09-14",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/affordable-housing-bond-oversight-committee-meeting-2026-09-14",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-09-14T15:00:00-07:00",
+      "title": "Affordable Housing Bond Oversight Committee meeting"
+    },
+    {
+      "categories": [
+        "civic"
+      ],
       "id": "oregon_metro:metro-council-work-session-2026-09-15",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-09-15",
@@ -822,6 +841,31 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:forest-bathing-walk-2026-09-25",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/forest-bathing-walk-2026-09-25",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-09-25T16:00:00-07:00",
+      "title": "Forest bathing walk",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.55596,
+        "longitude": -122.45242,
+        "name": "Blue Lake Regional Park"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "oregon_metro:2026-09-26",
@@ -847,6 +891,29 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:forest-bathing-walk-2026-09-27",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/forest-bathing-walk-2026-09-27",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-09-27T11:00:00-07:00",
+      "title": "Forest bathing walk",
+      "venue": {
+        "city": "Portland",
+        "name": "Smith and Bybee Wetlands Natural Area"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metro-council-work-session-2026-09-29",
@@ -868,6 +935,29 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:reimagining-birding-sunset-stroll-2026-09-29",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/reimagining-birding-sunset-stroll-2026-09-29",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-09-29T16:30:00-07:00",
+      "title": "Reimagining birding: sunset stroll",
+      "venue": {
+        "city": "Portland",
+        "name": "Canemah Bluff Nature Park"
       }
     },
     {
@@ -937,6 +1027,29 @@
         "latitude": 44.9781,
         "longitude": -122.98391,
         "name": "Grace Community Church"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:reimagining-birding-2026-10-03",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/reimagining-birding-2026-10-03",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-03T10:00:00-07:00",
+      "title": "Reimagining birding",
+      "venue": {
+        "city": "Portland",
+        "name": "Chehalem Ridge Nature Park"
       }
     },
     {
@@ -1997,6 +2110,29 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:forest-bathing-walk-2026-11-14",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/forest-bathing-walk-2026-11-14",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-14T13:00:00-08:00",
+      "title": "Forest bathing walk",
+      "venue": {
+        "city": "Portland",
+        "name": "Smith and Bybee Wetlands Natural Area"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metro-council-work-session-2026-11-17",
@@ -2643,7 +2779,7 @@
       "title": "Committee on Racial Equity meeting"
     }
   ],
-  "generated_at": "2026-08-17T23:42:11+00:00",
+  "generated_at": "2026-08-18T01:54:59+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
