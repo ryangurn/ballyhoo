@@ -9943,6 +9943,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-08-27T02:00:00-07:00",
+      "id": "dopdx:17740351",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787025652/event-17740351.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/26/supergirl-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-26T16:00:00-07:00",
+      "summary": "(108) Running time: 108 minutes When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "title": "Supergirl",
+      "venue": {
+        "address": "5736 NE 33rd Ave",
+        "city": "Portland",
+        "latitude": 45.5644833,
+        "longitude": -122.6302851,
+        "name": "Kennedy School"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-27T02:00:00-07:00",
@@ -10311,6 +10340,35 @@
       "venue": {
         "address": "616 NW 21st Ave, Portland, Oregon 97209",
         "name": "Cinema 21 Theater"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-08-27T02:00:00-07:00",
+      "id": "dopdx:17740338",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787025621/event-17740338.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/26/backrooms-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-26T19:00:00-07:00",
+      "summary": "(105) Running time: 105 minutes A strange doorway appears in the basement of a furniture showroom.",
+      "title": "Backrooms",
+      "venue": {
+        "address": "5736 NE 33rd Ave",
+        "city": "Portland",
+        "latitude": 45.5644833,
+        "longitude": -122.6302851,
+        "name": "Kennedy School"
       }
     },
     {
@@ -32010,7 +32068,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-18T04:11:18+00:00",
+  "generated_at": "2026-08-18T05:04:59+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
