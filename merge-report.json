@@ -417,22 +417,6 @@
       "venue": "Keller Auditorium"
     },
     {
-      "dropped": "dopdx:17097740",
-      "kept": "ticketmaster:Z7r9jZ1A7-wff",
-      "start_at": "2026-08-21T20:00:00-07:00",
-      "title_dropped": "SOLD OUT: Angine de Poitrine",
-      "title_kept": "Angine de Poitrine",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "willamette_week:18418297@2026-08-21T20:00",
-      "kept": "dopdx:17097740",
-      "start_at": "2026-08-21T20:00:00-07:00",
-      "title_dropped": "Angine De Poitrine",
-      "title_kept": "SOLD OUT: Angine de Poitrine",
-      "venue": "Aladdin Theater"
-    },
-    {
       "dropped": "willamette_week:19332494@2026-08-21T20:00",
       "kept": "dopdx:17451658",
       "start_at": "2026-08-21T20:00:00-07:00",
@@ -447,6 +431,22 @@
       "title_dropped": "Dueling Piano Show",
       "title_kept": "Dueling Piano Show",
       "venue": "Barrel Room Portland"
+    },
+    {
+      "dropped": "dopdx:17097740",
+      "kept": "ticketmaster:Z7r9jZ1A7-wff",
+      "start_at": "2026-08-21T20:00:00-07:00",
+      "title_dropped": "SOLD OUT: Angine de Poitrine",
+      "title_kept": "Angine de Poitrine",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "willamette_week:18418297@2026-08-21T20:00",
+      "kept": "dopdx:17097740",
+      "start_at": "2026-08-21T20:00:00-07:00",
+      "title_dropped": "Angine De Poitrine",
+      "title_kept": "SOLD OUT: Angine de Poitrine",
+      "venue": "Aladdin Theater"
     },
     {
       "dropped": "willamette_week:19638117@2026-08-21T20:00",
@@ -4219,7 +4219,7 @@
   ],
   "event_count": 5659,
   "floor_check": "5659 events against a 5635-event baseline",
-  "generated_at": "2026-08-19T19:53:41+00:00",
+  "generated_at": "2026-08-19T19:56:00+00:00",
   "problems": [],
   "sources": [
     "calagator",
