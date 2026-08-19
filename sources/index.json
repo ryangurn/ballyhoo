@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T12:02:51+00:00",
+  "generated_at": "2026-08-19T13:05:40+00:00",
   "sources": [
     {
       "event_count": 33,
-      "last_run_at": "2026-08-19T11:35:07+00:00",
+      "last_run_at": "2026-08-19T13:04:52+00:00",
       "source_id": "calagator",
       "status": "ok",
       "url": "sources/calagator.json"
@@ -47,7 +47,7 @@
       "event_count": 90,
       "last_run_at": "2026-08-19T07:01:45+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
