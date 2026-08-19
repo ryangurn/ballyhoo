@@ -12953,6 +12953,35 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-08-21T12:15:00-07:00",
+      "id": "willamette_week:19672192@2026-08-21T11:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E-IgqiS4bk6BWrtDlzX_kg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/tiny-tots-892",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-21T11:30:00-07:00",
+      "summary": "One-year-olds \\(with a favorite adult\\) enjoy songs, movement activities, rhymes, books and playtime. This action-packed program engages new walkers in language-based activities. Attendance is limited and free tickets are available 15 minutes before storytime. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Tiny Tots",
+      "venue": {
+        "address": "1525 SW Sunset Boulevard",
+        "city": "Portland",
+        "latitude": 45.479840365229144,
+        "longitude": -122.69410805828335,
+        "name": "Hillsdale Library"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-21T12:15:00-07:00",
@@ -39802,6 +39831,37 @@
         "latitude": 45.5197386178146,
         "longitude": -123.05865727043835,
         "name": "Cornelius Public Library"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-08-26T19:30:00-07:00",
+      "id": "willamette_week:19671711@2026-08-26T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iJF25Dx4Bkyh4KJ8hN0HXw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.downtownpdxactivations.com/darcellexvplazacalendar#/en-US/place/DO3bAa/PupsonthePlazaFashionShow?origin=%2F%3F",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-26T17:30:00-07:00",
+      "summary": "Celebrate National Dog Day at Darcelle Pups on the Plaza Fashion Show! Featuring real-life runway, costumed creativity, local food and beverage provided by Flock PDX, pet treats and pet toy vendors, a photo booth for you and your pooch, and some fun awards! 10% of proceeds from all vendor sales benefit One Tail at a Time PDX.",
+      "title": "Pups on the Plaza Fashion Show",
+      "venue": {
+        "address": "800 SW Harvey Milk",
+        "city": "Portland",
+        "latitude": 45.521296,
+        "longitude": -122.680002,
+        "name": "Darcelle Xv Plaza"
       }
     },
     {
@@ -102591,6 +102651,34 @@
         "address": "1422 SW 11th Ave",
         "city": "Portland",
         "name": "The Old Church Concert Hall"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-09-10T20:00:00-07:00",
+      "id": "willamette_week:19671888@2026-09-10T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QMW9xhxUmk-8Ae0N8p-EVw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://elkcove.com/event/art-design-on-9th/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-10T17:00:00-07:00",
+      "summary": "Elk Cove will be pouring wines at the Elizabeth Leach Gallery during Art \\+ Design on 9th! Explore premiere art galleries and design showrooms on NW 9th Avenue while enjoying complimentary wine tastings from select Willamette Valley wineries. At each stop, visitors can enjoy a curated wine tasting while exploring current exhibitions and collections ranging from fine art and sculpture to contemporary furnishings and handcrafted design. The self-guided format encourages guests to wander the district at their own pace, meeting artists, designers, and winemakers throughout the evening. For all the details, visit: artanddesignon9thave.com",
+      "title": "Art + Design On 9th",
+      "venue": {
+        "city": "Gaston",
+        "latitude": 45.43623,
+        "longitude": -123.13955,
+        "name": "Gaston"
       }
     },
     {
@@ -167398,5 +167486,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-19T18:54:00+00:00"
+  "generated_at": "2026-08-19T18:57:42+00:00"
 }
