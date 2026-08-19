@@ -149937,6 +149937,29 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:mushroom-hike-2026-10-18",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-10-18",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-18T09:30:00-07:00",
+      "title": "Mushroom hike",
+      "venue": {
+        "city": "Portland",
+        "name": "Chehalem Ridge Nature Park"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -150219,6 +150242,29 @@
         "latitude": 45.533299,
         "longitude": -122.667442,
         "name": "Veterans Memorial Coliseum"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:mushroom-hike-2026-10-18-0",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-10-18-0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-18T12:30:00-07:00",
+      "title": "Mushroom hike",
+      "venue": {
+        "city": "Portland",
+        "name": "Chehalem Ridge Nature Park"
       }
     },
     {
@@ -151477,6 +151523,52 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Revolution Hall - Portland"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:mushroom-hike-2026-10-23",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-10-23",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-23T09:30:00-07:00",
+      "title": "Mushroom hike",
+      "venue": {
+        "city": "Portland",
+        "name": "Chehalem Ridge Nature Park"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:mushroom-hike-2026-10-23-0",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-10-23-0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-23T12:30:00-07:00",
+      "title": "Mushroom hike",
+      "venue": {
+        "city": "Portland",
+        "name": "Chehalem Ridge Nature Park"
       }
     },
     {
@@ -168785,5 +168877,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-19T23:42:15+00:00"
+  "generated_at": "2026-08-19T23:44:12+00:00"
 }
