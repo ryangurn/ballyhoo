@@ -6913,6 +6913,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-24T02:00:00-07:00",
+      "id": "dopdx:17746619",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787164449/event-17746619.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/23/sunday-comedy-open-mic-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-23T15:30:00-07:00",
+      "title": "Sunday Comedy Open Mic",
+      "venue": {
+        "address": "426 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5199352,
+        "longitude": -122.6765458,
+        "name": "Kelly's Olympian"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-08-24T02:00:00-07:00",
@@ -15188,6 +15218,36 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-08-31T02:00:00-07:00",
+      "id": "dopdx:17746620",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787164450/event-17746620.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/30/sunday-comedy-open-mic-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-30T15:30:00-07:00",
+      "title": "Sunday Comedy Open Mic",
+      "venue": {
+        "address": "426 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5199352,
+        "longitude": -122.6765458,
+        "name": "Kelly's Olympian"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-08-30T18:00:00-07:00",
       "id": "dopdx:17516207",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1782240858/event-17516207.jpg",
@@ -16344,6 +16404,36 @@
         "address": "2012 SE Hawthorne",
         "city": "Portland",
         "name": "Cinemagic Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-01T02:00:00-07:00",
+      "id": "dopdx:17746621",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787164451/event-17746621.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/31/kelly-s-olympian-vlvt-heart-records-presents-open-mic-night-guest-hosts-gretta-seabird-and-charlotte-lars-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-31T19:00:00-07:00",
+      "title": "KELLY’S OLYMPIAN & VLVT HEART RECORDS PRESENTS OPEN MIC NIGHT!, GUEST HOSTS GRETTA SEABIRD and CHARLOTTE LARS",
+      "venue": {
+        "address": "426 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5199352,
+        "longitude": -122.6765458,
+        "name": "Kelly's Olympian"
       }
     },
     {
@@ -32834,7 +32924,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-19T20:57:45+00:00",
+  "generated_at": "2026-08-19T21:54:43+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
