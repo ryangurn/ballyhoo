@@ -74181,6 +74181,38 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-09-09T18:30:00-07:00",
+      "id": "willamette_week:19670498@2026-09-09T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UmRJb6bVskOXBmzbGDtqCg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://japanesegarden.org/pjg-events/the-healing-power-of-gardens/2026-09-09/?promo=1",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-09T17:00:00-07:00",
+      "summary": "As part of Portland Japanese Garden's Mindfulness Week, join Teresa Jordan, author and interfaith chaplain, in this lecture on the remarkable healing power of gardens and how mindfulness practice can enhance one’s own experience. Through images and stories, and drawing on Buddhist, Shinto, Judeo-Christian, and Islamic traditions, Jordan will trace the garden’s recurring role across history as a threshold space, set apart from ordinary life, where the human spirit can rest and be healed. Jordan will open and conclude the lecture by leading an accessible breathing exercise visitors can practice when encountering moments of beauty, wonder, or delight here in our Garden.",
+      "ticket_url": "https://japanesegarden.org/pjg-events/the-healing-power-of-gardens/2026-09-09/?promo=1",
+      "title": "Lecture: The Healing Power of Gardens",
+      "venue": {
+        "address": "611 SW Kingston Ave",
+        "city": "Portland",
+        "latitude": 45.5194078,
+        "longitude": -122.7090681,
+        "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-09-09T19:00:00-07:00",
@@ -77491,7 +77523,7 @@
       "start_at": "2026-09-10T17:30:00-07:00",
       "summary": "Five Portland makers are infusing their local flavor into Drawn Hungry, the cozy culinary card game. Celebrate with good food & friends! All ages welcome! Get ready to feast your eyes (and your taste buds) on the Portland Collab Pack Launch Party — happening Thursday, September 10, 2026, from 5:30 to 8:00 PM at Flying Fish Co.! Come hungry, come curious, and come ready to play, because this bash is packed with live Drawn Hungry demos, tables full of goodies from local collaborators, a snack spread, and a photo backdrop practically begging for your best game-night grin. Snag a free ticket just to soak in the vibes, spring for $10 to snag a goodie bag, or go all-in for $25 to score the brand-new Collab Pack too — and don't forget to get your \"flavor passport\" stamped at every collaborator table for a shot at a mystery prize. Whether you're a Drawn Hungry superfan or just here for the snacks and shenanigans, this is one launch party you won't want to miss!",
       "ticket_url": "https://www.eventbrite.com/e/portland-collab-pack-launch-party-tickets-1993703946172?aff=oddtdtcreator&keep_tld=true",
-      "title": "Portland Collab Pack Launch Party",
+      "title": "Drawn Hungry Portland Collab Pack Launch Party",
       "venue": {
         "address": "3004 East Burnside Street",
         "city": "Portland",
@@ -103194,7 +103226,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-19T15:48:38+00:00",
+  "generated_at": "2026-08-19T16:49:48+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
