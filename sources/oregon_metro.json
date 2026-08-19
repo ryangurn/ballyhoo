@@ -1481,6 +1481,52 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:mushroom-hike-2026-10-18",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-10-18",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-18T09:30:00-07:00",
+      "title": "Mushroom hike",
+      "venue": {
+        "city": "Portland",
+        "name": "Chehalem Ridge Nature Park"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:mushroom-hike-2026-10-18-0",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-10-18-0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-18T12:30:00-07:00",
+      "title": "Mushroom hike",
+      "venue": {
+        "city": "Portland",
+        "name": "Chehalem Ridge Nature Park"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:affordable-housing-bond-oversight-committee-meeting-2026-10-19",
@@ -1596,6 +1642,52 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:mushroom-hike-2026-10-23",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-10-23",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-23T09:30:00-07:00",
+      "title": "Mushroom hike",
+      "venue": {
+        "city": "Portland",
+        "name": "Chehalem Ridge Nature Park"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:mushroom-hike-2026-10-23-0",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-10-23-0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-23T12:30:00-07:00",
+      "title": "Mushroom hike",
+      "venue": {
+        "city": "Portland",
+        "name": "Chehalem Ridge Nature Park"
       }
     },
     {
@@ -2953,7 +3045,7 @@
       "title": "Committee on Racial Equity meeting"
     }
   ],
-  "generated_at": "2026-08-19T22:46:26+00:00",
+  "generated_at": "2026-08-19T23:42:42+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
