@@ -20040,6 +20040,35 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-09-05T21:00:00-07:00",
+      "id": "dopdx:17751081",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787256024/event-17751081.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/5/september-artist-in-residence-jae-seung-hancock-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-05T18:00:00-07:00",
+      "summary": "Fern & Wolf is a small brick-and-mortar in Foster-Powell, specializing in curated home decor and vintage furniture and focusing on local artists and makers. With a goal to be a one-of-a-kind art gallery where you can see art in a lived-in setting, like you were at home. Fern & Wolf has a monthly artist residence with an opening night the first Saturday of the month. Join us on September 5th from 6pm-9pm and see the works of Jae Seung Hancock — Born in Seoul, Korea, but grew up in a suburb of the Twin Cities. They are a dancer and painter based in Portland, Oregon. They have worked with Disjecta Contemporary Art Center, CoHo Productions, The Holding Project, Theatre Diaspora, and Tongue Dance Collective. As a multidisciplinary artist, their",
+      "title": "September Artist in Residence - Jae Seung Hancock",
+      "venue": {
+        "address": "6414 se foster rd",
+        "city": "portland",
+        "name": "Fern & Wolf"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-05T21:45:00-07:00",
@@ -24506,6 +24535,36 @@
         "latitude": 45.5124236,
         "longitude": -122.6483752,
         "name": "No Fun"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-11T02:00:00-07:00",
+      "id": "dopdx:17751101",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787256349/event-17751101.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/10/portland-indie-film-networking-event-tickets",
+      "organizer": "McMenamins",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.0,
+        "min": 8.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-10T19:00:00-07:00",
+      "summary": "Our mission is to bring the Portland film community together through exciting screenings and networking events where filmmakers, industry professionals, and creatives connect, collaborate, and support one another's talent and work. Since our launch in 2017, these events have grown in popularity, drawing engaged audiences and offering filmmakers the chance to showcase their projects while building valuable industry connections with producers, directors, actors, crew members, and other creative minds. Hosted by Jerry Bell Jr. (JBj) — award-winning film producer, director, and actor-this event promises a special evening featuring a curated lineup of regional independent films from talented filmmakers. Following the screenings, directors and p",
+      "title": "Portland Indie Film & Networking Event",
+      "venue": {
+        "address": "5736 NE 33rd Ave",
+        "city": "Portland",
+        "name": "McMenamins Kennedy School Theater"
       }
     },
     {
@@ -33745,7 +33804,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-20T19:58:47+00:00",
+  "generated_at": "2026-08-20T20:59:13+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
