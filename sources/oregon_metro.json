@@ -1433,6 +1433,31 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:forest-bathing-walk-2026-10-16",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/forest-bathing-walk-2026-10-16",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-16T16:00:00-07:00",
+      "title": "Forest bathing walk",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.44707,
+        "longitude": -122.50858,
+        "name": "Scouters Mountain Nature Park"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "oregon_metro:2026-10-17",
@@ -3193,7 +3218,7 @@
       "title": "Committee on Racial Equity meeting"
     }
   ],
-  "generated_at": "2026-08-20T15:53:53+00:00",
+  "generated_at": "2026-08-20T16:56:48+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
