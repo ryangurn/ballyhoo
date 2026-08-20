@@ -697,6 +697,22 @@
       "venue": "Montavilla Farmers Market"
     },
     {
+      "dropped": "willamette_week:18521269@2026-08-23T10:00",
+      "kept": "portland_farmers_market:king-farmers-market-3@2026-08-23",
+      "start_at": "2026-08-23T10:00:00-07:00",
+      "title_dropped": "King Farmers Market",
+      "title_kept": "King Farmers Market",
+      "venue": "King Farmers Market"
+    },
+    {
+      "dropped": "willamette_week:18521272@2026-08-23T10:00",
+      "kept": "portland_farmers_market:lents-international-farmers-market@2026-08-23",
+      "start_at": "2026-08-23T10:00:00-07:00",
+      "title_dropped": "Lents International Farmers Market",
+      "title_kept": "Lents International Farmers Market",
+      "venue": "Lents International Farmers Market"
+    },
+    {
       "dropped": "willamette_week:18041354@2026-08-23T10:30",
       "kept": "dopdx:17029838",
       "start_at": "2026-08-23T10:30:00-07:00",
@@ -2932,7 +2948,7 @@
       "dropped": "willamette_week:19436719@2026-09-10T20:00",
       "kept": "dopdx:17529268",
       "start_at": "2026-09-10T20:00:00-07:00",
-      "title_dropped": "RAAHiiM & Isaiah Falls",
+      "title_dropped": "Isaiah Falls - Lvrs Paradise Side B Tour",
       "title_kept": "Isaiah Falls",
       "venue": "Hawthorne Theatre"
     },
@@ -4433,9 +4449,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5737,
-  "floor_check": "5737 events against a 5719-event baseline",
-  "generated_at": "2026-08-20T04:52:08+00:00",
+  "event_count": 5749,
+  "floor_check": "5749 events against a 5720-event baseline",
+  "generated_at": "2026-08-20T04:57:35+00:00",
   "problems": [],
   "sources": [
     "calagator",

@@ -3926,6 +3926,36 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-08-20T19:00:00-07:00",
+      "id": "willamette_week:19020981@2026-08-20T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mu31f1bmREerZrTUrSed_w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/make-sushi-with-chef-sarah-sushi-making-cooking-class-in-portland-classpoptm-tickets-1993351223168",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.86,
+        "min": 65.86
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-20T17:00:00-07:00",
+      "title": "Make Sushi With Chef Sarah - Sushi Making Cooking Class in Portland | Classpop!™",
+      "venue": {
+        "address": "403 SE 79th Ave",
+        "city": "Portland",
+        "latitude": 45.519484,
+        "longitude": -122.582634,
+        "name": "Threshold Brewing"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-08-20T20:00:00-07:00",
@@ -3983,36 +4013,6 @@
         "latitude": 45.535587,
         "longitude": -122.878439,
         "name": "P.F. Chang's"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-08-20T19:00:00-07:00",
-      "id": "willamette_week:19020981@2026-08-20T17:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mu31f1bmREerZrTUrSed_w.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/make-sushi-with-chef-sarah-sushi-making-cooking-class-in-portland-classpoptm-tickets-1993351223168",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 65.86,
-        "min": 65.86
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-20T17:00:00-07:00",
-      "title": "Make Sushi With Chef Sarah - Sushi Making Cooking Class in Portland | Classpop!™",
-      "venue": {
-        "address": "403 SE 79th Ave",
-        "city": "Portland",
-        "latitude": 45.519489,
-        "longitude": -122.582673,
-        "name": "Threshold Brewing"
       }
     },
     {
@@ -12305,6 +12305,37 @@
         "latitude": 45.2216,
         "longitude": -122.669098,
         "name": "Clackamas County Event Center"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-08-21T21:30:00-07:00",
+      "id": "willamette_week:19108133@2026-08-21T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uENe4wy9xkSagQxeijiqVg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/flirty-fridays-lgbtq-singles-night-tickets-1997512673177",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 17.5,
+        "min": 17.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-21T19:30:00-07:00",
+      "summary": "Hosted LGBTQ\\+ Singles Mingle with fun ice breakers, cocktails, food, and genuine connections. Buy One, Get One FREE!",
+      "title": "Flirty Friday's LGBTQ+ SINGLES NIGHT",
+      "venue": {
+        "address": "807 Northeast Couch Street",
+        "city": "Portland",
+        "latitude": 45.523811,
+        "longitude": -122.657319,
+        "name": "Fusion Social House"
       }
     },
     {
@@ -22797,6 +22828,10 @@
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/King-aug-22-image-close.jpg",
       "is_all_day": false,
       "listing_url": "https://www.portlandfarmersmarket.org/event/king-farmers-market-3/2026-08-23/",
+      "merged_sources": [
+        "portland_farmers_market",
+        "willamette_week"
+      ],
       "organizer": "Portland Farmers Market",
       "price": {
         "currency": "USD",
@@ -22830,6 +22865,10 @@
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2024/01/lents-110423-header-imagery.jpg",
       "is_all_day": false,
       "listing_url": "https://www.portlandfarmersmarket.org/event/lents-international-farmers-market/2026-08-23/",
+      "merged_sources": [
+        "portland_farmers_market",
+        "willamette_week"
+      ],
       "organizer": "Portland Farmers Market",
       "price": {
         "currency": "USD",
@@ -22851,6 +22890,34 @@
         "latitude": 45.48012,
         "longitude": -122.56962,
         "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-23T11:00:00-07:00",
+      "id": "willamette_week:18845499@2026-08-23T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v4ynkEVN4E2iwuchT_2XLg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsboroumc.org/events-1/sunday-morning-gathering",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-23T10:00:00-07:00",
+      "summary": "Join us before worship for a relaxed, all-ages gathering where we can connect, reflect, and share in meaningful conversation. This informal time offers space to explore questions of faith, life, and community in a welcoming environment-whether you come to listen, speak, or simply be present. Everyone is invited as we grow together in understanding and connection.",
+      "title": "The Gathering Table",
+      "venue": {
+        "city": "Hillsboro",
+        "latitude": 45.52289,
+        "longitude": -122.98983,
+        "name": "Hillsboro"
       }
     },
     {
@@ -26946,6 +27013,34 @@
         "latitude": 45.523588,
         "longitude": -122.676857,
         "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19542669@2026-08-23T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0Db8puArEUi2rv6AKJjbBQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108738871?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-23T19:00:00-07:00",
+      "summary": "Your sultry tumble rise-up awaits!",
+      "title": "shelly rudolph",
+      "venue": {
+        "address": "715 NW 23rd Ave",
+        "city": "Portland",
+        "latitude": 45.52794470000001,
+        "longitude": -122.69873339999998,
+        "name": "Jo Bar & Rotisserie"
       }
     },
     {
@@ -36152,6 +36247,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-26T20:00:00-07:00",
+      "id": "willamette_week:19140152@2026-08-26T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VOK_zrOqt0KMNQIuz4Z3pA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://langersfun.com/event/free-live-trivia-in-the-tack-room-2-2/2026-08-26/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-26T18:00:00-07:00",
+      "summary": "\\(21\\+\\) Games @ 6pm & 7pm Grab your friends! Every Wednesday in The Tack Room we've got free Pub Trivia Night from Sporcle Events! Games start at 6pm & 7pm Each game has $75 dollars worth of Langer's gift cards up for grabs! Bring your friends \\+21 only in The Tack Room",
+      "title": "Free Live Trivia in The Tack Room",
+      "venue": {
+        "address": "21650 SW Langer Farms Pkwy",
+        "city": "Sherwood",
+        "latitude": 45.3628103,
+        "longitude": -122.835479,
+        "name": "Langer's Entertainment Center"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-26T23:00:00-07:00",
@@ -38228,6 +38352,37 @@
         "latitude": 45.56209,
         "longitude": -122.675266,
         "name": "XRAY.FM"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-08-27T15:30:00-07:00",
+      "id": "willamette_week:19666870@2026-08-27T08:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-MMXlYEMf0i7NcPpqNEbXA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/eagle-fern-county-park-pdx-trail-rehabilitation-registration-1994516129434",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-27T08:30:00-07:00",
+      "summary": "Join us as we do rehabilitation on a lightly used trail at Eagle Fern Park in Clackamas County",
+      "title": "Eagle Fern County Park--PDX (trail rehabilitation)",
+      "venue": {
+        "address": "27505 Southeast Eagle Fern Road",
+        "city": "Eagle Creek",
+        "latitude": 45.321682,
+        "longitude": -122.28725,
+        "name": "Eagle Fern Park"
       }
     },
     {
@@ -46740,6 +46895,34 @@
         "latitude": 45.519739362023536,
         "longitude": -122.98561036441757,
         "name": "Hillsboro Downtown Station"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-28T20:00:00-07:00",
+      "id": "willamette_week:19465533@2026-08-28T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rvZ588mLw0aFNpU6JC-gmw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsboroumc.org/events-1/game-night",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-28T18:00:00-07:00",
+      "summary": "Whether you are an avid gamer or just want to try something new, all are welcome to join us! From board games to video games, to hanging out with church friends, we've got something for everyone! We meet on the 4th Friday of every month, hope to see you there!",
+      "title": "Game Night",
+      "venue": {
+        "city": "Hillsboro",
+        "latitude": 45.52289,
+        "longitude": -122.98983,
+        "name": "Hillsboro"
       }
     },
     {
@@ -72772,6 +72955,37 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-09-03T21:00:00-07:00",
+      "id": "willamette_week:19108182@2026-09-03T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ErQ2UrVNHUG1hrrscv8tHQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/gabbys-supper-club-sep-3-tickets-1992031290213",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 95.0,
+        "min": 95.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-03T18:00:00-07:00",
+      "summary": "Our monthly supper club meeting featuring five, hyper-seasonal Italian-American courses.",
+      "title": "Gabby's Supper Club",
+      "venue": {
+        "address": "5425 Northeast 30th Avenue",
+        "city": "Portland",
+        "latitude": 45.562398,
+        "longitude": -122.635083,
+        "name": "Gabby's Next Door"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-09-03T19:00:00-07:00",
@@ -73041,37 +73255,6 @@
         "latitude": 45.526842,
         "longitude": -122.730243,
         "name": "Portland Audubon"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-09-03T21:00:00-07:00",
-      "id": "willamette_week:19108182@2026-09-03T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ErQ2UrVNHUG1hrrscv8tHQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/gabbys-supper-club-sep-3-tickets-1992031290213",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 95.0,
-        "min": 95.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-03T18:00:00-07:00",
-      "summary": "Our monthly supper club meeting featuring five, hyper-seasonal Italian-American courses.",
-      "title": "Gabby's Supper Club",
-      "venue": {
-        "address": "5425 Northeast 30th Avenue",
-        "city": "Portland",
-        "latitude": 45.562398,
-        "longitude": -122.635083,
-        "name": "Gabby's Next Door"
       }
     },
     {
@@ -75914,6 +76097,37 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-09-04T13:00:00-07:00",
+      "id": "willamette_week:18730987@2026-09-04T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rUZP3ZHMWUS0udwDKTum5A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/community-sack-lunch-packing-for-blanchet-house-portland-september-tickets-1997772609654",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-04T12:00:00-07:00",
+      "summary": "Join us to pack lunches and spread some love for the folks at Blanchet House!",
+      "title": "Community Sack Lunch Packing for Blanchet House Portland",
+      "venue": {
+        "address": "9755 SW Barnes Rd",
+        "city": "Portland",
+        "latitude": 45.511795,
+        "longitude": -122.777945,
+        "name": "Keller Williams Realty Professionals - North Parking Lot"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-04T18:00:00-07:00",
@@ -78146,6 +78360,34 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Helium Comedy Club - Portland"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19659228@2026-09-04T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1o2bTVKLqEmgsorylg_wFw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.pcs.org/events/gallery-exhibit-ready-stop-go-by-rafael-astorga",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-04T19:00:00-07:00",
+      "summary": "Enjoy our new gallery exhibit by local sports photographer Rafael Astorga",
+      "title": "Gallery Exhibit: READY STOP GO by Rafael Astorga",
+      "venue": {
+        "address": "128 NW 11th Ave",
+        "city": "Portland",
+        "latitude": 45.5241737366,
+        "longitude": -122.6816558838,
+        "name": "Portland Center Stage"
       }
     },
     {
@@ -83600,6 +83842,36 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-09-05T21:30:00-07:00",
+      "id": "willamette_week:19030917@2026-09-05T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ERkygTx4YEGcPK6hz4I-Wg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/build-your-own-home-decor-paint-and-sip-in-portland-classpoptm-tickets-1991366680347",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 54.12,
+        "min": 54.12
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-05T19:00:00-07:00",
+      "title": "Build Your Own Home Décor - Paint and Sip in Portland | Classpop!™",
+      "venue": {
+        "address": "3522 N Vancouver Ave",
+        "city": "Portland",
+        "latitude": 45.548762,
+        "longitude": -122.667669,
+        "name": "DIY Bar"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-05T21:00:00-07:00",
@@ -86662,6 +86934,36 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-09-06T15:00:00-07:00",
+      "id": "willamette_week:19020981@2026-09-06T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mu31f1bmREerZrTUrSed_w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/make-sushi-with-chef-sarah-sushi-making-cooking-class-in-portland-classpoptm-tickets-1991425796164",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.86,
+        "min": 65.86
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-06T13:00:00-07:00",
+      "title": "Make Sushi With Chef Sarah - Sushi Making Cooking Class in Portland | Classpop!™",
+      "venue": {
+        "address": "403 SE 79th Ave",
+        "city": "Portland",
+        "latitude": 45.519484,
+        "longitude": -122.582634,
+        "name": "Threshold Brewing"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-09-06T15:30:00-07:00",
@@ -87803,6 +88105,68 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-09-06T20:00:00-07:00",
+      "id": "willamette_week:19666916@2026-09-06T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41VO6j1YqkmKMnEtZkpRxw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/paint-nite-cascade-grill-at-jubitz-portland-tickets-1990740005947",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 44.31,
+        "min": 44.31
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-06T18:00:00-07:00",
+      "summary": "Teens-and-up paint & sip in PORTLAND: paint Come and get it at Cascade Grill At Jubitz. Ages 13\\+, all supplies included, no experience",
+      "title": "Paint Nite • Cascade Grill At Jubitz",
+      "venue": {
+        "address": "10350 N VANCOUVER WAY",
+        "city": "Portland",
+        "latitude": 45.597615,
+        "longitude": -122.669604,
+        "name": "Cascade Grill At Jubitz"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-09-06T20:00:00-07:00",
+      "id": "willamette_week:19658998@2026-09-06T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6NsLw86QFEi6Yb94GBGBCg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/paint-nite-tap-table-tigard-tickets-1984311570323",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 47.42,
+        "min": 47.42
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-06T18:00:00-07:00",
+      "summary": "Family-friendly paint & sip in TIGARD: paint Summer Sunset Island at Tap & Table . All ages, all supplies included, no experience needed.",
+      "title": "Paint Nite • Tap & Table",
+      "venue": {
+        "address": "12950 SW PACIFIC HWY",
+        "city": "Tigard",
+        "latitude": 45.425961,
+        "longitude": -122.778726,
+        "name": "Tap & Table"
       }
     },
     {
@@ -97505,6 +97869,37 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-10T11:30:00-07:00",
+      "id": "willamette_week:18730981@2026-09-10T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DQrcEk-U606bK2ZQN1697w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/quiet-networking-tickets-1992727600897",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-10T10:00:00-07:00",
+      "summary": "Come join us for a relaxed networking event where you can make connections in a relaxed and quiet atmosphere!",
+      "title": "Quiet Networking",
+      "venue": {
+        "address": "5441 SE Belmont St",
+        "city": "Portland",
+        "latitude": 45.516823,
+        "longitude": -122.607399,
+        "name": "TaborSpace"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-10T17:30:00-07:00",
@@ -100451,35 +100846,6 @@
         "latitude": 45.484796,
         "longitude": -122.752605,
         "name": "Change Through Play: Improv  & Training Studio"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-09-10T00:00:00-07:00",
-      "id": "willamette_week:19436719@2026-09-10T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rZFfXucLBU2eK1bTEpWblw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/108577548?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-10T19:00:00-07:00",
-      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketmaster.com%252Fevent%252FZ7r9jZ1A7PsF-%26utm_medium%3daffiliate",
-      "title": "RAAHiiM & Isaiah Falls",
-      "venue": {
-        "address": "1507 SE 39th",
-        "city": "Portland",
-        "latitude": 45.511821,
-        "longitude": -122.623214,
-        "name": "Hawthorne Theatre"
       }
     },
     {
@@ -115054,6 +115420,36 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-09-13T16:00:00-07:00",
+      "id": "willamette_week:19179937@2026-09-13T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lO2Xuu_dPk-NxyJEZ0oehA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/pasta-making-with-chef-sarah-pasta-making-cooking-class-in-portland-classpoptm-tickets-1991956465410",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.86,
+        "min": 65.86
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-13T14:00:00-07:00",
+      "title": "Pasta Making With Chef Sarah - Pasta Making Cooking Class in Portland | Classpop!™",
+      "venue": {
+        "address": "920A SE Caruthers St",
+        "city": "Portland",
+        "latitude": 45.505565,
+        "longitude": -122.656397,
+        "name": "Everywhere"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "end_at": "2026-09-13T16:00:00-07:00",
@@ -115111,36 +115507,6 @@
         "latitude": 45.5227202922,
         "longitude": -122.6577441394,
         "name": "Imago Theatre"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-09-13T16:00:00-07:00",
-      "id": "willamette_week:19179937@2026-09-13T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lO2Xuu_dPk-NxyJEZ0oehA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/pasta-making-with-chef-sarah-pasta-making-cooking-class-in-portland-classpoptm-tickets-1991956465410",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 65.86,
-        "min": 65.86
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-13T14:00:00-07:00",
-      "title": "Pasta Making With Chef Sarah - Pasta Making Cooking Class in Portland | Classpop!™",
-      "venue": {
-        "address": "920A SE Caruthers St",
-        "city": "Portland",
-        "latitude": 45.505565,
-        "longitude": -122.656397,
-        "name": "Everywhere"
       }
     },
     {
@@ -170438,5 +170804,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-20T04:52:08+00:00"
+  "generated_at": "2026-08-20T04:57:35+00:00"
 }
