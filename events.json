@@ -138750,6 +138750,37 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-19T15:00:00-07:00",
+      "id": "willamette_week:19689636@2026-09-19T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Eu7pydYvEUCWP6qm2m1vHQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://thedrivenexperience.com/portland-general-electric-ev-events/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-19T10:00:00-07:00",
+      "summary": "Experience Sustainable Living - On the Road and at Home. See what it's like to drive electric at PGE's free EV Ride & Drive during the Milwaukie Sustainability Fair. Test drive a variety of EVs, connect with EV experts, and learn about charging, incentives, and EV ownership. After your test drive, discover everything the fair has to offer, from local organizations and educational exhibits to interactive activities, live music, food vendors, and hands-on demonstrations that make sustainable living fun, practical, and accessible for everyone. Whether you're looking for your next vehicle, new ideas for your home, or simple ways to make a positive impact, you'll find inspiration around every corner. For more information and to register for the event, please visit https://thedrivenexperience.com/portland-general-electric-ev-events/",
+      "title": "PGE EV Ride & Drive at Milwaukie Farmers Market",
+      "venue": {
+        "address": "10723 SE Main St.",
+        "city": "Milwaukie",
+        "latitude": 45.445342,
+        "longitude": -122.641608,
+        "name": "Farmer’s Market Parking Lot"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-09-19T12:00:00-07:00",
@@ -173978,5 +174009,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-20T18:57:57+00:00"
+  "generated_at": "2026-08-20T19:04:10+00:00"
 }
