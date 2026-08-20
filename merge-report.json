@@ -17,6 +17,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:19691369@2026-08-20T19:00",
+      "kept": "dopdx:17686783",
+      "start_at": "2026-08-20T19:00:00-07:00",
+      "title_dropped": "Aslin + Austin Sweeney live at Artichoke",
+      "title_kept": "Austin B. Sweeney with Aslin",
+      "venue": "Artichoke Music"
+    },
+    {
       "dropped": "willamette_week:19012546@2026-08-20T19:30",
       "kept": "dopdx:17358747",
       "start_at": "2026-08-20T19:30:00-07:00",
@@ -39,6 +47,14 @@
       "title_dropped": "La Luz w/ Spacemoth",
       "title_kept": "SOLD OUT: La Luz",
       "venue": "Mississippi Studios"
+    },
+    {
+      "dropped": "willamette_week:19691393@2026-08-21T21:00",
+      "kept": "dopdx:17625062",
+      "start_at": "2026-08-21T21:00:00-07:00",
+      "title_dropped": "House of Disco - A Night of Classic Disco & Modern House Anthems",
+      "title_kept": "House of Disco – A Night of Classic Disco & Modern House Anthems – 21+",
+      "venue": "Holocene"
     },
     {
       "dropped": "willamette_week:19012546@2026-08-21T21:15",
@@ -177,6 +193,14 @@
       "venue": "Aladdin Theater"
     },
     {
+      "dropped": "willamette_week:19691375@2026-08-20T20:00",
+      "kept": "dopdx:17631672",
+      "start_at": "2026-08-20T20:00:00-07:00",
+      "title_dropped": "Bloom Or Bust Tour - Full Band Finale",
+      "title_kept": "Gillian Grogan and Megan Diana with Lilly Miller",
+      "venue": "The Showdown"
+    },
+    {
       "dropped": "willamette_week:19484132@2026-08-20T20:00",
       "kept": "ticketmaster:rZ7HnEZ1AfaYOf",
       "start_at": "2026-08-20T20:00:00-07:00",
@@ -239,6 +263,14 @@
       "title_dropped": "Roast City comedy show",
       "title_kept": "Roast Battle Portland",
       "venue": "Funhouse Lounge"
+    },
+    {
+      "dropped": "willamette_week:19691379@2026-08-21T18:00",
+      "kept": "dopdx:17575375",
+      "start_at": "2026-08-21T18:00:00-07:00",
+      "title_dropped": "AF & the Riveters - TGIF",
+      "title_kept": "Ashleigh Flynn & the Riveters - FRIDAY HH",
+      "venue": "Laurelthirst Public House"
     },
     {
       "dropped": "dopdx:17195984",
@@ -383,6 +415,14 @@
       "title_dropped": "STAINLESS - Album Release Show with Solicitor & Wizard Cage",
       "title_kept": "Stainless - Album Release Show with Solicitor & Wizard Cage",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19691397@2026-08-21T22:00",
+      "kept": "dopdx:17555824",
+      "start_at": "2026-08-21T22:00:00-07:00",
+      "title_dropped": "Kevin Saunderson",
+      "title_kept": "Kevin Saunderson",
+      "venue": "The Den"
     },
     {
       "dropped": "willamette_week:18120034@2026-08-21T22:00",
@@ -4145,6 +4185,14 @@
       "venue": "Funhouse Lounge"
     },
     {
+      "dropped": "willamette_week:19691379@2026-09-18T18:00",
+      "kept": "dopdx:17575384",
+      "start_at": "2026-09-18T18:00:00-07:00",
+      "title_dropped": "AF & the Riveters - TGIF",
+      "title_kept": "Ashleigh Flynn & the Riveters - FRIDAY HH",
+      "venue": "Laurelthirst Public House"
+    },
+    {
       "dropped": "dopdx:16840038",
       "kept": "ticketmaster:vvG1HZ_eMrL7nd",
       "start_at": "2026-09-18T18:15:00-07:00",
@@ -4577,9 +4625,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 5863,
-  "floor_check": "5863 events against a 5855-event baseline",
-  "generated_at": "2026-08-20T20:45:10+00:00",
+  "event_count": 5895,
+  "floor_check": "5895 events against a 5855-event baseline",
+  "generated_at": "2026-08-20T20:50:33+00:00",
   "problems": [],
   "sources": [
     "calagator",
