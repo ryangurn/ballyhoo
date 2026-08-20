@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T13:14:52+00:00",
+  "generated_at": "2026-08-20T13:23:56+00:00",
   "sources": [
     {
       "event_count": 34,
@@ -19,7 +19,7 @@
       "event_count": 27,
       "last_run_at": "2026-08-20T07:23:03+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "event_count": 140,
-      "last_run_at": "2026-08-20T11:48:18+00:00",
+      "last_run_at": "2026-08-20T13:23:11+00:00",
       "source_id": "oregon_metro",
       "status": "ok",
       "url": "sources/oregon_metro.json"
