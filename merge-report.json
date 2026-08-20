@@ -2457,6 +2457,14 @@
       "venue": "Hillsboro Ballpark"
     },
     {
+      "dropped": "willamette_week:19691343@2026-09-05T18:00",
+      "kept": "dopdx:17751081",
+      "start_at": "2026-09-05T18:00:00-07:00",
+      "title_dropped": "September Artist in Residence - Jae Seung Hancock",
+      "title_kept": "September Artist in Residence - Jae Seung Hancock",
+      "venue": "Fern & Wolf"
+    },
+    {
       "dropped": "willamette_week:19002755@2026-09-05T18:30",
       "kept": "dopdx:17749531",
       "start_at": "2026-09-05T18:30:00-07:00",
@@ -4625,9 +4633,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 5894,
-  "floor_check": "5894 events against a 5855-event baseline",
-  "generated_at": "2026-08-20T20:59:03+00:00",
+  "event_count": 5895,
+  "floor_check": "5895 events against a 5855-event baseline",
+  "generated_at": "2026-08-20T21:01:30+00:00",
   "problems": [],
   "sources": [
     "calagator",
