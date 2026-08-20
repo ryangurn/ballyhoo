@@ -84468,6 +84468,34 @@
     },
     {
       "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-09-05T20:00:00-07:00",
+      "id": "willamette_week:19688247@2026-09-05T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5a1a8420-0217-40bf-9903-53b3f8951cec.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.travelsalem.com/events/pheasant-run-first-fridays/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-05T17:00:00-07:00",
+      "title": "Pheasant Run First Fridays",
+      "venue": {
+        "address": "21690 Main St NE",
+        "city": "Aurora",
+        "latitude": 45.232415,
+        "longitude": -122.755764,
+        "name": "Pheasant Run Winery Tasting Room"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19685446@2026-09-05T17:00",
@@ -173702,5 +173730,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-20T16:50:16+00:00"
+  "generated_at": "2026-08-20T16:55:02+00:00"
 }
