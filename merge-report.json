@@ -1385,6 +1385,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19685960@2026-08-29T10:00",
+      "kept": "dopdx:17720418",
+      "start_at": "2026-08-29T10:00:00-07:00",
+      "title_dropped": "POUND & Mimosas at Willamette Garage Pub & Food Carts!",
+      "title_kept": "POUND & Mimosas at Willamette Garage Pub & Food Carts!",
+      "venue": "Willamette Garage"
+    },
+    {
       "dropped": "willamette_week:18766022@2026-08-29T11:00",
       "kept": "dopdx:17696934",
       "start_at": "2026-08-29T11:00:00-07:00",
@@ -1959,6 +1967,14 @@
       "title_dropped": "Wednesday Wubs",
       "title_kept": "Wednesday Wubs",
       "venue": "Barrel Room Portland"
+    },
+    {
+      "dropped": "willamette_week:19685965@2026-09-03T18:30",
+      "kept": "dopdx:17715286",
+      "start_at": "2026-09-03T18:30:00-07:00",
+      "title_dropped": "Songs and Stories with Eric Douglas and Ken Gaines",
+      "title_kept": "Songs and Stories with Eric Douglas and Ken Gaines",
+      "venue": "Singacoustic"
     },
     {
       "dropped": "dopdx:17595285",
@@ -3233,6 +3249,14 @@
       "venue": "Pioneer Courthouse Square"
     },
     {
+      "dropped": "willamette_week:19685974@2026-09-12T12:00",
+      "kept": "dopdx:17720416",
+      "start_at": "2026-09-12T12:00:00-07:00",
+      "title_dropped": "Rev'd Fitness x Sport Oregon 5K",
+      "title_kept": "Rev'd Fitness x Sport Oregon 5K",
+      "venue": "Rev'd Fitness | Portland"
+    },
+    {
       "dropped": "dopdx:16827560",
       "kept": "ticketmaster:vvG1HZ_eQ8BVhX",
       "start_at": "2026-09-12T18:45:00-07:00",
@@ -4449,9 +4473,9 @@
       "venue": "Star Theater"
     }
   ],
-  "event_count": 5775,
-  "floor_check": "5775 events against a 5751-event baseline",
-  "generated_at": "2026-08-20T10:45:48+00:00",
+  "event_count": 5817,
+  "floor_check": "5817 events against a 5751-event baseline",
+  "generated_at": "2026-08-20T10:50:41+00:00",
   "problems": [],
   "sources": [
     "calagator",
