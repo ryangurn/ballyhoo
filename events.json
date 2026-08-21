@@ -97417,6 +97417,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19693379@2026-09-10T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/P4anyyVXz0S60FebGEEesg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.mcmenamins.com/events/278475-portland-indie-film-networking-event",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.0,
+        "min": 8.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-10T18:00:00-07:00",
+      "summary": "Our mission is to bring the Portland film community together through exciting screenings and networking events where filmmakers, industry professionals, and creatives connect, collaborate, and support one another's talent and work. Since our launch in 2017, these events have grown in popularity, drawing engaged audiences and offering filmmakers the chance to showcase their projects while building valuable industry connections with producers, directors, actors, crew members, and other creative minds. Hosted by Jerry Bell Jr. \\(JBj\\) — award-winning film producer, director, and actor-this event promises a special evening featuring a curated lineup of regional independent films from talented filmmakers. Following the screenings, directors and producers will share unique insights into their work. It's a night to celebrate storytelling, foster collaboration, and highlight Portland's vibrant indie film community.",
+      "ticket_url": "https://ticketing.uswest.veezi.com/purchase/101016?siteToken=wh74yr6fq3am4qbkh72fhcyr4g",
+      "title": "Portland Indie Film & Networking Event",
+      "venue": {
+        "address": "5736 N.E. 33rd Ave.",
+        "city": "Portland",
+        "latitude": 45.5645027161,
+        "longitude": -122.6296386719,
+        "name": "Kennedy School Theater"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-09-10T19:00:00-07:00",
@@ -114132,6 +114163,37 @@
         "latitude": 45.50474058972204,
         "longitude": -122.6275816386394,
         "name": "PAM CUT's Tomorrow Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-13T17:30:00-07:00",
+      "id": "willamette_week:19693374@2026-09-13T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UKdl8vgcCkmbaHySLCbx9w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://lutheranchoral.org",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-13T16:00:00-07:00",
+      "summary": "The Lutheran Choral Association will begin its 2026 concert season beginning September 13th. With an 80\\+ year history, this 60-voice choir continues its long tradition of singing praises to God with members from churches of various denominations. Directed by Sue Thompson Armentrout, with pianist Karl Jurisons, this year's program includes old and new sacred music celebrating our nation's musical heritage, in honor of America's 250th anniversary. All concerts are free of charge. A free-will offering will be received.",
+      "title": "Lutheran Choral Association Fall Concert Series",
+      "venue": {
+        "address": "8740 SW Sagert St",
+        "city": "Tualatin",
+        "latitude": 45.374793,
+        "longitude": -122.766701,
+        "name": "Living Savior Lutheran Church"
       }
     },
     {
@@ -173878,5 +173940,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-21T10:46:08+00:00"
+  "generated_at": "2026-08-21T10:51:57+00:00"
 }
