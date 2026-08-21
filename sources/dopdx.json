@@ -17677,6 +17677,35 @@
         "music"
       ],
       "end_at": "2026-09-05T02:00:00-07:00",
+      "id": "dopdx:17751448",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787262475/event-17751448.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/4/family-worship-center-les-gold-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-04T20:00:00-07:00",
+      "summary": "Les Gold: Les Gold is a 5-piece outfit based in Portland, OR known for mixing homegrown, Northwest indie rock with elements of dream pop, desert rock, surf, folk, and other influences to create a unique sound that’s been playfully dubbed ‘bummer fun’. Since releasing their first EP in 2018, the band have grown into regional favorites in the Pacific Northwest – amassing millions of streams while playing for big room audiences and supporting globally recognized acts like Franz Ferdinand, Young the Giant, and more. In 2026, the band prepares for a college tour across the west coast, the release of their debut album, and multiple festival appearances. Playful, upbeat, somber, introspective, and undeniably catchy – Les Gold’s unique sounds are a",
+      "title": "Family Worship Center / Les Gold",
+      "venue": {
+        "address": "3939 North Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.55144019999999,
+        "longitude": -122.675836,
+        "name": "Mississippi Studios"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-05T02:00:00-07:00",
       "id": "dopdx:16994069",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1771973004/event-16994069.jpg",
       "is_all_day": false,
@@ -17702,35 +17731,6 @@
         "latitude": 45.511828,
         "longitude": -122.6229056,
         "name": "Hawthorne Theatre"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-09-05T02:00:00-07:00",
-      "id": "dopdx:17751448",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787262475/event-17751448.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/4/family-worship-center-les-gold-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-04T20:00:00-07:00",
-      "summary": "Les Gold: Les Gold is a 5-piece outfit based in Portland, OR known for mixing homegrown, Northwest indie rock with elements of dream pop, desert rock, surf, folk, and other influences to create a unique sound that’s been playfully dubbed ‘bummer fun’. Since releasing their first EP in 2018, the band have grown into regional favorites in the Pacific Northwest – amassing millions of streams while playing for big room audiences and supporting globally recognized acts like Franz Ferdinand, Young the Giant, and more. In 2026, the band prepares for a college tour across the west coast, the release of their debut album, and multiple festival appearances. Playful, upbeat, somber, introspective, and undeniably catchy – Les Gold’s unique sounds are a",
-      "title": "Family Worship Center / Les Gold",
-      "venue": {
-        "address": "3939 North Mississippi Ave",
-        "city": "Portland",
-        "latitude": 45.55144019999999,
-        "longitude": -122.675836,
-        "name": "Mississippi Studios"
       }
     },
     {
@@ -34189,7 +34189,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-21T05:07:29+00:00",
+  "generated_at": "2026-08-21T06:01:10+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
