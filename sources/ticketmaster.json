@@ -16284,9 +16284,9 @@
       "listing_url": "https://www.ticketweb.com/event/suzy-sheer-with-patch-star-theater-tickets/15041103",
       "price": {
         "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
+        "is_free": false,
+        "max": 32.42,
+        "min": 27.27
       },
       "source": {
         "id": "ticketmaster",
@@ -24136,7 +24136,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-21T14:52:03+00:00",
+  "generated_at": "2026-08-21T15:47:07+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
