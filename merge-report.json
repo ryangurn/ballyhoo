@@ -329,6 +329,30 @@
       "venue": "Patricia Reser Center for the Arts"
     },
     {
+      "dropped": "willamette_week:19697519@2026-08-22T14:00",
+      "kept": "dopdx:17425837",
+      "start_at": "2026-08-22T13:30:00-07:00",
+      "title_dropped": "BIPOC Level 3 Improv Introducing Premise Play & Game of the Scene SAT w/ Naomi Dixon (S5 26)",
+      "title_kept": "Sketch Coven Meetup for Writers and Actors",
+      "venue": "Kickstand Comedy"
+    },
+    {
+      "dropped": "willamette_week:19697518@2026-08-22T14:00",
+      "kept": "dopdx:17425837",
+      "start_at": "2026-08-22T13:30:00-07:00",
+      "title_dropped": "Advanced Study Improv: The Improvised Movie SAT w/ Paul Stein (S5 26)",
+      "title_kept": "Sketch Coven Meetup for Writers and Actors",
+      "venue": "Kickstand Comedy"
+    },
+    {
+      "dropped": "willamette_week:19697520@2026-08-22T14:00",
+      "kept": "dopdx:17425837",
+      "start_at": "2026-08-22T13:30:00-07:00",
+      "title_dropped": "Practice Practice SAT - A Practice Group For Advanced Improvisers (S5 26)",
+      "title_kept": "Sketch Coven Meetup for Writers and Actors",
+      "venue": "Kickstand Comedy"
+    },
+    {
       "dropped": "willamette_week:19578748@2026-08-22T17:00",
       "kept": "dopdx:17701762",
       "start_at": "2026-08-22T17:00:00-07:00",
@@ -567,6 +591,14 @@
       "title_dropped": "The Neon Room at Helium: Orion Levine",
       "title_kept": "Aries Spears",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19697719@2026-08-22T22:00",
+      "kept": "dopdx:17713122",
+      "start_at": "2026-08-22T22:00:00-07:00",
+      "title_dropped": "Center of Attention",
+      "title_kept": "Center of Attention",
+      "venue": "Funhouse Lounge"
     },
     {
       "dropped": "willamette_week:18120037@2026-08-22T22:00",
@@ -4785,9 +4817,9 @@
       "venue": "Roseland Theater"
     }
   ],
-  "event_count": 5843,
-  "floor_check": "5843 events against a 5845-event baseline",
-  "generated_at": "2026-08-21T13:58:08+00:00",
+  "event_count": 5848,
+  "floor_check": "5848 events against a 5845-event baseline",
+  "generated_at": "2026-08-21T14:01:57+00:00",
   "problems": [],
   "sources": [
     "calagator",
