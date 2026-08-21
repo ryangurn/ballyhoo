@@ -33,6 +33,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:19700083@2026-08-21T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4vk_K",
+      "start_at": "2026-08-21T21:00:00-07:00",
+      "title_dropped": "Mike Coykendall's Shambolic Trio",
+      "title_kept": "Mike Coykendall's Shambolic Trio",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:19651656@2026-08-26T18:30",
       "kept": "dopdx:17650446",
       "start_at": "2026-08-26T18:30:00-07:00",
@@ -873,6 +881,14 @@
       "venue": "Star Theater"
     },
     {
+      "dropped": "willamette_week:19700471@2026-08-24T19:00",
+      "kept": "dopdx:17729285",
+      "start_at": "2026-08-24T19:00:00-07:00",
+      "title_dropped": "Good Old Kyle's 75th Birthday Bash",
+      "title_kept": "Good Old Kyle's 75th Birthday Bash",
+      "venue": "Artichoke Music"
+    },
+    {
       "dropped": "willamette_week:19428235@2026-08-24T19:00",
       "kept": "ticketmaster:rZ7HnEZ1AfaFO7",
       "start_at": "2026-08-24T19:00:00-07:00",
@@ -1327,6 +1343,14 @@
       "title_dropped": "76TH STREET with Tornsey",
       "title_kept": "76TH STREET with Tornsey",
       "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:18557766@2026-08-28T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4vk_S",
+      "start_at": "2026-08-28T21:00:00-07:00",
+      "title_dropped": "Line Dancing Lessons with Kat",
+      "title_kept": "Line Dancing Lessons with Kat",
+      "venue": "Showdown Saloon"
     },
     {
       "dropped": "willamette_week:18548781@2026-08-28T21:45",
@@ -3697,6 +3721,14 @@
       "venue": "Barrel Room Portland"
     },
     {
+      "dropped": "willamette_week:19139301@2026-09-13T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfayG7",
+      "start_at": "2026-09-13T20:00:00-07:00",
+      "title_dropped": "Casual Eddie with Special Guest",
+      "title_kept": "Casual Eddie with Special Guest",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-09-13T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPw7K",
       "start_at": "2026-09-13T21:00:00-07:00",
@@ -4849,9 +4881,9 @@
       "venue": "Roseland Theater"
     }
   ],
-  "event_count": 5886,
-  "floor_check": "5886 events against a 5879-event baseline",
-  "generated_at": "2026-08-21T18:54:30+00:00",
+  "event_count": 5897,
+  "floor_check": "5897 events against a 5879-event baseline",
+  "generated_at": "2026-08-21T19:00:27+00:00",
   "problems": [],
   "sources": [
     "calagator",
