@@ -2,35 +2,6 @@
   "events": [
     {
       "categories": [
-        "film"
-      ],
-      "id": "portland_parks:2026-08-13-wilshire-park-how-to-train-your-dragon",
-      "is_all_day": false,
-      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
-      "organizer": "Portland Parks & Recreation",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "portland_parks",
-        "name": "Portland Parks & Recreation",
-        "url": "https://www.portland.gov/parks"
-      },
-      "start_at": "2026-08-13T19:30:00-07:00",
-      "summary": "How to Train Your Dragon (2025) PG - English with Spanish subtitles",
-      "title": "How to Train Your Dragon",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.55292,
-        "longitude": -122.62812,
-        "name": "Wilshire Park"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "id": "portland_parks:2026-08-14-rose-city-park-the-norman-sylvester-band",
@@ -463,7 +434,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-21T02:12:25+00:00",
+  "generated_at": "2026-08-21T03:34:45+00:00",
   "source_id": "portland_parks",
   "status": "ok"
 }
