@@ -1329,35 +1329,6 @@
     },
     {
       "categories": [
-        "tech"
-      ],
-      "end_at": "2026-08-21T11:30:00-07:00",
-      "id": "willamette_week:19259144@2026-08-21T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Qwff0uaisEOLr1OvjxbH2Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/forest-flow-jessa-campbell-and-saplings",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-21T10:30:00-07:00",
-      "summary": "Come get your forest vibe dance groove on! Jessa Campbell writes and performs upbeat, danceable, STEM- and ecology-based songs. This show is fun for the whole family, but especially enjoyed by kiddos 2 - 10.",
-      "title": "Forest Flow: Jessa Campbell and the Saplings",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
         "literary"
       ],
       "end_at": "2026-08-21T11:00:00-07:00",
@@ -1411,6 +1382,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-08-21T11:30:00-07:00",
+      "id": "willamette_week:19259144@2026-08-21T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Qwff0uaisEOLr1OvjxbH2Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/forest-flow-jessa-campbell-and-saplings",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-21T10:30:00-07:00",
+      "summary": "Come get your forest vibe dance groove on! Jessa Campbell writes and performs upbeat, danceable, STEM- and ecology-based songs. This show is fun for the whole family, but especially enjoyed by kiddos 2 - 10.",
+      "title": "Forest Flow: Jessa Campbell and the Saplings",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -8200,6 +8200,34 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "id": "willamette_week:19700067@2026-08-22T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3bZFcXDkx0C35mMqFvSp2Q.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.willamettewines.com/event/10th-annual-lobster-boil-party/31352/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T00:00:00-07:00",
+      "summary": "We’re thrilled to welcome you to one of our most beloved events—the 2026 Lobster Boil on August 22rd from 6:00–8:00 PM. Ten years. One legendary...",
+      "title": "10th Annual Lobster Boil Party",
+      "venue": {
+        "address": "17096 NE Woodland Loop Road",
+        "city": "Yamhill",
+        "latitude": 45.33947,
+        "longitude": -123.127,
+        "name": "Soléna Estate"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "willamette_week:19694730@2026-08-22T00:00",
@@ -10332,6 +10360,34 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-08-22T12:00:00-07:00",
+      "id": "willamette_week:19049796@2026-08-22T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qxJakTPfa0m3uum0s89NsA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.traveldundeeoregon.com/events/2026/8/22/screening-of-sideways-at-evergreen-theater",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T11:00:00-07:00",
+      "summary": "Come to this one of a kind experience with your friends in Oregon wine country! Domaine Drouhin is putting on a screening of the notorious film Sideways at the Evergreen Theater. Time TBA",
+      "title": "Screening of Sideways at Evergreen Theater",
+      "venue": {
+        "city": "Dundee",
+        "latitude": 45.27817,
+        "longitude": -123.01094,
+        "name": "Dundee"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19698344@2026-08-22T11:00",
@@ -10445,34 +10501,6 @@
         "latitude": 45.5370750427,
         "longitude": -122.6202392578,
         "name": "Kickstand Comedy"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-08-22T12:00:00-07:00",
-      "id": "willamette_week:19049796@2026-08-22T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qxJakTPfa0m3uum0s89NsA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.traveldundeeoregon.com/events/2026/8/22/screening-of-sideways-at-evergreen-theater",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-22T11:00:00-07:00",
-      "summary": "Come to this one of a kind experience with your friends in Oregon wine country! Domaine Drouhin is putting on a screening of the notorious film Sideways at the Evergreen Theater. Time TBA",
-      "title": "Screening of Sideways at Evergreen Theater",
-      "venue": {
-        "city": "Dundee",
-        "latitude": 45.27817,
-        "longitude": -123.01094,
-        "name": "Dundee"
       }
     },
     {
@@ -11345,35 +11373,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "willamette_week:19698347@2026-08-22T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M-QVOZFAzkiUwJNgLm7hAA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/108753997?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-22T13:00:00-07:00",
-      "summary": "The second annual gospel hip-hop festival Elation Hip Hop will be Saturday, August 22nd 1:00 – 5:00 pm at Foster Theater in Portland, Oregon! Elation is the biggest gathering of local Portland Christian Hip-Hop artists and poets.",
-      "ticket_url": "https://www.bandsintown.com/t/108753997?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
-      "title": "Elation Hip Hop 2026",
-      "venue": {
-        "address": "5444 SE Foster Rd",
-        "city": "Portland",
-        "latitude": 45.494136,
-        "longitude": -122.606429,
-        "name": "Foster Theater"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-08-22T14:30:00-07:00",
@@ -11399,6 +11398,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19698347@2026-08-22T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M-QVOZFAzkiUwJNgLm7hAA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108753997?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T13:00:00-07:00",
+      "summary": "The second annual gospel hip-hop festival Elation Hip Hop will be Saturday, August 22nd 1:00 – 5:00 pm at Foster Theater in Portland, Oregon! Elation is the biggest gathering of local Portland Christian Hip-Hop artists and poets.",
+      "ticket_url": "https://www.bandsintown.com/t/108753997?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "Elation Hip Hop 2026",
+      "venue": {
+        "address": "5444 SE Foster Rd",
+        "city": "Portland",
+        "latitude": 45.494136,
+        "longitude": -122.606429,
+        "name": "Foster Theater"
       }
     },
     {
@@ -12696,6 +12724,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19042142@2026-08-22T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8e96acd0-2370-46e4-a8d3-ff93a4f1ae7f.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1708695456923176/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T16:00:00-07:00",
+      "summary": "Joel Astley has established himself as a world-class bandleader, harmonica player, singer, songwriter, and entertainer and has collected 23 Washington Blues Society's \"Best of the Blues\" Awards in just seven years. Come experience this NW bluesman live! https://joelastley.com/ Saturday, Aug. 22 - The Headliners Club All Ages | 4pm Music \\(3pm doors\\) | Tickets on sale now aftontickets.com/theheadlinersclub Reserved seats available www.j-fell.com",
+      "ticket_url": "https://aftontickets.com/event/buyticket/27x0gmzo9d",
+      "title": "Joel Astley - 4pm All Ages",
+      "venue": {
+        "address": "17880 SW McEwan Rd",
+        "city": "Lake Oswego",
+        "latitude": 45.395589,
+        "longitude": -122.742865,
+        "name": "The Headliner's Club"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "willamette_week:19687186@2026-08-22T16:00",
@@ -12751,35 +12808,6 @@
         "latitude": 45.521128,
         "longitude": -123.111688,
         "name": "Slow Rise Bakehouse"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:19042142@2026-08-22T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8e96acd0-2370-46e4-a8d3-ff93a4f1ae7f.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1708695456923176/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-22T16:00:00-07:00",
-      "summary": "Joel Astley has established himself as a world-class bandleader, harmonica player, singer, songwriter, and entertainer and has collected 23 Washington Blues Society's \"Best of the Blues\" Awards in just seven years. Come experience this NW bluesman live! https://joelastley.com/ Saturday, Aug. 22 - The Headliners Club All Ages | 4pm Music \\(3pm doors\\) | Tickets on sale now aftontickets.com/theheadlinersclub Reserved seats available www.j-fell.com",
-      "ticket_url": "https://aftontickets.com/event/buyticket/27x0gmzo9d",
-      "title": "Joel Astley - 4pm All Ages",
-      "venue": {
-        "address": "17880 SW McEwan Rd",
-        "city": "Lake Oswego",
-        "latitude": 45.395589,
-        "longitude": -122.742865,
-        "name": "The Headliner's Club"
       }
     },
     {
@@ -63857,6 +63885,10 @@
       "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketweb.com/event/two-step-tuesday-with-countryside-showdown-saloon-tickets/14279244",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -68800,35 +68832,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "end_at": "2026-09-03T14:00:00-07:00",
-      "id": "willamette_week:18548793@2026-09-03T12:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e-EpdjmaIk250WCVwe-5jA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://lansugarden.org/event/calligraphy-demo-2/2026-09-03/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-03T12:00:00-07:00",
-      "summary": "Enjoy expert demonstrations and gain insights into the beauty and history of calligraphy. 12 – 2 PM | Tuesdays & Thursdays, April 28 – September 29, 2026 Experience the harmony of calligraphy and other art forms. Enjoy expert demonstrations and insights into the beauty and history of calligraphy. Drop in anytime during the Calligraphy Demo. Get Admission Parking & Directions Free Lan Su Parking There is free first come, first served parking in our sister lot next to the garden at 424 NW Third Avenue. Additional metered parking and garages are available on surrounding streets.",
-      "title": "Calligraphy Demo",
-      "venue": {
-        "address": "239 NW Everett St",
-        "city": "Portland",
-        "latitude": 45.5256321,
-        "longitude": -122.6751842,
-        "name": "Lan Su Chinese Garden"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-09-03T13:00:00-07:00",
@@ -68854,6 +68857,35 @@
         "latitude": 45.518322,
         "longitude": -122.677284,
         "name": "Pioneer Place Main Entrance"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-09-03T14:00:00-07:00",
+      "id": "willamette_week:18548793@2026-09-03T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e-EpdjmaIk250WCVwe-5jA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://lansugarden.org/event/calligraphy-demo-2/2026-09-03/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-03T12:00:00-07:00",
+      "summary": "Enjoy expert demonstrations and gain insights into the beauty and history of calligraphy. 12 – 2 PM | Tuesdays & Thursdays, April 28 – September 29, 2026 Experience the harmony of calligraphy and other art forms. Enjoy expert demonstrations and insights into the beauty and history of calligraphy. Drop in anytime during the Calligraphy Demo. Get Admission Parking & Directions Free Lan Su Parking There is free first come, first served parking in our sister lot next to the garden at 424 NW Third Avenue. Additional metered parking and garages are available on surrounding streets.",
+      "title": "Calligraphy Demo",
+      "venue": {
+        "address": "239 NW Everett St",
+        "city": "Portland",
+        "latitude": 45.5256321,
+        "longitude": -122.6751842,
+        "name": "Lan Su Chinese Garden"
       }
     },
     {
@@ -85378,34 +85410,6 @@
     },
     {
       "categories": [
-        "film"
-      ],
-      "id": "willamette_week:19331106@2026-09-06T15:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rznb8an5_UarW-P-yGITUQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://tomorrowtheater.org/movies/shermans-march-4k-restoration/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-06T15:00:00-07:00",
-      "summary": "Run Time: 158 min. TICKETS $15 Doors 2:30 p.m.; Event 3 p.m. Select Showtime to Purchase Tickets Click here to learn more about accessibility at the Tomorrow Theater. THE EXPERIENCE Join us for a 40th anniversary screening of Sherman's March, newly restored in 4K. \"Completely eye-opening for me, and for so many of us who make stories for a living.\" - Ira Glass \"One of the best documentaries and one of the best comedies ever made.\" - Patton Oswalt ON SCREEN: Sherman's March 1985. Directed by Ross McElwee. Runtime: 2 hours 38 minutes. Armed with a 16mm camera and a grant to make a documentary about the lingering aftermath of William Tecumseh Sherman's 1864 march to the sea, Ross McElwee gets sidetracked. After his girlfriend breaks up with him, Ross shifts his attention from the historical to the personal, to the battlefield of modern love, and embarks on a sociological chronicle that documents the courting rites and rituals of the New South. A generous and humanistic portrait of several remarkable women that Ross meets along the way, Sherman's March sketches its characters with novelistic sensitivity: Pat, an aspiring actress with a yen for Burt Reynolds; Claudia, a roller-skating interior designer; Jackie, the activist whose anti-nuclear advocacy dovetails with Ross's deepest fears; and above all, Charleen Swansea, Ross's mentor and a one-woman Greek chorus of unsolicited romantic counsel. A landmark of first-person filmmaking that presaged everything from Michael Moore to reality TV, Sherman's March is now available in a new 4K restoration. UNORTHODOX DO",
-      "title": "Sherman's March (4K Restoration)",
-      "venue": {
-        "address": "3530 SE Division St",
-        "city": "Portland",
-        "latitude": 45.50474058972204,
-        "longitude": -122.6275816386394,
-        "name": "PAM CUT's Tomorrow Theater"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-09-06T16:00:00-07:00",
@@ -85431,6 +85435,34 @@
         "latitude": 45.5256321,
         "longitude": -122.6751842,
         "name": "Lan Su Chinese Garden"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "willamette_week:19331106@2026-09-06T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rznb8an5_UarW-P-yGITUQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://tomorrowtheater.org/movies/shermans-march-4k-restoration/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-06T15:00:00-07:00",
+      "summary": "Run Time: 158 min. TICKETS $15 Doors 2:30 p.m.; Event 3 p.m. Select Showtime to Purchase Tickets Click here to learn more about accessibility at the Tomorrow Theater. THE EXPERIENCE Join us for a 40th anniversary screening of Sherman's March, newly restored in 4K. \"Completely eye-opening for me, and for so many of us who make stories for a living.\" - Ira Glass \"One of the best documentaries and one of the best comedies ever made.\" - Patton Oswalt ON SCREEN: Sherman's March 1985. Directed by Ross McElwee. Runtime: 2 hours 38 minutes. Armed with a 16mm camera and a grant to make a documentary about the lingering aftermath of William Tecumseh Sherman's 1864 march to the sea, Ross McElwee gets sidetracked. After his girlfriend breaks up with him, Ross shifts his attention from the historical to the personal, to the battlefield of modern love, and embarks on a sociological chronicle that documents the courting rites and rituals of the New South. A generous and humanistic portrait of several remarkable women that Ross meets along the way, Sherman's March sketches its characters with novelistic sensitivity: Pat, an aspiring actress with a yen for Burt Reynolds; Claudia, a roller-skating interior designer; Jackie, the activist whose anti-nuclear advocacy dovetails with Ross's deepest fears; and above all, Charleen Swansea, Ross's mentor and a one-woman Greek chorus of unsolicited romantic counsel. A landmark of first-person filmmaking that presaged everything from Michael Moore to reality TV, Sherman's March is now available in a new 4K restoration. UNORTHODOX DO",
+      "title": "Sherman's March (4K Restoration)",
+      "venue": {
+        "address": "3530 SE Division St",
+        "city": "Portland",
+        "latitude": 45.50474058972204,
+        "longitude": -122.6275816386394,
+        "name": "PAM CUT's Tomorrow Theater"
       }
     },
     {
@@ -88566,6 +88598,10 @@
       "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketweb.com/event/square-dancing-with-starshine-and-showdown-saloon-tickets/14279334",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -96646,35 +96682,6 @@
         "family"
       ],
       "end_at": "2026-09-10T12:00:00-07:00",
-      "id": "willamette_week:18616651@2026-09-10T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SdanofgJgEGTE-2cb1jk-A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/book-babies-928",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-10T11:15:00-07:00",
-      "summary": "Babies from birth to 12 months \\(with a favorite adult\\) enjoy songs, action rhymes, and playtime, with bonus socialization for babies and the adults. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Book Babies",
-      "venue": {
-        "address": "7921 NE Sandy Boulevard",
-        "city": "Portland",
-        "latitude": 45.551652047946824,
-        "longitude": -122.58136760245881,
-        "name": "Gregory Heights Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-09-10T12:00:00-07:00",
       "id": "willamette_week:18977010@2026-09-10T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pePzBwccQUKEy-1YZ2bhwQ.large.png",
       "is_all_day": false,
@@ -104552,35 +104559,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "willamette_week:19695503@2026-09-11T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GBHD-IktJEmFsw4bT2krQA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1583600339832601/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-11T20:00:00-07:00",
-      "summary": "7pm doors, 7:30pm DJ, 8pm show 21 and over",
-      "ticket_url": "https://www.etix.com/ticket/p/72632329/noche-de-rock-en-espa%C3%B1ol-contrabando-con-tecolote-portland-mcmenamins-mission-theater",
-      "title": "Noche de Rock en Español @ Mission Theater con Tecolote con Contrabando",
-      "venue": {
-        "address": "1624 NW Glisan St",
-        "city": "Portland",
-        "latitude": 45.5261955261,
-        "longitude": -122.6881103516,
-        "name": "McMenamins Mission Theater"
-      }
-    },
-    {
-      "categories": [
         "nightlife"
       ],
       "end_at": "2026-09-11T22:00:00-07:00",
@@ -104606,6 +104584,35 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19695503@2026-09-11T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GBHD-IktJEmFsw4bT2krQA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1583600339832601/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-11T20:00:00-07:00",
+      "summary": "7pm doors, 7:30pm DJ, 8pm show 21 and over",
+      "ticket_url": "https://www.etix.com/ticket/p/72632329/noche-de-rock-en-espa%C3%B1ol-contrabando-con-tecolote-portland-mcmenamins-mission-theater",
+      "title": "Noche de Rock en Español @ Mission Theater con Tecolote con Contrabando",
+      "venue": {
+        "address": "1624 NW Glisan St",
+        "city": "Portland",
+        "latitude": 45.5261955261,
+        "longitude": -122.6881103516,
+        "name": "McMenamins Mission Theater"
       }
     },
     {
@@ -109090,34 +109097,6 @@
     },
     {
       "categories": [
-        "film"
-      ],
-      "id": "willamette_week:19174636@2026-09-12T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UGdNTjfa5EqP2itkGPN9vw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://tomorrowtheater.org/movies/lady-terminator-x-brain-dead/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-12T16:00:00-07:00",
-      "summary": "Run Time: 81 min. TICKETS $15 Doors 3 p.m.; Event 4 p.m. Select Showtime to Purchase Tickets Click here to learn more about accessibility at the Tomorrow Theater. THE EXPERIENCE Join Brain Dead -L.A.'s boundary-pushing creative collective-for a one-day-only special screening of the ledgendary Indonesian cult movie Lady Terminator. Brain Dead will be vending classic Brain Dead gear for this screening. Merch sales begin at 3 p.m. in the theater. Items sell quickly. ON SCREEN: Lady Terminator 1988. Directed by Tjut Djalil. Runtime: 1hr 22min. Rated R. The spirit of an ancient evil queen possesses the body of a young anthropological student, who then goes on a murderous rampage. PRESENTED BY: Brain Dead Brain Dead is a catalyst for creative minds from around the world. With its unique, disruptive approach, the brand interprets the cultural landscape through clothes, objects, and artworks. A meeting place for a network of contemporary subcultures, Brain Dead bridges different worlds, scenes, and perspectives under the same roof. Brain Dead is ultimately about people, their cultures, and their attitudes. BIZARRE BA",
-      "title": "Lady Terminator x Brain Dead",
-      "venue": {
-        "address": "3530 SE Division St",
-        "city": "Portland",
-        "latitude": 45.50474058972204,
-        "longitude": -122.6275816386394,
-        "name": "PAM CUT's Tomorrow Theater"
-      }
-    },
-    {
-      "categories": [
         "sports"
       ],
       "id": "willamette_week:19689144@2026-09-12T16:00",
@@ -109142,6 +109121,34 @@
         "latitude": 45.613271,
         "longitude": -123.117466,
         "name": "Sunset Speedway"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "willamette_week:19174636@2026-09-12T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UGdNTjfa5EqP2itkGPN9vw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://tomorrowtheater.org/movies/lady-terminator-x-brain-dead/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-12T16:00:00-07:00",
+      "summary": "Run Time: 81 min. TICKETS $15 Doors 3 p.m.; Event 4 p.m. Select Showtime to Purchase Tickets Click here to learn more about accessibility at the Tomorrow Theater. THE EXPERIENCE Join Brain Dead -L.A.'s boundary-pushing creative collective-for a one-day-only special screening of the ledgendary Indonesian cult movie Lady Terminator. Brain Dead will be vending classic Brain Dead gear for this screening. Merch sales begin at 3 p.m. in the theater. Items sell quickly. ON SCREEN: Lady Terminator 1988. Directed by Tjut Djalil. Runtime: 1hr 22min. Rated R. The spirit of an ancient evil queen possesses the body of a young anthropological student, who then goes on a murderous rampage. PRESENTED BY: Brain Dead Brain Dead is a catalyst for creative minds from around the world. With its unique, disruptive approach, the brand interprets the cultural landscape through clothes, objects, and artworks. A meeting place for a network of contemporary subcultures, Brain Dead bridges different worlds, scenes, and perspectives under the same roof. Brain Dead is ultimately about people, their cultures, and their attitudes. BIZARRE BA",
+      "title": "Lady Terminator x Brain Dead",
+      "venue": {
+        "address": "3530 SE Division St",
+        "city": "Portland",
+        "latitude": 45.50474058972204,
+        "longitude": -122.6275816386394,
+        "name": "PAM CUT's Tomorrow Theater"
       }
     },
     {
@@ -110287,35 +110294,6 @@
       "categories": [
         "music"
       ],
-      "id": "willamette_week:19259140@2026-09-12T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/l8i7LNmU5UKBaU4zdOZxPg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1582626046845925/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-12T19:00:00-07:00",
-      "summary": "6:30pm doors, 7-11pm show All ages welcome Line 'em Up - Queer Line Dancing Join Stomptown, Portland's LGBTQ\\+ Country Western dance hub, for an exhilarating night of non-stop line dancing. Multiple lessons throughout the night! All dance levels are welcome. Website: https://www.stomptown.org",
-      "ticket_url": "https://www.etix.com/ticket/e/1060342/apes-of-the-state-portland-mcmenamins-mission-theater",
-      "title": "Line 'em Up - Queer Line Dancing",
-      "venue": {
-        "address": "1332 W Burnside St",
-        "city": "Portland",
-        "latitude": 45.522891283,
-        "longitude": -122.6847714186,
-        "name": "Crystal Ballroom"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "end_at": "2026-09-12T21:00:00-07:00",
       "id": "willamette_week:18641475@2026-09-12T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4kBjWasue0uRObVB6UIK5A.large.png",
@@ -110339,6 +110317,35 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19259140@2026-09-12T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/l8i7LNmU5UKBaU4zdOZxPg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1582626046845925/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-12T19:00:00-07:00",
+      "summary": "6:30pm doors, 7-11pm show All ages welcome Line 'em Up - Queer Line Dancing Join Stomptown, Portland's LGBTQ\\+ Country Western dance hub, for an exhilarating night of non-stop line dancing. Multiple lessons throughout the night! All dance levels are welcome. Website: https://www.stomptown.org",
+      "ticket_url": "https://www.etix.com/ticket/e/1060342/apes-of-the-state-portland-mcmenamins-mission-theater",
+      "title": "Line 'em Up - Queer Line Dancing",
+      "venue": {
+        "address": "1332 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.522891283,
+        "longitude": -122.6847714186,
+        "name": "Crystal Ballroom"
       }
     },
     {
@@ -114733,34 +114740,6 @@
         "sports"
       ],
       "end_at": "2026-09-13T16:45:00-07:00",
-      "id": "willamette_week:19019985@2026-09-13T14:45",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.large.png",
-      "is_all_day": false,
-      "listing_url": "https://athletics.georgefox.edu/calendar.aspx?game_id=22618&amp;sport_id=16",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-13T14:45:00-07:00",
-      "summary": "George Fox University Women's Soccer vs Lewis & Clark",
-      "title": "George Fox University Women's Soccer vs Lewis & Clark",
-      "venue": {
-        "city": "Newberg",
-        "latitude": 45.30012,
-        "longitude": -122.97316,
-        "name": "Austin Sports Complex"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-09-13T16:45:00-07:00",
       "id": "willamette_week:18918807@2026-09-13T14:45",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.large.png",
       "is_all_day": false,
@@ -114782,6 +114761,34 @@
         "latitude": 45.51984,
         "longitude": -123.11066,
         "name": "Hanson Stadium"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-09-13T16:45:00-07:00",
+      "id": "willamette_week:19019985@2026-09-13T14:45",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.large.png",
+      "is_all_day": false,
+      "listing_url": "https://athletics.georgefox.edu/calendar.aspx?game_id=22618&amp;sport_id=16",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-13T14:45:00-07:00",
+      "summary": "George Fox University Women's Soccer vs Lewis & Clark",
+      "title": "George Fox University Women's Soccer vs Lewis & Clark",
+      "venue": {
+        "city": "Newberg",
+        "latitude": 45.30012,
+        "longitude": -122.97316,
+        "name": "Austin Sports Complex"
       }
     },
     {
@@ -125820,35 +125827,6 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-09-17T12:00:00-07:00",
-      "id": "willamette_week:18616651@2026-09-17T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SdanofgJgEGTE-2cb1jk-A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/book-babies-929",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-17T11:15:00-07:00",
-      "summary": "Babies from birth to 12 months \\(with a favorite adult\\) enjoy songs, action rhymes, and playtime, with bonus socialization for babies and the adults. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Book Babies",
-      "venue": {
-        "address": "7921 NE Sandy Boulevard",
-        "city": "Portland",
-        "latitude": 45.551652047946824,
-        "longitude": -122.58136760245881,
-        "name": "Gregory Heights Library"
       }
     },
     {
@@ -140373,6 +140351,34 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:19593998@2026-09-19T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0jJR9XnNvkuBDz3bjoPliQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1502551078309811/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-19T20:00:00-07:00",
+      "summary": "Shoot To Thrill - AC/DC tribute is Portland’s “balls-to-the-wall” tribute to the Australian legends, bringing the anthemic riffs, shouts, and antics to the stage with pure passion. Hail hail to the good times, ‘cause rock has got the right of way when Shoot To Thrill grabs you by the short & curlies. www.j-fell.com/shoottothrill/ Budokan - Cheap Trick tribute brings the fun & excitement that was the very essence of CT’s early concerts. Focusing on the studio and live albums of the late 70's, Budokan promises a spectacular, engaging performance. Saturday, Sept. 19 at Billy Blues Bar & Grill 21 & Over | Music at 9pm | $15 at the door No advance ticket sales https://billybluesbarandgrill.com",
+      "title": "Shoot To Thrill [AC/DC tribute] • Budokan [Cheap Trick",
+      "venue": {
+        "address": "7115 NE Hazel Dell Ave",
+        "city": "Vancouver",
+        "latitude": 45.674286,
+        "longitude": -122.668017,
+        "name": "Billy Blues Bar and Grill"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:18846832@2026-09-19T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f1b2ba5e-a879-4e12-a23e-a30267ddd15e.large.png",
       "is_all_day": false,
@@ -140402,10 +140408,10 @@
       "categories": [
         "music"
       ],
-      "id": "willamette_week:19593998@2026-09-19T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0jJR9XnNvkuBDz3bjoPliQ.large.png",
+      "id": "willamette_week:19700081@2026-09-19T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eh5R78p0jkyibKMUHKIBKA.large.png",
       "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1502551078309811/",
+      "listing_url": "https://www.facebook.com/events/1584968459732549/",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -140416,14 +140422,14 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-09-19T20:00:00-07:00",
-      "summary": "Shoot To Thrill - AC/DC tribute is Portland’s “balls-to-the-wall” tribute to the Australian legends, bringing the anthemic riffs, shouts, and antics to the stage with pure passion. Hail hail to the good times, ‘cause rock has got the right of way when Shoot To Thrill grabs you by the short & curlies. www.j-fell.com/shoottothrill/ Budokan - Cheap Trick tribute brings the fun & excitement that was the very essence of CT’s early concerts. Focusing on the studio and live albums of the late 70's, Budokan promises a spectacular, engaging performance. Saturday, Sept. 19 at Billy Blues Bar & Grill 21 & Over | Music at 9pm | $15 at the door No advance ticket sales https://billybluesbarandgrill.com",
-      "title": "Shoot To Thrill [AC/DC tribute] • Budokan [Cheap Trick",
+      "summary": "The Blues Alliance is always jazzed to play the Blue Diamond. It's one of those places where the audience digs the blues and everybody dances. And the food is as excellent as the music!",
+      "title": "Pat Stilwell and the Blues Alliance",
       "venue": {
-        "address": "7115 NE Hazel Dell Ave",
-        "city": "Vancouver",
-        "latitude": 45.674286,
-        "longitude": -122.668017,
-        "name": "Billy Blues Bar and Grill"
+        "address": "2016 NE Sandy Blvd",
+        "city": "Portland",
+        "latitude": 45.5259986222,
+        "longitude": -122.6451464742,
+        "name": "The Blue Diamond PDX"
       }
     },
     {
@@ -142286,6 +142292,37 @@
         "latitude": 45.3055847,
         "longitude": -122.9558587,
         "name": "Chehalem Valley Brewery"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "id": "willamette_week:19700004@2026-09-20T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3hE-Sw3O3U2NDIO6RMQsxw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://portland.heliumcomedy.com/shows/384009",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 175.0,
+        "min": 28.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-20T12:00:00-07:00",
+      "summary": "History has its eyes on this one! Join the incredible, Kharisma for a Hamilton-inspired Drag Brunch filled with Broadway flair, dazzling performances, and revolutionary fun—it's the perfect way to spend your weekend. Couple's Package includes: \\- 2 premium seats - $90 food & beverage credit ($45 per person) - Gratuity - Ticket Protection Management reserves the right to prevent customers from entering the facility who they deem disruptive or dangerous to other patrons.",
+      "ticket_url": "https://portland.heliumcomedy.com/shows/384009",
+      "title": "Special Event: Hamilton Sing-Along Drag Brunch",
+      "venue": {
+        "address": "1510 SE 9th Ave",
+        "city": "Portland",
+        "latitude": 45.5120477825,
+        "longitude": -122.6566256583,
+        "name": "Helium Comedy Club"
       }
     },
     {
@@ -174918,5 +174955,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-21T17:43:34+00:00"
+  "generated_at": "2026-08-21T17:49:54+00:00"
 }

@@ -1857,6 +1857,14 @@
       "venue": "Alberta Street Pub"
     },
     {
+      "dropped": "willamette_week:19700084@2026-09-01T19:30",
+      "kept": "ticketmaster:rZ7HnEZ1Afaya7",
+      "start_at": "2026-09-01T19:30:00-07:00",
+      "title_dropped": "Two-Step Tuesday with Countryside Ride and Dance Lessons with Robbie",
+      "title_kept": "Two-Step Tuesday with Countryside Ride and Dance Lessons with Robbie",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:19538826@2026-09-01T20:00",
       "kept": "dopdx:17614021",
       "start_at": "2026-09-01T20:00:00-07:00",
@@ -2783,6 +2791,14 @@
       "title_dropped": "Brandon Flowers",
       "title_kept": "Brandon Flowers",
       "venue": "Roseland Theater"
+    },
+    {
+      "dropped": "willamette_week:19700085@2026-09-07T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfayGV",
+      "start_at": "2026-09-07T19:00:00-07:00",
+      "title_dropped": "Square Dancing with Starshine and Caller Bex Bee",
+      "title_kept": "Square Dancing with Starshine and Caller Bex Bee",
+      "venue": "Showdown Saloon"
     },
     {
       "dropped": "willamette_week:19510053@2026-09-07T19:30",
@@ -4833,9 +4849,9 @@
       "venue": "Roseland Theater"
     }
   ],
-  "event_count": 5879,
-  "floor_check": "5879 events against a 5877-event baseline",
-  "generated_at": "2026-08-21T17:43:34+00:00",
+  "event_count": 5880,
+  "floor_check": "5880 events against a 5877-event baseline",
+  "generated_at": "2026-08-21T17:49:54+00:00",
   "problems": [],
   "sources": [
     "calagator",
