@@ -1,46 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "dopdx:17600841",
-      "kept": "ticketmaster:rZ7HnEZ1Af-xaN",
-      "start_at": "2026-08-20T19:00:00-07:00",
-      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:19013731@2026-08-20T19:00",
-      "kept": "dopdx:17600841",
-      "start_at": "2026-08-20T19:00:00-07:00",
-      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:19691369@2026-08-20T19:00",
-      "kept": "dopdx:17686783",
-      "start_at": "2026-08-20T19:00:00-07:00",
-      "title_dropped": "Aslin + Austin Sweeney live at Artichoke",
-      "title_kept": "Austin B. Sweeney with Aslin",
-      "venue": "Artichoke Music"
-    },
-    {
-      "dropped": "willamette_week:19012546@2026-08-20T19:30",
-      "kept": "dopdx:17358747",
-      "start_at": "2026-08-20T19:30:00-07:00",
-      "title_dropped": "Special Event: Aries Spears",
-      "title_kept": "Aries Spears",
-      "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:19638116@2026-08-20T19:30",
-      "kept": "dopdx:17666777",
-      "start_at": "2026-08-20T19:30:00-07:00",
-      "title_dropped": "Kate Murphy works on an hour(ish)",
-      "title_kept": "Kate Murphy works on an hour(ish)",
-      "venue": "Siren Theater"
-    },
-    {
       "dropped": "willamette_week:19069306@2026-08-21T21:00",
       "kept": "dopdx:17380377",
       "start_at": "2026-08-21T21:00:00-07:00",
@@ -175,6 +135,46 @@
       "title_dropped": "Allen Stone & The Dip at Topaz Farm",
       "title_kept": "Allen Stone & The Dip",
       "venue": "Topaz Farm"
+    },
+    {
+      "dropped": "dopdx:17600841",
+      "kept": "ticketmaster:rZ7HnEZ1Af-xaN",
+      "start_at": "2026-08-20T19:00:00-07:00",
+      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19013731@2026-08-20T19:00",
+      "kept": "dopdx:17600841",
+      "start_at": "2026-08-20T19:00:00-07:00",
+      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19691369@2026-08-20T19:00",
+      "kept": "dopdx:17686783",
+      "start_at": "2026-08-20T19:00:00-07:00",
+      "title_dropped": "Aslin + Austin Sweeney live at Artichoke",
+      "title_kept": "Austin B. Sweeney with Aslin",
+      "venue": "Artichoke Music"
+    },
+    {
+      "dropped": "willamette_week:19012546@2026-08-20T19:30",
+      "kept": "dopdx:17358747",
+      "start_at": "2026-08-20T19:30:00-07:00",
+      "title_dropped": "Special Event: Aries Spears",
+      "title_kept": "Aries Spears",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19638116@2026-08-20T19:30",
+      "kept": "dopdx:17666777",
+      "start_at": "2026-08-20T19:30:00-07:00",
+      "title_dropped": "Kate Murphy works on an hour(ish)",
+      "title_kept": "Kate Murphy works on an hour(ish)",
+      "venue": "Siren Theater"
     },
     {
       "dropped": "willamette_week:19012547@2026-08-20T20:00",
@@ -4641,9 +4641,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 5902,
-  "floor_check": "5902 events against a 5897-event baseline",
-  "generated_at": "2026-08-21T00:01:58+00:00",
+  "event_count": 5901,
+  "floor_check": "5901 events against a 5897-event baseline",
+  "generated_at": "2026-08-21T01:53:38+00:00",
   "problems": [],
   "sources": [
     "calagator",
