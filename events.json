@@ -16403,6 +16403,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-23T02:00:00-07:00",
+      "id": "dopdx:17716656",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786453996/event-17716656.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/22/asilo-portland-goth-club-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 12.51,
+        "min": 12.51
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-22T21:00:00-07:00",
+      "summary": "DARKWAVE DESMADRE INDUSTRIAL LOCURA EBM CAOS POST-PUNK y más!",
+      "title": "¡Asilo! Portland Goth Club!",
+      "venue": {
+        "address": "3341 SE Belmont St",
+        "city": "Portland",
+        "name": "The Six Below Midnight"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-23T02:00:00-07:00",
@@ -16459,35 +16488,6 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-23T02:00:00-07:00",
-      "id": "dopdx:17716656",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786453996/event-17716656.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/8/22/asilo-portland-goth-club-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 12.51,
-        "min": 12.51
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-08-22T21:00:00-07:00",
-      "summary": "DARKWAVE DESMADRE INDUSTRIAL LOCURA EBM CAOS POST-PUNK y más!",
-      "title": "¡Asilo! Portland Goth Club!",
-      "venue": {
-        "address": "3341 SE Belmont St",
-        "city": "Portland",
-        "name": "The Six Below Midnight"
       }
     },
     {
@@ -175607,5 +175607,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-21T23:52:57+00:00"
+  "generated_at": "2026-08-21T23:55:02+00:00"
 }
