@@ -122213,6 +122213,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-17T21:00:00-07:00",
+      "id": "calagator:1250482681",
+      "is_all_day": false,
+      "listing_url": "https://bsd.pizza",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-17T19:00:00-07:00",
+      "summary": "A meeting of folks interested in BSD operating systems and related technologies to get together, eat pizza, drink beer, and talk about what interesting things have been going on.",
+      "title": "BSD Pizza Night",
+      "venue": {
+        "address": "5013 NE 42nd Ave Portland",
+        "city": "Portland",
+        "latitude": 45.5594,
+        "longitude": -122.6209,
+        "name": "Oakshire Beer Hall"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-18T02:00:00-07:00",
@@ -171932,5 +171960,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-22T22:00:28+00:00"
+  "generated_at": "2026-08-22T22:34:40+00:00"
 }
