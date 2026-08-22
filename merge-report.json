@@ -1897,6 +1897,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19704885@2026-09-03T21:00",
+      "kept": "dopdx:17606854",
+      "start_at": "2026-09-03T21:00:00-07:00",
+      "title_dropped": "NACHO PICASSO with TELEVANGEL",
+      "title_kept": "NACHO PICASSO with TELEVANGEL",
+      "venue": "Kelly's Olympian"
+    },
+    {
       "dropped": "willamette_week:19660520@2026-09-03T22:00",
       "kept": "dopdx:17310382",
       "start_at": "2026-09-03T22:00:00-07:00",
@@ -2031,6 +2039,14 @@
       "title_dropped": "Les Gold w/ Family Worship Center",
       "title_kept": "Family Worship Center / Les Gold",
       "venue": "Mississippi Studios"
+    },
+    {
+      "dropped": "willamette_week:19704886@2026-09-04T20:00",
+      "kept": "dopdx:17721081",
+      "start_at": "2026-09-04T20:00:00-07:00",
+      "title_dropped": "VIRGOPALOOZA: SISTER SIGH, VALDORIA, and JOE SANCHEZ",
+      "title_kept": "Sister Sigh, Valdoria, Joe Sanchez",
+      "venue": "Kelly's Olympian"
     },
     {
       "dropped": "dopdx:17578934",
@@ -4746,8 +4762,8 @@
     }
   ],
   "event_count": 5725,
-  "floor_check": "5725 events against a 5825-event baseline",
-  "generated_at": "2026-08-22T03:55:10+00:00",
+  "floor_check": "5725 events against a 5749-event baseline",
+  "generated_at": "2026-08-22T04:00:33+00:00",
   "problems": [],
   "sources": [
     "calagator",
