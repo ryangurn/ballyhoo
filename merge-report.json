@@ -97,14 +97,6 @@
       "venue": "Laurelthirst Public House"
     },
     {
-      "dropped": "dopdx:17195984",
-      "kept": "ticketmaster:Z7r9jZ1A7P-jM",
-      "start_at": "2026-08-21T18:30:00-07:00",
-      "title_dropped": "Buffalo Traffic Jam with special guest",
-      "title_kept": "Buffalo Traffic Jam - Ages 16+",
-      "venue": "Topaz Farm"
-    },
-    {
       "dropped": "willamette_week:19002755@2026-08-21T18:30",
       "kept": "dopdx:17397683",
       "start_at": "2026-08-21T18:30:00-07:00",
@@ -2109,7 +2101,7 @@
       "kept": "ticketmaster:rZ7HnEZ1AfFzFf",
       "start_at": "2026-09-03T21:00:00-07:00",
       "title_dropped": "Black Lips with Escape-Ism",
-      "title_kept": "BLACK LIPS with Escape-ism",
+      "title_kept": "BLACK LIPS with Escape-ism & Sleeping Beauties",
       "venue": "Dante's"
     },
     {
@@ -4705,14 +4697,6 @@
       "venue": "Hawthorne Theatre"
     },
     {
-      "dropped": "dopdx:17724520",
-      "kept": "ticketmaster:rZ7HnEZ1A4ZFuN",
-      "start_at": "2026-09-19T21:00:00-07:00",
-      "title_dropped": "The Drowns with Guests",
-      "title_kept": "THE DROWNS with guests",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:19679595@2026-09-19T21:00",
       "kept": "dopdx:17724520",
       "start_at": "2026-09-19T21:00:00-07:00",
@@ -4881,9 +4865,9 @@
       "venue": "Roseland Theater"
     }
   ],
-  "event_count": 5902,
-  "floor_check": "5902 events against a 5902-event baseline",
-  "generated_at": "2026-08-22T01:48:14+00:00",
+  "event_count": 5904,
+  "floor_check": "5904 events against a 5902-event baseline",
+  "generated_at": "2026-08-22T01:49:27+00:00",
   "problems": [],
   "sources": [
     "calagator",
