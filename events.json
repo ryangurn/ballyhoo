@@ -1825,35 +1825,6 @@
     },
     {
       "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-08-22T11:00:00-07:00",
-      "id": "willamette_week:18401087@2026-08-22T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1hOcMtwruUSjU_CjhUfH8w.large.png",
-      "is_all_day": false,
-      "listing_url": "https://theallison.com/event/vineyard-walk/2026-08-22/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-22T10:00:00-07:00",
-      "summary": "Discover the story of The Allison’s estate vineyard and Austin Knoll Pinot Noir. Offered Saturdays at 10 a.m., April through October, this complimentary experience is led by our concierge, Andy Burke, who guides guests on a leisurely walk through our on-site vineyard. Along the way, learn about the legacy of Austin Knoll wines, taste two vintages of Austin Knoll Pinot Noir vintages to experience the evolution of each harvest, and hear the story of Willamette Valley pinot noir’s rise on the international stage. This intimate, 30-minute experience is available to hotel guests and in-house groups, with space limited to 14 participants. RSVP to secure your spot.",
-      "title": "Vineyard Walk",
-      "venue": {
-        "address": "25049 NE North Valley Rd",
-        "city": "Newberg",
-        "latitude": 45.319767,
-        "longitude": -122.946365,
-        "name": "The Allison Inn & Spa"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-08-22T12:00:00-07:00",
@@ -1879,6 +1850,35 @@
         "latitude": 45.6888,
         "longitude": -122.53026,
         "name": "Otis Orchards"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-08-22T11:00:00-07:00",
+      "id": "willamette_week:18401087@2026-08-22T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1hOcMtwruUSjU_CjhUfH8w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://theallison.com/event/vineyard-walk/2026-08-22/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-22T10:00:00-07:00",
+      "summary": "Discover the story of The Allison’s estate vineyard and Austin Knoll Pinot Noir. Offered Saturdays at 10 a.m., April through October, this complimentary experience is led by our concierge, Andy Burke, who guides guests on a leisurely walk through our on-site vineyard. Along the way, learn about the legacy of Austin Knoll wines, taste two vintages of Austin Knoll Pinot Noir vintages to experience the evolution of each harvest, and hear the story of Willamette Valley pinot noir’s rise on the international stage. This intimate, 30-minute experience is available to hotel guests and in-house groups, with space limited to 14 participants. RSVP to secure your spot.",
+      "title": "Vineyard Walk",
+      "venue": {
+        "address": "25049 NE North Valley Rd",
+        "city": "Newberg",
+        "latitude": 45.319767,
+        "longitude": -122.946365,
+        "name": "The Allison Inn & Spa"
       }
     },
     {
@@ -13267,6 +13267,10 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787164449/event-17746619.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/8/23/sunday-comedy-open-mic-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": true,
@@ -13279,6 +13283,7 @@
         "url": "https://dopdx.com"
       },
       "start_at": "2026-08-23T15:30:00-07:00",
+      "summary": "Sign ups start at 3:30, Happy hour specials! Try out your new material or enjoy our lovely AC in the venue and have some laughs watching the show!",
       "title": "Sunday Comedy Open Mic",
       "venue": {
         "address": "426 SW Washington St",
@@ -15625,6 +15630,36 @@
         "latitude": 45.319767,
         "longitude": -122.946365,
         "name": "The Allison Inn & Spa"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-24T11:30:00-07:00",
+      "id": "willamette_week:19704021@2026-08-24T08:13",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e4MhonifxEupmttPItyyZw.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-24T08:13:00-07:00",
+      "summary": "Sports activity",
+      "title": "FV PVT EVENT - Leah Carluccio",
+      "venue": {
+        "address": "13600 Southeast McGillivray Boulevard",
+        "city": "Vancouver",
+        "latitude": 45.636275,
+        "longitude": -122.484733,
+        "name": "The Church of Jesus Christ of Latter-day Saints"
       }
     },
     {
@@ -18001,6 +18036,37 @@
         "latitude": 45.5544111,
         "longitude": -122.9106415,
         "name": "Ron Tonkin Field"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-08-25T15:30:00-07:00",
+      "id": "willamette_week:19704265@2026-08-25T08:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5UjwkuNkeke5ICFjlVr4BA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/ancient-forest-preserve-trail-party-pdx-registration-1995055136619",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-25T08:30:00-07:00",
+      "summary": "We'll be building a new route for the existing trail system to eliminate the need for a steep staircase.",
+      "title": "Ancient Forest Preserve Trail Party - PDX",
+      "venue": {
+        "address": "Placeholder",
+        "city": "Portland",
+        "latitude": 45.515197,
+        "longitude": -122.678367,
+        "name": "Placeholder:  Location TBD"
       }
     },
     {
@@ -24434,6 +24500,35 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-08-26T21:00:00-07:00",
+      "id": "willamette_week:18146620@2026-08-26T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-26T18:00:00-07:00",
+      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
+      "title": "Tabletop and Taps",
+      "venue": {
+        "address": "316 SE 123rd Ave D4",
+        "city": "Vancouver",
+        "latitude": 45.619046,
+        "longitude": -122.547103,
+        "name": "Vault 31 Bar"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-08-26T20:00:00-07:00",
       "id": "willamette_week:19140152@2026-08-26T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VOK_zrOqt0KMNQIuz4Z3pA.large.png",
@@ -24519,35 +24614,6 @@
         "latitude": 45.428928,
         "longitude": -122.485136,
         "name": "Stickmen Brewing Company"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-08-26T21:00:00-07:00",
-      "id": "willamette_week:18146620@2026-08-26T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-26T18:00:00-07:00",
-      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
-      "title": "Tabletop and Taps",
-      "venue": {
-        "address": "316 SE 123rd Ave D4",
-        "city": "Vancouver",
-        "latitude": 45.619046,
-        "longitude": -122.547103,
-        "name": "Vault 31 Bar"
       }
     },
     {
@@ -33431,6 +33497,37 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-28T12:00:00-07:00",
+      "id": "willamette_week:19704030@2026-08-28T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6NZwgjlVBkqa7GNm3zieaw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/cybersecurity-tabletop-for-smbs-tickets-1997894139152",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 298.49,
+        "min": 298.49
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-28T10:30:00-07:00",
+      "summary": "Join us in person for a hands-on Cybersecurity Tabletop, perfect for SMBs to boost their cyber defense skills!",
+      "title": "Cybersecurity Tabletop for SMB's",
+      "venue": {
+        "address": "915 Broadway Street, #100",
+        "city": "Vancouver",
+        "latitude": 45.628393,
+        "longitude": -122.669999,
+        "name": "CoLab Coworking"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-08-28T11:30:00-07:00",
@@ -35617,6 +35714,37 @@
       "title": "2026 Countdown to Kickoff",
       "venue": {
         "name": "Reser Stadium"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-08-28T20:00:00-07:00",
+      "id": "willamette_week:19704031@2026-08-28T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hDsRmV1d8Eyxnw6moTSGsA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/paint-nite-best-western-premier-at-fishers-landing-vancouver-tickets-1994488007320",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 48.25,
+        "min": 48.25
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-28T18:00:00-07:00",
+      "summary": "Teens-and-up paint & sip in VANCOUVER: paint Candy Skies and Fireflies at Best Western Premier at Fisher's Landing . Ages 13\\+, all supplies",
+      "title": "Paint Nite • Best Western Premier at Fisher's Landing",
+      "venue": {
+        "address": "1500 SE 167TH AVE",
+        "city": "Vancouver",
+        "latitude": 45.609616,
+        "longitude": -122.500914,
+        "name": "Best Western Premier at Fisher's Landing"
       }
     },
     {
@@ -39991,35 +40119,6 @@
     },
     {
       "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-08-29T11:00:00-07:00",
-      "id": "willamette_week:18401087@2026-08-29T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1hOcMtwruUSjU_CjhUfH8w.large.png",
-      "is_all_day": false,
-      "listing_url": "https://theallison.com/event/vineyard-walk/2026-08-29/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-29T10:00:00-07:00",
-      "summary": "Discover the story of The Allison’s estate vineyard and Austin Knoll Pinot Noir. Offered Saturdays at 10 a.m., April through October, this complimentary experience is led by our concierge, Andy Burke, who guides guests on a leisurely walk through our on-site vineyard. Along the way, learn about the legacy of Austin Knoll wines, taste two vintages of Austin Knoll Pinot Noir vintages to experience the evolution of each harvest, and hear the story of Willamette Valley pinot noir’s rise on the international stage. This intimate, 30-minute experience is available to hotel guests and in-house groups, with space limited to 14 participants. RSVP to secure your spot.",
-      "title": "Vineyard Walk",
-      "venue": {
-        "address": "25049 NE North Valley Rd",
-        "city": "Newberg",
-        "latitude": 45.319767,
-        "longitude": -122.946365,
-        "name": "The Allison Inn & Spa"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-08-29T12:00:00-07:00",
@@ -40045,6 +40144,35 @@
         "latitude": 45.6888,
         "longitude": -122.53026,
         "name": "Otis Orchards"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-08-29T11:00:00-07:00",
+      "id": "willamette_week:18401087@2026-08-29T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1hOcMtwruUSjU_CjhUfH8w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://theallison.com/event/vineyard-walk/2026-08-29/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T10:00:00-07:00",
+      "summary": "Discover the story of The Allison’s estate vineyard and Austin Knoll Pinot Noir. Offered Saturdays at 10 a.m., April through October, this complimentary experience is led by our concierge, Andy Burke, who guides guests on a leisurely walk through our on-site vineyard. Along the way, learn about the legacy of Austin Knoll wines, taste two vintages of Austin Knoll Pinot Noir vintages to experience the evolution of each harvest, and hear the story of Willamette Valley pinot noir’s rise on the international stage. This intimate, 30-minute experience is available to hotel guests and in-house groups, with space limited to 14 participants. RSVP to secure your spot.",
+      "title": "Vineyard Walk",
+      "venue": {
+        "address": "25049 NE North Valley Rd",
+        "city": "Newberg",
+        "latitude": 45.319767,
+        "longitude": -122.946365,
+        "name": "The Allison Inn & Spa"
       }
     },
     {
@@ -40905,6 +41033,36 @@
         "latitude": 45.5192273855,
         "longitude": -122.6826296747,
         "name": "Multnomah County Central Library"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-08-29T17:00:00-07:00",
+      "id": "willamette_week:19704032@2026-08-29T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zreJ9oyWWU6yL7-1PK6deQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/summer-style-social-tickets-1993489307181",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 31.06,
+        "min": 31.06
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T11:00:00-07:00",
+      "summary": "A curated summer gathering of style, shopping, poolside vibes, mocktails, and meaningful connection in a private backyard and pool oasis.",
+      "title": "Summer Style Social",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Summer Style Social"
       }
     },
     {
@@ -49120,6 +49278,10 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787164450/event-17746620.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/8/30/sunday-comedy-open-mic-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": true,
@@ -49132,6 +49294,7 @@
         "url": "https://dopdx.com"
       },
       "start_at": "2026-08-30T15:30:00-07:00",
+      "summary": "Sign up and try out your bits on stage in front of an audience, or be part of the audience and experience some cutting edge comedy for free on a Sunday afternoon. It's a win win situation! With a special featured comic each week!",
       "title": "Sunday Comedy Open Mic",
       "venue": {
         "address": "426 SW Washington St",
@@ -51251,6 +51414,36 @@
         "latitude": 45.319767,
         "longitude": -122.946365,
         "name": "The Allison Inn & Spa"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-31T11:30:00-07:00",
+      "id": "willamette_week:19704021@2026-08-31T08:13",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e4MhonifxEupmttPItyyZw.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-31T08:13:00-07:00",
+      "summary": "Sports activity",
+      "title": "FV PVT EVENT - Leah Carluccio",
+      "venue": {
+        "address": "13600 Southeast McGillivray Boulevard",
+        "city": "Vancouver",
+        "latitude": 45.636275,
+        "longitude": -122.484733,
+        "name": "The Church of Jesus Christ of Latter-day Saints"
       }
     },
     {
@@ -55467,6 +55660,37 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-01T20:30:00-07:00",
+      "id": "willamette_week:19704033@2026-09-01T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qJFDoJSCtk-0o2tqjsQbww.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/ai-for-small-business-create-market-grow-smarter-tickets-1997682215282",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-01T18:00:00-07:00",
+      "summary": "Learn how to use AI to boost your small biz game, from creating cool stuff to marketing like a pro and growing smarter.",
+      "title": "AI for Small Business: Create, Market & Grow Smarter",
+      "venue": {
+        "address": "701 Northeast 136th Avenue, #Suite 200",
+        "city": "Vancouver",
+        "latitude": 45.626198,
+        "longitude": -122.533005,
+        "name": "Vancouver EMDR Therapy, PLLC"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-09-01T19:30:00-07:00",
@@ -58858,6 +59082,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-02T21:00:00-07:00",
+      "id": "willamette_week:18146620@2026-09-02T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-02T18:00:00-07:00",
+      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
+      "title": "Tabletop and Taps",
+      "venue": {
+        "address": "316 SE 123rd Ave D4",
+        "city": "Vancouver",
+        "latitude": 45.619046,
+        "longitude": -122.547103,
+        "name": "Vault 31 Bar"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "id": "willamette_week:19484164@2026-09-02T18:00",
@@ -58999,35 +59252,6 @@
         "latitude": 45.526842,
         "longitude": -122.730243,
         "name": "Portland Audubon"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-09-02T21:00:00-07:00",
-      "id": "willamette_week:18146620@2026-09-02T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-02T18:00:00-07:00",
-      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
-      "title": "Tabletop and Taps",
-      "venue": {
-        "address": "316 SE 123rd Ave D4",
-        "city": "Vancouver",
-        "latitude": 45.619046,
-        "longitude": -122.547103,
-        "name": "Vault 31 Bar"
       }
     },
     {
@@ -65957,6 +66181,34 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-09-04T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-09-04T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-04T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-09-04T12:30:00-07:00",
       "id": "willamette_week:18616662@2026-09-04T11:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mRUoffKKLEWkUVMmygQ1-Q.large.png",
@@ -66009,34 +66261,6 @@
         "latitude": 45.5256321,
         "longitude": -122.6751842,
         "name": "Lan Su Chinese Garden"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-09-04T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-09-04T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-04T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -71569,35 +71793,6 @@
     },
     {
       "categories": [
-        "outdoors"
-      ],
-      "end_at": "2026-09-05T11:00:00-07:00",
-      "id": "willamette_week:18905786@2026-09-05T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7c134cf5-1a86-4184-92f6-afe3982102c6.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/central-library-tour-97",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-05T10:00:00-07:00",
-      "summary": "Central Library, beloved by the community since 1913, is now open with modern enhancements for you to enjoy! Join us for a 45 minutes walking tour through the building. No registration required.",
-      "title": "Central Library Tour",
-      "venue": {
-        "address": "801 SW 10th Ave",
-        "city": "Portland",
-        "latitude": 45.5192273855,
-        "longitude": -122.6826296747,
-        "name": "Multnomah County Central Library"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-09-05T12:00:00-07:00",
@@ -71623,6 +71818,35 @@
         "latitude": 45.6888,
         "longitude": -122.53026,
         "name": "Otis Orchards"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-09-05T11:00:00-07:00",
+      "id": "willamette_week:18905786@2026-09-05T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7c134cf5-1a86-4184-92f6-afe3982102c6.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/central-library-tour-97",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-05T10:00:00-07:00",
+      "summary": "Central Library, beloved by the community since 1913, is now open with modern enhancements for you to enjoy! Join us for a 45 minutes walking tour through the building. No registration required.",
+      "title": "Central Library Tour",
+      "venue": {
+        "address": "801 SW 10th Ave",
+        "city": "Portland",
+        "latitude": 45.5192273855,
+        "longitude": -122.6826296747,
+        "name": "Multnomah County Central Library"
       }
     },
     {
@@ -78109,6 +78333,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-09-06T17:00:00-07:00",
+      "id": "willamette_week:19704034@2026-09-06T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/N43zMcESW0Gr5UWLj3fP0w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/sunset-splash-paint-n-sipp-at-the-sipp-public-house-tickets-1997636312987",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 42.68,
+        "min": 42.68
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-06T15:00:00-07:00",
+      "summary": "Come join us at The Sipp Public House to learn how to create this gorgeous Ocean painting! More info below!",
+      "title": "Sunset Splash Paint-N-Sipp at The Sipp Public House",
+      "venue": {
+        "address": "9301 Northeast 5th Avenue #120",
+        "city": "Vancouver",
+        "latitude": 45.688087,
+        "longitude": -122.666602,
+        "name": "The Sipp Public House"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "id": "willamette_week:19331106@2026-09-06T15:00",
@@ -80359,6 +80614,36 @@
         "latitude": 45.319767,
         "longitude": -122.946365,
         "name": "The Allison Inn & Spa"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-07T11:30:00-07:00",
+      "id": "willamette_week:19704021@2026-09-07T08:13",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e4MhonifxEupmttPItyyZw.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-07T08:13:00-07:00",
+      "summary": "Sports activity",
+      "title": "FV PVT EVENT - Leah Carluccio",
+      "venue": {
+        "address": "13600 Southeast McGillivray Boulevard",
+        "city": "Vancouver",
+        "latitude": 45.636275,
+        "longitude": -122.484733,
+        "name": "The Church of Jesus Christ of Latter-day Saints"
       }
     },
     {
@@ -86774,6 +87059,35 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-09-09T21:00:00-07:00",
+      "id": "willamette_week:18146620@2026-09-09T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-09T18:00:00-07:00",
+      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
+      "title": "Tabletop and Taps",
+      "venue": {
+        "address": "316 SE 123rd Ave D4",
+        "city": "Vancouver",
+        "latitude": 45.619046,
+        "longitude": -122.547103,
+        "name": "Vault 31 Bar"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-09-09T19:30:00-07:00",
       "id": "willamette_week:18616643@2026-09-09T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_Q1ig9Cn9UyNuuecCyauIA.large.png",
@@ -86916,35 +87230,6 @@
         "latitude": 45.521175,
         "longitude": -123.113009,
         "name": "Forage Grove"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-09-09T21:00:00-07:00",
-      "id": "willamette_week:18146620@2026-09-09T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-09T18:00:00-07:00",
-      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
-      "title": "Tabletop and Taps",
-      "venue": {
-        "address": "316 SE 123rd Ave D4",
-        "city": "Vancouver",
-        "latitude": 45.619046,
-        "longitude": -122.547103,
-        "name": "Vault 31 Bar"
       }
     },
     {
@@ -93939,6 +94224,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-11T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-09-11T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-11T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-09-11T12:00:00-07:00",
@@ -93964,34 +94277,6 @@
         "latitude": 45.5256321,
         "longitude": -122.6751842,
         "name": "Lan Su Chinese Garden"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-09-11T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-09-11T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-11T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -109852,6 +110137,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-14T11:30:00-07:00",
+      "id": "willamette_week:19704021@2026-09-14T08:13",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e4MhonifxEupmttPItyyZw.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-14T08:13:00-07:00",
+      "summary": "Sports activity",
+      "title": "FV PVT EVENT - Leah Carluccio",
+      "venue": {
+        "address": "13600 Southeast McGillivray Boulevard",
+        "city": "Vancouver",
+        "latitude": 45.636275,
+        "longitude": -122.484733,
+        "name": "The Church of Jesus Christ of Latter-day Saints"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-09-14T12:00:00-07:00",
@@ -110174,6 +110489,37 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-14T13:30:00-07:00",
+      "id": "willamette_week:19704035@2026-09-14T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dcRhkr_kcUW_1IJkmNF4Fg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/basic-business-branding-for-everyday-hairstylists-plus-a-new-headshot-tickets-1997795277454",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 54.45,
+        "min": 54.45
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-14T11:00:00-07:00",
+      "summary": "Affordable business workshop for hairstylists with experienced 20\\+ year stylist, licensed educator and salon owner Christina Carlsson",
+      "title": "Basic Business + Branding for Everyday Hairstylists (plus a new headshot)",
+      "venue": {
+        "address": "1711 Broadway Street",
+        "city": "Vancouver",
+        "latitude": 45.63438,
+        "longitude": -122.670189,
+        "name": "Marquee Salon + Studio"
       }
     },
     {
@@ -116450,6 +116796,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-16T21:00:00-07:00",
+      "id": "willamette_week:18146620@2026-09-16T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-16T18:00:00-07:00",
+      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
+      "title": "Tabletop and Taps",
+      "venue": {
+        "address": "316 SE 123rd Ave D4",
+        "city": "Vancouver",
+        "latitude": 45.619046,
+        "longitude": -122.547103,
+        "name": "Vault 31 Bar"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "id": "willamette_week:19484164@2026-09-16T18:00",
@@ -116503,35 +116878,6 @@
         "latitude": 45.515007,
         "longitude": -122.679101,
         "name": "City Council Chambers"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-09-16T21:00:00-07:00",
-      "id": "willamette_week:18146620@2026-09-16T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-16T18:00:00-07:00",
-      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
-      "title": "Tabletop and Taps",
-      "venue": {
-        "address": "316 SE 123rd Ave D4",
-        "city": "Vancouver",
-        "latitude": 45.619046,
-        "longitude": -122.547103,
-        "name": "Vault 31 Bar"
       }
     },
     {
@@ -123634,6 +123980,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-18T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-09-18T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-18T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-09-18T11:30:00-07:00",
@@ -123688,34 +124062,6 @@
         "latitude": 45.5256321,
         "longitude": -122.6751842,
         "name": "Lan Su Chinese Garden"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-09-18T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-09-18T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-18T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -129981,6 +130327,37 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-09-19T00:00:00-07:00",
+      "id": "willamette_week:19704036@2026-09-19T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sXxe8Q3Y302jOI-nEVg1iw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/day-n-night-end-of-summer-bash-tickets-1997899344722",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.24,
+        "min": 25.24
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-19T12:00:00-07:00",
+      "summary": "Get ready to party all day and night as we celebrate the end of summer with good vibes and great crew!",
+      "title": "Day N' Night End of Summer Bash",
+      "venue": {
+        "address": "3320 East 4th Plain Boulevard, #Suite g",
+        "city": "Vancouver",
+        "latitude": 45.637888,
+        "longitude": -122.635163,
+        "name": "Nexus Tattoo"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "id": "willamette_week:19692397@2026-09-19T12:00",
@@ -130193,6 +130570,37 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-19T15:00:00-07:00",
+      "id": "willamette_week:19704037@2026-09-19T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EiQDrvfW5keGMumiMhGVsA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/the-empath-protection-workshop-with-psychic-medium-daniel-monroe-tickets-1997939039450",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 42.47,
+        "min": 42.47
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-19T13:00:00-07:00",
+      "summary": "Learn how to shield your energy and vibe with psychic medium Daniel Monroe guiding you through the process.",
+      "title": "The Empath Protection Workshop with Psychic Medium Daniel Monroe.",
+      "venue": {
+        "address": "805 Grand Boulevard",
+        "city": "Vancouver",
+        "latitude": 45.626619,
+        "longitude": -122.6401,
+        "name": "Daniel Monroe Spirit Center"
       }
     },
     {
@@ -133350,6 +133758,34 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:19593998@2026-09-19T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0jJR9XnNvkuBDz3bjoPliQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1502551078309811/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-19T20:00:00-07:00",
+      "summary": "Shoot To Thrill - AC/DC tribute is Portland’s “balls-to-the-wall” tribute to the Australian legends, bringing the anthemic riffs, shouts, and antics to the stage with pure passion. Hail hail to the good times, ‘cause rock has got the right of way when Shoot To Thrill grabs you by the short & curlies. www.j-fell.com/shoottothrill/ Budokan - Cheap Trick tribute brings the fun & excitement that was the very essence of CT’s early concerts. Focusing on the studio and live albums of the late 70's, Budokan promises a spectacular, engaging performance. Saturday, Sept. 19 at Billy Blues Bar & Grill 21 & Over | Music at 9pm | $15 at the door No advance ticket sales https://billybluesbarandgrill.com",
+      "title": "Shoot To Thrill [AC/DC tribute] • Budokan [Cheap Trick",
+      "venue": {
+        "address": "7115 NE Hazel Dell Ave",
+        "city": "Vancouver",
+        "latitude": 45.674286,
+        "longitude": -122.668017,
+        "name": "Billy Blues Bar and Grill"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:18846832@2026-09-19T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f1b2ba5e-a879-4e12-a23e-a30267ddd15e.large.png",
       "is_all_day": false,
@@ -133373,34 +133809,6 @@
         "latitude": 45.5261955261,
         "longitude": -122.6881103516,
         "name": "McMenamins Mission Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:19593998@2026-09-19T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0jJR9XnNvkuBDz3bjoPliQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1502551078309811/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-19T20:00:00-07:00",
-      "summary": "Shoot To Thrill - AC/DC tribute is Portland’s “balls-to-the-wall” tribute to the Australian legends, bringing the anthemic riffs, shouts, and antics to the stage with pure passion. Hail hail to the good times, ‘cause rock has got the right of way when Shoot To Thrill grabs you by the short & curlies. www.j-fell.com/shoottothrill/ Budokan - Cheap Trick tribute brings the fun & excitement that was the very essence of CT’s early concerts. Focusing on the studio and live albums of the late 70's, Budokan promises a spectacular, engaging performance. Saturday, Sept. 19 at Billy Blues Bar & Grill 21 & Over | Music at 9pm | $15 at the door No advance ticket sales https://billybluesbarandgrill.com",
-      "title": "Shoot To Thrill [AC/DC tribute] • Budokan [Cheap Trick",
-      "venue": {
-        "address": "7115 NE Hazel Dell Ave",
-        "city": "Vancouver",
-        "latitude": 45.674286,
-        "longitude": -122.668017,
-        "name": "Billy Blues Bar and Grill"
       }
     },
     {
@@ -135391,36 +135799,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-09-20T15:00:00-07:00",
-      "id": "willamette_week:19700410@2026-09-20T12:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/azO5Fxim706sOzQUIzeWgA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/2244800776256355/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-20T12:00:00-07:00",
-      "summary": "The BIGGEST Clothing Swap in the Northwest!!! Two full floors of swapping fun! Ballroom on the 3rd Floor: The main swap area with tons of clothing sorted into non-binary categories as well as a plethora of shoes and accessories! Plus a bar! Lola’s Room on the 2nd Floor: Plus-size swap with more shoes and accessories! And another bar! A small entrance fee and a bag of clothes gets you a WHOLE NEW WARDROBE! You can bring more than one bag if you want! Don't have a bag of clothes to share? No problem, you can buy an empty bag for $5. PLEASE READ THE RULES VERY CAREFULLY CLOTHES MUST BE: Clean Wearable No holes No odors No underwear, socks/ hosiery, or bras \\(new items still in original packaging are okay\\) No children's apparel \\(sorry!\\) And, Clothing Swap soundtrack provided by DJ Gregarious!!! Invite ALL your friends! The more that attend, the more awesome clothes to choose from!!! This is an all ages event, but we recommend leaving small children at home. All leftover clothing will be donated to The North Portland Free Clothing Exchange, which is a free community event held every month at the Kenton Church on North Lombard Street. Everyone is welcome. All sizes of Men’s, Women’s, and Children’s clothing are exchanged. No donation is required in order to receive clothing. https://freeclothingexchange.wordpress.com",
-      "ticket_url": "https://www.etix.com/ticket/p/72208961/the-biggest-clothing-swap-in-the-northwest-portland-mcmenamins-crystal-ballroom",
-      "title": "The Biggest Clothing Swap in the Northwest!",
-      "venue": {
-        "address": "1332 W Burnside St",
-        "city": "Portland",
-        "latitude": 45.522891283,
-        "longitude": -122.6847714186,
-        "name": "Crystal Ballroom"
-      }
-    },
-    {
-      "categories": [
         "nightlife"
       ],
       "id": "willamette_week:19700004@2026-09-20T12:00",
@@ -135448,6 +135826,36 @@
         "latitude": 45.5120477825,
         "longitude": -122.6566256583,
         "name": "Helium Comedy Club"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-20T15:00:00-07:00",
+      "id": "willamette_week:19700410@2026-09-20T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/azO5Fxim706sOzQUIzeWgA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2244800776256355/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-20T12:00:00-07:00",
+      "summary": "The BIGGEST Clothing Swap in the Northwest!!! Two full floors of swapping fun! Ballroom on the 3rd Floor: The main swap area with tons of clothing sorted into non-binary categories as well as a plethora of shoes and accessories! Plus a bar! Lola’s Room on the 2nd Floor: Plus-size swap with more shoes and accessories! And another bar! A small entrance fee and a bag of clothes gets you a WHOLE NEW WARDROBE! You can bring more than one bag if you want! Don't have a bag of clothes to share? No problem, you can buy an empty bag for $5. PLEASE READ THE RULES VERY CAREFULLY CLOTHES MUST BE: Clean Wearable No holes No odors No underwear, socks/ hosiery, or bras \\(new items still in original packaging are okay\\) No children's apparel \\(sorry!\\) And, Clothing Swap soundtrack provided by DJ Gregarious!!! Invite ALL your friends! The more that attend, the more awesome clothes to choose from!!! This is an all ages event, but we recommend leaving small children at home. All leftover clothing will be donated to The North Portland Free Clothing Exchange, which is a free community event held every month at the Kenton Church on North Lombard Street. Everyone is welcome. All sizes of Men’s, Women’s, and Children’s clothing are exchanged. No donation is required in order to receive clothing. https://freeclothingexchange.wordpress.com",
+      "ticket_url": "https://www.etix.com/ticket/p/72208961/the-biggest-clothing-swap-in-the-northwest-portland-mcmenamins-crystal-ballroom",
+      "title": "The Biggest Clothing Swap in the Northwest!",
+      "venue": {
+        "address": "1332 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.522891283,
+        "longitude": -122.6847714186,
+        "name": "Crystal Ballroom"
       }
     },
     {
@@ -138360,6 +138768,36 @@
         "latitude": 45.319767,
         "longitude": -122.946365,
         "name": "The Allison Inn & Spa"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-21T11:30:00-07:00",
+      "id": "willamette_week:19704021@2026-09-21T08:13",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e4MhonifxEupmttPItyyZw.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-21T08:13:00-07:00",
+      "summary": "Sports activity",
+      "title": "FV PVT EVENT - Leah Carluccio",
+      "venue": {
+        "address": "13600 Southeast McGillivray Boulevard",
+        "city": "Vancouver",
+        "latitude": 45.636275,
+        "longitude": -122.484733,
+        "name": "The Church of Jesus Christ of Latter-day Saints"
       }
     },
     {
@@ -169984,5 +170422,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-22T03:07:04+00:00"
+  "generated_at": "2026-08-22T03:11:11+00:00"
 }
