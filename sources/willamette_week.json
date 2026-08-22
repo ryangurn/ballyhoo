@@ -50197,6 +50197,37 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-09-03T23:30:00-07:00",
+      "id": "willamette_week:19704885@2026-09-03T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RUmN8zUSQ0itrOpMccV8wA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/nacho-picasso-with-televangel-tickets-1993896228293",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.18,
+        "min": 23.18
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-03T21:00:00-07:00",
+      "summary": "PNW RAP LEGEND AND SELF PROCLAIMED \"REAL F\\\\KER\" NACHO PICASSO with TELEVANGEL. ONE NIGHT ONLY AT KELLY'S OLYMPIAN. PULL UP!",
+      "title": "NACHO PICASSO with TELEVANGEL",
+      "venue": {
+        "address": "426 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5199093372,
+        "longitude": -122.6762111485,
+        "name": "Kelly's Olympian"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:19449601@2026-09-03T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a8qrUgJ_bUKJz44KqDMANA.large.png",
       "is_all_day": false,
@@ -54116,6 +54147,37 @@
         "latitude": 45.51954213114126,
         "longitude": -122.67727468051187,
         "name": "The Jack London Revue"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-04T23:30:00-07:00",
+      "id": "willamette_week:19704886@2026-09-04T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4roiUxCnZUaaiEb7FK_WoQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/virgopalooza-sister-sigh-valdoria-and-joe-sanchez-tickets-1997655174402",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 12.51,
+        "min": 12.51
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-04T20:00:00-07:00",
+      "summary": "Join in on a birthday celebration featuring the orchestral indie folk of Sister Sigh, Valdoria and Joe Sanchez.",
+      "title": "VIRGOPALOOZA: SISTER SIGH, VALDORIA, and JOE SANCHEZ",
+      "venue": {
+        "address": "426 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5199093372,
+        "longitude": -122.6762111485,
+        "name": "Kelly's Olympian"
       }
     },
     {
@@ -106766,7 +106828,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-22T03:09:54+00:00",
+  "generated_at": "2026-08-22T03:59:15+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
