@@ -19879,10 +19879,10 @@
         "market"
       ],
       "end_at": "2026-08-23T15:00:00-07:00",
-      "id": "portland_farmers_market:john-nunn-2@2026-08-23",
-      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2026/06/john-nunn-2026.jpg",
+      "id": "portland_farmers_market:dunn-otter-2@2026-08-23",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2026/08/dunn_otter_music-e1786494726353.png",
       "is_all_day": false,
-      "listing_url": "https://www.portlandfarmersmarket.org/event/john-nunn-2/",
+      "listing_url": "https://www.portlandfarmersmarket.org/event/dunn-otter-2/",
       "organizer": "Portland Farmers Market",
       "price": {
         "currency": "USD",
@@ -19896,8 +19896,8 @@
         "url": "https://www.portlandfarmersmarket.org"
       },
       "start_at": "2026-08-23T13:00:00-07:00",
-      "summary": "Live music by John Nunn at Lents International Farmers Market on Sunday, August 23, 2026 from 1 pm to 3 pm.",
-      "title": "John Nunn",
+      "summary": "Live Celtic Folk music by Dunn Otter at Lents International Farmers Market on Sunday, August 23, 2026 from 1 pm to 3 pm.",
+      "title": "Dunn Otter",
       "venue": {
         "address": "5718 SE 92nd Ave",
         "city": "Portland",
@@ -55512,6 +55512,39 @@
         "latitude": 45.5222918,
         "longitude": -122.6920696,
         "name": "Providence Park"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-08-30T15:00:00-07:00",
+      "id": "portland_farmers_market:john-nunn-2@2026-08-30",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2026/06/john-nunn-2026.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/john-nunn-2/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-08-30T13:00:00-07:00",
+      "summary": "Live music by John Nunn at Lents International Farmers Market on Sunday, August 30, 2026 from 1 pm to 3 pm.",
+      "title": "John Nunn",
+      "venue": {
+        "address": "5718 SE 92nd Ave",
+        "city": "Portland",
+        "latitude": 45.48012,
+        "longitude": -122.56962,
+        "name": "Lents International Farmers Market"
       }
     },
     {
@@ -175583,5 +175616,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-22T01:46:53+00:00"
+  "generated_at": "2026-08-22T01:48:14+00:00"
 }
