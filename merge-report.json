@@ -1,46 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:19069306@2026-08-21T21:00",
-      "kept": "dopdx:17380377",
-      "start_at": "2026-08-21T21:00:00-07:00",
-      "title_dropped": "La Luz w/ Spacemoth",
-      "title_kept": "SOLD OUT: La Luz",
-      "venue": "Mississippi Studios"
-    },
-    {
-      "dropped": "willamette_week:19691393@2026-08-21T21:00",
-      "kept": "dopdx:17625062",
-      "start_at": "2026-08-21T21:00:00-07:00",
-      "title_dropped": "House of Disco - A Night of Classic Disco & Modern House Anthems",
-      "title_kept": "House of Disco – A Night of Classic Disco & Modern House Anthems – 21+",
-      "venue": "Holocene"
-    },
-    {
-      "dropped": "willamette_week:19012546@2026-08-21T21:15",
-      "kept": "dopdx:17358751",
-      "start_at": "2026-08-21T21:15:00-07:00",
-      "title_dropped": "Special Event: Aries Spears",
-      "title_kept": "Aries Spears",
-      "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:19012547@2026-08-21T21:45",
-      "kept": "dopdx:17358751",
-      "start_at": "2026-08-21T21:15:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Orion Levine",
-      "title_kept": "Aries Spears",
-      "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:19700083@2026-08-21T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1A4vk_K",
-      "start_at": "2026-08-21T21:00:00-07:00",
-      "title_dropped": "Mike Coykendall's Shambolic Trio",
-      "title_kept": "Mike Coykendall's Shambolic Trio",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "willamette_week:19651656@2026-08-26T18:30",
       "kept": "dopdx:17650446",
       "start_at": "2026-08-26T18:30:00-07:00",
@@ -279,6 +239,46 @@
       "title_dropped": "STAINLESS - Album Release Show with Solicitor & Wizard Cage",
       "title_kept": "Stainless - Album Release Show with Solicitor & Wizard Cage",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19069306@2026-08-21T21:00",
+      "kept": "dopdx:17380377",
+      "start_at": "2026-08-21T21:00:00-07:00",
+      "title_dropped": "La Luz w/ Spacemoth",
+      "title_kept": "SOLD OUT: La Luz",
+      "venue": "Mississippi Studios"
+    },
+    {
+      "dropped": "willamette_week:19691393@2026-08-21T21:00",
+      "kept": "dopdx:17625062",
+      "start_at": "2026-08-21T21:00:00-07:00",
+      "title_dropped": "House of Disco - A Night of Classic Disco & Modern House Anthems",
+      "title_kept": "House of Disco – A Night of Classic Disco & Modern House Anthems – 21+",
+      "venue": "Holocene"
+    },
+    {
+      "dropped": "willamette_week:19012546@2026-08-21T21:15",
+      "kept": "dopdx:17358751",
+      "start_at": "2026-08-21T21:15:00-07:00",
+      "title_dropped": "Special Event: Aries Spears",
+      "title_kept": "Aries Spears",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19700083@2026-08-21T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4vk_K",
+      "start_at": "2026-08-21T21:00:00-07:00",
+      "title_dropped": "Mike Coykendall's Shambolic Trio",
+      "title_kept": "Mike Coykendall's Shambolic Trio",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19012547@2026-08-21T21:45",
+      "kept": "dopdx:17358751",
+      "start_at": "2026-08-21T21:15:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Orion Levine",
+      "title_kept": "Aries Spears",
+      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "willamette_week:19691397@2026-08-21T22:00",
@@ -4881,9 +4881,9 @@
       "venue": "Roseland Theater"
     }
   ],
-  "event_count": 5902,
-  "floor_check": "5902 events against a 5902-event baseline",
-  "generated_at": "2026-08-22T00:02:10+00:00",
+  "event_count": 5901,
+  "floor_check": "5901 events against a 5902-event baseline",
+  "generated_at": "2026-08-22T01:46:53+00:00",
   "problems": [],
   "sources": [
     "calagator",
