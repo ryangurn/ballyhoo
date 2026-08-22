@@ -1892,7 +1892,7 @@
       "dropped": "willamette_week:19449601@2026-09-03T21:00",
       "kept": "dopdx:17582318",
       "start_at": "2026-09-03T21:00:00-07:00",
-      "title_dropped": "BLACK LIPS with Escape-ism",
+      "title_dropped": "BLACK LIPS with Escape-ism & Sleeping Beauties",
       "title_kept": "Black Lips with Escape-Ism",
       "venue": "Dante's"
     },
@@ -3521,6 +3521,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19707054@2026-09-13T20:30",
+      "kept": "ticketmaster:rZ7HnEZ1Af1vu7",
+      "start_at": "2026-09-13T20:30:00-07:00",
+      "title_dropped": "TRISTAN DAMRON followed by Sinferno Cabaret",
+      "title_kept": "TRISTAN DAMRON followed by Sinferno Cabaret",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-09-13T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPw7K",
       "start_at": "2026-09-13T21:00:00-07:00",
@@ -4473,6 +4481,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:19679595@2026-09-19T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4ZFuN",
+      "start_at": "2026-09-19T20:00:00-07:00",
+      "title_dropped": "THE DROWNS with guests",
+      "title_kept": "THE DROWNS with The Scoffs, The Generals, & BOMF",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19029323@2026-09-19T20:00",
       "kept": "ticketmaster:Z7r9jZ1A70zZv",
       "start_at": "2026-09-19T20:00:00-07:00",
@@ -4769,9 +4785,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 5740,
-  "floor_check": "5740 events against a 5740-event baseline",
-  "generated_at": "2026-08-22T14:36:48+00:00",
+  "event_count": 5777,
+  "floor_check": "5777 events against a 5740-event baseline",
+  "generated_at": "2026-08-22T14:43:06+00:00",
   "problems": [],
   "sources": [
     "calagator",
