@@ -47376,6 +47376,38 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-04T21:00:00-07:00",
+      "id": "willamette_week:19713175@2026-09-04T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/L2ivr4zCb0ycbyu8e6I7OQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/first-fridays-residency-lloyd-jones-with-courtney-von-drehle-tickets-1998393829740?aff=odcleoeventsincollection",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.36,
+        "min": 23.36
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-04T19:00:00-07:00",
+      "summary": "Courtney Von Drehle is an Emmy-nominated composer, accordionist, and multi-instrumentalist whose music moves fluidly between concert stage, theater, film, and improvisational performance.",
+      "ticket_url": "https://www.eventbrite.com/e/first-fridays-residency-lloyd-jones-with-courtney-von-drehle-tickets-1998393829740?aff=odcleoeventsincollection",
+      "title": "Lloyd Jones with Courtney Von Drehle",
+      "venue": {
+        "address": "2007 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.49979,
+        "longitude": -122.64544,
+        "name": "Artichoke Music"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:19709307@2026-09-04T19:00",
@@ -104859,7 +104891,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-23T16:45:38+00:00",
+  "generated_at": "2026-08-23T17:38:01+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
