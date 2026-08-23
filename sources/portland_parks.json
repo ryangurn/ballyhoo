@@ -2,35 +2,6 @@
   "events": [
     {
       "categories": [
-        "music"
-      ],
-      "id": "portland_parks:2026-08-15-sellwood-park-bloco-alegria",
-      "is_all_day": false,
-      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
-      "organizer": "Portland Parks & Recreation",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "portland_parks",
-        "name": "Portland Parks & Recreation",
-        "url": "https://www.portland.gov/parks"
-      },
-      "start_at": "2026-08-15T18:30:00-07:00",
-      "summary": "Bloco Alegria - The heart-pumping samba from Rio de Janeiro",
-      "title": "Bloco Alegria",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.46754,
-        "longitude": -122.66036,
-        "name": "Sellwood Park"
-      }
-    },
-    {
-      "categories": [
         "film"
       ],
       "id": "portland_parks:2026-08-15-irving-park-the-princess-bride",
@@ -376,7 +347,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-22T23:55:47+00:00",
+  "generated_at": "2026-08-23T02:13:26+00:00",
   "source_id": "portland_parks",
   "status": "ok"
 }
