@@ -13109,33 +13109,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "end_at": "2026-09-05T02:00:00-07:00",
-      "id": "dopdx:17290374",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1777624187/event-17290374.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/4/craig-robinson-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-04T19:00:00-07:00",
-      "summary": "Craig Robinson most notably portrayed acerbic Dunder-Mifflin employee Darryl Philbin on the Emmy-winning “The Office” on NBC. He is definitely a world away from his original career intentions; before deciding to pursue his comedy career full time, Robinson was a K-8 teacher in the Chicago Public School System. It was while he was studying education in Chicago that he also discovered his love of acting and comedy when he joined the famed Second City Theatre. As a stand-up comedian, Robinson first made his mark in the comedy circuit at the 1998 Montreal Just For Laughs Festival. That year, he also won the Oakland Comedy Festival Awards and the Miller Genuine Draft 1996 Comedy Search. He soon went on to perform his act on “The Jimmy Kimmel Show",
-      "title": "Craig Robinson",
-      "venue": {
-        "address": "1510 SE 9th Ave",
-        "city": "Portland",
-        "name": "Helium Comedy Club"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-09-05T02:00:00-07:00",
@@ -13161,6 +13134,33 @@
         "address": "720 SE Hawthorne Blvd, Portland, OR, 97214",
         "city": "Portland",
         "name": "The High Limit Room"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-09-05T02:00:00-07:00",
+      "id": "dopdx:17290374",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1777624187/event-17290374.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/4/craig-robinson-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-04T19:00:00-07:00",
+      "summary": "Craig Robinson most notably portrayed acerbic Dunder-Mifflin employee Darryl Philbin on the Emmy-winning “The Office” on NBC. He is definitely a world away from his original career intentions; before deciding to pursue his comedy career full time, Robinson was a K-8 teacher in the Chicago Public School System. It was while he was studying education in Chicago that he also discovered his love of acting and comedy when he joined the famed Second City Theatre. As a stand-up comedian, Robinson first made his mark in the comedy circuit at the 1998 Montreal Just For Laughs Festival. That year, he also won the Oakland Comedy Festival Awards and the Miller Genuine Draft 1996 Comedy Search. He soon went on to perform his act on “The Jimmy Kimmel Show",
+      "title": "Craig Robinson",
+      "venue": {
+        "address": "1510 SE 9th Ave",
+        "city": "Portland",
+        "name": "Helium Comedy Club"
       }
     },
     {
@@ -31840,7 +31840,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-23T05:05:08+00:00",
+  "generated_at": "2026-08-23T05:58:21+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
