@@ -24721,6 +24721,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-08-28T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-08-28T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-28T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-28T11:30:00-07:00",
@@ -24746,34 +24774,6 @@
         "latitude": 45.5192273855,
         "longitude": -122.6826296747,
         "name": "Multnomah County Central Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-08-28T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-08-28T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-28T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -166431,5 +166431,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-23T07:46:36+00:00"
+  "generated_at": "2026-08-23T07:51:12+00:00"
 }
