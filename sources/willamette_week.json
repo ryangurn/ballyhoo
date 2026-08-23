@@ -6185,6 +6185,37 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-08-24T21:00:00-07:00",
+      "id": "willamette_week:19713568@2026-08-24T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E37veExnEk69ArWFVmNkcQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://m.facebook.com/events/990722370685889/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-24T19:00:00-07:00",
+      "summary": "Christopher Harris stops by Portland on his West Coast book tour for his new novel, Pound Foolish! As Chris is the host of the most popular independent fantasy football podcast, the reading will be followed by a meetup where fans of his can socialize about, fantasy football, and the upcoming NFL season as well as his books. Part locker room chronicle, part neo-noir, all American: Pound Foolish tackles a season-in-the-life of a pro football team that has a serial killer in its midst. Someone is murdering women in the orbit of Detroit's NFL franchise. But also: a new season is kicking off and nobody can really prove anything. Plus football is one of the last remaining ties that bind a city. So…the games will go on. And they should. Right? Enter our gumshoe. Mouse Morrison is a former player the team brings in to investigate. The further Morrison digs into the locker room—and the more lunkhead players we meet on their journeys of supremacy and self-destruction—the stronger a stench of conspiracy becomes. Is this a coverup? How deep within the franchise and the league does it go? The team keeps winning games. The bodies keep piling up. The whole mess bleeds from the sports section to the front page, nobody’s sure what to believe...and absolutely everybody has an opinion. Pound Foolish is a rollicking, cinematic murder mystery set in a multi-billion-dollar circus teeming with killers. It pulls back the curtain on a sport that grips America’s psyche, and also owns a bloody chunk of its soul.",
+      "title": "Pound Foolish: Christopher Harris Book Reading",
+      "venue": {
+        "address": "2724 SE Ankeny St",
+        "city": "Portland",
+        "latitude": 45.522019,
+        "longitude": -122.637765,
+        "name": "Gorges Beer Co. - Rainbow Road Pub"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-08-24T21:00:00-07:00",
@@ -104891,7 +104922,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-23T19:39:22+00:00",
+  "generated_at": "2026-08-23T20:42:25+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
