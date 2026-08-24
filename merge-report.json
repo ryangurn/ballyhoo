@@ -305,6 +305,14 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
+      "dropped": "willamette_week:19719871@2026-08-26T18:00",
+      "kept": "dopdx:17763294",
+      "start_at": "2026-08-26T18:00:00-07:00",
+      "title_dropped": "PPS Paths to Integration presents Six Chambers of Perception",
+      "title_kept": "Paths to Integration presents Six Chambers of Perception",
+      "venue": "The Haven"
+    },
+    {
       "dropped": "willamette_week:19114766@2026-08-26T19:30",
       "kept": "dopdx:16992271",
       "start_at": "2026-08-26T19:30:00-07:00",
@@ -4451,7 +4459,7 @@
   ],
   "event_count": 5550,
   "floor_check": "5550 events against a 5542-event baseline",
-  "generated_at": "2026-08-24T19:58:32+00:00",
+  "generated_at": "2026-08-24T20:00:39+00:00",
   "problems": [],
   "sources": [
     "calagator",

@@ -9681,10 +9681,15 @@
         "community"
       ],
       "end_at": "2026-08-26T20:00:00-07:00",
-      "id": "willamette_week:19719871@2026-08-26T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/l5m9yfwltkG5FBePG76P1w.large.jpg",
+      "id": "dopdx:17763294",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
       "is_all_day": false,
-      "listing_url": "https://portlandpsychedelic.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F45481",
+      "listing_url": "https://dopdx.com/events/2026/8/26/paths-to-integration-presents-six-chambers-of-perception-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "organizer": "Portland Psychedelic Society presents",
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -9692,19 +9697,17 @@
         "min": 12.0
       },
       "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
       },
       "start_at": "2026-08-26T18:00:00-07:00",
-      "summary": "Portland Psychedelic Society's Paths to Integration presents ”Six Chambers of Perception” - Hosted by Jaime Durso Join us for an experiential deep dive into the Six Chambers of Perception, a creative framework for making meaning of the insights and expanded awareness that can emerge through psychedelic journeys. Inspired by Roberto Assagioli’s concept of the psychological functions in Psychosynthesis (the psychology of the soul), this circle offers grounded, accessible tools to help you move from insight into embodiment—and live your lessons into everyday life, rather than simply remember them. These six chambers of perception reveal a map of your internal response system and act as vehicles for the expression and experience of Self in the world. Building a stronger relationship with this internal response system can help you recognize alignment with your values, authenticity, and sense of purpose. You’ll be guided on a journey to connect with and attune to the subtle senses and energies of the soul that are innate to each of us. You are your own highest guide and are best equipped to interpret the sometimes radical and symbolic material that emerges through peak experiences. Expect somatic tuning, guided visualization, art process, and authentic relating as we explore how psychedelic insights can become part of everyday life. Bring an open heart and your whole self. About Jaime Durso Jaime is a psychospiritual guide and somatic therapist in training, with a background in Psychosynthesis - the psychology of the soul. Her work is deeply informed by her passion for psychedelic medicine and the transformative potential of integration. Through cultivating congruency between soul, psyche, and soma, she helps sensitives, creatives, and space holders to live with greater joy, authenticity, and purpose.",
+      "summary": "Portland Psychedelic Society - Community Nights at The Haven Paths to Integration (4th Weds each Month)Presents ”Six Chambers of Perception” - Hosted by Jaime Durso Join us for an experiential deep dive into the Six Chambers of Perception, a creative framework for making meaning of the insights and expanded awareness that can emerge through psychedelic journeys. Inspired by Roberto Assagioli’s concept of the psychological functions in Psychosynthesis (the psychology of the soul), this circle offers grounded, accessible tools to help you move from insight into embodiment—and live your lessons into everyday life, rather than simply remember them. These six chambers of perception reveal a map of your internal response system and act as vehicles",
       "ticket_url": "https://portlandpsychedelic.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F45481",
-      "title": "PPS Paths to Integration presents Six Chambers of Perception",
+      "title": "Paths to Integration presents Six Chambers of Perception",
       "venue": {
         "address": "2505 NE Pacific St.",
         "city": "Portland",
-        "latitude": 45.529472,
-        "longitude": -122.639823,
         "name": "The Haven"
       }
     },
@@ -164916,5 +164919,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-24T19:58:32+00:00"
+  "generated_at": "2026-08-24T20:00:39+00:00"
 }
