@@ -56581,38 +56581,6 @@
         "music"
       ],
       "end_at": "2026-09-05T02:00:00-07:00",
-      "id": "dopdx:17620704",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1784314932/event-17620704.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/4/haley-johnsen-tickets",
-      "organizer": "McMenamins Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 26.1,
-        "min": 26.1
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-04T20:00:00-07:00",
-      "summary": "Official Tickets: Etix/Cascade Tickets is the official ticketing source and partner of the Crystal Ballroom -- Haley Johnsen is a Portland-based Americana artist blending alt-pop edge with powerhouse vocals and emotionally charged songwriting. Often compared to Brandi Carlile and Bonnie Raitt, she delivers heart-forward storytelling wrapped in bold, anthemic hooks and an electrifying live presence. Haley has toured with and opened for artists including Allen Stone, KT Tunstall, Joseph, The Talbott Brothers, and Liam St. John, and performed at the nation’s largest festival. Summerfest, last year in Milwaukie, WI. Her 2026 NPR Tiny Desk Contest submission featuring her single “Lyin’ Man” marks a bold new chapter of new music dropping May 2026.",
-      "title": "Haley Johnsen",
-      "venue": {
-        "address": "1332 W. Burnside",
-        "city": "Portland",
-        "latitude": 45.5227528,
-        "longitude": -122.6851261,
-        "name": "McMenamins Crystal Ballroom"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-09-05T02:00:00-07:00",
       "id": "dopdx:17751448",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787262475/event-17751448.png",
       "is_all_day": false,
@@ -56642,6 +56610,38 @@
         "latitude": 45.55144019999999,
         "longitude": -122.675836,
         "name": "Mississippi Studios"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-05T02:00:00-07:00",
+      "id": "dopdx:17620704",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1784314932/event-17620704.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/4/haley-johnsen-tickets",
+      "organizer": "McMenamins Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 26.1,
+        "min": 26.1
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-04T20:00:00-07:00",
+      "summary": "Official Tickets: Etix/Cascade Tickets is the official ticketing source and partner of the Crystal Ballroom -- Haley Johnsen is a Portland-based Americana artist blending alt-pop edge with powerhouse vocals and emotionally charged songwriting. Often compared to Brandi Carlile and Bonnie Raitt, she delivers heart-forward storytelling wrapped in bold, anthemic hooks and an electrifying live presence. Haley has toured with and opened for artists including Allen Stone, KT Tunstall, Joseph, The Talbott Brothers, and Liam St. John, and performed at the nation’s largest festival. Summerfest, last year in Milwaukie, WI. Her 2026 NPR Tiny Desk Contest submission featuring her single “Lyin’ Man” marks a bold new chapter of new music dropping May 2026.",
+      "title": "Haley Johnsen",
+      "venue": {
+        "address": "1332 W. Burnside",
+        "city": "Portland",
+        "latitude": 45.5227528,
+        "longitude": -122.6851261,
+        "name": "McMenamins Crystal Ballroom"
       }
     },
     {
@@ -166789,5 +166789,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-24T23:51:49+00:00"
+  "generated_at": "2026-08-24T23:53:59+00:00"
 }
