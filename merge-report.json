@@ -4129,6 +4129,14 @@
       "venue": "Roseland Theater"
     },
     {
+      "dropped": "willamette_week:16902271@2026-09-20T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPs_K",
+      "start_at": "2026-09-20T21:00:00-07:00",
+      "title_dropped": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:19669256@2026-09-21T11:30",
       "kept": "dopdx:17663360",
       "start_at": "2026-09-21T11:30:00-07:00",
@@ -4394,8 +4402,8 @@
     }
   ],
   "event_count": 5501,
-  "floor_check": "5501 events against a 5499-event baseline",
-  "generated_at": "2026-08-24T16:51:49+00:00",
+  "floor_check": "5501 events against a 5501-event baseline",
+  "generated_at": "2026-08-24T16:55:23+00:00",
   "problems": [],
   "sources": [
     "calagator",
