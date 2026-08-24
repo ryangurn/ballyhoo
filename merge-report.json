@@ -41,6 +41,30 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19428246@2026-08-28T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfxkJd",
+      "start_at": "2026-08-28T21:00:00-07:00",
+      "title_dropped": "76TH STREET with Tornsey",
+      "title_kept": "76TH STREET with Tornsey",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:18557766@2026-08-28T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4vk_S",
+      "start_at": "2026-08-28T21:00:00-07:00",
+      "title_dropped": "Line Dancing Lessons with Kat",
+      "title_kept": "Line Dancing Lessons with Kat",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:18548781@2026-08-28T21:45",
+      "kept": "dopdx:17176447",
+      "start_at": "2026-08-28T21:45:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Rachel Williams",
+      "title_kept": "The Neon Room at Helium: Rachel Williams",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "dopdx:16953340",
       "kept": "ticketmaster:vvG1HZ_dmH0IYK",
       "start_at": "2026-09-08T19:00:00-07:00",
@@ -647,30 +671,6 @@
       "title_dropped": "Labretta Suede and The Motel 6",
       "title_kept": "Guerrilla Teens, Labretta Suede and the Motel 6, The Bloodtypes, Flip Tops",
       "venue": "High Water Mark Lounge"
-    },
-    {
-      "dropped": "willamette_week:19428246@2026-08-28T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfxkJd",
-      "start_at": "2026-08-28T21:00:00-07:00",
-      "title_dropped": "76TH STREET with Tornsey",
-      "title_kept": "76TH STREET with Tornsey",
-      "venue": "Star Theater"
-    },
-    {
-      "dropped": "willamette_week:18557766@2026-08-28T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1A4vk_S",
-      "start_at": "2026-08-28T21:00:00-07:00",
-      "title_dropped": "Line Dancing Lessons with Kat",
-      "title_kept": "Line Dancing Lessons with Kat",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:18548781@2026-08-28T21:45",
-      "kept": "dopdx:17176447",
-      "start_at": "2026-08-28T21:45:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Rachel Williams",
-      "title_kept": "The Neon Room at Helium: Rachel Williams",
-      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "willamette_week:17758226@2026-08-28T22:00",
@@ -4409,9 +4409,9 @@
       "venue": "Wonder Ballroom"
     }
   ],
-  "event_count": 5497,
-  "floor_check": "5497 events against a 5496-event baseline",
-  "generated_at": "2026-08-24T14:28:28+00:00",
+  "event_count": 5498,
+  "floor_check": "5498 events against a 5496-event baseline",
+  "generated_at": "2026-08-24T14:55:32+00:00",
   "problems": [],
   "sources": [
     "calagator",
