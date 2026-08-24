@@ -2441,22 +2441,6 @@
       "venue": "Mississippi Studios"
     },
     {
-      "dropped": "dopdx:17529268",
-      "kept": "ticketmaster:Z7r9jZ1A7PsF-",
-      "start_at": "2026-09-10T20:00:00-07:00",
-      "title_dropped": "Isaiah Falls",
-      "title_kept": "Isaiah Falls w/ RAAHiiM",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "willamette_week:19436719@2026-09-10T20:00",
-      "kept": "dopdx:17529268",
-      "start_at": "2026-09-10T20:00:00-07:00",
-      "title_dropped": "Isaiah Falls - Lvrs Paradise Side B Tour",
-      "title_kept": "Isaiah Falls",
-      "venue": "Hawthorne Theatre"
-    },
-    {
       "dropped": "willamette_week:19114768@2026-09-10T20:00",
       "kept": "dopdx:17434211",
       "start_at": "2026-09-10T20:00:00-07:00",
@@ -2479,6 +2463,14 @@
       "title_dropped": "BLACK UHURU with Trinity Sound",
       "title_kept": "BLACK UHURU with Coloso and Trinity Sound",
       "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:19436719@2026-09-10T20:00",
+      "kept": "ticketmaster:Z7r9jZ1A7PsF-",
+      "start_at": "2026-09-10T20:00:00-07:00",
+      "title_dropped": "Isaiah Falls - Lvrs Paradise Side B Tour",
+      "title_kept": "Isaiah Falls w/ RAAHiiM",
+      "venue": "Hawthorne Theatre"
     },
     {
       "dropped": "willamette_week:19660520@2026-09-10T22:00",
@@ -4465,9 +4457,9 @@
       "venue": "Wonder Ballroom"
     }
   ],
-  "event_count": 5610,
-  "floor_check": "5610 events against a 5550-event baseline",
-  "generated_at": "2026-08-24T21:56:43+00:00",
+  "event_count": 5608,
+  "floor_check": "5608 events against a 5550-event baseline",
+  "generated_at": "2026-08-24T21:59:08+00:00",
   "problems": [],
   "sources": [
     "calagator",

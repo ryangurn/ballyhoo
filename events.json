@@ -17202,33 +17202,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-28T02:00:00-07:00",
-      "id": "dopdx:17623766",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/8/27/lapeche-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-08-27T20:00:00-07:00",
-      "summary": "Thursday, August 27th, 2026 8:00PM Hawthorne Lounge 21 & Over only with valid photo ID No refunds or exchanges. All sales final.",
-      "title": "Lapeche",
-      "venue": {
-        "address": "1507 SE 39th Ave",
-        "city": "Portland",
-        "name": "Hawthorne Lounge"
-      }
-    },
-    {
-      "categories": [
         "nightlife"
       ],
       "end_at": "2026-08-28T00:30:00-07:00",
@@ -23007,33 +22980,6 @@
       "venue": {
         "address": "2016 NE Sandy Portland, OR 97232",
         "name": "The Blue Diamond"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-29T02:00:00-07:00",
-      "id": "dopdx:17630647",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/8/28/prxzm-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-08-28T20:00:00-07:00",
-      "summary": "Friday, August 28th, 2026 8:00PM Hawthorne Lounge 21 & Over only with valid photo ID No refunds or exchanges. All sales final.",
-      "title": "Prxzm",
-      "venue": {
-        "address": "1507 SE 39th Ave",
-        "city": "Portland",
-        "name": "Hawthorne Lounge"
       }
     },
     {
@@ -81182,16 +81128,14 @@
       "categories": [
         "music"
       ],
-      "end_at": "2026-09-11T02:00:00-07:00",
       "id": "ticketmaster:Z7r9jZ1A7PsF-",
       "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PsF-",
       "merged_sources": [
-        "dopdx",
-        "ticketmaster"
+        "ticketmaster",
+        "willamette_week"
       ],
-      "organizer": "Mammoth NW Presents:",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -81202,7 +81146,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-09-10T20:00:00-07:00",
-      "summary": "w/ RAAHiiM, Icee Red, & Luxury Lane Thursday, September 10th, 2026 8:00PM Hawthorne Theatre All Ages | Bar w/ valid photo ID No refunds or exchanges. All sales final. Isaiah Falls Meet & Greet Package: - One general admission ticket - Early entry into the venue - Exclusive meet & greet with Isaiah Falls - Personal photograph with Isaiah Falls - Custom LVRS PARADISE dice keychain - Official meet & greet laminate and lanyard, autographed by Isaiah Falls - Priority merchandise shopping - Limited availability If you need any ADA accommodations, please reach out to gm@hawthornetheatre.com.",
+      "summary": "Mammoth NW Presents: Isaiah Falls Special Guest: Raahiim, Icee Red, Luxury Lane Thursday, September 10th, 2026 Hawthorne Theatre 503-233-7100 1507 SE 39th Ave, Portland, OR 8:00pm \\(doors open at 7:00pm\\). All Ages $24.50 ADV from Cascade Tix.",
       "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PsF-",
       "title": "Isaiah Falls w/ RAAHiiM",
       "venue": {
@@ -166783,5 +166727,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-24T21:56:43+00:00"
+  "generated_at": "2026-08-24T21:59:08+00:00"
 }
