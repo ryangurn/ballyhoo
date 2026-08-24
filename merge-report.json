@@ -1121,6 +1121,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19720848@2026-08-31T19:00",
+      "kept": "dopdx:17746621",
+      "start_at": "2026-08-31T19:00:00-07:00",
+      "title_dropped": "KELLY'S OLYMPIAN & VLVT HEART RECORDS PRESENTS OPEN MIC NIGHT! GUEST HOSTS GRETTA SEABIRD and CHARLOTTE LARS",
+      "title_kept": "KELLY’S OLYMPIAN & VLVT HEART RECORDS PRESENTS OPEN MIC NIGHT!, GUEST HOSTS GRETTA SEABIRD and CHARLOTTE LARS",
+      "venue": "Kelly's Olympian"
+    },
+    {
       "dropped": "willamette_week:19442195@2026-08-31T19:00",
       "kept": "ticketmaster:rZ7HnEZ1AfaFOf",
       "start_at": "2026-08-31T19:00:00-07:00",
@@ -4457,9 +4465,9 @@
       "venue": "Wonder Ballroom"
     }
   ],
-  "event_count": 5550,
-  "floor_check": "5550 events against a 5547-event baseline",
-  "generated_at": "2026-08-24T21:43:31+00:00",
+  "event_count": 5610,
+  "floor_check": "5610 events against a 5549-event baseline",
+  "generated_at": "2026-08-24T21:48:09+00:00",
   "problems": [],
   "sources": [
     "calagator",
