@@ -126374,6 +126374,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-09-20T21:30:00-07:00",
+      "id": "willamette_week:19721909@2026-09-20T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0cYjOjLYCkScW3H1f7-eiA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.fusetheatreensemble.com/magic-tea-party",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-20T19:30:00-07:00",
+      "summary": "In this live Dungeons & Dragons show, comedians and performers take to the stage to play some theatre games, share some jokes, and play some D&D. This season of Magic Tea Party, you will join Dungeon Master Juliet Mylan who will lead: Cosmo Reynolds as Joey, just some guy with a ukelele that frequents Portland open mics Jenna Britann as Holbrook, a 165,786,084 yr old dilophosaurus, and Riley McCarthy as Enoch \"Nucky\" Fallstar, an apostle of doomsday cult Threshold of Paradise with some unorthodox powers Audience members will take part in controlling the players' fate as they navigate an AU magical Portland in a series of side quests to gather magical artifacts for MOMSI (that's Magical OMSI for the layperson). We have a cute name but our show can include strong adult themes and language - so if you bring your 8 yr old just know they may learn something you were hoping to discuss with them after they hit puberty. We recommend ages 16+ and parental guidance for those younger. Doors open at 7:15pm! Small concessions booth with snacks, sodas, seltzers, beer, and wine available at the show. Coffee shop located in front of the theater and beverages are welcome in the theater. Tickets are GAYAF (Give As You’re Able Friend) with a suggested donation of $20 to compensate the performers and keep this independent LGBTQ theater running!",
+      "ticket_url": "https://www.fusetheatreensemble.com/magic-tea-party",
+      "title": "Magic Tea Party: A Live, Queer Dungeons & Dragons Comedy Show",
+      "venue": {
+        "address": "4319 SE Hawthorne Blvd",
+        "city": "Portland",
+        "latitude": 45.512278,
+        "longitude": -122.617832,
+        "name": "Fuse Ensemble Back Door Theater"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19264411@2026-09-20T19:30",
@@ -168551,5 +168583,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-25T07:07:57+00:00"
+  "generated_at": "2026-08-25T07:12:46+00:00"
 }
