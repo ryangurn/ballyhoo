@@ -76971,6 +76971,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-10T17:30:00-07:00",
+      "id": "dopdx:17765949",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787674217/event-17765949.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/10/resonate-virtual-bipoc-writing-circle-tickets",
+      "organizer": "Write Around Portland",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-10T16:00:00-07:00",
+      "title": "Resonate: Virtual BIPOC Writing Circle",
+      "venue": {
+        "name": "Online - Zoom"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:future-vision-commission-meeting-2026-09-10",
@@ -120239,6 +120266,35 @@
         "address": "3505 Pacific Ave",
         "city": "Forest Grove",
         "name": "McMenamins Grand Lodge"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-19T21:00:00-07:00",
+      "id": "dopdx:17765952",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/19/raise-your-pen-a-benefit-for-write-around-portland-tickets",
+      "organizer": "Write Around Portland",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 75.0,
+        "min": 75.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-19T17:30:00-07:00",
+      "title": "Raise Your Pen: A Benefit for Write Around Portland",
+      "venue": {
+        "address": "900 E Burnside Street",
+        "city": "Portland",
+        "name": "Jupiter NEXT - Hotel"
       }
     },
     {
@@ -169890,5 +169946,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-25T16:11:17+00:00"
+  "generated_at": "2026-08-25T16:14:35+00:00"
 }
