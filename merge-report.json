@@ -225,30 +225,6 @@
       "venue": "Helium Comedy Club"
     },
     {
-      "dropped": "willamette_week:19700471@2026-08-24T19:00",
-      "kept": "dopdx:17729285",
-      "start_at": "2026-08-24T19:00:00-07:00",
-      "title_dropped": "Good Old Kyle's 75th Birthday Bash",
-      "title_kept": "Good Old Kyle's 75th Birthday Bash",
-      "venue": "Artichoke Music"
-    },
-    {
-      "dropped": "willamette_week:19428235@2026-08-24T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfaFO7",
-      "start_at": "2026-08-24T19:00:00-07:00",
-      "title_dropped": "Square Dancing with Wild Geese String Band",
-      "title_kept": "Square Dancing with Caller Tighe Hauze and the Wild Geese String Band",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:17586570@2026-08-24T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPwuf",
-      "start_at": "2026-08-24T21:00:00-07:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:17962657@2026-08-25T18:35",
       "kept": "ticketmaster:Z7r9jZ1A7Qv_p",
       "start_at": "2026-08-25T18:35:00-07:00",
@@ -4455,11 +4431,35 @@
       "title_dropped": "Arlo Parks",
       "title_kept": "Arlo Parks",
       "venue": "Wonder Ballroom"
+    },
+    {
+      "dropped": "willamette_week:18893395@2026-09-24T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af0vaK",
+      "start_at": "2026-09-24T19:00:00-07:00",
+      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19449638@2026-09-24T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af0kaS",
+      "start_at": "2026-09-24T19:00:00-07:00",
+      "title_dropped": "REVOCATION '20 Years Of Torment' Tour",
+      "title_kept": "REVOCATION '20 Years Of Torment' Tour with Defeated Sanity, Fuming Mouth, & Weeping",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19450283@2026-09-24T19:00",
+      "kept": "ticketmaster:vvG1HZ_udW6VTx",
+      "start_at": "2026-09-24T19:00:00-07:00",
+      "title_dropped": "THE B-52s * DEVO: COSMIC DE-EVOLUTION TOUR",
+      "title_kept": "THE B-52s * DEVO:  COSMIC DE-EVOLUTION TOUR",
+      "venue": "Cascades Amphitheater"
     }
   ],
-  "event_count": 5608,
-  "floor_check": "5608 events against a 5608-event baseline",
-  "generated_at": "2026-08-25T01:51:38+00:00",
+  "event_count": 5651,
+  "floor_check": "5651 events against a 5608-event baseline",
+  "generated_at": "2026-08-25T01:56:34+00:00",
   "problems": [],
   "sources": [
     "calagator",
