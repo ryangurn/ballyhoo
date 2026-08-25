@@ -889,6 +889,14 @@
       "venue": "Wonder Ballroom"
     },
     {
+      "dropped": "dopdx:17501944",
+      "kept": "ticketmaster:Z7r9jZ1A7JfPs",
+      "start_at": "2026-08-29T20:30:00-07:00",
+      "title_dropped": "Kawaii Rave",
+      "title_kept": "Kawaii Rave - 21+",
+      "venue": "Hawthorne Theatre"
+    },
+    {
       "dropped": "willamette_week:19002755@2026-08-29T21:30",
       "kept": "dopdx:17749527",
       "start_at": "2026-08-29T21:30:00-07:00",
@@ -4594,8 +4602,8 @@
     }
   ],
   "event_count": 5736,
-  "floor_check": "5736 events against a 5725-event baseline",
-  "generated_at": "2026-08-25T20:40:14+00:00",
+  "floor_check": "5736 events against a 5727-event baseline",
+  "generated_at": "2026-08-25T20:45:54+00:00",
   "problems": [],
   "sources": [
     "calagator",
