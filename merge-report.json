@@ -4537,6 +4537,14 @@
       "venue": "Helium Comedy Club - Portland"
     },
     {
+      "dropped": "willamette_week:17586570@2026-09-21T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPwAf",
+      "start_at": "2026-09-21T21:00:00-07:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:18893395@2026-09-24T19:00",
       "kept": "ticketmaster:rZ7HnEZ1Af0vaK",
       "start_at": "2026-09-24T19:00:00-07:00",
@@ -4561,9 +4569,9 @@
       "venue": "Cascades Amphitheater"
     }
   ],
-  "event_count": 5668,
-  "floor_check": "5668 events against a 5651-event baseline",
-  "generated_at": "2026-08-25T04:50:47+00:00",
+  "event_count": 5667,
+  "floor_check": "5667 events against a 5651-event baseline",
+  "generated_at": "2026-08-25T04:52:42+00:00",
   "problems": [],
   "sources": [
     "calagator",
