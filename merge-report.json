@@ -4281,14 +4281,6 @@
       "venue": "Arlene Schnitzer Concert Hall"
     },
     {
-      "dropped": "willamette_week:18931563@2026-09-22T19:30",
-      "kept": "dopdx:17346448",
-      "start_at": "2026-09-22T19:00:00-07:00",
-      "title_dropped": "Special Event: Chris Klemens: Chris vs The People",
-      "title_kept": "Chris Klemens: Chris vs The People",
-      "venue": "Helium Comedy Club"
-    },
-    {
       "dropped": "dopdx:17431937",
       "kept": "ticketmaster:vvG1HZ_6KNdHRz",
       "start_at": "2026-09-22T19:00:00-07:00",
@@ -4311,6 +4303,14 @@
       "title_dropped": "Open Jam and Games",
       "title_kept": "Open Jam & Games",
       "venue": "Barrel Room Portland"
+    },
+    {
+      "dropped": "willamette_week:18931563@2026-09-22T19:30",
+      "kept": "dopdx:17346448",
+      "start_at": "2026-09-22T19:00:00-07:00",
+      "title_dropped": "Special Event: Chris Klemens: Chris vs The People",
+      "title_kept": "Chris Klemens: Chris vs The People",
+      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "willamette_week:18974207@2026-09-22T19:30",
@@ -4577,9 +4577,9 @@
       "venue": "Cascades Amphitheater"
     }
   ],
-  "event_count": 5717,
-  "floor_check": "5717 events against a 5702-event baseline",
-  "generated_at": "2026-08-25T17:09:01+00:00",
+  "event_count": 5720,
+  "floor_check": "5720 events against a 5702-event baseline",
+  "generated_at": "2026-08-25T17:12:11+00:00",
   "problems": [],
   "sources": [
     "calagator",
