@@ -18718,6 +18718,38 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-08-29T12:30:00-07:00",
+      "id": "willamette_week:19721907@2026-08-29T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/m-s0e07WaEC7G4Rv6lxoCA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://portlandmemorygarden.com/event/container-gardening-osu-master-gardener-workshop/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-29T11:00:00-07:00",
+      "summary": "Friends of Portland Memory in collaboration with Oregon State University Extension Master Gardener™ Program are excited to invite you to our August workshop on container gardening! Led by instructor Jenny Hunt Learn how to make your own container garden! We'll teach you which plants to grow together, how to care for different plant groupings, and how to make these micro-ecosystems thrive! Free for all! Registration required. Contact tara@friendspmg.org to learn more. Accommodation requests related to a disability should be made by 8/22/2026 to Kim Butchereit at Kim.Butchereit@oregonstate.edu, (503) 872-6649. Oregon State University (OSU) Extension Service prohibits discrimination in all its programs, services, activities, and materials",
+      "ticket_url": "https://www.eventbrite.com/e/container-gardening-osu-master-gardenertm-workshop-tickets-1996049780626?aff=oddtdtcreator",
+      "title": "Container Gardening | OSU Master Gardener™ Workshop",
+      "venue": {
+        "address": "10401 SE Bush St.",
+        "city": "Portland",
+        "latitude": 45.49505,
+        "longitude": -122.55584,
+        "name": "Portland Memory Garden"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-29T19:00:00-07:00",
@@ -106974,7 +107006,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-25T08:00:56+00:00",
+  "generated_at": "2026-08-25T09:02:42+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
