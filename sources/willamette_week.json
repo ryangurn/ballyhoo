@@ -84156,6 +84156,38 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-17T20:45:00-07:00",
+      "id": "willamette_week:19721963@2026-09-17T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9zyZq5HWV0Cu4VEp60HMmA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://concertsinamerica.com/sept/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 109.0,
+        "min": 39.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-17T19:30:00-07:00",
+      "summary": "The paths of Antoine Boyer and Yeore Kim converged in 2018 at the Gypsy Jazz Festival of Taipei. Recognizing an instant musical connection, they formed a duo that blends virtuosity, sensitivity, and spontaneous improvisation. Antoine Boyer draws from the authentic roots of gypsy jazz, having studied under masters like Mandino Reinhardt. A classically trained virtuoso, he was named \"Révélation Guitare Classique 2016\" by the esteemed French magazine Guitare Classique. Yeore Kim is a multi-instrumentalist and harmonica virtuoso from the Korean jazz scene. Holding a master's degree from Seoul Music University, she has achieved victories at the World Harmonica Festival and toured extensively across Asia and Europe. Together, their chemistry knows no bounds. From the strum of the guitar to the soul-stirring wail of the harmonica, they transport listeners to a realm where every note tells a story.",
+      "ticket_url": "https://concertsinamerica.com/sept/",
+      "title": "Antoine Boyer & Yeore Kim: Parisian Skies, Spanish Hearts",
+      "venue": {
+        "address": "1126 SW PARK AVE",
+        "city": "Portland",
+        "latitude": 45.516423,
+        "longitude": -122.682051,
+        "name": "Sanctuary Hall, First Congregational United Church of Christ, Portland"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-17T22:00:00-07:00",
@@ -107006,7 +107038,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-25T10:52:15+00:00",
+  "generated_at": "2026-08-25T11:46:35+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
