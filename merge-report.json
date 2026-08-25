@@ -225,6 +225,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:19725143@2026-09-24T12:00",
+      "kept": "calagator:1250482683",
+      "start_at": "2026-09-24T12:00:00-07:00",
+      "title_dropped": "Radical Mycology Convergence",
+      "title_kept": "Radical Mycology Convergence",
+      "venue": "Brown Bottle Farm"
+    },
+    {
       "dropped": "willamette_week:17962657@2026-08-25T18:35",
       "kept": "ticketmaster:Z7r9jZ1A7Qv_p",
       "start_at": "2026-08-25T18:35:00-07:00",
@@ -4577,9 +4585,9 @@
       "venue": "Cascades Amphitheater"
     }
   ],
-  "event_count": 5726,
-  "floor_check": "5726 events against a 5716-event baseline",
-  "generated_at": "2026-08-25T18:59:19+00:00",
+  "event_count": 5729,
+  "floor_check": "5729 events against a 5717-event baseline",
+  "generated_at": "2026-08-25T19:04:12+00:00",
   "problems": [],
   "sources": [
     "calagator",
