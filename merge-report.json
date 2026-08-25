@@ -1729,6 +1729,14 @@
       "venue": "Can Can's Paris Theatre"
     },
     {
+      "dropped": "willamette_week:19725579@2026-09-04T22:00",
+      "kept": "dopdx:17310384",
+      "start_at": "2026-09-04T22:00:00-07:00",
+      "title_dropped": "Leave Your Troubles at The Door (stand-up comedy)",
+      "title_kept": "Leave Your Troubles at the Door",
+      "venue": "Funhouse Lounge"
+    },
+    {
       "dropped": "willamette_week:18053893@2026-09-04T23:55",
       "kept": "dopdx:17310385",
       "start_at": "2026-09-04T23:55:00-07:00",
@@ -4587,7 +4595,7 @@
   ],
   "event_count": 5733,
   "floor_check": "5733 events against a 5722-event baseline",
-  "generated_at": "2026-08-25T19:44:52+00:00",
+  "generated_at": "2026-08-25T19:49:17+00:00",
   "problems": [],
   "sources": [
     "calagator",

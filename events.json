@@ -56163,9 +56163,15 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1778090545/event-17310384.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/9/4/leave-your-troubles-at-the-door-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 15.0,
+        "min": 12.0
       },
       "source": {
         "id": "dopdx",
@@ -56173,6 +56179,8 @@
         "url": "https://dopdx.com"
       },
       "start_at": "2026-09-04T22:00:00-07:00",
+      "summary": "Leave Your Troubles at The Door is a completely improvised stand-up comedy showcase where the audience's anonymously submitted problems help create the topics of jokes that comedians riff on stage. Audience members write their problems / troubles down on pieces of paper, put them in a box before the show and then many of the best comedians from the Pacific Northwest and beyond take on those issues using their on-the-spot jokes. You can STAY anonymous, too. It's a rare comedy show where instead of the comedians joking about their problems, they joke about yours! You're more than likely to walk away from the show feeling at least slightly better about your problems. Just leave 'em at the door. This month features DAN WEBER & NARIKO OTT (What's More Metal, Helium Comedy Club), Brendan Creecy, Delaney Malone and Taye Courtney. Hosted by Chris Hudson. Doors at 10 PM, show at 10:30 PM. Visit @leaveyourtroubles on Instagram for more info!",
+      "ticket_url": "https://tickettailor.com/events/livecomedy/2379499",
       "title": "Leave Your Troubles at the Door",
       "venue": {
         "address": "2432 SE 11th Ave, Portland, Oregon 97214",
@@ -170441,5 +170449,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-25T19:44:52+00:00"
+  "generated_at": "2026-08-25T19:49:17+00:00"
 }
