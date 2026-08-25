@@ -7676,6 +7676,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1A4vFOS",
+      "image_url": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/samuel-aaron-with-ac-sapphire-showdown-saloon-tickets/15048833",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.01,
+        "min": 20.01
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-27T20:00:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/samuel-aaron-with-ac-sapphire-showdown-saloon-tickets/15048833",
+      "title": "Samuel Aaron with AC Sapphire",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A709uK",
       "image_url": "https://s1.ticketm.net/dam/a/5ab/bbaa2013-0dcf-4895-8072-678806e435ab_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -24205,7 +24236,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-25T15:58:25+00:00",
+  "generated_at": "2026-08-25T16:52:54+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
