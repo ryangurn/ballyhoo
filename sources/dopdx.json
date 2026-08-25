@@ -8241,6 +8241,35 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-08-31T21:00:00-07:00",
+      "id": "dopdx:17764518",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/31/trivia-with-sam-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-31T19:00:00-07:00",
+      "summary": "Come have fun with Trivia with Sam!With four categories and a Final Jeopardy question, there's plenty of fun to go around!Beginning in 2019 at Mayfly, Sam is a one-man show. From the questions to advertising to everything in between, he's been around the block for a while. After stepping away in 2021 and coming back in February 2024, Sam has grown to various locations all around PDX! He also does private and corporate events as well!Follow Sam on Instagram at TriviaSamPDX for all updates.",
+      "title": "Trivia with Sam",
+      "venue": {
+        "address": "1229 N Killingsworth St",
+        "city": "Portland",
+        "name": "Up North Surf Club"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-01T02:00:00-07:00",
@@ -32030,7 +32059,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-25T02:05:50+00:00",
+  "generated_at": "2026-08-25T03:27:57+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
