@@ -1204,6 +1204,29 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:salmon-days-2026-10-09",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/salmon-days-2026-10-09",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-09T10:00:00-07:00",
+      "title": "Salmon Days",
+      "venue": {
+        "city": "Portland",
+        "name": "Chinook Landing Marine Park"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "oregon_metro:household-hazardous-waste-neighborhood-collection-event-2026-10-10",
@@ -1225,6 +1248,29 @@
         "latitude": 45.54845,
         "longitude": -122.88789,
         "name": "Epson"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:salmon-days-2026-10-10",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/salmon-days-2026-10-10",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-10T10:00:00-07:00",
+      "title": "Salmon Days",
+      "venue": {
+        "city": "Portland",
+        "name": "Chinook Landing Marine Park"
       }
     },
     {
@@ -1508,6 +1554,31 @@
       "venue": {
         "city": "Portland",
         "name": "Chehalem Ridge Nature Park"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:salmon-days-2026-10-16",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/salmon-days-2026-10-16",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-16T10:00:00-07:00",
+      "title": "Salmon Days",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.55596,
+        "longitude": -122.45242,
+        "name": "Blue Lake Regional Park"
       }
     },
     {
@@ -3366,7 +3437,7 @@
       "title": "Committee on Racial Equity meeting"
     }
   ],
-  "generated_at": "2026-08-25T15:10:11+00:00",
+  "generated_at": "2026-08-25T16:04:50+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
