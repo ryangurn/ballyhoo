@@ -36328,6 +36328,39 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-08-31T21:00:00-07:00",
+      "id": "dopdx:17764518",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/31/trivia-with-sam-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-31T19:00:00-07:00",
+      "summary": "Come have fun with Trivia with Sam!With four categories and a Final Jeopardy question, there's plenty of fun to go around!Beginning in 2019 at Mayfly, Sam is a one-man show. From the questions to advertising to everything in between, he's been around the block for a while. After stepping away in 2021 and coming back in February 2024, Sam has grown to various locations all around PDX! He also does private and corporate events as well!Follow Sam on Instagram at TriviaSamPDX for all updates.",
+      "title": "Trivia with Sam",
+      "venue": {
+        "address": "1229 N Killingsworth St",
+        "city": "Portland",
+        "name": "Up North Surf Club"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:rZ7HnEZ1AfaFOf",
@@ -36359,36 +36392,6 @@
         "latitude": 45.50122605,
         "longitude": -122.65284748,
         "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-08-31T21:00:00-07:00",
-      "id": "willamette_week:19721849@2026-08-31T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Jb87mvEUBkKeYDibLZVSBA.large.jpg",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-08-31T19:00:00-07:00",
-      "summary": "Come have fun with Trivia with Sam! With four categories and a Final Jeopardy question, there's plenty of fun to go around! Beginning in 2019 at Mayfly, Sam is a one-man show. From the questions to advertising to everything in between, he's been around the block for a while. After stepping away in 2021 and coming back in February 2024, Sam has grown to various locations all around PDX! He also does private and corporate events as well! Follow Sam on Instagram at TriviaSamPDX for all updates",
-      "title": "Trivia with Sam",
-      "venue": {
-        "address": "1229 N Killingsworth Ave",
-        "city": "Portland",
-        "latitude": 45.562808,
-        "longitude": -122.67991,
-        "name": "Up North Surf Club"
       }
     },
     {
@@ -168418,5 +168421,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-25T03:27:52+00:00"
+  "generated_at": "2026-08-25T03:30:07+00:00"
 }
