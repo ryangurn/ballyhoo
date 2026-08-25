@@ -21358,6 +21358,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-29T02:00:00-07:00",
+      "id": "dopdx:17762772",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787577728/event-17762772.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/28/swan-island-shouiyo-juxtaposer-king-e-d-o-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-28T21:00:00-07:00",
+      "title": "Swan Island, Shouiyo, Juxtaposer, King E.D.O.",
+      "venue": {
+        "address": "426 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5199352,
+        "longitude": -122.6765458,
+        "name": "Kelly's Olympian"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-08-29T02:00:00-07:00",
@@ -21410,36 +21440,6 @@
         "address": "116 SE Yamhill St. Portland, OR 97217",
         "city": "Portland",
         "name": "The Den"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-29T02:00:00-07:00",
-      "id": "dopdx:17762772",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787577728/event-17762772.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/8/28/swan-island-shouiyo-juxtaposer-king-e-d-o-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 15.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-08-28T21:00:00-07:00",
-      "title": "Swan Island, Shouiyo, Juxtaposer, King E.D.O.",
-      "venue": {
-        "address": "426 SW Washington St",
-        "city": "Portland",
-        "latitude": 45.5199352,
-        "longitude": -122.6765458,
-        "name": "Kelly's Olympian"
       }
     },
     {
@@ -70460,6 +70460,40 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-09-08T21:30:00-07:00",
+      "id": "dopdx:17764821",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787636193/event-17764821.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/8/the-bechdel-set-an-inclusive-feminist-comedy-show-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "organizer": "Fluid Comedy Presents:",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-08T20:00:00-07:00",
+      "summary": "Can comics perform material that pass the rules of the famous Bechdel Test? You be the judge! Cited in the Portland Mercury as \"one of those delightfully 'queer-adjacent' shows that's both hilarious and unapologetically feminist\": The Bechdel Set returns to its monthly 2nd Tuesday slot at Haymaker with a line-up of some of Portland’s funniest and hottest comedians! Featuring the talents of: - Daisy Clare - Mystic Hightower - Zora - and headlining Virginia Jones (First Runner Up- 2025 Portland’s Funniest Person. SF Sketchfest, SFICC, Portlandia) Hosted by Jenna Britann and Quinne Salameh this event is open to ALL, and this show is INCLUSIVELY feminist - if ya ain’t a TERF or a jerk, you’re welcome here! Online RSVPs and door sales are slid",
+      "title": "The Bechdel Set: An Inclusive, Feminist Comedy Show",
+      "venue": {
+        "address": "1233 N Killingsworth St",
+        "city": "Portland",
+        "name": "Haymaker"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:Z7r9jZ1AAZgQ8",
@@ -70484,37 +70518,6 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "Roseland Theater"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-09-08T00:00:00-07:00",
-      "id": "willamette_week:19685972@2026-09-08T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PunJRF9oO0e29Digs746gA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/the-bechdel-set-an-inclusive-feminist-comedy-show-tickets-1998116499237",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 12.51,
-        "min": 7.18
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-08T20:00:00-07:00",
-      "summary": "Can comics perform material that passes the rules of the famous Bechdel Test? You be the judge!",
-      "title": "THE BECHDEL SET - An Inclusive, Feminist Comedy Show",
-      "venue": {
-        "address": "1233 North Killingsworth Street",
-        "city": "Portland",
-        "latitude": 45.562849,
-        "longitude": -122.679986,
-        "name": "Haymaker"
       }
     },
     {
@@ -168548,5 +168551,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-25T06:00:48+00:00"
+  "generated_at": "2026-08-25T06:02:48+00:00"
 }
