@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T02:09:19+00:00",
+  "generated_at": "2026-08-25T02:10:48+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -24,7 +24,7 @@
     },
     {
       "event_count": 49,
-      "last_run_at": "2026-08-25T00:00:25+00:00",
+      "last_run_at": "2026-08-25T02:09:05+00:00",
       "source_id": "obt",
       "status": "ok",
       "url": "sources/obt.json"
@@ -38,9 +38,9 @@
     },
     {
       "event_count": 338,
-      "last_run_at": "2026-08-24T19:19:04+00:00",
+      "last_run_at": "2026-08-25T02:09:51+00:00",
       "source_id": "pdxparent_markets",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/pdxparent_markets.json"
     },
     {
