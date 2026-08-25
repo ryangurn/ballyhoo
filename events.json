@@ -145870,6 +145870,29 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:salmon-days-2026-10-09",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/salmon-days-2026-10-09",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-09T10:00:00-07:00",
+      "title": "Salmon Days",
+      "venue": {
+        "city": "Portland",
+        "name": "Chinook Landing Marine Park"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -146482,6 +146505,29 @@
         "latitude": 45.53635,
         "longitude": -122.61756,
         "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:salmon-days-2026-10-10",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/salmon-days-2026-10-10",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-10T10:00:00-07:00",
+      "title": "Salmon Days",
+      "venue": {
+        "city": "Portland",
+        "name": "Chinook Landing Marine Park"
       }
     },
     {
@@ -148416,6 +148462,31 @@
       "venue": {
         "city": "Portland",
         "name": "Chehalem Ridge Nature Park"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:salmon-days-2026-10-16",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/salmon-days-2026-10-16",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-16T10:00:00-07:00",
+      "title": "Salmon Days",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.55596,
+        "longitude": -122.45242,
+        "name": "Blue Lake Regional Park"
       }
     },
     {
@@ -169819,5 +169890,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-25T16:04:47+00:00"
+  "generated_at": "2026-08-25T16:06:20+00:00"
 }
