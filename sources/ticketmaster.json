@@ -13642,6 +13642,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1Af1afV",
+      "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/a-split-second-star-theater-tickets/14289534",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.21,
+        "min": 25.21
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-25T19:00:00-07:00",
+      "summary": "A SPLIT - SECOND [ BE ]WAX TRAX! Support TBA6.30pm Door : 7pm Show$18 adv : $25 dos21+",
+      "ticket_url": "https://www.ticketweb.com/event/a-split-second-star-theater-tickets/14289534",
+      "title": "A SPLIT - SECOND with Wax Trax",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:vvG1HZ_FDLdrxf",
       "image_url": "https://s1.ticketm.net/dam/e/147/7e04b8a0-4191-4df9-96b5-0b096cde9147_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -20710,6 +20741,36 @@
       "categories": [
         "sports"
       ],
+      "id": "ticketmaster:vvG1HZ_8KaqX-K",
+      "image_url": "https://s1.ticketm.net/dam/a/3ef/36817648-fe4d-4645-a3b4-6330bc72e3ef_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/ram-pbr-portland-portland-oregon-01-22-2027/event/0F006504C977E853",
+      "organizer": "PROMOTED BY VENUE",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-01-22T20:00:00-08:00",
+      "summary": "Bags and full-length umbrellas are not allowed in the arena. Exclusions apply for medical bags, children's bags and clutches 5X8\" or smaller. Bag check is available.",
+      "ticket_url": "https://www.ticketmaster.com/ram-pbr-portland-portland-oregon-01-22-2027/event/0F006504C977E853",
+      "title": "Ram PBR Portland",
+      "venue": {
+        "address": "One Center Court, Suite 100",
+        "city": "Portland",
+        "latitude": 45.53118896,
+        "longitude": -122.66645813,
+        "name": "Moda Center"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
       "id": "ticketmaster:vvG1HZ_2mbN96v",
       "image_url": "https://s1.ticketm.net/dam/a/81b/474adaa2-4ca6-466a-9b89-ea1680cc881b_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -20734,6 +20795,36 @@
         "latitude": 45.533299,
         "longitude": -122.667442,
         "name": "Veterans Memorial Coliseum"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "ticketmaster:vvG1HZ_8KaLr-t",
+      "image_url": "https://s1.ticketm.net/dam/a/3ef/36817648-fe4d-4645-a3b4-6330bc72e3ef_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/ram-pbr-portland-portland-oregon-01-23-2027/event/0F006504C97DE869",
+      "organizer": "PROMOTED BY VENUE",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-01-23T19:00:00-08:00",
+      "summary": "Bags and full-length umbrellas are not allowed in the arena. Exclusions apply for medical bags, children's bags and clutches 5X8\" or smaller. Bag check is available.",
+      "ticket_url": "https://www.ticketmaster.com/ram-pbr-portland-portland-oregon-01-23-2027/event/0F006504C97DE869",
+      "title": "Ram PBR Portland",
+      "venue": {
+        "address": "One Center Court, Suite 100",
+        "city": "Portland",
+        "latitude": 45.53118896,
+        "longitude": -122.66645813,
+        "name": "Moda Center"
       }
     },
     {
@@ -24450,7 +24541,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-26T19:17:05+00:00",
+  "generated_at": "2026-08-26T23:29:55+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
