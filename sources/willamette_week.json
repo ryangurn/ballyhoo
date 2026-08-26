@@ -53408,6 +53408,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19729584@2026-09-09T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dl576vIsAkaVf53xIlZ_ZA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.tixr.com/e/202367",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-09T19:00:00-07:00",
+      "summary": "Four nationally touring comedians each deliver sharp 20-minute sets. Featuring credits from Netflix, Tubi, Laugh After Dark, Willamette Week Top 5, and a Grammy-considered special. Hosted by: Jamal Coleman & Zoe Schwartz",
+      "ticket_url": "https://www.tixr.com/e/202367",
+      "title": "The 4 x 20s Comedy Show Hosted by: Jamal Coleman and Zoe Schwartz",
+      "venue": {
+        "address": "680 SE 6th Ave, Portland, OR 97214",
+        "city": "Portland",
+        "latitude": 45.518101,
+        "longitude": -122.659527,
+        "name": "The Get Down"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-09T21:00:00-07:00",
@@ -100104,6 +100135,37 @@
       "categories": [
         "literary"
       ],
+      "end_at": "2026-09-23T20:00:00-07:00",
+      "id": "willamette_week:19730053@2026-09-23T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4iFPCsIHbkO1gZaLU-nTkA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://libraryfoundationhillsboro.org/media_literacy/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-23T18:30:00-07:00",
+      "summary": "Laura Gunderson, editor of The Oregonian/OregonLive, will provide an inside look at modern journalism, discussing how reporters gather facts, verify sources, and build public trust through responsible reporting.",
+      "title": "Journalist Ethics & Practices: Laura Gunderson, Editor of The Oregonian",
+      "venue": {
+        "address": "2850 NE Brookwood Parkway",
+        "city": "Hillsboro",
+        "latitude": 45.542849,
+        "longitude": -122.936138,
+        "name": "Brookwood Library, Hillsboro"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
       "id": "willamette_week:19495545@2026-09-23T18:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UJF2KfKQ8E2JoH1AVkTNhQ.large.png",
       "is_all_day": false,
@@ -107567,7 +107629,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-26T17:52:46+00:00",
+  "generated_at": "2026-08-26T19:22:12+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
