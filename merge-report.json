@@ -41,6 +41,22 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:18518540@2026-08-27T18:00",
+      "kept": "dopdx:17188664",
+      "start_at": "2026-08-27T18:00:00-07:00",
+      "title_dropped": "Shook Twins + The National Parks",
+      "title_kept": "Shook Twins + The National Parks",
+      "venue": "Topaz Farm"
+    },
+    {
+      "dropped": "willamette_week:17962659@2026-08-27T18:35",
+      "kept": "ticketmaster:Z7r9jZ1A7Qvby",
+      "start_at": "2026-08-27T18:35:00-07:00",
+      "title_dropped": "Tri-City Dust Devils at Hillsboro Hops",
+      "title_kept": "Hillsboro Hops vs. Tri-City Dust Devils",
+      "venue": "Hillsboro Ballpark"
+    },
+    {
       "dropped": "willamette_week:19719781@2026-08-28T21:00",
       "kept": "dopdx:17725539",
       "start_at": "2026-08-28T21:00:00-07:00",
@@ -335,22 +351,6 @@
       "title_dropped": "2026 Advocacy Golf Scramble",
       "title_kept": "2026 Advocacy Golf Scramble",
       "venue": "Glendoveer Golf Course"
-    },
-    {
-      "dropped": "willamette_week:18518540@2026-08-27T18:00",
-      "kept": "dopdx:17188664",
-      "start_at": "2026-08-27T18:00:00-07:00",
-      "title_dropped": "Shook Twins + The National Parks",
-      "title_kept": "Shook Twins + The National Parks",
-      "venue": "Topaz Farm"
-    },
-    {
-      "dropped": "willamette_week:17962659@2026-08-27T18:35",
-      "kept": "ticketmaster:Z7r9jZ1A7Qvby",
-      "start_at": "2026-08-27T18:35:00-07:00",
-      "title_dropped": "Tri-City Dust Devils at Hillsboro Hops",
-      "title_kept": "Hillsboro Hops vs. Tri-City Dust Devils",
-      "venue": "Hillsboro Ballpark"
     },
     {
       "dropped": "willamette_week:18418305@2026-08-27T19:00",
@@ -4745,9 +4745,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 5735,
-  "floor_check": "5735 events against a 5735-event baseline",
-  "generated_at": "2026-08-26T14:28:31+00:00",
+  "event_count": 5736,
+  "floor_check": "5736 events against a 5735-event baseline",
+  "generated_at": "2026-08-26T14:57:15+00:00",
   "problems": [],
   "sources": [
     "calagator",
