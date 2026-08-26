@@ -2561,6 +2561,14 @@
       "venue": "Brujos Brewing"
     },
     {
+      "dropped": "willamette_week:19729584@2026-09-09T19:00",
+      "kept": "dopdx:17752897",
+      "start_at": "2026-09-09T19:30:00-07:00",
+      "title_dropped": "The 4 x 20s Comedy Show Hosted by: Jamal Coleman and Zoe Schwartz",
+      "title_kept": "The 4 x 20s Comedy Show (seated show)",
+      "venue": "The Get Down"
+    },
+    {
       "dropped": "dopdx:16657669",
       "kept": "ticketmaster:Z7r9jZ1A7roZ-",
       "start_at": "2026-09-09T19:30:00-07:00",
@@ -5313,9 +5321,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 5842,
-  "floor_check": "5842 events against a 5735-event baseline",
-  "generated_at": "2026-08-26T19:17:54+00:00",
+  "event_count": 5843,
+  "floor_check": "5843 events against a 5736-event baseline",
+  "generated_at": "2026-08-26T19:23:57+00:00",
   "problems": [],
   "sources": [
     "calagator",
