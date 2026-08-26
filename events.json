@@ -43951,6 +43951,37 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-09-03T20:00:00-07:00",
+      "id": "willamette_week:19644073@2026-09-03T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.osaa.org/schools/209",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-03T18:00:00-07:00",
+      "summary": "Banks High School girls soccer hosts Catlin Gabel at Banks High School. OSAA home contest in Banks.",
+      "title": "BHS Girls Soccer: vs Catlin Gabel",
+      "venue": {
+        "address": "13050 NW Main Street",
+        "city": "Banks",
+        "latitude": 45.615034,
+        "longitude": -123.111331,
+        "name": "Banks High School"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "end_at": "2026-09-03T21:00:00-07:00",
@@ -44161,37 +44192,6 @@
         "latitude": 45.525287,
         "longitude": -122.684723,
         "name": "Venue 13"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-09-03T20:00:00-07:00",
-      "id": "willamette_week:19644073@2026-09-03T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.osaa.org/schools/209",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-03T18:00:00-07:00",
-      "summary": "Banks High School girls soccer hosts Catlin Gabel at Banks High School. OSAA home contest in Banks.",
-      "title": "BHS Girls Soccer: vs Catlin Gabel",
-      "venue": {
-        "address": "13050 NW Main Street",
-        "city": "Banks",
-        "latitude": 45.615034,
-        "longitude": -123.111331,
-        "name": "Banks High School"
       }
     },
     {
@@ -170621,5 +170621,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-26T14:57:15+00:00"
+  "generated_at": "2026-08-26T16:03:08+00:00"
 }
