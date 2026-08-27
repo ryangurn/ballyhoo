@@ -3865,20 +3865,20 @@
       "venue": "Andersen Construction Co"
     },
     {
-      "dropped": "willamette_week:19691379@2026-09-18T18:00",
-      "kept": "dopdx:17575384",
-      "start_at": "2026-09-18T18:00:00-07:00",
-      "title_dropped": "AF & the Riveters - TGIF",
-      "title_kept": "Ashleigh Flynn & the Riveters - FRIDAY HH",
-      "venue": "Laurelthirst Public House"
-    },
-    {
       "dropped": "willamette_week:19669245@2026-09-18T18:00",
       "kept": "dopdx:17768604",
       "start_at": "2026-09-18T18:00:00-07:00",
       "title_dropped": "Nikita Gill",
       "title_kept": "Nikita Gill in Conversation With Jesse Carsten",
       "venue": "Powell's City of Books"
+    },
+    {
+      "dropped": "willamette_week:19691379@2026-09-18T18:00",
+      "kept": "dopdx:17575384",
+      "start_at": "2026-09-18T18:00:00-07:00",
+      "title_dropped": "AF & the Riveters - TGIF",
+      "title_kept": "Ashleigh Flynn & the Riveters - FRIDAY HH",
+      "venue": "Laurelthirst Public House"
     },
     {
       "dropped": "willamette_week:19108245@2026-09-18T18:00",
@@ -5465,9 +5465,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 5933,
-  "floor_check": "5933 events against a 5844-event baseline",
-  "generated_at": "2026-08-27T11:58:26+00:00",
+  "event_count": 5934,
+  "floor_check": "5934 events against a 5845-event baseline",
+  "generated_at": "2026-08-27T12:00:20+00:00",
   "problems": [],
   "sources": [
     "calagator",
