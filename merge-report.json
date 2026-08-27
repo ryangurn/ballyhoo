@@ -1009,6 +1009,14 @@
       "venue": "Hawthorne Theatre"
     },
     {
+      "dropped": "willamette_week:19399535@2026-08-29T20:00",
+      "kept": "dopdx:17775131",
+      "start_at": "2026-08-29T20:30:00-07:00",
+      "title_dropped": "Melody Zenith, Violet Vickie, Glori at The Coffin Club",
+      "title_kept": "Violent Vickie, Melody Zenith, Glori",
+      "venue": "The Coffin Club"
+    },
+    {
       "dropped": "willamette_week:19108239@2026-08-29T21:00",
       "kept": "dopdx:17768601",
       "start_at": "2026-08-29T21:00:00-07:00",
@@ -1047,6 +1055,14 @@
       "title_dropped": "BURLY-Q REVUE",
       "title_kept": "BURLY-Q REVUE",
       "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:18893389@2026-08-29T23:30",
+      "kept": "ticketmaster:rZ7HnEZ1Afv3x7",
+      "start_at": "2026-08-29T23:30:00-07:00",
+      "title_dropped": "SMASH disco~glam~metal~punk-hiphop",
+      "title_kept": "SMASH disco~glam~metal~punk-hiphop",
+      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19669045@2026-08-30T09:00",
@@ -1724,7 +1740,7 @@
       "dropped": "dopdx:17582318",
       "kept": "ticketmaster:rZ7HnEZ1AfFzFf",
       "start_at": "2026-09-03T21:00:00-07:00",
-      "title_dropped": "Black Lips with Escape-Ism",
+      "title_dropped": "Black Lips with Escape-Ism & Sleeping Beauties",
       "title_kept": "BLACK LIPS with Escape-ism & Sleeping Beauties",
       "venue": "Dante's"
     },
@@ -1733,7 +1749,7 @@
       "kept": "dopdx:17582318",
       "start_at": "2026-09-03T21:00:00-07:00",
       "title_dropped": "BLACK LIPS with Escape-ism & Sleeping Beauties",
-      "title_kept": "Black Lips with Escape-Ism",
+      "title_kept": "Black Lips with Escape-Ism & Sleeping Beauties",
       "venue": "Dante's"
     },
     {
@@ -5369,11 +5385,19 @@
       "venue": "Kelly's Olympian"
     },
     {
-      "dropped": "willamette_week:19736187@2026-09-25T20:00",
+      "dropped": "dopdx:17774544",
       "kept": "ticketmaster:rZ7HnEZ1Af1ko7",
       "start_at": "2026-09-25T20:00:00-07:00",
-      "title_dropped": "TY CURTIS",
+      "title_dropped": "Ty Curtis",
       "title_kept": "TY CURTIS",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19736187@2026-09-25T20:00",
+      "kept": "dopdx:17774544",
+      "start_at": "2026-09-25T20:00:00-07:00",
+      "title_dropped": "TY CURTIS",
+      "title_kept": "Ty Curtis",
       "venue": "Jack London Revue"
     },
     {
@@ -5495,14 +5519,6 @@
       "title_dropped": "Dunn Otter",
       "title_kept": "Dunn Otter",
       "venue": "Kenton Farmers Market"
-    },
-    {
-      "dropped": "willamette_week:18893389@2026-08-29T23:30",
-      "kept": "ticketmaster:rZ7HnEZ1Afv3x7",
-      "start_at": "2026-08-29T23:30:00-07:00",
-      "title_dropped": "SMASH disco~glam~metal~punk-hiphop",
-      "title_kept": "SMASH disco~glam~metal~punk-hiphop",
-      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:17586570@2026-08-31T21:00",
@@ -5641,9 +5657,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 6024,
-  "floor_check": "6024 events against a 5866-event baseline",
-  "generated_at": "2026-08-27T22:32:17+00:00",
+  "event_count": 6095,
+  "floor_check": "6095 events against a 5903-event baseline",
+  "generated_at": "2026-08-27T22:34:38+00:00",
   "problems": [],
   "sources": [
     "calagator",
