@@ -4,59 +4,6 @@
       "categories": [
         "tech"
       ],
-      "end_at": "2026-08-26T13:00:00-07:00",
-      "id": "calagator:1250482650",
-      "is_all_day": false,
-      "listing_url": "https://www.tickettailor.com/events/oregonbioscienceincubator/2338052",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "calagator",
-        "name": "Calagator",
-        "url": "https://calagator.org"
-      },
-      "start_at": "2026-08-26T12:00:00-07:00",
-      "summary": "Join us for a Virtual Lunch & Learn presented by Oliver Richards and Madelyn McCormick as they explore the common patent mistakes that early-stage companies make and how to avoid costly issues down the road. Most patent mistakes are cheap to avoid and expensive to fix. The trouble is that the fixing usually happens years later, in a licensing dispute, a due-diligence review, or a courtroom, long after the startup that made the mistake has moved on. This session looks at the most common patent errors early-stage companies make, from public disclosures that quietly forfeit foreign rights, to ownership and inventorship gaps, to provisional applications that don’t actually protect what the founders think they do.\r\n\r\nRather than a checklist of best practices, the talk works backward from how these mistakes surface once a patent is challenged or enforced, from the vantage point of a patent litigator who spends his days on the consequences. Attendees will leave with a practical sense of which early decisions actually matter, which ones are recoverable, and where a modest investment of attention up front saves a great deal of money and heartburn later.",
-      "title": "Virtual Lunch & Learn: Patent Pitfalls: The Early Mistakes That Come Back to Bite You",
-      "venue": {
-        "address": "Virtual",
-        "name": "Portland"
-      }
-    },
-    {
-      "categories": [
-        "tech"
-      ],
-      "end_at": "2026-08-26T20:00:00-07:00",
-      "id": "calagator:1250482675",
-      "is_all_day": false,
-      "listing_url": "https://pdxosgeo.org/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "calagator",
-        "name": "Calagator",
-        "url": "https://calagator.org"
-      },
-      "start_at": "2026-08-26T18:30:00-07:00",
-      "summary": "Happy tail end of summer PDXOSGeo! \r\n\r\nJoin us fourth Wednesday August 26th for more of your favorite open source geo-goodness. Tonight's special guest is EJ Fox: a designer, developer, and journalist who most recently collaborated with Colin Miller to bring Subway Builder to Steam. \r\n\r\nEJ's talk is titled \"Gamifying GIS: From OpenStreetMap to Steam \", and the talk will share the technical and creative process of turning OpenStreetMap data, routing algorithms, and maplibre styles into gameplay. We’ll explore data sonification, interface design for spatial data, shipping with Electron, and lessons from supporting an active modding community.\r\n\r\nAs always there will be pizza, and BYOB is available from across the hall at HotLips.\r\n\r\nTime / Space Coordinates:\r\nWednesday August 26th, 6:30–8pm  \r\nHot Lips Pizza @ the Natural Capital Center: 721 NW 9th Ave, Portland OR \r\n\r\nSee you there!\r\n\r\nOur mailing list is a google group: drop us a line with any questions: http://groups.google.com/group/pdx-osgeo",
-      "title": "PDXOSGeo August Meetup - Gamifying GIS: From OpenStreetMap to Steam",
-      "venue": {
-        "address": "721 Northwest 9th Avenue",
-        "city": "Portland",
-        "latitude": 45.5282,
-        "longitude": -122.6806,
-        "name": "Ecotrust Building"
-      }
-    },
-    {
-      "categories": [
-        "tech"
-      ],
       "end_at": "2026-08-27T15:30:00-07:00",
       "id": "calagator:1250482677",
       "is_all_day": false,
@@ -544,6 +491,34 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-09-22T21:00:00-07:00",
+      "id": "calagator:1250482685",
+      "is_all_day": false,
+      "listing_url": "https://pdxr.org",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-22T19:00:00-07:00",
+      "summary": "Join us for the SNAP Specs PDX Meetup. The group focuses on the wearable AR glasses, SPECS 27 (https://www.specs.com), being released by SNAP in Q4 2026. The group is open to all - developers, designers, enthusiasts. All are welcome!\r\n\r\nFor this first meetup, we'll be covering the public launch event on September 16th in California. Several of the members of this meetup group will be in attendance and will provide an overview of the launch event and follow-up developer day. We'll also be discuss planning for the SPECS Hackathon after the release of the device.\r\n\r\nThis event is hosted by the Oregon Reality Lab at the University of Oregon Portland Campus. The intent is to meet monthly.\r\n\r\nNOTE: The https://pdxr.org is presently down being built.",
+      "title": "SNAP Specs PDX Meetup",
+      "venue": {
+        "address": "2811 NE Holman St,",
+        "city": "Portland",
+        "latitude": 45.5687,
+        "longitude": -122.6369,
+        "name": "Oregon Reality Lab at the University of Oregon, Portland Campus,"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-09-28T12:00:00-07:00",
       "id": "calagator:1250482669",
       "is_all_day": false,
@@ -882,7 +857,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-26T23:23:20+00:00",
+  "generated_at": "2026-08-27T09:30:49+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
