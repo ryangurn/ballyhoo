@@ -1,38 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:18518540@2026-08-27T18:00",
-      "kept": "dopdx:17188664",
-      "start_at": "2026-08-27T18:00:00-07:00",
-      "title_dropped": "Shook Twins + The National Parks",
-      "title_kept": "Shook Twins + The National Parks",
-      "venue": "Topaz Farm"
-    },
-    {
-      "dropped": "willamette_week:19742815@2026-08-27T18:00",
-      "kept": "dopdx:17768714",
-      "start_at": "2026-08-27T18:00:00-07:00",
-      "title_dropped": "1st Annual Food Forest Party with DSPDX!",
-      "title_kept": "1st Annual Food Forest Party with DSPDX!",
-      "venue": "111 NE Failing St"
-    },
-    {
-      "dropped": "willamette_week:19742816@2026-08-27T18:00",
-      "kept": "dopdx:17768742",
-      "start_at": "2026-08-27T18:00:00-07:00",
-      "title_dropped": "Suconotverified, Dj FARIS, Cindr, z2yne, -Make America Verified Again",
-      "title_kept": "Suconotverified, Dj FARIS, Cindr, z2yne, -Make America Verified Again",
-      "venue": "Wyrd Hut"
-    },
-    {
-      "dropped": "willamette_week:17962659@2026-08-27T18:35",
-      "kept": "ticketmaster:Z7r9jZ1A7Qvby",
-      "start_at": "2026-08-27T18:35:00-07:00",
-      "title_dropped": "Tri-City Dust Devils at Hillsboro Hops",
-      "title_kept": "Hillsboro Hops vs. Tri-City Dust Devils",
-      "venue": "Hillsboro Ballpark"
-    },
-    {
       "dropped": "willamette_week:19743264@2026-08-28T21:00",
       "kept": "dopdx:17660045",
       "start_at": "2026-08-28T21:00:00-07:00",
@@ -367,6 +335,38 @@
       "title_dropped": "4word: Portland Happy Hour - (CGP1001)",
       "title_kept": "4word: Portland Happy Hour - (CGP1001)",
       "venue": "Mann's On The Lake"
+    },
+    {
+      "dropped": "willamette_week:18518540@2026-08-27T18:00",
+      "kept": "dopdx:17188664",
+      "start_at": "2026-08-27T18:00:00-07:00",
+      "title_dropped": "Shook Twins + The National Parks",
+      "title_kept": "Shook Twins + The National Parks",
+      "venue": "Topaz Farm"
+    },
+    {
+      "dropped": "willamette_week:19742815@2026-08-27T18:00",
+      "kept": "dopdx:17768714",
+      "start_at": "2026-08-27T18:00:00-07:00",
+      "title_dropped": "1st Annual Food Forest Party with DSPDX!",
+      "title_kept": "1st Annual Food Forest Party with DSPDX!",
+      "venue": "111 NE Failing St"
+    },
+    {
+      "dropped": "willamette_week:19742816@2026-08-27T18:00",
+      "kept": "dopdx:17768742",
+      "start_at": "2026-08-27T18:00:00-07:00",
+      "title_dropped": "Suconotverified, Dj FARIS, Cindr, z2yne, -Make America Verified Again",
+      "title_kept": "Suconotverified, Dj FARIS, Cindr, z2yne, -Make America Verified Again",
+      "venue": "Wyrd Hut"
+    },
+    {
+      "dropped": "willamette_week:17962659@2026-08-27T18:35",
+      "kept": "ticketmaster:Z7r9jZ1A7Qvby",
+      "start_at": "2026-08-27T18:35:00-07:00",
+      "title_dropped": "Tri-City Dust Devils at Hillsboro Hops",
+      "title_kept": "Hillsboro Hops vs. Tri-City Dust Devils",
+      "venue": "Hillsboro Ballpark"
     },
     {
       "dropped": "willamette_week:18418305@2026-08-27T19:00",
@@ -5657,9 +5657,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 6095,
-  "floor_check": "6095 events against a 5934-event baseline",
-  "generated_at": "2026-08-27T23:05:06+00:00",
+  "event_count": 6094,
+  "floor_check": "6094 events against a 5934-event baseline",
+  "generated_at": "2026-08-28T05:19:48+00:00",
   "problems": [],
   "sources": [
     "calagator",
