@@ -31651,7 +31651,13 @@
         "url": "https://www.oregonmetro.gov"
       },
       "start_at": "2026-09-02T12:30:00-07:00",
-      "title": "Metropolitan Exposition Recreation Commission meeting"
+      "title": "Metropolitan Exposition Recreation Commission meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52832,
+        "longitude": -122.66311,
+        "name": "Oregon Convention Center"
+      }
     },
     {
       "categories": [
@@ -179375,5 +179381,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-28T05:28:30+00:00"
+  "generated_at": "2026-08-28T05:30:47+00:00"
 }
