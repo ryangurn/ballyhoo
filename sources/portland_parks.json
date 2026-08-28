@@ -4,64 +4,6 @@
       "categories": [
         "music"
       ],
-      "id": "portland_parks:2026-08-20-grant-park-ants-ants-ants",
-      "is_all_day": false,
-      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
-      "organizer": "Portland Parks & Recreation",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "portland_parks",
-        "name": "Portland Parks & Recreation",
-        "url": "https://www.portland.gov/parks"
-      },
-      "start_at": "2026-08-20T18:30:00-07:00",
-      "summary": "Ants Ants Ants - Kids music inspired by the melodies of the 1970s, from The Beatles to Schoolhouse Rock",
-      "title": "Ants Ants Ants",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.53933,
-        "longitude": -122.62953,
-        "name": "Grant Park"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "id": "portland_parks:2026-08-20-farragut-park-lilo-and-stitch",
-      "is_all_day": false,
-      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
-      "organizer": "Portland Parks & Recreation",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "portland_parks",
-        "name": "Portland Parks & Recreation",
-        "url": "https://www.portland.gov/parks"
-      },
-      "start_at": "2026-08-20T19:30:00-07:00",
-      "summary": "Lilo and Stitch (2025) PG - English with Spanish subtitles",
-      "title": "Lilo and Stitch",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.58024,
-        "longitude": -122.67034,
-        "name": "Farragut Park"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "id": "portland_parks:2026-08-21-glenwood-park-picante",
       "is_all_day": false,
       "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
@@ -289,7 +231,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-27T22:35:39+00:00",
+  "generated_at": "2026-08-28T06:21:03+00:00",
   "source_id": "portland_parks",
   "status": "ok"
 }
