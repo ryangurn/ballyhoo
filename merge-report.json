@@ -1673,6 +1673,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:19713175@2026-09-04T19:00",
+      "kept": "dopdx:17780437",
+      "start_at": "2026-09-04T19:00:00-07:00",
+      "title_dropped": "Lloyd Jones with Courtney Von Drehle",
+      "title_kept": "Lloyd Jones with Courtney Von Drehle",
+      "venue": "Artichoke Music"
+    },
+    {
       "dropped": "dopdx:17290380",
       "kept": "ticketmaster:Z7r9jZ1A7088o",
       "start_at": "2026-09-04T19:00:00-07:00",
@@ -3655,6 +3663,14 @@
       "title_dropped": "Hidden Gems of the Columbia River Gorge: Past, Present, and Future",
       "title_kept": "Hidden Gems of the Columbia River Gorge: Past, Present, and Future",
       "venue": "78th Street Heritage Farm"
+    },
+    {
+      "dropped": "willamette_week:19726895@2026-09-16T17:00",
+      "kept": "portland_farmers_market:dunn-otter@2026-09-16",
+      "start_at": "2026-09-16T17:00:00-07:00",
+      "title_dropped": "Dunn Otter",
+      "title_kept": "Dunn Otter",
+      "venue": "Kenton Farmers Market"
     },
     {
       "dropped": "dopdx:17315056",
@@ -5817,14 +5833,6 @@
       "venue": "Kenton Farmers Market"
     },
     {
-      "dropped": "willamette_week:19726895@2026-09-16T17:00",
-      "kept": "portland_farmers_market:dunn-otter@2026-09-16",
-      "start_at": "2026-09-16T17:00:00-07:00",
-      "title_dropped": "Dunn Otter",
-      "title_kept": "Dunn Otter",
-      "venue": "Kenton Farmers Market"
-    },
-    {
       "dropped": "willamette_week:17586570@2026-08-31T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AKPw37",
       "start_at": "2026-08-31T21:00:00-07:00",
@@ -5921,9 +5929,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6023,
-  "floor_check": "6023 events against a 6023-event baseline",
-  "generated_at": "2026-08-28T18:58:39+00:00",
+  "event_count": 6047,
+  "floor_check": "6047 events against a 6023-event baseline",
+  "generated_at": "2026-08-28T19:01:03+00:00",
   "problems": [],
   "sources": [
     "calagator",
