@@ -361,28 +361,12 @@
       "venue": "Wyrd Hut"
     },
     {
-      "dropped": "willamette_week:17962659@2026-08-27T18:35",
-      "kept": "ticketmaster:Z7r9jZ1A7Qvby",
-      "start_at": "2026-08-27T18:35:00-07:00",
-      "title_dropped": "Tri-City Dust Devils at Hillsboro Hops",
-      "title_kept": "Hillsboro Hops vs. Tri-City Dust Devils",
-      "venue": "Hillsboro Ballpark"
-    },
-    {
       "dropped": "willamette_week:18418305@2026-08-27T19:00",
       "kept": "dopdx:17129020",
       "start_at": "2026-08-27T19:00:00-07:00",
       "title_dropped": "Leah Bluestein & Eagles of Death Metal",
       "title_kept": "Eagles of Death Metal – Death By Sexy Anniversary Tour With special guest Paradise Vultures",
       "venue": "Wonder Ballroom"
-    },
-    {
-      "dropped": "dopdx:16941217",
-      "kept": "ticketmaster:Z7r9jZ1A7-F4I",
-      "start_at": "2026-08-27T19:00:00-07:00",
-      "title_dropped": "SOLD OUT: Jordan Jensen",
-      "title_kept": "Jordan Jensen",
-      "venue": "Revolution Hall - Portland"
     },
     {
       "dropped": "willamette_week:18147511@2026-08-27T19:00",
@@ -407,14 +391,6 @@
       "title_dropped": "Inside Jokes - crowd-driven comedy",
       "title_kept": "Inside Jokes - crowd-driven comedy",
       "venue": "Barrel Room Portland"
-    },
-    {
-      "dropped": "dopdx:17551112",
-      "kept": "ticketmaster:rZ7HnEZ1Af0vFN",
-      "start_at": "2026-08-27T19:00:00-07:00",
-      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
     },
     {
       "dropped": "willamette_week:18893395@2026-08-27T19:00",
@@ -481,36 +457,12 @@
       "venue": "Pause Meditation"
     },
     {
-      "dropped": "willamette_week:19663801@2026-08-27T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfFkZf",
-      "start_at": "2026-08-27T20:00:00-07:00",
-      "title_dropped": "MAMUSE with Rebecca Elatiki",
-      "title_kept": "MAMUSE with Rebecca Elatiki",
-      "venue": "Star Theater"
-    },
-    {
       "dropped": "willamette_week:18371069@2026-08-27T20:00",
       "kept": "ticketmaster:rZ7HnEZ1Afrf0N",
       "start_at": "2026-08-27T20:00:00-07:00",
       "title_dropped": "BELLES \"Songs & Stories Tour\"",
       "title_kept": "BELLES \"Songs & Stories Tour\" with Johnny Gates",
       "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:17691772@2026-08-27T20:00",
-      "kept": "ticketmaster:vvG1HZbzn4Dkzp",
-      "start_at": "2026-08-27T20:00:00-07:00",
-      "title_dropped": "Gabriel Fluffy Iglesias Live",
-      "title_kept": "Gabriel Fluffy Iglesias Live",
-      "venue": "Ilani Cowlitz Ballroom"
-    },
-    {
-      "dropped": "dopdx:17735472",
-      "kept": "ticketmaster:rZ7HnEZ1A4Zy_N",
-      "start_at": "2026-08-27T21:00:00-07:00",
-      "title_dropped": "Videoboy with Carny Cumm & Blood Jacuzzi",
-      "title_kept": "VIDEOBOY with Carny Cumm & Blood Jacuzzi",
-      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19679590@2026-08-27T21:00",
@@ -1079,6 +1031,14 @@
       "title_dropped": "Hillsdale Farmers' Market",
       "title_kept": "Hillsdale Farmers Market",
       "venue": "Hillsdale Farmers Market"
+    },
+    {
+      "dropped": "dopdx:17562533",
+      "kept": "ticketmaster:Z7r9jZ1AAZO7E",
+      "start_at": "2026-08-30T10:00:00-07:00",
+      "title_dropped": "Crystal Ballroom History & Art Tour",
+      "title_kept": "Crystal Ballroom Tours",
+      "venue": "McMenamins Crystal Ballroom"
     },
     {
       "dropped": "willamette_week:19669046@2026-08-30T10:00",
@@ -2711,6 +2671,14 @@
       "title_dropped": "Andrea Bocelli",
       "title_kept": "Andrea Bocelli",
       "venue": "Moda Center"
+    },
+    {
+      "dropped": "dopdx:17614004",
+      "kept": "ticketmaster:Z7r9jZ1AAv7bo",
+      "start_at": "2026-09-09T20:00:00-07:00",
+      "title_dropped": "Altın Gün North America Tour 2026",
+      "title_kept": "Altin Gun",
+      "venue": "Revolution Hall - Portland"
     },
     {
       "dropped": "willamette_week:19538830@2026-09-09T20:00",
@@ -4637,7 +4605,7 @@
       "kept": "ticketmaster:rZ7HnEZ1AfF8b7",
       "start_at": "2026-09-19T20:00:00-07:00",
       "title_dropped": "Mama's Broke",
-      "title_kept": "Mama's Broke",
+      "title_kept": "Mama's Broke with Kendl Winter",
       "venue": "Showdown Saloon"
     },
     {
@@ -5657,9 +5625,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 6094,
-  "floor_check": "6094 events against a 5934-event baseline",
-  "generated_at": "2026-08-28T05:19:48+00:00",
+  "event_count": 6098,
+  "floor_check": "6098 events against a 5934-event baseline",
+  "generated_at": "2026-08-28T05:22:40+00:00",
   "problems": [],
   "sources": [
     "calagator",
