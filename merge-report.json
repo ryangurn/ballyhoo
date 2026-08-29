@@ -3881,6 +3881,14 @@
       "venue": "Kelly's Olympian"
     },
     {
+      "dropped": "willamette_week:19624922@2026-09-18T20:00",
+      "kept": "dopdx:17777498",
+      "start_at": "2026-09-18T20:00:00-07:00",
+      "title_dropped": "Burwesque!: A Cewebwation of the Pwincess Bwide!",
+      "title_kept": "Burwesque! A Cewebwation of the Pwincess Bwide",
+      "venue": "Chapel Theatre"
+    },
+    {
       "dropped": "dopdx:17409734",
       "kept": "ticketmaster:rZ7HnEZ1AfPvOS",
       "start_at": "2026-09-18T20:00:00-07:00",
@@ -3895,14 +3903,6 @@
       "title_dropped": "ALI",
       "title_kept": "Ali",
       "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:19624922@2026-09-18T20:00",
-      "kept": "dopdx:17777498",
-      "start_at": "2026-09-18T20:00:00-07:00",
-      "title_dropped": "Burwesque!: A Cewebwation of the Pwincess Bwide!",
-      "title_kept": "Burwesque! A Cewebwation of the Pwincess Bwide",
-      "venue": "Chapel Theatre"
     },
     {
       "dropped": "willamette_week:19449632@2026-09-18T20:00",
@@ -5811,7 +5811,7 @@
   ],
   "event_count": 5921,
   "floor_check": "5921 events against a 6007-event baseline",
-  "generated_at": "2026-08-29T09:20:54+00:00",
+  "generated_at": "2026-08-29T09:22:43+00:00",
   "problems": [],
   "sources": [
     "calagator",
