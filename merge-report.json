@@ -3201,6 +3201,22 @@
       "venue": "Aladdin Theater"
     },
     {
+      "dropped": "dopdx:17592879",
+      "kept": "ticketmaster:vvG1HZ_GWH5d4T",
+      "start_at": "2026-09-13T20:00:00-07:00",
+      "title_dropped": "Bigger Than Life Fest featuring Kevin Gates and Friends",
+      "title_kept": "Bigger Than Life Fest featuring Kevin Gates & Friends",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:19484135@2026-09-13T20:00",
+      "kept": "dopdx:17592879",
+      "start_at": "2026-09-13T20:00:00-07:00",
+      "title_dropped": "Bigger Than Life Fest featuring Kevin Gates & Friends",
+      "title_kept": "Bigger Than Life Fest featuring Kevin Gates and Friends",
+      "venue": "Moda Center"
+    },
+    {
       "dropped": "dopdx:17132428",
       "kept": "ticketmaster:Z7r9jZ1A70_Fe",
       "start_at": "2026-09-13T20:00:00-07:00",
@@ -3223,22 +3239,6 @@
       "title_dropped": "Greek",
       "title_kept": "Greek",
       "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "dopdx:17592879",
-      "kept": "ticketmaster:vvG1HZ_GWH5d4T",
-      "start_at": "2026-09-13T20:00:00-07:00",
-      "title_dropped": "Bigger Than Life Fest featuring Kevin Gates and Friends",
-      "title_kept": "Bigger Than Life Fest featuring Kevin Gates & Friends",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "willamette_week:19484135@2026-09-13T20:00",
-      "kept": "dopdx:17592879",
-      "start_at": "2026-09-13T20:00:00-07:00",
-      "title_dropped": "Bigger Than Life Fest featuring Kevin Gates & Friends",
-      "title_kept": "Bigger Than Life Fest featuring Kevin Gates and Friends",
-      "venue": "Moda Center"
     },
     {
       "dropped": "dopdx:17602268",
@@ -5819,7 +5819,7 @@
   ],
   "event_count": 5928,
   "floor_check": "5928 events against a 5923-event baseline",
-  "generated_at": "2026-08-29T18:41:15+00:00",
+  "generated_at": "2026-08-29T18:50:16+00:00",
   "problems": [],
   "sources": [
     "calagator",
