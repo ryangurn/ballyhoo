@@ -2646,6 +2646,35 @@
         "music"
       ],
       "end_at": "2026-08-30T02:00:00-07:00",
+      "id": "dopdx:17785113",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788033488/event-17785113.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/29/dj-short-stop-harmless-light-b3-xtac33-and-gloworm-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.17,
+        "min": 13.17
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-29T22:00:00-07:00",
+      "summary": "DJ SHORT STOP, HARMLESS LIGHT, B3XTAC33, AND GLOWORM AT THE HIGH LIMIT ROOM. $10. 10-2. 720 SE HAWTHORNE BLVD.",
+      "title": "Dj Short Stop, Harmless Light, B3 Xtac33, And Gloworm",
+      "venue": {
+        "address": "720 SE Hawthorne Blvd, Portland, OR, 97214",
+        "city": "Portland",
+        "name": "The High Limit Room"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-30T02:00:00-07:00",
       "id": "dopdx:17430843",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1780382611/event-17430843.jpg",
       "is_all_day": false,
@@ -17915,6 +17944,35 @@
         "latitude": 45.5227498,
         "longitude": -122.6318979,
         "name": "Music Millennium"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-12T02:00:00-07:00",
+      "id": "dopdx:17785114",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788033490/event-17785114.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/11/lorraine-spring-breeding-murder-movies-hound-god-boat-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.17,
+        "min": 13.17
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-11T19:00:00-07:00",
+      "summary": "Lorraine (LA) Spring Breeding (Las Vegas) Hound (PDX) Murder Movies (PDX) God Boat (PDX)",
+      "title": "Lorraine Spring Breeding Murder Movies Hound God Boat",
+      "venue": {
+        "address": "720 SE Hawthorne Blvd, Portland, OR, 97214",
+        "city": "Portland",
+        "name": "The High Limit Room"
       }
     },
     {
@@ -40567,7 +40625,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-29T18:48:17+00:00",
+  "generated_at": "2026-08-29T21:55:34+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
