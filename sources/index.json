@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T02:24:58+00:00",
+  "generated_at": "2026-08-29T02:27:15+00:00",
   "sources": [
     {
       "event_count": 31,
@@ -51,10 +51,10 @@
       "url": "sources/portland_farmers_market.json"
     },
     {
-      "event_count": 8,
-      "last_run_at": "2026-08-28T19:00:18+00:00",
+      "event_count": 6,
+      "last_run_at": "2026-08-29T02:26:39+00:00",
       "source_id": "portland_parks",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/portland_parks.json"
     },
     {
