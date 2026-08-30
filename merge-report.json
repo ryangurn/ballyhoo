@@ -2913,6 +2913,14 @@
       "venue": "Arlene Schnitzer Concert Hall"
     },
     {
+      "dropped": "willamette_week:19766480@2026-09-13T19:30",
+      "kept": "dopdx:17552807",
+      "start_at": "2026-09-13T19:30:00-07:00",
+      "title_dropped": "The Gauntlet",
+      "title_kept": "The Gauntlet",
+      "venue": "Curious Comedy Theater"
+    },
+    {
       "dropped": "dopdx:17352811",
       "kept": "ticketmaster:Z7r9jZ1A70U4Z",
       "start_at": "2026-09-13T20:00:00-07:00",
@@ -5393,6 +5401,14 @@
       "venue": "Revolution Hall"
     },
     {
+      "dropped": "willamette_week:19766480@2026-09-27T19:30",
+      "kept": "dopdx:17552809",
+      "start_at": "2026-09-27T19:30:00-07:00",
+      "title_dropped": "The Gauntlet",
+      "title_kept": "The Gauntlet",
+      "venue": "Curious Comedy Theater"
+    },
+    {
       "dropped": "dopdx:17446352",
       "kept": "ticketmaster:rZ7HnEZ1AfPxuK",
       "start_at": "2026-09-27T19:30:00-07:00",
@@ -5673,9 +5689,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 5744,
-  "floor_check": "5744 events against a 5927-event baseline",
-  "generated_at": "2026-08-30T06:38:23+00:00",
+  "event_count": 5751,
+  "floor_check": "5751 events against a 5927-event baseline",
+  "generated_at": "2026-08-30T06:45:14+00:00",
   "problems": [],
   "sources": [
     "calagator",
