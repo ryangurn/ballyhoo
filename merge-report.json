@@ -377,14 +377,6 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
-      "dropped": "dopdx:17562533",
-      "kept": "ticketmaster:Z7r9jZ1AAZO7E",
-      "start_at": "2026-08-30T10:00:00-07:00",
-      "title_dropped": "Crystal Ballroom History & Art Tour",
-      "title_kept": "Crystal Ballroom Tours",
-      "venue": "McMenamins Crystal Ballroom"
-    },
-    {
       "dropped": "willamette_week:19669046@2026-08-30T10:00",
       "kept": "dopdx:17768807",
       "start_at": "2026-08-30T10:00:00-07:00",
@@ -5690,8 +5682,8 @@
     }
   ],
   "event_count": 5736,
-  "floor_check": "5736 events against a 5750-event baseline",
-  "generated_at": "2026-08-30T17:23:28+00:00",
+  "floor_check": "5736 events against a 5749-event baseline",
+  "generated_at": "2026-08-30T17:27:01+00:00",
   "problems": [],
   "sources": [
     "calagator",
