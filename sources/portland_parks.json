@@ -2,35 +2,6 @@
   "events": [
     {
       "categories": [
-        "film"
-      ],
-      "id": "portland_parks:2026-08-22-sewallcrest-park-cool-runnings",
-      "is_all_day": false,
-      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
-      "organizer": "Portland Parks & Recreation",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "portland_parks",
-        "name": "Portland Parks & Recreation",
-        "url": "https://www.portland.gov/parks"
-      },
-      "start_at": "2026-08-22T19:30:00-07:00",
-      "summary": "Cool Runnings (1993) PG",
-      "title": "Cool Runnings",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.50971,
-        "longitude": -122.63291,
-        "name": "Sewallcrest Park"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "id": "portland_parks:2026-08-27-wellington-park-the-braziltones",
@@ -146,7 +117,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-30T01:39:35+00:00",
+  "generated_at": "2026-08-30T07:23:03+00:00",
   "source_id": "portland_parks",
   "status": "ok"
 }
