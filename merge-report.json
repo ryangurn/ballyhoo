@@ -145,6 +145,38 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
+      "dropped": "dopdx:17569201",
+      "kept": "ticketmaster:rZ7HnEZ1AfFwP7",
+      "start_at": "2026-09-15T19:00:00-07:00",
+      "title_dropped": "STICK MEN FT. TONY LEVIN, PAT MASTELOTTO and MARKUS REUTER",
+      "title_kept": "STICK MEN FT. TONY LEVIN, PAT MASTELOTTO and MARKUS REUTER",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:19449620@2026-09-15T19:00",
+      "kept": "dopdx:17569201",
+      "start_at": "2026-09-15T19:00:00-07:00",
+      "title_dropped": "STICK MEN FT. TONY LEVIN, PAT MASTELOTTO and MARKUS REUTER",
+      "title_kept": "STICK MEN FT. TONY LEVIN, PAT MASTELOTTO and MARKUS REUTER",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:19631269@2026-09-15T19:00",
+      "kept": "dopdx:17451601",
+      "start_at": "2026-09-15T19:00:00-07:00",
+      "title_dropped": "Open Jam and Games",
+      "title_kept": "Open Jam & Games",
+      "venue": "Barrel Room Portland"
+    },
+    {
+      "dropped": "willamette_week:19669102@2026-09-15T19:00",
+      "kept": "dopdx:17718491",
+      "start_at": "2026-09-15T19:00:00-07:00",
+      "title_dropped": "Lorraine-Dietrich live at Alberta Street Pub",
+      "title_kept": "Lorraine-Dietrich",
+      "venue": "Alberta Street Pub"
+    },
+    {
       "dropped": "willamette_week:19495544@2026-09-16T18:30",
       "kept": "dopdx:17644655",
       "start_at": "2026-09-16T18:30:00-07:00",
@@ -3049,38 +3081,6 @@
       "venue": "NW Natural"
     },
     {
-      "dropped": "dopdx:17569201",
-      "kept": "ticketmaster:rZ7HnEZ1AfFwP7",
-      "start_at": "2026-09-15T19:00:00-07:00",
-      "title_dropped": "STICK MEN FT. TONY LEVIN, PAT MASTELOTTO and MARKUS REUTER",
-      "title_kept": "STICK MEN FT. TONY LEVIN, PAT MASTELOTTO and MARKUS REUTER",
-      "venue": "Star Theater"
-    },
-    {
-      "dropped": "willamette_week:19449620@2026-09-15T19:00",
-      "kept": "dopdx:17569201",
-      "start_at": "2026-09-15T19:00:00-07:00",
-      "title_dropped": "STICK MEN FT. TONY LEVIN, PAT MASTELOTTO and MARKUS REUTER",
-      "title_kept": "STICK MEN FT. TONY LEVIN, PAT MASTELOTTO and MARKUS REUTER",
-      "venue": "Star Theater"
-    },
-    {
-      "dropped": "willamette_week:19631269@2026-09-15T19:00",
-      "kept": "dopdx:17451601",
-      "start_at": "2026-09-15T19:00:00-07:00",
-      "title_dropped": "Open Jam and Games",
-      "title_kept": "Open Jam & Games",
-      "venue": "Barrel Room Portland"
-    },
-    {
-      "dropped": "willamette_week:19669102@2026-09-15T19:00",
-      "kept": "dopdx:17718491",
-      "start_at": "2026-09-15T19:00:00-07:00",
-      "title_dropped": "Lorraine-Dietrich live at Alberta Street Pub",
-      "title_kept": "Lorraine-Dietrich",
-      "venue": "Alberta Street Pub"
-    },
-    {
       "dropped": "dopdx:17616855",
       "kept": "ticketmaster:Z7r9jZ1A7J3bw",
       "start_at": "2026-09-15T19:30:00-07:00",
@@ -5681,9 +5681,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 5763,
-  "floor_check": "5763 events against a 5746-event baseline",
-  "generated_at": "2026-08-30T20:05:35+00:00",
+  "event_count": 5765,
+  "floor_check": "5765 events against a 5746-event baseline",
+  "generated_at": "2026-08-30T20:59:30+00:00",
   "problems": [],
   "sources": [
     "calagator",
