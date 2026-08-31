@@ -5734,6 +5734,72 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-31T02:00:00-07:00",
+      "id": "dopdx:16762183",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1766607767/event-16762183.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/30/church-of-hive-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 7.23,
+        "min": 7.23
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-30T19:00:00-07:00",
+      "summary": "CHURCH OF HIVE gothic – industrial – darkwave – dance party",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fanja-huwe-xmal-deustchland-live-star-theater-tickets%252F14929953%26utm_medium%3daffiliate",
+      "title": "Church Of Hive",
+      "venue": {
+        "address": "13 NW Sixth Ave",
+        "city": "Portland",
+        "latitude": 45.523487,
+        "longitude": -122.676751,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-08-31T02:00:00-07:00",
+      "id": "dopdx:17372809",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1779209526/event-17372809.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/8/30/anja-huwe-xmal-deustchland-live-in-portland-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 42.72,
+        "min": 37.57
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-08-30T19:00:00-07:00",
+      "title": "Anja Huwe (Xmal Deustchland) Live In Portland",
+      "venue": {
+        "address": "13 NW Sixth Ave",
+        "city": "Portland",
+        "latitude": 45.523487,
+        "longitude": -122.676751,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-08-31T02:00:00-07:00",
@@ -5904,75 +5970,6 @@
       "title": "tone poem and Moment present Merope ft. Shahzad Ismaily & DJ Spencer D",
       "venue": {
         "name": "Maps Good Space"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-08-31T02:00:00-07:00",
-      "id": "ticketmaster:rZ7HnEZ1Af0tPK",
-      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/anja-huwe-xmal-deutschland-live-star-theater-tickets/14929953",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 42.72,
-        "min": 37.57
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-30T19:00:00-07:00",
-      "summary": "Anja HuweMinty Boi Presents: ANJA HUWE (XMAL DEUSTCHLAND) LIVE IN PORTLANDDoors: 6:00mShow: 7:00pm",
-      "ticket_url": "https://www.ticketweb.com/event/anja-huwe-xmal-deutschland-live-star-theater-tickets/14929953",
-      "title": "ANJA HUWE (Xmal Deutschland) LIVE IN PORTLAND with Puerta Negra",
-      "venue": {
-        "address": "13 NW Sixth Avenue",
-        "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
-        "name": "Star Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:vvG1HZ_eNrsbJQ",
-      "image_url": "https://s1.ticketm.net/dam/a/d2f/1e372fb9-731d-4285-9752-a15c6567cd2f_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/lee-brice-live-in-concert-ridgefield-washington-08-30-2026/event/0F006428DEC5899A",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-08-30T19:00:00-07:00",
-      "summary": "ALL AGES EVENT. NO PROFESSIONAL PHOTOGRAPHY. NO AUDIO OR VIDEO RECORDING. HANDBAGS MAY BE SUBJECT TO SECURITY CHECK. Show may contain adult language and material.",
-      "ticket_url": "https://www.ticketmaster.com/lee-brice-live-in-concert-ridgefield-washington-08-30-2026/event/0F006428DEC5899A",
-      "title": "Lee Brice: Live in Concert",
-      "venue": {
-        "address": "1 Cowlitz Way",
-        "city": "Ridgefield",
-        "latitude": 45.853617,
-        "longitude": -122.707375,
-        "name": "Ilani Cowlitz Ballroom"
       }
     },
     {
@@ -6181,6 +6178,34 @@
         "latitude": 45.512365,
         "longitude": -122.648276,
         "name": "No Fun Bar"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:17966321@2026-08-30T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/R1pduW_YEE-HIF36PF1dig.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketmaster.com%252Flee-brice-live-in-concert-ridgefield-washington-08-30-2026%252Fevent%252F0F006428DEC5899A%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-08-30T19:00:00-07:00",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketmaster.com%252Flee-brice-live-in-concert-ridgefield-washington-08-30-2026%252Fevent%252F0F006428DEC5899A%26utm_medium%3daffiliate",
+      "title": "Lee Brice: Live in Concert",
+      "venue": {
+        "address": "1 Cowlitz Way",
+        "city": "Ridgefield",
+        "latitude": 45.853373,
+        "longitude": -122.707732,
+        "name": "Ilani Cowlitz Ballroom"
       }
     },
     {
@@ -6628,34 +6653,27 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:rZ7HnEZ1AfaFqf",
-      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "willamette_week:19139301@2026-08-30T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/U7EN9vI4kEmYQQWdj3TwWQ.large.png",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/casual-eddie-with-special-guest-showdown-saloon-tickets/14248754",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fcasual-eddie-with-special-guest-showdown-saloon-tickets%252F14248754%26utm_medium%3daffiliate",
       "price": {
         "currency": "USD",
-        "is_free": false,
-        "max": 15.92,
-        "min": 15.92
+        "is_free": false
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-08-30T20:00:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/casual-eddie-with-special-guest-showdown-saloon-tickets/14248754",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fcasual-eddie-with-special-guest-showdown-saloon-tickets%252F14248754%26utm_medium%3daffiliate",
       "title": "Casual Eddie with Special Guest",
       "venue": {
-        "address": "1195 SE Powell Blvd",
+        "address": "1223 SE Powell Blvd",
         "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
+        "latitude": 45.501092,
+        "longitude": -122.652817,
         "name": "Showdown Saloon"
       }
     },
@@ -6723,13 +6741,13 @@
         "music"
       ],
       "end_at": "2026-08-31T02:00:00-07:00",
-      "id": "ticketmaster:rZ7HnEZ1A4ZFud",
-      "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "dopdx:17689331",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785827413/event-17689331.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/orchestre-lpow-followed-by-sinferno-dantes-tickets/15008343",
+      "listing_url": "https://dopdx.com/events/2026/8/30/orchestre-l-pow-followed-by-sinferno-cabaret-tickets",
       "merged_sources": [
         "dopdx",
-        "ticketmaster"
+        "willamette_week"
       ],
       "price": {
         "currency": "USD",
@@ -6738,19 +6756,18 @@
         "min": 21.09
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
       },
       "start_at": "2026-08-30T20:30:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/orchestre-lpow-followed-by-sinferno-dantes-tickets/15008343",
-      "title": "ORCHESTRE L'POW followed by Sinferno Cabaret",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Forchestre-lpow-followed-by-sinferno-dantes-tickets%252F15008343%26utm_medium%3daffiliate",
+      "title": "Orchestre L'pow Followed by Sinferno Cabaret",
       "venue": {
-        "address": "350 West Burnside Street",
+        "address": "350 West Burnside",
         "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
+        "latitude": 45.5229642,
+        "longitude": -122.6737152,
         "name": "Dante's"
       }
     },
@@ -6969,34 +6986,28 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:rZ7HnEZ1AfPs_d",
-      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "willamette_week:19469867@2026-08-30T22:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vuAXMbbHhUuCeQDOg7dL5A.large.png",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971643",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fchurch-of-hive-star-theater-tickets%252F14971643%26utm_medium%3daffiliate",
       "price": {
         "currency": "USD",
-        "is_free": false,
-        "max": 6.2,
-        "min": 6.2
+        "is_free": false
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-08-30T22:00:00-07:00",
-      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party SKULLY : AURORA10pm : $5 : 21+",
-      "ticket_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971643",
+      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party SKULLY : AURORA10pm : $5 : 21\\+",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fchurch-of-hive-star-theater-tickets%252F14971643%26utm_medium%3daffiliate",
       "title": "CHURCH OF HIVE",
       "venue": {
-        "address": "13 NW Sixth Avenue",
+        "address": "13 NW 6th Ave",
         "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
+        "latitude": 45.5233726501,
+        "longitude": -122.6767425537,
         "name": "Star Theater"
       }
     },
@@ -143797,6 +143808,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfFYq0",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/sinferno-cabaret-dantes-tickets/14230764",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 313.61,
+        "min": 13.91
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-27T22:00:00-07:00",
+      "summary": "Voted by BURLESQUE MAGAZINE as one of the Top 10 Burlesque shows in the USA!A sinful circus of burlesque, fire-dancing, DJs & debauchery. Every Sunday night for 20 years...the longest-running weekly cabaret show on the west coast!SEATING IS LIMITED and is first-come, first served. Seating IS NOT GUARANTEED for General Admission ticket holders!",
+      "ticket_url": "https://www.ticketweb.com/event/sinferno-cabaret-dantes-tickets/14230764",
+      "title": "SINFERNO CABARET",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:19768895@2026-09-28T00:00",
@@ -177789,5 +177831,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-31T05:25:37+00:00"
+  "generated_at": "2026-08-31T05:29:29+00:00"
 }
