@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T06:01:01+00:00",
+  "generated_at": "2026-08-31T06:03:12+00:00",
   "sources": [
     {
       "event_count": 33,
@@ -9,10 +9,10 @@
       "url": "sources/calagator.json"
     },
     {
-      "event_count": 1346,
-      "last_run_at": "2026-08-30T23:47:29+00:00",
+      "event_count": 1308,
+      "last_run_at": "2026-08-31T06:01:09+00:00",
       "source_id": "dopdx",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/dopdx.json"
     },
     {
