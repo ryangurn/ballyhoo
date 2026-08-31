@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T05:49:03+00:00",
+  "generated_at": "2026-08-31T05:54:08+00:00",
   "sources": [
     {
       "event_count": 33,
@@ -17,9 +17,9 @@
     },
     {
       "event_count": 24,
-      "last_run_at": "2026-08-30T21:20:52+00:00",
+      "last_run_at": "2026-08-31T05:53:18+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
@@ -54,7 +54,7 @@
       "event_count": 4,
       "last_run_at": "2026-08-30T23:51:34+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
