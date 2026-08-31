@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-31T01:38:48+00:00",
+  "generated_at": "2026-08-31T05:23:43+00:00",
   "sources": [
     {
-      "event_count": 35,
-      "last_run_at": "2026-08-30T23:25:39+00:00",
+      "event_count": 33,
+      "last_run_at": "2026-08-31T05:23:08+00:00",
       "source_id": "calagator",
       "status": "ok",
       "url": "sources/calagator.json"
@@ -19,7 +19,7 @@
       "event_count": 24,
       "last_run_at": "2026-08-30T21:20:52+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
@@ -40,14 +40,14 @@
       "event_count": 318,
       "last_run_at": "2026-08-30T21:38:51+00:00",
       "source_id": "pdxparent_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/pdxparent_markets.json"
     },
     {
       "event_count": 81,
       "last_run_at": "2026-08-30T20:59:56+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
