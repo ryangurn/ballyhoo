@@ -22626,6 +22626,44 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-09-05T02:00:00-07:00",
+      "id": "ticketmaster:rZ7HnEZ1AfPS3K",
+      "image_url": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/skitz-kraven-with-figure-8-dantes-tickets/14973493",
+      "merged_sources": [
+        "dopdx",
+        "ticketmaster",
+        "willamette_week"
+      ],
+      "organizer": "Dante's Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 30.36,
+        "min": 30.36
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-04T20:30:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/skitz-kraven-with-figure-8-dantes-tickets/14973493",
+      "title": "SKITZ KRAVEN with Figure 8, Poverty's Posterboy and Whitey NW",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-09-04T21:45:00-07:00",
       "id": "dopdx:17692275",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785896353/event-17692275.png",
@@ -22950,43 +22988,6 @@
         "latitude": 45.59757099999999,
         "longitude": -122.6696598,
         "name": "Ponderosa Lounge & Grill"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-09-05T02:00:00-07:00",
-      "id": "ticketmaster:rZ7HnEZ1AfPS3K",
-      "image_url": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/skitz-kraven-with-figure-8-dantes-tickets/14973493",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "Dante's Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 30.36,
-        "min": 30.36
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-04T21:00:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/skitz-kraven-with-figure-8-dantes-tickets/14973493",
-      "title": "SKITZ KRAVEN with Figure 8, Poverty's Posterboy and Whitey NW",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
       }
     },
     {
@@ -91054,6 +91055,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1A7xpaE",
+      "image_url": "https://s1.ticketm.net/dam/a/46d/99f0cf66-21c7-465b-bac4-60b137b8046d_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpaE",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-18T19:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpaE",
+      "title": "Matthew West",
+      "venue": {
+        "address": "3550 SE Borland Road",
+        "city": "Tualatin",
+        "latitude": 45.3689,
+        "longitude": -122.764099,
+        "name": "Rolling Hills Community Church"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-18T20:00:00-07:00",
@@ -150611,7 +150640,7 @@
       "id": "ticketmaster:rZ7HnEZ1AfFsq7",
       "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/mia-asano-guest-star-theater-tickets/14231744",
+      "listing_url": "https://www.ticketweb.com/event/mia-asano-deadgrace-star-theater-tickets/14231744",
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -150624,8 +150653,8 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-10-09T19:30:00-07:00",
-      "ticket_url": "https://www.ticketweb.com/event/mia-asano-guest-star-theater-tickets/14231744",
-      "title": "MIA ASANO & guest",
+      "ticket_url": "https://www.ticketweb.com/event/mia-asano-deadgrace-star-theater-tickets/14231744",
+      "title": "MIA ASANO & DEADGRACE",
       "venue": {
         "address": "13 NW Sixth Avenue",
         "city": "Portland",
@@ -175751,5 +175780,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-31T23:46:53+00:00"
+  "generated_at": "2026-08-31T23:50:01+00:00"
 }
