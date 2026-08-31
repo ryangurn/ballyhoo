@@ -29377,6 +29377,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1Af1pZf",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/jacob-weldon-and-the-cobras-showdown-saloon-tickets/14296014",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.01,
+        "min": 20.01
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-05T21:00:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/jacob-weldon-and-the-cobras-showdown-saloon-tickets/14296014",
+      "title": "Jacob Weldon and the Cobras",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:19108241@2026-09-05T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/WV1LEXVsAkayf5i6qmeSyw.large.png",
       "is_all_day": false,
@@ -119763,43 +119794,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "end_at": "2026-09-25T02:00:00-07:00",
-      "id": "dopdx:17250515",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1776897484/event-17250515.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/24/the-rock-orchestra-by-candlelight-tickets",
-      "merged_sources": [
-        "dopdx",
-        "willamette_week"
-      ],
-      "organizer": "Presented by Innovation Arts & Entertainment",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 61.5,
-        "min": 61.5
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-24T20:00:00-07:00",
-      "summary": "The Rock Orchestra by Candlelight returns with an epic new 90-minute concert, breathing beautifully dark energy into legendary rock and metal. In ethereal candlelit settings, this band of 14 classical musicians unleash effortlessly enchanting melodies alongside powerful walls of distortion. Witness the unexpected union of classical music and metal. The Rock Orchestra and its events are not affiliated with the artists and composers listed. All trademarks are the property of their respective owners.",
-      "ticket_url": "https://www.portland5.com/event/rock-orchestra-candlelight",
-      "title": "The Rock Orchestra by Candlelight",
-      "venue": {
-        "address": "222 SW Clay",
-        "city": "Portland",
-        "latitude": 45.5125091,
-        "longitude": -122.6782122,
-        "name": "Keller Auditorium"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-09-25T02:00:00-07:00",
@@ -120255,6 +120249,43 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "McMenamins Crystal Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-25T02:00:00-07:00",
+      "id": "ticketmaster:Z7r9jZ1AAZVxZ",
+      "image_url": "https://s1.ticketm.net/dam/a/353/193f61ae-3476-426d-87e1-028c967a7353_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZVxZ",
+      "merged_sources": [
+        "dopdx",
+        "ticketmaster"
+      ],
+      "organizer": "Presented by Innovation Arts & Entertainment",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 61.5,
+        "min": 61.5
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-24T20:00:00-07:00",
+      "summary": "The Rock Orchestra by Candlelight returns with an epic new 90-minute concert, breathing beautifully dark energy into legendary rock and metal. In ethereal candlelit settings, this band of 14 classical musicians unleash effortlessly enchanting melodies alongside powerful walls of distortion. Witness the unexpected union of classical music and metal. The Rock Orchestra and its events are not affiliated with the artists and composers listed. All trademarks are the property of their respective owners.",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZVxZ",
+      "title": "The Rock Orchestra By Candlelight",
+      "venue": {
+        "address": "222 SW Clay St",
+        "city": "Portland",
+        "latitude": 45.497799,
+        "longitude": -122.693703,
+        "name": "Keller Auditorium"
       }
     },
     {
@@ -137182,6 +137213,41 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfPsOK",
+      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971813",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 6.2,
+        "min": 6.2
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-27T21:00:00-07:00",
+      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party 9pm : $5 : 21+",
+      "ticket_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971813",
+      "title": "CHURCH OF HIVE",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:19108251@2026-09-27T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dnS-M3KOc0GU9yDotRPjWQ.large.png",
       "is_all_day": false,
@@ -137206,35 +137272,6 @@
         "latitude": 45.597461,
         "longitude": -122.669663,
         "name": "Ponderosa Lounge & Grill"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:16902271@2026-09-27T21:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/W_yeDvr5tUeizggPrepCgg.large.png",
-      "is_all_day": false,
-      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fchurch-of-hive-star-theater-tickets%252F14018144%26utm_medium%3daffiliate",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-27T21:00:00-07:00",
-      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party",
-      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fchurch-of-hive-star-theater-tickets%252F14018144%26utm_medium%3daffiliate",
-      "title": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
-      "venue": {
-        "address": "13 NW 6th Ave",
-        "city": "Portland",
-        "latitude": 45.5233726501,
-        "longitude": -122.6767425537,
-        "name": "Star Theater"
       }
     },
     {
@@ -146865,6 +146902,37 @@
         "latitude": 45.543499,
         "longitude": -122.674202,
         "name": "Mississippi Studios"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfZ-o7",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021444",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.15,
+        "min": 23.15
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-03T22:30:00-07:00",
+      "summary": "Join us at the Jack London for the latest edition of our late-night cabaret spectacular, hosted by the Mad Marquis and featuring some of the finest dancers from the Rose City and beyond. Treat yourself to a sensational evening of sultry and exotic delights, liberally spiced with old-fashioned spontaneous fun! The show starts after the evenings musical performance.",
+      "ticket_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021444",
+      "title": "BURLY-Q REVUE",
+      "venue": {
+        "address": "529 SW 4th Ave.",
+        "city": "Portland",
+        "latitude": 45.519452,
+        "longitude": -122.676291,
+        "name": "Jack London Revue"
       }
     },
     {
@@ -159324,37 +159392,6 @@
       "summary": "Lila FordeSpecial Note: Ticket holders for this show receive free admission to Jack Londons Burly Q Revue Cabaret after the music!LILA FORDEWith a voice steeped in jazz, soul, folk, and old-school American songcraft, the Seattle-born, Los Angeles-based singer/songwriter has always carried a deep sense of self through her music. But on Life Can Still Be Sweet, her sophomore album, that self comes into fuller focus: A little older, a little wiser, more instinctive, and more firmly in command of the world shes building. Warm, whimsical, and full of growing pains, the record captures Forde in the thick of her twenties chasing songs, learning lessons, finding her people, and holding onto beauty even when life gets hard.I think I have a really unique voice not just my literal voice, but my proverbial voice, Forde says. In this day and age, and in this industry, theres a lot of trend following, and theres a lot of homogeny. Im just really trying to be my own artist.That individuality has been there from the beginning. Raised in a spiritual, music-filled household in Seattle, Forde grew up without a television and with her feet in the dirt the daughter of a musician and meditation teachers who encouraged her to stay curious, grounded, and creatively free. She sang in choirs, studied jazz in college, and steeped herself in the classics, from Bonnie Raitt and Carole King to Ella Fitzgerald and Nancy Wilson, while developing her soulful California sound that feels unmistakably her own.--- JLR Seating Map Notes: For this show, you may reserve individual tables on the map pictured. Note that some tables have limited sightlines as noted. General Admission ticket holders note that seating and sightlines are limted and may be standing room only. All table reservations include admission.Instructions: For Table Reservations: Note the relative location of the stage and bar on the map. Then click a table number to see prices, or click Show All Tickets. Click the + button to add a specific table to your cart. For General Admission tickets: click the GA Standing area. Click the + button to add additional tickets.Click Agree",
       "ticket_url": "https://www.ticketweb.com/event/lila-forde-jack-london-revue-tickets/14281884",
       "title": "LILA FORDE",
-      "venue": {
-        "address": "529 SW 4th Ave.",
-        "city": "Portland",
-        "latitude": 45.519452,
-        "longitude": -122.676291,
-        "name": "Jack London Revue"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfPe-K",
-      "image_url": "https://s1.ticketm.net/dam/a/c53/36c86c06-9b79-46df-9d95-3e7faeed0c53_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/stop-light-observations-jack-london-revue-tickets/14942853",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 31.39,
-        "min": 31.39
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-07T20:00:00-08:00",
-      "summary": "Stop Light ObservationsSould Out Presents: Stop Light ObservationsDoors: 7:00pmShow: 8:00pmAges 21+https://www.stoplightobservations.com/Special Note: Ticket holders for this show receive free admission to Jack Londons Burly Q Revue Cabaret after the music!---Stop Light Observations is a dynamic four-piece group hailing from Charleston, South Carolina. Their versatile sound is a unique blend of blues, pop, and indie rock infused with electronic beats and the soulful vocals of Will Blackburn. From songs like 2young to Security their music is a true reflection of their unique personalities, and their live shows are a testament to their authenticity and raw talent.SLO is Will Blackburn (vocals), Oleg Terentiev (drums), David Beam (guitar) and Jeremiah King (keys).--- Notes on Seating: Open seating, may be limited or standing room only. First come, first seated. Open dance floor may obscure sightlines.",
-      "ticket_url": "https://www.ticketweb.com/event/stop-light-observations-jack-london-revue-tickets/14942853",
-      "title": "STOP LIGHT OBSERVATIONS",
       "venue": {
         "address": "529 SW 4th Ave.",
         "city": "Portland",
@@ -174029,5 +174066,5 @@
       }
     }
   ],
-  "generated_at": "2026-08-31T19:59:01+00:00"
+  "generated_at": "2026-08-31T20:02:12+00:00"
 }

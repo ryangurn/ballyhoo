@@ -4401,6 +4401,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "dopdx:17250515",
+      "kept": "ticketmaster:Z7r9jZ1AAZVxZ",
+      "start_at": "2026-09-24T20:00:00-07:00",
+      "title_dropped": "The Rock Orchestra by Candlelight",
+      "title_kept": "The Rock Orchestra By Candlelight",
+      "venue": "Keller Auditorium"
+    },
+    {
       "dropped": "willamette_week:18462923@2026-09-24T20:00",
       "kept": "dopdx:17250515",
       "start_at": "2026-09-24T20:00:00-07:00",
@@ -5185,6 +5193,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:16902271@2026-09-27T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPsOK",
+      "start_at": "2026-09-27T21:00:00-07:00",
+      "title_dropped": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:18698896@2026-09-28T17:30",
       "kept": "dopdx:17232031",
       "start_at": "2026-09-28T17:30:00-07:00",
@@ -5553,9 +5569,9 @@
       "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 5867,
-  "floor_check": "5867 events against a 5900-event baseline",
-  "generated_at": "2026-08-31T19:59:01+00:00",
+  "event_count": 5868,
+  "floor_check": "5868 events against a 5876-event baseline",
+  "generated_at": "2026-08-31T20:02:12+00:00",
   "problems": [],
   "sources": [
     "calagator",
