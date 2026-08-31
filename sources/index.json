@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-31T07:42:18+00:00",
+  "generated_at": "2026-08-31T13:35:01+00:00",
   "sources": [
     {
       "event_count": 33,
-      "last_run_at": "2026-08-31T05:23:08+00:00",
+      "last_run_at": "2026-08-31T13:34:29+00:00",
       "source_id": "calagator",
       "status": "ok",
       "url": "sources/calagator.json"
@@ -12,14 +12,14 @@
       "event_count": 1308,
       "last_run_at": "2026-08-31T06:01:09+00:00",
       "source_id": "dopdx",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/dopdx.json"
     },
     {
       "event_count": 24,
       "last_run_at": "2026-08-31T05:53:18+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
@@ -33,42 +33,42 @@
       "event_count": 149,
       "last_run_at": "2026-08-31T05:48:24+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
       "event_count": 318,
       "last_run_at": "2026-08-31T06:16:57+00:00",
       "source_id": "pdxparent_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/pdxparent_markets.json"
     },
     {
       "event_count": 81,
       "last_run_at": "2026-08-31T05:25:06+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
       "event_count": 4,
       "last_run_at": "2026-08-31T06:10:21+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
       "event_count": 868,
       "last_run_at": "2026-08-31T05:28:54+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
       "event_count": 3727,
       "last_run_at": "2026-08-31T05:42:30+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
