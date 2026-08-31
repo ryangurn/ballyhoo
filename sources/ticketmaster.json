@@ -612,7 +612,7 @@
         "name": "Ticketmaster",
         "url": "https://www.ticketmaster.com"
       },
-      "start_at": "2026-09-04T21:00:00-07:00",
+      "start_at": "2026-09-04T20:30:00-07:00",
       "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
       "ticket_url": "https://www.ticketweb.com/event/skitz-kraven-with-figure-8-dantes-tickets/14973493",
       "title": "SKITZ KRAVEN with Figure 8, Poverty's Posterboy and Whitey NW",
@@ -4126,6 +4126,34 @@
         "city": "Tualatin",
         "latitude": 45.373512,
         "longitude": -122.711443,
+        "name": "Rolling Hills Community Church"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1A7xpaE",
+      "image_url": "https://s1.ticketm.net/dam/a/46d/99f0cf66-21c7-465b-bac4-60b137b8046d_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpaE",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-18T19:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xpaE",
+      "title": "Matthew West",
+      "venue": {
+        "address": "3550 SE Borland Road",
+        "city": "Tualatin",
+        "latitude": 45.3689,
+        "longitude": -122.764099,
         "name": "Rolling Hills Community Church"
       }
     },
@@ -10427,7 +10455,7 @@
       "id": "ticketmaster:rZ7HnEZ1AfFsq7",
       "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/mia-asano-guest-star-theater-tickets/14231744",
+      "listing_url": "https://www.ticketweb.com/event/mia-asano-deadgrace-star-theater-tickets/14231744",
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -10440,8 +10468,8 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-10-09T19:30:00-07:00",
-      "ticket_url": "https://www.ticketweb.com/event/mia-asano-guest-star-theater-tickets/14231744",
-      "title": "MIA ASANO & guest",
+      "ticket_url": "https://www.ticketweb.com/event/mia-asano-deadgrace-star-theater-tickets/14231744",
+      "title": "MIA ASANO & DEADGRACE",
       "venue": {
         "address": "13 NW Sixth Avenue",
         "city": "Portland",
@@ -25320,7 +25348,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-31T20:01:25+00:00",
+  "generated_at": "2026-08-31T23:49:21+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
