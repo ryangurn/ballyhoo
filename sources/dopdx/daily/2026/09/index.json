@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/dopdx",
+  "month": "2026-09",
+  "snapshots": [
+    {
+      "bytes": 1792453,
+      "captured_at": "2026-09-01T00:03:00+00:00",
+      "content_sha256": "1d34215fa476537300611db018162628490af6dd59f0e75c36500a1bff6f3fea",
+      "daily": "sources/dopdx/daily/2026/09/01.json.gz",
+      "event_count": 1399,
+      "gzip_bytes": 392720,
+      "recent": "sources/dopdx/recent/2026-09-01/000300Z.json.gz",
+      "sha256": "679e45b5f64ed2cde90ae924089a8b73b97ecda117d30e355960664f68be2629",
+      "unchanged": false
+    }
+  ]
+}
