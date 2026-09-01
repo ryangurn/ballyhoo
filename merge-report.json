@@ -5713,30 +5713,6 @@
       "venue": "Kenton Farmers Market"
     },
     {
-      "dropped": "willamette_week:19442195@2026-08-31T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfaFOf",
-      "start_at": "2026-08-31T19:00:00-07:00",
-      "title_dropped": "Square Dancing",
-      "title_kept": "Square Dancing with Maggie & Friends and Caller Amy Hofer",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:19120308@2026-08-31T20:00",
-      "kept": "ticketmaster:Z7r9jZ1A703rA",
-      "start_at": "2026-08-31T20:00:00-07:00",
-      "title_dropped": "Brenn! - Hawthorne Theare - Portland",
-      "title_kept": "Brenn!",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "willamette_week:17586570@2026-08-31T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPw37",
-      "start_at": "2026-08-31T21:00:00-07:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:17586570@2026-09-14T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AKPwo7",
       "start_at": "2026-09-14T21:00:00-07:00",
@@ -5759,11 +5735,19 @@
       "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
       "title_kept": "KARAOKE FROM HELL",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:17586570@2026-09-28T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPwaV",
+      "start_at": "2026-09-28T21:00:00-07:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
     }
   ],
-  "event_count": 5950,
-  "floor_check": "5950 events against a 5902-event baseline",
-  "generated_at": "2026-09-01T04:59:47+00:00",
+  "event_count": 5949,
+  "floor_check": "5949 events against a 5928-event baseline",
+  "generated_at": "2026-09-01T05:03:49+00:00",
   "problems": [],
   "sources": [
     "calagator",
