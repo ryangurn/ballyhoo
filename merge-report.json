@@ -5657,6 +5657,14 @@
       "venue": "Roseland Theater"
     },
     {
+      "dropped": "dopdx:16941218",
+      "kept": "ticketmaster:Z7r9jZ1AAvKaI",
+      "start_at": "2026-09-30T20:00:00-07:00",
+      "title_dropped": "Snarky Puppy",
+      "title_kept": "Snarky Puppy (21 and Over)",
+      "venue": "Revolution Hall - Portland"
+    },
+    {
       "dropped": "willamette_week:18147512@2026-09-30T20:00",
       "kept": "dopdx:16941218",
       "start_at": "2026-09-30T20:00:00-07:00",
@@ -5881,9 +5889,9 @@
       "venue": "McMenamins Mission Theater"
     }
   ],
-  "event_count": 6056,
-  "floor_check": "6056 events against a 6031-event baseline",
-  "generated_at": "2026-09-01T18:24:57+00:00",
+  "event_count": 6058,
+  "floor_check": "6058 events against a 6031-event baseline",
+  "generated_at": "2026-09-01T18:28:44+00:00",
   "problems": [],
   "sources": [
     "calagator",
