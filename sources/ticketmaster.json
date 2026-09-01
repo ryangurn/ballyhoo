@@ -8016,6 +8016,34 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:Z7r9jZ1AAvKaI",
+      "image_url": "https://s1.ticketm.net/dam/a/472/a218a4e5-3abf-463a-9bd6-7e59366ec472_1867411_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvKaI",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-30T20:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvKaI",
+      "title": "Snarky Puppy (21 and Over)",
+      "venue": {
+        "address": "1300 SE Stark Street #110",
+        "city": "Portland",
+        "latitude": 45.513901,
+        "longitude": -122.642799,
+        "name": "Revolution Hall - Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7JeuM",
       "image_url": "https://s1.ticketm.net/dam/a/bff/1f2221d5-f25f-4b77-ba6d-c070698efbff_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -15298,6 +15326,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1Af1fFf",
+      "image_url": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/the-suitcase-junket-showdown-saloon-tickets/14294214",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 27.22,
+        "min": 27.22
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-05T20:00:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/the-suitcase-junket-showdown-saloon-tickets/14294214",
+      "title": "The Suitcase Junket",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7J8_8",
       "image_url": "https://s1.ticketm.net/dam/a/db8/0295936e-23a1-4ac3-b97b-d35abeaa0db8_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -19322,6 +19381,34 @@
         "latitude": 45.5201,
         "longitude": -122.6884,
         "name": "Arlene Schnitzer Concert Hall"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AAZYfN",
+      "image_url": "https://s1.ticketm.net/dam/a/eee/76e374cb-199e-412c-b076-37f3887e8eee_279251_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZYfN",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-10T19:30:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZYfN",
+      "title": "Luke Burbank w/ Pattie Gonia",
+      "venue": {
+        "address": "1300 SE Stark Street #110",
+        "city": "Portland",
+        "latitude": 45.513901,
+        "longitude": -122.642799,
+        "name": "Revolution Hall - Portland"
       }
     },
     {
@@ -25261,7 +25348,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-01T14:51:32+00:00",
+  "generated_at": "2026-09-01T18:27:57+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
