@@ -8334,6 +8334,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1Af1AO7",
+      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/the-mistons-with-have-you-dantes-tickets/14285804",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 17.0,
+        "min": 17.0
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-01T20:30:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/the-mistons-with-have-you-dantes-tickets/14285804",
+      "title": "THE MISTONS with Have You Eaten & Jewelry Exchange",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1AfFUv7",
       "image_url": "https://s1.ticketm.net/dam/a/2a9/b557222f-0c9e-4a8e-b0dc-79ad677822a9_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -12490,6 +12521,37 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Revolution Hall - Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1Af19b7",
+      "image_url": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/iti-followed-by-sinferno-cabaret-dantes-tickets/14297604",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 21.09,
+        "min": 21.09
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-18T20:30:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/iti-followed-by-sinferno-cabaret-dantes-tickets/14297604",
+      "title": "IT&I followed by Sinferno Cabaret",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
       }
     },
     {
@@ -25348,7 +25410,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-01T18:27:57+00:00",
+  "generated_at": "2026-09-01T21:45:01+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
