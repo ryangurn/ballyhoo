@@ -20741,6 +20741,30 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-04T22:00:00-07:00",
+      "id": "calagator:1250482692",
+      "is_all_day": false,
+      "listing_url": "https://luma.com/yshjm5r2",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-04T21:00:00-07:00",
+      "summary": "It's Friday evening. You're wiped. But you're still in the mood for something entertaining.\r\n\r\n​Well, unfortunately, this ain't it.\r\n\r\n​But it is an opportunity to join folks from the Portland startup community for a little watch party — all from the comfort of your own keyboard.\r\n\r\nhttps://luma.com/yshjm5r2",
+      "title": "Silicon Florist weekly watch party",
+      "venue": {
+        "name": "YouTube Stream"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-05T02:00:00-07:00",
@@ -21125,14 +21149,11 @@
       "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70884",
       "merged_sources": [
         "dopdx",
-        "ticketmaster",
-        "willamette_week"
+        "ticketmaster"
       ],
       "price": {
         "currency": "USD",
-        "is_free": false,
-        "max": 46.0,
-        "min": 34.0
+        "is_free": false
       },
       "source": {
         "id": "ticketmaster",
@@ -179605,5 +179626,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-01T16:59:53+00:00"
+  "generated_at": "2026-09-01T18:24:57+00:00"
 }

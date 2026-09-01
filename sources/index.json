@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-01T16:59:53+00:00",
+  "generated_at": "2026-09-01T18:24:57+00:00",
   "sources": [
     {
-      "event_count": 32,
-      "last_run_at": "2026-09-01T14:46:35+00:00",
+      "event_count": 33,
+      "last_run_at": "2026-09-01T18:24:16+00:00",
       "source_id": "calagator",
       "status": "ok",
       "url": "sources/calagator.json"
@@ -19,7 +19,7 @@
       "event_count": 24,
       "last_run_at": "2026-09-01T11:53:50+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
