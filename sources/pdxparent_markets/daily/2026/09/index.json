@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/pdxparent_markets",
+  "month": "2026-09",
+  "snapshots": [
+    {
+      "bytes": 296234,
+      "captured_at": "2026-09-01T05:44:42+00:00",
+      "content_sha256": "17af649489d60923a64ce66bcfaac8ca0de8c0b22906a475a8415b7b036dc95d",
+      "daily": "sources/pdxparent_markets/daily/2026/09/01.json.gz",
+      "event_count": 309,
+      "gzip_bytes": 10979,
+      "recent": "sources/pdxparent_markets/recent/2026-09-01/054442Z.json.gz",
+      "sha256": "dcc9e9995df38cad4abd870c256ddd513e5d5d6356967773562b3ece02c8d8df",
+      "unchanged": true
+    }
+  ]
+}
