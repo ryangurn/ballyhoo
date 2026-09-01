@@ -1,0 +1,17 @@
+{
+  "artifact": "events",
+  "month": "2026-09",
+  "snapshots": [
+    {
+      "bytes": 8438722,
+      "captured_at": "2026-09-01T00:03:01+00:00",
+      "content_sha256": "0be8dcb4457236045cad0b0ed196c990789d53a1ff0574858fa48718a0b8b372",
+      "daily": "events/daily/2026/09/01.json.gz",
+      "event_count": 5944,
+      "gzip_bytes": 1845714,
+      "recent": "events/recent/2026-09-01/000301Z.json.gz",
+      "sha256": "c0f42c67602488275d11af34933af4504778f88f8bed00bfa7483c9e39945f92",
+      "unchanged": true
+    }
+  ]
+}
