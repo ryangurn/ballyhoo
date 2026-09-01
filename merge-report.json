@@ -481,6 +481,14 @@
       "venue": "Mississippi Studios"
     },
     {
+      "dropped": "willamette_week:19788456@2026-09-02T17:00",
+      "kept": "dopdx:17791804",
+      "start_at": "2026-09-02T17:00:00-07:00",
+      "title_dropped": "Rhinestone x OKRA: A Collab One Night Only",
+      "title_kept": "Rhinestone x OKRA: A Collab One Night Only",
+      "venue": "Rhinestone"
+    },
+    {
       "dropped": "willamette_week:19466208@2026-09-02T17:00",
       "kept": "portland_farmers_market:a-notion-2@2026-09-02",
       "start_at": "2026-09-02T17:00:00-07:00",
@@ -5873,9 +5881,9 @@
       "venue": "McMenamins Mission Theater"
     }
   ],
-  "event_count": 6030,
-  "floor_check": "6030 events against a 5928-event baseline",
-  "generated_at": "2026-09-01T05:34:22+00:00",
+  "event_count": 6031,
+  "floor_check": "6031 events against a 5928-event baseline",
+  "generated_at": "2026-09-01T05:37:45+00:00",
   "problems": [],
   "sources": [
     "calagator",
