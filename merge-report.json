@@ -489,6 +489,54 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19264412@2026-09-23T19:00",
+      "kept": "dopdx:17510860",
+      "start_at": "2026-09-23T19:00:00-07:00",
+      "title_dropped": "Sleep: North America 2026",
+      "title_kept": "Sleep: North America 2026",
+      "venue": "Roseland Theater"
+    },
+    {
+      "dropped": "willamette_week:19348739@2026-09-23T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af18ef",
+      "start_at": "2026-09-23T19:00:00-07:00",
+      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "title_kept": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "dopdx:17416448",
+      "kept": "ticketmaster:Z7r9jZ1A70MJ4",
+      "start_at": "2026-09-23T19:30:00-07:00",
+      "title_dropped": "Sonic Live In Concert",
+      "title_kept": "Sonic - Live in Concert",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "willamette_week:19165860@2026-09-23T19:30",
+      "kept": "dopdx:17416448",
+      "start_at": "2026-09-23T19:30:00-07:00",
+      "title_dropped": "Sonic Symphony",
+      "title_kept": "Sonic Live In Concert",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "willamette_week:19602449@2026-09-23T19:30",
+      "kept": "dopdx:17290394",
+      "start_at": "2026-09-23T19:30:00-07:00",
+      "title_dropped": "Special Event: Joanne McNally",
+      "title_kept": "Joanne McNally",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:18608595@2026-09-23T19:30",
+      "kept": "dopdx:17290394",
+      "start_at": "2026-09-23T19:30:00-07:00",
+      "title_dropped": "Joanne McNally",
+      "title_kept": "Joanne McNally",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:19302284@2026-09-01T08:00",
       "kept": "dopdx:17768793",
       "start_at": "2026-09-01T08:00:00-07:00",
@@ -4329,54 +4377,6 @@
       "venue": "Patricia Reser Center for the Arts"
     },
     {
-      "dropped": "willamette_week:19264412@2026-09-23T19:00",
-      "kept": "dopdx:17510860",
-      "start_at": "2026-09-23T19:00:00-07:00",
-      "title_dropped": "Sleep: North America 2026",
-      "title_kept": "Sleep: North America 2026",
-      "venue": "Roseland Theater"
-    },
-    {
-      "dropped": "willamette_week:19348739@2026-09-23T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1Af18ef",
-      "start_at": "2026-09-23T19:00:00-07:00",
-      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "title_kept": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "dopdx:17416448",
-      "kept": "ticketmaster:Z7r9jZ1A70MJ4",
-      "start_at": "2026-09-23T19:30:00-07:00",
-      "title_dropped": "Sonic Live In Concert",
-      "title_kept": "Sonic - Live in Concert",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "willamette_week:19165860@2026-09-23T19:30",
-      "kept": "dopdx:17416448",
-      "start_at": "2026-09-23T19:30:00-07:00",
-      "title_dropped": "Sonic Symphony",
-      "title_kept": "Sonic Live In Concert",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "willamette_week:19602449@2026-09-23T19:30",
-      "kept": "dopdx:17290394",
-      "start_at": "2026-09-23T19:30:00-07:00",
-      "title_dropped": "Special Event: Joanne McNally",
-      "title_kept": "Joanne McNally",
-      "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:18608595@2026-09-23T19:30",
-      "kept": "dopdx:17290394",
-      "start_at": "2026-09-23T19:30:00-07:00",
-      "title_dropped": "Joanne McNally",
-      "title_kept": "Joanne McNally",
-      "venue": "Helium Comedy Club"
-    },
-    {
       "dropped": "willamette_week:18507456@2026-09-23T20:00",
       "kept": "dopdx:17431209",
       "start_at": "2026-09-23T20:00:00-07:00",
@@ -5891,7 +5891,7 @@
   ],
   "event_count": 6070,
   "floor_check": "6070 events against a 6058-event baseline",
-  "generated_at": "2026-09-01T22:06:43+00:00",
+  "generated_at": "2026-09-02T00:03:07+00:00",
   "problems": [],
   "sources": [
     "calagator",
