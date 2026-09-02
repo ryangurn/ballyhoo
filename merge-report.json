@@ -3897,6 +3897,14 @@
       "venue": "Kelly's Olympian"
     },
     {
+      "dropped": "willamette_week:19624922@2026-09-19T20:00",
+      "kept": "dopdx:17777514",
+      "start_at": "2026-09-19T20:00:00-07:00",
+      "title_dropped": "Burwesque!: A Cewebwation of the Pwincess Bwide!",
+      "title_kept": "Burwesque!: A Cewebwation of the Pwincess Bwide",
+      "venue": "Chapel Theatre"
+    },
+    {
       "dropped": "dopdx:17513528",
       "kept": "ticketmaster:rZ7HnEZ1AfJkpd",
       "start_at": "2026-09-19T20:00:00-07:00",
@@ -3911,14 +3919,6 @@
       "title_dropped": "THE SCHIZOPHONICS with Fever Dog",
       "title_kept": "THE SCHIZOPHONICS with Fever Dog",
       "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:19624922@2026-09-19T20:00",
-      "kept": "dopdx:17777514",
-      "start_at": "2026-09-19T20:00:00-07:00",
-      "title_dropped": "Burwesque!: A Cewebwation of the Pwincess Bwide!",
-      "title_kept": "Burwesque!: A Cewebwation of the Pwincess Bwide",
-      "venue": "Chapel Theatre"
     },
     {
       "dropped": "willamette_week:19679595@2026-09-19T20:00",
@@ -6219,7 +6219,7 @@
   ],
   "event_count": 6220,
   "floor_check": "6220 events against a 6132-event baseline",
-  "generated_at": "2026-09-02T21:55:29+00:00",
+  "generated_at": "2026-09-02T21:59:59+00:00",
   "problems": [],
   "sources": [
     "calagator",
