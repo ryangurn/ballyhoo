@@ -5769,6 +5769,22 @@
       "venue": "Oregon Convention Center"
     },
     {
+      "dropped": "obt:828",
+      "kept": "ticketmaster:Z7r9jZ1AAvkAJ",
+      "start_at": "2026-10-17T14:00:00-07:00",
+      "title_dropped": "Swan Lake",
+      "title_kept": "Oregon Ballet Theatre Presents Swan Lake",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "obt:826",
+      "kept": "ticketmaster:Z7r9jZ1AAvkAP",
+      "start_at": "2026-10-17T19:30:00-07:00",
+      "title_dropped": "Swan Lake",
+      "title_kept": "Oregon Ballet Theatre Presents Swan Lake",
+      "venue": "Keller Auditorium"
+    },
+    {
       "dropped": "willamette_week:18521271@2026-09-02T15:00",
       "kept": "portland_farmers_market:kenton-farmers-market-2026@2026-09-02",
       "start_at": "2026-09-02T15:00:00-07:00",
@@ -5889,9 +5905,9 @@
       "venue": "McMenamins Mission Theater"
     }
   ],
-  "event_count": 6070,
-  "floor_check": "6070 events against a 6058-event baseline",
-  "generated_at": "2026-09-02T00:03:07+00:00",
+  "event_count": 6072,
+  "floor_check": "6072 events against a 6061-event baseline",
+  "generated_at": "2026-09-02T00:10:55+00:00",
   "problems": [],
   "sources": [
     "calagator",
