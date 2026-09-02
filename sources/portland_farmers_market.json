@@ -134,6 +134,39 @@
     },
     {
       "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-09-05T14:00:00-07:00",
+      "id": "portland_farmers_market:recipe-demo-book-signing-with-pierce-abernathy@2026-09-05",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2026/09/pierce-abernathy-promo.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/recipe-demo-book-signing-with-pierce-abernathy/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-09-05T08:30:00-07:00",
+      "summary": "Recipe developer and food content creator Pierce Abernathy will be at PSU Farmers Market promoting his new cookbook, “on Sat, Sept 5, 2026.",
+      "title": "Recipe Demo &amp; Book Signing with Pierce Abernathy",
+      "venue": {
+        "address": "SW Park & Montgomery",
+        "city": "Portland",
+        "latitude": 45.5128932,
+        "longitude": -122.6853859,
+        "name": "PSU Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -2542,7 +2575,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-01T20:58:46+00:00",
+  "generated_at": "2026-09-02T04:22:25+00:00",
   "source_id": "portland_farmers_market",
   "status": "ok"
 }
