@@ -489,6 +489,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19794487@2026-09-23T19:00",
+      "kept": "calagator:1250482693",
+      "start_at": "2026-09-23T19:00:00-07:00",
+      "title_dropped": "The Last Dive: Portland Premiere",
+      "title_kept": "The Last Dive: Portland Premiere",
+      "venue": "Cinema 21"
+    },
+    {
       "dropped": "willamette_week:19264412@2026-09-23T19:00",
       "kept": "dopdx:17510860",
       "start_at": "2026-09-23T19:00:00-07:00",
@@ -6041,9 +6049,9 @@
       "venue": "The Get Down Music Venue"
     }
   ],
-  "event_count": 6062,
-  "floor_check": "6062 events against a 6064-event baseline",
-  "generated_at": "2026-09-02T04:28:47+00:00",
+  "event_count": 6080,
+  "floor_check": "6080 events against a 6064-event baseline",
+  "generated_at": "2026-09-02T04:45:52+00:00",
   "problems": [],
   "sources": [
     "calagator",
