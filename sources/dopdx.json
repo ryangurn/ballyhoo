@@ -3111,6 +3111,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-05T02:00:00-07:00",
+      "id": "dopdx:17793887",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268460/event-17793887.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/4/moana-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-04T18:30:00-07:00",
+      "summary": "(115) Running time: 115 minutes In Disney’s live-action adaptation of the beloved Oscar®-nominated animated adventure, Moana (Catherine Lagaʻaia) answers the Ocean’s call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui (Dwayne Johnson) on an unforgettable journey to restore prosperity to her people. The film is directed by Emmy® and Tony Award® winner Thomas Kail (“Hamilton”); produced by Dwayne Johnson, Dany Garcia, Beau Flynn, Hiram Garcia and Lin-Manuel Miranda; and executive produced by Thomas Kail, Scott Sheldon, Charles Newirth and Auliʻi Cravalho, who voiced Moana in the animated features “Moana” and “Moana 2.” Audiences can experience the brilliant cinematic sights, sounds and",
+      "title": "Moana",
+      "venue": {
+        "address": "5736 NE 33rd Ave",
+        "city": "Portland",
+        "latitude": 45.5644833,
+        "longitude": -122.6302851,
+        "name": "Kennedy School"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-04T19:30:00-07:00",
@@ -3161,35 +3190,6 @@
         "address": "6 SW 3rd Ave",
         "city": "Portland",
         "name": "Can Can's Paris Theatre"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-09-05T02:00:00-07:00",
-      "id": "dopdx:17793887",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268460/event-17793887.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/4/moana-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-04T18:30:00-07:00",
-      "summary": "(115) Running time: 115 minutes In Disney’s live-action adaptation of the beloved Oscar®-nominated animated adventure, Moana (Catherine Lagaʻaia) answers the Ocean’s call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui (Dwayne Johnson) on an unforgettable journey to restore prosperity to her people. The film is directed by Emmy® and Tony Award® winner Thomas Kail (“Hamilton”); produced by Dwayne Johnson, Dany Garcia, Beau Flynn, Hiram Garcia and Lin-Manuel Miranda; and executive produced by Thomas Kail, Scott Sheldon, Charles Newirth and Auliʻi Cravalho, who voiced Moana in the animated features “Moana” and “Moana 2.” Audiences can experience the brilliant cinematic sights, sounds and",
-      "title": "Moana",
-      "venue": {
-        "address": "5736 NE 33rd Ave",
-        "city": "Portland",
-        "latitude": 45.5644833,
-        "longitude": -122.6302851,
-        "name": "Kennedy School"
       }
     },
     {
@@ -5328,33 +5328,6 @@
     },
     {
       "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-09-06T02:00:00-07:00",
-      "id": "dopdx:17789296",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788155111/event-17789296.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/5/paint-nite-double-barrel-taphouse-vancouver-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 49.38,
-        "min": 49.38
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-05T16:00:00-07:00",
-      "summary": "Paint & sip in VANCOUVER: create Lakeside Dreamer at Double Barrel Taphouse. All supplies included, no experience needed. 21+.",
-      "title": "Paint Nite Double Barrel Taphouse VANCOUVER",
-      "venue": {
-        "name": "Double Barrel Taphouse"
-      }
-    },
-    {
-      "categories": [
         "film"
       ],
       "end_at": "2026-09-06T02:00:00-07:00",
@@ -5380,6 +5353,33 @@
         "latitude": 45.5644833,
         "longitude": -122.6302851,
         "name": "Kennedy School"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-09-06T02:00:00-07:00",
+      "id": "dopdx:17789296",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788155111/event-17789296.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/5/paint-nite-double-barrel-taphouse-vancouver-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 49.38,
+        "min": 49.38
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-05T16:00:00-07:00",
+      "summary": "Paint & sip in VANCOUVER: create Lakeside Dreamer at Double Barrel Taphouse. All supplies included, no experience needed. 21+.",
+      "title": "Paint Nite Double Barrel Taphouse VANCOUVER",
+      "venue": {
+        "name": "Double Barrel Taphouse"
       }
     },
     {
@@ -6772,6 +6772,35 @@
         "film"
       ],
       "end_at": "2026-09-06T02:00:00-07:00",
+      "id": "dopdx:17793892",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268471/event-17793892.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/5/the-invite-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-05T21:30:00-07:00",
+      "summary": "(R) Running time: 107 minutes A middle-aged couple who are feeling stagnant in their relationship invite the younger and livelier couple from the apartment upstairs for a get-together that takes an unexpected turn.",
+      "title": "The Invite",
+      "venue": {
+        "address": "5736 NE 33rd Ave",
+        "city": "Portland",
+        "latitude": 45.5644833,
+        "longitude": -122.6302851,
+        "name": "Kennedy School"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-06T02:00:00-07:00",
       "id": "dopdx:17733540",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786815266/event-17733540.png",
       "is_all_day": false,
@@ -6819,35 +6848,6 @@
         "address": "6 SW 3rd Ave",
         "city": "Portland",
         "name": "Can Can's Paris Theatre"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-09-06T02:00:00-07:00",
-      "id": "dopdx:17793892",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268471/event-17793892.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/5/the-invite-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-05T21:30:00-07:00",
-      "summary": "(R) Running time: 107 minutes A middle-aged couple who are feeling stagnant in their relationship invite the younger and livelier couple from the apartment upstairs for a get-together that takes an unexpected turn.",
-      "title": "The Invite",
-      "venue": {
-        "address": "5736 NE 33rd Ave",
-        "city": "Portland",
-        "latitude": 45.5644833,
-        "longitude": -122.6302851,
-        "name": "Kennedy School"
       }
     },
     {
@@ -7293,6 +7293,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-07T02:00:00-07:00",
+      "id": "dopdx:17793889",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268464/event-17793889.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/6/moana-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-06T13:00:00-07:00",
+      "summary": "(115) Running time: 115 minutes In Disney’s live-action adaptation of the beloved Oscar®-nominated animated adventure, Moana (Catherine Lagaʻaia) answers the Ocean’s call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui (Dwayne Johnson) on an unforgettable journey to restore prosperity to her people. The film is directed by Emmy® and Tony Award® winner Thomas Kail (“Hamilton”); produced by Dwayne Johnson, Dany Garcia, Beau Flynn, Hiram Garcia and Lin-Manuel Miranda; and executive produced by Thomas Kail, Scott Sheldon, Charles Newirth and Auliʻi Cravalho, who voiced Moana in the animated features “Moana” and “Moana 2.” Audiences can experience the brilliant cinematic sights, sounds and",
+      "title": "Moana",
+      "venue": {
+        "address": "5736 NE 33rd Ave",
+        "city": "Portland",
+        "latitude": 45.5644833,
+        "longitude": -122.6302851,
+        "name": "Kennedy School"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-09-07T02:00:00-07:00",
@@ -7413,35 +7442,6 @@
       "categories": [
         "film"
       ],
-      "end_at": "2026-09-07T02:00:00-07:00",
-      "id": "dopdx:17793889",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268464/event-17793889.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/6/moana-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-06T13:00:00-07:00",
-      "summary": "(115) Running time: 115 minutes In Disney’s live-action adaptation of the beloved Oscar®-nominated animated adventure, Moana (Catherine Lagaʻaia) answers the Ocean’s call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui (Dwayne Johnson) on an unforgettable journey to restore prosperity to her people. The film is directed by Emmy® and Tony Award® winner Thomas Kail (“Hamilton”); produced by Dwayne Johnson, Dany Garcia, Beau Flynn, Hiram Garcia and Lin-Manuel Miranda; and executive produced by Thomas Kail, Scott Sheldon, Charles Newirth and Auliʻi Cravalho, who voiced Moana in the animated features “Moana” and “Moana 2.” Audiences can experience the brilliant cinematic sights, sounds and",
-      "title": "Moana",
-      "venue": {
-        "address": "5736 NE 33rd Ave",
-        "city": "Portland",
-        "latitude": 45.5644833,
-        "longitude": -122.6302851,
-        "name": "Kennedy School"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
       "end_at": "2026-09-06T21:00:00-07:00",
       "id": "dopdx:17695786",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785953872/event-17695786.jpg",
@@ -7546,6 +7546,35 @@
       "title": "Sunset Splash Paint-N-Sipp at The Sipp Public House",
       "venue": {
         "name": "The Sipp Public House"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-07T02:00:00-07:00",
+      "id": "dopdx:17793884",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268452/event-17793884.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/6/minions-monsters-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-06T16:00:00-07:00",
+      "summary": "(90) Running time: 90 minutes This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "title": "Minions & Monsters",
+      "venue": {
+        "address": "5736 NE 33rd Ave",
+        "city": "Portland",
+        "latitude": 45.5644833,
+        "longitude": -122.6302851,
+        "name": "Kennedy School"
       }
     },
     {
@@ -7658,35 +7687,6 @@
         "latitude": 45.5130611,
         "longitude": -122.5925799,
         "name": "Mt. Tabor Park"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-09-07T02:00:00-07:00",
-      "id": "dopdx:17793884",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268452/event-17793884.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/6/minions-monsters-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-06T16:00:00-07:00",
-      "summary": "(90) Running time: 90 minutes This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "title": "Minions & Monsters",
-      "venue": {
-        "address": "5736 NE 33rd Ave",
-        "city": "Portland",
-        "latitude": 45.5644833,
-        "longitude": -122.6302851,
-        "name": "Kennedy School"
       }
     },
     {
@@ -8130,6 +8130,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-07T02:00:00-07:00",
+      "id": "dopdx:17793893",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268473/event-17793893.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/6/the-invite-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-06T19:00:00-07:00",
+      "summary": "(R) Running time: 107 minutes A middle-aged couple who are feeling stagnant in their relationship invite the younger and livelier couple from the apartment upstairs for a get-together that takes an unexpected turn.",
+      "title": "The Invite",
+      "venue": {
+        "address": "5736 NE 33rd Ave",
+        "city": "Portland",
+        "latitude": 45.5644833,
+        "longitude": -122.6302851,
+        "name": "Kennedy School"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-06T23:00:00-07:00",
@@ -8329,35 +8358,6 @@
         "address": "720 SE Hawthorne Blvd, Portland, OR, 97214",
         "city": "Portland",
         "name": "The High Limit Room"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-09-07T02:00:00-07:00",
-      "id": "dopdx:17793893",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268473/event-17793893.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/6/the-invite-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-06T19:00:00-07:00",
-      "summary": "(R) Running time: 107 minutes A middle-aged couple who are feeling stagnant in their relationship invite the younger and livelier couple from the apartment upstairs for a get-together that takes an unexpected turn.",
-      "title": "The Invite",
-      "venue": {
-        "address": "5736 NE 33rd Ave",
-        "city": "Portland",
-        "latitude": 45.5644833,
-        "longitude": -122.6302851,
-        "name": "Kennedy School"
       }
     },
     {
@@ -8771,6 +8771,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-08T02:00:00-07:00",
+      "id": "dopdx:17793890",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268466/event-17793890.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/7/moana-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-07T13:00:00-07:00",
+      "summary": "(115) Running time: 115 minutes In Disney’s live-action adaptation of the beloved Oscar®-nominated animated adventure, Moana (Catherine Lagaʻaia) answers the Ocean’s call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui (Dwayne Johnson) on an unforgettable journey to restore prosperity to her people. The film is directed by Emmy® and Tony Award® winner Thomas Kail (“Hamilton”); produced by Dwayne Johnson, Dany Garcia, Beau Flynn, Hiram Garcia and Lin-Manuel Miranda; and executive produced by Thomas Kail, Scott Sheldon, Charles Newirth and Auliʻi Cravalho, who voiced Moana in the animated features “Moana” and “Moana 2.” Audiences can experience the brilliant cinematic sights, sounds and",
+      "title": "Moana",
+      "venue": {
+        "address": "5736 NE 33rd Ave",
+        "city": "Portland",
+        "latitude": 45.5644833,
+        "longitude": -122.6302851,
+        "name": "Kennedy School"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-09-08T02:00:00-07:00",
@@ -8802,10 +8831,10 @@
         "film"
       ],
       "end_at": "2026-09-08T02:00:00-07:00",
-      "id": "dopdx:17793890",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268466/event-17793890.png",
+      "id": "dopdx:17793885",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268454/event-17793885.png",
       "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/7/moana-tickets",
+      "listing_url": "https://dopdx.com/events/2026/9/7/minions-monsters-tickets",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -8815,9 +8844,9 @@
         "name": "DoPDX",
         "url": "https://dopdx.com"
       },
-      "start_at": "2026-09-07T13:00:00-07:00",
-      "summary": "(115) Running time: 115 minutes In Disney’s live-action adaptation of the beloved Oscar®-nominated animated adventure, Moana (Catherine Lagaʻaia) answers the Ocean’s call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui (Dwayne Johnson) on an unforgettable journey to restore prosperity to her people. The film is directed by Emmy® and Tony Award® winner Thomas Kail (“Hamilton”); produced by Dwayne Johnson, Dany Garcia, Beau Flynn, Hiram Garcia and Lin-Manuel Miranda; and executive produced by Thomas Kail, Scott Sheldon, Charles Newirth and Auliʻi Cravalho, who voiced Moana in the animated features “Moana” and “Moana 2.” Audiences can experience the brilliant cinematic sights, sounds and",
-      "title": "Moana",
+      "start_at": "2026-09-07T16:00:00-07:00",
+      "summary": "(90) Running time: 90 minutes This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "title": "Minions & Monsters",
       "venue": {
         "address": "5736 NE 33rd Ave",
         "city": "Portland",
@@ -8850,35 +8879,6 @@
       "title": "Soter Vineyards",
       "venue": {
         "name": "Stoller Family Estates Vineyard"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-09-08T02:00:00-07:00",
-      "id": "dopdx:17793885",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268454/event-17793885.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/7/minions-monsters-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-07T16:00:00-07:00",
-      "summary": "(90) Running time: 90 minutes This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "title": "Minions & Monsters",
-      "venue": {
-        "address": "5736 NE 33rd Ave",
-        "city": "Portland",
-        "latitude": 45.5644833,
-        "longitude": -122.6302851,
-        "name": "Kennedy School"
       }
     },
     {
@@ -9062,6 +9062,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-09-08T02:00:00-07:00",
+      "id": "dopdx:17793894",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268475/event-17793894.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/7/the-invite-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-07T19:00:00-07:00",
+      "summary": "(R) Running time: 107 minutes A middle-aged couple who are feeling stagnant in their relationship invite the younger and livelier couple from the apartment upstairs for a get-together that takes an unexpected turn.",
+      "title": "The Invite",
+      "venue": {
+        "address": "5736 NE 33rd Ave",
+        "city": "Portland",
+        "latitude": 45.5644833,
+        "longitude": -122.6302851,
+        "name": "Kennedy School"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-08T02:00:00-07:00",
@@ -9146,35 +9175,6 @@
         "latitude": 45.5124236,
         "longitude": -122.6483752,
         "name": "No Fun"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-09-08T02:00:00-07:00",
-      "id": "dopdx:17793894",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268475/event-17793894.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/7/the-invite-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-07T19:00:00-07:00",
-      "summary": "(R) Running time: 107 minutes A middle-aged couple who are feeling stagnant in their relationship invite the younger and livelier couple from the apartment upstairs for a get-together that takes an unexpected turn.",
-      "title": "The Invite",
-      "venue": {
-        "address": "5736 NE 33rd Ave",
-        "city": "Portland",
-        "latitude": 45.5644833,
-        "longitude": -122.6302851,
-        "name": "Kennedy School"
       }
     },
     {
@@ -9603,6 +9603,35 @@
       "categories": [
         "film"
       ],
+      "end_at": "2026-09-09T02:00:00-07:00",
+      "id": "dopdx:17793895",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268479/event-17793895.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/8/the-invite-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-08T19:00:00-07:00",
+      "summary": "(R) Running time: 107 minutes A middle-aged couple who are feeling stagnant in their relationship invite the younger and livelier couple from the apartment upstairs for a get-together that takes an unexpected turn.",
+      "title": "The Invite",
+      "venue": {
+        "address": "5736 NE 33rd Ave",
+        "city": "Portland",
+        "latitude": 45.5644833,
+        "longitude": -122.6302851,
+        "name": "Kennedy School"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
       "end_at": "2026-09-08T21:00:00-07:00",
       "id": "dopdx:17757669",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787403230/event-17757669.jpg",
@@ -9741,35 +9770,6 @@
         "address": "2012 SE Hawthorne",
         "city": "Portland",
         "name": "Cinemagic Theater"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-09-09T02:00:00-07:00",
-      "id": "dopdx:17793895",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788268479/event-17793895.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/8/the-invite-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-08T19:00:00-07:00",
-      "summary": "(R) Running time: 107 minutes A middle-aged couple who are feeling stagnant in their relationship invite the younger and livelier couple from the apartment upstairs for a get-together that takes an unexpected turn.",
-      "title": "The Invite",
-      "venue": {
-        "address": "5736 NE 33rd Ave",
-        "city": "Portland",
-        "latitude": 45.5644833,
-        "longitude": -122.6302851,
-        "name": "Kennedy School"
       }
     },
     {
@@ -41205,7 +41205,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-02T04:59:15+00:00",
+  "generated_at": "2026-09-02T09:52:28+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
