@@ -4657,6 +4657,14 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "dopdx:17469574",
+      "kept": "ticketmaster:Z7r9jZ1A7PFfy",
+      "start_at": "2026-09-25T19:00:00-07:00",
+      "title_dropped": "Hasan Hates Ronny | Ronny Hates Hasan",
+      "title_kept": "Hasan Minhaj w/ Ronny Chieng",
+      "venue": "Keller Auditorium"
+    },
+    {
       "dropped": "willamette_week:19145082@2026-09-25T19:00",
       "kept": "dopdx:17469574",
       "start_at": "2026-09-25T19:00:00-07:00",
@@ -6161,9 +6169,9 @@
       "venue": "The Get Down Music Venue"
     }
   ],
-  "event_count": 6160,
-  "floor_check": "6160 events against a 6132-event baseline",
-  "generated_at": "2026-09-02T21:46:37+00:00",
+  "event_count": 6163,
+  "floor_check": "6163 events against a 6132-event baseline",
+  "generated_at": "2026-09-02T21:48:16+00:00",
   "problems": [],
   "sources": [
     "calagator",
