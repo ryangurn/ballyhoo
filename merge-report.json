@@ -545,6 +545,22 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:18602722@2026-09-23T18:00",
+      "kept": "dopdx:17153186",
+      "start_at": "2026-09-23T18:00:00-07:00",
+      "title_dropped": "Science On Tap - The Earth Said Remember Me: How to Revive Our Memories and Restore the Planet",
+      "title_kept": "Science on Tap – The Earth Said Remember Me: How to Revive Our Memories and Restore The Planet",
+      "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "willamette_week:19801511@2026-09-23T18:00",
+      "kept": "dopdx:17760860",
+      "start_at": "2026-09-23T18:00:00-07:00",
+      "title_dropped": "The People’s Job Interview",
+      "title_kept": "The People's Job Interview",
+      "venue": "Revolution Hall"
+    },
+    {
       "dropped": "willamette_week:19794487@2026-09-23T19:00",
       "kept": "calagator:1250482693",
       "start_at": "2026-09-23T19:00:00-07:00",
@@ -599,6 +615,22 @@
       "title_dropped": "Joanne McNally",
       "title_kept": "Joanne McNally",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19082954@2026-09-24T18:00",
+      "kept": "dopdx:17449630",
+      "start_at": "2026-09-24T18:00:00-07:00",
+      "title_dropped": "Gadan",
+      "title_kept": "Gadan",
+      "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "willamette_week:19108247@2026-09-24T18:00",
+      "kept": "dopdx:17780758",
+      "start_at": "2026-09-24T18:00:00-07:00",
+      "title_dropped": "2026 Sickle Cell Live! Awareness Dinner",
+      "title_kept": "2026 Sickle Cell Live! Awareness Dinner",
+      "venue": "Crowne Plaza Portland-Downtown Conv Ctr"
     },
     {
       "dropped": "willamette_week:19742149@2026-09-03T17:00",
@@ -4217,22 +4249,6 @@
       "venue": "Kenton Farmers Market"
     },
     {
-      "dropped": "willamette_week:18602722@2026-09-23T18:00",
-      "kept": "dopdx:17153186",
-      "start_at": "2026-09-23T18:00:00-07:00",
-      "title_dropped": "Science On Tap - The Earth Said Remember Me: How to Revive Our Memories and Restore the Planet",
-      "title_kept": "Science on Tap – The Earth Said Remember Me: How to Revive Our Memories and Restore The Planet",
-      "venue": "The Alberta Rose Theatre"
-    },
-    {
-      "dropped": "willamette_week:19801511@2026-09-23T18:00",
-      "kept": "dopdx:17760860",
-      "start_at": "2026-09-23T18:00:00-07:00",
-      "title_dropped": "The People’s Job Interview",
-      "title_kept": "The People's Job Interview",
-      "venue": "Revolution Hall"
-    },
-    {
       "dropped": "willamette_week:19495545@2026-09-23T18:30",
       "kept": "dopdx:17644656",
       "start_at": "2026-09-23T18:30:00-07:00",
@@ -4319,22 +4335,6 @@
       "title_dropped": "Wednesday Wubs",
       "title_kept": "Wednesday Wubs",
       "venue": "Barrel Room Portland"
-    },
-    {
-      "dropped": "willamette_week:19082954@2026-09-24T18:00",
-      "kept": "dopdx:17449630",
-      "start_at": "2026-09-24T18:00:00-07:00",
-      "title_dropped": "Gadan",
-      "title_kept": "Gadan",
-      "venue": "The Alberta Rose Theatre"
-    },
-    {
-      "dropped": "willamette_week:19108247@2026-09-24T18:00",
-      "kept": "dopdx:17780758",
-      "start_at": "2026-09-24T18:00:00-07:00",
-      "title_dropped": "2026 Sickle Cell Live! Awareness Dinner",
-      "title_kept": "2026 Sickle Cell Live! Awareness Dinner",
-      "venue": "Crowne Plaza Portland-Downtown Conv Ctr"
     },
     {
       "dropped": "dopdx:17525865",
@@ -6321,9 +6321,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 6318,
-  "floor_check": "6318 events against a 6279-event baseline",
-  "generated_at": "2026-09-03T18:54:59+00:00",
+  "event_count": 6320,
+  "floor_check": "6320 events against a 6280-event baseline",
+  "generated_at": "2026-09-03T19:46:53+00:00",
   "problems": [],
   "sources": [
     "calagator",
