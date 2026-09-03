@@ -161,22 +161,6 @@
       "venue": "Can Can's Paris Theatre"
     },
     {
-      "dropped": "willamette_week:19412362@2026-09-05T10:00",
-      "kept": "dopdx:17768628",
-      "start_at": "2026-09-05T10:00:00-07:00",
-      "title_dropped": "Discernment is for Everyone!",
-      "title_kept": "Discernment is for Everyone!",
-      "venue": "St Barnabas Episcopal Church"
-    },
-    {
-      "dropped": "willamette_week:19787096@2026-09-05T10:00",
-      "kept": "dopdx:17768751",
-      "start_at": "2026-09-05T10:00:00-07:00",
-      "title_dropped": "Terrarium Workshop at Division",
-      "title_kept": "Terrarium Workshop at Division",
-      "venue": "Portland Nursery Division"
-    },
-    {
       "dropped": "willamette_week:18843264@2026-09-08T18:30",
       "kept": "dopdx:17768733",
       "start_at": "2026-09-08T18:30:00-07:00",
@@ -279,6 +263,38 @@
       "title_dropped": "Can Can's Dolly!",
       "title_kept": "Can Can’s Dolly",
       "venue": "Can Can's Paris Theatre"
+    },
+    {
+      "dropped": "willamette_week:17914667@2026-09-12T10:00",
+      "kept": "dopdx:16825101",
+      "start_at": "2026-09-12T10:00:00-07:00",
+      "title_dropped": "5k Beer Run - Allgood Brewing Company | 2026 OR Brewery Running Series",
+      "title_kept": "5k Beer Run - Allgood Brewing Company | 2026 OR Brewery Running Series",
+      "venue": "Allgood Brewing Company"
+    },
+    {
+      "dropped": "willamette_week:19106332@2026-09-12T10:00",
+      "kept": "dopdx:17458101",
+      "start_at": "2026-09-12T10:00:00-07:00",
+      "title_dropped": "Abby's Closet FREE Homecoming Dress Giveaway",
+      "title_kept": "Abby's Closet FREE Homecoming Dress Giveaway",
+      "venue": "Abby’s Closet Clubhouse Parking Lot"
+    },
+    {
+      "dropped": "willamette_week:19669085@2026-09-12T10:00",
+      "kept": "dopdx:17704498",
+      "start_at": "2026-09-12T10:00:00-07:00",
+      "title_dropped": "The Sweat Social",
+      "title_kept": "The Sweat Social",
+      "venue": "Nemo Design"
+    },
+    {
+      "dropped": "willamette_week:18877579@2026-09-12T10:00",
+      "kept": "dopdx:17768678",
+      "start_at": "2026-09-12T10:00:00-07:00",
+      "title_dropped": "Natural Dyeing with Invasive Plants",
+      "title_kept": "Natural Dyeing with Invasive Plants",
+      "venue": "Rhythm Seed Farm"
     },
     {
       "dropped": "willamette_week:19108200@2026-09-15T17:30",
@@ -991,6 +1007,22 @@
       "title_dropped": "THE MIDNIGHT SHOW with Ringer and the Bells",
       "title_kept": "THE MIDNIGHT SHOW with Ringer and the Bells",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19412362@2026-09-05T10:00",
+      "kept": "dopdx:17768628",
+      "start_at": "2026-09-05T10:00:00-07:00",
+      "title_dropped": "Discernment is for Everyone!",
+      "title_kept": "Discernment is for Everyone!",
+      "venue": "St Barnabas Episcopal Church"
+    },
+    {
+      "dropped": "willamette_week:19787096@2026-09-05T10:00",
+      "kept": "dopdx:17768751",
+      "start_at": "2026-09-05T10:00:00-07:00",
+      "title_dropped": "Terrarium Workshop at Division",
+      "title_kept": "Terrarium Workshop at Division",
+      "venue": "Portland Nursery Division"
     },
     {
       "dropped": "willamette_week:19669069@2026-09-05T12:00",
@@ -2167,38 +2199,6 @@
       "title_dropped": "2026 Sickle Cell Walkathon",
       "title_kept": "2026 Sickle Cell Walkathon",
       "venue": "American Red Cross"
-    },
-    {
-      "dropped": "willamette_week:17914667@2026-09-12T10:00",
-      "kept": "dopdx:16825101",
-      "start_at": "2026-09-12T10:00:00-07:00",
-      "title_dropped": "5k Beer Run - Allgood Brewing Company | 2026 OR Brewery Running Series",
-      "title_kept": "5k Beer Run - Allgood Brewing Company | 2026 OR Brewery Running Series",
-      "venue": "Allgood Brewing Company"
-    },
-    {
-      "dropped": "willamette_week:19106332@2026-09-12T10:00",
-      "kept": "dopdx:17458101",
-      "start_at": "2026-09-12T10:00:00-07:00",
-      "title_dropped": "Abby's Closet FREE Homecoming Dress Giveaway",
-      "title_kept": "Abby's Closet FREE Homecoming Dress Giveaway",
-      "venue": "Abby’s Closet Clubhouse Parking Lot"
-    },
-    {
-      "dropped": "willamette_week:19669085@2026-09-12T10:00",
-      "kept": "dopdx:17704498",
-      "start_at": "2026-09-12T10:00:00-07:00",
-      "title_dropped": "The Sweat Social",
-      "title_kept": "The Sweat Social",
-      "venue": "Nemo Design"
-    },
-    {
-      "dropped": "willamette_week:18877579@2026-09-12T10:00",
-      "kept": "dopdx:17768678",
-      "start_at": "2026-09-12T10:00:00-07:00",
-      "title_dropped": "Natural Dyeing with Invasive Plants",
-      "title_kept": "Natural Dyeing with Invasive Plants",
-      "venue": "Rhythm Seed Farm"
     },
     {
       "dropped": "willamette_week:18879934@2026-09-12T12:00",
@@ -6323,7 +6323,7 @@
   ],
   "event_count": 6324,
   "floor_check": "6324 events against a 6297-event baseline",
-  "generated_at": "2026-09-03T21:55:37+00:00",
+  "generated_at": "2026-09-03T22:31:08+00:00",
   "problems": [],
   "sources": [
     "calagator",
