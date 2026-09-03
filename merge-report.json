@@ -953,6 +953,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19811987@2026-09-04T23:55",
+      "kept": "ticketmaster:rZ7HnEZ1Af1_k7",
+      "start_at": "2026-09-04T23:55:00-07:00",
+      "title_dropped": "THE MIDNIGHT SHOW with Ringer and the Bells",
+      "title_kept": "THE MIDNIGHT SHOW with Ringer and the Bells",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:19669069@2026-09-05T12:00",
       "kept": "dopdx:17768756",
       "start_at": "2026-09-05T12:00:00-07:00",
@@ -6313,9 +6321,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 6283,
-  "floor_check": "6283 events against a 6278-event baseline",
-  "generated_at": "2026-09-03T18:37:13+00:00",
+  "event_count": 6297,
+  "floor_check": "6297 events against a 6278-event baseline",
+  "generated_at": "2026-09-03T18:45:00+00:00",
   "problems": [],
   "sources": [
     "calagator",
