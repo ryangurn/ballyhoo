@@ -9211,36 +9211,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "end_at": "2026-09-08T21:30:00-07:00",
-      "id": "dopdx:17764821",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787636193/event-17764821.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/8/the-bechdel-set-an-inclusive-feminist-comedy-show-tickets",
-      "organizer": "Fluid Comedy Presents:",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 10.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-08T20:00:00-07:00",
-      "summary": "Can comics perform material that pass the rules of the famous Bechdel Test? You be the judge! Cited in the Portland Mercury as \"one of those delightfully 'queer-adjacent' shows that's both hilarious and unapologetically feminist\": The Bechdel Set returns to its monthly 2nd Tuesday slot at Haymaker with a line-up of some of Portland’s funniest and hottest comedians! Featuring the talents of: - Daisy Clare - Mystic Hightower - Zora - and headlining Virginia Jones (First Runner Up- 2025 Portland’s Funniest Person. SF Sketchfest, SFICC, Portlandia) Hosted by Jenna Britann and Quinne Salameh this event is open to ALL, and this show is INCLUSIVELY feminist - if ya ain’t a TERF or a jerk, you’re welcome here! Online RSVPs and door sales are slid",
-      "title": "The Bechdel Set: An Inclusive, Feminist Comedy Show",
-      "venue": {
-        "address": "1233 N Killingsworth St",
-        "city": "Portland",
-        "name": "Haymaker"
-      }
-    },
-    {
-      "categories": [
         "nightlife"
       ],
       "end_at": "2026-09-09T02:00:00-07:00",
@@ -9268,6 +9238,36 @@
         "latitude": 45.5199352,
         "longitude": -122.6765458,
         "name": "Kelly's Olympian"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-09-08T21:30:00-07:00",
+      "id": "dopdx:17764821",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787636193/event-17764821.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/8/the-bechdel-set-an-inclusive-feminist-comedy-show-tickets",
+      "organizer": "Fluid Comedy Presents:",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-08T20:00:00-07:00",
+      "summary": "Can comics perform material that pass the rules of the famous Bechdel Test? You be the judge! Cited in the Portland Mercury as \"one of those delightfully 'queer-adjacent' shows that's both hilarious and unapologetically feminist\": The Bechdel Set returns to its monthly 2nd Tuesday slot at Haymaker with a line-up of some of Portland’s funniest and hottest comedians! Featuring the talents of: - Daisy Clare - Mystic Hightower - Zora - and headlining Virginia Jones (First Runner Up- 2025 Portland’s Funniest Person. SF Sketchfest, SFICC, Portlandia) Hosted by Jenna Britann and Quinne Salameh this event is open to ALL, and this show is INCLUSIVELY feminist - if ya ain’t a TERF or a jerk, you’re welcome here! Online RSVPs and door sales are slid",
+      "title": "The Bechdel Set: An Inclusive, Feminist Comedy Show",
+      "venue": {
+        "address": "1233 N Killingsworth St",
+        "city": "Portland",
+        "name": "Haymaker"
       }
     },
     {
@@ -42536,7 +42536,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-03T05:00:33+00:00",
+  "generated_at": "2026-09-03T10:03:10+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
