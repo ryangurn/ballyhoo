@@ -32236,6 +32236,37 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-09-09T02:00:00-07:00",
+      "id": "dopdx:17798644",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788362703/event-17798644.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/8/jaymes-band-zap-star-l-a-pale-violet-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 12.51,
+        "min": 12.51
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-08T20:00:00-07:00",
+      "summary": "Would it hurt you so much to be on the right side of the curve on dreamy thoughtfully produced indie pop out of L.A. for once?",
+      "title": "Jaymes Band, Zap Star (L.A.), Pale Violet",
+      "venue": {
+        "address": "426 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5199352,
+        "longitude": -122.6765458,
+        "name": "Kelly's Olympian"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-08T21:30:00-07:00",
@@ -32266,37 +32297,6 @@
         "address": "1233 N Killingsworth St",
         "city": "Portland",
         "name": "Haymaker"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-09-09T02:00:00-07:00",
-      "id": "dopdx:17798644",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788362703/event-17798644.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/8/jaymes-band-zap-star-l-a-pale-violet-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 12.51,
-        "min": 12.51
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-08T20:00:00-07:00",
-      "summary": "Would it hurt you so much to be on the right side of the curve on dreamy thoughtfully produced indie pop out of L.A. for once?",
-      "title": "Jaymes Band, Zap Star (L.A.), Pale Violet",
-      "venue": {
-        "address": "426 SW Washington St",
-        "city": "Portland",
-        "latitude": 45.5199352,
-        "longitude": -122.6765458,
-        "name": "Kelly's Olympian"
       }
     },
     {
@@ -186459,5 +186459,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-03T09:58:16+00:00"
+  "generated_at": "2026-09-03T10:05:18+00:00"
 }
