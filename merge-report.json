@@ -89,6 +89,22 @@
       "venue": "Can Can's Paris Theatre"
     },
     {
+      "dropped": "willamette_week:19669069@2026-09-05T12:00",
+      "kept": "dopdx:17768756",
+      "start_at": "2026-09-05T12:00:00-07:00",
+      "title_dropped": "BROADWAY'S FINEST Drag Brunch",
+      "title_kept": "BROADWAY'S FINEST Drag Brunch",
+      "venue": "Stag PDX"
+    },
+    {
+      "dropped": "willamette_week:19669070@2026-09-05T12:00",
+      "kept": "dopdx:17789317",
+      "start_at": "2026-09-05T12:00:00-07:00",
+      "title_dropped": "The Glow Social",
+      "title_kept": "The Glow Social",
+      "venue": "La Factoría"
+    },
+    {
       "dropped": "willamette_week:18843264@2026-09-08T18:30",
       "kept": "dopdx:17768733",
       "start_at": "2026-09-08T18:30:00-07:00",
@@ -807,22 +823,6 @@
       "title_dropped": "Terrarium Workshop at Division",
       "title_kept": "Terrarium Workshop at Division",
       "venue": "Portland Nursery Division"
-    },
-    {
-      "dropped": "willamette_week:19669069@2026-09-05T12:00",
-      "kept": "dopdx:17768756",
-      "start_at": "2026-09-05T12:00:00-07:00",
-      "title_dropped": "BROADWAY'S FINEST Drag Brunch",
-      "title_kept": "BROADWAY'S FINEST Drag Brunch",
-      "venue": "Stag PDX"
-    },
-    {
-      "dropped": "willamette_week:19669070@2026-09-05T12:00",
-      "kept": "dopdx:17789317",
-      "start_at": "2026-09-05T12:00:00-07:00",
-      "title_dropped": "The Glow Social",
-      "title_kept": "The Glow Social",
-      "venue": "La Factoría"
     },
     {
       "dropped": "willamette_week:19436718@2026-09-05T16:00",
@@ -6369,9 +6369,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6279,
-  "floor_check": "6279 events against a 6279-event baseline",
-  "generated_at": "2026-09-04T14:34:54+00:00",
+  "event_count": 6280,
+  "floor_check": "6280 events against a 6279-event baseline",
+  "generated_at": "2026-09-04T16:16:44+00:00",
   "problems": [],
   "sources": [
     "calagator",

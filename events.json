@@ -10240,6 +10240,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-05T14:00:00-07:00",
+      "id": "calagator:1250482699",
+      "is_all_day": false,
+      "listing_url": "https://www.steamcircuit.com/events/ai-builder-series-ai-without-the-hype-september-5-2026",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-05T12:00:00-07:00",
+      "summary": "AI is everywhere, but is it actually useful?\r\n\r\nThis hands-on workshop cuts through the hype and focuses on what AI can genuinely do for real people in real workflows. Led by **Scott Hanselman** (VP, Developer Community at Microsoft), the session is practical, grounded, and interactive.\r\n\r\nWe'll look at:\r\n\r\n* Large vs. small language models, and when model size actually matters\r\n* NPUs and edge AI, and how to think critically about AI performance claims\r\n* Practical productivity patterns that reduce toil instead of adding it\r\n* How to spot inflated claims and avoid the grift\r\n\r\nBring a laptop, an open mind, and a healthy dose of skepticism. No PhD required.\r\n\r\nFree, but registration is required and seats are limited. Register at [steamcircuit.com](https://www.steamcircuit.com/events/ai-builder-series-ai-without-the-hype-september-5-2026).\r\n\r\nHosted by STEAM Circuit as part of the AI Builder Series.",
+      "title": "AI Builder Series: AI Without the Hype with Scott Hanselman",
+      "venue": {
+        "address": "621 SW Morrison St #800",
+        "city": "Portland",
+        "latitude": 45.5195,
+        "longitude": -122.6791,
+        "name": "Nedspace"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-05T18:00:00-07:00",
@@ -186426,5 +186454,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-04T14:34:54+00:00"
+  "generated_at": "2026-09-04T16:16:44+00:00"
 }
