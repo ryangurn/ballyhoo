@@ -617,6 +617,14 @@
       "venue": "Topaz Farm"
     },
     {
+      "dropped": "willamette_week:19839047@2026-09-04T18:00",
+      "kept": "dopdx:17718486",
+      "start_at": "2026-09-04T18:00:00-07:00",
+      "title_dropped": "Joshua Hegg",
+      "title_kept": "Donna Jones",
+      "venue": "Alberta Street Pub"
+    },
+    {
       "dropped": "willamette_week:19059032@2026-09-04T18:30",
       "kept": "dopdx:17381269",
       "start_at": "2026-09-04T18:30:00-07:00",
@@ -6369,9 +6377,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6281,
-  "floor_check": "6281 events against a 6280-event baseline",
-  "generated_at": "2026-09-04T18:22:53+00:00",
+  "event_count": 6297,
+  "floor_check": "6297 events against a 6280-event baseline",
+  "generated_at": "2026-09-04T18:29:44+00:00",
   "problems": [],
   "sources": [
     "calagator",
