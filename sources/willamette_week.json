@@ -113981,6 +113981,37 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-03T19:00:00-07:00",
+      "id": "willamette_week:19815091@2026-10-03T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PqZmRMHoGEGskEDn0YgFww.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/oktobergfest-2026-tickets-1999704114838",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 35.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-03T14:00:00-07:00",
+      "summary": "A seasonal celebration of German beer, food, and fun in Newberg, Oregon, on October 3, 2026 at The Allison's Chef Garden from 2 - 7 p.m. Bavarian tradition meets Willamette Valley wine country for one afternoon of prost-worthy fun. Join us Saturday, October 3, 2–7 PM at The Allison for the first-ever Oktobergfest, presented by Newsberg, Powered by Paige Events, and The Allison. Sample German-style beers from Heater Allen/Gold Dot, Wolves & People, Long Brewing, and Chehalem Valley Brewing, all of which are bringing one German-style beer and another of their choosing \\(did we mention it's also Fresh Hop season?\\) But the party doesn't stop there. In front of the misty Chehalem Mountains, the chefs at The Allison have created house-made sausages, warm pretzels, and classic Bavarian sides for the full Oktoberfest menu, all while DJ and live music sets play in the background. Stay for the stein-holding competition at 5 p.m. and lawn games \\(weather permitting\\). We're making 50 branded steins to commemorate the occasion; grab one and enjoy your brews in traditional German drinkware. As the last weekend of traditional Oktoberfest, this may be your last chance of the season to revel in all the harvest has to offer! We look forward to raising a stein with you.",
+      "title": "Oktobergfest 2026",
+      "venue": {
+        "address": "2525 NE Allison Lane",
+        "city": "Newberg",
+        "latitude": 45.319767,
+        "longitude": -122.946365,
+        "name": "The Allison Inn & Spa Chef Garden"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-10-03T16:00:00-07:00",
@@ -118919,7 +118950,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-04T04:39:22+00:00",
+  "generated_at": "2026-09-04T09:42:42+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
