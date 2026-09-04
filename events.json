@@ -47531,6 +47531,30 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-12T17:30:00-07:00",
+      "id": "calagator:1250482701",
+      "is_all_day": false,
+      "listing_url": "https://clipdx.com/webday",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-12T13:00:00-07:00",
+      "summary": "See the website for more details https://clipdx.com/webday",
+      "title": "Web Day!",
+      "venue": {
+        "name": "Belmont Library"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-12T15:00:00-07:00",
@@ -70685,6 +70709,34 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-17T13:30:00-07:00",
+      "id": "calagator:1250482700",
+      "is_all_day": false,
+      "listing_url": "https://beam-pdx.groupflow.app/events/12951",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-17T11:00:00-07:00",
+      "summary": "Note: Your RSVP is required in order to attend this event.\r\n\r\nLet’s get together for an informal BEAM PDX hangout: coffee, conversation, and light co-working.\r\n\r\nThis is a low-key monthly meetup for folks working with Elixir, Erlang, Gleam, and other BEAM languages, aimed at reconnecting the local community and rebuilding momentum after a long quiet stretch. We'll holding this on the second Thursday of each month.\r\n\r\nThere will be opportunities to:\r\n\r\n- Ask questions about Elixir and other BEAM languages\r\n- Share what you’ve been working on (or stuck on)\r\n- Get help with programming or design problems\r\n- Co-work: get things done with like-minded folks nearby\r\n- Brainstorm ideas for future talk-based meetups and identify potential speakers\r\n- Bring your laptop if you’d like. It's totally optional.\r\n\r\nNew to BEAM languages, or just curious? You’re very welcome.\r\n\r\nPlease RSVP so we know roughly how many people to expect. If your plans change, un-RSVP when you can.\r\n\r\nThis meetup is also part of our transition away from Meetup to a new home for the group, where we’ll be organizing future events.",
+      "title": "Portland Monthly BEAM Meet & Chat - Elixir, Erlang, Gleam languages",
+      "venue": {
+        "address": "1033 SE Main St",
+        "city": "Portland",
+        "latitude": 45.514,
+        "longitude": -122.655,
+        "name": "Honey Latte Cafe"
       }
     },
     {
@@ -187067,5 +187119,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-04T21:33:37+00:00"
+  "generated_at": "2026-09-04T22:20:05+00:00"
 }
