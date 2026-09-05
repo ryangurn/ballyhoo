@@ -3961,6 +3961,14 @@
       "venue": "Hawthorne Theatre"
     },
     {
+      "dropped": "willamette_week:19844040@2026-09-24T20:00",
+      "kept": "dopdx:17556306",
+      "start_at": "2026-09-24T20:00:00-07:00",
+      "title_dropped": "Late Lyrics ft Bocha",
+      "title_kept": "Late Lyrics",
+      "venue": "Atlantis Lounge"
+    },
+    {
       "dropped": "dopdx:16880899",
       "kept": "ticketmaster:vvG1HZ_dlYu16r",
       "start_at": "2026-09-24T20:00:00-07:00",
@@ -6227,7 +6235,7 @@
   ],
   "event_count": 6126,
   "floor_check": "6126 events against a 6129-event baseline",
-  "generated_at": "2026-09-05T22:53:49+00:00",
+  "generated_at": "2026-09-05T23:00:35+00:00",
   "problems": [],
   "sources": [
     "calagator",
