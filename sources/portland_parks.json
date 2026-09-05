@@ -2,35 +2,6 @@
   "events": [
     {
       "categories": [
-        "film"
-      ],
-      "id": "portland_parks:2026-08-28-luuwit-view-park-ratatouille",
-      "is_all_day": false,
-      "listing_url": "https://www.portland.gov/parks/arts-culture/summer-free-all/cultural-events",
-      "organizer": "Portland Parks & Recreation",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "portland_parks",
-        "name": "Portland Parks & Recreation",
-        "url": "https://www.portland.gov/parks"
-      },
-      "start_at": "2026-08-28T19:30:00-07:00",
-      "summary": "Ratatouille (2007) G",
-      "title": "Ratatouille",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.55012,
-        "longitude": -122.53063,
-        "name": "Luuwit View Park"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "id": "portland_parks:2026-08-29-woodstock-park-bridgetown-get-down",
@@ -88,7 +59,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-05T01:23:47+00:00",
+  "generated_at": "2026-09-05T06:19:41+00:00",
   "source_id": "portland_parks",
   "status": "ok"
 }
