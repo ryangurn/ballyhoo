@@ -5577,6 +5577,14 @@
       "venue": "Calle 6 Nightclub"
     },
     {
+      "dropped": "dopdx:17339145",
+      "kept": "ticketmaster:rZ7HnEZ1Af03_d",
+      "start_at": "2026-10-02T23:55:00-07:00",
+      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19225591@2026-10-02T23:55",
       "kept": "dopdx:17339145",
       "start_at": "2026-10-02T23:55:00-07:00",
@@ -6209,9 +6217,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6132,
-  "floor_check": "6132 events against a 6189-event baseline",
-  "generated_at": "2026-09-05T06:20:52+00:00",
+  "event_count": 6130,
+  "floor_check": "6130 events against a 6189-event baseline",
+  "generated_at": "2026-09-05T09:02:53+00:00",
   "problems": [],
   "sources": [
     "calagator",
