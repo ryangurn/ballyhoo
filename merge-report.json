@@ -2833,6 +2833,14 @@
       "venue": "Aladdin Theater"
     },
     {
+      "dropped": "willamette_week:19651674@2026-09-18T20:00",
+      "kept": "dopdx:17814895",
+      "start_at": "2026-09-18T20:00:00-07:00",
+      "title_dropped": "Blonde Neon • The Wanna Be-52s [B-52s tribute] • Precious [The Pretenders",
+      "title_kept": "Live '80s Ladies Party with Blonde Neon, The Wanna Be-52s, Precious",
+      "venue": "The Headliners Club"
+    },
+    {
       "dropped": "willamette_week:19249590@2026-09-18T20:00",
       "kept": "dopdx:17511950",
       "start_at": "2026-09-18T20:00:00-07:00",
@@ -6217,9 +6225,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6128,
-  "floor_check": "6128 events against a 6129-event baseline",
-  "generated_at": "2026-09-05T21:37:42+00:00",
+  "event_count": 6127,
+  "floor_check": "6127 events against a 6129-event baseline",
+  "generated_at": "2026-09-05T21:41:01+00:00",
   "problems": [],
   "sources": [
     "calagator",
