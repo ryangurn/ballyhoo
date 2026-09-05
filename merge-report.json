@@ -1,30 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "dopdx:17260796",
-      "kept": "ticketmaster:Z7r9jZ1A70Z7O",
-      "start_at": "2026-09-04T21:00:00-07:00",
-      "title_dropped": "The Taylor Party: Taylor Swift Night ()",
-      "title_kept": "The Taylor Party: Taylor Swift Night (21 and Over)",
-      "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "dopdx:17290375",
-      "kept": "ticketmaster:Z7r9jZ1A70884",
-      "start_at": "2026-09-04T21:15:00-07:00",
-      "title_dropped": "Craig Robinson",
-      "title_kept": "Craig Robinson",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "dopdx:17290381",
-      "kept": "ticketmaster:Z7r9jZ1A70884",
-      "start_at": "2026-09-04T21:15:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Sabrina Wu",
-      "title_kept": "Craig Robinson",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
       "dropped": "willamette_week:19669069@2026-09-05T12:00",
       "kept": "dopdx:17768756",
       "start_at": "2026-09-05T12:00:00-07:00",
@@ -559,6 +535,30 @@
       "title_dropped": "Skitz Kraven with Figure 8, Poverty's Posterboy and Whitey Nw",
       "title_kept": "SKITZ KRAVEN with Figure 8, Poverty's Posterboy and Whitey NW",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:17260796",
+      "kept": "ticketmaster:Z7r9jZ1A70Z7O",
+      "start_at": "2026-09-04T21:00:00-07:00",
+      "title_dropped": "The Taylor Party: Taylor Swift Night ()",
+      "title_kept": "The Taylor Party: Taylor Swift Night (21 and Over)",
+      "venue": "Revolution Hall - Portland"
+    },
+    {
+      "dropped": "dopdx:17290375",
+      "kept": "ticketmaster:Z7r9jZ1A70884",
+      "start_at": "2026-09-04T21:15:00-07:00",
+      "title_dropped": "Craig Robinson",
+      "title_kept": "Craig Robinson",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "dopdx:17290381",
+      "kept": "ticketmaster:Z7r9jZ1A70884",
+      "start_at": "2026-09-04T21:15:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Sabrina Wu",
+      "title_kept": "Craig Robinson",
+      "venue": "Helium Comedy Club - Portland"
     },
     {
       "dropped": "willamette_week:19412362@2026-09-05T10:00",
@@ -6145,9 +6145,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6190,
-  "floor_check": "6190 events against a 6294-event baseline",
-  "generated_at": "2026-09-05T00:10:18+00:00",
+  "event_count": 6189,
+  "floor_check": "6189 events against a 6294-event baseline",
+  "generated_at": "2026-09-05T00:54:20+00:00",
   "problems": [],
   "sources": [
     "calagator",
