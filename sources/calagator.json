@@ -568,6 +568,34 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-09-23T16:00:00-07:00",
+      "id": "calagator:1250482703",
+      "is_all_day": false,
+      "listing_url": "http://www.nedme.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-23T08:00:00-07:00",
+      "summary": "Frontiers: Exploring What's Next in Electronics and Manufacturing\r\nThe 23rd edition of the NW Electronics Design & Manufacturing Expo returns to the spacious Wingspan Event & Conference Center at the Washington County Fairgrounds — our third year in the hall. One focused day of the latest trends and innovations in electronics design and manufacturing, with the people who build the industry in the Northwest.\r\n\r\nWe’re thrilled to announce that Jamie Hyneman, special effects expert, co-host of MythBusters, inventor of the Sentry unmanned firefighting vehicle, and CEO of M5 Industries, will be our special gues at NEDME 2026",
+      "title": "NEDME (NW Electronics Design & Manufacturing Expo)",
+      "venue": {
+        "address": "801 NE 34th Ave",
+        "city": "Hillsboro",
+        "latitude": 45.5288,
+        "longitude": -122.9491,
+        "name": "Wingspan Event & Conference Center"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-09-23T19:00:00-07:00",
       "id": "calagator:1250482696",
       "is_all_day": false,
@@ -990,7 +1018,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-06T21:17:55+00:00",
+  "generated_at": "2026-09-06T23:47:40+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
