@@ -513,14 +513,6 @@
       "venue": "Bar Cala"
     },
     {
-      "dropped": "dopdx:16843347",
-      "kept": "ticketmaster:Z7r9jZ1A7Ox_p",
-      "start_at": "2026-09-06T13:00:00-07:00",
-      "title_dropped": "Portland Thorns V. Washington Spirit",
-      "title_kept": "Portland Thorns FC vs. Washington Spirit",
-      "venue": "Providence Park"
-    },
-    {
       "dropped": "willamette_week:17965639@2026-09-06T13:00",
       "kept": "dopdx:16843347",
       "start_at": "2026-09-06T13:00:00-07:00",
@@ -543,22 +535,6 @@
       "title_dropped": "Nathan Gittleman",
       "title_kept": "Nathan Gittleman",
       "venue": "Lents International Farmers Market"
-    },
-    {
-      "dropped": "willamette_week:17962676@2026-09-06T13:05",
-      "kept": "ticketmaster:Z7r9jZ1A7QvbP",
-      "start_at": "2026-09-06T13:05:00-07:00",
-      "title_dropped": "Eugene Emeralds at Hillsboro Hops",
-      "title_kept": "Hillsboro Hops vs. Eugene Emeralds",
-      "venue": "Hillsboro Ballpark"
-    },
-    {
-      "dropped": "willamette_week:17011267@2026-09-06T13:05",
-      "kept": "ticketmaster:Z7r9jZ1A7QvbP",
-      "start_at": "2026-09-06T13:05:00-07:00",
-      "title_dropped": "Hillsboro Hops vs. Eugene Emeralds",
-      "title_kept": "Hillsboro Hops vs. Eugene Emeralds",
-      "venue": "Hillsboro Ballpark"
     },
     {
       "dropped": "willamette_week:19704034@2026-09-06T15:00",
@@ -6017,9 +5993,9 @@
       "venue": "Holocene"
     }
   ],
-  "event_count": 5980,
-  "floor_check": "5980 events against a 5980-event baseline",
-  "generated_at": "2026-09-06T21:18:25+00:00",
+  "event_count": 5981,
+  "floor_check": "5981 events against a 5980-event baseline",
+  "generated_at": "2026-09-06T21:19:00+00:00",
   "problems": [],
   "sources": [
     "calagator",
