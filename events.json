@@ -4051,14 +4051,9 @@
       "categories": [
         "sports"
       ],
-      "id": "ticketmaster:Z7r9jZ1A7Qv_9",
-      "image_url": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "willamette_week:17962673@2026-09-05T17:03",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tyLn8lRJJECH2-OWnKd9ZA.large.png",
       "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Qv_9",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -4066,18 +4061,17 @@
         "min": 21.0
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-09-05T17:03:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Qv_9",
-      "title": "Hillsboro Hops vs. Eugene Emeralds",
+      "title": "Eugene Emeralds at Hillsboro Hops",
       "venue": {
-        "address": "4460 NW 229th Ave",
+        "address": "4460 NE Century Blvd.",
         "city": "Hillsboro",
-        "latitude": 45.616501,
-        "longitude": -122.954498,
+        "latitude": 45.554361,
+        "longitude": -122.908434,
         "name": "Hillsboro Ballpark"
       }
     },
@@ -180621,5 +180615,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-06T00:13:58+00:00"
+  "generated_at": "2026-09-06T00:54:54+00:00"
 }
