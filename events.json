@@ -139118,6 +139118,36 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "end_at": "2026-10-03T19:00:00-07:00",
+      "id": "willamette_week:19847352@2026-10-03T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/B9xkmgyTPEKMEb7AGYJHcg.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-03T15:00:00-07:00",
+      "summary": "Double Dews & Brews is a fundraiser for the Great Pyrs & Paws dog rescue. Bid on items in the silent auction and purchase raffle tickets for your chance to win hourly raffle prizes. Grab a pint or two from the designated keg on tap with all proceeds benefitting the rescue. Shop local vendors for limited ingredient homemade treats and premium pet gear at the mini pet pop-up market. This event is dog and kid friendly. Funds raised will help with the rescue and rehoming of Great Pyrenees and other livestock guardian dogs in the PNW and Texas.",
+      "title": "Double Dews & Brews fundraiser and Pet Pop-Up Market",
+      "venue": {
+        "address": "16055 SW Regatta Ln #700",
+        "city": "Beaverton",
+        "latitude": 45.517372,
+        "longitude": -122.84267,
+        "name": "Craft Pour House"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-03T17:00:00-07:00",
@@ -177596,5 +177626,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-06T21:19:00+00:00"
+  "generated_at": "2026-09-06T21:25:40+00:00"
 }
