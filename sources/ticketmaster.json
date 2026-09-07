@@ -8148,6 +8148,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfPwAS",
+      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14972173",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 6.2,
+        "min": 6.2
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-04T21:00:00-07:00",
+      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party 9pm : $5 : 21+",
+      "ticket_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14972173",
+      "title": "CHURCH OF HIVE",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1AfFY-7",
       "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -9650,6 +9681,37 @@
         "latitude": 45.543999,
         "longitude": -122.643501,
         "name": "Wonder Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfZ-q7",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021744",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.15,
+        "min": 23.15
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-10T22:30:00-07:00",
+      "summary": "Join us at the Jack London for the latest edition of our late-night cabaret spectacular, hosted by the Mad Marquis and featuring some of the finest dancers from the Rose City and beyond. Treat yourself to a sensational evening of sultry and exotic delights, liberally spiced with old-fashioned spontaneous fun! The show starts after the evenings musical performance.",
+      "ticket_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021744",
+      "title": "BURLY-Q REVUE",
+      "venue": {
+        "address": "529 SW 4th Ave.",
+        "city": "Portland",
+        "latitude": 45.519452,
+        "longitude": -122.676291,
+        "name": "Jack London Revue"
       }
     },
     {
@@ -14857,6 +14919,36 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfGd87",
+      "image_url": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/deante-hitchcock-mcmenamins-mission-theater-tickets/14303404",
+      "organizer": "SEAN HEALY PRESENTS",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-07T20:30:00-08:00",
+      "summary": "ALL SALES FINAL NO REFUNDS/EXCHANGES",
+      "ticket_url": "https://www.ticketweb.com/event/deante-hitchcock-mcmenamins-mission-theater-tickets/14303404",
+      "title": "Deante' Hitchcock",
+      "venue": {
+        "address": "1624 NW Glison",
+        "city": "Portland",
+        "latitude": 45.5263263,
+        "longitude": -122.6881371,
+        "name": "McMenamins Mission Theater"
       }
     },
     {
@@ -24532,7 +24624,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-07T15:51:50+00:00",
+  "generated_at": "2026-09-07T19:55:57+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
