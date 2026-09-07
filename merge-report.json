@@ -5753,14 +5753,6 @@
       "venue": "Keller Auditorium"
     },
     {
-      "dropped": "willamette_week:17670892@2026-09-06T09:00",
-      "kept": "pdxparent_markets:hillsdale-farmers-market@2026-09-06",
-      "start_at": "2026-09-06T09:00:00-07:00",
-      "title_dropped": "Hillsdale Farmers' Market",
-      "title_kept": "Hillsdale Farmers Market",
-      "venue": "Hillsdale Farmers Market"
-    },
-    {
       "dropped": "willamette_week:17670892@2026-09-20T09:00",
       "kept": "pdxparent_markets:hillsdale-farmers-market@2026-09-20",
       "start_at": "2026-09-20T09:00:00-07:00",
@@ -5783,14 +5775,6 @@
       "title_dropped": "Hillsdale Farmers' Market",
       "title_kept": "Hillsdale Farmers Market",
       "venue": "Hillsdale Farmers Market"
-    },
-    {
-      "dropped": "willamette_week:19726892@2026-09-06T13:00",
-      "kept": "portland_farmers_market:nathan-gittleman@2026-09-06",
-      "start_at": "2026-09-06T13:00:00-07:00",
-      "title_dropped": "Nathan Gittleman",
-      "title_kept": "Nathan Gittleman",
-      "venue": "Lents International Farmers Market"
     },
     {
       "dropped": "willamette_week:19726894@2026-09-09T17:00",
@@ -5839,11 +5823,51 @@
       "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
       "title_kept": "KARAOKE FROM HELL",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19570946@2026-10-07T19:00",
+      "kept": "ticketmaster:vvG1HZ_23kx4Jt",
+      "start_at": "2026-10-07T19:00:00-07:00",
+      "title_dropped": "Portland Trail Blazers vs. Golden State Warriors",
+      "title_kept": "Portland Trail Blazers vs. Golden State Warriors",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:19449655@2026-10-07T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPgPS",
+      "start_at": "2026-10-07T20:00:00-07:00",
+      "title_dropped": "NICK MOSS BAND feat. Jason Ricci",
+      "title_kept": "NICK MOSS BAND feat. Jason Ricci",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19579488@2026-10-07T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4ZF_S",
+      "start_at": "2026-10-07T20:00:00-07:00",
+      "title_dropped": "SALIN with Midpak",
+      "title_kept": "SALIN with Midpak",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:19736191@2026-10-07T20:00",
+      "kept": "ticketmaster:vvG1HZ_o3b1pDd",
+      "start_at": "2026-10-07T20:00:00-07:00",
+      "title_dropped": "Lil Pete: Real Is Back Tour",
+      "title_kept": "Lil Pete: Real Is Back Tour",
+      "venue": "McMenamins Mission Theater"
+    },
+    {
+      "dropped": "willamette_week:19108466@2026-10-07T20:00",
+      "kept": "ticketmaster:Z7r9jZ1A70Z7_",
+      "start_at": "2026-10-07T20:00:00-07:00",
+      "title_dropped": "The Milk Carton Kids Fall Tour w/ Paper Wings",
+      "title_kept": "The Milk Carton Kids w/ Paper Wings",
+      "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 5924,
-  "floor_check": "5924 events against a 5980-event baseline",
-  "generated_at": "2026-09-07T04:34:53+00:00",
+  "event_count": 5885,
+  "floor_check": "5885 events against a 5980-event baseline",
+  "generated_at": "2026-09-07T04:49:55+00:00",
   "problems": [],
   "sources": [
     "calagator",
