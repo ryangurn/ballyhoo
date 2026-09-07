@@ -3433,41 +3433,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A7088p",
-      "image_url": "https://s1.ticketm.net/dam/a/e8a/eff47471-b583-4f2e-95a5-c047530bee8a_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7088p",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 228.0,
-        "min": 55.0
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-06T19:00:00-07:00",
-      "summary": "Craig Robinson most notably portrayed acerbic Dunder-Mifflin employee Darryl Philbin on the Emmy-winning “The Office” on NBC. He is definitely a world away from his original career intentions; before deciding to pursue his comedy career full time, Robinson was a K-8 teacher in the Chicago Public School System. It was while he was studying education in Chicago that he also discovered his love of acting and comedy when he joined the famed Second City Theatre. As a stand-up comedian, Robinson first made his mark in the comedy circuit at the 1998 Montreal Just For Laughs Festival. That year, he also won the Oakland Comedy Festival Awards and the Miller Genuine Draft 1996 Comedy Search. He soon went on to perform his act on “The Jimmy Kimmel Show\" and “Real Time with Bill Maher.” Now headlining venues and festivals across the country, he does both solo acts as well as full-band sets – “The Nasty Delicious” – tying together his lyrical comedy with his finesse at the piano. Whether Robinson shows up with just his keyboard or his seven-man band, the clubs are packed to the brim with raucous laughter and musical comedy. Couple's Package includes: \\- 2 premium seats - $90 food & beverage credit ($45 per person) - Gratuity - Ticket Protection Management reserves the right to prevent customers from entering the facility who they deem disruptive or dangerous to other patrons.",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7088p",
-      "title": "Craig Robinson",
-      "venue": {
-        "address": "1510 SE 9th Ave",
-        "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "Helium Comedy Club - Portland"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "id": "willamette_week:19709308@2026-09-06T19:00",
@@ -3646,6 +3611,37 @@
       "categories": [
         "arts"
       ],
+      "id": "willamette_week:19509603@2026-09-06T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xNZZdAH_qkeNKCoUCvHPmg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://portland.heliumcomedy.com/events/136329",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 228.0,
+        "min": 55.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-06T19:00:00-07:00",
+      "summary": "Craig Robinson most notably portrayed acerbic Dunder-Mifflin employee Darryl Philbin on the Emmy-winning “The Office” on NBC. He is definitely a world away from his original career intentions; before deciding to pursue his comedy career full time, Robinson was a K-8 teacher in the Chicago Public School System. It was while he was studying education in Chicago that he also discovered his love of acting and comedy when he joined the famed Second City Theatre. As a stand-up comedian, Robinson first made his mark in the comedy circuit at the 1998 Montreal Just For Laughs Festival. That year, he also won the Oakland Comedy Festival Awards and the Miller Genuine Draft 1996 Comedy Search. He soon went on to perform his act on “The Jimmy Kimmel Show\" and “Real Time with Bill Maher.” Now headlining venues and festivals across the country, he does both solo acts as well as full-band sets – “The Nasty Delicious” – tying together his lyrical comedy with his finesse at the piano. Whether Robinson shows up with just his keyboard or his seven-man band, the clubs are packed to the brim with raucous laughter and musical comedy. Couple's Package includes: \\- 2 premium seats - $90 food & beverage credit ($45 per person) - Gratuity - Ticket Protection Management reserves the right to prevent customers from entering the facility who they deem disruptive or dangerous to other patrons.",
+      "ticket_url": "https://portland.heliumcomedy.com/events/136329",
+      "title": "Special Event: Craig Robinson",
+      "venue": {
+        "address": "1510 SE 9th Ave",
+        "city": "Portland",
+        "latitude": 45.5120477825,
+        "longitude": -122.6566256583,
+        "name": "Helium Comedy Club"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "end_at": "2026-09-06T20:30:00-07:00",
       "id": "willamette_week:19221467@2026-09-06T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ZgdPXKLldEaUYMlAri-1ig.large.jpg",
@@ -3671,6 +3667,34 @@
         "latitude": 45.5342979431,
         "longitude": -122.6980819702,
         "name": "CoHo Productions"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:18797145@2026-09-06T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4SZ0hSyRY02WhGU8_v8gLQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portland.heliumcomedy.com/events/136329",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-06T19:00:00-07:00",
+      "summary": "Biography Video Website Click Showtime To Purchase",
+      "title": "Special Event: Craig Robinson",
+      "venue": {
+        "address": "1510 SE 9th Ave",
+        "city": "Portland",
+        "latitude": 45.5120477825,
+        "longitude": -122.6566256583,
+        "name": "Helium Comedy Club"
       }
     },
     {
@@ -3727,34 +3751,6 @@
         "latitude": 45.593033,
         "longitude": -122.732677,
         "name": "Over Easy Bar and Breakfast"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A7PU-e",
-      "image_url": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PU-e",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-06T19:30:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PU-e",
-      "title": "Montavilla Jazz Festival w/ Onion",
-      "venue": {
-        "address": "1300 SE Stark Street #110",
-        "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "Revolution Hall - Portland"
       }
     },
     {
@@ -3821,159 +3817,28 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:rZ7HnEZ1AfF_4V",
-      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "willamette_week:19139301@2026-09-06T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/U7EN9vI4kEmYQQWdj3TwWQ.large.png",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/16-volt-acumen-nation-star-theater-tickets/14219574",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 27.27,
-        "min": 27.27
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-06T20:00:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/16-volt-acumen-nation-star-theater-tickets/14219574",
-      "title": "16 VOLT & ACUMEN NATION",
-      "venue": {
-        "address": "13 NW Sixth Avenue",
-        "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
-        "name": "Star Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A70kG6",
-      "image_url": "https://s1.ticketm.net/dam/a/6ef/67eeb68d-efaf-46d8-9e34-02502489b6ef_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70kG6",
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fcasual-eddie-with-special-guest-showdown-saloon-tickets%252F14248764%26utm_medium%3daffiliate",
       "price": {
         "currency": "USD",
         "is_free": false
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-09-06T20:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70kG6",
-      "title": "LP",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fcasual-eddie-with-special-guest-showdown-saloon-tickets%252F14248764%26utm_medium%3daffiliate",
+      "title": "Casual Eddie with Special Guest",
       "venue": {
-        "address": "8 NW 6th Avenue",
+        "address": "1223 SE Powell Blvd",
         "city": "Portland",
-        "latitude": 45.5303,
-        "longitude": -122.684799,
-        "name": "Roseland Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A7OSOe",
-      "image_url": "https://s1.ticketm.net/dam/a/cbf/c7ef837c-14fe-47e2-93e3-88a65d822cbf_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OSOe",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-06T20:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OSOe",
-      "title": "Bikini Kill",
-      "venue": {
-        "address": "1332  West Burnside St",
-        "city": "Portland",
-        "latitude": 45.5303,
-        "longitude": -122.684799,
-        "name": "McMenamins Crystal Ballroom"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfaFq0",
-      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/casual-eddie-presents-the-quick-showdown-saloon-tickets/14248764",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 15.92,
-        "min": 15.92
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-06T20:00:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/casual-eddie-presents-the-quick-showdown-saloon-tickets/14248764",
-      "title": "Casual Eddie Presents: The Quick and Easy Boys",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
+        "latitude": 45.501092,
+        "longitude": -122.652817,
         "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:vvG1HZ_5lCIiso",
-      "image_url": "https://s1.ticketm.net/dam/a/245/4ce9eb11-2acc-4845-828d-37b10d522245_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/richie-jen-miracle-concert-2026-ridgefield-washington-09-06-2026/event/0F0064BACEA2CC51",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-06T20:00:00-07:00",
-      "summary": "ALL AGES EVENT. NO PROFESSIONAL PHOTOGRAPHY. NO AUDIO OR VIDEO RECORDING. BAGS MAY BE SUBJECT TO SECURITY CHECK. SHOW MAY CONTAIN ADULT LANGUAGE AND MATERIAL. CHILDREN OVER 2 REQUIRE A TICKET.",
-      "ticket_url": "https://www.ticketmaster.com/richie-jen-miracle-concert-2026-ridgefield-washington-09-06-2026/event/0F0064BACEA2CC51",
-      "title": "Richie Jen: Miracle Concert 2026",
-      "venue": {
-        "address": "1 Cowlitz Way",
-        "city": "Ridgefield",
-        "latitude": 45.853617,
-        "longitude": -122.707375,
-        "name": "Ilani Cowlitz Ballroom"
       }
     },
     {
@@ -4075,6 +3940,62 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:19450278@2026-09-06T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-8IlfrU0qU-r6yrQIrxHCw.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketmaster.com%252Frichie-jen-miracle-concert-2026-ridgefield-washington-09-06-2026%252Fevent%252F0F0064BACEA2CC51%253Futm_content%253Dhotevent%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-06T20:00:00-07:00",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketmaster.com%252Frichie-jen-miracle-concert-2026-ridgefield-washington-09-06-2026%252Fevent%252F0F0064BACEA2CC51%253Futm_content%253Dhotevent%26utm_medium%3daffiliate",
+      "title": "Richie Jen: Miracle Concert 2026",
+      "venue": {
+        "address": "1 Cowlitz Way",
+        "city": "Ridgefield",
+        "latitude": 45.853373,
+        "longitude": -122.707732,
+        "name": "Ilani Cowlitz Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19449610@2026-09-06T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0euNcrf0I0O0KJYD1Du57g.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252F16-volt-acumen-nation-star-theater-tickets%252F14219574%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-06T20:00:00-07:00",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252F16-volt-acumen-nation-star-theater-tickets%252F14219574%26utm_medium%3daffiliate",
+      "title": "16 VOLT & ACUMEN NATION",
+      "venue": {
+        "address": "13 NW 6th Ave",
+        "city": "Portland",
+        "latitude": 45.5233726501,
+        "longitude": -122.6767425537,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:18082320@2026-09-06T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lxi2O9aUOk6nraIq8bG3jw.large.png",
       "is_all_day": false,
@@ -4103,34 +4024,27 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:rZ7HnEZ1A4ZwJK",
-      "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "willamette_week:19679592@2026-09-06T20:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g8AM2io6n0S9KuZM0L6wvA.large.png",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/cellotronik-returns-with-special-guest-dantes-tickets/15032993",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fcellotronik-returns-with-special-guest-dantes-tickets%252F15032993%26utm_medium%3daffiliate",
       "price": {
         "currency": "USD",
-        "is_free": false,
-        "max": 21.09,
-        "min": 21.09
+        "is_free": false
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-09-06T20:30:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/cellotronik-returns-with-special-guest-dantes-tickets/15032993",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fcellotronik-returns-with-special-guest-dantes-tickets%252F15032993%26utm_medium%3daffiliate",
       "title": "CELLOTRONIK RETURNS with special guest - followed by Sinferno Cabaret",
       "venue": {
-        "address": "350 West Burnside Street",
+        "address": "350 West Burnside",
         "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
+        "latitude": 45.5230448395,
+        "longitude": -122.6738762856,
         "name": "Dante's"
       }
     },
@@ -4138,34 +4052,28 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:rZ7HnEZ1AfPsOd",
-      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "willamette_week:19469867@2026-09-06T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vuAXMbbHhUuCeQDOg7dL5A.large.png",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971803",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fchurch-of-hive-star-theater-tickets%252F14971803%26utm_medium%3daffiliate",
       "price": {
         "currency": "USD",
-        "is_free": false,
-        "max": 6.2,
-        "min": 6.2
+        "is_free": false
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-09-06T21:00:00-07:00",
-      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party SKULLY : NARCISSUS10.30pm : $5 : 21+",
-      "ticket_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971803",
+      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party 9pm : $5 : 21\\+",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fchurch-of-hive-star-theater-tickets%252F14971803%26utm_medium%3daffiliate",
       "title": "CHURCH OF HIVE",
       "venue": {
-        "address": "13 NW Sixth Avenue",
+        "address": "13 NW 6th Ave",
         "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
+        "latitude": 45.5233726501,
+        "longitude": -122.6767425537,
         "name": "Star Theater"
       }
     },
@@ -4198,6 +4106,35 @@
         "latitude": 45.5227,
         "longitude": -122.672553,
         "name": "Shanghai Tunnel Bar"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:16902271@2026-09-06T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/W_yeDvr5tUeizggPrepCgg.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fchurch-of-hive-star-theater-tickets%252F14018334%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-06T21:00:00-07:00",
+      "summary": "CHURCH OF HIVEgothic - industrial - darkwave - dance party",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fchurch-of-hive-star-theater-tickets%252F14018334%26utm_medium%3daffiliate",
+      "title": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
+      "venue": {
+        "address": "13 NW 6th Ave",
+        "city": "Portland",
+        "latitude": 45.5233726501,
+        "longitude": -122.6767425537,
+        "name": "Star Theater"
       }
     },
     {
@@ -176029,5 +175966,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-07T04:29:20+00:00"
+  "generated_at": "2026-09-07T04:34:53+00:00"
 }
