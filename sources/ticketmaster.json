@@ -122,6 +122,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfG677",
+      "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/karaoke-from-hell-dantes-tickets/14307104",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 8.26,
+        "min": 8.26
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-07T21:00:00-07:00",
+      "summary": "The original live karaoke band, rocking in Portland for 25 years and counting. Come see us every Monday at Dante's!",
+      "ticket_url": "https://www.ticketweb.com/event/karaoke-from-hell-dantes-tickets/14307104",
+      "title": "KARAOKE FROM HELL",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:vvG1HZ_dmH0IYK",
       "image_url": "https://s1.ticketm.net/dam/a/cd0/d26204db-9477-43df-965b-ee262dc05cd0_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -8385,7 +8416,7 @@
       "id": "ticketmaster:rZ7HnEZ1AKJ7o7",
       "image_url": "https://s1.ticketm.net/dam/a/a11/07536dd3-8568-40c2-b25a-312c0917fa11_939791_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/hammerfall-with-evergrey-elvenking-dantes-tickets/13984444",
+      "listing_url": "https://www.ticketweb.com/event/hammerfall-with-evergrey-dantes-tickets/13984444",
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -8399,8 +8430,8 @@
       },
       "start_at": "2026-10-06T19:30:00-07:00",
       "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/hammerfall-with-evergrey-elvenking-dantes-tickets/13984444",
-      "title": "HAMMERFALL with Evergrey & Elvenking",
+      "ticket_url": "https://www.ticketweb.com/event/hammerfall-with-evergrey-dantes-tickets/13984444",
+      "title": "HAMMERFALL with Evergrey",
       "venue": {
         "address": "350 West Burnside Street",
         "city": "Portland",
@@ -13582,6 +13613,37 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfG6F7",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/fusion-halloween-edition-dantes-tickets/14307204",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 170.44,
+        "min": 26.24
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-30T20:30:00-07:00",
+      "summary": "Durante Lambert presents Haunted FUSION 'Halloween Edition\" Experience a stunning celebration of artistry as some of the region's most talented performers take the stage for a dynamic display of movement, music, and creative expression. FUSION brings together a vibrant and diverse community of artists --- which may include, but are not limited to, powerful group pieces, captivating solos, and appearances by live musical artists --- this high-energy event promises inspiration, innovation, and entertainment at the highest level. Don't miss a night where creativity knows no limits! Costume Contest : $100 Prize Performances By: Potion Dance Company Durante Lambert Abby McCarthy Zay's Baes Mia Cretarolo Lyric Ranae Chyna Moneii Jen and Hailey KODEX Bone Brigade Nadia Desdemona Diana Darling Elite Dance Company Fine Lines Dark Desire Michael White Haley Kekow Shawnacy Shealynn And More... 21+ Doors open at 7:30pm - Show starts at 8:30pm Visit: www.FUSIONPDX.net for more info and future submissions! Ticketing: General Admission - $20 online presale (Day of show: $30 online / $35 at door) Standing room only VIP Chair - Seating and Admission for 1 - $35 VIP Chair is located stage front behind the VIP Tables. Chair selection is first come, first served VIP Table - Seating and Admission for 4 - $160 Stage Front",
+      "ticket_url": "https://www.ticketweb.com/event/fusion-halloween-edition-dantes-tickets/14307204",
+      "title": "FUSION ‘Halloween Edition”",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
       }
     },
     {
@@ -24624,7 +24686,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-07T19:55:57+00:00",
+  "generated_at": "2026-09-07T22:48:29+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
