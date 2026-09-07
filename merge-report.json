@@ -201,12 +201,28 @@
       "venue": "Moda Center"
     },
     {
-      "dropped": "willamette_week:19013731@2026-09-17T19:00",
+      "dropped": "dopdx:17648797",
       "kept": "ticketmaster:rZ7HnEZ1Af-xFK",
       "start_at": "2026-09-17T19:00:00-07:00",
       "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
       "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
       "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19013731@2026-09-17T19:00",
+      "kept": "dopdx:17648797",
+      "start_at": "2026-09-17T19:00:00-07:00",
+      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:18366985@2026-09-17T19:00",
+      "kept": "dopdx:17768718",
+      "start_at": "2026-09-17T19:00:00-07:00",
+      "title_dropped": "Chart House - Prisoner Wine Dinner",
+      "title_kept": "Chart House - Prisoner Wine Dinner - Portland",
+      "venue": "Chart House"
     },
     {
       "dropped": "dopdx:17262315",
@@ -263,6 +279,14 @@
       "title_dropped": "Special Event: Kelsey Cook",
       "title_kept": "Kelsey Cook",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19625775@2026-09-17T19:30",
+      "kept": "dopdx:17780773",
+      "start_at": "2026-09-17T19:30:00-07:00",
+      "title_dropped": "Lake Oswego Comedy Night",
+      "title_kept": "Lake Oswego Comedy Night",
+      "venue": "Lake Theater & Cafe"
     },
     {
       "dropped": "willamette_week:19787116@2026-09-19T10:00",
@@ -1953,6 +1977,14 @@
       "venue": "Pioneer Courthouse Square"
     },
     {
+      "dropped": "willamette_week:19669237@2026-09-17T15:00",
+      "kept": "dopdx:17768671",
+      "start_at": "2026-09-17T15:00:00-07:00",
+      "title_dropped": "2026 Rebuilding Wealth Summit",
+      "title_kept": "2026 Rebuilding Wealth Summit",
+      "venue": "Thesis"
+    },
+    {
       "dropped": "willamette_week:19165776@2026-09-17T18:00",
       "kept": "dopdx:17768672",
       "start_at": "2026-09-17T18:00:00-07:00",
@@ -1961,12 +1993,28 @@
       "venue": "Powell's City of Books"
     },
     {
+      "dropped": "willamette_week:19155696@2026-09-17T18:00",
+      "kept": "dopdx:17768790",
+      "start_at": "2026-09-17T18:00:00-07:00",
+      "title_dropped": "Watercolor Worlds: Intro to Watercolor at The Paladins League",
+      "title_kept": "Watercolor Worlds: Intro to Watercolor at The Paladins League",
+      "venue": "The Paladins League"
+    },
+    {
       "dropped": "willamette_week:19504943@2026-09-17T18:30",
       "kept": "dopdx:17641012",
       "start_at": "2026-09-17T18:30:00-07:00",
       "title_dropped": "Live Wire with Luke Burbank",
       "title_kept": "Live Wire with Luke Burbank",
       "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "willamette_week:19787112@2026-09-17T18:30",
+      "kept": "dopdx:17746194",
+      "start_at": "2026-09-17T18:30:00-07:00",
+      "title_dropped": "MicroMania Midget Wrestling: Hillsboro, OR at VIP Live Club",
+      "title_kept": "MicroMania Midget Wrestling: Hillsboro, OR at VIP Live Club",
+      "venue": "Player's Box/VIP Live"
     },
     {
       "dropped": "dopdx:17447568",
@@ -2033,6 +2081,14 @@
       "venue": "Mississippi Studios"
     },
     {
+      "dropped": "willamette_week:19412364@2026-09-17T20:00",
+      "kept": "dopdx:17798627",
+      "start_at": "2026-09-17T20:00:00-07:00",
+      "title_dropped": "Spencer Crandall",
+      "title_kept": "Spencer Crandall",
+      "venue": "Ponderosa Lounge & Grill"
+    },
+    {
       "dropped": "willamette_week:19579481@2026-09-17T20:00",
       "kept": "ticketmaster:rZ7HnEZ1A4ZF-d",
       "start_at": "2026-09-17T20:00:00-07:00",
@@ -2055,6 +2111,22 @@
       "title_dropped": "jigitz & Killen.",
       "title_kept": "jigitz (21 and Over)",
       "venue": "Wonder Ballroom"
+    },
+    {
+      "dropped": "willamette_week:19660520@2026-09-17T22:00",
+      "kept": "dopdx:17375205",
+      "start_at": "2026-09-17T22:00:00-07:00",
+      "title_dropped": "Roast Batte Portland",
+      "title_kept": "Roast Battle Portland",
+      "venue": "Funhouse Lounge"
+    },
+    {
+      "dropped": "willamette_week:17758226@2026-09-17T22:00",
+      "kept": "dopdx:17375205",
+      "start_at": "2026-09-17T22:00:00-07:00",
+      "title_dropped": "Roast Battle Portland",
+      "title_kept": "Roast Battle Portland",
+      "venue": "Funhouse Lounge"
     },
     {
       "dropped": "willamette_week:19669242@2026-09-18T08:00",
@@ -5865,9 +5937,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 5885,
-  "floor_check": "5885 events against a 5980-event baseline",
-  "generated_at": "2026-09-07T05:01:15+00:00",
+  "event_count": 5907,
+  "floor_check": "5907 events against a 5980-event baseline",
+  "generated_at": "2026-09-07T05:11:20+00:00",
   "problems": [],
   "sources": [
     "calagator",
