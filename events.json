@@ -112428,13 +112428,17 @@
     },
     {
       "categories": [
-        "civic"
+        "arts"
       ],
       "end_at": "2026-09-28T21:00:00-07:00",
-      "id": "willamette_week:19851213@2026-09-28T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sAIo3ozZckCadVE0AEnIyA.large.jpg",
+      "id": "dopdx:17819678",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788806573/event-17819678.jpg",
       "is_all_day": false,
-      "listing_url": "https://100livesrep.org/education",
+      "listing_url": "https://dopdx.com/events/2026/9/28/shakespeare-lounge-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -112442,18 +112446,16 @@
         "min": 50.0
       },
       "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
       },
       "start_at": "2026-09-28T18:00:00-07:00",
-      "summary": "Shakespeare Lounge Last Mondays | 6pm-9pm Next Lounge: 9/28, 10/26 Cost: $50 drop-in Just in time for PATA CLASSICAL AUDITIONS! Time to own your Shakespeare and have some fun and freedom. This is a relaxed class & growing collective of actors who want to experiment and fail and push themselves to dig deeper into the text and into themselves. Come warmup, explore BIG, UGLY, dynamic physicality and vocality, and PLAY on our massive stage. Taught by 100 Lives Artistic Director Annie Kehoe.",
+      "summary": "Shakespeare Lounge Last Mondays | 6pm-9pm Next Lounge: 9/28, 10/26 Cost: $50 drop-in Time to own your Shakespeare and have some fun and freedom. This is a relaxed class & growing collective of actors who want to experiment and fail and push themselves to dig deeper into the text and into themselves. Come warmup, explore BIG, UGLY, dynamic physicality and vocality, and PLAY on our massive stage. Taught by 100 Lives Artistic Director Annie Kehoe.",
       "title": "Shakespeare Lounge",
       "venue": {
-        "address": "2025 SE 7th Ave",
+        "address": "2025 SE 7th Ave.",
         "city": "Portland",
-        "latitude": 45.508263,
-        "longitude": -122.659077,
         "name": "100 Lives Theatre"
       }
     },
@@ -175301,5 +175303,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-07T20:41:09+00:00"
+  "generated_at": "2026-09-07T20:47:52+00:00"
 }
