@@ -167892,6 +167892,35 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "ticketmaster:vvG1HZ_3kJ5tS-",
+      "image_url": "https://s1.ticketm.net/dam/a/eb9/3907ef01-ee19-4e3b-9b80-bc287e2ddeb9_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.etix.com/ticket/p/80307484/matt-rogersthis-time-its-reallychristmas-tour-portland-aladdin-theater",
+      "organizer": "LIVE NATION MUSIC",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-05T20:00:00-08:00",
+      "ticket_url": "https://www.etix.com/ticket/p/80307484/matt-rogersthis-time-its-reallychristmas-tour-portland-aladdin-theater",
+      "title": "Matt Rogers: THIS TIME IT'S *REALLY* CHRISTMAS Tour",
+      "venue": {
+        "address": "3017 SE Milwaukie Avenue",
+        "city": "Portland",
+        "latitude": 45.501102,
+        "longitude": -122.654253,
+        "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:rZ7HnEZ1Afk4ff",
@@ -177013,5 +177042,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-08T14:47:03+00:00"
+  "generated_at": "2026-09-08T15:07:21+00:00"
 }
