@@ -657,6 +657,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19856899@2026-09-09T20:00",
+      "kept": "dopdx:17790493",
+      "start_at": "2026-09-09T20:00:00-07:00",
+      "title_dropped": "JAYMES BAND, ZAP STAR (L.A.), PALE VIOLET",
+      "title_kept": "Jaymes Band, Zap Star (L.A.), Pale Violet",
+      "venue": "Kelly's Olympian"
+    },
+    {
       "dropped": "willamette_week:19449612@2026-09-09T20:00",
       "kept": "ticketmaster:rZ7HnEZ1AfFFa0",
       "start_at": "2026-09-09T20:00:00-07:00",
@@ -937,6 +945,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:19857460@2026-09-11T19:00",
+      "kept": "dopdx:16988944",
+      "start_at": "2026-09-11T19:00:00-07:00",
+      "title_dropped": "Kevin Sullivan",
+      "title_kept": "SOLD OUT Kevin Sullivan",
+      "venue": "Siren Theater"
+    },
+    {
       "dropped": "willamette_week:19717547@2026-09-11T19:00",
       "kept": "dopdx:17769465",
       "start_at": "2026-09-11T19:00:00-07:00",
@@ -983,6 +999,14 @@
       "title_dropped": "Guided EFT Meditation, Somatic Release, & Sound Bath",
       "title_kept": "Guided EFT Meditation, Somatic Release, & Sound Bath",
       "venue": "The Way Home Studio"
+    },
+    {
+      "dropped": "willamette_week:19857354@2026-09-11T19:30",
+      "kept": "dopdx:17290385",
+      "start_at": "2026-09-11T19:00:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Shawn Gardini",
+      "title_kept": "Rick Glassman",
+      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "dopdx:17290470",
@@ -1233,6 +1257,14 @@
       "venue": "Arlene Schnitzer Concert Hall"
     },
     {
+      "dropped": "willamette_week:19857460@2026-09-12T19:00",
+      "kept": "dopdx:16988946",
+      "start_at": "2026-09-12T19:00:00-07:00",
+      "title_dropped": "Kevin Sullivan",
+      "title_kept": "Kevin Sullivan",
+      "venue": "Siren Theater"
+    },
+    {
       "dropped": "willamette_week:18520565@2026-09-12T19:00",
       "kept": "dopdx:17462688",
       "start_at": "2026-09-12T19:00:00-07:00",
@@ -1265,12 +1297,28 @@
       "venue": "Awakenings Wellness Center"
     },
     {
+      "dropped": "willamette_week:19857354@2026-09-12T19:30",
+      "kept": "dopdx:17290387",
+      "start_at": "2026-09-12T19:00:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Shawn Gardini",
+      "title_kept": "Rick Glassman",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:19538832@2026-09-12T20:00",
       "kept": "dopdx:17466595",
       "start_at": "2026-09-12T20:00:00-07:00",
       "title_dropped": "An evening with Andrew Duhon - Stop Motion Tour '26",
       "title_kept": "An evening with Andrew Duhon - Stop Motion Tour '26",
       "venue": "Mississippi Studios"
+    },
+    {
+      "dropped": "willamette_week:19857358@2026-09-12T20:00",
+      "kept": "dopdx:17526959",
+      "start_at": "2026-09-12T20:00:00-07:00",
+      "title_dropped": "Fortune Feimster: Takin' Care of Biscuits Tour",
+      "title_kept": "Fortune Feimster: Takin' Care of Biscuits Comedy Tour",
+      "venue": "Keller Auditorium"
     },
     {
       "dropped": "dopdx:16979159",
@@ -6057,9 +6105,9 @@
       "venue": "Hawthorne Theatre"
     }
   ],
-  "event_count": 5959,
-  "floor_check": "5959 events against a 5960-event baseline",
-  "generated_at": "2026-09-08T18:38:10+00:00",
+  "event_count": 5962,
+  "floor_check": "5962 events against a 5960-event baseline",
+  "generated_at": "2026-09-08T18:45:58+00:00",
   "problems": [],
   "sources": [
     "calagator",
