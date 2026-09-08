@@ -1869,7 +1869,7 @@
       "kept": "ticketmaster:rZ7HnEZ1AfP3OS",
       "start_at": "2026-09-16T20:00:00-07:00",
       "title_dropped": "Chrissy Chlapecka",
-      "title_kept": "CHRISSY CHLAPECKA",
+      "title_kept": "CHRISSY CHLAPECKA with Slajer",
       "venue": "Dante's"
     },
     {
@@ -5985,6 +5985,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:17586570@2026-10-05T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPwu7",
+      "start_at": "2026-10-05T21:00:00-07:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19055526@2026-10-08T18:00",
       "kept": "ticketmaster:Z7r9jZ1A7Jd46",
       "start_at": "2026-10-08T17:30:00-07:00",
@@ -6049,9 +6057,9 @@
       "venue": "Hawthorne Theatre"
     }
   ],
-  "event_count": 5964,
-  "floor_check": "5964 events against a 5908-event baseline",
-  "generated_at": "2026-09-08T05:22:01+00:00",
+  "event_count": 5959,
+  "floor_check": "5959 events against a 5908-event baseline",
+  "generated_at": "2026-09-08T05:56:59+00:00",
   "problems": [],
   "sources": [
     "calagator",
