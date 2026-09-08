@@ -1049,6 +1049,14 @@
       "venue": "Revolution Hall - Portland"
     },
     {
+      "dropped": "dopdx:17620706",
+      "kept": "ticketmaster:Z7r9jZ1AAvxje",
+      "start_at": "2026-09-11T20:00:00-07:00",
+      "title_dropped": "Decadent 80s Dance Party",
+      "title_kept": "Decadent 80s Dance Party",
+      "venue": "McMenamins Crystal Ballroom"
+    },
+    {
       "dropped": "dopdx:17643988",
       "kept": "ticketmaster:Z7r9jZ1AAv6ek",
       "start_at": "2026-09-11T20:00:00-07:00",
@@ -3281,6 +3289,14 @@
       "venue": "Polaris Hall"
     },
     {
+      "dropped": "dopdx:17520955",
+      "kept": "ticketmaster:Z7r9jZ1AAv_j6",
+      "start_at": "2026-09-23T20:00:00-07:00",
+      "title_dropped": "Soulwax Land Of Thetour",
+      "title_kept": "Soulwax",
+      "venue": "McMenamins Crystal Ballroom"
+    },
+    {
       "dropped": "dopdx:17669713",
       "kept": "ticketmaster:rZ7HnEZ1AfaFu7",
       "start_at": "2026-09-23T20:00:00-07:00",
@@ -4081,6 +4097,14 @@
       "venue": "High Water Mark Lounge"
     },
     {
+      "dropped": "dopdx:16318785",
+      "kept": "ticketmaster:Z7r9jZ1AAv_ja",
+      "start_at": "2026-09-26T20:30:00-07:00",
+      "title_dropped": "Peter Hook & The Light – North American Tour 2026",
+      "title_kept": "Peter Hook & The Light",
+      "venue": "McMenamins Crystal Ballroom"
+    },
+    {
       "dropped": "willamette_week:19108251@2026-09-26T21:00",
       "kept": "dopdx:17768719",
       "start_at": "2026-09-26T21:00:00-07:00",
@@ -4271,6 +4295,14 @@
       "title_dropped": "JESSE ROPER",
       "title_kept": "Jesse Roper",
       "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17062516",
+      "kept": "ticketmaster:Z7r9jZ1AAv_-s",
+      "start_at": "2026-09-27T20:00:00-07:00",
+      "title_dropped": "Kruder & Dorfmeister 'K&D Kicks 30 Anniversary Tour'",
+      "title_kept": "Kruder & Dorfmeister",
+      "venue": "McMenamins Crystal Ballroom"
     },
     {
       "dropped": "willamette_week:19637452@2026-09-27T20:00",
@@ -6161,9 +6193,9 @@
       "venue": "Hawthorne Theatre"
     }
   ],
-  "event_count": 6086,
-  "floor_check": "6086 events against a 5960-event baseline",
-  "generated_at": "2026-09-08T21:48:26+00:00",
+  "event_count": 6094,
+  "floor_check": "6094 events against a 5960-event baseline",
+  "generated_at": "2026-09-08T21:50:22+00:00",
   "problems": [],
   "sources": [
     "calagator",

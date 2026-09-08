@@ -19647,38 +19647,6 @@
         "music"
       ],
       "end_at": "2026-09-12T02:00:00-07:00",
-      "id": "dopdx:17620706",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1784314938/event-17620706.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/11/decadent-80s-dance-party-tickets",
-      "organizer": "McMenamins Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 11.0,
-        "min": 11.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-11T20:00:00-07:00",
-      "summary": "Official Tickets: Etix/Cascade Tickets is the official ticketing source and partner of the Crystal Ballroom -- Decadent 80s Get ready for a fun night of dancing to all your favorite hits and requests from the 1980s! D80s is Portland's longest-running 80s night, celebrating 21 consecutive years of weekly events. It's the official 80s night for Goonies Weekend in Astoria and hosts special events at select venues throughout Portland and across Oregon. Fans of 80s alternative music will feel right at home-D80s takes requests seriously while keeping each set fresh and dynamic week after week. Stop by and discover why D80s is Portland's go-to 80s club dance night. Event Details -- Please note: All sales are final. No refunds or exchanges. We will",
-      "title": "Decadent 80s Dance Party",
-      "venue": {
-        "address": "1332 W. Burnside",
-        "city": "Portland",
-        "latitude": 45.5227528,
-        "longitude": -122.6851261,
-        "name": "McMenamins Crystal Ballroom"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-09-12T02:00:00-07:00",
       "id": "dopdx:17709418",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786392814/event-17709418.jpg",
       "is_all_day": false,
@@ -20108,6 +20076,43 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-12T02:00:00-07:00",
+      "id": "ticketmaster:Z7r9jZ1AAvxje",
+      "image_url": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvxje",
+      "merged_sources": [
+        "dopdx",
+        "ticketmaster"
+      ],
+      "organizer": "McMenamins Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 11.0,
+        "min": 11.0
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-11T20:00:00-07:00",
+      "summary": "Official Tickets: Etix/Cascade Tickets is the official ticketing source and partner of the Crystal Ballroom -- Decadent 80s Get ready for a fun night of dancing to all your favorite hits and requests from the 1980s! D80s is Portland's longest-running 80s night, celebrating 21 consecutive years of weekly events. It's the official 80s night for Goonies Weekend in Astoria and hosts special events at select venues throughout Portland and across Oregon. Fans of 80s alternative music will feel right at home-D80s takes requests seriously while keeping each set fresh and dynamic week after week. Stop by and discover why D80s is Portland's go-to 80s club dance night. Event Details -- Please note: All sales are final. No refunds or exchanges. We will",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvxje",
+      "title": "Decadent 80s Dance Party",
+      "venue": {
+        "address": "1332  West Burnside St",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "McMenamins Crystal Ballroom"
       }
     },
     {
@@ -29768,6 +29773,37 @@
         "address": "535 NW 16th Ave",
         "city": "Portland",
         "name": "CSz Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfGaaf",
+      "image_url": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/mitch-gonzalez-duo-showdown-saloon-tickets/14309254",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-12T21:00:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/mitch-gonzalez-duo-showdown-saloon-tickets/14309254",
+      "title": "Mitch Gonzalez Duo",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -42884,6 +42920,34 @@
         "address": "421 SE Grand Ave",
         "city": "Portland",
         "name": "The Coffin Club"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AAv9ut",
+      "image_url": "https://s1.ticketm.net/dam/a/373/ff0e983f-3eba-4afa-8f94-76c9cf88f373_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv9ut",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-15T20:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv9ut",
+      "title": "Thievery Corporation w/ LAPA",
+      "venue": {
+        "address": "1332  West Burnside St",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "McMenamins Crystal Ballroom"
       }
     },
     {
@@ -85944,38 +86008,6 @@
         "music"
       ],
       "end_at": "2026-09-24T02:00:00-07:00",
-      "id": "dopdx:17520955",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1782251354/event-17520955.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/23/soulwax-land-of-thetour-tickets",
-      "organizer": "Showbox Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-23T20:00:00-07:00",
-      "summary": "Official Tickets: Etix/Cascade Tickets is the official ticketing source and partner of the Crystal Ballroom -- -- Please note: All sales are final. No refunds or exchanges. We will follow all state and local Covid-19 guidelines in place at the time of each show. General admission venue, standing room only. Limited amount of mezzanine seats available for patrons 21+ only. (Note: Row A Seats 14-17 and Row B Seats 14-18 have an obstructed view) For accessible seating you must agree that you have a mobility disability or a disability that requires the use of the accessible features that are provided in accessible seating or you are purchasing these tickets for an individual who has a mobility disability or a disability that requires the use of t",
-      "title": "Soulwax Land Of Thetour",
-      "venue": {
-        "address": "1332 W. Burnside",
-        "city": "Portland",
-        "latitude": 45.5227528,
-        "longitude": -122.6851261,
-        "name": "McMenamins Crystal Ballroom"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-09-24T02:00:00-07:00",
       "id": "dopdx:17701129",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786396048/event-17701129.jpg",
       "is_all_day": false,
@@ -86249,6 +86281,43 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-24T02:00:00-07:00",
+      "id": "ticketmaster:Z7r9jZ1AAv_j6",
+      "image_url": "https://s1.ticketm.net/dam/a/30b/691ad30a-ea74-47df-b208-e70b9d41830b_1305801_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv_j6",
+      "merged_sources": [
+        "dopdx",
+        "ticketmaster"
+      ],
+      "organizer": "Showbox Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-23T20:00:00-07:00",
+      "summary": "Official Tickets: Etix/Cascade Tickets is the official ticketing source and partner of the Crystal Ballroom -- -- Please note: All sales are final. No refunds or exchanges. We will follow all state and local Covid-19 guidelines in place at the time of each show. General admission venue, standing room only. Limited amount of mezzanine seats available for patrons 21+ only. (Note: Row A Seats 14-17 and Row B Seats 14-18 have an obstructed view) For accessible seating you must agree that you have a mobility disability or a disability that requires the use of the accessible features that are provided in accessible seating or you are purchasing these tickets for an individual who has a mobility disability or a disability that requires the use of t",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv_j6",
+      "title": "Soulwax",
+      "venue": {
+        "address": "1332  West Burnside St",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "McMenamins Crystal Ballroom"
       }
     },
     {
@@ -105304,38 +105373,6 @@
         "music"
       ],
       "end_at": "2026-09-27T02:00:00-07:00",
-      "id": "dopdx:16318785",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1755802357/event-16318785.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/26/peter-hook-the-light-north-american-tour-2026-tickets",
-      "organizer": "Monqui Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 68.5,
-        "min": 46.5
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-26T20:30:00-07:00",
-      "summary": "About Peter Hook & The Light: Peter Hook first revisited the seminal Joy Division album Unknown Pleasures back in May 2010 for a commemorative charity concert and has followed it each year by performing subsequent albums from the repertoire of his bands, Joy Division and New Order. His dedication to his back catalogue has now seen him move through Unknown Pleasures, Closer,Still, Movement, Power Corruption & Lies, Low Life, Brotherhood, Technique and Republic to arrive at the Substance albums this year and Get Ready next year. Having toured the albums extensively, the band have now amassed over 800 concerts. Among the many highlights since he reintroduced his early repertoire to a legion of audiences across the world, both new and old, have",
-      "title": "Peter Hook & The Light – North American Tour 2026",
-      "venue": {
-        "address": "1332 W. Burnside",
-        "city": "Portland",
-        "latitude": 45.5227528,
-        "longitude": -122.6851261,
-        "name": "McMenamins Crystal Ballroom"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-09-27T02:00:00-07:00",
       "id": "dopdx:17586112",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1783626116/event-17586112.jpg",
       "is_all_day": false,
@@ -105443,6 +105480,43 @@
         "address": "722 E Burnside St",
         "city": "Portland",
         "name": "NOVA PDX"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-27T02:00:00-07:00",
+      "id": "ticketmaster:Z7r9jZ1AAv_ja",
+      "image_url": "https://s1.ticketm.net/dam/a/e78/8b376276-0692-4323-99b1-863272154e78_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv_ja",
+      "merged_sources": [
+        "dopdx",
+        "ticketmaster"
+      ],
+      "organizer": "Monqui Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 68.5,
+        "min": 46.5
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-26T20:30:00-07:00",
+      "summary": "About Peter Hook & The Light: Peter Hook first revisited the seminal Joy Division album Unknown Pleasures back in May 2010 for a commemorative charity concert and has followed it each year by performing subsequent albums from the repertoire of his bands, Joy Division and New Order. His dedication to his back catalogue has now seen him move through Unknown Pleasures, Closer,Still, Movement, Power Corruption & Lies, Low Life, Brotherhood, Technique and Republic to arrive at the Substance albums this year and Get Ready next year. Having toured the albums extensively, the band have now amassed over 800 concerts. Among the many highlights since he reintroduced his early repertoire to a legion of audiences across the world, both new and old, have",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv_ja",
+      "title": "Peter Hook & The Light",
+      "venue": {
+        "address": "1332  West Burnside St",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "McMenamins Crystal Ballroom"
       }
     },
     {
@@ -110721,38 +110795,6 @@
         "music"
       ],
       "end_at": "2026-09-28T02:00:00-07:00",
-      "id": "dopdx:17062516",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1773354301/event-17062516.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/9/27/kruder-dorfmeister-k-d-kicks-30-anniversary-tour-tickets",
-      "organizer": "Soul'd Out & McMenamins Present",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 68.5,
-        "min": 54.75
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-09-27T20:00:00-07:00",
-      "summary": "Official Tickets: Etix/Cascade Tickets is the official ticketing source and partner of the Crystal Ballroom -- Everything started in the Original BedroomRockers Studio Kruder & Dorfmeister’s story is not just a story of refusal and renunciation. As the two started making music together in the early 1990s, there was hardly anything that the two didn’t do “wrong”, and therefore, exactly right. -- Please note: All sales are final. No refunds or exchanges. We will follow all state and local Covid-19 guidelines in place at the time of each show. General admission venue, standing room only. Limited amount of mezzanine seats available for purchase for patrons 21+ only. (Note: Row A Seats 14-17 and Row B Seats 14-18 have an obstructed view) For acce",
-      "title": "Kruder & Dorfmeister 'K&D Kicks 30 Anniversary Tour'",
-      "venue": {
-        "address": "1332 W. Burnside",
-        "city": "Portland",
-        "latitude": 45.5227528,
-        "longitude": -122.6851261,
-        "name": "McMenamins Crystal Ballroom"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-09-28T02:00:00-07:00",
       "id": "dopdx:17610258",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1784134467/event-17610258.jpg",
       "is_all_day": false,
@@ -111021,6 +111063,43 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-28T02:00:00-07:00",
+      "id": "ticketmaster:Z7r9jZ1AAv_-s",
+      "image_url": "https://s1.ticketm.net/dam/a/e13/02b90d17-fd67-4534-a9d7-c595c524fe13_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv_-s",
+      "merged_sources": [
+        "dopdx",
+        "ticketmaster"
+      ],
+      "organizer": "Soul'd Out & McMenamins Present",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 68.5,
+        "min": 54.75
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-27T20:00:00-07:00",
+      "summary": "Official Tickets: Etix/Cascade Tickets is the official ticketing source and partner of the Crystal Ballroom -- Everything started in the Original BedroomRockers Studio Kruder & Dorfmeister’s story is not just a story of refusal and renunciation. As the two started making music together in the early 1990s, there was hardly anything that the two didn’t do “wrong”, and therefore, exactly right. -- Please note: All sales are final. No refunds or exchanges. We will follow all state and local Covid-19 guidelines in place at the time of each show. General admission venue, standing room only. Limited amount of mezzanine seats available for purchase for patrons 21+ only. (Note: Row A Seats 14-17 and Row B Seats 14-18 have an obstructed view) For acce",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv_-s",
+      "title": "Kruder & Dorfmeister",
+      "venue": {
+        "address": "1332  West Burnside St",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "McMenamins Crystal Ballroom"
       }
     },
     {
@@ -154761,6 +154840,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AAv_-9",
+      "image_url": "https://s1.ticketm.net/dam/a/53b/2a93cf6d-0f28-4e7e-8f2c-bd0876a7953b_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv_-9",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-09T20:30:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv_-9",
+      "title": "Sammy Rae and The Friends w/ Melt",
+      "venue": {
+        "address": "1332  West Burnside St",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "McMenamins Crystal Ballroom"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -160351,6 +160458,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfGF_f",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/india-ramey-and-the-waymores-showdown-saloon-tickets/14308654",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.1,
+        "min": 23.1
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-22T20:00:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/india-ramey-and-the-waymores-showdown-saloon-tickets/14308654",
+      "title": "India Ramey and The Waymores with Pati Rojas Band",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7PU-M",
       "image_url": "https://s1.ticketm.net/dam/a/148/6f9098fe-e645-4636-bdcd-2c63d5ced148_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -163680,6 +163818,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfGA_f",
+      "image_url": "https://s1.ticketm.net/dam/c/27e/458d1b62-6e4f-4ffd-8941-9ed303d8e27e_106041_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/the-rusty-frets-with-midnight-jack-london-revue-tickets/14305654",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 24.18,
+        "min": 24.18
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-31T20:00:00-07:00",
+      "summary": "The Rusty Frets with Midnight CoveSoul'd Out Presents: The Rusty Frets Halloween Bash, with Midnight Cove Doors: 7:00pm Show: 8:00pm Ages 21+. https://www.therustyfrets.com/ The Rusty Frets bring their full live show to The Jack London Revue this Halloween, delivering a headline performance with the band's signature blend of feel good reggae, rock and soulful grooves, backed by their full horn lineup. Since forming in Bend, Oregon in 2023, The Rusty Frets have quickly moved from a regional act to one of the Pacific Northwest's emerging reggae bands. Their original music has generated more than 231,000 Spotify streams, with three singles reaching the iTunes Reggae Top 100. Their live resume tells the story. The Rusty Frets have shared stages with Julian Marley, Afroman, Kash'd Out, Kyle Smith and Sensamotion, appeared at the Oregon and Boise Reggae Festivals, and headlined Little Woody Fest along with Bend's Summer, Fall and Winter Fests. In 2025, they joined Afroman for a performance at Hayden Homes Amphitheater during Bend WinterFest. Their 2024 single , \"rdquo\" -> Swervy,\" featuring G. Love & Special Sauce, marked another step forward for a band continuing to build its audience well beyond Oregon. With a new full length album currently in production at Somni Studios, The Rusty Frets arrive in Portland with fresh music, a full band and plenty of momentum behind them. Opening the evening is Midnight Cove, the six piece Central Oregon outfit bringing their groove heavy West Coast sound to the Jack London stage following the release of their latest single, , \"rdquo\" -> Let It Rain.\" Costume contest. Drink specials. Two live bands. One Halloween night at Jack London Revue. Special Note: Ticket holders for this show receive free admission to Jack London's Burly Q Revue Cabaret after the music!",
+      "ticket_url": "https://www.ticketweb.com/event/the-rusty-frets-with-midnight-jack-london-revue-tickets/14305654",
+      "title": "THE RUSTY FRETS with Midnight Cove",
+      "venue": {
+        "address": "529 SW 4th Ave.",
+        "city": "Portland",
+        "latitude": 45.519452,
+        "longitude": -122.676291,
+        "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1Af1fF0",
       "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -165872,6 +166041,34 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AAv-_y",
+      "image_url": "https://s1.ticketm.net/dam/a/ebe/eeecd753-f647-4379-853f-cc21bdee9ebe_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv-_y",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-08T20:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv-_y",
+      "title": "Derek Hough Dance for the Holidays",
+      "venue": {
+        "address": "1037 SW Broadway Dr",
+        "city": "Portland",
+        "latitude": 45.5201,
+        "longitude": -122.6884,
+        "name": "Arlene Schnitzer Concert Hall"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:Z7r9jZ1A70zog",
@@ -167361,7 +167558,7 @@
       "id": "ticketmaster:rZ7HnEZ1A4ZEeK",
       "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/chris-acker-showdown-saloon-tickets/15027093",
+      "listing_url": "https://www.ticketweb.com/event/chris-acker-with-lucas-benoit-showdown-saloon-tickets/15027093",
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -167375,8 +167572,8 @@
       },
       "start_at": "2026-11-14T20:00:00-08:00",
       "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/chris-acker-showdown-saloon-tickets/15027093",
-      "title": "Chris Acker",
+      "ticket_url": "https://www.ticketweb.com/event/chris-acker-with-lucas-benoit-showdown-saloon-tickets/15027093",
+      "title": "Chris Acker with Lucas Benoit",
       "venue": {
         "address": "1195 SE Powell Blvd",
         "city": "Portland",
@@ -168738,6 +168935,34 @@
         "latitude": 45.523588,
         "longitude": -122.676857,
         "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AAvoOk",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvoOk",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-20T20:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvoOk",
+      "title": "Haley Johnsen",
+      "venue": {
+        "address": "1332  West Burnside St",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "McMenamins Crystal Ballroom"
       }
     },
     {
@@ -171891,6 +172116,34 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AAvbfV",
+      "image_url": "https://s1.ticketm.net/dam/a/0fa/a34b4655-7481-4ba8-a5ce-d9542f5d50fa_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvbfV",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-08T20:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvbfV",
+      "title": "Yaelokre",
+      "venue": {
+        "address": "1332  West Burnside St",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "McMenamins Crystal Ballroom"
       }
     },
     {
@@ -180559,5 +180812,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-08T21:48:26+00:00"
+  "generated_at": "2026-09-08T21:50:22+00:00"
 }
