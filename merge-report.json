@@ -4945,6 +4945,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19858847@2026-10-01T20:30",
+      "kept": "dopdx:17779740",
+      "start_at": "2026-10-01T20:30:00-07:00",
+      "title_dropped": "Aardvark Improv",
+      "title_kept": "Aardvark Improv",
+      "venue": "Kickstand Comedy"
+    },
+    {
       "dropped": "willamette_week:19449650@2026-10-01T20:30",
       "kept": "ticketmaster:rZ7HnEZ1AfFUv7",
       "start_at": "2026-10-01T20:30:00-07:00",
@@ -6193,9 +6201,9 @@
       "venue": "Hawthorne Theatre"
     }
   ],
-  "event_count": 6094,
-  "floor_check": "6094 events against a 5960-event baseline",
-  "generated_at": "2026-09-08T21:50:22+00:00",
+  "event_count": 6098,
+  "floor_check": "6098 events against a 5960-event baseline",
+  "generated_at": "2026-09-08T21:55:24+00:00",
   "problems": [],
   "sources": [
     "calagator",
