@@ -657,6 +657,14 @@
       "venue": "Barrel Room Portland"
     },
     {
+      "dropped": "willamette_week:19868999@2026-09-10T12:00",
+      "kept": "dopdx:17811034",
+      "start_at": "2026-09-10T12:00:00-07:00",
+      "title_dropped": "The Cybersecurity Matrix in 2026-2027",
+      "title_kept": "The Cybersecurity Matrix in 2026-2027",
+      "venue": "The Portland Building"
+    },
+    {
       "dropped": "willamette_week:18602719@2026-09-10T19:00",
       "kept": "dopdx:16977304",
       "start_at": "2026-09-10T19:00:00-07:00",
@@ -1071,6 +1079,14 @@
       "title_dropped": "Nikki Glaser: The Stunning Tour",
       "title_kept": "Nikki Glaser: The Stunning Tour",
       "venue": "Ilani Cowlitz Ballroom"
+    },
+    {
+      "dropped": "willamette_week:19869006@2026-09-11T20:30",
+      "kept": "dopdx:17771337",
+      "start_at": "2026-09-11T20:00:00-07:00",
+      "title_dropped": "FINLAY + KING E.D.O, SERENAYA, and AYOCHILLMANNN",
+      "title_kept": "Time Travel 4 Less Album Release Party!, Two Sets",
+      "venue": "Kelly's Olympian"
     },
     {
       "dropped": "dopdx:17339142",
@@ -6471,11 +6487,19 @@
       "title_dropped": "Hiss Golden Messenger",
       "title_kept": "Hiss Golden Messenger w/ Sam Amidon",
       "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "willamette_week:19869006@2026-09-10T20:30",
+      "kept": "dopdx:17813669",
+      "start_at": "2026-09-10T21:00:00-07:00",
+      "title_dropped": "FINLAY + KING E.D.O, SERENAYA, and AYOCHILLMANNN",
+      "title_kept": "Finlay + King E.D.O, Serenaya, Ayochillmannn",
+      "venue": "Kelly's Olympian"
     }
   ],
-  "event_count": 6212,
-  "floor_check": "6212 events against a 6148-event baseline",
-  "generated_at": "2026-09-09T21:41:09+00:00",
+  "event_count": 6274,
+  "floor_check": "6274 events against a 6148-event baseline",
+  "generated_at": "2026-09-09T21:45:22+00:00",
   "problems": [],
   "sources": [
     "calagator",
