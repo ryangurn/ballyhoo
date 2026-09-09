@@ -637,7 +637,7 @@
       "kept": "ticketmaster:rZ7HnEZ1AfFFa0",
       "start_at": "2026-09-09T20:00:00-07:00",
       "title_dropped": "KATCHAFIRE w JORDAN T",
-      "title_kept": "KATCHAFIRE w JORDAN T",
+      "title_kept": "KATCHAFIRE w Jordan T, Rabbit Dub and Trinity Sound",
       "venue": "Star Theater"
     },
     {
@@ -5073,6 +5073,14 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "dopdx:17387378",
+      "kept": "ticketmaster:Z7r9jZ1AAZYv9",
+      "start_at": "2026-10-02T19:30:00-07:00",
+      "title_dropped": "Guys and Dolls",
+      "title_kept": "Guys & Dolls",
+      "venue": "Winningstad Theatre"
+    },
+    {
       "dropped": "willamette_week:19863639@2026-10-02T19:30",
       "kept": "dopdx:17779124",
       "start_at": "2026-10-02T19:30:00-07:00",
@@ -5247,6 +5255,14 @@
       "title_dropped": "Water for Elephants",
       "title_kept": "Water for Elephants - Click for showtimes",
       "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17387379",
+      "kept": "ticketmaster:Z7r9jZ1AAv0pA",
+      "start_at": "2026-10-03T14:00:00-07:00",
+      "title_dropped": "Guys and Dolls - Click for showtimes",
+      "title_kept": "Guys & Dolls",
+      "venue": "Winningstad Theatre"
     },
     {
       "dropped": "willamette_week:19863639@2026-10-03T14:00",
@@ -5591,6 +5607,14 @@
       "title_dropped": "Tchaikovsky's Symphony No. 5",
       "title_kept": "Tchaikovsky's Symphony No. 5",
       "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "dopdx:17387380",
+      "kept": "ticketmaster:Z7r9jZ1AAv0pk",
+      "start_at": "2026-10-04T14:00:00-07:00",
+      "title_dropped": "Guys and Dolls",
+      "title_kept": "Guys & Dolls",
+      "venue": "Winningstad Theatre"
     },
     {
       "dropped": "willamette_week:18548783@2026-10-04T18:00",
@@ -6409,9 +6433,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6148,
-  "floor_check": "6148 events against a 6132-event baseline",
-  "generated_at": "2026-09-09T18:03:04+00:00",
+  "event_count": 6165,
+  "floor_check": "6165 events against a 6132-event baseline",
+  "generated_at": "2026-09-09T18:34:28+00:00",
   "problems": [],
   "sources": [
     "calagator",
