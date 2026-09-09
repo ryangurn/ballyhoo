@@ -1377,6 +1377,14 @@
       "venue": "Polaris Hall"
     },
     {
+      "dropped": "willamette_week:19866239@2026-09-12T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfGaaf",
+      "start_at": "2026-09-12T21:00:00-07:00",
+      "title_dropped": "Mitch Gonzales Duo",
+      "title_kept": "Mitch Gonzales Duo",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:19511103@2026-09-12T21:30",
       "kept": "dopdx:17290388",
       "start_at": "2026-09-12T21:30:00-07:00",
@@ -1737,6 +1745,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19867867@2026-09-15T20:00",
+      "kept": "dopdx:17358758",
+      "start_at": "2026-09-15T19:30:00-07:00",
+      "title_dropped": "Open Mic Night",
+      "title_kept": "Don McMillan",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "dopdx:17582994",
       "kept": "ticketmaster:Z7r9jZ1AAvax_",
       "start_at": "2026-09-15T20:00:00-07:00",
@@ -1908,7 +1924,7 @@
       "dropped": "willamette_week:19449624@2026-09-16T20:00",
       "kept": "dopdx:17436451",
       "start_at": "2026-09-16T20:00:00-07:00",
-      "title_dropped": "CHRISSY CHLAPECKA",
+      "title_dropped": "CHRISSY CHLAPECKA with Slajer",
       "title_kept": "Chrissy Chlapecka",
       "venue": "Dante's"
     },
@@ -3183,6 +3199,14 @@
       "title_dropped": "Consider This with Stephanie Land",
       "title_kept": "Consider This with Stephanie Land",
       "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "willamette_week:19867867@2026-09-22T20:00",
+      "kept": "dopdx:17358759",
+      "start_at": "2026-09-22T19:30:00-07:00",
+      "title_dropped": "Open Mic Night",
+      "title_kept": "Chris Klemens: Chris vs The People",
+      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "dopdx:17341568",
@@ -4521,6 +4545,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19867867@2026-09-29T20:00",
+      "kept": "dopdx:17750041",
+      "start_at": "2026-09-29T19:30:00-07:00",
+      "title_dropped": "Open Mic Night",
+      "title_kept": "Radel Ortiz",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "dopdx:17620709",
       "kept": "ticketmaster:Z7r9jZ1A7JfoV",
       "start_at": "2026-09-29T20:00:00-07:00",
@@ -5617,6 +5649,14 @@
       "venue": "Winningstad Theatre"
     },
     {
+      "dropped": "willamette_week:19866240@2026-10-04T16:00",
+      "kept": "ticketmaster:vvG1HZ_3C7-fXR",
+      "start_at": "2026-10-04T16:00:00-07:00",
+      "title_dropped": "Portland Trail Blazers Fan Fest 2026",
+      "title_kept": "Portland Trail Blazers Fan Fest 2026",
+      "venue": "Moda Center"
+    },
+    {
       "dropped": "willamette_week:18548783@2026-10-04T18:00",
       "kept": "dopdx:17611159",
       "start_at": "2026-10-04T18:00:00-07:00",
@@ -6433,9 +6473,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6165,
-  "floor_check": "6165 events against a 6132-event baseline",
-  "generated_at": "2026-09-09T18:34:28+00:00",
+  "event_count": 6201,
+  "floor_check": "6201 events against a 6132-event baseline",
+  "generated_at": "2026-09-09T18:41:51+00:00",
   "problems": [],
   "sources": [
     "calagator",
