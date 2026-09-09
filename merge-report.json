@@ -2177,6 +2177,14 @@
       "venue": "Can Can's Paris Theatre"
     },
     {
+      "dropped": "willamette_week:19865721@2026-09-18T18:30",
+      "kept": "dopdx:17811040",
+      "start_at": "2026-09-18T18:30:00-07:00",
+      "title_dropped": "Soundbath In The Orchard",
+      "title_kept": "Soundbath In The Orchard",
+      "venue": "Taylor Family Farm"
+    },
+    {
       "dropped": "willamette_week:19579469@2026-09-18T19:00",
       "kept": "dopdx:17690386",
       "start_at": "2026-09-18T19:00:00-07:00",
@@ -4183,6 +4191,14 @@
       "title_dropped": "Wild Symphony",
       "title_kept": "Wild Symphony",
       "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "willamette_week:19865725@2026-09-27T17:00",
+      "kept": "dopdx:17811022",
+      "start_at": "2026-09-27T17:00:00-07:00",
+      "title_dropped": "Nada Prana Vocal Meditation",
+      "title_kept": "Nada Prana Vocal Meditation",
+      "venue": "Pacha Collective"
     },
     {
       "dropped": "willamette_week:19179948@2026-09-27T17:30",
@@ -6393,9 +6409,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6133,
-  "floor_check": "6133 events against a 6131-event baseline",
-  "generated_at": "2026-09-09T14:34:41+00:00",
+  "event_count": 6147,
+  "floor_check": "6147 events against a 6132-event baseline",
+  "generated_at": "2026-09-09T14:40:20+00:00",
   "problems": [],
   "sources": [
     "calagator",
