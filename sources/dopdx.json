@@ -25706,6 +25706,35 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-09-25T23:00:00-07:00",
+      "id": "dopdx:17818847",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788986651/event-17818847.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/25/hide-cheek-a-lewdicrous-masquerade-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-25T19:00:00-07:00",
+      "summary": "Who are you when nobody knows it's you?On September 25, Glitter Trashcan Productions invites you to Hide & Cheek: A LEWDicrous Masquerade, where every performer is hiding... something... while revealing everything else!Behind every mask lurks a secret... a glamorous stranger? A seductive beast? A mysterious hero? An absolute gremlin? This isn't your average masquerade ball -- it's LEWDicrous! Expect elaborate helmets, animal faces, safety equipment, full-face disguises, impossible creatures, and the bizarre fever dream you just can't get anywhere else.Whether you're drawn to elegance, absurdity, or simply enjoy watching beautiful weirdos take their clothes off while wearing increasingly wild and wacky headwear, Hide & Cheek has you covered.P",
+      "title": "Hide & Cheek: a LEWDicrous Masquerade",
+      "venue": {
+        "address": "1125 SE Madison St",
+        "city": "Portland",
+        "name": "Hōkū Events on Madison"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-25T20:20:00-07:00",
@@ -43449,7 +43478,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-09T18:49:19+00:00",
+  "generated_at": "2026-09-09T21:55:00+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
