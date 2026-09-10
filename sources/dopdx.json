@@ -37441,6 +37441,35 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "end_at": "2026-10-04T11:45:00-07:00",
+      "id": "dopdx:17826886",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/4/incite-queer-writers-read-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-04T10:30:00-07:00",
+      "summary": "Incite: Queer Writers Read is a curated, bimonthly series showcasing Queer writers, each reading on a common theme. Our Portland Poetry Confluence event features three LGBTQ+ poets–Jzl Jmz, Jae Nichelle, and Christopher Rose–and the theme is “Festivity.” The reading will be followed by a community discussion inspired by the theme. Join us for community and connection centered around Queer voices. Hosted by Jennifer (JP) Perrine and Vinnie Kinsella.",
+      "title": "Incite: Queer Writers Read",
+      "venue": {
+        "address": "2305 SE 50th Ave",
+        "city": "Portland",
+        "name": "Atrium Movement & Events"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "end_at": "2026-10-04T13:30:00-07:00",
@@ -43997,7 +44026,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-10T00:31:55+00:00",
+  "generated_at": "2026-09-10T05:10:46+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
