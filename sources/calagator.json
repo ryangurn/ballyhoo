@@ -184,6 +184,34 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-09-14T21:30:00-07:00",
+      "id": "calagator:1250482708",
+      "is_all_day": false,
+      "listing_url": "https://dorkbotpdx.org",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-14T18:30:00-07:00",
+      "summary": "People doing strange things with electricity (and code)!\r\n\r\nDorkbotPDX is a laid-back meetup and show-and-tell for those who make, modify and use technical tools to weird and imaginative ends. You might run into creative coders, electronic artists, circuit designers, retro computing archaeologists, video game devs, modular synth gearheads and cyberpunk DIYers.\r\n\r\nNo featured speaker this month, but bring your electronic wonders, monsters, and works-in-progress to show off, or come see what others have been working on! Code or circuits, electronic creativity of all sorts is welcome here.\r\n\r\nTable space with power will be available for project show-and-tell; we have a table for drinks and snacks, feel free to contribute to the communal cache/BYOB.\r\nWe do this every month, usually on the second Monday night (check the site for upcoming dates to be sure)\r\n\r\nNote: If you bring things to give away, please pack out anything that doesn't get claimed! We don't have the space to store unclaimed items.\r\n\r\nYou can subscribe to our calendar and mailing list, join the Discord and find our social links on https://www.dorkbotpdx.org (It also has our Code of Conduct, which we'd like you to check out while you're there)",
+      "title": "Dorkbot: September Edition",
+      "venue": {
+        "address": "7608 N Interstate Ave",
+        "city": "Portland",
+        "latitude": 45.5782,
+        "longitude": -122.6818,
+        "name": "Ctrl-H / PDX Hackerspace"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-09-15T20:30:00-07:00",
       "id": "calagator:1250482659",
       "is_all_day": false,
@@ -1003,7 +1031,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-10T16:19:13+00:00",
+  "generated_at": "2026-09-10T19:35:01+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
