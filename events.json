@@ -56743,6 +56743,29 @@
     },
     {
       "categories": [
+        "community",
+        "market"
+      ],
+      "end_at": "2026-09-19T13:00:00-07:00",
+      "id": "hollywood_farmers_market:event-schedule/senior-day-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1789059058586-9JI539GBXXLR5XA2Y95P/IMG_2817.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/event-schedule/senior-day-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-09-19T08:00:00-07:00",
+      "title": "Senior Day 2026"
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -130684,6 +130707,29 @@
     },
     {
       "categories": [
+        "community",
+        "market"
+      ],
+      "end_at": "2026-10-03T13:00:00-07:00",
+      "id": "hollywood_farmers_market:event-schedule/harvest-festival-2026",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1789059283494-6FKIZS1N6DH13Z47CW11/IMG_4104.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/event-schedule/harvest-festival-2026",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2026-10-03T08:00:00-07:00",
+      "title": "Harvest Festival 2026"
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -192427,5 +192473,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-10T19:35:52+00:00"
+  "generated_at": "2026-09-10T21:03:58+00:00"
 }
