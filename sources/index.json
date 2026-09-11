@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:49:00+00:00",
+  "generated_at": "2026-09-11T11:52:06+00:00",
   "sources": [
     {
       "event_count": 37,
@@ -37,10 +37,10 @@
       "url": "sources/oregon_metro.json"
     },
     {
-      "event_count": 278,
-      "last_run_at": "2026-09-11T05:20:22+00:00",
+      "event_count": 275,
+      "last_run_at": "2026-09-11T11:51:10+00:00",
       "source_id": "pdxparent_markets",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/pdxparent_markets.json"
     },
     {
