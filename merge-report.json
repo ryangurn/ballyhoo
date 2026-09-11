@@ -1185,6 +1185,14 @@
       "venue": "Pioneer Courthouse Square"
     },
     {
+      "dropped": "willamette_week:19891088@2026-09-13T11:00",
+      "kept": "portland_farmers_market:neighbors-in-the-market-deepak-saxena@2026-09-13",
+      "start_at": "2026-09-13T11:00:00-07:00",
+      "title_dropped": "Neighbors in the Market: Deepak Saxena",
+      "title_kept": "Neighbors in the Market: Deepak Saxena",
+      "venue": "King Farmers Market"
+    },
+    {
       "dropped": "willamette_week:19872693@2026-09-13T15:00",
       "kept": "dopdx:17818975",
       "start_at": "2026-09-13T15:00:00-07:00",
@@ -2399,6 +2407,14 @@
       "title_dropped": "Sanaga-Yong Chimpanzee Rescue Fundraising Gala 2026",
       "title_kept": "Sanaga-Yong Chimpanzee Rescue Fundraiser",
       "venue": "Avenue Portland"
+    },
+    {
+      "dropped": "willamette_week:19890547@2026-09-19T18:00",
+      "kept": "dopdx:17783138",
+      "start_at": "2026-09-19T18:00:00-07:00",
+      "title_dropped": "Idea the Artist - EasyFolk Fest 2026!",
+      "title_kept": "Easyfolk Fest 2026",
+      "venue": "Winningstad Theatre"
     },
     {
       "dropped": "willamette_week:18463205@2026-09-19T18:00",
@@ -6897,6 +6913,14 @@
       "venue": "Wonder Ballroom"
     },
     {
+      "dropped": "willamette_week:19892010@2026-10-10T20:30",
+      "kept": "dopdx:17824384",
+      "start_at": "2026-10-10T20:30:00-07:00",
+      "title_dropped": "The Dinner Party presents: VEGAN NIGHT!",
+      "title_kept": "The Dinner Party",
+      "venue": "Kickstand Comedy"
+    },
+    {
       "dropped": "willamette_week:19762990@2026-10-10T21:00",
       "kept": "dopdx:17767302",
       "start_at": "2026-10-10T21:00:00-07:00",
@@ -7073,9 +7097,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6552,
-  "floor_check": "6552 events against a 6552-event baseline",
-  "generated_at": "2026-09-11T17:57:14+00:00",
+  "event_count": 6576,
+  "floor_check": "6576 events against a 6552-event baseline",
+  "generated_at": "2026-09-11T18:38:52+00:00",
   "problems": [],
   "sources": [
     "calagator",
