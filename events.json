@@ -29348,31 +29348,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:metro-council-work-session-2026-09-15",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-09-15",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-09-15T10:00:00-07:00",
-      "title": "Metro Council work session",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
         "market",
         "food"
       ],
@@ -29850,6 +29825,31 @@
         "latitude": 45.301412,
         "longitude": -122.9773179,
         "name": "Newberg Public Library"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:metro-council-work-session-2026-09-15",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-09-15",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-09-15T11:30:00-07:00",
+      "title": "Metro Council work session",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
       }
     },
     {
@@ -169743,7 +169743,13 @@
         "url": "https://www.oregonmetro.gov"
       },
       "start_at": "2026-10-15T07:30:00-07:00",
-      "title": "Joint Policy Advisory Committee on Transportation meeting"
+      "title": "Joint Policy Advisory Committee on Transportation meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
     },
     {
       "categories": [
@@ -194536,5 +194542,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-11T00:14:59+00:00"
+  "generated_at": "2026-09-11T00:17:20+00:00"
 }
