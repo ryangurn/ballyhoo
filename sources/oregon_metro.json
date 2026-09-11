@@ -133,7 +133,7 @@
         "name": "Oregon Metro",
         "url": "https://www.oregonmetro.gov"
       },
-      "start_at": "2026-09-15T10:00:00-07:00",
+      "start_at": "2026-09-15T11:30:00-07:00",
       "title": "Metro Council work session",
       "venue": {
         "city": "Portland",
@@ -1274,7 +1274,13 @@
         "url": "https://www.oregonmetro.gov"
       },
       "start_at": "2026-10-15T07:30:00-07:00",
-      "title": "Joint Policy Advisory Committee on Transportation meeting"
+      "title": "Joint Policy Advisory Committee on Transportation meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
     },
     {
       "categories": [
@@ -3430,7 +3436,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-10T21:42:35+00:00",
+  "generated_at": "2026-09-11T00:15:47+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
