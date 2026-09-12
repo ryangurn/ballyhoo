@@ -149,11 +149,17 @@ Eagle Saloon. Independent venues, live music, cabaret, burlesque. An allow-list 
 documented six drops every one of them. Measured, an unfiltered query returns 548
 events against a six-name list's 503.
 
-**The API truncates silently past the 1,000th result** (`size * page < 1000`). The
-fetcher reads `page.totalElements` up front and aborts above 900 rather than
-publishing a feed that looks complete but isn't. Current headroom is roughly 280
-events. If it ever trips, slice by date range — never by segment, which loses the
-`Undefined` events all over again.
+**The API truncates silently past the 1,000th result of any one query** (`size * page
+< 1000`). The fetcher asks about a date range before trusting it: the response reports
+`page.totalElements` for that range, and anything above 900 is bisected into two
+half-ranges rather than paged into the truncation. Slicing is by date and never by
+segment, which would lose the `Undefined` events all over again.
+
+Volume crossed the guard on 2026-09-10, having been 723 when the source was written,
+and the fetch has sliced since. As of 2026-09-12 a 929-event year splits once into
+870 and 59, costing 7 requests instead of 5. Growth is handled without re-tuning —
+each range splits when it outgrows the guard — so the only failure left is a single
+day above the guard, which cannot be cut finer and fails the run loudly.
 
 Measured shape of the Portland feed (365 days, 25 miles):
 

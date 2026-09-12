@@ -48,7 +48,11 @@ def _print_histogram(raw_events: list[dict[str, Any]], stats: dict[str, Any]) ->
     out.write(f"  totalElements reported : {stats['total_elements']}\n")
     out.write(f"  collected              : {stats['collected']}\n")
     out.write(f"  requests made          : {stats['requests_made']}\n")
-    out.write(f"  deep-paging headroom   : {config.DEEP_PAGING_LIMIT - stats['total_elements']}\n")
+    out.write(f"  date slices            : {stats['slices']}\n")
+    out.write(f"  largest slice          : {stats['largest_slice']}\n")
+    # Headroom is a property of the largest slice, not of the run: the ceiling applies
+    # per query, and the run as a whole is free to exceed it.
+    out.write(f"  deep-paging headroom   : {config.DEEP_PAGING_LIMIT - stats['largest_slice']}\n")
     out.write(f"  with price data        : {priced} ({priced * 100 // total}%)\n")
 
     out.write("\n  Segments\n")

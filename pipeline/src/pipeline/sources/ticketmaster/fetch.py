@@ -6,15 +6,21 @@ No `segmentName` parameter is sent. Passing an exhaustive list of all six segmen
 measurably returns fewer events (503) than passing none (548), so any allow-list —
 even a complete one — silently drops events.
 
-The API will not serve past the 1000th result and truncates without an error. The
-first response carries `page.totalElements`, so the run aborts there rather than
-quietly publishing a partial feed.
+The API will not serve past the 1000th result of any one query and truncates without
+an error. Every response carries `page.totalElements` for the range it was asked
+about, so a range is only paginated once that number is known to be reachable, and a
+range too large to page through is bisected rather than truncated.
+
+Date is the only safe axis to slice on. Every event has exactly one start date, so
+cutting the window at an instant partitions the results instead of resampling them —
+the twelve 30-day slices of the 2026-09-12 window summed to exactly the 929 the
+unsliced query reported, and agreed with it at every intermediate horizon.
 """
 
 from __future__ import annotations
 
 import time
-from datetime import UTC, datetime
+from datetime import UTC, datetime, timedelta
 from typing import Any
 
 import requests
@@ -30,11 +36,13 @@ class TicketmasterFetchError(Exception):
 
 
 class DeepPagingLimitExceeded(TicketmasterFetchError):
-    """More matching events exist than the API is willing to paginate through.
+    """One date range holds more events than the API is willing to paginate through.
 
-    Not retryable and not ignorable: continuing would publish a feed that looks
-    complete but is missing events, with nothing anywhere to indicate it. The fix is
-    to slice the query by date range — never by segment, which loses events of its own.
+    Raised only once bisection has run out of room: a range already down to
+    `config.MIN_SLICE` that is still over the guard cannot be cut any finer. Not
+    retryable and not ignorable, because continuing would publish a feed that looks
+    complete but is missing events, with nothing anywhere to indicate it. Slicing by
+    segment is not the escape hatch — it loses events of its own.
     """
 
 
@@ -77,6 +85,93 @@ def _request(session: requests.Session, params: dict[str, Any]) -> dict[str, Any
     raise TicketmasterFetchError(f"Ticketmaster request failed after {config.MAX_RETRIES} attempts: {last_error}")
 
 
+def _stamp(moment: datetime) -> str:
+    return moment.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def _absorb(payload: dict[str, Any], seen: set[str], collected: list[dict[str, Any]]) -> int:
+    """Take one page's events into the accumulator, skipping any already held.
+
+    Returns how many events the page carried before deduplication, since that — not
+    how many were new — is what says whether another page is worth asking for.
+    """
+    events = payload.get("_embedded", {}).get("events", [])
+    for event in events:
+        identifier = event.get("id")
+        if identifier is not None:
+            if identifier in seen:
+                continue
+            seen.add(identifier)
+        collected.append(event)
+    return len(events)
+
+
+def _collect_slice(
+    session: requests.Session,
+    base_params: dict[str, Any],
+    start: datetime,
+    end: datetime,
+    seen: set[str],
+    collected: list[dict[str, Any]],
+    stats: dict[str, int],
+) -> None:
+    """Page one date range to exhaustion, bisecting it first if it is too large.
+
+    The range is asked about before it is trusted: the first response reports how many
+    events it matches, which is what decides between paging it and splitting it.
+    """
+    window = {"startDateTime": _stamp(start), "endDateTime": _stamp(end)}
+    payload = _request(session, {**base_params, **window, "page": 0})
+    stats["requests_made"] += 1
+
+    page_info = payload.get("page", {})
+    total_elements = int(page_info.get("totalElements", 0))
+
+    if total_elements > config.SLICE_ELEMENTS_GUARD:
+        span = end - start
+        if span <= config.MIN_SLICE:
+            raise DeepPagingLimitExceeded(
+                f"{_stamp(start)}..{_stamp(end)} matches {total_elements} events, above the "
+                f"{config.SLICE_ELEMENTS_GUARD} guard, and is already down to "
+                f"{config.MIN_SLICE.days} day(s), so it cannot be sliced any finer. The API "
+                f"will not paginate past {config.DEEP_PAGING_LIMIT} results and truncates "
+                f"silently, so this run would publish an incomplete feed."
+            )
+
+        midpoint = start + span / 2
+        log.info(
+            "%s..%s matches %d events, above the %d guard; splitting at %s",
+            _stamp(start), _stamp(end), total_elements, config.SLICE_ELEMENTS_GUARD, _stamp(midpoint),
+        )
+        _collect_slice(session, base_params, start, midpoint, seen, collected, stats)
+        # Upstream treats both endpoints as inclusive, so the halves start a second
+        # apart to keep them disjoint. Timestamps are second-granular, so nothing
+        # falls between them.
+        _collect_slice(session, base_params, midpoint + timedelta(seconds=1), end, seen, collected, stats)
+        return
+
+    stats["slices"] += 1
+    stats["total_elements"] += total_elements
+    stats["largest_slice"] = max(stats["largest_slice"], total_elements)
+
+    total_pages = int(page_info.get("totalPages", 0))
+    page = 0
+    while True:
+        carried = _absorb(payload, seen, collected)
+        page += 1
+        if page >= total_pages or not carried:
+            break
+        if page * config.PAGE_SIZE >= config.DEEP_PAGING_LIMIT:
+            # Unreachable while the guard sits below the ceiling, and kept for the day
+            # someone raises it past: the alternative is truncating in silence.
+            log.warning("stopping at the API's deep-paging boundary after %d events", len(collected))
+            break
+
+        time.sleep(config.MIN_SECONDS_BETWEEN_REQUESTS)
+        payload = _request(session, {**base_params, **window, "page": page})
+        stats["requests_made"] += 1
+
+
 def fetch_raw(
     api_key: str,
     *,
@@ -93,8 +188,6 @@ def fetch_raw(
         "latlong": f"{config.LATITUDE},{config.LONGITUDE}",
         "radius": config.RADIUS_MILES,
         "unit": "miles",
-        "startDateTime": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "endDateTime": end.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "size": config.PAGE_SIZE,
         "sort": "date,asc",
     }
@@ -103,43 +196,16 @@ def fetch_raw(
 
     client = session or requests.Session()
     collected: list[dict[str, Any]] = []
-    total_elements: int | None = None
-    requests_made = 0
-    page = 0
+    seen: set[str] = set()
+    stats = {"requests_made": 0, "slices": 0, "total_elements": 0, "largest_slice": 0}
 
-    while True:
-        payload = _request(client, {**base_params, "page": page})
-        requests_made += 1
+    # The whole window is tried first, so a quiet Portland still costs one query and
+    # slicing only appears when it is needed.
+    _collect_slice(client, base_params, now, end, seen, collected, stats)
 
-        page_info = payload.get("page", {})
-        if total_elements is None:
-            total_elements = int(page_info.get("totalElements", 0))
-            log.info("Ticketmaster reports %d matching events", total_elements)
-            if total_elements > config.TOTAL_ELEMENTS_GUARD:
-                raise DeepPagingLimitExceeded(
-                    f"{total_elements} events match, above the {config.TOTAL_ELEMENTS_GUARD} guard. "
-                    f"The API will not paginate past {config.DEEP_PAGING_LIMIT} results and truncates "
-                    f"silently, so this run would publish an incomplete feed. Slice the query by date "
-                    f"range in config.FETCH_WINDOW rather than by segment."
-                )
-
-        events = payload.get("_embedded", {}).get("events", [])
-        collected.extend(events)
-
-        total_pages = int(page_info.get("totalPages", 0))
-        page += 1
-        if page >= total_pages or not events:
-            break
-        if page * config.PAGE_SIZE >= config.DEEP_PAGING_LIMIT:
-            log.warning("stopping at the API's deep-paging boundary after %d events", len(collected))
-            break
-
-        time.sleep(config.MIN_SECONDS_BETWEEN_REQUESTS)
-
-    stats = {
-        "total_elements": total_elements or 0,
-        "collected": len(collected),
-        "requests_made": requests_made,
-    }
-    log.info("Ticketmaster fetched %d events in %d requests", len(collected), requests_made)
+    stats["collected"] = len(collected)
+    log.info(
+        "Ticketmaster fetched %d events in %d requests across %d slice(s); largest slice matched %d",
+        len(collected), stats["requests_made"], stats["slices"], stats["largest_slice"],
+    )
     return collected, stats

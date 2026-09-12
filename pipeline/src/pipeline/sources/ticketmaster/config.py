@@ -30,13 +30,26 @@ RADIUS_MILES = 25
 # year costs only 32% more events than a quarter and captures tours announced early.
 FETCH_WINDOW = timedelta(days=365)
 
-# The API refuses to serve past the 1000th result (`size * page < 1000`) and truncates
-# silently rather than erroring. Measured volume is ~723, so there is real headroom,
-# but silent truncation is the worst failure available here: the feed would look
-# healthy while quietly missing events. Abort instead, and reach for date-slicing.
+# The API refuses to serve past the 1000th result of any one query (`size * page <
+# 1000`) and truncates silently rather than erroring. Silent truncation is the worst
+# failure available here — the feed would look healthy while quietly missing events —
+# so a query is only paginated once its own `page.totalElements` comes in under the
+# guard, and any range above it is bisected until its halves fit.
+#
+# The guard therefore bounds one date slice, not the run. The feed as a whole is free
+# to hold more events than this, and does.
+#
+# Measured 2026-09-12: 929 events over 365 days, front-loaded hard — the first 90 days
+# hold 713 of them and the last 95 hold 4. Volume crossed this guard on 2026-09-10,
+# having been 723 when the source was written, which is what made slicing necessary.
 PAGE_SIZE = 200
 DEEP_PAGING_LIMIT = 1000
-TOTAL_ELEMENTS_GUARD = 900
+SLICE_ELEMENTS_GUARD = 900
+
+# Where bisection gives up. A single day carrying more events than the API will
+# paginate through cannot be sliced any finer on the only axis that is lossless, so
+# the run fails loudly rather than publishing a feed that is quietly incomplete.
+MIN_SLICE = timedelta(days=1)
 
 # No `segmentName` filter is sent. Measured: an unfiltered query returns 548 events
 # while an exhaustive six-segment allow-list returns only 503, so any explicit list is

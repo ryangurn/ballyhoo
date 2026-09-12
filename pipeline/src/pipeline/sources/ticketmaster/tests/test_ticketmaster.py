@@ -7,8 +7,11 @@ string coordinates, and price data missing on most events.
 
 from __future__ import annotations
 
+import json
+import math
 import random
-from datetime import UTC, datetime
+from datetime import UTC, datetime, timedelta
+from urllib.parse import parse_qsl, urlparse
 
 import pytest
 import requests
@@ -359,42 +362,136 @@ class TestCategories:
         assert infer_categories(None, None) == (DEFAULT_CATEGORY,)
 
 
-class TestDeepPagingGuard:
-    """Truncation at the 1000th item is silent, so the guard is the only thing
-    standing between a busy Portland and a quietly incomplete feed."""
+STAMP = "%Y-%m-%dT%H:%M:%SZ"
+
+
+def _parse(stamp: str) -> datetime:
+    return datetime.strptime(stamp, STAMP).replace(tzinfo=UTC)
+
+
+def _span(start: str, end: str) -> timedelta:
+    return _parse(end) - _parse(start)
+
+
+def _serve(total_for_range, *, events_for_range=None):
+    """Stand in for the Discovery API, sizing each response by the range requested.
+
+    `total_for_range` is given the requested start and end stamps and returns how many
+    events that range matches; the handler pages them out the way the endpoint does.
+    Ids are derived from the range so that events from different slices are distinct,
+    which is what lets a test tell a genuine duplicate from two ordinary events.
+    """
+
+    def handler(request):
+        params = dict(parse_qsl(urlparse(request.url).query))
+        start, end = params["startDateTime"], params["endDateTime"]
+        total = total_for_range(start, end)
+        offset = int(params.get("page", 0)) * config.PAGE_SIZE
+
+        if events_for_range is not None:
+            batch = events_for_range(start, end)
+        else:
+            batch = [
+                raw_event(id=f"{start}#{i}")
+                for i in range(offset, min(offset + config.PAGE_SIZE, total))
+            ]
+
+        body = {
+            "page": {"totalElements": total, "totalPages": math.ceil(total / config.PAGE_SIZE)},
+            "_embedded": {"events": batch},
+        }
+        return 200, {}, json.dumps(body)
+
+    responses.add_callback(
+        responses.GET, config.EVENTS_URL, callback=handler, content_type="application/json"
+    )
+
+
+def _requested_ranges() -> list[tuple[str, str]]:
+    """The distinct date ranges asked about, in the order they were first requested."""
+    ranges: list[tuple[str, str]] = []
+    for call in responses.calls:
+        params = dict(parse_qsl(urlparse(call.request.url).query))
+        pair = (params["startDateTime"], params["endDateTime"])
+        if pair not in ranges:
+            ranges.append(pair)
+    return ranges
+
+
+class TestDateSlicing:
+    """Truncation at the 1000th item of a query is silent, so how an oversized window
+    gets broken up is the only thing between a busy Portland and a quietly short feed.
+
+    Volume crossed the guard on 2026-09-10 and the source stopped publishing rather
+    than truncate, which is the behaviour these tests hold in place — a slice is only
+    paged once it is known to be reachable, and the run fails loudly only when date
+    slicing itself has run out of room.
+    """
 
     @responses.activate
-    def test_aborts_when_results_exceed_the_guard(self):
-        responses.add(
-            responses.GET,
-            config.EVENTS_URL,
-            json={"page": {"totalElements": 1500, "totalPages": 8}, "_embedded": {"events": []}},
-            status=200,
-        )
-        with pytest.raises(DeepPagingLimitExceeded, match="1500 events match"):
+    def test_a_window_under_the_guard_is_taken_in_one_query(self):
+        # Slicing is a response to volume, not the normal path; a quiet window should
+        # still cost exactly one request.
+        _serve(lambda start, end: 2)
+        collected, stats = fetch_raw("fake-key", now=NOW, session=requests.Session())
+        assert len(collected) == 2
+        assert (stats["slices"], stats["requests_made"]) == (1, 1)
+        assert _requested_ranges() == [(NOW.strftime(STAMP), (NOW + config.FETCH_WINDOW).strftime(STAMP))]
+
+    @responses.activate
+    def test_a_window_over_the_guard_is_split_until_its_parts_fit(self):
+        _serve(lambda start, end: 1500 if _span(start, end) > config.FETCH_WINDOW / 2 else 400)
+        collected, stats = fetch_raw("fake-key", now=NOW, session=requests.Session())
+
+        assert stats["slices"] == 2
+        assert stats["largest_slice"] == 400
+        # 800 events is comfortably past the 1000-item ceiling once doubled, which is
+        # the whole point: the run is no longer bounded by what one query can serve.
+        assert len(collected) == 800
+        assert len({event["id"] for event in collected}) == 800
+
+    @responses.activate
+    def test_slices_tile_the_window_with_no_gap_and_no_overlap(self):
+        # A quarter-sized threshold forces two levels of splitting, so this covers
+        # recursive division rather than a single cut down the middle.
+        _serve(lambda start, end: 1500 if _span(start, end) > config.FETCH_WINDOW / 4 else 10)
+        fetch_raw("fake-key", now=NOW, session=requests.Session())
+
+        kept = [r for r in _requested_ranges() if _span(*r) <= config.FETCH_WINDOW / 4]
+        assert len(kept) == 4
+        assert _parse(kept[0][0]) == NOW
+        assert _parse(kept[-1][1]) == NOW + config.FETCH_WINDOW
+        for earlier, later in zip(kept, kept[1:]):
+            # One second apart: upstream treats both endpoints as inclusive, and
+            # timestamps are second-granular, so nothing falls in between.
+            assert _parse(later[0]) - _parse(earlier[1]) == timedelta(seconds=1)
+
+    @responses.activate
+    def test_bisection_gives_up_at_the_floor_rather_than_truncating(self, monkeypatch):
+        # Every range is oversized, so only the floor ends this. It is raised here to
+        # keep the recursion shallow; the real one is a day.
+        monkeypatch.setattr(config, "MIN_SLICE", config.FETCH_WINDOW / 8)
+        _serve(lambda start, end: 1500)
+        with pytest.raises(DeepPagingLimitExceeded, match="cannot be sliced any finer"):
             fetch_raw("fake-key", now=NOW, session=requests.Session())
 
     @responses.activate
-    def test_proceeds_when_below_the_guard(self):
-        responses.add(
-            responses.GET,
-            config.EVENTS_URL,
-            json={"page": {"totalElements": 2, "totalPages": 1}, "_embedded": {"events": [raw_event()]}},
-            status=200,
+    def test_an_event_landing_on_a_boundary_is_collected_once(self):
+        # Slices are disjoint by construction, so this is belt and braces — but a
+        # duplicated event would sail through validation and be invisible downstream.
+        _serve(
+            lambda start, end: 1500 if _span(start, end) > config.FETCH_WINDOW / 2 else 1,
+            events_for_range=lambda start, end: (
+                [] if _span(start, end) > config.FETCH_WINDOW / 2 else [raw_event(id="shared")]
+            ),
         )
-        collected, stats = fetch_raw("fake-key", now=NOW, session=requests.Session())
-        assert len(collected) == 1
-        assert stats["total_elements"] == 2
+        collected, _ = fetch_raw("fake-key", now=NOW, session=requests.Session())
+        assert [event["id"] for event in collected] == ["shared"]
 
     @responses.activate
     def test_no_segment_filter_is_sent(self):
         # An exhaustive six-segment allow-list measurably returns fewer events than
         # none, because of the undocumented Undefined segment.
-        responses.add(
-            responses.GET,
-            config.EVENTS_URL,
-            json={"page": {"totalElements": 1, "totalPages": 1}, "_embedded": {"events": []}},
-            status=200,
-        )
+        _serve(lambda start, end: 0)
         fetch_raw("fake-key", now=NOW, session=requests.Session())
         assert "segmentName" not in responses.calls[0].request.url
