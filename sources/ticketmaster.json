@@ -2,68 +2,6 @@
   "events": [
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfZ-37",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021484",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 23.15,
-        "min": 23.15
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-12T22:30:00-07:00",
-      "summary": "Join us at the Jack London for the latest edition of our late-night cabaret spectacular, hosted by the Mad Marquis and featuring some of the finest dancers from the Rose City and beyond. Treat yourself to a sensational evening of sultry and exotic delights, liberally spiced with old-fashioned spontaneous fun! The show starts after the evenings musical performance.",
-      "ticket_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021484",
-      "title": "BURLY-Q REVUE",
-      "venue": {
-        "address": "529 SW 4th Ave.",
-        "city": "Portland",
-        "latitude": 45.519452,
-        "longitude": -122.676291,
-        "name": "Jack London Revue"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfvKv7",
-      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14053044",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 1.05,
-        "min": 1.05
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-12T23:30:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14053044",
-      "title": "SMASH disco~glam~metal~punk-hiphop",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
-      }
-    },
-    {
-      "categories": [
         "sports"
       ],
       "id": "ticketmaster:Z7r9jZ1A7Ox_9",
@@ -9165,6 +9103,37 @@
         "latitude": 45.519452,
         "longitude": -122.676291,
         "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfvKZ7",
+      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14053004",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.05,
+        "min": 1.05
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-10T23:30:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14053004",
+      "title": "SMASH disco~glam~metal~punk-hiphop",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
       }
     },
     {
@@ -26466,7 +26435,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-13T05:00:03+00:00",
+  "generated_at": "2026-09-13T10:13:31+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
