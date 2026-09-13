@@ -10173,6 +10173,38 @@
     },
     {
       "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-09-15T20:00:00-07:00",
+      "id": "willamette_week:19893293@2026-09-15T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/R9CpqhQiOEaHlz7Fonxu8g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.4thaveproduct.com/store/p/meditation",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-15T19:00:00-07:00",
+      "summary": "Pull up a cushion, there’s a spot right here for you. No experience required—just bring yourself. Join us Tuesday September 15th 7pm Wear cozy socks 🐝 💨 $25 Bring a date + $10",
+      "ticket_url": "https://www.4thaveproduct.com/store/p/meditation",
+      "title": "Meditation with Lillian",
+      "venue": {
+        "address": "2038 SE Belmont St",
+        "city": "Portland",
+        "latitude": 45.516264,
+        "longitude": -122.644713,
+        "name": "4th Ave Studio"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-09-15T20:30:00-07:00",
@@ -10255,38 +10287,6 @@
         "latitude": 45.30012,
         "longitude": -122.97316,
         "name": "Wheeler Sports Center"
-      }
-    },
-    {
-      "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-09-15T20:00:00-07:00",
-      "id": "willamette_week:19893293@2026-09-15T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/R9CpqhQiOEaHlz7Fonxu8g.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://4thave-booking.as.me/meditation",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 35.0,
-        "min": 25.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-15T19:00:00-07:00",
-      "summary": "Pull up a cushion, there’s a spot right here for you. No experience required—just bring yourself. Join us Tuesday September 15th 7pm Wear cozy socks 🐝 💨 $25 Bring a date + $10",
-      "ticket_url": "https://4thave-booking.as.me/meditation",
-      "title": "Meditation with Lillian",
-      "venue": {
-        "address": "2038 SE Belmont St",
-        "city": "Portland",
-        "latitude": 45.516264,
-        "longitude": -122.644713,
-        "name": "4th Ave Studio"
       }
     },
     {
@@ -55056,12 +55056,12 @@
       "id": "willamette_week:19870007@2026-09-25T17:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ofGOj3j-vUSng_CSazgSCw.large.jpg",
       "is_all_day": false,
-      "listing_url": "https://4thave-booking.as.me/petportraitday",
+      "listing_url": "https://www.4thaveproduct.com/store/p/4th-ave-studio-x-magic-dragon-reptiles-x-pdx-critters",
       "price": {
         "currency": "USD",
         "is_free": false,
         "max": 15.0,
-        "min": 15.0
+        "min": 0.0
       },
       "source": {
         "id": "willamette_week",
@@ -55070,7 +55070,7 @@
       },
       "start_at": "2026-09-25T17:30:00-07:00",
       "summary": "Come hang out, meet fellow animal lovers, and enjoy a day celebrating our community! Bring your pet for a portrait session or take photos with our ambassador animals. Enjoy games, animal encounters, networking and good vibes while supporting local reptile rescue. A portion of proceeds benefits Magic Dragon Reptile Rescue & PDX Critters.",
-      "ticket_url": "https://4thave-booking.as.me/petportraitday",
+      "ticket_url": "https://www.4thaveproduct.com/store/p/4th-ave-studio-x-magic-dragon-reptiles-x-pdx-critters",
       "title": "Pet Portrait Day",
       "venue": {
         "address": "2038 SE Belmont St",
@@ -122355,7 +122355,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-13T06:15:21+00:00",
+  "generated_at": "2026-09-13T11:58:08+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
