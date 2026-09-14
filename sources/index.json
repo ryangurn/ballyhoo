@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:17:18+00:00",
+  "generated_at": "2026-09-14T19:26:58+00:00",
   "sources": [
     {
       "event_count": 35,
@@ -40,7 +40,7 @@
       "event_count": 254,
       "last_run_at": "2026-09-14T13:24:15+00:00",
       "source_id": "pdxparent_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/pdxparent_markets.json"
     },
     {
@@ -65,8 +65,8 @@
       "url": "sources/ticketmaster.json"
     },
     {
-      "event_count": 4059,
-      "last_run_at": "2026-09-14T14:09:27+00:00",
+      "event_count": 4087,
+      "last_run_at": "2026-09-14T19:25:49+00:00",
       "source_id": "willamette_week",
       "status": "ok",
       "url": "sources/willamette_week.json"
