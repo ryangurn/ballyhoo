@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T10:59:06+00:00",
+  "generated_at": "2026-09-14T12:37:33+00:00",
   "sources": [
     {
       "event_count": 35,
       "last_run_at": "2026-09-14T06:07:46+00:00",
       "source_id": "calagator",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/calagator.json"
     },
     {
@@ -19,7 +19,7 @@
       "event_count": 24,
       "last_run_at": "2026-09-14T05:16:01+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
@@ -33,21 +33,21 @@
       "event_count": 145,
       "last_run_at": "2026-09-14T06:28:35+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
       "event_count": 263,
       "last_run_at": "2026-09-14T05:30:17+00:00",
       "source_id": "pdxparent_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/pdxparent_markets.json"
     },
     {
       "event_count": 71,
-      "last_run_at": "2026-09-14T04:48:10+00:00",
+      "last_run_at": "2026-09-14T12:36:54+00:00",
       "source_id": "portland_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/portland_farmers_market.json"
     },
     {
@@ -61,14 +61,14 @@
       "event_count": 901,
       "last_run_at": "2026-09-14T06:14:13+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
       "event_count": 4055,
       "last_run_at": "2026-09-14T06:22:49+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
