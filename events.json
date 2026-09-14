@@ -80005,7 +80005,7 @@
       ],
       "end_at": "2026-09-27T02:00:00-07:00",
       "id": "dopdx:17840332",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1789414467/event-17840332.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/9/26/my-neighbor-totoro-1988-tickets",
       "price": {
@@ -158026,6 +158026,36 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-13T20:00:00-07:00",
+      "id": "dopdx:17844262",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1789414818/event-17844262.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/13/interview-with-the-vampire-trivia-night-tickets",
+      "organizer": "Queer Nourish presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-13T18:30:00-07:00",
+      "summary": "Oh, to be caught in throes of increasing wonder! Interview with The Vampire Season 1 Trivia night is coming your way. Raffle winner will receive glorious fan art of a beloved IWTV character as their prize.",
+      "title": "Interview With The Vampire Trivia Night",
+      "venue": {
+        "address": "1400 SE Morrison St",
+        "city": "Portland",
+        "name": "Peacock PDX"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-10-13T20:30:00-07:00",
@@ -188229,5 +188259,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-14T22:29:11+00:00"
+  "generated_at": "2026-09-14T22:45:34+00:00"
 }
