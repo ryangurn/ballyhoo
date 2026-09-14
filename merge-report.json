@@ -1425,6 +1425,14 @@
       "venue": "McMenamins Grand Lodge"
     },
     {
+      "dropped": "willamette_week:19896154@2026-09-19T18:30",
+      "kept": "dopdx:17735471",
+      "start_at": "2026-09-19T18:30:00-07:00",
+      "title_dropped": "The Sparkle Celebration: Kara's Memorial Rock Concert",
+      "title_kept": "Sparkle On",
+      "venue": "Echo Theater"
+    },
+    {
       "dropped": "willamette_week:19336217@2026-09-19T18:30",
       "kept": "dopdx:17789311",
       "start_at": "2026-09-19T18:30:00-07:00",
@@ -6489,9 +6497,9 @@
       "venue": "Wonder Ballroom"
     }
   ],
-  "event_count": 6194,
-  "floor_check": "6194 events against a 6204-event baseline",
-  "generated_at": "2026-09-14T13:55:56+00:00",
+  "event_count": 6197,
+  "floor_check": "6197 events against a 6204-event baseline",
+  "generated_at": "2026-09-14T14:10:45+00:00",
   "problems": [],
   "sources": [
     "calagator",
