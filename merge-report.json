@@ -561,6 +561,14 @@
       "venue": "Aladdin Theater"
     },
     {
+      "dropped": "willamette_week:19897344@2026-09-15T20:00",
+      "kept": "dopdx:17523809",
+      "start_at": "2026-09-15T20:00:00-07:00",
+      "title_dropped": "Boys Go To Jupiter",
+      "title_kept": "Theo Kandel",
+      "venue": "Mississippi Studios"
+    },
+    {
       "dropped": "willamette_week:19538833@2026-09-15T20:00",
       "kept": "dopdx:17523809",
       "start_at": "2026-09-15T20:00:00-07:00",
@@ -6481,9 +6489,9 @@
       "venue": "Wonder Ballroom"
     }
   ],
-  "event_count": 6188,
-  "floor_check": "6188 events against a 6329-event baseline",
-  "generated_at": "2026-09-14T06:14:53+00:00",
+  "event_count": 6205,
+  "floor_check": "6205 events against a 6329-event baseline",
+  "generated_at": "2026-09-14T06:23:51+00:00",
   "problems": [],
   "sources": [
     "calagator",
