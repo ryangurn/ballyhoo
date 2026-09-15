@@ -409,6 +409,22 @@
       "venue": "The Foundry"
     },
     {
+      "dropped": "willamette_week:19736167@2026-10-14T19:00",
+      "kept": "dopdx:17728840",
+      "start_at": "2026-10-14T19:00:00-07:00",
+      "title_dropped": "Converge",
+      "title_kept": "Converge",
+      "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "willamette_week:19038910@2026-10-14T19:00",
+      "kept": "dopdx:17768799",
+      "start_at": "2026-10-14T19:00:00-07:00",
+      "title_dropped": "Powell's Presents: Neal Stephenson - TICKETED EVENT",
+      "title_kept": "Neal Stephenson",
+      "venue": "Powell's Books at Cedar Hills Crossing"
+    },
+    {
       "dropped": "willamette_week:19669099@2026-09-15T17:00",
       "kept": "dopdx:17768618",
       "start_at": "2026-09-15T17:00:00-07:00",
@@ -6505,6 +6521,70 @@
       "venue": "Wonder Ballroom"
     },
     {
+      "dropped": "willamette_week:19872805@2026-10-14T17:00",
+      "kept": "dopdx:17789329",
+      "start_at": "2026-10-14T17:00:00-07:00",
+      "title_dropped": "OMPA & Miller Nash - LEGAL SERIES - #2 - Clearance & AI",
+      "title_kept": "OMPA & Miller Nash - LEGAL SERIES - #2 — Clearance & AI",
+      "venue": "Miller Nash LLP"
+    },
+    {
+      "dropped": "willamette_week:19066438@2026-10-14T19:30",
+      "kept": "dopdx:17616856",
+      "start_at": "2026-10-14T19:30:00-07:00",
+      "title_dropped": "White Bird Presents: Circa",
+      "title_kept": "Circa",
+      "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "willamette_week:19736090@2026-10-14T19:30",
+      "kept": "dopdx:17591650",
+      "start_at": "2026-10-14T19:30:00-07:00",
+      "title_dropped": "Special Event: Maddy Kelly",
+      "title_kept": "Maddy Kelly",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19669283@2026-10-14T19:30",
+      "kept": "dopdx:17707258",
+      "start_at": "2026-10-14T19:30:00-07:00",
+      "title_dropped": "Rooster Blackspur: Folk, Roots & Americana",
+      "title_kept": "Rooster Blackspur: Folk, Roots & Americana",
+      "venue": "Singacoustic"
+    },
+    {
+      "dropped": "willamette_week:19069308@2026-10-14T20:00",
+      "kept": "dopdx:17380378",
+      "start_at": "2026-10-14T20:00:00-07:00",
+      "title_dropped": "The Jungle Giants - Experiencing Feelings Of Joy Tour",
+      "title_kept": "The Jungle Giants",
+      "venue": "Mississippi Studios"
+    },
+    {
+      "dropped": "dopdx:17446353",
+      "kept": "ticketmaster:rZ7HnEZ1AfPxGN",
+      "start_at": "2026-10-14T20:00:00-07:00",
+      "title_dropped": "Zaccai Curtis Cubop Lives",
+      "title_kept": "ZACCAI CURTIS - CUBOP LIVES",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19449664@2026-10-14T20:00",
+      "kept": "dopdx:17446353",
+      "start_at": "2026-10-14T20:00:00-07:00",
+      "title_dropped": "ZACCAI CURTIS - CUBOP LIVES",
+      "title_kept": "Zaccai Curtis Cubop Lives",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19153220@2026-10-14T20:00",
+      "kept": "ticketmaster:Z7r9jZ1A70_F6",
+      "start_at": "2026-10-14T20:00:00-07:00",
+      "title_dropped": "glaive w/ Tiffany Day",
+      "title_kept": "glaive w/ Tiffany Day",
+      "venue": "Wonder Ballroom"
+    },
+    {
       "dropped": "obt:825",
       "kept": "ticketmaster:Z7r9jZ1AAvPp6",
       "start_at": "2026-10-16T19:30:00-07:00",
@@ -6601,22 +6681,6 @@
       "venue": "Dante's"
     },
     {
-      "dropped": "willamette_week:19449664@2026-10-14T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfPxGN",
-      "start_at": "2026-10-14T20:00:00-07:00",
-      "title_dropped": "ZACCAI CURTIS - CUBOP LIVES",
-      "title_kept": "ZACCAI CURTIS - CUBOP LIVES",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:19153220@2026-10-14T20:00",
-      "kept": "ticketmaster:Z7r9jZ1A70_F6",
-      "start_at": "2026-10-14T20:00:00-07:00",
-      "title_dropped": "glaive w/ Tiffany Day",
-      "title_kept": "glaive w/ Tiffany Day",
-      "venue": "Wonder Ballroom"
-    },
-    {
       "dropped": "willamette_week:19013731@2026-10-15T19:00",
       "kept": "ticketmaster:rZ7HnEZ1Af-x1d",
       "start_at": "2026-10-15T19:00:00-07:00",
@@ -6657,9 +6721,9 @@
       "venue": "Arlene Schnitzer Concert Hall"
     }
   ],
-  "event_count": 6400,
-  "floor_check": "6400 events against a 6338-event baseline",
-  "generated_at": "2026-09-15T01:36:38+00:00",
+  "event_count": 6394,
+  "floor_check": "6394 events against a 6339-event baseline",
+  "generated_at": "2026-09-15T01:53:34+00:00",
   "problems": [],
   "sources": [
     "calagator",
