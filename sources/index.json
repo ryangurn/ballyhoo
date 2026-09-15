@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-15T06:46:55+00:00",
+  "generated_at": "2026-09-15T07:39:01+00:00",
   "sources": [
     {
       "event_count": 33,
-      "last_run_at": "2026-09-15T01:25:25+00:00",
+      "last_run_at": "2026-09-15T07:38:29+00:00",
       "source_id": "calagator",
       "status": "ok",
       "url": "sources/calagator.json"
@@ -33,7 +33,7 @@
       "event_count": 145,
       "last_run_at": "2026-09-15T01:35:22+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
@@ -61,14 +61,14 @@
       "event_count": 907,
       "last_run_at": "2026-09-15T01:25:35+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
       "event_count": 4149,
       "last_run_at": "2026-09-15T01:32:11+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
