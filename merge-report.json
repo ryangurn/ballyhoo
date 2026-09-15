@@ -409,38 +409,6 @@
       "venue": "The Foundry"
     },
     {
-      "dropped": "willamette_week:19874375@2026-09-14T18:30",
-      "kept": "dopdx:17801369",
-      "start_at": "2026-09-14T18:30:00-07:00",
-      "title_dropped": "Hip Hop HIITs - Monday Night Classes",
-      "title_kept": "Hip Hop HIITs - Monday Night Classes",
-      "venue": "Diva Den Studio"
-    },
-    {
-      "dropped": "willamette_week:18676764@2026-09-14T18:30",
-      "kept": "dopdx:17825268",
-      "start_at": "2026-09-14T19:00:00-07:00",
-      "title_dropped": "A Strange Salon",
-      "title_kept": "Comedy With Marsha",
-      "venue": "Alberta Street Pub"
-    },
-    {
-      "dropped": "willamette_week:18987713@2026-09-14T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1Af1aPV",
-      "start_at": "2026-09-14T19:00:00-07:00",
-      "title_dropped": "Square Dancing with Caller Andy Grummon and Probably Poly String Band",
-      "title_kept": "Square Dancing with Caller Andy Grummon and Probably Poly String Band",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:19637450@2026-09-14T20:00",
-      "kept": "dopdx:17701100",
-      "start_at": "2026-09-14T20:00:00-07:00",
-      "title_dropped": "Ruby Friedman Orchestra",
-      "title_kept": "Ruby Friedman Orchestra",
-      "venue": "Mississippi Studios"
-    },
-    {
       "dropped": "willamette_week:19669099@2026-09-15T17:00",
       "kept": "dopdx:17768618",
       "start_at": "2026-09-15T17:00:00-07:00",
@@ -6585,14 +6553,6 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
-      "dropped": "willamette_week:17586570@2026-09-14T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPwo7",
-      "start_at": "2026-09-14T21:00:00-07:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:18893389@2026-09-19T23:30",
       "kept": "ticketmaster:rZ7HnEZ1Afv3PV",
       "start_at": "2026-09-19T23:30:00-07:00",
@@ -6655,11 +6615,51 @@
       "title_dropped": "glaive w/ Tiffany Day",
       "title_kept": "glaive w/ Tiffany Day",
       "venue": "Wonder Ballroom"
+    },
+    {
+      "dropped": "willamette_week:19013731@2026-10-15T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af-x1d",
+      "start_at": "2026-10-15T19:00:00-07:00",
+      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19484167@2026-10-15T19:00",
+      "kept": "ticketmaster:vvG1HZ_G20GKwT",
+      "start_at": "2026-10-15T19:00:00-07:00",
+      "title_dropped": "Disney On Ice presents Jump In!",
+      "title_kept": "Disney On Ice presents Jump In!",
+      "venue": "Veterans Memorial Coliseum"
+    },
+    {
+      "dropped": "willamette_week:19679597@2026-10-15T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4Zs7S",
+      "start_at": "2026-10-15T19:00:00-07:00",
+      "title_dropped": "Friends in Low Places Presents: Line Dance Pre-Party",
+      "title_kept": "Friends in Low Places Presents: Line Dance Pre-Party",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19108468@2026-10-15T19:00",
+      "kept": "ticketmaster:Z7r9jZ1A70_fy",
+      "start_at": "2026-10-15T19:00:00-07:00",
+      "title_dropped": "Ashley Cooke: The Baby Blues Tour w/ Aniston Pate",
+      "title_kept": "Ashley Cooke w/ Aniston Pate",
+      "venue": "Revolution Hall - Portland"
+    },
+    {
+      "dropped": "willamette_week:19533183@2026-10-15T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A70Ao0",
+      "start_at": "2026-10-15T19:30:00-07:00",
+      "title_dropped": "Jeff Goldblum & The Mildred Snitzer Orchestra: The Night Blooms World Tour",
+      "title_kept": "Jeff Goldblum and the Mildred Snitzer Orchestra",
+      "venue": "Arlene Schnitzer Concert Hall"
     }
   ],
-  "event_count": 6349,
-  "floor_check": "6349 events against a 6338-event baseline",
-  "generated_at": "2026-09-15T01:26:31+00:00",
+  "event_count": 6401,
+  "floor_check": "6401 events against a 6338-event baseline",
+  "generated_at": "2026-09-15T01:33:21+00:00",
   "problems": [],
   "sources": [
     "calagator",
