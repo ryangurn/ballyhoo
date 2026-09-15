@@ -1,30 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:19874375@2026-09-14T18:30",
-      "kept": "dopdx:17801369",
-      "start_at": "2026-09-14T18:30:00-07:00",
-      "title_dropped": "Hip Hop HIITs - Monday Night Classes",
-      "title_kept": "Hip Hop HIITs - Monday Night Classes",
-      "venue": "Diva Den Studio"
-    },
-    {
-      "dropped": "willamette_week:18676764@2026-09-14T18:30",
-      "kept": "dopdx:17825268",
-      "start_at": "2026-09-14T19:00:00-07:00",
-      "title_dropped": "A Strange Salon",
-      "title_kept": "Comedy With Marsha",
-      "venue": "Alberta Street Pub"
-    },
-    {
-      "dropped": "willamette_week:18987713@2026-09-14T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1Af1aPV",
-      "start_at": "2026-09-14T19:00:00-07:00",
-      "title_dropped": "Square Dancing with Caller Andy Grummon and Probably Poly String Band",
-      "title_kept": "Square Dancing with Caller Andy Grummon and Probably Poly String Band",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "willamette_week:19108200@2026-09-15T17:30",
       "kept": "dopdx:17768687",
       "start_at": "2026-09-15T17:30:00-07:00",
@@ -431,6 +407,30 @@
       "title_dropped": "The Impact of Exercise on Parkinson's Disease",
       "title_kept": "The Impact of Exercise on Parkinson’s Disease",
       "venue": "The Foundry"
+    },
+    {
+      "dropped": "willamette_week:19874375@2026-09-14T18:30",
+      "kept": "dopdx:17801369",
+      "start_at": "2026-09-14T18:30:00-07:00",
+      "title_dropped": "Hip Hop HIITs - Monday Night Classes",
+      "title_kept": "Hip Hop HIITs - Monday Night Classes",
+      "venue": "Diva Den Studio"
+    },
+    {
+      "dropped": "willamette_week:18676764@2026-09-14T18:30",
+      "kept": "dopdx:17825268",
+      "start_at": "2026-09-14T19:00:00-07:00",
+      "title_dropped": "A Strange Salon",
+      "title_kept": "Comedy With Marsha",
+      "venue": "Alberta Street Pub"
+    },
+    {
+      "dropped": "willamette_week:18987713@2026-09-14T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af1aPV",
+      "start_at": "2026-09-14T19:00:00-07:00",
+      "title_dropped": "Square Dancing with Caller Andy Grummon and Probably Poly String Band",
+      "title_kept": "Square Dancing with Caller Andy Grummon and Probably Poly String Band",
+      "venue": "Showdown Saloon"
     },
     {
       "dropped": "willamette_week:19637450@2026-09-14T20:00",
@@ -6657,9 +6657,9 @@
       "venue": "Wonder Ballroom"
     }
   ],
-  "event_count": 6351,
-  "floor_check": "6351 events against a 6281-event baseline",
-  "generated_at": "2026-09-15T00:58:05+00:00",
+  "event_count": 6349,
+  "floor_check": "6349 events against a 6338-event baseline",
+  "generated_at": "2026-09-15T01:26:31+00:00",
   "problems": [],
   "sources": [
     "calagator",
