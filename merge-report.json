@@ -6441,6 +6441,14 @@
       "venue": "Holocene"
     },
     {
+      "dropped": "willamette_week:17586570@2026-10-12T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPwFf",
+      "start_at": "2026-10-12T21:00:00-07:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:18683380@2026-10-13T18:00",
       "kept": "dopdx:17240508",
       "start_at": "2026-10-13T18:00:00-07:00",
@@ -6721,9 +6729,9 @@
       "venue": "Arlene Schnitzer Concert Hall"
     }
   ],
-  "event_count": 6394,
-  "floor_check": "6394 events against a 6344-event baseline",
-  "generated_at": "2026-09-15T07:39:01+00:00",
+  "event_count": 6392,
+  "floor_check": "6392 events against a 6349-event baseline",
+  "generated_at": "2026-09-15T07:41:54+00:00",
   "problems": [],
   "sources": [
     "calagator",

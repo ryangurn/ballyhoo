@@ -134,68 +134,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1Af1aPV",
-      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/square-dancing-with-caller-andy-showdown-saloon-tickets/14289974",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 15.92,
-        "min": 15.92
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-14T19:00:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/square-dancing-with-caller-andy-showdown-saloon-tickets/14289974",
-      "title": "Square Dancing with Caller Andy Grummon and Probably Poly String Band",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
-        "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AKPwo7",
-      "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/karaoke-from-hell-dantes-tickets/13972444",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 8.26,
-        "min": 8.26
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-14T21:00:00-07:00",
-      "summary": "The original live karaoke band, rocking in Portland for 25 years and counting. Come see us every Monday at Dante's!",
-      "ticket_url": "https://www.ticketweb.com/event/karaoke-from-hell-dantes-tickets/13972444",
-      "title": "KARAOKE FROM HELL",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
-      }
-    },
-    {
-      "categories": [
         "market"
       ],
       "id": "willamette_week:19768897@2026-09-15T00:00",
@@ -153220,6 +153158,41 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AKPwFf",
+      "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/karaoke-from-hell-dantes-tickets/13972214",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 8.26,
+        "min": 8.26
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-12T21:00:00-07:00",
+      "summary": "The original live karaoke band, rocking in Portland for 25 years and counting. Come see us every Monday at Dante's!",
+      "ticket_url": "https://www.ticketweb.com/event/karaoke-from-hell-dantes-tickets/13972214",
+      "title": "KARAOKE FROM HELL",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:17539493@2026-10-12T21:00",
@@ -153244,35 +153217,6 @@
         "latitude": 45.637555,
         "longitude": -122.67183,
         "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:17586570@2026-10-12T21:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lNV5OoS0e0KYrXZnkFa9kg.large.png",
-      "is_all_day": false,
-      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fkaraoke-from-hell-dantes-tickets%252F13972214%26utm_medium%3daffiliate",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-12T21:00:00-07:00",
-      "summary": "The original live karaoke band, rocking in Portland for 25 years and counting. Come see us every Monday at Dantes!",
-      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fkaraoke-from-hell-dantes-tickets%252F13972214%26utm_medium%3daffiliate",
-      "title": "Karaoke From Hell at Dante's Caffe Italiano",
-      "venue": {
-        "address": "350 West Burnside",
-        "city": "Portland",
-        "latitude": 45.5230448395,
-        "longitude": -122.6738762856,
-        "name": "Dante's"
       }
     },
     {
@@ -189907,5 +189851,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-15T07:39:01+00:00"
+  "generated_at": "2026-09-15T07:41:54+00:00"
 }
