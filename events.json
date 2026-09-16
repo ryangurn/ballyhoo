@@ -177339,6 +177339,35 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "ticketmaster:vvG1HZ_3T2sQO9",
+      "image_url": "https://s1.ticketm.net/dam/a/6e5/8623a3d5-a590-4f02-8243-8d04c19966e5_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=ARMISEN&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "organizer": "LIVE NATION MUSIC",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-13T19:00:00-08:00",
+      "ticket_url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=ARMISEN&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "title": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
+      "venue": {
+        "address": "1111 S.W. Broadway",
+        "city": "Portland",
+        "latitude": 45.5044355,
+        "longitude": -122.6855578,
+        "name": "Newmark Theatre"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:Z7r9jZ1AAZUq9",
@@ -192689,5 +192718,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-15T23:12:53+00:00"
+  "generated_at": "2026-09-16T00:17:08+00:00"
 }
