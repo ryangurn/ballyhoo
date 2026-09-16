@@ -3084,6 +3084,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AAZ_Zx",
+      "image_url": "https://s1.ticketm.net/dam/a/2bb/8bc3e5bc-c95a-4f9c-a2dc-b95d347992bb_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ_Zx",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-25T18:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ_Zx",
+      "title": "Earlybirds Club (21 and Over)",
+      "venue": {
+        "address": "128 NE Russell St",
+        "city": "Portland",
+        "latitude": 45.543999,
+        "longitude": -122.643501,
+        "name": "Wonder Ballroom"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:vvG1HZ_GKKjCDj",
@@ -8924,6 +8952,38 @@
         "latitude": 45.5201,
         "longitude": -122.6884,
         "name": "Arlene Schnitzer Concert Hall"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfG0oV",
+      "image_url": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/uau-2026-fancon-playlist-your-star-theater-tickets/14324474",
+      "organizer": "LEO PRESENTS",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 277.33,
+        "min": 58.97
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-12T19:00:00-07:00",
+      "summary": "UAU 2026 FANCON [Playlist #Your Youth] in America UAU featuring Dreamcatcher members JI U, SU A, and YOOHYEON are heading back across the U.S. for their second American tour. Experience UAU live with performances and special fan interactions. Tickets and VIP packages go on sale Friday Sept 18 at 10AM (CST) General Admission: $50 - This is a first come, first served ticket to the UAU concert General Admission + Send-Off: $75 - This is your ticket to the UAU concert + the Send-Off after the show VIP: $125 - This ticket includes: - Your UAU concert ticket - Skip The Line - Sound Check Party - Group Photo - Send-Off after the show Please arrive by 4PM!! VVIP: $150 - This ticket includes: - Your UAU concert ticket - Skip The Line - Sound Check Party - Group Photo - Send-Off after the show - UAU Fan Sign before the show Please arrive by 4PM!! Everything Ticket: $250 - This ticket includes: - Your UAU concert ticket - Skip The Line - Sound Check Party - Group Photo - Send-Off after the show - UAU Fan Sign before the show - 3 1:1 Snapshots (1 photo with each member) - You+ (solo photo of You + UAU) Please arrive by 4PM!! UPGRADES: JI U 1:1 Snapshot: $99 1:1 Snapshot with JI U. Photo will be taken by staff using the fan's mobile phone. LIMITED! (This does not include a concert ticket.) SU A 1:1 Snapshot: $99 1:1 Snapshot with SU A. Photo will be taken by staff using the fan's mobile phone. LIMITED! (This does not include a concert ticket.) YOOHYEON 1:1 Snapshot: $99 1:1 Snapshot with YOOHYEON. Photo will be taken by staff using the fan's mobile phone. LIMITED! (This does not include a concert ticket.) You+: $75 -- Solo photo of You + UAU. Photo will be taken by staff using the fan's mobile phone. LIMITED! (This does not include a concert ticket.) www.LeoPresents.com",
+      "ticket_url": "https://www.ticketweb.com/event/uau-2026-fancon-playlist-your-star-theater-tickets/14324474",
+      "title": "UAU 2026 FANCON [Playlist #Your Youth] in Portland",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
       }
     },
     {
@@ -26297,7 +26357,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-16T11:27:10+00:00",
+  "generated_at": "2026-09-16T16:50:18+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
