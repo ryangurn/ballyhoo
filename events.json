@@ -14187,33 +14187,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "end_at": "2026-09-18T13:00:00-07:00",
-      "id": "willamette_week:19397792@2026-09-18T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.large.png",
-      "is_all_day": false,
-      "listing_url": "https://events.timely.fun/aujhzpy9/event/78405352/20260918110000",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-18T11:00:00-07:00",
-      "title": "Volleyball @Clark College",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "end_at": "2026-09-18T16:00:00-07:00",
@@ -14233,6 +14206,33 @@
       "start_at": "2026-09-18T11:00:00-07:00",
       "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
       "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-09-18T13:00:00-07:00",
+      "id": "willamette_week:19397792@2026-09-18T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.large.png",
+      "is_all_day": false,
+      "listing_url": "https://events.timely.fun/aujhzpy9/event/78405352/20260918110000",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-18T11:00:00-07:00",
+      "title": "Volleyball @Clark College",
       "venue": {
         "city": "Vancouver",
         "latitude": 45.63873,
@@ -102421,6 +102421,37 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-03T03:00:00-07:00",
+      "id": "willamette_week:19929704@2026-10-02T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-DMz8WMdoU2r90_deWLfeA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://velvetropepdx.com/event/10-2-2026/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 75.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-02T20:00:00-07:00",
+      "summary": "Skip the awkward. Start the conversation. • New Couples & Single Ladies get member pricing before 10PM • Pineapple Light Icebreakers • On = Open to Chat | Off = Just Vibing • Icebreaker cards make starting conversations easy • Dance floor, hot tubs, play spaces & social spaces Whether you’re brand new or a familiar face, Newbie Night makes meeting people easier.",
+      "title": "NEWBIE NIGHT PINEAPPLE PLAY PARTY!",
+      "venue": {
+        "address": "3533 SE Cesar E Chavez Blvd",
+        "city": "Portland",
+        "latitude": 45.496756,
+        "longitude": -122.622951,
+        "name": "The Velvet Rope"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:18701875@2026-10-02T20:00",
@@ -110168,6 +110199,37 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-04T03:00:00-07:00",
+      "id": "willamette_week:19929711@2026-10-03T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SGBcRNOqQE-D9d5h0sMRMA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://velvetropepdx.com/event/10-03-2026/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 90.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-03T20:00:00-07:00",
+      "summary": "Pick your color. Find your match. • Glow body painters • Color-coded glow bracelets • Neon, white, and glow-inspired attire encouraged Grab a bracelet, light up the room, and enjoy one of TVR’s favorite nights of the month.",
+      "title": "GLOW NIGHT!",
+      "venue": {
+        "address": "3533 SE Cesar E Chavez Blvd",
+        "city": "Portland",
+        "latitude": 45.496756,
+        "longitude": -122.622951,
+        "name": "TVR The Velvet Rope"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19879649@2026-10-03T20:00",
@@ -116197,6 +116259,37 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-05T02:00:00-07:00",
+      "id": "willamette_week:19929807@2026-10-04T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mmvnqZ_WL0OagHfG4kqrFQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://velvetropepdx.com/event/10-04-2026/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 55.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-04T20:00:00-07:00",
+      "summary": "Your favorite “I could never wear this anywhere else” outfit has a Sunday night. • Couples SAVE before 10PM • Black lace, heels, lingerie & barely-there looks encouraged • Naughty Karaoke at 10PM • Full club open all night",
+      "title": "SL** IT UP SUNDAY",
+      "venue": {
+        "address": "3533 SE Cesar E Chavez Blvd",
+        "city": "Portland",
+        "latitude": 45.496756,
+        "longitude": -122.622951,
+        "name": "The Velvet Rope"
       }
     },
     {
@@ -149046,6 +149139,37 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-12T02:00:00-07:00",
+      "id": "willamette_week:19929809@2026-10-11T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CWOhPcamOEKuLff5KuJRmA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://velvetropepdx.com/event/10-11-2026/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 55.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-11T20:00:00-07:00",
+      "summary": "No membership required! Saturday energy. Sunday pricing. Holiday Monday. This is one of the easiest nights to step in—whether you’re new, curious, or just want a different kind of night out. Naughty Karaoke starts at 10PM — sing, cheer, flirt, or use it as the perfect icebreaker between everything else.",
+      "title": "OPEN HOUSE – NO MEMBERSHIP REQUIRED",
+      "venue": {
+        "address": "3533 SE Cesar E Chavez Blvd",
+        "city": "Portland",
+        "latitude": 45.496756,
+        "longitude": -122.622951,
+        "name": "The Velvet Rope"
       }
     },
     {
@@ -192747,5 +192871,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-16T11:27:51+00:00"
+  "generated_at": "2026-09-16T11:44:24+00:00"
 }
