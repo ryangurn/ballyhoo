@@ -15548,6 +15548,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19933849@2026-09-18T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PQLFaJHWLkKyyh4lMrNvcQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1280834813976433/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-18T21:00:00-07:00",
+      "summary": "Take it back to a simpler time, where pop and dance music went hand in hand at every party. The only party where you can get down to these iconic club bangers and fist bump all night long like it’s still 2012! Good vibes only! Featuring the music of... KE$HA • David Guetta • Rihanna • Avicii • Britney Spears • Akon • Icona Pop • Black Eyed Peas • Lady Gaga • Pitbull • Calvin Harris • ZEDD • Swedish House Mafia • Katy Perry • T-Pain • Lil Jon • Jason Derulo • DJ Snake • Selena Gomez • Afrojack • Kid Cudi • A-Trak • Drake • Beyonce • Dillon Francis • Soulja Boy • Miley Cyrus · Steve Aoki & many more! Dress code: Swag, Y2K Official Party Spotify Playlist: https://open.spotify.com/playlist/58T8PKdTDWMN29rqMGbTbG?si=db63ff7352204ea6 Text “SWAG” to \\+1 \\(858\\) 330-1710 for FREE tickets, updates and secret announcements :\\) \\*This is a tribute dance night. None of the artists mentioned will be appearing at this event, nor are they affiliated with the event. Follow us on Instagram for updates, pics, song requests & more @ sorryforpartyrocking",
+      "ticket_url": "https://www.etix.com/ticket/p/39192522/sorry-for-party-rocking20102015-pop-edm-all-night-long21-portland-holocene",
+      "title": "SORRY FOR PARTY ROCKING: (2010-2015 Pop & EDM All Night Long!)",
+      "venue": {
+        "address": "1001 SE Morrison St",
+        "city": "Portland",
+        "latitude": 45.5175819397,
+        "longitude": -122.6553573608,
+        "name": "Holocene"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-18T22:15:00-07:00",
@@ -124288,6 +124317,36 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "id": "willamette_week:19933768@2026-10-16T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_XDLAQaqqUClzD9ICo7n4w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.powells.com/events/lyndsay-faye-9781613168004?srsltid=AU7gw4WiXG5hd03zz5K-lWU5prpGNpW5pujwRbt1TZ8urc-sVrB9DI8P",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T19:00:00-07:00",
+      "summary": "Join us at Powell's to celebrate the release of Lyndsay Faye's new book Raven. Faye will be joined in conversation by Rene Denfeld, author of The Talking Bone.",
+      "title": "Lyndsay Faye in Conversation With Rene Denfeld",
+      "venue": {
+        "address": "3415 SW Cedar Hills Blvd.",
+        "city": "Beaverton",
+        "latitude": 45.4950010031,
+        "longitude": -122.8097496182,
+        "name": "Powell's Books at Cedar Hills Crossing"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "willamette_week:19570798@2026-10-16T19:00",
@@ -125799,7 +125858,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-16T20:12:10+00:00",
+  "generated_at": "2026-09-16T22:59:44+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
