@@ -1897,6 +1897,14 @@
       "venue": "Roseland Theater"
     },
     {
+      "dropped": "dopdx:17847264",
+      "kept": "ticketmaster:rZ7HnEZ1AfGbj0",
+      "start_at": "2026-09-20T21:00:00-07:00",
+      "title_dropped": "Church of Hive",
+      "title_kept": "Church of Hive",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "willamette_week:19469867@2026-09-20T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPs_K",
       "start_at": "2026-09-20T21:00:00-07:00",
@@ -2007,6 +2015,14 @@
       "title_dropped": "SHEMEKIA COPELAND",
       "title_kept": "Shemekia Copeland",
       "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:17586570@2026-09-21T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPwAf",
+      "start_at": "2026-09-21T21:00:00-07:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19872731@2026-09-22T17:00",
@@ -3439,6 +3455,14 @@
       "title_dropped": "Tricky",
       "title_kept": "Tricky",
       "venue": "Wonder Ballroom"
+    },
+    {
+      "dropped": "willamette_week:17586570@2026-09-28T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPwaV",
+      "start_at": "2026-09-28T21:00:00-07:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19591413@2026-09-29T18:00",
@@ -6329,6 +6353,14 @@
       "venue": "Star Theater"
     },
     {
+      "dropped": "dopdx:17850279",
+      "kept": "ticketmaster:rZ7HnEZ1AfFYPV",
+      "start_at": "2026-10-11T22:00:00-07:00",
+      "title_dropped": "Sinferno Cabaret",
+      "title_kept": "SINFERNO CABARET",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "dopdx:17723666",
       "kept": "ticketmaster:vvG1HZ_23k0AJD",
       "start_at": "2026-10-12T13:00:00-07:00",
@@ -6817,22 +6849,6 @@
       "venue": "Dante's"
     },
     {
-      "dropped": "willamette_week:17586570@2026-09-21T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPwAf",
-      "start_at": "2026-09-21T21:00:00-07:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
-    },
-    {
-      "dropped": "willamette_week:17586570@2026-09-28T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPwaV",
-      "start_at": "2026-09-28T21:00:00-07:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:18893389@2026-10-03T23:30",
       "kept": "ticketmaster:rZ7HnEZ1Afv3Jf",
       "start_at": "2026-10-03T23:30:00-07:00",
@@ -6873,9 +6889,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 6491,
-  "floor_check": "6491 events against a 6490-event baseline",
-  "generated_at": "2026-09-16T17:20:02+00:00",
+  "event_count": 6528,
+  "floor_check": "6528 events against a 6490-event baseline",
+  "generated_at": "2026-09-16T17:45:44+00:00",
   "problems": [],
   "sources": [
     "calagator",
