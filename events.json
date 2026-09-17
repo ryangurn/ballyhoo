@@ -100,31 +100,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:oregon-zoo-bond-oversight-committee-meeting-2026-09-16",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-committee-meeting-2026-09-16",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-09-16T15:00:00-07:00",
-      "title": "Oregon Zoo Bond Oversight Committee meeting",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.50981,
-        "longitude": -122.71269,
-        "name": "Oregon Zoo"
-      }
-    },
-    {
-      "categories": [
         "market",
         "food"
       ],
@@ -180604,31 +180579,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:supportive-housing-services-regional-policy-and-oversight-committee-meeting-2026-11-11",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/supportive-housing-services-regional-policy-and-oversight-committee-meeting-2026-11-11",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-11T15:00:00-08:00",
-      "title": "Supportive Housing Services Regional Policy and Oversight Committee meeting",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
         "tech"
       ],
       "end_at": "2026-11-11T20:30:00-08:00",
@@ -182847,6 +182797,31 @@
         "latitude": 45.5008,
         "longitude": -122.64489,
         "name": "People’s Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:supportive-housing-services-regional-policy-and-oversight-committee-meeting-2026-11-18",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/supportive-housing-services-regional-policy-and-oversight-committee-meeting-2026-11-18",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-18T15:00:00-08:00",
+      "title": "Supportive Housing Services Regional Policy and Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
       }
     },
     {
@@ -196950,5 +196925,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-17T01:30:30+00:00"
+  "generated_at": "2026-09-17T01:33:13+00:00"
 }
