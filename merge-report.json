@@ -273,6 +273,14 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
+      "dropped": "willamette_week:19495545@2026-09-23T18:30",
+      "kept": "dopdx:17644656",
+      "start_at": "2026-09-23T18:30:00-07:00",
+      "title_dropped": "Artist Talk with North Pole Studio Artist: Max LaZebnik",
+      "title_kept": "Artist Talk with North Pole Studio Artist: Max LaZebnik",
+      "venue": "Patricia Reser Center for the Arts"
+    },
+    {
       "dropped": "willamette_week:19794487@2026-09-23T19:00",
       "kept": "calagator:1250482693",
       "start_at": "2026-09-23T19:00:00-07:00",
@@ -1951,14 +1959,6 @@
       "title_dropped": "John Nunn",
       "title_kept": "John Nunn",
       "venue": "Kenton Farmers Market"
-    },
-    {
-      "dropped": "willamette_week:19495545@2026-09-23T18:30",
-      "kept": "dopdx:17644656",
-      "start_at": "2026-09-23T18:30:00-07:00",
-      "title_dropped": "Artist Talk with North Pole Studio Artist: Max LaZebnik",
-      "title_kept": "Artist Talk with North Pole Studio Artist: Max LaZebnik",
-      "venue": "Patricia Reser Center for the Arts"
     },
     {
       "dropped": "willamette_week:18507456@2026-09-23T20:00",
@@ -7049,9 +7049,9 @@
       "venue": "Newmark Theatre"
     }
   ],
-  "event_count": 6627,
-  "floor_check": "6627 events against a 6552-event baseline",
-  "generated_at": "2026-09-17T05:31:51+00:00",
+  "event_count": 6628,
+  "floor_check": "6628 events against a 6558-event baseline",
+  "generated_at": "2026-09-17T06:04:24+00:00",
   "problems": [],
   "sources": [
     "calagator",
