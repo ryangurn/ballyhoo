@@ -1,14 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:19495544@2026-09-16T18:30",
-      "kept": "dopdx:17644655",
-      "start_at": "2026-09-16T18:30:00-07:00",
-      "title_dropped": "Still-Life Drawing with North Pole Studio Artist: Dan Tran",
-      "title_kept": "Still-Life Drawing with North Pole Studio Artist: Dan Tran",
-      "venue": "Patricia Reser Center for the Arts"
-    },
-    {
       "dropped": "willamette_week:19900072@2026-09-17T19:00",
       "kept": "dopdx:17356374",
       "start_at": "2026-09-17T19:00:00-07:00",
@@ -423,6 +415,14 @@
       "title_dropped": "Dunn Otter",
       "title_kept": "Dunn Otter",
       "venue": "Kenton Farmers Market"
+    },
+    {
+      "dropped": "willamette_week:19495544@2026-09-16T18:30",
+      "kept": "dopdx:17644655",
+      "start_at": "2026-09-16T18:30:00-07:00",
+      "title_dropped": "Still-Life Drawing with North Pole Studio Artist: Dan Tran",
+      "title_kept": "Still-Life Drawing with North Pole Studio Artist: Dan Tran",
+      "venue": "Patricia Reser Center for the Arts"
     },
     {
       "dropped": "dopdx:17315056",
@@ -6913,9 +6913,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 6565,
-  "floor_check": "6565 events against a 6539-event baseline",
-  "generated_at": "2026-09-16T23:17:22+00:00",
+  "event_count": 6564,
+  "floor_check": "6564 events against a 6550-event baseline",
+  "generated_at": "2026-09-17T00:27:51+00:00",
   "problems": [],
   "sources": [
     "calagator",
