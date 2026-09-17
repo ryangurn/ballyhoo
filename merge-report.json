@@ -401,14 +401,6 @@
       "venue": "Powell's Books at Cedar Hills Crossing"
     },
     {
-      "dropped": "willamette_week:19726895@2026-09-16T17:00",
-      "kept": "portland_farmers_market:dunn-otter@2026-09-16",
-      "start_at": "2026-09-16T17:00:00-07:00",
-      "title_dropped": "Dunn Otter",
-      "title_kept": "Dunn Otter",
-      "venue": "Kenton Farmers Market"
-    },
-    {
       "dropped": "willamette_week:19264081@2026-09-17T12:00",
       "kept": "dopdx:17535521",
       "start_at": "2026-09-17T12:00:00-07:00",
@@ -6873,6 +6865,14 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "willamette_week:19812006@2026-10-17T14:00",
+      "kept": "obt:828",
+      "start_at": "2026-10-17T14:00:00-07:00",
+      "title_dropped": "Oregon Ballet Theatre Presents Swan Lake",
+      "title_kept": "Swan Lake",
+      "venue": "Keller Auditorium"
+    },
+    {
       "dropped": "obt:826",
       "kept": "ticketmaster:Z7r9jZ1AAvkAP",
       "start_at": "2026-10-17T19:30:00-07:00",
@@ -6881,12 +6881,84 @@
       "venue": "Keller Auditorium"
     },
     {
-      "dropped": "willamette_week:19932713@2026-09-16T15:00",
-      "kept": "portland_farmers_market:kenton-farmers-market-2026@2026-09-16",
-      "start_at": "2026-09-16T15:00:00-07:00",
-      "title_dropped": "Special Pop-Up Makers Market",
-      "title_kept": "Kenton Farmers Market",
-      "venue": "Kenton Farmers Market"
+      "dropped": "willamette_week:19812006@2026-10-17T19:30",
+      "kept": "obt:826",
+      "start_at": "2026-10-17T19:30:00-07:00",
+      "title_dropped": "Oregon Ballet Theatre Presents Swan Lake",
+      "title_kept": "Swan Lake",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "willamette_week:19449669@2026-10-17T19:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfFbb0",
+      "start_at": "2026-10-17T19:30:00-07:00",
+      "title_dropped": "FABIO FRIZZI performing the FRIZZI2FULCI with Ethan McCarthy",
+      "title_kept": "FABIO FRIZZI performing the FRIZZI2FULCI with Ethan McCarthy",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:18235582@2026-10-17T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A7JAoA",
+      "start_at": "2026-10-17T19:30:00-07:00",
+      "title_dropped": "The Princess Bride in Concert",
+      "title_kept": "Oregon Symphony presents The Princess Bride in Concert",
+      "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "willamette_week:17494197@2026-10-17T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A7roZN",
+      "start_at": "2026-10-17T19:30:00-07:00",
+      "title_dropped": "Portland Timbers vs. Colorado Rapids",
+      "title_kept": "Portland Timbers vs. Colorado Rapids",
+      "venue": "Providence Park"
+    },
+    {
+      "dropped": "willamette_week:19029325@2026-10-17T19:30",
+      "kept": "ticketmaster:Z7r9jZ1AAZgjJ",
+      "start_at": "2026-10-17T19:30:00-07:00",
+      "title_dropped": "Roseland Theater",
+      "title_kept": "Mom Jeans",
+      "venue": "Roseland Theater"
+    },
+    {
+      "dropped": "willamette_week:18134654@2026-10-17T19:30",
+      "kept": "ticketmaster:vvG1HZbSnaneIS",
+      "start_at": "2026-10-17T19:30:00-07:00",
+      "title_dropped": "Doja Cat - Tour Ma Vie World Tour",
+      "title_kept": "Doja Cat - Tour Ma Vie World Tour",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:19449672@2026-10-17T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1Afa9F7",
+      "start_at": "2026-10-17T20:00:00-07:00",
+      "title_dropped": "STEEL BEANS",
+      "title_kept": "STEEL BEANS",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19449671@2026-10-17T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfFo_V",
+      "start_at": "2026-10-17T20:00:00-07:00",
+      "title_dropped": "KIEFER with Shibo",
+      "title_kept": "KIEFER with Shibo",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:19449670@2026-10-17T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfaKef",
+      "start_at": "2026-10-17T20:00:00-07:00",
+      "title_dropped": "Joshua Burnside with Taylor Kingman",
+      "title_kept": "Joshua Burnside with Taylor Kingman",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19120310@2026-10-17T20:00",
+      "kept": "ticketmaster:Z7r9jZ1A70xCF",
+      "start_at": "2026-10-17T20:00:00-07:00",
+      "title_dropped": "Finn Wolfhard",
+      "title_kept": "Finn Wolfhard",
+      "venue": "Hawthorne Theatre"
     },
     {
       "dropped": "willamette_week:17670892@2026-09-20T09:00",
@@ -6911,70 +6983,6 @@
       "title_dropped": "Hillsdale Farmers' Market",
       "title_kept": "Hillsdale Farmers Market",
       "venue": "Hillsdale Farmers Market"
-    },
-    {
-      "dropped": "willamette_week:19165859@2026-09-16T19:00",
-      "kept": "ticketmaster:vvG1HZ_1Ki5oQv",
-      "start_at": "2026-09-16T19:00:00-07:00",
-      "title_dropped": "Boz Scaggs",
-      "title_kept": "Boz Scaggs",
-      "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
-      "dropped": "willamette_week:19736186@2026-09-16T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1Af1doV",
-      "start_at": "2026-09-16T19:00:00-07:00",
-      "title_dropped": "SERTRALINE with Earkiller, Wasted and Half Mast",
-      "title_kept": "SERTRALINE with Earkiller, Wasted and Half Mast",
-      "venue": "Star Theater"
-    },
-    {
-      "dropped": "willamette_week:19348739@2026-09-16T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1Af18vV",
-      "start_at": "2026-09-16T19:00:00-07:00",
-      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "title_kept": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:19758907@2026-09-16T19:00",
-      "kept": "ticketmaster:Z7r9jZ1AAvaFY",
-      "start_at": "2026-09-16T19:00:00-07:00",
-      "title_dropped": "Blue Train",
-      "title_kept": "Blue Train",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "willamette_week:19449624@2026-09-16T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfP3OS",
-      "start_at": "2026-09-16T20:00:00-07:00",
-      "title_dropped": "CHRISSY CHLAPECKA with Slajer",
-      "title_kept": "CHRISSY CHLAPECKA with Slajer",
-      "venue": "Dante's"
-    },
-    {
-      "dropped": "willamette_week:19570867@2026-09-16T20:00",
-      "kept": "ticketmaster:Z7r9jZ1A7JfPY",
-      "start_at": "2026-09-16T20:00:00-07:00",
-      "title_dropped": "Comedian Clash: The Game Show Experience hosted by Jacquis Neal",
-      "title_kept": "Comedian Clash",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "willamette_week:18718551@2026-09-16T20:00",
-      "kept": "ticketmaster:Z7r9jZ1A7JfPY",
-      "start_at": "2026-09-16T20:00:00-07:00",
-      "title_dropped": "The Poor Bastards - Hawthorne Lounge",
-      "title_kept": "Comedian Clash",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "willamette_week:19415513@2026-09-16T20:30",
-      "kept": "ticketmaster:rZ7HnEZ1Af18e7",
-      "start_at": "2026-09-16T20:30:00-07:00",
-      "title_dropped": "Whiskey Wednesday with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
-      "title_kept": "Whiskey Wednesday with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
-      "venue": "Showdown Saloon"
     },
     {
       "dropped": "willamette_week:18893389@2026-09-19T23:30",
@@ -7007,11 +7015,43 @@
       "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
       "title_kept": "KARAOKE FROM HELL",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19484167@2026-10-17T11:00",
+      "kept": "ticketmaster:vvG1HZ_G202dSj",
+      "start_at": "2026-10-17T11:00:00-07:00",
+      "title_dropped": "Disney On Ice presents Jump In!",
+      "title_kept": "Disney On Ice presents Jump In!",
+      "venue": "Veterans Memorial Coliseum"
+    },
+    {
+      "dropped": "willamette_week:19484167@2026-10-17T15:00",
+      "kept": "ticketmaster:vvG1HZ_G208NSB",
+      "start_at": "2026-10-17T15:00:00-07:00",
+      "title_dropped": "Disney On Ice presents Jump In!",
+      "title_kept": "Disney On Ice presents Jump In!",
+      "venue": "Veterans Memorial Coliseum"
+    },
+    {
+      "dropped": "willamette_week:19484167@2026-10-17T18:30",
+      "kept": "ticketmaster:vvG1HZ_G20oSVf",
+      "start_at": "2026-10-17T18:30:00-07:00",
+      "title_dropped": "Disney On Ice presents Jump In!",
+      "title_kept": "Disney On Ice presents Jump In!",
+      "venue": "Veterans Memorial Coliseum"
+    },
+    {
+      "dropped": "willamette_week:17962684@2026-10-17T19:00",
+      "kept": "ticketmaster:Z7r9jZ1AAvNxk",
+      "start_at": "2026-10-17T19:00:00-07:00",
+      "title_dropped": "Georgian National Ballet - Sukhishvili",
+      "title_kept": "Sukhishvili Georgian National Ballet",
+      "venue": "Newmark Theatre"
     }
   ],
-  "event_count": 6569,
-  "floor_check": "6569 events against a 6550-event baseline",
-  "generated_at": "2026-09-17T01:23:29+00:00",
+  "event_count": 6628,
+  "floor_check": "6628 events against a 6550-event baseline",
+  "generated_at": "2026-09-17T01:30:30+00:00",
   "problems": [],
   "sources": [
     "calagator",
