@@ -1057,6 +1057,14 @@
       "venue": "Nexus Tattoo"
     },
     {
+      "dropped": "willamette_week:19940764@2026-09-19T13:00",
+      "kept": "dopdx:17775277",
+      "start_at": "2026-09-19T13:00:00-07:00",
+      "title_dropped": "Exhibition Tour",
+      "title_kept": "Exhibition Tour",
+      "venue": "Portland State University"
+    },
+    {
       "dropped": "willamette_week:19108014@2026-09-19T13:00",
       "kept": "dopdx:17811064",
       "start_at": "2026-09-19T13:00:00-07:00",
@@ -1503,6 +1511,14 @@
       "title_dropped": "BURLY-Q REVUE",
       "title_kept": "BURLY-Q REVUE",
       "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19941109@2026-09-20T10:00",
+      "kept": "portland_farmers_market:lents-international-farmers-market@2026-09-20",
+      "start_at": "2026-09-20T10:00:00-07:00",
+      "title_dropped": "Lents Resource Fair",
+      "title_kept": "Lents International Farmers Market",
+      "venue": "Lents International Farmers Market"
     },
     {
       "dropped": "willamette_week:19669251@2026-09-20T11:00",
@@ -7089,9 +7105,9 @@
       "venue": "Newmark Theatre"
     }
   ],
-  "event_count": 6645,
-  "floor_check": "6645 events against a 6623-event baseline",
-  "generated_at": "2026-09-17T18:12:05+00:00",
+  "event_count": 6689,
+  "floor_check": "6689 events against a 6623-event baseline",
+  "generated_at": "2026-09-17T18:19:28+00:00",
   "problems": [],
   "sources": [
     "calagator",
