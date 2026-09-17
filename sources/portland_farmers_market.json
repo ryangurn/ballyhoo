@@ -262,6 +262,39 @@
         "music",
         "market"
       ],
+      "end_at": "2026-09-20T12:00:00-07:00",
+      "id": "portland_farmers_market:lion-dance-team-performance@2026-09-20",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/12/Lents-cultural-fair-2023.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/lion-dance-team-performance/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-09-20T11:00:00-07:00",
+      "summary": "Enjoy a lively performance of Portland Lee’s Lion Dance team at International Farmers Market on Sat, Sept 20, 2026.",
+      "title": "Lion Dance Team Performance",
+      "venue": {
+        "address": "5718 SE 92nd Ave",
+        "city": "Portland",
+        "latitude": 45.48012,
+        "longitude": -122.56962,
+        "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
       "end_at": "2026-09-20T15:00:00-07:00",
       "id": "portland_farmers_market:airshow@2026-09-20",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2026/08/airshow-e1786495169619.jpg",
@@ -2205,7 +2238,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-17T16:53:47+00:00",
+  "generated_at": "2026-09-17T21:17:54+00:00",
   "source_id": "portland_farmers_market",
   "status": "ok"
 }
