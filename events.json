@@ -4111,6 +4111,63 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-09-17T20:00:00-07:00",
+      "id": "willamette_week:19941635@2026-09-17T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6MFKMcekAku7uR5tSaS70g.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.uptownbeer.co/events/2026/9/24/hopworks-brewery-tasting-thursday-september-24th-68pm",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-17T18:00:00-07:00",
+      "summary": "Good beer that does good? We'll cheers to that. Hopworks has been brewing exceptional beer with sustainability at the core, using locally sourced, organic and Salmon Safe hops to create flavorful beers while supporting the planet and our community. Come by and taste what Hopworks is pouring. Portland brewed, seriously delicious and made with a little extra care for where we live.",
+      "title": "Hopworks Brewery Tasting",
+      "venue": {
+        "address": "6620 SW Scholls Ferry Rd",
+        "city": "Portland",
+        "latitude": 45.4724724591,
+        "longitude": -122.7715140581,
+        "name": "Uptown Market"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-09-17T20:00:00-07:00",
+      "id": "willamette_week:19943229@2026-09-17T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bb98f80b-0b3e-4af5-a30e-fa5b197c87e8.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/fitcog/events/2026/9/17/fitcog-public-meeting-community-listening-session-september-17-2026-600pm",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-17T18:00:00-07:00",
+      "summary": "Regularly scheduled FITCOG hybrid Public Meeting & Community Listening Session on 9/17/26, at 600PM - 800PM, at East Portland Community Center, 740 SE 106th, Multipurpose Room, Portland, OR.",
+      "title": "FITCOG PUBLIC MEETING & COMMUNITY LISTENING SESSION",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-09-17T20:00:00-07:00",
@@ -4137,35 +4194,6 @@
         "latitude": 45.533091,
         "longitude": -122.685965,
         "name": "Movement Portland"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-09-17T20:00:00-07:00",
-      "id": "willamette_week:19941635@2026-09-17T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6MFKMcekAku7uR5tSaS70g.large.png",
-      "is_all_day": false,
-      "listing_url": "http://www.uptownbeer.co/events/2026/9/24/hopworks-brewery-tasting-thursday-september-24th-68pm",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-17T18:00:00-07:00",
-      "summary": "Good beer that does good? We'll cheers to that. Hopworks has been brewing exceptional beer with sustainability at the core, using locally sourced, organic and Salmon Safe hops to create flavorful beers while supporting the planet and our community. Come by and taste what Hopworks is pouring. Portland brewed, seriously delicious and made with a little extra care for where we live.",
-      "title": "Hopworks Brewery Tasting",
-      "venue": {
-        "address": "6620 SW Scholls Ferry Rd",
-        "city": "Portland",
-        "latitude": 45.4724724591,
-        "longitude": -122.7715140581,
-        "name": "Uptown Market"
       }
     },
     {
@@ -5442,6 +5470,33 @@
         "latitude": 45.750612,
         "longitude": -122.674434,
         "name": "Cascades Amphitheater"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:19943230@2026-09-17T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d92339e8-0c72-43a6-b7ac-9db5c731d6b6.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/civic/myneighborhood/events/2026/9/17/south-tabor-neighborhood-association-meeting",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-17T19:00:00-07:00",
+      "summary": "South Tabor Neighborhood Association meets on the third Thursday of the month.",
+      "title": "South Tabor Neighborhood Association Meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
       }
     },
     {
@@ -7903,6 +7958,34 @@
         "address": "2432 SE 11th Ave, Portland, Oregon 97214",
         "city": "Portland",
         "name": "Funhouse Lounge"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19942835@2026-09-18T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vJZ5Y0CfxkOXxGys1pt_RQ.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.willamettewines.com/event/fairsing-friday-september-18/31463/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-18T00:00:00-07:00",
+      "summary": "Friday, September 18, join us for the final Fairsing Friday of the 2026 season. Break out the flannel and whisper hello to sweater weather while...",
+      "title": "Fairsing Friday - September 18",
+      "venue": {
+        "address": "21455 NE Burkett Hill Rd",
+        "city": "Yamhill",
+        "latitude": 45.373662,
+        "longitude": -123.123863,
+        "name": "Fairsing Vineyard"
       }
     },
     {
@@ -15876,6 +15959,33 @@
     },
     {
       "categories": [
+        "market"
+      ],
+      "id": "willamette_week:19943296@2026-09-19T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/z4m1FcScfkq3IM3aUekbew.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.portland.gov/bps/sustainability/resourcefulpdx/events/2026/9/19/mt-tabor-neighborhood-wide-yard-sale-hosted",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-19T00:00:00-07:00",
+      "summary": "Declutter your home and turn your unwanted items into cash! Find great bargains! Connect with neighbors!",
+      "title": "Mt Tabor Neighborhood-wide Yard Sale, hosted by Mount Tabor Neighborhood Association",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "id": "willamette_week:19540006@2026-09-19T00:00",
@@ -18151,6 +18261,34 @@
         "latitude": 45.54195,
         "longitude": -122.38984,
         "name": "Troutdale Farm Market"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "id": "willamette_week:19943297@2026-09-19T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wWZh8dCs30mZv8vSe-H_sw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/trees/events/2026/9/19/welcoming-week-celebration",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-19T10:00:00-07:00",
+      "summary": "Welcoming Week is a Citywide celebration of immigrant and refugee community members to Portland where all are welcome!",
+      "title": "Welcoming Week Celebration",
+      "venue": {
+        "address": "main entrance",
+        "city": "Portland",
+        "latitude": 45.4827575430975,
+        "longitude": -122.589160454487,
+        "name": "Mt. Scott Park"
       }
     },
     {
@@ -23921,6 +24059,34 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:19943048@2026-09-19T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jAygGLQlq0G3vIbf0rbEAw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://sherwoodcenterforthearts.org/general/page/orchestra-nova-northwest-music-john-williams",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-19T19:00:00-07:00",
+      "summary": "Join Orchestra Nova Northwest for an unforgettable season-opening symphonic celebration of cinema's most iconic moments where the music of Hollywood's most legendary composer comes to life! Relive the heart-pounding adventure of Indiana Jones, the awe of Jurassic Park, the wonder of E.T., and the epic battles of Star Wars! Come dressed as your favorite character and step into the magic. Will you be a daring archaeologist or a galaxy-saving hero? The choice is yours! Don't miss the cinematic and musical spectacular - a night where legendary scores and beloved characters collide. CLICK HERE FOR TICKETS For questions/special needs contact ONN directly at info@no",
+      "title": "Orchestra Nova Northwest: The Music of John Williams",
+      "venue": {
+        "address": "22689 SW Pine St",
+        "city": "Sherwood",
+        "latitude": 45.3556415,
+        "longitude": -122.84008449999999,
+        "name": "Sherwood Center for the Arts"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-09-19T20:15:00-07:00",
       "id": "willamette_week:19540002@2026-09-19T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/36dad397-e126-4541-beab-aaf65ad0f5bb.large.png",
@@ -25861,6 +26027,36 @@
         "latitude": 45.5704,
         "longitude": -122.690498,
         "name": "The Den - Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19933175@2026-09-19T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/531d37f1-f35d-4aa3-997f-3ac08e5b551d.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/dcforestgrove/posts/pfbid034GSaQRg55cPUPr76Kp7G1m7nEPRtyLYN375San5EmdKes5sddrmqcrsRrm6scX2yl",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-19T20:00:00-07:00",
+      "summary": "Tejano Night at Bullets, Burgers and Brews, Saturday, Sept. 19 at 8 p.m. Live entertainment presented by Packed House Entertainment; no cover, 21 and over after 9 p.m.",
+      "title": "Tejano Night at Bullets, Burgers and Brews",
+      "venue": {
+        "address": "1931 21st Ave",
+        "city": "Forest Grove",
+        "latitude": 45.521071,
+        "longitude": -123.112495,
+        "name": "Bullets, Burgers and Brews"
       }
     },
     {
@@ -28029,6 +28225,33 @@
     },
     {
       "categories": [
+        "market"
+      ],
+      "id": "willamette_week:19943296@2026-09-20T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/z4m1FcScfkq3IM3aUekbew.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/bps/sustainability/resourcefulpdx/events/2026/9/19/mt-tabor-neighborhood-wide-yard-sale-hosted",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-20T09:00:00-07:00",
+      "summary": "Declutter your home and turn your unwanted items into cash! Find great bargains! Connect with neighbors!",
+      "title": "Mt Tabor Neighborhood-wide Yard Sale, hosted by Mount Tabor Neighborhood Association",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-20T17:00:00-07:00",
@@ -28654,6 +28877,34 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:19942669@2026-09-20T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4V1WF_7ZOkWlj9BqF6_Jpg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.mlkdreamrun.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-20T10:00:00-07:00",
+      "summary": "The MLK Dream Run is more than a race. For 15 years, it has brought runners, walkers, families, businesses and community partners together in the heart of North and Northeast Portland. The MLK Dream Run is an annual fundraiser benefiting the Soul District Business Association and our work supporting small businesses and the next generation of entrepreneurs.",
+      "title": "MLK Dream Run",
+      "venue": {
+        "address": "705 N Killingsworth St.",
+        "city": "Portland",
+        "latitude": 45.563159,
+        "longitude": -122.673467,
+        "name": "Portland Community College, Cascade Campus"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-20T13:00:00-07:00",
@@ -29036,6 +29287,38 @@
         "latitude": 45.48012,
         "longitude": -122.56962,
         "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-09-20T14:00:00-07:00",
+      "id": "willamette_week:19942760@2026-09-20T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OjMOeJoPS0SK9LzDEMRcjw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/its-britney-brunch-tickets-1999194289938",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 44.0,
+        "min": 28.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-20T11:00:00-07:00",
+      "summary": "Get your low-rise boot cuts and layered lacy tank tops ready for this drag brunch honoring our beloved patron saint of dagger dancing and twirling hair flips, Britney Spears. Hosted by Nashville Hott, this high-energy brunch show is made for Y2K denizens who yearn for the days of business-casual clubwear, wedge platforms and candy-colored digital cameras.",
+      "ticket_url": "https://www.eventbrite.com/e/its-britney-brunch-tickets-1999194289938",
+      "title": "It’s Britney…Brunch. A Britney Spears-Themed Drag Brunch",
+      "venue": {
+        "address": "550 SW Oak St.",
+        "city": "Portland",
+        "latitude": 45.521438,
+        "longitude": -122.676894,
+        "name": "The Social Spoon"
       }
     },
     {
@@ -30126,6 +30409,33 @@
         "latitude": 45.48012,
         "longitude": -122.56962,
         "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:19943298@2026-09-20T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TMnqlN0yQ0GKqcDndYlKVQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane/events/2026/9/20/constituent-conversation-and-read-aloud",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-20T13:00:00-07:00",
+      "summary": "For a family-friendly spin on our constituent coffee events, Teacher Tiffany, aka Councilor Koyama Lane, will read a story or two as well!",
+      "title": "Constituent Conversation and Read Aloud",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
       }
     },
     {
@@ -34531,6 +34841,34 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:19942669@2026-09-21T08:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4V1WF_7ZOkWlj9BqF6_Jpg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.mlkdreamrun.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-21T08:00:00-07:00",
+      "summary": "The MLK Dream Run is more than a race. For 15 years, it has brought runners, walkers, families, businesses and community partners together in the heart of North and Northeast Portland. The MLK Dream Run is an annual fundraiser benefiting the Soul District Business Association and our work supporting small businesses and the next generation of entrepreneurs.",
+      "title": "MLK Dream Run",
+      "venue": {
+        "address": "705 N Killingsworth St.",
+        "city": "Portland",
+        "latitude": 45.563159,
+        "longitude": -122.673467,
+        "name": "Portland Community College, Cascade Campus"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-09-21T17:00:00-07:00",
@@ -37835,6 +38173,35 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-09-22T11:00:00-07:00",
+      "id": "willamette_week:19943044@2026-09-22T08:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/WojN2nSEWEOVS3ddr6IIIQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://langersfun.com/event/coffee-campfire-playdate-3-2/2026-09-22/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-22T08:30:00-07:00",
+      "summary": "Come grab some coffee and unwind by the fire while the kids tire themselves out before nap time! Something we call our \"Coffee & Campfire Playdate\". During 8:30 AM - 11 AM we'll be offering our Coffee service & Timber Town Jungle Gym for parents & kids to unwind. See you there!",
+      "title": "Coffee & Campfire Playdate",
+      "venue": {
+        "address": "21650 SW Langer Farms Pkwy",
+        "city": "Sherwood",
+        "latitude": 45.3628103,
+        "longitude": -122.835479,
+        "name": "Langer's Entertainment Center"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-22T17:00:00-07:00",
@@ -37949,6 +38316,37 @@
         "latitude": 45.525187,
         "longitude": -122.716182,
         "name": "Pittock Mansion"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-09-22T10:30:00-07:00",
+      "id": "willamette_week:19933198@2026-09-22T09:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/06ffafcc-7a49-46ed-8f0f-73b8794ce2d8.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.pacificu.edu/calendar/partner-pacific-fall-2026-meet-pacific-opportunity-hub",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-22T09:30:00-07:00",
+      "summary": "The launch of the Pacific Opportunity Hub marks an exciting new chapter in our university's commitment to the local community and regional economy. We invite interested partners and employers to join us for coffee and pastries as we introduce Pacific's new \"front door\".",
+      "title": "Partner with Pacific Fall 2026: Meet the Pacific Opportunity Hub!",
+      "venue": {
+        "address": "2043 College Way",
+        "city": "Forest Grove",
+        "latitude": 45.522007,
+        "longitude": -123.108985,
+        "name": "Washburne University Center"
       }
     },
     {
@@ -38327,6 +38725,37 @@
         "latitude": 45.301412,
         "longitude": -122.9773179,
         "name": "Newberg Public Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-22T13:00:00-07:00",
+      "id": "willamette_week:19933205@2026-09-22T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/815cb677-b847-412e-887a-97e3ace228d8.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.pacificu.edu/calendar/fall-2026-work-service-fair",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-22T11:00:00-07:00",
+      "summary": "Are you a current Pacific student looking for part-time roles? Come to the annual Fall Work & Service Fair on September 22nd, 2026! The fair will take place at the UC from 11:00 am to 1:00 pm. Opportunities will range from part-time on campus roles to local non-profit organizations openings, or fully remote positions.",
+      "title": "Fall 2026 Work & Service Fair",
+      "venue": {
+        "address": "2043 College Way",
+        "city": "Forest Grove",
+        "latitude": 45.52448406084487,
+        "longitude": -123.1102807801869,
+        "name": "Pacific University"
       }
     },
     {
@@ -41332,6 +41761,37 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-09-22T21:00:00-07:00",
+      "id": "willamette_week:19933237@2026-09-22T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goboxers.com/sports/msoc/schedule",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-22T19:00:00-07:00",
+      "summary": "Pacific Men's Soccer hosts Bushnell University. Home contest at Hanson Stadium in Forest Grove.",
+      "title": "Pacific Men's Soccer: vs Bushnell University",
+      "venue": {
+        "address": "2043 College Way",
+        "city": "Forest Grove",
+        "latitude": 45.522007,
+        "longitude": -123.108985,
+        "name": "Hanson Stadium"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "id": "willamette_week:19933638@2026-09-22T19:00",
@@ -42897,6 +43357,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-23T17:00:00-07:00",
+      "id": "willamette_week:19943045@2026-09-23T08:00",
+      "is_all_day": false,
+      "listing_url": "https://langersfun.com/event/late-open-3pm/2026-09-23/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-23T08:00:00-07:00",
+      "summary": "Langer's Entertainment will be opening to the public at 3:00PM! We'll see you then!",
+      "title": "Late Open @3PM",
+      "venue": {
+        "address": "21650 SW Langer Farms Pkwy",
+        "city": "Sherwood",
+        "latitude": 45.3628103,
+        "longitude": -122.835479,
+        "name": "Langer's Entertainment Center"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metro-regional-planning-workshop-2026-09-23",
@@ -44169,6 +44657,37 @@
         "latitude": 45.2978782654,
         "longitude": -122.7577896118,
         "name": "Wilsonville Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-23T19:00:00-07:00",
+      "id": "willamette_week:19933244@2026-09-23T15:45",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/553716e9-d685-4b8e-ac75-88e20ef13f28.large.png",
+      "is_all_day": false,
+      "listing_url": "https://harveyclarke.fgsdk12.org/apps/events/54430431/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-23T15:45:00-07:00",
+      "summary": "Harvey Clarke Elementary School: Book Fair Family Night.",
+      "title": "Book Fair Family Night",
+      "venue": {
+        "address": "2516 B Street",
+        "city": "Forest Grove",
+        "latitude": 45.52734,
+        "longitude": -123.11629,
+        "name": "Harvey Clarke Elementary School"
       }
     },
     {
@@ -45691,6 +46210,35 @@
         "latitude": 45.527699,
         "longitude": -122.373802,
         "name": "McMenamins Historic Edgefield Manor"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-09-23T21:00:00-07:00",
+      "id": "willamette_week:19943043@2026-09-23T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CNs4X1OaGkGZ3aaNdeufCw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://langersfun.com/event/langers-family-fun-bowling-league/2026-09-23/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-23T18:30:00-07:00",
+      "summary": "Join in on our first ever bowling league! This is a 10-week unsanctioned bowling league on Wednesdays at 6:30pm starting on September 16th. Bowlers will play 3 games per week. This league costs $13/week per person, which will go into the end of season prize pool!",
+      "title": "Langer's Family Fun Bowling League",
+      "venue": {
+        "address": "21650 SW Langer Farms Pkwy",
+        "city": "Sherwood",
+        "latitude": 45.362753,
+        "longitude": -122.835535,
+        "name": "Langer's Entertainment"
       }
     },
     {
@@ -47725,6 +48273,35 @@
         "latitude": 45.561728,
         "longitude": -122.326337,
         "name": "Washougal"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-09-24T11:00:00-07:00",
+      "id": "willamette_week:19943044@2026-09-24T08:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/WojN2nSEWEOVS3ddr6IIIQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://langersfun.com/event/coffee-campfire-playdate-4-2/2026-09-24/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-24T08:30:00-07:00",
+      "summary": "Come grab some coffee and unwind by the fire while the kids tire themselves out before nap time! Something we call our \"Coffee & Campfire Playdate\". During 8:30 AM - 11 AM we'll be offering our Coffee service & Timber Town Jungle Gym for parents & kids to unwind. See you there!",
+      "title": "Coffee & Campfire Playdate",
+      "venue": {
+        "address": "21650 SW Langer Farms Pkwy",
+        "city": "Sherwood",
+        "latitude": 45.3628103,
+        "longitude": -122.835479,
+        "name": "Langer's Entertainment Center"
       }
     },
     {
@@ -52019,6 +52596,70 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-24T21:30:00-07:00",
+      "id": "willamette_week:19905061@2026-09-24T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/quqSRInsEEKG7jxPWzJygA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://creativeworldsofroberthunter.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 18.0,
+        "min": 18.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-24T19:00:00-07:00",
+      "summary": "Grateful Dead Lyricist Robert Hunter’s Creative Wor\\(l\\)ds Celebrated Sept 24-26. Portland, Oregon. A three-day celebration of Grateful Dead lyricist Robert Hunter’s literary and musical legacy will be held in Portland, Oregon, from September 24-26, featuring performances, readings, and talks at the Kennedy School Theater, Sanctuary Hall, the Laurelthirst Public House, and Music Millennium. The event, organized by Portland poets Katherine Factor and Darrin Daniel, will bring together Alan Trist, writers Jesse Jarnow, David Dodd, and Dr. Natalie Dollar, as well as musicians—including the Garcia Birthday Band, Lewi Longmire and Friends—and fans to explore Hunter's profound impact on American song and poetry. For more details, visit www.CreativeWorldsofRobertHunter.com",
+      "ticket_url": "https://www.etix.com/ticket/p/36104727/the-creative-worlds-of-robert-hunter-portland-mcmenamins-kennedy-school-",
+      "title": "Creative Wor(l)ds of Grateful Dead lyricist Robert Hunter",
+      "venue": {
+        "address": "5736 N.E. 33rd Ave.",
+        "city": "Portland",
+        "latitude": 45.5645027161,
+        "longitude": -122.6296386719,
+        "name": "Kennedy School Theater"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "end_at": "2026-09-24T21:30:00-07:00",
+      "id": "willamette_week:19645793@2026-09-24T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/730IVRu0qEW1HBEhyoN_8g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://creativeworldsofroberthunter.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 18.0,
+        "min": 18.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-24T19:00:00-07:00",
+      "summary": "Join authors, local poets, and “Hunter heads” for a riveting reading and discussion of Robert Hunter’s literary work. Experts share excerpts from The Silver Snarling Trumpet, his poems and translations of Rilke, and a reading in his own bardic voice. Then enjoy a deep dive into Hunter’s creative influences and lineage. Learn about Hunter’s relationship to a vast network of inspiration. Guests include: writer and official Good Ol’ Grateful Deadcast host Jesse Jarnow surveying Robert Hunter’s still-emerging “secret” bibliography/discography; scholar Dr. Natalie J. Dollar on the Grateful Dead community’s cultural communication, meaning, and “coding” through the power of Hunter’s words; and librarian David Dodd, author of The Complete Annotated Grateful Dead Lyrics on the rich ecosystem of Hunter’s influences and interests. Q & A and book signing.",
+      "ticket_url": "https://www.etix.com/ticket/p/36104727/the-creative-worlds-of-robert-hunter-portland-mcmenamins-kennedy-school-",
+      "title": "Creative Wor(l)ds of Robert Hunter",
+      "venue": {
+        "address": "5736 N.E. 33rd Ave.",
+        "city": "Portland",
+        "latitude": 45.5645027161,
+        "longitude": -122.6296386719,
+        "name": "Kennedy School Theater"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-24T21:00:00-07:00",
@@ -52256,38 +52897,6 @@
         "latitude": 45.467679,
         "longitude": -122.713606,
         "name": "Annie Bloom's Books"
-      }
-    },
-    {
-      "categories": [
-        "literary"
-      ],
-      "end_at": "2026-09-24T21:30:00-07:00",
-      "id": "willamette_week:19645793@2026-09-24T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/730IVRu0qEW1HBEhyoN_8g.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://creativeworldsofroberthunter.com",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 18.0,
-        "min": 18.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-24T19:00:00-07:00",
-      "summary": "Join authors, local poets, and “Hunter heads” for a riveting reading and discussion of Robert Hunter’s literary work. Experts share excerpts from The Silver Snarling Trumpet, his poems and translations of Rilke, and a reading in his own bardic voice. Then enjoy a deep dive into Hunter’s creative influences and lineage. Learn about Hunter’s relationship to a vast network of inspiration. Guests include: writer and official Good Ol’ Grateful Deadcast host Jesse Jarnow surveying Robert Hunter’s still-emerging “secret” bibliography/discography; scholar Dr. Natalie J. Dollar on the Grateful Dead community’s cultural communication, meaning, and “coding” through the power of Hunter’s words; and librarian David Dodd, author of The Complete Annotated Grateful Dead Lyrics on the rich ecosystem of Hunter’s influences and interests. Q & A and book signing.",
-      "ticket_url": "https://www.etix.com/ticket/p/36104727/the-creative-worlds-of-robert-hunter-portland-mcmenamins-kennedy-school-",
-      "title": "Creative Wor(l)ds of Robert Hunter",
-      "venue": {
-        "address": "5736 N.E. 33rd Ave.",
-        "city": "Portland",
-        "latitude": 45.5645027161,
-        "longitude": -122.6296386719,
-        "name": "Kennedy School Theater"
       }
     },
     {
@@ -64057,6 +64666,35 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "end_at": "2026-09-26T15:00:00-07:00",
+      "id": "willamette_week:19943303@2026-09-26T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Oa6AAWrTSEqcgge3AAko5A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/bps/planning/inner-eastside-zoning-project/events/2026/10/2/inner-eastside-planning-park-grant-park",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-26T11:00:00-07:00",
+      "summary": "Live, work, or spend time in the Inner Eastside? Join us for a casual, drop-in event to learn about the Inner Eastside Zoning Project and to help shape the future of the neighborhood.",
+      "title": "Inner Eastside: Planning in the Park - Grant Park",
+      "venue": {
+        "address": "Close to NE 36th Street and NE Brazee Street",
+        "city": "Portland",
+        "latitude": 45.515197,
+        "longitude": -122.678367,
+        "name": "Grant Park Picnic Shelter"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-09-26T12:30:00-07:00",
@@ -65462,6 +66100,37 @@
         "latitude": 45.516223,
         "longitude": -122.6835456,
         "name": "Whitsell Auditorium"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-26T21:00:00-07:00",
+      "id": "willamette_week:19933257@2026-09-26T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cfb747e9-6d10-44be-8d17-9c06b871280c.large.PNG",
+      "is_all_day": false,
+      "listing_url": "https://www.thegrowlergaragefg.com/events/oktobierfest",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-26T14:00:00-07:00",
+      "summary": "Our 1st annual celebration will stretch between The Growler Garage and Waltz, with live music at both businesses throughout the day. Miles to Go will perform at The Growler Garage from 4 to 7 p.m., before Kalida takes the stage at Waltz from 7 to 9 p.m. Away from the music, we are embracing Oktoberfest tradition with men’s and women’s stein-holding contests and a costume contest, along with a hot dog eating contest sponsored by Franko’s Hot Dogs. And not all of the racing will involve people — The Farm Store is sponsoring a wiener dog race, putting dachshunds on the course as part of the afternoon’s festivities. Altengartz German Sausages, Meat Hustler Nation, Korean Wagon, Teco Santo, Franko’s Hot Dogs and Great NW Ice Cream are among the food trucks expected to participate, while The Growler Garage will also serve food. Waltz, meanwhile, will have a variety of Oktoberfest beers available. Local vendors will offer fine art, jewelry, baked goods, specialty soda, kettle corn, shave ice, dried flower art, personalized magnets and custom trucker hats, among other items. Free face painting and henna will also be available.",
+      "title": "Live music - Oktobierfest!!",
+      "venue": {
+        "address": "1837 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519953,
+        "longitude": -123.114365,
+        "name": "The Growler Garage"
       }
     },
     {
@@ -67277,6 +67946,34 @@
         "latitude": 45.533299,
         "longitude": -122.667442,
         "name": "Veterans Memorial Coliseum"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19943049@2026-09-26T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iaUi0hNwhE-3ut4GmMEchQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://sherwoodcenterforthearts.org/general/page/sherwood-foundation-arts-switched",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-26T18:00:00-07:00",
+      "summary": "Switched is an unforgettable evening of music, laughter, and community-where everything you thought you knew gets turned on its head. Join the Sherwood Foundation for the Arts for this one-night-only fundraising concert featuring beloved musical theatre songs performed in unexpected ways. From gender-swapped solos and duets to fresh interpretations of Broadway favorites, each performance offers a new perspective on familiar music while celebrating the incredible talent in our community. More than just a concert, Switched is an opportunity to support local theatre. Every ticket purchased helps SFA continue bringing live productions, live orchestras, and meaningful storytelling to Sherwood. Come enjoy an evening of exceptional entertainment, great company, and a celebration of the arts-all while making a lasting impact on the future of community theatre. One night only. One unforgettable experience. CLICK HERE FOR",
+      "title": "Sherwood Foundation for the Arts: Switched",
+      "venue": {
+        "address": "22689 SW Pine St",
+        "city": "Sherwood",
+        "latitude": 45.3556415,
+        "longitude": -122.84008449999999,
+        "name": "Sherwood Center for the Arts"
       }
     },
     {
@@ -69887,6 +70584,66 @@
         "latitude": 45.853617,
         "longitude": -122.707375,
         "name": "Ilani Cowlitz Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:19933309@2026-09-26T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d5191794-19e4-41a4-9449-97ed8914a210.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/dcforestgrove/posts/pfbid034GSaQRg55cPUPr76Kp7G1m7nEPRtyLYN375San5EmdKes5sddrmqcrsRrm6scX2yl",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-26T20:00:00-07:00",
+      "summary": "Ocktoberfest bar crawl at Bullets, Burgers and Brews, Saturday, Sept. 26 at 8 p.m. Presented by Packed House Entertainment; 21 and over after 9 p.m.",
+      "title": "Ocktoberfest Bar Crawl at Bullets, Burgers and Brews",
+      "venue": {
+        "address": "1931 21st Ave",
+        "city": "Forest Grove",
+        "latitude": 45.521071,
+        "longitude": -123.112495,
+        "name": "Bullets, Burgers and Brews"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19933271@2026-09-26T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/29285568-7de3-428e-a16d-3491ad349d9e.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/dcforestgrove/posts/pfbid034GSaQRg55cPUPr76Kp7G1m7nEPRtyLYN375San5EmdKes5sddrmqcrsRrm6scX2yl",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-26T20:00:00-07:00",
+      "summary": "Dance party with DJ LadyX at Bullets, Burgers and Brews, Saturday, Sept. 26 at 8 p.m. Live entertainment presented by Packed House Entertainment; no cover, 21 and over after 9 p.m.",
+      "title": "Dance Party with DJ LadyX at Bullets, Burgers and Brews",
+      "venue": {
+        "address": "1931 21st Ave",
+        "city": "Forest Grove",
+        "latitude": 45.521071,
+        "longitude": -123.112495,
+        "name": "Bullets, Burgers and Brews"
       }
     },
     {
@@ -73842,6 +74599,37 @@
         "latitude": 45.5201,
         "longitude": -122.6884,
         "name": "Arlene Schnitzer Concert Hall"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-27T17:00:00-07:00",
+      "id": "willamette_week:19933467@2026-09-27T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9ffd6ad4-a5fe-4ee8-a746-02776a158996.large.png",
+      "is_all_day": false,
+      "listing_url": "https://sidereuswinery.com/event/live-music-with-maureen-peter/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-27T14:00:00-07:00",
+      "summary": "Local favorite Big Ron Sabin will perform at Sidereus Winery on Sept. 27 from 2:00-5:00 p.m. for a very special and his last music event. Ron says he is ending his many years of performing with this show. Age and health problems have taken their toll. On this Sunday, he will sing his favorite songs from decades of playing for the public. Come on out and see if one of those song is your favorite, too. Ron is a dear friend to us at Sidereus Winery and we are honored to host his last show. Ron is also an exceptional, beloved member of the local community where his contributions are treasured. Reservations are highly encouraged for this cherished musical performance during a busy weekend. Weather depending, the performance will be outdoors on our deck. Feel free to bring blankets and lawn chair for lawn seating. In the case of inclement weather, the music will move indoors.",
+      "title": "Live Music with Big Ron Sabin at Sidereus Winery",
+      "venue": {
+        "address": "5195 SW Hergert Rd",
+        "city": "Cornelius",
+        "latitude": 45.48309,
+        "longitude": -123.0776,
+        "name": "Sidereus Vineyard & Winery"
       }
     },
     {
@@ -80768,6 +81556,65 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "id": "willamette_week:19943304@2026-09-29T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d6b48430-9dce-4f5b-9c31-4f3b9ec2ab56.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/procurement/clean-air-construction/events/2026/9/29/fleet-forward-ride-and-drive-event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-29T10:00:00-07:00",
+      "summary": "This event gives you a chance to see zero-emissions trucks and buses in person; test drive them and decide whether they may work for your business or operation.",
+      "title": "Fleet Forward Ride and Drive Event",
+      "venue": {
+        "address": "1940 N Victory Blvd",
+        "city": "Portland",
+        "latitude": 45.59371,
+        "longitude": -122.688485,
+        "name": "Portland International Raceway"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-09-29T13:00:00-07:00",
+      "id": "willamette_week:19933539@2026-09-29T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c62a1ca3-bfc4-43b0-8eb4-324304c1c3c9.large.png",
+      "is_all_day": false,
+      "listing_url": "https://cityofbanks.org/index.asp?SEC=E97CFB3E-655F-4EE6-A84E-19107FB0513C&DE=8C024305-D55D-4991-B323-D1273566D5B1",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-29T10:00:00-07:00",
+      "summary": "Technology help with a Digital Navigator at the Banks Public Library. Get help with device questions, email account questions, internet navigation and other miscellaneous digital questions. Call or e-mail the library to sign up for dedicated time with the volunteer, or drop in for help. The Digital Navigator can assist with your own devices, or you can use the public computers here to explore what technology can do for you.",
+      "title": "Digital Navigator",
+      "venue": {
+        "address": "42461 NW Market Street",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-09-29T11:00:00-07:00",
@@ -83120,6 +83967,34 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19943050@2026-09-29T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rRyGpn6B302tx2vKGJQGYA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://sherwoodcenterforthearts.org/general/page/crafting-classics-breakfast-tiffanys",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-29T19:00:00-07:00",
+      "summary": "Back by popular demand! Thanks for all the love for our first Crafting with the Classics event back in February - and for asking us to do it again! We listened! Come join us at the Arts Center September 29th for our next CRAFTING WITH THE CLASSICS event!We're looking to fill the room with crafters sipping tea while knitting, coloring, and taking inBlake Edwards's1961 romantic comedy Breakfast at Tiffany's based on the Truman Capote novella and starring the impeccableAudrey HepburnasHolly Golightly. ALL ARE WELCOME! This is a BYOT, BRING YOUR OWN TEACUP, event - SO DON'T FORGET TO INCLUDE YOUR SWEETEST CUP IN YOUR CRAFT BAG! WHEN: Tuesday, September 29th, 7pm Doors open at 6:30pm WHERE: Sherwood Center for the Arts Meara Boughey Theatre COST: $5 - Purchase your tickets in-person from the Sherwood Center for the Arts.",
+      "title": "Crafting with the Classics: Breakfast at Tiffany's",
+      "venue": {
+        "address": "22689 SW Pine St",
+        "city": "Sherwood",
+        "latitude": 45.3556415,
+        "longitude": -122.84008449999999,
+        "name": "Sherwood Center for the Arts"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-09-29T21:00:00-07:00",
@@ -85458,37 +86333,6 @@
         "arts"
       ],
       "end_at": "2026-09-30T18:00:00-07:00",
-      "id": "willamette_week:19939715@2026-09-30T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.stephaniechefas.com/dan-lam-mercurial",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-30T13:00:00-07:00",
-      "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
-      "title": "DAN LAM | MERCURIAL",
-      "venue": {
-        "address": "134 SE Taylor St., Suite 203",
-        "city": "Portland",
-        "latitude": 45.514925,
-        "longitude": -122.664131,
-        "name": "CHEFAS PROJECTS"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-09-30T18:00:00-07:00",
       "id": "willamette_week:19939647@2026-09-30T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
       "is_all_day": false,
@@ -85507,6 +86351,37 @@
       "start_at": "2026-09-30T13:00:00-07:00",
       "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
       "title": "BOBBY ADAMS | GALVANIZED",
+      "venue": {
+        "address": "134 SE Taylor St., Suite 203",
+        "city": "Portland",
+        "latitude": 45.514925,
+        "longitude": -122.664131,
+        "name": "CHEFAS PROJECTS"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-09-30T18:00:00-07:00",
+      "id": "willamette_week:19939715@2026-09-30T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.stephaniechefas.com/dan-lam-mercurial",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-30T13:00:00-07:00",
+      "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
+      "title": "DAN LAM | MERCURIAL",
       "venue": {
         "address": "134 SE Taylor St., Suite 203",
         "city": "Portland",
@@ -90568,37 +91443,6 @@
         "arts"
       ],
       "end_at": "2026-10-01T18:00:00-07:00",
-      "id": "willamette_week:19939715@2026-10-01T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.stephaniechefas.com/dan-lam-mercurial",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-01T13:00:00-07:00",
-      "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
-      "title": "DAN LAM | MERCURIAL",
-      "venue": {
-        "address": "134 SE Taylor St., Suite 203",
-        "city": "Portland",
-        "latitude": 45.514925,
-        "longitude": -122.664131,
-        "name": "CHEFAS PROJECTS"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-01T18:00:00-07:00",
       "id": "willamette_week:19939647@2026-10-01T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
       "is_all_day": false,
@@ -90617,6 +91461,37 @@
       "start_at": "2026-10-01T13:00:00-07:00",
       "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
       "title": "BOBBY ADAMS | GALVANIZED",
+      "venue": {
+        "address": "134 SE Taylor St., Suite 203",
+        "city": "Portland",
+        "latitude": 45.514925,
+        "longitude": -122.664131,
+        "name": "CHEFAS PROJECTS"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-01T18:00:00-07:00",
+      "id": "willamette_week:19939715@2026-10-01T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.stephaniechefas.com/dan-lam-mercurial",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-01T13:00:00-07:00",
+      "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
+      "title": "DAN LAM | MERCURIAL",
       "venue": {
         "address": "134 SE Taylor St., Suite 203",
         "city": "Portland",
@@ -96386,37 +97261,6 @@
         "arts"
       ],
       "end_at": "2026-10-02T18:00:00-07:00",
-      "id": "willamette_week:19939647@2026-10-02T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.stephaniechefas.com/bobby-adams-galvanized",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-02T13:00:00-07:00",
-      "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
-      "title": "BOBBY ADAMS | GALVANIZED",
-      "venue": {
-        "address": "134 SE Taylor St., Suite 203",
-        "city": "Portland",
-        "latitude": 45.514925,
-        "longitude": -122.664131,
-        "name": "CHEFAS PROJECTS"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-02T18:00:00-07:00",
       "id": "willamette_week:19939715@2026-10-02T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
       "is_all_day": false,
@@ -96435,6 +97279,37 @@
       "start_at": "2026-10-02T13:00:00-07:00",
       "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
       "title": "DAN LAM | MERCURIAL",
+      "venue": {
+        "address": "134 SE Taylor St., Suite 203",
+        "city": "Portland",
+        "latitude": 45.514925,
+        "longitude": -122.664131,
+        "name": "CHEFAS PROJECTS"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-02T18:00:00-07:00",
+      "id": "willamette_week:19939647@2026-10-02T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.stephaniechefas.com/bobby-adams-galvanized",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-02T13:00:00-07:00",
+      "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
+      "title": "BOBBY ADAMS | GALVANIZED",
       "venue": {
         "address": "134 SE Taylor St., Suite 203",
         "city": "Portland",
@@ -96591,6 +97466,33 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:19943307@2026-10-02T13:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/V8KEfovJ8Emd1U7UwRaAFg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/council/districts/3/tiffany-koyama-lane/events/2026/10/2/age-friendly-town-hall-councilors-koyama",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-02T13:30:00-07:00",
+      "summary": "A conversation with Portland City Councilors about ways to make Portland a better place to age in community and thrive!",
+      "title": "Age-Friendly Town Hall with Councilors Koyama Lane and Dunphy",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -96651,6 +97553,34 @@
         "latitude": 45.54195,
         "longitude": -122.38984,
         "name": "Troutdale Farm Market"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:19943303@2026-10-02T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Oa6AAWrTSEqcgge3AAko5A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/bps/planning/inner-eastside-zoning-project/events/2026/10/2/inner-eastside-planning-park-grant-park",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-02T14:00:00-07:00",
+      "summary": "Live, work, or spend time in the Inner Eastside? Join us for a casual, drop-in event to learn about the Inner Eastside Zoning Project and to help shape the future of the neighborhood.",
+      "title": "Inner Eastside: Planning in the Park - Grant Park",
+      "venue": {
+        "address": "Close to NE 36th Street and NE Brazee Street",
+        "city": "Portland",
+        "latitude": 45.515197,
+        "longitude": -122.678367,
+        "name": "Grant Park Picnic Shelter"
       }
     },
     {
@@ -104062,37 +104992,6 @@
         "arts"
       ],
       "end_at": "2026-10-03T18:00:00-07:00",
-      "id": "willamette_week:19939647@2026-10-03T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.stephaniechefas.com/bobby-adams-galvanized",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-03T13:00:00-07:00",
-      "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
-      "title": "BOBBY ADAMS | GALVANIZED",
-      "venue": {
-        "address": "134 SE Taylor St., Suite 203",
-        "city": "Portland",
-        "latitude": 45.514925,
-        "longitude": -122.664131,
-        "name": "CHEFAS PROJECTS"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-03T18:00:00-07:00",
       "id": "willamette_week:19939715@2026-10-03T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
       "is_all_day": false,
@@ -104111,6 +105010,37 @@
       "start_at": "2026-10-03T13:00:00-07:00",
       "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
       "title": "DAN LAM | MERCURIAL",
+      "venue": {
+        "address": "134 SE Taylor St., Suite 203",
+        "city": "Portland",
+        "latitude": 45.514925,
+        "longitude": -122.664131,
+        "name": "CHEFAS PROJECTS"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-03T18:00:00-07:00",
+      "id": "willamette_week:19939647@2026-10-03T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.stephaniechefas.com/bobby-adams-galvanized",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-03T13:00:00-07:00",
+      "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
+      "title": "BOBBY ADAMS | GALVANIZED",
       "venue": {
         "address": "134 SE Taylor St., Suite 203",
         "city": "Portland",
@@ -106229,6 +107159,68 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Hawthorne Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-03T21:00:00-07:00",
+      "id": "willamette_week:19933655@2026-10-03T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/El-frEzFIUS0w2kF68C9eg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.wolvesandpeople.com/barandlivemusic",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-03T19:00:00-07:00",
+      "summary": "Local favorites Undead Ned at Wolves & People Bar and Music Hall! Undead Ned digs up the laid-back side of classic rock, playing sounds from the 60's, 70's, and 80's. Student specials on drinks, barbeque plates and mains! See you there!",
+      "title": "Live Music: Undead Ned",
+      "venue": {
+        "address": "107 N Meridian St.",
+        "city": "Newberg",
+        "latitude": 45.300642,
+        "longitude": -122.970742,
+        "name": "Wolves & People Bar and Music Hall"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-03T23:59:00-07:00",
+      "id": "willamette_week:19942244@2026-10-03T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XlnKGlyFQUSCE_O3Sfbaew.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.north45pub.com/events",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-03T19:00:00-07:00",
+      "summary": "Portland, OR — North 45 Pub is turning 20, and the Northwest Portland neighborhood staple is celebrating by going back to where it all began. On Saturday, October 3 at 7 p.m., North 45 invites longtime regulars, friends, neighbors, and new faces to raise a glass and throw it back to 2006 with an evening of music, food, drinks, and plenty of nostalgia. There is no cover charge. The anniversary celebration will feature a DJ spinning music inspired by 2006, along with a special menu bringing back one of North 45’s longtime favorites: mussels and frites in several of the “greatest hits,” variations. The dish will be paired with a selection of Belgian beers, offering guests a taste of the international influence that has always been part of North 45’s identity. For two decades, North 45 has been a gathering place for Northwest Portland. The space recently got a fresh look, but it remains a neighborhood pub where friends meet for a drink, fans gather for the big game, and countless memories are made. From first dates and first kisses to birthdays, reunions, celebrations, and everyday nights with friends, the pub has been part of the neighborhood fabric since opening its doors in 2006. “We wouldn’t be here for 20 years without the people who have walked through our doors,” said Josh Johnston. “This celebration is about thanking our patrons, friends, neighbors, and employees who have been part of the North 45 story.” Guests are invited to come ready to embrace the era, bring their favorite memories, and celebrate two decades of good food, drinks, music, and company. North 45 Pub’s 20th Anniversary Throwback to 2006 Saturday, October 3 7 p.m., No Cover DJ • Mussels & Frites • Belgian Beers • 20 Years of Memories North 45 Pub 517 NW 21st Ave. Portland, OR 97209 north45pub.com @north45bar",
+      "title": "North 45 Pub 20 Year Anniversary Party: Throwback to 2006",
+      "venue": {
+        "address": "517 NW 21st Ave. Portland, OR 97209",
+        "city": "Portland",
+        "latitude": 45.526646,
+        "longitude": -122.694634,
+        "name": "North 45 Pub"
       }
     },
     {
@@ -121728,6 +122720,35 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-07T12:45:00-07:00",
+      "id": "willamette_week:19942837@2026-10-07T11:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/njvdHyOSC0SibDjog_kRRg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://business.beaverton.org/calendar/Details/delegating-work-to-ai-1918632?sourceTypeId=Website",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T11:30:00-07:00",
+      "summary": "Description This session treats AI delegation as a management problem rather than a technical one. Attendees learn how to brief an AI the way they would brief a new hire: define the outcome instead of the procedure, set limits on scope and sources, and review the judgment calls behind the output rather than the output alone. The session also covers data security in practical terms: what company information can safely go into an AI, what should never go in, how the major vendors treat your data differently across free and paid accounts, and how to set a policy your team will actually follow. Finally, this session includes discussion and demonstrations as to how business owners and leaders can use AI to support various job functions and roles. AI helping employees work more efficiently",
+      "title": "Delegating Work to AI",
+      "venue": {
+        "address": "12600 SW Crescent Street Ste 160",
+        "city": "Beaverton",
+        "latitude": 45.490884,
+        "longitude": -122.807034,
+        "name": "Beaverton Area Chamber of Commerce"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-10-07T13:00:00-07:00",
@@ -121986,37 +123007,6 @@
         "arts"
       ],
       "end_at": "2026-10-07T18:00:00-07:00",
-      "id": "willamette_week:19939647@2026-10-07T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.stephaniechefas.com/bobby-adams-galvanized",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-07T13:00:00-07:00",
-      "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
-      "title": "BOBBY ADAMS | GALVANIZED",
-      "venue": {
-        "address": "134 SE Taylor St., Suite 203",
-        "city": "Portland",
-        "latitude": 45.514925,
-        "longitude": -122.664131,
-        "name": "CHEFAS PROJECTS"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-07T18:00:00-07:00",
       "id": "willamette_week:19939715@2026-10-07T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
       "is_all_day": false,
@@ -122035,6 +123025,37 @@
       "start_at": "2026-10-07T13:00:00-07:00",
       "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
       "title": "DAN LAM | MERCURIAL",
+      "venue": {
+        "address": "134 SE Taylor St., Suite 203",
+        "city": "Portland",
+        "latitude": 45.514925,
+        "longitude": -122.664131,
+        "name": "CHEFAS PROJECTS"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-07T18:00:00-07:00",
+      "id": "willamette_week:19939647@2026-10-07T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.stephaniechefas.com/bobby-adams-galvanized",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T13:00:00-07:00",
+      "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
+      "title": "BOBBY ADAMS | GALVANIZED",
       "venue": {
         "address": "134 SE Taylor St., Suite 203",
         "city": "Portland",
@@ -122885,6 +123906,35 @@
         "address": "3530 SE Division St, Portland, OR 97202",
         "city": "Portland",
         "name": "Tomorrow Theater"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-10-07T19:00:00-07:00",
+      "id": "willamette_week:19943303@2026-10-07T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Oa6AAWrTSEqcgge3AAko5A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/bps/planning/inner-eastside-zoning-project/events/2026/10/2/inner-eastside-planning-park-grant-park",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T18:00:00-07:00",
+      "summary": "Live, work, or spend time in the Inner Eastside? Join us for a casual, drop-in event to learn about the Inner Eastside Zoning Project and to help shape the future of the neighborhood.",
+      "title": "Inner Eastside: Planning in the Park - Grant Park",
+      "venue": {
+        "address": "Close to NE 36th Street and NE Brazee Street",
+        "city": "Portland",
+        "latitude": 45.515197,
+        "longitude": -122.678367,
+        "name": "Grant Park Picnic Shelter"
       }
     },
     {
@@ -125840,6 +126890,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-08T13:00:00-07:00",
+      "id": "willamette_week:19942838@2026-10-08T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/43414d19-fdc5-4511-9117-13cb494ef68d.large.png",
+      "is_all_day": false,
+      "listing_url": "https://business.beaverton.org/calendar/Details/bacc-collaboration-collective-1926456?sourceTypeId=Website",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T12:00:00-07:00",
+      "summary": "Description Join us for a fresh approach to networking! We all know the value of a good referral-but what if our conversations could do more? Come share what makes a great referral for you, and discover what others in the room are looking for as well. More importantly, bring your business challenges, roadblocks, and questions. You may be surprised to find that someone in the room has faced the same challenge-and discovered a solution that could help you, too. Bring your lunch \\(sack, takeout, or otherwise\\) and join us for an engaging conversation focused on real business challenges, practical solutions, and learning from one another. Come ready to share, connect, and leave with a few new ideas!",
+      "title": "BACC Collaboration Collective",
+      "venue": {
+        "address": "12600 SW Crescent Street Ste 160",
+        "city": "Beaverton",
+        "latitude": 45.490884,
+        "longitude": -122.807034,
+        "name": "Beaverton Area Chamber of Commerce"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-10-08T13:30:00-07:00",
@@ -126050,37 +127129,6 @@
         "arts"
       ],
       "end_at": "2026-10-08T18:00:00-07:00",
-      "id": "willamette_week:19939647@2026-10-08T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.stephaniechefas.com/bobby-adams-galvanized",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-08T13:00:00-07:00",
-      "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
-      "title": "BOBBY ADAMS | GALVANIZED",
-      "venue": {
-        "address": "134 SE Taylor St., Suite 203",
-        "city": "Portland",
-        "latitude": 45.514925,
-        "longitude": -122.664131,
-        "name": "CHEFAS PROJECTS"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-08T18:00:00-07:00",
       "id": "willamette_week:19939715@2026-10-08T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
       "is_all_day": false,
@@ -126099,6 +127147,37 @@
       "start_at": "2026-10-08T13:00:00-07:00",
       "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
       "title": "DAN LAM | MERCURIAL",
+      "venue": {
+        "address": "134 SE Taylor St., Suite 203",
+        "city": "Portland",
+        "latitude": 45.514925,
+        "longitude": -122.664131,
+        "name": "CHEFAS PROJECTS"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-08T18:00:00-07:00",
+      "id": "willamette_week:19939647@2026-10-08T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.stephaniechefas.com/bobby-adams-galvanized",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T13:00:00-07:00",
+      "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
+      "title": "BOBBY ADAMS | GALVANIZED",
       "venue": {
         "address": "134 SE Taylor St., Suite 203",
         "city": "Portland",
@@ -126916,6 +127995,34 @@
       "title": "Mahjong & Giving Back",
       "venue": {
         "name": "The Racquet Club"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "id": "willamette_week:19943309@2026-10-08T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mtNTSB0WIEalb62jYnwQ_w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/council/districts/4/mitch-green/events/2026/10/8/social-housing-model-healthy-resilient-and",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T17:00:00-07:00",
+      "summary": "Come hear from an expert panel on what it could mean for Portland",
+      "title": "Social Housing: A model for healthy, resilient and thriving communities",
+      "venue": {
+        "address": "1705 SE 3rd Ave",
+        "city": "Portland",
+        "latitude": 45.510602,
+        "longitude": -122.663368,
+        "name": "Bora Architecture & Interiors"
       }
     },
     {
@@ -131875,6 +132982,37 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "willamette_week:19933818@2026-10-09T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AvH2w50mQEGajZXxqEaxvQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://domainelumineux.com/visit-us/events/coppola-movie-nights/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 125.0,
+        "min": 100.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T18:00:00-07:00",
+      "summary": "For this Culinary Cut of Coppola Movie Night, join us for an intimate screening of Francis Ford Coppola’s Bram Stoker’s Dracula, accompanied by a multi-course menu served in sync with the film. Rich, dramatic and just a little macabre, the menu takes its cues from the world on screen, with crimson ingredients, darker flavors and unexpected pairings woven throughout the evening. As the story unfolds, so does the dinner, with each course timed to specific moments in the film for an immersive experience created specifically for Dracula. Coppola’s 1992 adaptation of Bram Stoker’s gothic classic is known for its striking practical effects, elaborate costumes, saturated color and theatrical style. It’s exactly the kind of film that calls for something more than popcorn. Each ticket includes the full multi-course menu prepared by our culinary partners, plus your first glass of Domaine Lumineux wine. Only 18 tickets available. We’re happy to accommodate most dietary needs with advance notice. Please share any allergies or dietary restrictions when booking. We’ll be in touch if we have any questions or if there’s anything we’re unable to accommodate.",
+      "ticket_url": "https://www.exploretock.com/domainelumineux/event/622449/coppola-movie-night-dracula-culinary-cut",
+      "title": "Dracula Coppola Movie Night: Culinary Cut",
+      "venue": {
+        "address": "115 N Washington St",
+        "city": "Newberg",
+        "latitude": 45.300908,
+        "longitude": -122.977396,
+        "name": "Domaine Lumineux"
       }
     },
     {
@@ -137469,6 +138607,37 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-10T17:00:00-07:00",
+      "id": "willamette_week:19933536@2026-10-10T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gAo996SEv0KwS552_KRb7g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.wolvesandpeople.com/barandlivemusic",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T12:00:00-07:00",
+      "summary": "Continue celebrating Oktoberfest with us! Wolves & People beer, bratwurst specials from Briar Ridge BBQ, and stein holding challenges for all.",
+      "title": "Oktoberfest Party - Beer & Brats!",
+      "venue": {
+        "address": "107 N Meridian St.",
+        "city": "Newberg",
+        "latitude": 45.300642,
+        "longitude": -122.970742,
+        "name": "Wolves & People Bar and Music Hall, Briar Ridge Barbeque"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-10-10T13:00:00-07:00",
@@ -137932,37 +139101,6 @@
         "arts"
       ],
       "end_at": "2026-10-10T18:00:00-07:00",
-      "id": "willamette_week:19939647@2026-10-10T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.stephaniechefas.com/bobby-adams-galvanized",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T13:00:00-07:00",
-      "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
-      "title": "BOBBY ADAMS | GALVANIZED",
-      "venue": {
-        "address": "134 SE Taylor St., Suite 203",
-        "city": "Portland",
-        "latitude": 45.514925,
-        "longitude": -122.664131,
-        "name": "CHEFAS PROJECTS"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-10T18:00:00-07:00",
       "id": "willamette_week:19939715@2026-10-10T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
       "is_all_day": false,
@@ -137981,6 +139119,37 @@
       "start_at": "2026-10-10T13:00:00-07:00",
       "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
       "title": "DAN LAM | MERCURIAL",
+      "venue": {
+        "address": "134 SE Taylor St., Suite 203",
+        "city": "Portland",
+        "latitude": 45.514925,
+        "longitude": -122.664131,
+        "name": "CHEFAS PROJECTS"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-10T18:00:00-07:00",
+      "id": "willamette_week:19939647@2026-10-10T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.stephaniechefas.com/bobby-adams-galvanized",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T13:00:00-07:00",
+      "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
+      "title": "BOBBY ADAMS | GALVANIZED",
       "venue": {
         "address": "134 SE Taylor St., Suite 203",
         "city": "Portland",
@@ -158366,37 +159535,6 @@
         "arts"
       ],
       "end_at": "2026-10-15T18:00:00-07:00",
-      "id": "willamette_week:19939715@2026-10-15T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.stephaniechefas.com/dan-lam-mercurial",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-15T13:00:00-07:00",
-      "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
-      "title": "DAN LAM | MERCURIAL",
-      "venue": {
-        "address": "134 SE Taylor St., Suite 203",
-        "city": "Portland",
-        "latitude": 45.514925,
-        "longitude": -122.664131,
-        "name": "CHEFAS PROJECTS"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-15T18:00:00-07:00",
       "id": "willamette_week:19939647@2026-10-15T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
       "is_all_day": false,
@@ -158415,6 +159553,37 @@
       "start_at": "2026-10-15T13:00:00-07:00",
       "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
       "title": "BOBBY ADAMS | GALVANIZED",
+      "venue": {
+        "address": "134 SE Taylor St., Suite 203",
+        "city": "Portland",
+        "latitude": 45.514925,
+        "longitude": -122.664131,
+        "name": "CHEFAS PROJECTS"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-15T18:00:00-07:00",
+      "id": "willamette_week:19939715@2026-10-15T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.stephaniechefas.com/dan-lam-mercurial",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-15T13:00:00-07:00",
+      "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
+      "title": "DAN LAM | MERCURIAL",
       "venue": {
         "address": "134 SE Taylor St., Suite 203",
         "city": "Portland",
@@ -159320,6 +160489,34 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-10-15T20:00:00-07:00",
+      "id": "willamette_week:19943342@2026-10-15T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2e0e8299-23ce-4db7-b413-87b88228110a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/fitcog/events/2026/10/15/fitcog-public-meeting-october-15-2026-600pm-800pm",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-15T18:00:00-07:00",
+      "summary": "Regularly scheduled FITCOG hybrid public meeting on 10/15/26, at 600PM - 800PM, at East Portland Community Center, 740 SE 106th, Multipurpose Room, Portland, OR",
+      "title": "FITCOG PUBLIC MEETING OCTOBER 15, 2026, 600PM TO 800PM",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
       }
     },
     {
@@ -160363,6 +161560,33 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Revolution Hall - Portland"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:19943230@2026-10-15T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d92339e8-0c72-43a6-b7ac-9db5c731d6b6.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/civic/myneighborhood/events/2026/10/15/south-tabor-neighborhood-association-meeting",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-15T19:00:00-07:00",
+      "summary": "South Tabor Neighborhood Association meets on the third Thursday of the month.",
+      "title": "South Tabor Neighborhood Association Meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
       }
     },
     {
@@ -164100,6 +165324,37 @@
       "title": "Ages and Ages",
       "venue": {
         "name": "Trout Lake Hall"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "willamette_week:19933869@2026-10-16T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SPS_gZW8cE-IfZVPuJ6QwQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://domainelumineux.com/visit-us/events/coppola-movie-nights/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T18:00:00-07:00",
+      "summary": "Settle in for an intimate evening of film and wine as Domaine Lumineux transforms into a theater, complete with a big screen, rich sound, freshly popped popcorn, and just 18 seats. Each Coppola Movie Night features a film with a connection to the Coppola family and its remarkable history in cinema. From films directed by Francis Ford Coppola to projects involving members of the extended Coppola family, and a personal holiday favorite, our lineup offers a chance to experience these films together on the big screen. UPCOMING SCREENINGS October 16 — Youth Without Youth November 13 — The Rainmaker November 20 — Priscilla December 18 — It’s a Wonderful Life Select your screening date when making your reservation. THE EVENING Each $25 ticket includes admission and freshly popped popcorn. Wine is available by the glass and bottle throughout the evening. Academy Wine Club members receive a complimentary glass of wine for up to four guests. Cheese and charcuterie boards are available to pre-order when booking, with a small selection of additional snacks available during the screening. PRIVATE SCREENINGS Want the theater to yourself or to screen something else? Ask us about reserving the screening room for your private group.",
+      "ticket_url": "https://www.exploretock.com/domainelumineux/event/622460/coppola-movie-nights",
+      "title": "Coppola Movie Nights at Domaine Lumineux",
+      "venue": {
+        "address": "115 N Washington St",
+        "city": "Newberg",
+        "latitude": 45.300908,
+        "longitude": -122.977396,
+        "name": "Domaine Lumineux"
       }
     },
     {
@@ -169898,37 +171153,6 @@
         "arts"
       ],
       "end_at": "2026-10-17T18:00:00-07:00",
-      "id": "willamette_week:19939715@2026-10-17T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.stephaniechefas.com/dan-lam-mercurial",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-17T13:00:00-07:00",
-      "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
-      "title": "DAN LAM | MERCURIAL",
-      "venue": {
-        "address": "134 SE Taylor St., Suite 203",
-        "city": "Portland",
-        "latitude": 45.514925,
-        "longitude": -122.664131,
-        "name": "CHEFAS PROJECTS"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-17T18:00:00-07:00",
       "id": "willamette_week:19939647@2026-10-17T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5NYfMwiU1kOYoSF_lLc4Qw.large.jpg",
       "is_all_day": false,
@@ -169947,6 +171171,37 @@
       "start_at": "2026-10-17T13:00:00-07:00",
       "summary": "Chefas Projects is pleased to present Galvanized, the first solo exhibition at the gallery by Portland artist Bobby Adams. On view September 18 through October 17, the exhibition brings together seven new gradient paintings that extend Adams’s ongoing investigation into color, movement, precision, and reduction. Working with hard edges and meticulously calibrated color transitions, Adams constructs paintings that appear at once exacting and elusive. Color becomes both subject and structure: gradients shift across the surface with a measured sense of movement, while simplified compositions heighten the perceptual effects of scale, saturation, and transition. The paintings inhabit a productive space between the mechanical and the handmade, where precision does not eliminate the presence of the artist but makes it more apparent. Adams’s approach is informed by a background outside of traditional art-making. Before turning to painting in 2017, he worked in product development and ran a clothing line for eight years. That experience with materials, systems, color, and visual identity remains embedded in his practice. His paintings share an affinity with the economy and immediacy of graphic design while resisting its fixedness; seemingly simple arrangements become dynamic through subtle shifts in color and proportion. The title Galvanized gestures toward a central tension within the work: the desire to achieve a polished, controlled image alongside the inevitable irregularities of its making. Adams’s paintings are rigorously constructed, but they are not anonymous. Their surfaces hold the evidence of decisions, adjustments, and the physical act of painting. Running through the exhibition is Adams’s longstanding relationship to NASCAR, a significant influence on his upbringing and visual sensibility. The sport’s saturated palettes, speed, spectacle, and graphic intensity provide an unexpected point of departure for paintings that are otherwise characterized by restraint. In California Poppy, this connection is particularly pronounced. Its color relationships carry the visual charge of racing culture while being distilled through Adams’s pared-down formal language. The result is a body of work in which speed is suggested rather than depicted, and where movement emerges from the most economical means. Adams takes visual cues associated with motion, competition, and spectacle and subjects them to the slower, more deliberate logic of abstraction. Galvanized marks an important step in Adams’s relationship with the gallery, following his inclusion in multiple group exhibitions and establishing a sustained presentation of his practice through a focused body of new work.",
       "title": "BOBBY ADAMS | GALVANIZED",
+      "venue": {
+        "address": "134 SE Taylor St., Suite 203",
+        "city": "Portland",
+        "latitude": 45.514925,
+        "longitude": -122.664131,
+        "name": "CHEFAS PROJECTS"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-17T18:00:00-07:00",
+      "id": "willamette_week:19939715@2026-10-17T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QTRU3JzGRka47P1X3bmJ9w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.stephaniechefas.com/dan-lam-mercurial",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-17T13:00:00-07:00",
+      "summary": "Chefas Projects is pleased to present Mercurial, a new solo exhibition by sculptural artist Dan Lam, on view September 18 through October 17, 2026. Bringing together more than twenty new works, the exhibition introduces a heightened metallic sensibility to Lam’s singular sculptural language, with surfaces that suggest chrome, liquid metal, and something less readily identifiable-objects caught somewhere between matter and mutation. Known for sculptures that occupy an uncanny space between the organic and the artificial, Lam approaches form as something fluid, seductive, and alive. In Mercurial, this sensibility takes on a distinctly reflective character. Metallic hues course across the surfaces of the works, emphasizing their bulbous contours, dripping edges, and seemingly unstable forms. Chrome-like finishes catch and distort their surroundings, allowing the sculptures to shift with changes in light, perspective, and proximity. The works appear to ooze, pool, drip, and swell. Their surfaces suggest viscosity while their forms remain resolutely sculptural, creating an intriguing contradiction between solidity and liquidity. They seem less like objects that have been made than organisms in the midst of becoming - alien, tactile, and strangely familiar. This tension is fundamental to Lam’s practice. Her sculptures consistently operate between opposing states: attraction and repulsion, organic and inanimate, soft and hard, seriousness and play. Rather than resolving these contradictions, Lam uses them as points of departure. The resulting forms possess an uncanny immediacy, inviting viewers to move closer even as their unfamiliarity introduces a note of hesitation. In Mercurial, the reflective surfaces intensify this exchange between object and viewer. The sculptures absorb fragments of their environments and return them altered, making the surrounding space part of the work. What initially reads as an autonomous object becomes something more relational-a form that changes depending on where it is encountered and how it is seen. Despite their otherworldly appearance, Lam’s sculptures remain remarkably approachable. Playfulness is central to their charge. The works resist the distance sometimes associated with contemporary sculpture, instead engaging the viewer through color, surface, scale, and a visceral sense of recognition. They are strange without being alienating; experimental without abandoning the pleasures of looking. The title Mercurial evokes both the mutable nature of the works and their affinity with mercury: a substance defined by its fluidity, reflectivity, and ability to transform its appearance in relation to its surroundings. Here, Lam translates those qualities into sculptural form. Her objects appear perpetually in motion, suspended between states, as though their final form has not yet been decided. Across more than twenty new sculptures, Mercurial expands Lam’s investigation of the space between the familiar and the unknown. The works activate the imagination through an intuitive visual language - one based not on representation but on sensation. Their exaggerated forms, seductive surfaces, and ambiguous materiality encourage viewers to project, imagine, and participate. In Lam’s hands, sculpture becomes less a fixed thing than an encounter: part organism, part object, part fantasy. Mercurial embraces that instability, presenting a body of work that is at once polished and unruly, seductive and strange, playful and profound.",
+      "title": "DAN LAM | MERCURIAL",
       "venue": {
         "address": "134 SE Taylor St., Suite 203",
         "city": "Portland",
@@ -198804,5 +200059,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-17T21:20:38+00:00"
+  "generated_at": "2026-09-17T21:31:00+00:00"
 }
