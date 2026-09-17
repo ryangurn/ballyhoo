@@ -3089,6 +3089,14 @@
       "venue": "Star Theater"
     },
     {
+      "dropped": "willamette_week:18297706@2026-09-27T19:00",
+      "kept": "dopdx:17853720",
+      "start_at": "2026-09-27T19:00:00-07:00",
+      "title_dropped": "Paint Fight PDX",
+      "title_kept": "Paint Fight!",
+      "venue": "High Water Mark Lounge"
+    },
+    {
       "dropped": "dopdx:17465264",
       "kept": "ticketmaster:Z7r9jZ1A7PfZe",
       "start_at": "2026-09-27T19:30:00-07:00",
@@ -3663,6 +3671,14 @@
       "title_dropped": "Portland Spirit Brews Cruise",
       "title_kept": "Brews Cruise",
       "venue": "Salmon Springs Dock"
+    },
+    {
+      "dropped": "willamette_week:19757942@2026-10-01T18:00",
+      "kept": "dopdx:17852755",
+      "start_at": "2026-10-01T18:00:00-07:00",
+      "title_dropped": "Wine Dinner Featuring Val Di Suga Vineyards",
+      "title_kept": "Wine Dinner Featuring Val Di Suga Vineyards",
+      "venue": "Nicoletta's Table and Marketplace"
     },
     {
       "dropped": "willamette_week:19307218@2026-10-01T18:30",
@@ -4559,6 +4575,14 @@
       "title_dropped": "Wider Circles Collective's October Breathwork & Reiki Energy Healing",
       "title_kept": "Wider Circles Collective's October Breathwork & Reiki Energy Healing",
       "venue": "SomaSpace"
+    },
+    {
+      "dropped": "willamette_week:18877583@2026-10-04T10:00",
+      "kept": "dopdx:17852764",
+      "start_at": "2026-10-04T10:00:00-07:00",
+      "title_dropped": "Herbal Medicines of Fall",
+      "title_kept": "Herbal Medicines of Fall",
+      "venue": "Wild Cascara Farm"
     },
     {
       "dropped": "willamette_week:19872783@2026-10-04T11:00",
@@ -5977,6 +6001,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:17670892@2026-10-11T09:00",
+      "kept": "pdxparent_markets:hillsdale-farmers-market@2026-10-11",
+      "start_at": "2026-10-11T09:00:00-07:00",
+      "title_dropped": "Hillsdale Farmers' Market",
+      "title_kept": "Hillsdale Farmers Market",
+      "venue": "Hillsdale Farmers Market"
+    },
+    {
       "dropped": "willamette_week:18877584@2026-10-11T10:00",
       "kept": "dopdx:17768647",
       "start_at": "2026-10-11T10:00:00-07:00",
@@ -6231,6 +6263,14 @@
       "title_dropped": "Ottmar Liebert and Luna Negra",
       "title_kept": "Ottmar Liebert and Luna Negra",
       "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "dopdx:17853415",
+      "kept": "ticketmaster:rZ7HnEZ1AfG0oV",
+      "start_at": "2026-10-12T19:00:00-07:00",
+      "title_dropped": "UAU 2026 FANCON [Playlist #Your Youth] in Portland",
+      "title_kept": "UAU 2026 FANCON [Playlist #Your Youth] in Portland",
+      "venue": "Star Theater"
     },
     {
       "dropped": "willamette_week:18916787@2026-10-12T20:00",
@@ -6583,6 +6623,14 @@
       "title_dropped": "Roast Battle Portland",
       "title_kept": "Roast Battle Portland",
       "venue": "Funhouse Lounge"
+    },
+    {
+      "dropped": "willamette_week:19686008@2026-10-16T08:00",
+      "kept": "dopdx:17852754",
+      "start_at": "2026-10-16T08:00:00-07:00",
+      "title_dropped": "Housing Land Advocates Annual Conference - 2026",
+      "title_kept": "Housing Land Advocates Annual Conference - 2026",
+      "venue": "Smith Memorial Student Union"
     },
     {
       "dropped": "willamette_week:19801682@2026-10-16T18:30",
@@ -6977,14 +7025,6 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
-      "dropped": "willamette_week:17670892@2026-10-11T09:00",
-      "kept": "pdxparent_markets:hillsdale-farmers-market@2026-10-11",
-      "start_at": "2026-10-11T09:00:00-07:00",
-      "title_dropped": "Hillsdale Farmers' Market",
-      "title_kept": "Hillsdale Farmers Market",
-      "venue": "Hillsdale Farmers Market"
-    },
-    {
       "dropped": "willamette_week:18893389@2026-09-19T23:30",
       "kept": "ticketmaster:rZ7HnEZ1Afv3PV",
       "start_at": "2026-09-19T23:30:00-07:00",
@@ -7049,9 +7089,9 @@
       "venue": "Newmark Theatre"
     }
   ],
-  "event_count": 6623,
-  "floor_check": "6623 events against a 6623-event baseline",
-  "generated_at": "2026-09-17T17:19:12+00:00",
+  "event_count": 6644,
+  "floor_check": "6644 events against a 6623-event baseline",
+  "generated_at": "2026-09-17T17:46:03+00:00",
   "problems": [],
   "sources": [
     "calagator",
