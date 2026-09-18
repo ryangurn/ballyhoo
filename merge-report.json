@@ -1441,6 +1441,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:19951250@2026-09-20T21:00",
+      "kept": "dopdx:17847264",
+      "start_at": "2026-09-20T21:00:00-07:00",
+      "title_dropped": "Church of Hive",
+      "title_kept": "Church of Hive",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "willamette_week:19469867@2026-09-20T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPs_K",
       "start_at": "2026-09-20T21:00:00-07:00",
@@ -7137,9 +7145,9 @@
       "venue": "McMenamins Mission Theater"
     }
   ],
-  "event_count": 6631,
-  "floor_check": "6631 events against a 6625-event baseline",
-  "generated_at": "2026-09-18T19:14:23+00:00",
+  "event_count": 6650,
+  "floor_check": "6650 events against a 6625-event baseline",
+  "generated_at": "2026-09-18T19:42:46+00:00",
   "problems": [],
   "sources": [
     "calagator",
