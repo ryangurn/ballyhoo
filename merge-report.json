@@ -1057,6 +1057,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19945740@2026-09-19T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfGbFV",
+      "start_at": "2026-09-19T20:00:00-07:00",
+      "title_dropped": "TWIRL - MELT",
+      "title_kept": "TWIRL - MELT",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:19029323@2026-09-19T20:00",
       "kept": "ticketmaster:Z7r9jZ1A70zZv",
       "start_at": "2026-09-19T20:00:00-07:00",
@@ -7137,9 +7145,9 @@
       "venue": "McMenamins Mission Theater"
     }
   ],
-  "event_count": 6625,
-  "floor_check": "6625 events against a 6688-event baseline",
-  "generated_at": "2026-09-18T05:18:17+00:00",
+  "event_count": 6627,
+  "floor_check": "6627 events against a 6688-event baseline",
+  "generated_at": "2026-09-18T06:00:49+00:00",
   "problems": [],
   "sources": [
     "calagator",

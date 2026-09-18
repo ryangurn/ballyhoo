@@ -18254,6 +18254,10 @@
       "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketweb.com/event/twirl-melt-star-theater-tickets/14318234",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -75831,6 +75835,34 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-09-29T20:15:00-07:00",
+      "id": "willamette_week:19745985@2026-09-29T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aa8848af-1ae8-4aca-881b-15003a190986.large.png",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-29T18:00:00-07:00",
+      "title": "Classes Week 3",
+      "venue": {
+        "address": "9810 NE 76th St",
+        "city": "Vancouver",
+        "latitude": 45.678146,
+        "longitude": -122.572136,
+        "name": "Crosspointe Baptist Church"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-09-29T19:30:00-07:00",
       "id": "willamette_week:18607081@2026-09-29T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_Q1ig9Cn9UyNuuecCyauIA.large.png",
@@ -75912,34 +75944,6 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-09-29T20:15:00-07:00",
-      "id": "willamette_week:19745985@2026-09-29T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aa8848af-1ae8-4aca-881b-15003a190986.large.png",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-29T18:00:00-07:00",
-      "title": "Classes Week 3",
-      "venue": {
-        "address": "9810 NE 76th St",
-        "city": "Vancouver",
-        "latitude": 45.678146,
-        "longitude": -122.572136,
-        "name": "Crosspointe Baptist Church"
       }
     },
     {
@@ -78901,6 +78905,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-30T15:15:00-07:00",
+      "id": "willamette_week:19808221@2026-09-30T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/867e9caa-190a-48e7-8e66-b0107b84d157.large.png",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-30T13:00:00-07:00",
+      "title": "Classes Week 3",
+      "venue": {
+        "address": "801 NE 194th St",
+        "city": "Ridgefield",
+        "latitude": 45.761108,
+        "longitude": -122.663506,
+        "name": "Footprints Church"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-30T18:00:00-07:00",
@@ -78988,34 +79020,6 @@
         "latitude": 45.5283737183,
         "longitude": -122.6631393433,
         "name": "Oregon Convention Center"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-09-30T15:15:00-07:00",
-      "id": "willamette_week:19808221@2026-09-30T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/867e9caa-190a-48e7-8e66-b0107b84d157.large.png",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-30T13:00:00-07:00",
-      "title": "Classes Week 3",
-      "venue": {
-        "address": "801 NE 194th St",
-        "city": "Ridgefield",
-        "latitude": 45.761108,
-        "longitude": -122.663506,
-        "name": "Footprints Church"
       }
     },
     {
@@ -80189,6 +80193,34 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-09-30T20:15:00-07:00",
+      "id": "willamette_week:19808221@2026-09-30T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/867e9caa-190a-48e7-8e66-b0107b84d157.large.png",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-30T18:00:00-07:00",
+      "title": "Classes Week 3",
+      "venue": {
+        "address": "801 NE 194th St",
+        "city": "Ridgefield",
+        "latitude": 45.761108,
+        "longitude": -122.663506,
+        "name": "Footprints Church"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-09-30T21:00:00-07:00",
       "id": "willamette_week:18146620@2026-09-30T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
@@ -80241,34 +80273,6 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-09-30T20:15:00-07:00",
-      "id": "willamette_week:19808221@2026-09-30T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/867e9caa-190a-48e7-8e66-b0107b84d157.large.png",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-30T18:00:00-07:00",
-      "title": "Classes Week 3",
-      "venue": {
-        "address": "801 NE 194th St",
-        "city": "Ridgefield",
-        "latitude": 45.761108,
-        "longitude": -122.663506,
-        "name": "Footprints Church"
       }
     },
     {
@@ -106312,6 +106316,38 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "end_at": "2026-10-04T20:00:00-07:00",
+      "id": "willamette_week:19946034@2026-10-04T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/43ydfvXrfEWpV7Sek9THlw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.premiseinstitute.com/event-details/are-we-who-weve-always-been-9",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 150.0,
+        "min": 100.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-04T18:00:00-07:00",
+      "summary": "Are We Who We’ve Always Been? Join a Premise Pod in Portland for three guided conversations with the same small group, built around one big life question. Connect with new people, step away from the algorithms, and make space for a more human experience of thinking together. Readings are provided after registration. No prior expertise is needed. Three sessions, 1 group, deep, guided conversation. Oct. 5, 18.25 from 6-8PM Not in Portland? The same session is also offered online: https://www.premiseinstitute.com/event-details/are-we-who-weve-always-been-9 Use promo code POD20 for 20% off.",
+      "ticket_url": "https://www.premiseinstitute.com/event-details/are-we-who-weve-always-been-9",
+      "title": "Are we who we've always been? A Premise conversation (three part series)",
+      "venue": {
+        "address": "722 N Page",
+        "city": "Portland",
+        "latitude": 45.53949,
+        "longitude": -122.674362,
+        "name": "Premise In Portland"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-04T22:00:00-07:00",
@@ -112243,6 +112279,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-06T20:15:00-07:00",
+      "id": "willamette_week:19745986@2026-10-06T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CDAaDrjct6UiUWaoUv8zESQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-06T18:00:00-07:00",
+      "title": "Classes Week 4",
+      "venue": {
+        "address": "9810 NE 76th St",
+        "city": "Vancouver",
+        "latitude": 45.678146,
+        "longitude": -122.572136,
+        "name": "Crosspointe Baptist Church"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-10-06T19:30:00-07:00",
@@ -112326,34 +112390,6 @@
         "latitude": 45.490504558338586,
         "longitude": -122.58224808281963,
         "name": "Holgate Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-06T20:15:00-07:00",
-      "id": "willamette_week:19745986@2026-10-06T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CDAaDrjct6UiUWaoUv8zESQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-06T18:00:00-07:00",
-      "title": "Classes Week 4",
-      "venue": {
-        "address": "9810 NE 76th St",
-        "city": "Vancouver",
-        "latitude": 45.678146,
-        "longitude": -122.572136,
-        "name": "Crosspointe Baptist Church"
       }
     },
     {
@@ -115604,6 +115640,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-07T15:15:00-07:00",
+      "id": "willamette_week:19808222@2026-10-07T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aa8848af-1ae8-4aca-881b-15003a190986.large.png",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T13:00:00-07:00",
+      "title": "Classes Week 4",
+      "venue": {
+        "address": "801 NE 194th St",
+        "city": "Ridgefield",
+        "latitude": 45.761108,
+        "longitude": -122.663506,
+        "name": "Footprints Church"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-07T18:00:00-07:00",
@@ -115691,34 +115755,6 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-07T15:15:00-07:00",
-      "id": "willamette_week:19808222@2026-10-07T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aa8848af-1ae8-4aca-881b-15003a190986.large.png",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-07T13:00:00-07:00",
-      "title": "Classes Week 4",
-      "venue": {
-        "address": "801 NE 194th St",
-        "city": "Ridgefield",
-        "latitude": 45.761108,
-        "longitude": -122.663506,
-        "name": "Footprints Church"
       }
     },
     {
@@ -116512,6 +116548,34 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-10-07T20:15:00-07:00",
+      "id": "willamette_week:19808222@2026-10-07T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aa8848af-1ae8-4aca-881b-15003a190986.large.png",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T18:00:00-07:00",
+      "title": "Classes Week 4",
+      "venue": {
+        "address": "801 NE 194th St",
+        "city": "Ridgefield",
+        "latitude": 45.761108,
+        "longitude": -122.663506,
+        "name": "Footprints Church"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-10-07T21:00:00-07:00",
       "id": "willamette_week:18146620@2026-10-07T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
@@ -116593,34 +116657,6 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-07T20:15:00-07:00",
-      "id": "willamette_week:19808222@2026-10-07T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aa8848af-1ae8-4aca-881b-15003a190986.large.png",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-07T18:00:00-07:00",
-      "title": "Classes Week 4",
-      "venue": {
-        "address": "801 NE 194th St",
-        "city": "Ridgefield",
-        "latitude": 45.761108,
-        "longitude": -122.663506,
-        "name": "Footprints Church"
       }
     },
     {
@@ -120599,34 +120635,6 @@
     },
     {
       "categories": [
-        "wellness"
-      ],
-      "id": "willamette_week:19943309@2026-10-08T17:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mtNTSB0WIEalb62jYnwQ_w.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.portland.gov/council/districts/4/mitch-green/events/2026/10/8/social-housing-model-healthy-resilient-and",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-08T17:00:00-07:00",
-      "summary": "Come hear from an expert panel on what it could mean for Portland",
-      "title": "Social Housing: A model for healthy, resilient and thriving communities",
-      "venue": {
-        "address": "1705 SE 3rd Ave",
-        "city": "Portland",
-        "latitude": 45.510602,
-        "longitude": -122.663368,
-        "name": "Bora Architecture & Interiors"
-      }
-    },
-    {
-      "categories": [
         "film"
       ],
       "end_at": "2026-10-08T21:00:00-07:00",
@@ -120655,6 +120663,34 @@
         "latitude": 45.437542,
         "longitude": -122.730288,
         "name": "Performing Arts Center - PCC Sylvania"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "id": "willamette_week:19943309@2026-10-08T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mtNTSB0WIEalb62jYnwQ_w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/council/districts/4/mitch-green/events/2026/10/8/social-housing-model-healthy-resilient-and",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T17:00:00-07:00",
+      "summary": "Come hear from an expert panel on what it could mean for Portland",
+      "title": "Social Housing: A model for healthy, resilient and thriving communities",
+      "venue": {
+        "address": "1705 SE 3rd Ave",
+        "city": "Portland",
+        "latitude": 45.510602,
+        "longitude": -122.663368,
+        "name": "Bora Architecture & Interiors"
       }
     },
     {
@@ -131207,6 +131243,38 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-10T14:00:00-07:00",
+      "id": "willamette_week:18892694@2026-10-10T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/k_gDbY9v50iql4LkYOxorg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.lakeoswegofilmfestival.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 50.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T12:00:00-07:00",
+      "summary": "The Lake Oswego Film Festival is a new event that brings the community together over the shared love of cinema. Through the festival, film screenings, guest speaker programs, and the awards gala, the film festival will bring the community, audiences, and filmmakers together to form lasting connections while celebrating the best new films from around the world. The Lake Oswego Film Festival continues to build on Lake Oswego as an exciting hub of art and culture. The movie screenings will showcase films from around the world that have been carefully curated by an international panel of judges, while the awards gala will provide a fun evening of community coming together to celebrate a mutual love for the cinematic arts.",
+      "ticket_url": "https://www.zeffy.com/en-US/ticketing/film-screenings-and-award-gala",
+      "title": "Lake Oswego Film Festival 2026",
+      "venue": {
+        "address": "12000 SW 49th Ave",
+        "city": "Portland",
+        "latitude": 45.437542,
+        "longitude": -122.730288,
+        "name": "Performing Arts Center - PCC Sylvania"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-10T17:00:00-07:00",
@@ -131263,38 +131331,6 @@
         "latitude": 45.5192273855,
         "longitude": -122.6826296747,
         "name": "Multnomah County Central Library"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-10-10T14:00:00-07:00",
-      "id": "willamette_week:18892694@2026-10-10T12:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/k_gDbY9v50iql4LkYOxorg.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.lakeoswegofilmfestival.com",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 50.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T12:00:00-07:00",
-      "summary": "The Lake Oswego Film Festival is a new event that brings the community together over the shared love of cinema. Through the festival, film screenings, guest speaker programs, and the awards gala, the film festival will bring the community, audiences, and filmmakers together to form lasting connections while celebrating the best new films from around the world. The Lake Oswego Film Festival continues to build on Lake Oswego as an exciting hub of art and culture. The movie screenings will showcase films from around the world that have been carefully curated by an international panel of judges, while the awards gala will provide a fun evening of community coming together to celebrate a mutual love for the cinematic arts.",
-      "ticket_url": "https://www.zeffy.com/en-US/ticketing/film-screenings-and-award-gala",
-      "title": "Lake Oswego Film Festival 2026",
-      "venue": {
-        "address": "12000 SW 49th Ave",
-        "city": "Portland",
-        "latitude": 45.437542,
-        "longitude": -122.730288,
-        "name": "Performing Arts Center - PCC Sylvania"
       }
     },
     {
@@ -142628,6 +142664,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-12T20:15:00-07:00",
+      "id": "willamette_week:19745987@2026-10-12T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c78057ba-b40c-484a-a845-22ab8e251692.large.png",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-12T18:00:00-07:00",
+      "title": "Classes Week 5",
+      "venue": {
+        "address": "9810 NE 76th St",
+        "city": "Vancouver",
+        "latitude": 45.678146,
+        "longitude": -122.572136,
+        "name": "Crosspointe Baptist Church"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-10-12T21:00:00-07:00",
@@ -142653,34 +142717,6 @@
         "latitude": 45.3047,
         "longitude": -122.96835,
         "name": "Bauman Auditorium"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-12T20:15:00-07:00",
-      "id": "willamette_week:19745987@2026-10-12T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c78057ba-b40c-484a-a845-22ab8e251692.large.png",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-12T18:00:00-07:00",
-      "title": "Classes Week 5",
-      "venue": {
-        "address": "9810 NE 76th St",
-        "city": "Vancouver",
-        "latitude": 45.678146,
-        "longitude": -122.572136,
-        "name": "Crosspointe Baptist Church"
       }
     },
     {
@@ -145623,6 +145659,34 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-10-13T20:15:00-07:00",
+      "id": "willamette_week:19745987@2026-10-13T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c78057ba-b40c-484a-a845-22ab8e251692.large.png",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-13T18:00:00-07:00",
+      "title": "Classes Week 5",
+      "venue": {
+        "address": "9810 NE 76th St",
+        "city": "Vancouver",
+        "latitude": 45.678146,
+        "longitude": -122.572136,
+        "name": "Crosspointe Baptist Church"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-10-13T19:30:00-07:00",
       "id": "willamette_week:18607079@2026-10-13T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M3Zr95edvEOwzAmLdWGcOA.large.png",
@@ -145732,34 +145796,6 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "Portland"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-13T20:15:00-07:00",
-      "id": "willamette_week:19745987@2026-10-13T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c78057ba-b40c-484a-a845-22ab8e251692.large.png",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-13T18:00:00-07:00",
-      "title": "Classes Week 5",
-      "venue": {
-        "address": "9810 NE 76th St",
-        "city": "Vancouver",
-        "latitude": 45.678146,
-        "longitude": -122.572136,
-        "name": "Crosspointe Baptist Church"
       }
     },
     {
@@ -148552,6 +148588,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-14T15:15:00-07:00",
+      "id": "willamette_week:19808223@2026-10-14T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3ec99019-e179-4bb6-adfe-fc646425c79f.large.png",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-14T13:00:00-07:00",
+      "title": "Classes Week 5",
+      "venue": {
+        "address": "801 NE 194th St",
+        "city": "Ridgefield",
+        "latitude": 45.761108,
+        "longitude": -122.663506,
+        "name": "Footprints Church"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-14T18:00:00-07:00",
@@ -148610,34 +148674,6 @@
         "latitude": 45.514925,
         "longitude": -122.664131,
         "name": "CHEFAS PROJECTS"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-14T15:15:00-07:00",
-      "id": "willamette_week:19808223@2026-10-14T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3ec99019-e179-4bb6-adfe-fc646425c79f.large.png",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-14T13:00:00-07:00",
-      "title": "Classes Week 5",
-      "venue": {
-        "address": "801 NE 194th St",
-        "city": "Ridgefield",
-        "latitude": 45.761108,
-        "longitude": -122.663506,
-        "name": "Footprints Church"
       }
     },
     {
@@ -149193,6 +149229,34 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-10-14T20:15:00-07:00",
+      "id": "willamette_week:19808223@2026-10-14T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3ec99019-e179-4bb6-adfe-fc646425c79f.large.png",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-14T18:00:00-07:00",
+      "title": "Classes Week 5",
+      "venue": {
+        "address": "801 NE 194th St",
+        "city": "Ridgefield",
+        "latitude": 45.761108,
+        "longitude": -122.663506,
+        "name": "Footprints Church"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-10-14T21:00:00-07:00",
       "id": "willamette_week:18146620@2026-10-14T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
@@ -149247,34 +149311,6 @@
         "latitude": 45.502218,
         "longitude": -122.60709,
         "name": "Franklin High School"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-14T20:15:00-07:00",
-      "id": "willamette_week:19808223@2026-10-14T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3ec99019-e179-4bb6-adfe-fc646425c79f.large.png",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-14T18:00:00-07:00",
-      "title": "Classes Week 5",
-      "venue": {
-        "address": "801 NE 194th St",
-        "city": "Ridgefield",
-        "latitude": 45.761108,
-        "longitude": -122.663506,
-        "name": "Footprints Church"
       }
     },
     {
@@ -171525,6 +171561,38 @@
         "latitude": 45.5624656677,
         "longitude": -122.6772155762,
         "name": "Saraveza"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "end_at": "2026-10-18T20:00:00-07:00",
+      "id": "willamette_week:19946034@2026-10-18T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/43ydfvXrfEWpV7Sek9THlw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.premiseinstitute.com/event-details/are-we-who-weve-always-been-9",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 150.0,
+        "min": 100.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-18T18:00:00-07:00",
+      "summary": "Are We Who We’ve Always Been? Join a Premise Pod in Portland for three guided conversations with the same small group, built around one big life question. Connect with new people, step away from the algorithms, and make space for a more human experience of thinking together. Readings are provided after registration. No prior expertise is needed. Three sessions, 1 group, deep, guided conversation. Oct. 5, 18.25 from 6-8PM Not in Portland? The same session is also offered online: https://www.premiseinstitute.com/event-details/are-we-who-weve-always-been-9 Use promo code POD20 for 20% off.",
+      "ticket_url": "https://www.premiseinstitute.com/event-details/are-we-who-weve-always-been-9",
+      "title": "Are we who we've always been? A Premise conversation (three part series)",
+      "venue": {
+        "address": "722 N Page",
+        "city": "Portland",
+        "latitude": 45.53949,
+        "longitude": -122.674362,
+        "name": "Premise In Portland"
       }
     },
     {
@@ -196976,5 +197044,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-18T05:18:17+00:00"
+  "generated_at": "2026-09-18T06:00:49+00:00"
 }
