@@ -18160,43 +18160,6 @@
       "categories": [
         "music"
       ],
-      "end_at": "2026-09-20T02:00:00-07:00",
-      "id": "ticketmaster:Z7r9jZ1A7xfFk",
-      "image_url": "https://s1.ticketm.net/dam/a/3ac/d5ca2c8b-6833-416d-8256-d0b0b6e603ac_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xfFk",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "LIVE NATION MUSIC",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 77.8,
-        "min": 77.8
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-19T20:00:00-07:00",
-      "summary": "Eight-time Grammy-winner Beck has traveled light years from his emergence as a reluctant generational spokesperson when “Loser” exploded from a rejected 1992 demo into a ubiquitous 1994 smash. In the decades since, Beck's singular career has seen him utilize all manners and eras of music, blurring boundaries and blazing a path into the future while simultaneously foraging through the past. Surfacing just as the mainstream and alternative rock intersected, no small thanks to his 1994 debut Mellow Gold, Beck quickly confounded expectations with subsequent releases including the lo-fi folk of One Foot in the Grave. But the album that first cemented Beck’s place in the pantheon was 1996’s multi-platinum Best Alternative Grammy winner Odelay. Ode",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xfFk",
-      "title": "Beck",
-      "venue": {
-        "address": "222 SW Clay St",
-        "city": "Portland",
-        "latitude": 45.497799,
-        "longitude": -122.693703,
-        "name": "Keller Auditorium"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "id": "ticketmaster:rZ7HnEZ1AfF8b7",
       "image_url": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -66896,6 +66859,36 @@
       "venue": {
         "address": "616 NW 21st Ave, Portland, Oregon 97209",
         "name": "Cinema 21 Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfGYFV",
+      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/in-color-star-theater-tickets/14330234",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-09-27T13:30:00-07:00",
+      "ticket_url": "https://www.ticketweb.com/event/in-color-star-theater-tickets/14330234",
+      "title": "IN COLOR",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
       }
     },
     {
@@ -127502,34 +127495,32 @@
         "music"
       ],
       "end_at": "2026-10-10T02:00:00-07:00",
-      "id": "ticketmaster:rZ7HnEZ1AfG0Cf",
-      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "dopdx:17620968",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1784320399/event-17620968.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/ovoid-asher-fulero-jack-london-revue-tickets/14324394",
+      "listing_url": "https://dopdx.com/events/2026/10/9/luis-j-gomez-tickets",
       "merged_sources": [
         "dopdx",
-        "ticketmaster"
+        "willamette_week"
       ],
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 21.09,
-        "min": 21.09
+        "max": 237.39,
+        "min": 31.39
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
       },
       "start_at": "2026-10-09T20:00:00-07:00",
-      "summary": "OVOID, Ashler Fulero Worlds: LiveSoul'd Out Presents : OVOID, Asher Fulero Worlds: Live Doors: 7:00pm Show: 8:00pm Ages 21+. Notes on Seating: Open seating, may be limited or standing room only. First come, first seated. Open dance floor may obscure sightlines.",
-      "ticket_url": "https://www.ticketweb.com/event/ovoid-asher-fulero-jack-london-revue-tickets/14324394",
-      "title": "OVOID & Asher Fulero - Worlds: Live",
+      "summary": "Luis J GomezLUIS J GOMEZ @ JACK LONDON REVUE.Doors: 7:00pmShow: 8:00pmAges 21+.Luis J. Gomez is a New York-based comedian and podcast host known for his bold, unapologetic humor. Hes the co-host of the wildly popular Legion of Skanks podcast, where he and his fellow comedians dive into unfiltered, often controversial conversations. Luis also hosts The Regz, and Story Warz where he brings his dynamic energy, sharp wit, and comedic flair to a range of topics. With a loyal fanbase and a strong presence in both comedy and podcasting, a night with Luis J Gomez is always a great time.---JLR Seating Map Notes: For this show, you may reserve individual tables on the map pictured. Note that some tables have limited sightlines as noted. General Admiss",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fluis-j-gomez-jack-london-revue-tickets%252F14252634%26utm_medium%3daffiliate",
+      "title": "Luis J Gomez",
       "venue": {
-        "address": "529 SW 4th Ave.",
+        "address": "529 SW 4th Ave",
         "city": "Portland",
-        "latitude": 45.519452,
-        "longitude": -122.676291,
         "name": "Jack London Revue"
       }
     },
@@ -180060,6 +180051,35 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:Z7r9jZ1AAvseo",
+      "image_url": "https://s1.ticketm.net/dam/a/ac1/e85e5dcb-7c13-403a-90a8-a32cfff1cac1_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvseo",
+      "organizer": "LIVE NATION MUSIC",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-08T20:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvseo",
+      "title": "Syd: Beard Tour",
+      "venue": {
+        "address": "8 NW 6th Avenue",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A70zog",
       "image_url": "https://s1.ticketm.net/dam/a/f3f/60b51953-3814-4d47-be0e-6724bc570f3f_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -180110,6 +180130,37 @@
         "latitude": 45.543999,
         "longitude": -122.643501,
         "name": "Wonder Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfGYA7",
+      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/tyler-hilton-showdown-saloon-tickets/14330144",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 102.41,
+        "min": 35.46
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-08T20:30:00-08:00",
+      "summary": "General Admission doors at 8 PM VIP Meet & Greet Doors at 7 PM Soundcheck Party + Meet & Greet w/ Tyler Hilton ⁃ Earliest venue access ⁃ Earliest access to merchandise ⁃ Attend soundcheck & an intimate hang w/ Tyler ⁃ A pre-show op with Tyler (taken by our designated tour photographer) ⁃ Soundcheck VIP group photo uploaded to Tyler's Instagram",
+      "ticket_url": "https://www.ticketweb.com/event/tyler-hilton-showdown-saloon-tickets/14330144",
+      "title": "Tyler Hilton",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -180387,6 +180438,35 @@
         "latitude": 45.53118896,
         "longitude": -122.66645813,
         "name": "Moda Center"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1A7xfFk",
+      "image_url": "https://s1.ticketm.net/dam/a/3ac/d5ca2c8b-6833-416d-8256-d0b0b6e603ac_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xfFk",
+      "organizer": "LIVE NATION MUSIC",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-10T20:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xfFk",
+      "title": "Beck",
+      "venue": {
+        "address": "222 SW Clay St",
+        "city": "Portland",
+        "latitude": 45.497799,
+        "longitude": -122.693703,
+        "name": "Keller Auditorium"
       }
     },
     {
@@ -180780,6 +180860,34 @@
         "latitude": 45.519452,
         "longitude": -122.676291,
         "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AAvtFo",
+      "image_url": "https://s1.ticketm.net/dam/a/6e5/8623a3d5-a590-4f02-8243-8d04c19966e5_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvtFo",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-12T19:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvtFo",
+      "title": "Fred Armisen",
+      "venue": {
+        "address": "1111 S.W. Broadway",
+        "city": "Portland",
+        "latitude": 45.497799,
+        "longitude": -122.693703,
+        "name": "Newmark Theatre"
       }
     },
     {
@@ -194174,6 +194282,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AAvt48",
+      "image_url": "https://s1.ticketm.net/dam/a/0f3/1a6bf720-a01b-4cb5-9225-e4f07b5bb0f3_1684911_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvt48",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-03-04T20:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvt48",
+      "title": "Alan Walker",
+      "venue": {
+        "address": "1332  West Burnside St",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "McMenamins Crystal Ballroom"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_CkN_IqQ",
@@ -195807,6 +195943,34 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:Z7r9jZ1AAvtG0",
+      "image_url": "https://s1.ticketm.net/dam/a/4f2/8794fc89-53b5-4fd5-80cb-aac4e60ca4f2_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvtG0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-04-22T20:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvtG0",
+      "title": "The Warning w/ Wilt",
+      "venue": {
+        "address": "8 NW 6th Avenue",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7JArA",
       "image_url": "https://s1.ticketm.net/dam/c/f7b/ef64d601-8740-43cd-86ea-ed9b392e4f7b_105961_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -196996,5 +197160,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-18T18:21:49+00:00"
+  "generated_at": "2026-09-18T18:26:36+00:00"
 }
