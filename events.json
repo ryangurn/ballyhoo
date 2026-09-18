@@ -1729,6 +1729,33 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-09-18T13:00:00-07:00",
+      "id": "willamette_week:19397792@2026-09-18T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.large.png",
+      "is_all_day": false,
+      "listing_url": "https://events.timely.fun/aujhzpy9/event/78405352/20260918110000",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-18T11:00:00-07:00",
+      "title": "Volleyball @Clark College",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-18T16:00:00-07:00",
@@ -1748,33 +1775,6 @@
       "start_at": "2026-09-18T11:00:00-07:00",
       "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
       "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-09-18T13:00:00-07:00",
-      "id": "willamette_week:19397792@2026-09-18T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.large.png",
-      "is_all_day": false,
-      "listing_url": "https://events.timely.fun/aujhzpy9/event/78405352/20260918110000",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-18T11:00:00-07:00",
-      "title": "Volleyball @Clark College",
       "venue": {
         "city": "Vancouver",
         "latitude": 45.63873,
@@ -197039,5 +197039,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-18T11:07:33+00:00"
+  "generated_at": "2026-09-18T11:23:53+00:00"
 }
