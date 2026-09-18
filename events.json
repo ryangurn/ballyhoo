@@ -188,44 +188,6 @@
     },
     {
       "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:free-parking-day-metro-parks-2026-09-17",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/free-parking-day-metro-parks-2026-09-17",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-09-17T07:00:00-07:00",
-      "title": "Free parking day at Metro parks"
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:committee-racial-equity-meeting-2026-09-17",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/committee-racial-equity-meeting-2026-09-17",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-09-17T17:30:00-07:00",
-      "title": "Committee on Racial Equity meeting"
-    },
-    {
-      "categories": [
         "community"
       ],
       "id": "willamette_week:19942835@2026-09-18T00:00",
@@ -129658,6 +129620,31 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:household-hazardous-waste-neighborhood-collection-event-2026-10-10",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/household-hazardous-waste-neighborhood-collection-event-2026-10-10",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-10T09:00:00-07:00",
+      "title": "Household hazardous waste neighborhood collection event",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.54845,
+        "longitude": -122.88789,
+        "name": "Epson"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -130159,6 +130146,29 @@
         "latitude": 45.53635,
         "longitude": -122.61756,
         "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:salmon-days-2026-10-10",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/salmon-days-2026-10-10",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-10T10:00:00-07:00",
+      "title": "Salmon Days",
+      "venue": {
+        "city": "Portland",
+        "name": "Chinook Landing Marine Park"
       }
     },
     {
@@ -197695,5 +197705,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-18T19:42:46+00:00"
+  "generated_at": "2026-09-18T19:47:00+00:00"
 }
