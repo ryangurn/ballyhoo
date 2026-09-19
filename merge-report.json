@@ -217,6 +217,14 @@
       "venue": "RedTail Golf Center"
     },
     {
+      "dropped": "willamette_week:18783421@2026-10-07T18:30",
+      "kept": "dopdx:17304600",
+      "start_at": "2026-10-07T18:30:00-07:00",
+      "title_dropped": "Masters of Hawaiian Music with George Kahumoku, Jr, Led Kaapana and Jeff Peterson",
+      "title_kept": "Masters of Hawaiian Music with George Kahumoku, Jr, Led Kaapana and Jeff Peterson",
+      "venue": "The Alberta Rose Theatre"
+    },
+    {
       "dropped": "dopdx:17286130",
       "kept": "ticketmaster:Z7r9jZ1A7Jd46",
       "start_at": "2026-10-08T17:30:00-07:00",
@@ -4769,14 +4777,6 @@
       "venue": "University Club of Portland"
     },
     {
-      "dropped": "willamette_week:18783421@2026-10-07T18:30",
-      "kept": "dopdx:17304600",
-      "start_at": "2026-10-07T18:30:00-07:00",
-      "title_dropped": "Masters of Hawaiian Music with George Kahumoku, Jr, Led Kaapana and Jeff Peterson",
-      "title_kept": "Masters of Hawaiian Music with George Kahumoku, Jr, Led Kaapana and Jeff Peterson",
-      "venue": "The Alberta Rose Theatre"
-    },
-    {
       "dropped": "willamette_week:19579471@2026-10-07T19:00",
       "kept": "dopdx:17690387",
       "start_at": "2026-10-07T19:00:00-07:00",
@@ -7153,9 +7153,9 @@
       "venue": "McMenamins Mission Theater"
     }
   ],
-  "event_count": 6685,
-  "floor_check": "6685 events against a 6631-event baseline",
-  "generated_at": "2026-09-18T22:49:21+00:00",
+  "event_count": 6686,
+  "floor_check": "6686 events against a 6640-event baseline",
+  "generated_at": "2026-09-19T00:13:57+00:00",
   "problems": [],
   "sources": [
     "calagator",
