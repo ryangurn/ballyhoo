@@ -39991,6 +39991,35 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-14T02:00:00-07:00",
+      "id": "dopdx:17865444",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1789852243/event-17865444.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/13/burlynomicon-a-darkly-decadent-burlesque-revue-october-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-13T19:00:00-07:00",
+      "summary": "Join us for the last Burlynomicon of 2026 with an extra special showcase of talent and lore on Tuesday, OCTOBER 13 in the cozy depths of The Coffin Crypt! NOW WITH MORE SEATING OPTIONS! Check out our brand new seating chart where you get to choose your own (seating) adventure! Table prices reflect the amount of seats held at each one. Tables will not be for sale at the door, so grab yours now! We will gather in the glorious confines of The Coffin Crypt to witness a spectacular showing of the best darkly decadent performance art amongst resplendently eerie surroundings, where you can also peruse the delightful wares of our vendor, delight in delicious cocktails, indulge in food to nourish your weary soul, and encounter a magical being that",
+      "title": "Burlynomicon - A Darkly Decadent Burlesque Revue - OCTOBER",
+      "venue": {
+        "address": "421 SE Grand Ave",
+        "city": "Portland",
+        "name": "The Coffin"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-10-14T02:00:00-07:00",
@@ -48224,7 +48253,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-19T20:57:02+00:00",
+  "generated_at": "2026-09-19T23:27:43+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
