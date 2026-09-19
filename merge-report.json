@@ -5801,6 +5801,14 @@
       "venue": "Holocene"
     },
     {
+      "dropped": "willamette_week:19957142@2026-10-13T19:00",
+      "kept": "dopdx:17865444",
+      "start_at": "2026-10-13T19:00:00-07:00",
+      "title_dropped": "Burlynomicon - A Darkly Decadent Burlesque Revue - OCTOBER",
+      "title_kept": "Burlynomicon - A Darkly Decadent Burlesque Revue - OCTOBER",
+      "venue": "The Coffin"
+    },
+    {
       "dropped": "willamette_week:19736089@2026-10-13T19:30",
       "kept": "dopdx:17457415",
       "start_at": "2026-10-13T19:30:00-07:00",
@@ -7219,7 +7227,7 @@
   ],
   "event_count": 6614,
   "floor_check": "6614 events against a 6520-event baseline",
-  "generated_at": "2026-09-19T23:27:39+00:00",
+  "generated_at": "2026-09-19T23:32:22+00:00",
   "problems": [],
   "sources": [
     "calagator",
