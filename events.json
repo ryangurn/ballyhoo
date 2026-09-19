@@ -160652,6 +160652,35 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-17T22:00:00-07:00",
+      "id": "willamette_week:19045508@2026-10-17T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MMiNCwum7keTATFmEw5mTw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1621471762889921/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-17T19:30:00-07:00",
+      "summary": "Join us for more family-friendly laughs this fall at Magenta. Tickets $10 at magenta.ludus.com",
+      "title": "Magenta Improv Theater",
+      "venue": {
+        "address": "1108 Main St",
+        "city": "Vancouver",
+        "latitude": 45.629983,
+        "longitude": -122.672035,
+        "name": "Magenta Theater Magenta Theater"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-17T21:30:00-07:00",
@@ -160680,35 +160709,6 @@
         "latitude": 45.5227202922,
         "longitude": -122.6577441394,
         "name": "Imago Theatre"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-17T22:00:00-07:00",
-      "id": "willamette_week:19045508@2026-10-17T19:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MMiNCwum7keTATFmEw5mTw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1621471762889921/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-17T19:30:00-07:00",
-      "summary": "Join us for more family-friendly laughs this fall at Magenta. Tickets $10 at magenta.ludus.com",
-      "title": "Magenta Improv Theater",
-      "venue": {
-        "address": "1108 Main St",
-        "city": "Vancouver",
-        "latitude": 45.629983,
-        "longitude": -122.672035,
-        "name": "Magenta Theater Magenta Theater"
       }
     },
     {
@@ -193811,5 +193811,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-19T18:00:27+00:00"
+  "generated_at": "2026-09-19T18:06:12+00:00"
 }
