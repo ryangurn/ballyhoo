@@ -5177,6 +5177,22 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "dopdx:17370471",
+      "kept": "ticketmaster:rZ7HnEZ1Af04aS",
+      "start_at": "2026-10-10T19:30:00-07:00",
+      "title_dropped": "In Her Own Words & Every Avenue with Felicity",
+      "title_kept": "IN HER OWN WORDS & EVERY AVENUE with Felicity & Old Cross",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19449661@2026-10-10T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af04aS",
+      "start_at": "2026-10-10T19:30:00-07:00",
+      "title_dropped": "IN HER OWN WORDS & EVERY AVENUE with Felicity",
+      "title_kept": "IN HER OWN WORDS & EVERY AVENUE with Felicity & Old Cross",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "dopdx:16608173",
       "kept": "ticketmaster:vvG1HZbgMYlMpZ",
       "start_at": "2026-10-10T20:00:00-07:00",
@@ -5207,22 +5223,6 @@
       "title_dropped": "Boy Harsher",
       "title_kept": "Boy Harsher",
       "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "dopdx:17370471",
-      "kept": "ticketmaster:rZ7HnEZ1Af04aS",
-      "start_at": "2026-10-10T20:00:00-07:00",
-      "title_dropped": "In Her Own Words & Every Avenue with Felicity",
-      "title_kept": "IN HER OWN WORDS & EVERY AVENUE with Felicity",
-      "venue": "Dante's"
-    },
-    {
-      "dropped": "willamette_week:19449661@2026-10-10T20:00",
-      "kept": "dopdx:17370471",
-      "start_at": "2026-10-10T20:00:00-07:00",
-      "title_dropped": "IN HER OWN WORDS & EVERY AVENUE with Felicity",
-      "title_kept": "In Her Own Words & Every Avenue with Felicity",
-      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19570875@2026-10-10T20:00",
@@ -6201,6 +6201,14 @@
       "venue": "Funhouse Lounge"
     },
     {
+      "dropped": "dopdx:17339147",
+      "kept": "ticketmaster:rZ7HnEZ1Af03pK",
+      "start_at": "2026-10-16T23:55:00-07:00",
+      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19225591@2026-10-16T23:55",
       "kept": "dopdx:17339147",
       "start_at": "2026-10-16T23:55:00-07:00",
@@ -6953,9 +6961,9 @@
       "venue": "Arlene Schnitzer Concert Hall"
     }
   ],
-  "event_count": 6519,
-  "floor_check": "6519 events against a 6555-event baseline",
-  "generated_at": "2026-09-19T10:52:20+00:00",
+  "event_count": 6518,
+  "floor_check": "6518 events against a 6529-event baseline",
+  "generated_at": "2026-09-19T10:54:52+00:00",
   "problems": [],
   "sources": [
     "calagator",
