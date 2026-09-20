@@ -1,14 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:19787116@2026-09-19T10:00",
-      "kept": "dopdx:17720419",
-      "start_at": "2026-09-19T10:00:00-07:00",
-      "title_dropped": "POUND & FLOW: An Outdoor Workout for EveryBody!",
-      "title_kept": "POUND & FLOW: An Outdoor Workout for EveryBody!",
-      "venue": "Graham Oaks Nature Park"
-    },
-    {
       "dropped": "willamette_week:19726896@2026-09-20T13:00",
       "kept": "portland_farmers_market:airshow@2026-09-20",
       "start_at": "2026-09-20T13:00:00-07:00",
@@ -287,6 +279,14 @@
       "title_dropped": "4word: Portland Wine Event September 19 (CGP1001)",
       "title_kept": "4word: Portland Wine Event",
       "venue": "Well & Good Cafe"
+    },
+    {
+      "dropped": "willamette_week:19787116@2026-09-19T10:00",
+      "kept": "dopdx:17720419",
+      "start_at": "2026-09-19T10:00:00-07:00",
+      "title_dropped": "POUND & FLOW: An Outdoor Workout for EveryBody!",
+      "title_kept": "POUND & FLOW: An Outdoor Workout for EveryBody!",
+      "venue": "Graham Oaks Nature Park"
     },
     {
       "dropped": "willamette_week:19235373@2026-09-19T11:00",
@@ -7225,9 +7225,9 @@
       "venue": "Arlene Schnitzer Concert Hall"
     }
   ],
-  "event_count": 6614,
-  "floor_check": "6614 events against a 6554-event baseline",
-  "generated_at": "2026-09-19T23:38:21+00:00",
+  "event_count": 6612,
+  "floor_check": "6612 events against a 6588-event baseline",
+  "generated_at": "2026-09-20T01:01:17+00:00",
   "problems": [],
   "sources": [
     "calagator",
