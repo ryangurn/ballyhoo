@@ -20783,6 +20783,36 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-09-23T21:00:00-07:00",
+      "id": "willamette_week:19960085@2026-09-23T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YTC8iVYnn0WOTrHVNXrcgg.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-23T19:30:00-07:00",
+      "summary": "The Three Lisas are BACK for an explosive new season of the Real Housewives of Salt Lake City! Lisa Barlow impressionist Rachael Ivy Young and queen of Glam Squad Lisa Boehm host weekly interactive watch parties that even include BINGO with prizes, as well as a portion of every card sold to a different charity each month! Together with Bravo fans, we've raised thousands of dollars for charities like Trans Lifeline and PIRC! Join us every week at Living Room Wines, get there early to grab a seat! xoxoThree Lisas",
+      "title": "RHOSLC Watch Party & Interactive BINGO",
+      "venue": {
+        "address": "4818 N Lombard St",
+        "city": "Portland",
+        "latitude": 45.580316,
+        "longitude": -122.71872,
+        "name": "Living Room Wine"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "end_at": "2026-09-23T23:30:00-07:00",
@@ -29601,6 +29631,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-25T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-09-25T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-25T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-09-25T11:30:00-07:00",
@@ -29626,34 +29684,6 @@
         "latitude": 45.582817572658264,
         "longitude": -122.68645335011975,
         "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-09-25T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-09-25T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-25T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -37399,6 +37429,35 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-09-26T12:00:00-07:00",
+      "id": "willamette_week:19031977@2026-09-26T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4tC5qTFz5k65JHLUuyFvdg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://scld.libcal.com/event/16788843",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-26T10:00:00-07:00",
+      "summary": "Ages 5\\+ & their families Imagine and build with LEGO! Keep your engineering and problem-solving skills sharp using the library's abundance of LEGO bricks",
+      "title": "LEGO Free Play",
+      "venue": {
+        "address": "22324 E Wellesley Ave",
+        "city": "Orchards",
+        "latitude": 45.6888,
+        "longitude": -122.53026,
+        "name": "Otis Orchards"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-26T14:00:00-07:00",
@@ -37426,35 +37485,6 @@
         "latitude": 45.543365,
         "longitude": -123.133367,
         "name": "Tuality Plains Outpost"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-09-26T12:00:00-07:00",
-      "id": "willamette_week:19031977@2026-09-26T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4tC5qTFz5k65JHLUuyFvdg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://scld.libcal.com/event/16788843",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-26T10:00:00-07:00",
-      "summary": "Ages 5\\+ & their families Imagine and build with LEGO! Keep your engineering and problem-solving skills sharp using the library's abundance of LEGO bricks",
-      "title": "LEGO Free Play",
-      "venue": {
-        "address": "22324 E Wellesley Ave",
-        "city": "Orchards",
-        "latitude": 45.6888,
-        "longitude": -122.53026,
-        "name": "Otis Orchards"
       }
     },
     {
@@ -63488,6 +63518,36 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-09-30T21:00:00-07:00",
+      "id": "willamette_week:19960085@2026-09-30T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YTC8iVYnn0WOTrHVNXrcgg.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-30T19:30:00-07:00",
+      "summary": "The Three Lisas are BACK for an explosive new season of the Real Housewives of Salt Lake City! Lisa Barlow impressionist Rachael Ivy Young and queen of Glam Squad Lisa Boehm host weekly interactive watch parties that even include BINGO with prizes, as well as a portion of every card sold to a different charity each month! Together with Bravo fans, we've raised thousands of dollars for charities like Trans Lifeline and PIRC! Join us every week at Living Room Wines, get there early to grab a seat! xoxoThree Lisas",
+      "title": "RHOSLC Watch Party & Interactive BINGO",
+      "venue": {
+        "address": "4818 N Lombard St",
+        "city": "Portland",
+        "latitude": 45.580316,
+        "longitude": -122.71872,
+        "name": "Living Room Wine"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-01T02:00:00-07:00",
@@ -71725,6 +71785,34 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-10-02T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-10-02T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-02T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-10-02T12:30:00-07:00",
       "id": "willamette_week:18616662@2026-10-02T11:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mRUoffKKLEWkUVMmygQ1-Q.large.png",
@@ -71748,34 +71836,6 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-02T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-10-02T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-02T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -78352,35 +78412,6 @@
     },
     {
       "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-10-03T11:00:00-07:00",
-      "id": "willamette_week:18401087@2026-10-03T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1hOcMtwruUSjU_CjhUfH8w.large.png",
-      "is_all_day": false,
-      "listing_url": "https://theallison.com/event/vineyard-walk/2026-10-03/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-03T10:00:00-07:00",
-      "summary": "Discover the story of The Allison’s estate vineyard and Austin Knoll Pinot Noir. Offered Saturdays at 10 a.m., April through October, this complimentary experience is led by our concierge, Andy Burke, who guides guests on a leisurely walk through our on-site vineyard. Along the way, learn about the legacy of Austin Knoll wines, taste two vintages of Austin Knoll Pinot Noir vintages to experience the evolution of each harvest, and hear the story of Willamette Valley pinot noir’s rise on the international stage. This intimate, 30-minute experience is available to hotel guests and in-house groups, with space limited to 14 participants. RSVP to secure your spot.",
-      "title": "Vineyard Walk",
-      "venue": {
-        "address": "2525 Allison Ln",
-        "city": "Newberg",
-        "latitude": 45.319767,
-        "longitude": -122.946365,
-        "name": "The Allison Inn & Spa"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-10-03T12:00:00-07:00",
@@ -78406,6 +78437,35 @@
         "latitude": 45.6888,
         "longitude": -122.53026,
         "name": "Otis Orchards"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-10-03T11:00:00-07:00",
+      "id": "willamette_week:18401087@2026-10-03T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1hOcMtwruUSjU_CjhUfH8w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://theallison.com/event/vineyard-walk/2026-10-03/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-03T10:00:00-07:00",
+      "summary": "Discover the story of The Allison’s estate vineyard and Austin Knoll Pinot Noir. Offered Saturdays at 10 a.m., April through October, this complimentary experience is led by our concierge, Andy Burke, who guides guests on a leisurely walk through our on-site vineyard. Along the way, learn about the legacy of Austin Knoll wines, taste two vintages of Austin Knoll Pinot Noir vintages to experience the evolution of each harvest, and hear the story of Willamette Valley pinot noir’s rise on the international stage. This intimate, 30-minute experience is available to hotel guests and in-house groups, with space limited to 14 participants. RSVP to secure your spot.",
+      "title": "Vineyard Walk",
+      "venue": {
+        "address": "2525 Allison Ln",
+        "city": "Newberg",
+        "latitude": 45.319767,
+        "longitude": -122.946365,
+        "name": "The Allison Inn & Spa"
       }
     },
     {
@@ -98688,6 +98748,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-07T15:15:00-07:00",
+      "id": "willamette_week:19808222@2026-10-07T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aa8848af-1ae8-4aca-881b-15003a190986.large.png",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T13:00:00-07:00",
+      "title": "Classes Week 4",
+      "venue": {
+        "address": "801 NE 194th St",
+        "city": "Ridgefield",
+        "latitude": 45.761108,
+        "longitude": -122.663506,
+        "name": "Footprints Church"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "end_at": "2026-10-07T16:00:00-07:00",
@@ -98713,34 +98801,6 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-07T15:15:00-07:00",
-      "id": "willamette_week:19808222@2026-10-07T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aa8848af-1ae8-4aca-881b-15003a190986.large.png",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-07T13:00:00-07:00",
-      "title": "Classes Week 4",
-      "venue": {
-        "address": "801 NE 194th St",
-        "city": "Ridgefield",
-        "latitude": 45.761108,
-        "longitude": -122.663506,
-        "name": "Footprints Church"
       }
     },
     {
@@ -100871,6 +100931,36 @@
         "address": "12725 SW Millikan Way #240,",
         "city": "Beaverton",
         "name": "Patricia Reser Center for the Arts"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-10-07T21:00:00-07:00",
+      "id": "willamette_week:19960085@2026-10-07T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YTC8iVYnn0WOTrHVNXrcgg.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T19:30:00-07:00",
+      "summary": "The Three Lisas are BACK for an explosive new season of the Real Housewives of Salt Lake City! Lisa Barlow impressionist Rachael Ivy Young and queen of Glam Squad Lisa Boehm host weekly interactive watch parties that even include BINGO with prizes, as well as a portion of every card sold to a different charity each month! Together with Bravo fans, we've raised thousands of dollars for charities like Trans Lifeline and PIRC! Join us every week at Living Room Wines, get there early to grab a seat! xoxoThree Lisas",
+      "title": "RHOSLC Watch Party & Interactive BINGO",
+      "venue": {
+        "address": "4818 N Lombard St",
+        "city": "Portland",
+        "latitude": 45.580316,
+        "longitude": -122.71872,
+        "name": "Living Room Wine"
       }
     },
     {
@@ -107405,6 +107495,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-09T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-10-09T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-09T12:00:00-07:00",
@@ -107488,34 +107606,6 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-09T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-10-09T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-09T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -127283,35 +127373,6 @@
     },
     {
       "categories": [
-        "film"
-      ],
-      "end_at": "2026-10-12T21:00:00-07:00",
-      "id": "willamette_week:19331116@2026-10-12T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wQFXAxM7oUyxu3JfXtCiaQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://cstpdx.com/event/malpertuis/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-12T19:00:00-07:00",
-      "summary": "From Belgian filmmaker Harry Kümel \\(Daughters of Darkness\\) comes this ultimate phantasmagorical Euro nightmare with equal parts surrealism, Greek mythology and gothic intrigue. A young sailor returns to his childhood port only to be abducted into the eerie mansion of Malpertuis, ruled by his dying occultist uncle Cassavius \\(Orson Welles\\). All of Malpertuis’ inhabitants are waiting for Cassavius to die and the opportunity to inherit his vast fortune. But Cassavius wishes anyone who inherits to stay there forever! This one-of-a-kind tale is a Russian doll of fantastic ideas with stunning photography by Gerry Fisher and scored by Georges Delerue. Screened in Dutch and French with English subtitles. Director: Harry Kümel Country: Belgium, France, West Germany Year: 1971 Runtime: 125 minutes",
-      "title": "Malpertuis",
-      "venue": {
-        "address": "2522 SE Clinton St",
-        "city": "Portland",
-        "latitude": 45.5033352971,
-        "longitude": -122.640119344,
-        "name": "Clinton Street Theater"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "end_at": "2026-10-12T22:07:00-07:00",
@@ -127337,6 +127398,35 @@
         "latitude": 45.637555,
         "longitude": -122.67183,
         "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-12T21:00:00-07:00",
+      "id": "willamette_week:19331116@2026-10-12T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wQFXAxM7oUyxu3JfXtCiaQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://cstpdx.com/event/malpertuis/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-12T19:00:00-07:00",
+      "summary": "From Belgian filmmaker Harry Kümel \\(Daughters of Darkness\\) comes this ultimate phantasmagorical Euro nightmare with equal parts surrealism, Greek mythology and gothic intrigue. A young sailor returns to his childhood port only to be abducted into the eerie mansion of Malpertuis, ruled by his dying occultist uncle Cassavius \\(Orson Welles\\). All of Malpertuis’ inhabitants are waiting for Cassavius to die and the opportunity to inherit his vast fortune. But Cassavius wishes anyone who inherits to stay there forever! This one-of-a-kind tale is a Russian doll of fantastic ideas with stunning photography by Gerry Fisher and scored by Georges Delerue. Screened in Dutch and French with English subtitles. Director: Harry Kümel Country: Belgium, France, West Germany Year: 1971 Runtime: 125 minutes",
+      "title": "Malpertuis",
+      "venue": {
+        "address": "2522 SE Clinton St",
+        "city": "Portland",
+        "latitude": 45.5033352971,
+        "longitude": -122.640119344,
+        "name": "Clinton Street Theater"
       }
     },
     {
@@ -132938,6 +133028,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-14T15:15:00-07:00",
+      "id": "willamette_week:19808223@2026-10-14T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3ec99019-e179-4bb6-adfe-fc646425c79f.large.png",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-14T13:00:00-07:00",
+      "title": "Classes Week 5",
+      "venue": {
+        "address": "801 NE 194th St",
+        "city": "Ridgefield",
+        "latitude": 45.761108,
+        "longitude": -122.663506,
+        "name": "Footprints Church"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-14T15:00:00-07:00",
@@ -132963,34 +133081,6 @@
         "latitude": 45.490504558338586,
         "longitude": -122.58224808281963,
         "name": "Holgate Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-14T15:15:00-07:00",
-      "id": "willamette_week:19808223@2026-10-14T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3ec99019-e179-4bb6-adfe-fc646425c79f.large.png",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-14T13:00:00-07:00",
-      "title": "Classes Week 5",
-      "venue": {
-        "address": "801 NE 194th St",
-        "city": "Ridgefield",
-        "latitude": 45.761108,
-        "longitude": -122.663506,
-        "name": "Footprints Church"
       }
     },
     {
@@ -133610,6 +133700,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-14T20:15:00-07:00",
+      "id": "willamette_week:19808223@2026-10-14T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3ec99019-e179-4bb6-adfe-fc646425c79f.large.png",
+      "is_all_day": false,
+      "listing_url": "https://journeytheater.org/event-calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-14T18:00:00-07:00",
+      "title": "Classes Week 5",
+      "venue": {
+        "address": "801 NE 194th St",
+        "city": "Ridgefield",
+        "latitude": 45.761108,
+        "longitude": -122.663506,
+        "name": "Footprints Church"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-14T19:30:00-07:00",
@@ -133635,34 +133753,6 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-14T20:15:00-07:00",
-      "id": "willamette_week:19808223@2026-10-14T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3ec99019-e179-4bb6-adfe-fc646425c79f.large.png",
-      "is_all_day": false,
-      "listing_url": "https://journeytheater.org/event-calendar/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-14T18:00:00-07:00",
-      "title": "Classes Week 5",
-      "venue": {
-        "address": "801 NE 194th St",
-        "city": "Ridgefield",
-        "latitude": 45.761108,
-        "longitude": -122.663506,
-        "name": "Footprints Church"
       }
     },
     {
@@ -134768,6 +134858,36 @@
         "address": "2600 NE Sandy Blvd.",
         "city": "Portland",
         "name": "Singacoustic"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-10-14T21:00:00-07:00",
+      "id": "willamette_week:19960085@2026-10-14T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YTC8iVYnn0WOTrHVNXrcgg.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-14T19:30:00-07:00",
+      "summary": "The Three Lisas are BACK for an explosive new season of the Real Housewives of Salt Lake City! Lisa Barlow impressionist Rachael Ivy Young and queen of Glam Squad Lisa Boehm host weekly interactive watch parties that even include BINGO with prizes, as well as a portion of every card sold to a different charity each month! Together with Bravo fans, we've raised thousands of dollars for charities like Trans Lifeline and PIRC! Join us every week at Living Room Wines, get there early to grab a seat! xoxoThree Lisas",
+      "title": "RHOSLC Watch Party & Interactive BINGO",
+      "venue": {
+        "address": "4818 N Lombard St",
+        "city": "Portland",
+        "latitude": 45.580316,
+        "longitude": -122.71872,
+        "name": "Living Room Wine"
       }
     },
     {
@@ -152058,6 +152178,35 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-17T22:00:00-07:00",
+      "id": "willamette_week:19045508@2026-10-17T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MMiNCwum7keTATFmEw5mTw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1621471762889921/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-17T19:30:00-07:00",
+      "summary": "Join us for more family-friendly laughs this fall at Magenta. Tickets $10 at magenta.ludus.com",
+      "title": "Magenta Improv Theater",
+      "venue": {
+        "address": "1108 Main St",
+        "city": "Vancouver",
+        "latitude": 45.629983,
+        "longitude": -122.672035,
+        "name": "Magenta Theater Magenta Theater"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-17T21:30:00-07:00",
@@ -152116,35 +152265,6 @@
         "latitude": 45.5227202922,
         "longitude": -122.6577441394,
         "name": "Imago Theatre"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-17T22:00:00-07:00",
-      "id": "willamette_week:19045508@2026-10-17T19:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MMiNCwum7keTATFmEw5mTw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1621471762889921/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-17T19:30:00-07:00",
-      "summary": "Join us for more family-friendly laughs this fall at Magenta. Tickets $10 at magenta.ludus.com",
-      "title": "Magenta Improv Theater",
-      "venue": {
-        "address": "1108 Main St",
-        "city": "Vancouver",
-        "latitude": 45.629983,
-        "longitude": -122.672035,
-        "name": "Magenta Theater Magenta Theater"
       }
     },
     {
@@ -160623,34 +160743,6 @@
       "categories": [
         "community"
       ],
-      "id": "willamette_week:19504941@2026-10-19T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.oregoncc.org/attend/events/2026/10/portland-national-college-fair-2026",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-19T19:00:00-07:00",
-      "summary": "Free and open to the public, National College Fairs are the perfect place to begin or continue your college search. No matter where you are in the college search process, NACAC College Fairs have something for you! Choose from our in-personorvirtual college fairs to make connections with hundreds of institutions - all in one place!",
-      "title": "Portland National College Fair 2026",
-      "venue": {
-        "address": "777 NE Martin Luther King, Jr Blvd",
-        "city": "Portland",
-        "latitude": 45.5283737183,
-        "longitude": -122.6631393433,
-        "name": "Oregon Convention Center"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
       "end_at": "2026-10-19T22:07:00-07:00",
       "id": "willamette_week:17539493@2026-10-19T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RbIERhd0J06FhNVq8IQGUw.large.png",
@@ -160674,6 +160766,34 @@
         "latitude": 45.637555,
         "longitude": -122.67183,
         "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19504941@2026-10-19T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.oregoncc.org/attend/events/2026/10/portland-national-college-fair-2026",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-19T19:00:00-07:00",
+      "summary": "Free and open to the public, National College Fairs are the perfect place to begin or continue your college search. No matter where you are in the college search process, NACAC College Fairs have something for you! Choose from our in-personorvirtual college fairs to make connections with hundreds of institutions - all in one place!",
+      "title": "Portland National College Fair 2026",
+      "venue": {
+        "address": "777 NE Martin Luther King, Jr Blvd",
+        "city": "Portland",
+        "latitude": 45.5283737183,
+        "longitude": -122.6631393433,
+        "name": "Oregon Convention Center"
       }
     },
     {
@@ -188160,5 +188280,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-20T06:13:20+00:00"
+  "generated_at": "2026-09-20T06:23:05+00:00"
 }
