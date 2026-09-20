@@ -6359,34 +6359,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "id": "ticketmaster:LvZ18QPL987ofF96dPFgJ",
-      "image_url": "https://s1.ticketm.net/dam/a/75d/9663323b-4297-4d0d-b179-747d7ba7075d_1135651_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.universe.com/events/ilani-wine-food-fest-presents-vintage-elite-cru-tickets-LMCSNZ?ref=ticketmaster",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-19T16:00:00-07:00",
-      "ticket_url": "https://www.universe.com/events/ilani-wine-food-fest-presents-vintage-elite-cru-tickets-LMCSNZ?ref=ticketmaster",
-      "title": "ilani Wine & Food Fest presents Vintage Elite Cru",
-      "venue": {
-        "address": "1 Cowlitz Way",
-        "city": "Ridgefield",
-        "latitude": 45.85375953,
-        "longitude": -122.7071965,
-        "name": "ilani Garage Rooftop"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-09-19T19:30:00-07:00",
@@ -7300,39 +7272,6 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:vvG1HZ_kTv06xS",
-      "image_url": "https://s1.ticketm.net/dam/a/5ad/90f536e4-3d67-4a3a-b3b7-3e0ada72a5ad_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.etix.com/ticket/p/75531973/stephen-wilson-jrgary-the-torch-tour-forest-grove-mcmenamins-grand-lodge-concerts",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "organizer": "LIVE NATION MUSIC",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-19T18:00:00-07:00",
-      "ticket_url": "https://www.etix.com/ticket/p/75531973/stephen-wilson-jrgary-the-torch-tour-forest-grove-mcmenamins-grand-lodge-concerts",
-      "title": "Stephen Wilson Jr. - Gary The Torch Tour",
-      "venue": {
-        "address": "3505 Pacific Ave.",
-        "city": "Forest Grove",
-        "latitude": 45.521108,
-        "longitude": -123.086022,
-        "name": "McMenamins Grand Lodge"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "end_at": "2026-09-19T20:00:00-07:00",
       "id": "willamette_week:19954159@2026-09-19T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/n-8xpZPYE0O8ta9_i_BN3w.large.png",
@@ -7537,6 +7476,34 @@
         "latitude": 45.53243410945172,
         "longitude": -122.66872908517573,
         "name": "Veterans Memorial Coliseum"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:18463205@2026-09-19T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Hte-nhEM6ESzRztZwcPT3g.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.etix.com%252Fticket%252Fp%252F75531973%252Fstephen-wilson-jrgary-the-torch-tour-forest-grove-mcmenamins-grand-lodge-concerts%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-19T18:00:00-07:00",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.etix.com%252Fticket%252Fp%252F75531973%252Fstephen-wilson-jrgary-the-torch-tour-forest-grove-mcmenamins-grand-lodge-concerts%26utm_medium%3daffiliate",
+      "title": "Stephen Wilson Jr. - Gary The Torch Tour",
+      "venue": {
+        "address": "3505 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.5216,
+        "longitude": -123.086184,
+        "name": "McMenamins Grand Lodge"
       }
     },
     {
@@ -196586,5 +196553,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-20T01:01:17+00:00"
+  "generated_at": "2026-09-20T01:05:56+00:00"
 }
