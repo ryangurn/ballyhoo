@@ -9849,6 +9849,32 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-09-21T21:00:00-07:00",
+      "id": "calagator:1250482721",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/full-stack-dev-pdx/events/316190567/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-09-21T19:00:00-07:00",
+      "summary": "Vibe coding: tips, tricks, and the tool landscape\r\n\r\nEveryone in the room is already coding with AI. Almost nobody agrees on how to do it well — and\r\nthe gap between the developer getting real leverage and the one getting expensive rework is no\r\nlonger access to the tools. It's technique.\r\n\r\nLast month we put a model in the product. This month we point the models at our own codebases.\r\nWe'll start with the one idea everything follows from — generating code got cheap, and checking\r\nit didn't — then walk through nine specific, usable tips: the twenty-minute memory file that\r\nmakes every future session smarter, how to make an agent plan before it touches a file, why\r\nthree failed corrections means restart instead of argue, and how to read a diff a stranger\r\nwrote. Each one comes with a line you can copy.\r\n\r\nThen we stop talking and do it. We'll take a real prompt from the room and fix it live against\r\nan eight-point rubric, and I'll run a real task on a real repo on screen — including the parts\r\nwhere the agent does something dumb, because knowing what that looks like is half the skill.\r\n\r\nYou'll leave with three things to change on Monday morning, and a set of offline pages — the\r\ntips, the prompt rubric, and a ten-tool comparison matrix — to take with you.\r\n\r\nBring one prompt that disappointed you this week, and one task you have to do next week. We'll\r\nuse both.\r\n\r\nCome curious. Beginners and veterans welcome.\r\n\r\n**SPEAKER**\r\n\r\nMatt Duffield is President & CTO of Summit Software with 30+ years building enterprise software.\r\nA published author of six technical books and U.S. Navy veteran, he now focuses on AI-assisted\r\ndevelopment, local LLMs, and cloud-native architecture — and mentors the next generation of\r\ncoders in his spare time.\r\n\r\n**EVENT DETAILS**\r\n\r\nFood, drinks, and conversation beginning at 7:00. The talk begins around 7:30.\r\nParking is free at the Gladstone Park SDA church.\r\n\r\nRSVP: https://www.meetup.com/full-stack-dev-pdx/events/316190567/",
+      "title": "Vibe Coding: Tips, Tricks, and the Tool Landscape — Full Stack Devs PDX",
+      "venue": {
+        "address": "8378 Cason Rd",
+        "city": "Gladstone",
+        "name": "Gladstone Park SDA Church"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-22T02:00:00-07:00",
@@ -188052,5 +188078,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-20T19:05:32+00:00"
+  "generated_at": "2026-09-20T19:23:29+00:00"
 }

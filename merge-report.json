@@ -25,6 +25,30 @@
       "venue": "Bodymechanics School of Myotherapy & Massage"
     },
     {
+      "dropped": "willamette_week:19879594@2026-09-21T19:00",
+      "kept": "dopdx:17717105",
+      "start_at": "2026-09-21T19:00:00-07:00",
+      "title_dropped": "ill peach",
+      "title_kept": "ill peach – All Ages",
+      "venue": "Holocene"
+    },
+    {
+      "dropped": "willamette_week:19602428@2026-09-21T19:30",
+      "kept": "dopdx:17411266",
+      "start_at": "2026-09-21T19:30:00-07:00",
+      "title_dropped": "Special Event: Chaos & Crawlers",
+      "title_kept": "Chaos & Crawlers",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19076585@2026-09-21T19:30",
+      "kept": "dopdx:17411266",
+      "start_at": "2026-09-21T19:30:00-07:00",
+      "title_dropped": "Special Event: Chaos & Crawlers",
+      "title_kept": "Chaos & Crawlers",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:18941344@2026-09-22T19:00",
       "kept": "dopdx:17341612",
       "start_at": "2026-09-22T19:00:00-07:00",
@@ -591,30 +615,6 @@
       "title_dropped": "2026 Red Mass Dinner",
       "title_kept": "2026 Red Mass Dinner",
       "venue": "Multnomah Athletic Club"
-    },
-    {
-      "dropped": "willamette_week:19879594@2026-09-21T19:00",
-      "kept": "dopdx:17717105",
-      "start_at": "2026-09-21T19:00:00-07:00",
-      "title_dropped": "ill peach",
-      "title_kept": "ill peach – All Ages",
-      "venue": "Holocene"
-    },
-    {
-      "dropped": "willamette_week:19602428@2026-09-21T19:30",
-      "kept": "dopdx:17411266",
-      "start_at": "2026-09-21T19:30:00-07:00",
-      "title_dropped": "Special Event: Chaos & Crawlers",
-      "title_kept": "Chaos & Crawlers",
-      "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:19076585@2026-09-21T19:30",
-      "kept": "dopdx:17411266",
-      "start_at": "2026-09-21T19:30:00-07:00",
-      "title_dropped": "Special Event: Chaos & Crawlers",
-      "title_kept": "Chaos & Crawlers",
-      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "willamette_week:19879596@2026-09-21T20:00",
@@ -6777,9 +6777,9 @@
       "venue": "Wonder Ballroom"
     }
   ],
-  "event_count": 6328,
-  "floor_check": "6328 events against a 6327-event baseline",
-  "generated_at": "2026-09-20T19:05:32+00:00",
+  "event_count": 6329,
+  "floor_check": "6329 events against a 6327-event baseline",
+  "generated_at": "2026-09-20T19:23:29+00:00",
   "problems": [],
   "sources": [
     "calagator",
