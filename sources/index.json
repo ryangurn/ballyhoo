@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:41:48+00:00",
+  "generated_at": "2026-09-21T13:08:13+00:00",
   "sources": [
     {
       "event_count": 30,
@@ -12,14 +12,14 @@
       "event_count": 1543,
       "last_run_at": "2026-09-21T07:04:08+00:00",
       "source_id": "dopdx",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/dopdx.json"
     },
     {
       "event_count": 22,
-      "last_run_at": "2026-09-21T05:15:47+00:00",
+      "last_run_at": "2026-09-21T13:07:41+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
