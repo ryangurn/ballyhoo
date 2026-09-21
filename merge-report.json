@@ -1465,6 +1465,22 @@
       "venue": "Revolution Hall"
     },
     {
+      "dropped": "willamette_week:18120037@2026-09-26T22:00",
+      "kept": "dopdx:17866161",
+      "start_at": "2026-09-26T22:00:00-07:00",
+      "title_dropped": "The Cuntsultants",
+      "title_kept": "Center of Attention",
+      "venue": "Funhouse Lounge"
+    },
+    {
+      "dropped": "willamette_week:19625785@2026-09-26T22:15",
+      "kept": "dopdx:17866161",
+      "start_at": "2026-09-26T22:00:00-07:00",
+      "title_dropped": "RICKY WINTERS: MILK MONEY",
+      "title_kept": "Center of Attention",
+      "venue": "Funhouse Lounge"
+    },
+    {
       "dropped": "willamette_week:14445255@2026-09-26T22:30",
       "kept": "ticketmaster:rZ7HnEZ1AfZ-80",
       "start_at": "2026-09-26T22:30:00-07:00",
@@ -4049,6 +4065,14 @@
       "venue": "Star Theater"
     },
     {
+      "dropped": "willamette_week:19935308@2026-10-09T19:30",
+      "kept": "dopdx:17869528",
+      "start_at": "2026-10-09T19:30:00-07:00",
+      "title_dropped": "Love, Shakespeare presents: Kill Will",
+      "title_kept": "Love, Shakespeare presents Kill Will!",
+      "venue": "Echo Theater"
+    },
+    {
       "dropped": "dopdx:17387381",
       "kept": "ticketmaster:Z7r9jZ1AAZYva",
       "start_at": "2026-10-09T19:30:00-07:00",
@@ -5007,6 +5031,14 @@
       "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
       "title_kept": "KARAOKE FROM HELL",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19686007@2026-10-13T08:00",
+      "kept": "dopdx:17863886",
+      "start_at": "2026-10-13T08:00:00-07:00",
+      "title_dropped": "Traffic Day 2026",
+      "title_kept": "Traffic Day 2026",
+      "venue": "Sheraton Portland Airport Hotel"
     },
     {
       "dropped": "willamette_week:18683380@2026-10-13T18:00",
@@ -6153,6 +6185,14 @@
       "venue": "Brunish Theatre"
     },
     {
+      "dropped": "willamette_week:19669290@2026-10-18T15:00",
+      "kept": "dopdx:17863894",
+      "start_at": "2026-10-18T15:00:00-07:00",
+      "title_dropped": "Autumn Celebration: Fauré's Requiem",
+      "title_kept": "Autumn Reflections: Fauré's Requiem",
+      "venue": "Rose City Park United Methodist Church"
+    },
+    {
       "dropped": "dopdx:17603711",
       "kept": "ticketmaster:vvG1HZ_G20fKVI",
       "start_at": "2026-10-18T16:00:00-07:00",
@@ -6681,9 +6721,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6214,
-  "floor_check": "6214 events against a 6211-event baseline",
-  "generated_at": "2026-09-21T19:37:33+00:00",
+  "event_count": 6252,
+  "floor_check": "6252 events against a 6211-event baseline",
+  "generated_at": "2026-09-21T19:44:18+00:00",
   "problems": [],
   "sources": [
     "calagator",
