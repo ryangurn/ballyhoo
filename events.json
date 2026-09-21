@@ -21137,32 +21137,6 @@
       "categories": [
         "community"
       ],
-      "id": "willamette_week:19768999@2026-09-25T00:00",
-      "is_all_day": true,
-      "listing_url": "https://traveloregon.com/things-to-do/events/visual-performing-arts-events/live-wire-with-gaby-moreno-and-more/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-25T00:00:00-07:00",
-      "title": "Live Wire with Gaby Moreno and more",
-      "venue": {
-        "address": "September 25, 2026 Grammy and Latin Grammy-winning artist Gaby Moreno is a singer-songwriter and producer whose soulful sound seamlessly blends English and Spanish. Since moving to Los Angeles from her native Guatemala, she has released nine acclaimed albums, won a Grammy Award for X Mi (Vol. 1) (Best Latin Pop Album, 2024), earned two Latin Grammy Awards, and received Grammy nominations for Alegoria and Illusion. Moreno has collaborated and performed with artists including Tracy Chapman, Ani DiFranco, Mavis Staples, Buena Vista Social Club, and Chris Thile. Fresh off... found in",
-        "city": "Portland",
-        "latitude": 45.52345,
-        "longitude": -122.67621,
-        "name": "Live Wire with Gaby Moreno and more"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
       "id": "willamette_week:19657938@2026-09-25T00:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1e5f6855-4593-418c-a1a0-4005001f2d1f.large.png",
       "is_all_day": true,
@@ -24326,6 +24300,7 @@
       "id": "willamette_week:19969820@2026-09-25T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/NncktaBHO0WguD-gl4PXlA.large.jpg",
       "is_all_day": false,
+      "listing_url": "https://www.leaven.org/events-concerts",
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -24339,7 +24314,7 @@
       },
       "start_at": "2026-09-25T18:00:00-07:00",
       "summary": "Edna Vázquez and Collar de Lunas will be at Leaven Community Center September 25 For a special concierto fundraiser to help keep an immigrant family together. $50 suggested at the door. Doors 5:30, show begins at 6.",
-      "title": "Edna Vasquez & Collar de Lunas",
+      "title": "Edna Vazquez & Collar de Lunas",
       "venue": {
         "address": "5431 NE 20th Ave",
         "city": "Portland",
@@ -26390,6 +26365,7 @@
       },
       "start_at": "2026-09-25T19:30:00-07:00",
       "summary": "Live Wire Radio is an independently produced radio show based in Portland, Or. Hosted by Luke Burbank and announced by Elena Passarello, the show artfully blends unpredictable conversation, live music, and original comedy featuring all kinds of cultural talent and creative minds, from emerging artists to established acts. Live Wire champions discovery by producing engaging, spirited, and genuine live and listening experiences for a local and national audience.",
+      "ticket_url": "https://thereser.org/events/live-wire-with-luke-burbank-2/",
       "title": "Live Wire with Luke Burbank!",
       "venue": {
         "address": "12725 SW Millikan Way #240,",
@@ -47554,6 +47530,38 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-09-28T20:30:00-07:00",
+      "id": "willamette_week:19863553@2026-09-28T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1VCTkdYO_EmDv6giHmD2jw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.ohs.org/events/david-lemieux.cfm",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 6.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-28T19:00:00-07:00",
+      "summary": "Join us for a deep dive into Grateful Dead history with David Lemieux, the Grateful Dead's official audiovisual archivist and legacy manager. Lemieux will be in conversation with Rob Vallance, McMenamins director of brewing and a dedicated Deadhead, having seen 107 Grateful Dead shows between 1982 and 1995. Hear the behind-the-scenes stories from over 60 years of legendary live shows beloved by Deadheads across the globe. Bring your questions for the Q&A portion of the evening and learn how the timeless musical treasures within the Grateful Dead vault are archived, curated, shared, and preserved for future generations.",
+      "ticket_url": "https://www.etix.com/ticket/p/88075904/history-pub-david-lemieuxgrateful-dead-legacy-manager-archivist-in-conversation-with-rob-vallance-portland-mcmenamins-kennedy-school",
+      "title": "David Lemieux: Grateful Dead Legacy Manager and Archivist",
+      "venue": {
+        "address": "5736 N.E. 33rd Ave.",
+        "city": "Portland",
+        "latitude": 45.5645027161,
+        "longitude": -122.6296386719,
+        "name": "Kennedy School Theater"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-28T22:07:00-07:00",
@@ -47610,37 +47618,6 @@
         "latitude": 45.484296,
         "longitude": -122.787652,
         "name": "Beaverton"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-09-28T20:30:00-07:00",
-      "id": "willamette_week:19863553@2026-09-28T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1VCTkdYO_EmDv6giHmD2jw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.ohs.org/events/david-lemieux.cfm",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 6.0,
-        "min": 5.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-28T19:00:00-07:00",
-      "summary": "Join us for a deep dive into Grateful Dead history with David Lemieux, the Grateful Dead's official audiovisual archivist and legacy manager. Lemieux will be in conversation with Rob Vallance, McMenamins director of brewing and a dedicated Deadhead, having seen 107 Grateful Dead shows between 1982 and 1995. Hear the behind-the-scenes stories from over 60 years of legendary live shows beloved by Deadheads across the globe. Bring your questions for the Q&A portion of the evening and learn how the timeless musical treasures within the Grateful Dead vault are archived, curated, shared, and preserved for future generations.",
-      "title": "David Lemieux: Grateful Dead Legacy Manager and Archivist In Conversation with Rob Vallance",
-      "venue": {
-        "address": "1200 SW Park Ave",
-        "city": "Portland",
-        "latitude": 45.515911,
-        "longitude": -122.6846207,
-        "name": "Oregon Historical Society"
       }
     },
     {
@@ -120984,6 +120961,37 @@
       "categories": [
         "community"
       ],
+      "id": "willamette_week:19970917@2026-10-12T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jSKscak8hE2iYuCCdRIBPQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.mcmenamins.com/events/274764-oregon-state-grange-serving-communities-for-150-years",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 5.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-12T19:00:00-07:00",
+      "summary": "Discover the history of the first Oregon Grange, organized in 1872, only five years after the National Grange was founded in Washington, D.C. The movement spread quickly when granges in the Midwest succeeded in lobbying for state legislatures to regulate rates charged by railroads and grain elevators, among other political wins. At its height, when Oregon had over 300 community granges with total membership up to 30,000, the State Grange had real influence in Salem. While today the numbers are smaller, historian Marilyn Reiher explains how the grange movement carries on serving the needs of its communities. Marilyn Reiher is author of Oregon State Grange: Serving Communities for 150 Years.",
+      "ticket_url": "https://www.etix.com/ticket/p/30003328/history-puboregon-state-grangeserving-communities-for-150-years-presented-by-marilyn-reiher-troutdale-mcmenamins-edgefield",
+      "title": "History Pub - Oregon State Grange: Serving Communities for 150 Years",
+      "venue": {
+        "address": "2126 S. W. Halsey ST.",
+        "city": "Troutdale",
+        "latitude": 45.536907196,
+        "longitude": -122.4068756104,
+        "name": "Edgefield - Blackberry Hall (combined North and South)"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-10-12T22:07:00-07:00",
       "id": "willamette_week:17539493@2026-10-12T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RbIERhd0J06FhNVq8IQGUw.large.png",
@@ -128207,6 +128215,37 @@
         "address": "6550 N Interstate Ave",
         "city": "Portland",
         "name": "Arbor Beer Lodge & Brewery"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "id": "willamette_week:19971188@2026-10-14T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4MxgE73RiEe4C7eE7sWOPQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.mcmenamins.com/events/274770-the-new-deal-bridges-of-the-oregon-coast",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 5.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-14T19:00:00-07:00",
+      "summary": "As Oregonians celebrate the 100th anniversary of Highway 101, the New Deal bridges that completed this iconic highway are celebrating their 90th anniversary. In 1934, construction began on the five bridges designed to close the remaining watery gaps on Oregon's Highway 101. By the summer of 1936, New Deal funding assisted in completing bridges across the five widest bays and estuaries at Newport, Reedsport, Waldport, Florence, and Coos Bay. Robert W. Hadlow and Judith Kenny explore the significance of these bridges as Depression-era projects, examples of the state bridge engineer Conde B. McCullough's design excellence, and their importance carrying us into the 21st century. Judith Kenny is the director of the Oregon Chapter of the Living New Deal, and Robert W. Hadlow is the author of Elegant Arches, Soaring Spans: C.B. McCullough, Oregon's Master Bridge Builder.",
+      "ticket_url": "https://www.etix.com/ticket/p/80800976/history-pub-the-new-deal-bridges-of-the-oregon-coast-presented-by-robert-whadlow-and-judith-kenny-forest-grove-mcmenamins-grand-lodge",
+      "title": "History Pub - The New Deal Bridges of the Oregon Coast",
+      "venue": {
+        "address": "3505 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.521573,
+        "longitude": -123.08612,
+        "name": "McMenamins Grand Lodge Theater"
       }
     },
     {
@@ -186045,5 +186084,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-21T23:14:09+00:00"
+  "generated_at": "2026-09-21T23:21:41+00:00"
 }

@@ -881,6 +881,14 @@
       "venue": "Singacoustic"
     },
     {
+      "dropped": "willamette_week:19768999@2026-09-25T19:30",
+      "kept": "dopdx:17704327",
+      "start_at": "2026-09-25T19:30:00-07:00",
+      "title_dropped": "Live Wire with Gaby Moreno, Mary Fariba Afsari, and Sam Roberts",
+      "title_kept": "Live Wire with Luke Burbank!",
+      "venue": "Patricia Reser Center for the Arts"
+    },
+    {
       "dropped": "willamette_week:19586156@2026-09-25T19:30",
       "kept": "dopdx:17704327",
       "start_at": "2026-09-25T19:30:00-07:00",
@@ -6833,9 +6841,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6263,
-  "floor_check": "6263 events against a 6211-event baseline",
-  "generated_at": "2026-09-21T23:14:09+00:00",
+  "event_count": 6264,
+  "floor_check": "6264 events against a 6211-event baseline",
+  "generated_at": "2026-09-21T23:21:41+00:00",
   "problems": [],
   "sources": [
     "calagator",
