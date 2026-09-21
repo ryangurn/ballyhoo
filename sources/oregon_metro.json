@@ -2,77 +2,6 @@
   "events": [
     {
       "categories": [
-        "community"
-      ],
-      "id": "oregon_metro:2026-09-19",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/2026-09-19",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-09-19T09:00:00-07:00",
-      "title": "Household hazardous waste neighborhood collection event",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.44918,
-        "longitude": -122.82845,
-        "name": "Southwest Bible Church"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:natural-pigments-engobe-and-lampblack-2026-09-20",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/natural-pigments-engobe-and-lampblack-2026-09-20",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-09-20T10:00:00-07:00",
-      "title": "Natural pigments: Engobe and lampblack",
-      "venue": {
-        "city": "Portland",
-        "name": "Chehalem Ridge Nature Park"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:natural-pigments-engobe-and-lampblack-2026-09-20-0",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/natural-pigments-engobe-and-lampblack-2026-09-20-0",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-09-20T13:00:00-07:00",
-      "title": "Natural pigments: Engobe and lampblack",
-      "venue": {
-        "city": "Portland",
-        "name": "Chehalem Ridge Nature Park"
-      }
-    },
-    {
-      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metro-council-work-session-2026-09-22",
@@ -3103,6 +3032,31 @@
       "categories": [
         "civic"
       ],
+      "id": "oregon_metro:oregon-zoo-bond-oversight-committee-meeting-2027-01-20",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-committee-meeting-2027-01-20",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-01-20T15:00:00-08:00",
+      "title": "Oregon Zoo Bond Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.50981,
+        "longitude": -122.71269,
+        "name": "Oregon Zoo"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
       "id": "oregon_metro:metro-regional-planning-workshop-2027-02-10",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-regional-planning-workshop-2027-02-10",
@@ -3222,6 +3176,31 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:oregon-zoo-bond-oversight-committee-meeting-2027-04-21",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-committee-meeting-2027-04-21",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-04-21T15:00:00-07:00",
+      "title": "Oregon Zoo Bond Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.50981,
+        "longitude": -122.71269,
+        "name": "Oregon Zoo"
       }
     },
     {
@@ -3422,6 +3401,31 @@
       "categories": [
         "civic"
       ],
+      "id": "oregon_metro:oregon-zoo-bond-oversight-committee-meeting-2027-09-15",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-committee-meeting-2027-09-15",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-09-15T15:00:00-07:00",
+      "title": "Oregon Zoo Bond Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.50981,
+        "longitude": -122.71269,
+        "name": "Oregon Zoo"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
       "id": "oregon_metro:metro-regional-planning-workshop-2027-10-13",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-regional-planning-workshop-2027-10-13",
@@ -3466,6 +3470,31 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:oregon-zoo-bond-oversight-committee-meeting-2027-11-03",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-committee-meeting-2027-11-03",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-11-03T15:00:00-07:00",
+      "title": "Oregon Zoo Bond Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.50981,
+        "longitude": -122.71269,
+        "name": "Oregon Zoo"
       }
     },
     {
@@ -3544,7 +3573,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-21T14:21:24+00:00",
+  "generated_at": "2026-09-21T19:36:03+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
