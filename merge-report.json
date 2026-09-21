@@ -1,14 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:19726896@2026-09-20T13:00",
-      "kept": "portland_farmers_market:airshow@2026-09-20",
-      "start_at": "2026-09-20T13:00:00-07:00",
-      "title_dropped": "Airshow",
-      "title_kept": "Airshow",
-      "venue": "Lents International Farmers Market"
-    },
-    {
       "dropped": "willamette_week:19626417@2026-09-21T09:30",
       "kept": "dopdx:17780755",
       "start_at": "2026-09-21T09:30:00-07:00",
@@ -319,6 +311,14 @@
       "title_dropped": "It's Britney... Brunch!",
       "title_kept": "It's Britney... Brunch!",
       "venue": "The Social Spoon"
+    },
+    {
+      "dropped": "willamette_week:19726896@2026-09-20T13:00",
+      "kept": "portland_farmers_market:airshow@2026-09-20",
+      "start_at": "2026-09-20T13:00:00-07:00",
+      "title_dropped": "Airshow",
+      "title_kept": "Airshow",
+      "venue": "Lents International Farmers Market"
     },
     {
       "dropped": "willamette_week:18235580@2026-09-20T14:00",
@@ -6769,9 +6769,9 @@
       "venue": "Wonder Ballroom"
     }
   ],
-  "event_count": 6330,
-  "floor_check": "6330 events against a 6328-event baseline",
-  "generated_at": "2026-09-21T00:32:07+00:00",
+  "event_count": 6329,
+  "floor_check": "6329 events against a 6328-event baseline",
+  "generated_at": "2026-09-21T01:01:46+00:00",
   "problems": [],
   "sources": [
     "calagator",
