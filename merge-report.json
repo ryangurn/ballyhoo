@@ -1417,6 +1417,14 @@
       "venue": "Lents International Farmers Market"
     },
     {
+      "dropped": "willamette_week:19972298@2026-09-27T13:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfGYFV",
+      "start_at": "2026-09-27T13:30:00-07:00",
+      "title_dropped": "IN COLOR",
+      "title_kept": "IN COLOR",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "dopdx:17262319",
       "kept": "ticketmaster:Z7r9jZ1A7Jefd",
       "start_at": "2026-09-27T14:00:00-07:00",
@@ -2916,7 +2924,7 @@
       "dropped": "willamette_week:19700087@2026-10-03T20:00",
       "kept": "dopdx:17758301",
       "start_at": "2026-10-03T20:00:00-07:00",
-      "title_dropped": "BOBBY ALU",
+      "title_dropped": "BOBBY ALU w/ COLOSO",
       "title_kept": "Bobby Alu",
       "venue": "Jack London Revue"
     },
@@ -4113,18 +4121,18 @@
       "venue": "Jack London Revue"
     },
     {
-      "dropped": "willamette_week:19957008@2026-10-09T20:00",
-      "kept": "dopdx:17620968",
-      "start_at": "2026-10-09T20:00:00-07:00",
-      "title_dropped": "OVOID & Asher Fulero - Worlds: Live",
-      "title_kept": "Luis J Gomez",
-      "venue": "Jack London Revue"
-    },
-    {
       "dropped": "willamette_week:19449659@2026-10-09T20:00",
       "kept": "dopdx:17620968",
       "start_at": "2026-10-09T20:00:00-07:00",
       "title_dropped": "LUIS J GOMEZ",
+      "title_kept": "Luis J Gomez",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19957008@2026-10-09T20:00",
+      "kept": "dopdx:17620968",
+      "start_at": "2026-10-09T20:00:00-07:00",
+      "title_dropped": "OVOID & Asher Fulero - Worlds: Live",
       "title_kept": "Luis J Gomez",
       "venue": "Jack London Revue"
     },
@@ -6841,6 +6849,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:18893389@2026-10-17T23:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfvKZV",
+      "start_at": "2026-10-17T23:30:00-07:00",
+      "title_dropped": "SMASH disco~glam~metal~punk-hiphop",
+      "title_kept": "SMASH disco~glam~metal~punk-hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:18893395@2026-10-22T19:00",
       "kept": "ticketmaster:rZ7HnEZ1Af0vkK",
       "start_at": "2026-10-22T19:00:00-07:00",
@@ -6881,9 +6897,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6273,
-  "floor_check": "6273 events against a 6265-event baseline",
-  "generated_at": "2026-09-22T05:29:17+00:00",
+  "event_count": 6292,
+  "floor_check": "6292 events against a 6267-event baseline",
+  "generated_at": "2026-09-22T07:46:35+00:00",
   "problems": [],
   "sources": [
     "calagator",
