@@ -1075,6 +1075,31 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:public-hearing-updating-supportive-housing-services-administrative-rules-2026-10-16",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/public-hearing-updating-supportive-housing-services-administrative-rules-2026-10-16",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-16T12:00:00-07:00",
+      "title": "Public hearing: updating Supportive Housing Services administrative rules",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:mushroom-hike-2026-10-16",
@@ -3573,7 +3598,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-22T13:29:22+00:00",
+  "generated_at": "2026-09-22T18:10:05+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
