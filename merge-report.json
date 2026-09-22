@@ -357,7 +357,7 @@
       "kept": "ticketmaster:rZ7HnEZ1AfaFu7",
       "start_at": "2026-09-23T20:00:00-07:00",
       "title_dropped": "Grivo with No Floor, Herr God, & House of Warmth",
-      "title_kept": "GRIVO with No Floor, Herr God, & House of Warmth",
+      "title_kept": "GRIVO with No Floor, & House of Warmth",
       "venue": "Dante's"
     },
     {
@@ -6409,6 +6409,14 @@
       "venue": "Aladdin Theater"
     },
     {
+      "dropped": "willamette_week:17586570@2026-10-19T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPw3f",
+      "start_at": "2026-10-19T21:00:00-07:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:18697207@2026-10-20T19:00",
       "kept": "dopdx:17196141",
       "start_at": "2026-10-20T19:00:00-07:00",
@@ -6873,9 +6881,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6277,
-  "floor_check": "6277 events against a 6260-event baseline",
-  "generated_at": "2026-09-22T04:47:45+00:00",
+  "event_count": 6273,
+  "floor_check": "6273 events against a 6260-event baseline",
+  "generated_at": "2026-09-22T04:50:29+00:00",
   "problems": [],
   "sources": [
     "calagator",
