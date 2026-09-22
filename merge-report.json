@@ -177,6 +177,54 @@
       "venue": "Watershed"
     },
     {
+      "dropped": "willamette_week:18846849@2026-09-25T21:00",
+      "kept": "dopdx:17227063",
+      "start_at": "2026-09-25T21:00:00-07:00",
+      "title_dropped": "Temples: The BLISS Tour",
+      "title_kept": "Temples: The BLISS Tour",
+      "venue": "Mississippi Studios"
+    },
+    {
+      "dropped": "willamette_week:19304932@2026-09-25T21:00",
+      "kept": "dopdx:17540914",
+      "start_at": "2026-09-25T21:00:00-07:00",
+      "title_dropped": "Taiwan Golden Melody Night",
+      "title_kept": "Taiwan Golden Melody Night",
+      "venue": "The Get Down"
+    },
+    {
+      "dropped": "willamette_week:19108249@2026-09-25T21:00",
+      "kept": "dopdx:17768800",
+      "start_at": "2026-09-25T21:00:00-07:00",
+      "title_dropped": "River Divide Band",
+      "title_kept": "River Divide Band",
+      "venue": "Ponderosa Lounge & Grill"
+    },
+    {
+      "dropped": "willamette_week:19602459@2026-09-25T21:15",
+      "kept": "dopdx:17476544",
+      "start_at": "2026-09-25T21:15:00-07:00",
+      "title_dropped": "Special Event: George Lopez",
+      "title_kept": "George Lopez",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19602502@2026-09-25T21:45",
+      "kept": "dopdx:17476544",
+      "start_at": "2026-09-25T21:15:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Winston Hodges",
+      "title_kept": "George Lopez",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19801682@2026-09-25T21:30",
+      "kept": "dopdx:17749537",
+      "start_at": "2026-09-25T21:30:00-07:00",
+      "title_dropped": "Can Can's Hitchcock Hotel",
+      "title_kept": "Can Can’s Hitchcock Hotel",
+      "venue": "Can Can's Paris Theatre"
+    },
+    {
       "dropped": "willamette_week:19686002@2026-10-05T09:00",
       "kept": "dopdx:17729008",
       "start_at": "2026-10-05T09:00:00-07:00",
@@ -887,54 +935,6 @@
       "title_dropped": "AUTHOR & PUNISHER with Guiltless & Esses",
       "title_kept": "Author & Punisher with Guiltless & Esses",
       "venue": "Dante's"
-    },
-    {
-      "dropped": "willamette_week:18846849@2026-09-25T21:00",
-      "kept": "dopdx:17227063",
-      "start_at": "2026-09-25T21:00:00-07:00",
-      "title_dropped": "Temples: The BLISS Tour",
-      "title_kept": "Temples: The BLISS Tour",
-      "venue": "Mississippi Studios"
-    },
-    {
-      "dropped": "willamette_week:19304932@2026-09-25T21:00",
-      "kept": "dopdx:17540914",
-      "start_at": "2026-09-25T21:00:00-07:00",
-      "title_dropped": "Taiwan Golden Melody Night",
-      "title_kept": "Taiwan Golden Melody Night",
-      "venue": "The Get Down"
-    },
-    {
-      "dropped": "willamette_week:19108249@2026-09-25T21:00",
-      "kept": "dopdx:17768800",
-      "start_at": "2026-09-25T21:00:00-07:00",
-      "title_dropped": "River Divide Band",
-      "title_kept": "River Divide Band",
-      "venue": "Ponderosa Lounge & Grill"
-    },
-    {
-      "dropped": "willamette_week:19602459@2026-09-25T21:15",
-      "kept": "dopdx:17476544",
-      "start_at": "2026-09-25T21:15:00-07:00",
-      "title_dropped": "Special Event: George Lopez",
-      "title_kept": "George Lopez",
-      "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:19602502@2026-09-25T21:45",
-      "kept": "dopdx:17476544",
-      "start_at": "2026-09-25T21:15:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Winston Hodges",
-      "title_kept": "George Lopez",
-      "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:19801682@2026-09-25T21:30",
-      "kept": "dopdx:17749537",
-      "start_at": "2026-09-25T21:30:00-07:00",
-      "title_dropped": "Can Can's Hitchcock Hotel",
-      "title_kept": "Can Can’s Hitchcock Hotel",
-      "venue": "Can Can's Paris Theatre"
     },
     {
       "dropped": "dopdx:17252196",
@@ -6897,9 +6897,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6343,
-  "floor_check": "6343 events against a 6292-event baseline",
-  "generated_at": "2026-09-22T18:17:04+00:00",
+  "event_count": 6344,
+  "floor_check": "6344 events against a 6292-event baseline",
+  "generated_at": "2026-09-22T18:48:33+00:00",
   "problems": [],
   "sources": [
     "calagator",
