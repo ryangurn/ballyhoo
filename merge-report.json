@@ -17,6 +17,14 @@
       "venue": "Holocene"
     },
     {
+      "dropped": "willamette_week:19758594@2026-09-21T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af1aJ7",
+      "start_at": "2026-09-21T19:00:00-07:00",
+      "title_dropped": "Square Dancing with Caller Bex Bee and Boondoggle String Band",
+      "title_kept": "Square Dancing with Calling Lessons from Amy Hofer and the Wild Geese String Band",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:19602428@2026-09-21T19:30",
       "kept": "dopdx:17411266",
       "start_at": "2026-09-21T19:30:00-07:00",
@@ -6777,14 +6785,6 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
-      "dropped": "willamette_week:19758594@2026-09-21T17:30",
-      "kept": "ticketmaster:rZ7HnEZ1Af1aJ7",
-      "start_at": "2026-09-21T17:30:00-07:00",
-      "title_dropped": "Square Dancing with Caller Bex Bee and Boondoggle String Band",
-      "title_kept": "Square Dancing with Calling Lessons from Amy Hofer and Boondoggle String Band",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "willamette_week:18893389@2026-10-03T23:30",
       "kept": "ticketmaster:rZ7HnEZ1Afv3Jf",
       "start_at": "2026-10-03T23:30:00-07:00",
@@ -6841,9 +6841,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6266,
-  "floor_check": "6266 events against a 6211-event baseline",
-  "generated_at": "2026-09-21T23:34:45+00:00",
+  "event_count": 6268,
+  "floor_check": "6268 events against a 6211-event baseline",
+  "generated_at": "2026-09-22T00:04:53+00:00",
   "problems": [],
   "sources": [
     "calagator",
