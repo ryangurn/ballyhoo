@@ -131418,6 +131418,38 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-16T21:45:00-07:00",
+      "id": "willamette_week:20000197@2026-10-16T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FHZOIVSfTkW8GYYY55NTww.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://TeslaTix.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 34.99,
+        "min": 24.99
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T19:30:00-07:00",
+      "summary": "Tickets --> TeslaTix.com The Tesla City Stories is live serialized 1944 radio theater onstage show featuring comedy, drama, chills, romance, drinks, eats, prizes, Foley sound FX, music. Unique! This October 16th, The Tesla City Stories returns with a pair of seasonally appropriate tales from the TBC’s spooky anthology show The 13th Floor! In our first eerie episode, “You Shouldn’t Be In Pictures,” successful commercial photographer Carl Brandis is praised for finding an amazing new model - an alluring woman who suddenly shows up in all of his work. The only problem is Carl doesn’t recall ever seeing her before. Following that is the tale of Mrs. Evelyn Campbell who brings home a brand new Talky Taffy doll for her daughter Jilly. When you pull her string, Taffy says many delightful things, though, sometimes, she says horrible things … and you never pulled her string… That’s in the episode called “Your Forever Friend.” These unnerving tales haven’t been heard by audiences in over 80 years and we’re excited to send lightning through those electrodes and reanimate them for you as a Halloween warmup! Join us for a night of vintage chills along with the music of The Newport Nightingales at Portland’s Old Church Concert Hall on Friday, October 16th at 7:30 PM!",
+      "ticket_url": "https://TeslaTix.com",
+      "title": "The Tesla City Stories - Live Vintage Radio Theater Onstage • October 16th",
+      "venue": {
+        "address": "1422 SW 11th Ave",
+        "city": "Portland",
+        "latitude": 45.5151290894,
+        "longitude": -122.6856002808,
+        "name": "The Historic Old Church"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "willamette_week:19017958@2026-10-16T19:30",
@@ -188243,5 +188275,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-23T11:30:33+00:00"
+  "generated_at": "2026-09-23T11:45:59+00:00"
 }
