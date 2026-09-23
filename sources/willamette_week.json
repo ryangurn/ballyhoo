@@ -2,6 +2,33 @@
   "events": [
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19595762@2026-09-23T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KRzsaacRqUeRujVK3EyU6A.large.png",
+      "is_all_day": true,
+      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-23T00:00:00-07:00",
+      "title": "Wednesday Wigglers",
+      "venue": {
+        "address": "42461 NW Market Street",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "willamette_week:19963904@2026-09-23T00:00",
@@ -215,33 +242,6 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "November 7"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "willamette_week:19595762@2026-09-23T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KRzsaacRqUeRujVK3EyU6A.large.png",
-      "is_all_day": true,
-      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-23T00:00:00-07:00",
-      "title": "Wednesday Wigglers",
-      "venue": {
-        "address": "42461 NW Market Street",
-        "city": "Banks",
-        "latitude": 45.619839,
-        "longitude": -123.113832,
-        "name": "Banks Public Library"
       }
     },
     {
@@ -2790,6 +2790,36 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-09-23T23:00:00-07:00",
+      "id": "willamette_week:19684251@2026-09-23T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-23T19:00:00-07:00",
+      "summary": "Rockstar Bingo is SO much fun and you can jump in anytime! AND its FREE to play! We play from 7PM until 11PM… and maybe later if everyone’s still vibing and wants more banger tunes. Here’s how it works: 🎵 Your bingo card is right on your phone 🎵 Listen while the host plays songs 🎵 Mark the songs you hear on your card 🎵 Dont know the song? Check the TV's for the last song played! 🎵 Got Bingo? Call it and win your prize 🏆 No bingo experience needed — it’s super easy to learn and ridiculously fun to play. Bring your friends, sing along, and test your music knowledge. And don’t worry your pretty little head if you need help getting set up the host will happily help you join and get playing 💃🕺",
+      "title": "Rockstar Bingo",
+      "venue": {
+        "address": "2004 Main Street, Ste 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:19264412@2026-09-23T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KtCOFaL0MUCIaK6BdDr0Qw.large.png",
       "is_all_day": false,
@@ -3055,36 +3085,6 @@
         "latitude": 45.505062,
         "longitude": -122.627829,
         "name": "Allgood Brewing Company"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-09-23T23:00:00-07:00",
-      "id": "willamette_week:19684251@2026-09-23T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-23T19:00:00-07:00",
-      "summary": "Rockstar Bingo is SO much fun and you can jump in anytime! AND its FREE to play! We play from 7PM until 11PM… and maybe later if everyone’s still vibing and wants more banger tunes. Here’s how it works: 🎵 Your bingo card is right on your phone 🎵 Listen while the host plays songs 🎵 Mark the songs you hear on your card 🎵 Dont know the song? Check the TV's for the last song played! 🎵 Got Bingo? Call it and win your prize 🏆 No bingo experience needed — it’s super easy to learn and ridiculously fun to play. Bring your friends, sing along, and test your music knowledge. And don’t worry your pretty little head if you need help getting set up the host will happily help you join and get playing 💃🕺",
-      "title": "Rockstar Bingo",
-      "venue": {
-        "address": "2004 Main Street, Ste 110",
-        "city": "Forest Grove",
-        "latitude": 45.519786,
-        "longitude": -123.1123,
-        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -6421,6 +6421,33 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:20004123@2026-09-24T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a97da72b-ec88-4bd6-abc5-758d56a3d70f.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.cityofbanks.org/vertical/sites/%7B9449421F-C29B-4D8D-BE42-4EB124C2CA36%7D/uploads/CAC_Agenda_2026-09-24.pdf",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-24T18:00:00-07:00",
+      "title": "Banks Comprehensive Plan Update Community Advisory Committee Meeting *IN-PESON MEETING",
+      "venue": {
+        "address": "42461 NW Market St",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library - Jane Moore Community Room"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19082954@2026-09-24T18:00",
@@ -6445,6 +6472,35 @@
         "latitude": 45.5588302612,
         "longitude": -122.634552002,
         "name": "Alberta Rose Theatre"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-24T21:00:00-07:00",
+      "id": "willamette_week:16180699@2026-09-24T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2471476479872493/2471476489872492/?active_tab=about",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-24T18:00:00-07:00",
+      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. We are hosting Rockstar Bingo at the Rooster every Thursday night! We have the amazing Ibby on the mic and plenty of rad prizes to give away. New themes every week. Go to the Red Rooster facebook page to cast your vote on your favorite themes. Bring your phones to play, a charger wouldn't be a bad idea, but we do have a charging station if needed. Get ready for some fun!",
+      "title": "Rockstar Bingo at the Red Rooster Saloon",
+      "venue": {
+        "address": "2004 Main Street Ste 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -6474,33 +6530,6 @@
         "latitude": 45.5197386178146,
         "longitude": -123.05865727043835,
         "name": "Cornelius Public Library"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "willamette_week:20004123@2026-09-24T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a97da72b-ec88-4bd6-abc5-758d56a3d70f.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.cityofbanks.org/vertical/sites/%7B9449421F-C29B-4D8D-BE42-4EB124C2CA36%7D/uploads/CAC_Agenda_2026-09-24.pdf",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-24T18:00:00-07:00",
-      "title": "Banks Comprehensive Plan Update Community Advisory Committee Meeting *IN-PESON MEETING",
-      "venue": {
-        "address": "42461 NW Market St",
-        "city": "Banks",
-        "latitude": 45.619839,
-        "longitude": -123.113832,
-        "name": "Banks Public Library - Jane Moore Community Room"
       }
     },
     {
@@ -7042,35 +7071,6 @@
         "latitude": 45.519967,
         "longitude": -123.111857,
         "name": "Taqueria Corona"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-09-24T21:00:00-07:00",
-      "id": "willamette_week:16180699@2026-09-24T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/2471476479872493/2471476489872492/?active_tab=about",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-24T18:00:00-07:00",
-      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. We are hosting Rockstar Bingo at the Rooster every Thursday night! We have the amazing Ibby on the mic and plenty of rad prizes to give away. New themes every week. Go to the Red Rooster facebook page to cast your vote on your favorite themes. Bring your phones to play, a charger wouldn't be a bad idea, but we do have a charging station if needed. Get ready for some fun!",
-      "title": "Rockstar Bingo at the Red Rooster Saloon",
-      "venue": {
-        "address": "2004 Main Street Ste 110",
-        "city": "Forest Grove",
-        "latitude": 45.519786,
-        "longitude": -123.1123,
-        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -10073,34 +10073,6 @@
       "categories": [
         "community"
       ],
-      "end_at": "2026-09-25T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-09-25T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-25T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
       "end_at": "2026-09-25T12:30:00-07:00",
       "id": "willamette_week:18616662@2026-09-25T11:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mRUoffKKLEWkUVMmygQ1-Q.large.png",
@@ -10124,6 +10096,34 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-09-25T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-09-25T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-25T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
       }
     },
     {
@@ -11299,6 +11299,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-09-25T17:00:00-07:00",
+      "id": "willamette_week:19533335@2026-09-25T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/989619e6-ad4a-4cc3-b8fa-5d597b474bb2.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3117",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-25T16:00:00-07:00",
+      "title": "After-School Artists",
+      "venue": {
+        "address": "2114 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519558298716575,
+        "longitude": -123.1086999746265,
+        "name": "Forest Grove City Library"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-25T17:30:00-07:00",
@@ -11414,34 +11442,6 @@
         "latitude": 45.582817572658264,
         "longitude": -122.68645335011975,
         "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-09-25T17:00:00-07:00",
-      "id": "willamette_week:19533335@2026-09-25T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/989619e6-ad4a-4cc3-b8fa-5d597b474bb2.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3117",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-25T16:00:00-07:00",
-      "title": "After-School Artists",
-      "venue": {
-        "address": "2114 Pacific Ave",
-        "city": "Forest Grove",
-        "latitude": 45.519558298716575,
-        "longitude": -123.1086999746265,
-        "name": "Forest Grove City Library"
       }
     },
     {
@@ -12227,6 +12227,34 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-09-25T21:00:00-07:00",
+      "id": "willamette_week:18876941@2026-09-25T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dee4e760-757d-432f-bfdd-cc2dc29297b9.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goboxers.com/calendar.aspx?game_id=8151&amp;sport_id=25",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-25T19:00:00-07:00",
+      "summary": "Pacific University Athletics Volleyball vs Whitman College",
+      "title": "Pacific University Athletics Volleyball vs Whitman College",
+      "venue": {
+        "city": "Forest Grove",
+        "latitude": 45.51984,
+        "longitude": -123.11066,
+        "name": "Stoller Center"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "willamette_week:19102604@2026-09-25T19:00",
@@ -12866,34 +12894,6 @@
         "latitude": 45.5120477825,
         "longitude": -122.6566256583,
         "name": "Helium Comedy Club"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-09-25T21:00:00-07:00",
-      "id": "willamette_week:18876941@2026-09-25T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dee4e760-757d-432f-bfdd-cc2dc29297b9.large.png",
-      "is_all_day": false,
-      "listing_url": "https://goboxers.com/calendar.aspx?game_id=8151&amp;sport_id=25",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-25T19:00:00-07:00",
-      "summary": "Pacific University Athletics Volleyball vs Whitman College",
-      "title": "Pacific University Athletics Volleyball vs Whitman College",
-      "venue": {
-        "city": "Forest Grove",
-        "latitude": 45.51984,
-        "longitude": -123.11066,
-        "name": "Stoller Center"
       }
     },
     {
@@ -15214,6 +15214,34 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-09-26T11:00:00-07:00",
+      "id": "willamette_week:19840359@2026-09-26T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f7e4de4f-6088-4f5b-96c5-21abb0ed6a78.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3156",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-26T09:00:00-07:00",
+      "title": "Coffee with a Cop",
+      "venue": {
+        "address": "3315 Pacific Avenue",
+        "city": "Forest Grove",
+        "latitude": 45.52061,
+        "longitude": -123.08903,
+        "name": "Forest Grove McDonalds"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-26T17:00:00-07:00",
@@ -15299,34 +15327,6 @@
         "latitude": 45.55133,
         "longitude": -122.6716,
         "name": "Portland"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-09-26T11:00:00-07:00",
-      "id": "willamette_week:19840359@2026-09-26T09:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f7e4de4f-6088-4f5b-96c5-21abb0ed6a78.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3156",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-26T09:00:00-07:00",
-      "title": "Coffee with a Cop",
-      "venue": {
-        "address": "3315 Pacific Avenue",
-        "city": "Forest Grove",
-        "latitude": 45.52061,
-        "longitude": -123.08903,
-        "name": "Forest Grove McDonalds"
       }
     },
     {
@@ -19724,6 +19724,34 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-09-26T20:00:00-07:00",
+      "id": "willamette_week:18876943@2026-09-26T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41303adc-6311-419e-8756-cc69b17d8c41.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goboxers.com/calendar.aspx?game_id=8152&amp;sport_id=25",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-26T18:00:00-07:00",
+      "summary": "Pacific University Athletics Volleyball vs Whitworth University",
+      "title": "Pacific University Athletics Volleyball vs Whitworth University",
+      "venue": {
+        "city": "Forest Grove",
+        "latitude": 45.51984,
+        "longitude": -123.11066,
+        "name": "Stoller Center"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-26T21:00:00-07:00",
@@ -19932,34 +19960,6 @@
         "latitude": 45.420865,
         "longitude": -122.667464,
         "name": "The Dullahan Pub"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-09-26T20:00:00-07:00",
-      "id": "willamette_week:18876943@2026-09-26T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41303adc-6311-419e-8756-cc69b17d8c41.large.png",
-      "is_all_day": false,
-      "listing_url": "https://goboxers.com/calendar.aspx?game_id=8152&amp;sport_id=25",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-26T18:00:00-07:00",
-      "summary": "Pacific University Athletics Volleyball vs Whitworth University",
-      "title": "Pacific University Athletics Volleyball vs Whitworth University",
-      "venue": {
-        "city": "Forest Grove",
-        "latitude": 45.51984,
-        "longitude": -123.11066,
-        "name": "Stoller Center"
       }
     },
     {
@@ -27791,6 +27791,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-09-28T11:00:00-07:00",
+      "id": "willamette_week:19533336@2026-09-28T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0d4a3f1a-d60f-45e8-a916-1fa5deadc316.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3086",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-28T10:00:00-07:00",
+      "title": "Giggles & Wiggles Storytime",
+      "venue": {
+        "address": "2114 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519558298716575,
+        "longitude": -123.1086999746265,
+        "name": "Forest Grove City Library"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-28T20:30:00-07:00",
@@ -27819,34 +27847,6 @@
         "latitude": 45.5256321,
         "longitude": -122.6751842,
         "name": "Lan Su Chinese Garden"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-09-28T11:00:00-07:00",
-      "id": "willamette_week:19533336@2026-09-28T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0d4a3f1a-d60f-45e8-a916-1fa5deadc316.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3086",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-28T10:00:00-07:00",
-      "title": "Giggles & Wiggles Storytime",
-      "venue": {
-        "address": "2114 Pacific Ave",
-        "city": "Forest Grove",
-        "latitude": 45.519558298716575,
-        "longitude": -123.1086999746265,
-        "name": "Forest Grove City Library"
       }
     },
     {
@@ -29645,6 +29645,33 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19595753@2026-09-29T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/i5J8Z_4MxUiyDgjsV4lqOQ.large.png",
+      "is_all_day": true,
+      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-29T00:00:00-07:00",
+      "title": "Banks Public Library: Family Drop In Mini Art Exhibit",
+      "venue": {
+        "address": "42461 NW Market Street",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "id": "willamette_week:19975675@2026-09-29T00:00",
@@ -29775,33 +29802,6 @@
         "latitude": 45.54068,
         "longitude": -122.2212,
         "name": "Latourell"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "willamette_week:19595753@2026-09-29T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/i5J8Z_4MxUiyDgjsV4lqOQ.large.png",
-      "is_all_day": true,
-      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-29T00:00:00-07:00",
-      "title": "Banks Public Library: Family Drop In Mini Art Exhibit",
-      "venue": {
-        "address": "42461 NW Market Street",
-        "city": "Banks",
-        "latitude": 45.619839,
-        "longitude": -123.113832,
-        "name": "Banks Public Library"
       }
     },
     {
@@ -32995,6 +32995,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19595762@2026-09-30T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KRzsaacRqUeRujVK3EyU6A.large.png",
+      "is_all_day": true,
+      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-30T00:00:00-07:00",
+      "title": "Wednesday Wigglers",
+      "venue": {
+        "address": "42461 NW Market Street",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "id": "willamette_week:19769018@2026-09-30T00:00",
@@ -33206,33 +33233,6 @@
         "latitude": 45.63873,
         "longitude": -122.66149,
         "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "willamette_week:19595762@2026-09-30T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KRzsaacRqUeRujVK3EyU6A.large.png",
-      "is_all_day": true,
-      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-30T00:00:00-07:00",
-      "title": "Wednesday Wigglers",
-      "venue": {
-        "address": "42461 NW Market Street",
-        "city": "Banks",
-        "latitude": 45.619839,
-        "longitude": -123.113832,
-        "name": "Banks Public Library"
       }
     },
     {
@@ -35396,6 +35396,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-30T23:00:00-07:00",
+      "id": "willamette_week:19684251@2026-09-30T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-30T19:00:00-07:00",
+      "summary": "Rockstar Bingo is SO much fun and you can jump in anytime! AND its FREE to play! We play from 7PM until 11PM… and maybe later if everyone’s still vibing and wants more banger tunes. Here’s how it works: 🎵 Your bingo card is right on your phone 🎵 Listen while the host plays songs 🎵 Mark the songs you hear on your card 🎵 Dont know the song? Check the TV's for the last song played! 🎵 Got Bingo? Call it and win your prize 🏆 No bingo experience needed — it’s super easy to learn and ridiculously fun to play. Bring your friends, sing along, and test your music knowledge. And don’t worry your pretty little head if you need help getting set up the host will happily help you join and get playing 💃🕺",
+      "title": "Rockstar Bingo",
+      "venue": {
+        "address": "2004 Main Street, Ste 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "id": "willamette_week:18092423@2026-09-30T19:00",
@@ -35683,36 +35713,6 @@
         "latitude": 45.505062,
         "longitude": -122.627829,
         "name": "Allgood Brewing Company"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-09-30T23:00:00-07:00",
-      "id": "willamette_week:19684251@2026-09-30T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-30T19:00:00-07:00",
-      "summary": "Rockstar Bingo is SO much fun and you can jump in anytime! AND its FREE to play! We play from 7PM until 11PM… and maybe later if everyone’s still vibing and wants more banger tunes. Here’s how it works: 🎵 Your bingo card is right on your phone 🎵 Listen while the host plays songs 🎵 Mark the songs you hear on your card 🎵 Dont know the song? Check the TV's for the last song played! 🎵 Got Bingo? Call it and win your prize 🏆 No bingo experience needed — it’s super easy to learn and ridiculously fun to play. Bring your friends, sing along, and test your music knowledge. And don’t worry your pretty little head if you need help getting set up the host will happily help you join and get playing 💃🕺",
-      "title": "Rockstar Bingo",
-      "venue": {
-        "address": "2004 Main Street, Ste 110",
-        "city": "Forest Grove",
-        "latitude": 45.519786,
-        "longitude": -123.1123,
-        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -39000,6 +39000,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-01T21:00:00-07:00",
+      "id": "willamette_week:16180699@2026-10-01T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2471476479872493/2471476489872492/?active_tab=about",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-01T18:00:00-07:00",
+      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. We are hosting Rockstar Bingo at the Rooster every Thursday night! We have the amazing Ibby on the mic and plenty of rad prizes to give away. New themes every week. Go to the Red Rooster facebook page to cast your vote on your favorite themes. Bring your phones to play, a charger wouldn't be a bad idea, but we do have a charging station if needed. Get ready for some fun!",
+      "title": "Rockstar Bingo at the Red Rooster Saloon",
+      "venue": {
+        "address": "2004 Main Street Ste 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-10-01T19:00:00-07:00",
@@ -39447,35 +39476,6 @@
         "latitude": 45.519967,
         "longitude": -123.111857,
         "name": "Taqueria Corona"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-01T21:00:00-07:00",
-      "id": "willamette_week:16180699@2026-10-01T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/2471476479872493/2471476489872492/?active_tab=about",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-01T18:00:00-07:00",
-      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. We are hosting Rockstar Bingo at the Rooster every Thursday night! We have the amazing Ibby on the mic and plenty of rad prizes to give away. New themes every week. Go to the Red Rooster facebook page to cast your vote on your favorite themes. Bring your phones to play, a charger wouldn't be a bad idea, but we do have a charging station if needed. Get ready for some fun!",
-      "title": "Rockstar Bingo at the Red Rooster Saloon",
-      "venue": {
-        "address": "2004 Main Street Ste 110",
-        "city": "Forest Grove",
-        "latitude": 45.519786,
-        "longitude": -123.1123,
-        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -43604,6 +43604,34 @@
       "categories": [
         "family"
       ],
+      "end_at": "2026-10-02T17:00:00-07:00",
+      "id": "willamette_week:19533335@2026-10-02T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/989619e6-ad4a-4cc3-b8fa-5d597b474bb2.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3118",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-02T16:00:00-07:00",
+      "title": "After-School Artists",
+      "venue": {
+        "address": "2114 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519558298716575,
+        "longitude": -123.1086999746265,
+        "name": "Forest Grove City Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
       "end_at": "2026-10-02T17:30:00-07:00",
       "id": "willamette_week:18608881@2026-10-02T16:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9mFN9xH530uJsJalmNpmCQ.large.png",
@@ -43719,34 +43747,6 @@
         "latitude": 45.49948,
         "longitude": -122.611578,
         "name": "Portland Wine Company"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-02T17:00:00-07:00",
-      "id": "willamette_week:19533335@2026-10-02T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/989619e6-ad4a-4cc3-b8fa-5d597b474bb2.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3118",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-02T16:00:00-07:00",
-      "title": "After-School Artists",
-      "venue": {
-        "address": "2114 Pacific Ave",
-        "city": "Forest Grove",
-        "latitude": 45.519558298716575,
-        "longitude": -123.1086999746265,
-        "name": "Forest Grove City Library"
       }
     },
     {
@@ -52160,6 +52160,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20005871@2026-10-03T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gqK9LBdgQ0yiEes3X3Gd6w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://eventbrite.com/e/stand-up-pawmedy-tickets-2002171571066",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 50.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-03T20:00:00-07:00",
+      "summary": "Come see stand-up comedians from all over the PNW do their most pet and animal-centric jokes with most of the proceeds going to The Oregon Humane Society ! This showcase features JULIA CORRAL (Kickstand's Comedy in The Park, WW's Funniest Five), TODD BASIL (The Teacher Show), CAMILLE REDD (Roast Battle Portland), CARLOS ROMERO and DANELLE PORTER. Hosted by CHRIS HUDSON (Leave Your Troubles) Admission is pay-what-you want and the majority of the proceeds go to The Oregon Humane Society\\* Covert Café will be serving their delicious food menu and tasty drink menu before, during and after the show. \\*this event is not officially endorsed by The Oregon Humane Society",
+      "ticket_url": "https://eventbrite.com/e/stand-up-pawmedy-tickets-2002171571066",
+      "title": "Stand-up PAWMEDY",
+      "venue": {
+        "address": "803 SE 82nd Ave",
+        "city": "Portland",
+        "latitude": 45.516757,
+        "longitude": -122.57931,
+        "name": "Covert Café"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19700087@2026-10-03T20:00",
@@ -57681,6 +57712,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-05T11:00:00-07:00",
+      "id": "willamette_week:19533336@2026-10-05T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0d4a3f1a-d60f-45e8-a916-1fa5deadc316.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3087",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-05T10:00:00-07:00",
+      "title": "Giggles & Wiggles Storytime",
+      "venue": {
+        "address": "2114 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519558298716575,
+        "longitude": -123.1086999746265,
+        "name": "Forest Grove City Library"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-05T12:00:00-07:00",
@@ -57706,34 +57765,6 @@
         "latitude": 45.5624530442023,
         "longitude": -122.67152133558135,
         "name": "North Portland Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-05T11:00:00-07:00",
-      "id": "willamette_week:19533336@2026-10-05T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0d4a3f1a-d60f-45e8-a916-1fa5deadc316.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3087",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-05T10:00:00-07:00",
-      "title": "Giggles & Wiggles Storytime",
-      "venue": {
-        "address": "2114 Pacific Ave",
-        "city": "Forest Grove",
-        "latitude": 45.519558298716575,
-        "longitude": -123.1086999746265,
-        "name": "Forest Grove City Library"
       }
     },
     {
@@ -62663,6 +62694,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19595762@2026-10-07T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KRzsaacRqUeRujVK3EyU6A.large.png",
+      "is_all_day": true,
+      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T00:00:00-07:00",
+      "title": "Wednesday Wigglers",
+      "venue": {
+        "address": "42461 NW Market Street",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "id": "willamette_week:19895624@2026-10-07T00:00",
@@ -62818,33 +62876,6 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "November 18"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "willamette_week:19595762@2026-10-07T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KRzsaacRqUeRujVK3EyU6A.large.png",
-      "is_all_day": true,
-      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-07T00:00:00-07:00",
-      "title": "Wednesday Wigglers",
-      "venue": {
-        "address": "42461 NW Market Street",
-        "city": "Banks",
-        "latitude": 45.619839,
-        "longitude": -123.113832,
-        "name": "Banks Public Library"
       }
     },
     {
@@ -65277,6 +65308,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-07T23:00:00-07:00",
+      "id": "willamette_week:19684251@2026-10-07T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T19:00:00-07:00",
+      "summary": "Rockstar Bingo is SO much fun and you can jump in anytime! AND its FREE to play! We play from 7PM until 11PM… and maybe later if everyone’s still vibing and wants more banger tunes. Here’s how it works: 🎵 Your bingo card is right on your phone 🎵 Listen while the host plays songs 🎵 Mark the songs you hear on your card 🎵 Dont know the song? Check the TV's for the last song played! 🎵 Got Bingo? Call it and win your prize 🏆 No bingo experience needed — it’s super easy to learn and ridiculously fun to play. Bring your friends, sing along, and test your music knowledge. And don’t worry your pretty little head if you need help getting set up the host will happily help you join and get playing 💃🕺",
+      "title": "Rockstar Bingo",
+      "venue": {
+        "address": "2004 Main Street, Ste 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-07T21:00:00-07:00",
@@ -65451,36 +65512,6 @@
         "latitude": 45.505062,
         "longitude": -122.627829,
         "name": "Allgood Brewing Company"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-07T23:00:00-07:00",
-      "id": "willamette_week:19684251@2026-10-07T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-07T19:00:00-07:00",
-      "summary": "Rockstar Bingo is SO much fun and you can jump in anytime! AND its FREE to play! We play from 7PM until 11PM… and maybe later if everyone’s still vibing and wants more banger tunes. Here’s how it works: 🎵 Your bingo card is right on your phone 🎵 Listen while the host plays songs 🎵 Mark the songs you hear on your card 🎵 Dont know the song? Check the TV's for the last song played! 🎵 Got Bingo? Call it and win your prize 🏆 No bingo experience needed — it’s super easy to learn and ridiculously fun to play. Bring your friends, sing along, and test your music knowledge. And don’t worry your pretty little head if you need help getting set up the host will happily help you join and get playing 💃🕺",
-      "title": "Rockstar Bingo",
-      "venue": {
-        "address": "2004 Main Street, Ste 110",
-        "city": "Forest Grove",
-        "latitude": 45.519786,
-        "longitude": -123.1123,
-        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -68309,6 +68340,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-08T21:00:00-07:00",
+      "id": "willamette_week:16180699@2026-10-08T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2471476479872493/2471476489872492/?active_tab=about",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T18:00:00-07:00",
+      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. We are hosting Rockstar Bingo at the Rooster every Thursday night! We have the amazing Ibby on the mic and plenty of rad prizes to give away. New themes every week. Go to the Red Rooster facebook page to cast your vote on your favorite themes. Bring your phones to play, a charger wouldn't be a bad idea, but we do have a charging station if needed. Get ready for some fun!",
+      "title": "Rockstar Bingo at the Red Rooster Saloon",
+      "venue": {
+        "address": "2004 Main Street Ste 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-10-08T19:00:00-07:00",
@@ -68576,35 +68636,6 @@
         "latitude": 45.519967,
         "longitude": -123.111857,
         "name": "Taqueria Corona"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-08T21:00:00-07:00",
-      "id": "willamette_week:16180699@2026-10-08T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/2471476479872493/2471476489872492/?active_tab=about",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-08T18:00:00-07:00",
-      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. We are hosting Rockstar Bingo at the Rooster every Thursday night! We have the amazing Ibby on the mic and plenty of rad prizes to give away. New themes every week. Go to the Red Rooster facebook page to cast your vote on your favorite themes. Bring your phones to play, a charger wouldn't be a bad idea, but we do have a charging station if needed. Get ready for some fun!",
-      "title": "Rockstar Bingo at the Red Rooster Saloon",
-      "venue": {
-        "address": "2004 Main Street Ste 110",
-        "city": "Forest Grove",
-        "latitude": 45.519786,
-        "longitude": -123.1123,
-        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -70863,34 +70894,6 @@
       "categories": [
         "community"
       ],
-      "end_at": "2026-10-09T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-10-09T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-09T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
       "end_at": "2026-10-09T12:30:00-07:00",
       "id": "willamette_week:18616662@2026-10-09T11:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mRUoffKKLEWkUVMmygQ1-Q.large.png",
@@ -70914,6 +70917,34 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-09T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-10-09T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
       }
     },
     {
@@ -71896,6 +71927,34 @@
       "categories": [
         "family"
       ],
+      "end_at": "2026-10-09T17:00:00-07:00",
+      "id": "willamette_week:19533335@2026-10-09T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/989619e6-ad4a-4cc3-b8fa-5d597b474bb2.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3119",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T16:00:00-07:00",
+      "title": "After-School Artists",
+      "venue": {
+        "address": "2114 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519558298716575,
+        "longitude": -123.1086999746265,
+        "name": "Forest Grove City Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
       "end_at": "2026-10-09T17:30:00-07:00",
       "id": "willamette_week:18899763@2026-10-09T16:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1eO5Bw4bckqyfaAm0fUimQ.large.png",
@@ -71919,34 +71978,6 @@
         "latitude": 45.582817572658264,
         "longitude": -122.68645335011975,
         "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-09T17:00:00-07:00",
-      "id": "willamette_week:19533335@2026-10-09T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/989619e6-ad4a-4cc3-b8fa-5d597b474bb2.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3119",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-09T16:00:00-07:00",
-      "title": "After-School Artists",
-      "venue": {
-        "address": "2114 Pacific Ave",
-        "city": "Forest Grove",
-        "latitude": 45.519558298716575,
-        "longitude": -123.1086999746265,
-        "name": "Forest Grove City Library"
       }
     },
     {
@@ -85315,6 +85346,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-12T11:00:00-07:00",
+      "id": "willamette_week:19533336@2026-10-12T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0d4a3f1a-d60f-45e8-a916-1fa5deadc316.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3088",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-12T10:00:00-07:00",
+      "title": "Giggles & Wiggles Storytime",
+      "venue": {
+        "address": "2114 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519558298716575,
+        "longitude": -123.1086999746265,
+        "name": "Forest Grove City Library"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-12T12:00:00-07:00",
@@ -85371,34 +85430,6 @@
         "latitude": 45.52448406084487,
         "longitude": -123.1102807801869,
         "name": "Pacific University"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-12T11:00:00-07:00",
-      "id": "willamette_week:19533336@2026-10-12T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0d4a3f1a-d60f-45e8-a916-1fa5deadc316.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3088",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-12T10:00:00-07:00",
-      "title": "Giggles & Wiggles Storytime",
-      "venue": {
-        "address": "2114 Pacific Ave",
-        "city": "Forest Grove",
-        "latitude": 45.519558298716575,
-        "longitude": -123.1086999746265,
-        "name": "Forest Grove City Library"
       }
     },
     {
@@ -86535,35 +86566,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-12T22:07:00-07:00",
-      "id": "willamette_week:17539493@2026-10-12T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RbIERhd0J06FhNVq8IQGUw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1478787659863106/1478787733196432/?active_tab=about",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-12T19:00:00-07:00",
-      "summary": "Test your knowledge at Hungry \\+ Thirsty Sasquatch weekly trivia! Starts at 7pm. Free entry. Prizes for 1st, 2nd, and 3rd place. Teams of up to 6.",
-      "title": "TRIVIA NIGHT @ THIRSTY + HUNGRY SASQUATCH",
-      "venue": {
-        "address": "2102 Main St",
-        "city": "Vancouver",
-        "latitude": 45.637555,
-        "longitude": -122.67183,
-        "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
         "sports"
       ],
       "end_at": "2026-10-12T21:00:00-07:00",
@@ -86589,6 +86591,35 @@
         "latitude": 45.535175,
         "longitude": -123.120795,
         "name": "Forest Grove High School"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-12T22:07:00-07:00",
+      "id": "willamette_week:17539493@2026-10-12T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RbIERhd0J06FhNVq8IQGUw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1478787659863106/1478787733196432/?active_tab=about",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-12T19:00:00-07:00",
+      "summary": "Test your knowledge at Hungry \\+ Thirsty Sasquatch weekly trivia! Starts at 7pm. Free entry. Prizes for 1st, 2nd, and 3rd place. Teams of up to 6.",
+      "title": "TRIVIA NIGHT @ THIRSTY + HUNGRY SASQUATCH",
+      "venue": {
+        "address": "2102 Main St",
+        "city": "Vancouver",
+        "latitude": 45.637555,
+        "longitude": -122.67183,
+        "name": "Vancouver"
       }
     },
     {
@@ -90229,6 +90260,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19595762@2026-10-14T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KRzsaacRqUeRujVK3EyU6A.large.png",
+      "is_all_day": true,
+      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-14T00:00:00-07:00",
+      "title": "Wednesday Wigglers",
+      "venue": {
+        "address": "42461 NW Market Street",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "id": "willamette_week:17884605@2026-10-14T00:00",
@@ -90360,33 +90418,6 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "September 19"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "willamette_week:19595762@2026-10-14T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KRzsaacRqUeRujVK3EyU6A.large.png",
-      "is_all_day": true,
-      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-14T00:00:00-07:00",
-      "title": "Wednesday Wigglers",
-      "venue": {
-        "address": "42461 NW Market Street",
-        "city": "Banks",
-        "latitude": 45.619839,
-        "longitude": -123.113832,
-        "name": "Banks Public Library"
       }
     },
     {
@@ -92223,6 +92254,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-14T23:00:00-07:00",
+      "id": "willamette_week:19684251@2026-10-14T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-14T19:00:00-07:00",
+      "summary": "Rockstar Bingo is SO much fun and you can jump in anytime! AND its FREE to play! We play from 7PM until 11PM… and maybe later if everyone’s still vibing and wants more banger tunes. Here’s how it works: 🎵 Your bingo card is right on your phone 🎵 Listen while the host plays songs 🎵 Mark the songs you hear on your card 🎵 Dont know the song? Check the TV's for the last song played! 🎵 Got Bingo? Call it and win your prize 🏆 No bingo experience needed — it’s super easy to learn and ridiculously fun to play. Bring your friends, sing along, and test your music knowledge. And don’t worry your pretty little head if you need help getting set up the host will happily help you join and get playing 💃🕺",
+      "title": "Rockstar Bingo",
+      "venue": {
+        "address": "2004 Main Street, Ste 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "id": "willamette_week:18092423@2026-10-14T19:00",
@@ -92308,36 +92369,6 @@
         "latitude": 45.505062,
         "longitude": -122.627829,
         "name": "Allgood Brewing Company"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-14T23:00:00-07:00",
-      "id": "willamette_week:19684251@2026-10-14T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-14T19:00:00-07:00",
-      "summary": "Rockstar Bingo is SO much fun and you can jump in anytime! AND its FREE to play! We play from 7PM until 11PM… and maybe later if everyone’s still vibing and wants more banger tunes. Here’s how it works: 🎵 Your bingo card is right on your phone 🎵 Listen while the host plays songs 🎵 Mark the songs you hear on your card 🎵 Dont know the song? Check the TV's for the last song played! 🎵 Got Bingo? Call it and win your prize 🏆 No bingo experience needed — it’s super easy to learn and ridiculously fun to play. Bring your friends, sing along, and test your music knowledge. And don’t worry your pretty little head if you need help getting set up the host will happily help you join and get playing 💃🕺",
-      "title": "Rockstar Bingo",
-      "venue": {
-        "address": "2004 Main Street, Ste 110",
-        "city": "Forest Grove",
-        "latitude": 45.519786,
-        "longitude": -123.1123,
-        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -95121,6 +95152,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-15T21:00:00-07:00",
+      "id": "willamette_week:16180699@2026-10-15T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2471476479872493/2471476489872492/?active_tab=about",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-15T18:00:00-07:00",
+      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. We are hosting Rockstar Bingo at the Rooster every Thursday night! We have the amazing Ibby on the mic and plenty of rad prizes to give away. New themes every week. Go to the Red Rooster facebook page to cast your vote on your favorite themes. Bring your phones to play, a charger wouldn't be a bad idea, but we do have a charging station if needed. Get ready for some fun!",
+      "title": "Rockstar Bingo at the Red Rooster Saloon",
+      "venue": {
+        "address": "2004 Main Street Ste 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-10-15T19:00:00-07:00",
@@ -95412,35 +95472,6 @@
         "latitude": 45.337173,
         "longitude": -122.766644,
         "name": "Oregon Dental Association"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-15T21:00:00-07:00",
-      "id": "willamette_week:16180699@2026-10-15T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/2471476479872493/2471476489872492/?active_tab=about",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-15T18:00:00-07:00",
-      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. We are hosting Rockstar Bingo at the Rooster every Thursday night! We have the amazing Ibby on the mic and plenty of rad prizes to give away. New themes every week. Go to the Red Rooster facebook page to cast your vote on your favorite themes. Bring your phones to play, a charger wouldn't be a bad idea, but we do have a charging station if needed. Get ready for some fun!",
-      "title": "Rockstar Bingo at the Red Rooster Saloon",
-      "venue": {
-        "address": "2004 Main Street Ste 110",
-        "city": "Forest Grove",
-        "latitude": 45.519786,
-        "longitude": -123.1123,
-        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -99042,6 +99073,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-16T17:00:00-07:00",
+      "id": "willamette_week:19533335@2026-10-16T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/989619e6-ad4a-4cc3-b8fa-5d597b474bb2.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3120",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T16:00:00-07:00",
+      "title": "After-School Artists",
+      "venue": {
+        "address": "2114 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519558298716575,
+        "longitude": -123.1086999746265,
+        "name": "Forest Grove City Library"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-10-16T19:00:00-07:00",
@@ -99070,34 +99129,6 @@
         "latitude": 45.280178,
         "longitude": -123.063377,
         "name": "Knudsen Vineyards"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-16T17:00:00-07:00",
-      "id": "willamette_week:19533335@2026-10-16T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/989619e6-ad4a-4cc3-b8fa-5d597b474bb2.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.forestgrove-or.gov/calendar.aspx?EID=3120",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-16T16:00:00-07:00",
-      "title": "After-School Artists",
-      "venue": {
-        "address": "2114 Pacific Ave",
-        "city": "Forest Grove",
-        "latitude": 45.519558298716575,
-        "longitude": -123.1086999746265,
-        "name": "Forest Grove City Library"
       }
     },
     {
@@ -106274,35 +106305,6 @@
     },
     {
       "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-17T22:00:00-07:00",
-      "id": "willamette_week:19045508@2026-10-17T19:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MMiNCwum7keTATFmEw5mTw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1621471762889921/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-17T19:30:00-07:00",
-      "summary": "Join us for more family-friendly laughs this fall at Magenta. Tickets $10 at magenta.ludus.com",
-      "title": "Magenta Improv Theater",
-      "venue": {
-        "address": "1108 Main St",
-        "city": "Vancouver",
-        "latitude": 45.629983,
-        "longitude": -122.672035,
-        "name": "Magenta Theater Magenta Theater"
-      }
-    },
-    {
-      "categories": [
         "outdoors"
       ],
       "id": "willamette_week:19812006@2026-10-17T19:30",
@@ -106441,6 +106443,35 @@
         "latitude": 45.521690526832046,
         "longitude": -123.08607918789842,
         "name": "Garage Door"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-17T22:00:00-07:00",
+      "id": "willamette_week:19045508@2026-10-17T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MMiNCwum7keTATFmEw5mTw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1621471762889921/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-17T19:30:00-07:00",
+      "summary": "Join us for more family-friendly laughs this fall at Magenta. Tickets $10 at magenta.ludus.com",
+      "title": "Magenta Improv Theater",
+      "venue": {
+        "address": "1108 Main St",
+        "city": "Vancouver",
+        "latitude": 45.629983,
+        "longitude": -122.672035,
+        "name": "Magenta Theater Magenta Theater"
       }
     },
     {
@@ -110011,6 +110042,38 @@
         "latitude": 45.30012,
         "longitude": -122.97316,
         "name": "Austin Sports Complex"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-18T16:00:00-07:00",
+      "id": "willamette_week:20006751@2026-10-18T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RyML99mUdEKrrHnteknjTw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.nwvocalarts.org/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-18T15:00:00-07:00",
+      "summary": "Enjoy the solace and comfort of one of the greatest masterpieces in choral music. Enjoy one of choral music's most beautiful and inspiring works. Fauré's Requiem in d minor, op. 48 , is a breakthrough piece both for the novel way that Fauré uses the choir and orchestra and for his focus on peaceful rest rather than judgment. Fauré wrote that this work \"is dominated from beginning to end by a very human feeling of faith in eternal rest.” It is a perfect example of French art at its best. Our fall concert will feature the NWVA Olympia professional chamber choir, made up of some of the finest vocalists in our area, and the NWVA Evergreen youth choir performing other contemplative works including Jake Runestad’s Come to the Woods. Samuel Barbara, Executive and Artistic Director of NWVA says of the new season, “We are so excited to be starting our third season and I believe it is a critical part of any strong choral organization to regularly perform the great choral orchestral masterworks.”",
+      "ticket_url": "https://www.eventbrite.com/e/1995820557012?aff=oddtdtcreator",
+      "title": "Fauré’s Requiem Opens Northwest Vocal Arts Third Season",
+      "venue": {
+        "address": "5830 NE Alameda Street",
+        "city": "Portland",
+        "latitude": 45.541965,
+        "longitude": -122.603086,
+        "name": "Rose City Park United Methodist Church"
       }
     },
     {
@@ -115867,6 +115930,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19595762@2026-10-21T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KRzsaacRqUeRujVK3EyU6A.large.png",
+      "is_all_day": true,
+      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-21T00:00:00-07:00",
+      "title": "Wednesday Wigglers",
+      "venue": {
+        "address": "42461 NW Market Street",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "id": "willamette_week:19769073@2026-10-21T00:00",
@@ -115971,33 +116061,6 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "November 7"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "willamette_week:19595762@2026-10-21T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KRzsaacRqUeRujVK3EyU6A.large.png",
-      "is_all_day": true,
-      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-21T00:00:00-07:00",
-      "title": "Wednesday Wigglers",
-      "venue": {
-        "address": "42461 NW Market Street",
-        "city": "Banks",
-        "latitude": 45.619839,
-        "longitude": -123.113832,
-        "name": "Banks Public Library"
       }
     },
     {
@@ -117756,6 +117819,36 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-10-21T23:00:00-07:00",
+      "id": "willamette_week:19684251@2026-10-21T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-21T19:00:00-07:00",
+      "summary": "Rockstar Bingo is SO much fun and you can jump in anytime! AND its FREE to play! We play from 7PM until 11PM… and maybe later if everyone’s still vibing and wants more banger tunes. Here’s how it works: 🎵 Your bingo card is right on your phone 🎵 Listen while the host plays songs 🎵 Mark the songs you hear on your card 🎵 Dont know the song? Check the TV's for the last song played! 🎵 Got Bingo? Call it and win your prize 🏆 No bingo experience needed — it’s super easy to learn and ridiculously fun to play. Bring your friends, sing along, and test your music knowledge. And don’t worry your pretty little head if you need help getting set up the host will happily help you join and get playing 💃🕺",
+      "title": "Rockstar Bingo",
+      "venue": {
+        "address": "2004 Main Street, Ste 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-10-21T21:00:00-07:00",
       "id": "willamette_week:19963226@2026-10-21T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wLi5KWqid0SvomOZXhd_8g.large.jpg",
@@ -117958,36 +118051,6 @@
         "latitude": 45.505062,
         "longitude": -122.627829,
         "name": "Allgood Brewing Company"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-21T23:00:00-07:00",
-      "id": "willamette_week:19684251@2026-10-21T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-21T19:00:00-07:00",
-      "summary": "Rockstar Bingo is SO much fun and you can jump in anytime! AND its FREE to play! We play from 7PM until 11PM… and maybe later if everyone’s still vibing and wants more banger tunes. Here’s how it works: 🎵 Your bingo card is right on your phone 🎵 Listen while the host plays songs 🎵 Mark the songs you hear on your card 🎵 Dont know the song? Check the TV's for the last song played! 🎵 Got Bingo? Call it and win your prize 🏆 No bingo experience needed — it’s super easy to learn and ridiculously fun to play. Bring your friends, sing along, and test your music knowledge. And don’t worry your pretty little head if you need help getting set up the host will happily help you join and get playing 💃🕺",
-      "title": "Rockstar Bingo",
-      "venue": {
-        "address": "2004 Main Street, Ste 110",
-        "city": "Forest Grove",
-        "latitude": 45.519786,
-        "longitude": -123.1123,
-        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -120340,6 +120403,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-22T21:00:00-07:00",
+      "id": "willamette_week:16180699@2026-10-22T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2471476479872493/2471476489872492/?active_tab=about",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-22T18:00:00-07:00",
+      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. We are hosting Rockstar Bingo at the Rooster every Thursday night! We have the amazing Ibby on the mic and plenty of rad prizes to give away. New themes every week. Go to the Red Rooster facebook page to cast your vote on your favorite themes. Bring your phones to play, a charger wouldn't be a bad idea, but we do have a charging station if needed. Get ready for some fun!",
+      "title": "Rockstar Bingo at the Red Rooster Saloon",
+      "venue": {
+        "address": "2004 Main Street Ste 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-10-22T19:00:00-07:00",
@@ -120518,35 +120610,6 @@
         "latitude": 45.502168,
         "longitude": -123.163082,
         "name": "Carpenter Creek Farm & Winery"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-22T21:00:00-07:00",
-      "id": "willamette_week:16180699@2026-10-22T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/2471476479872493/2471476489872492/?active_tab=about",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-22T18:00:00-07:00",
-      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. We are hosting Rockstar Bingo at the Rooster every Thursday night! We have the amazing Ibby on the mic and plenty of rad prizes to give away. New themes every week. Go to the Red Rooster facebook page to cast your vote on your favorite themes. Bring your phones to play, a charger wouldn't be a bad idea, but we do have a charging station if needed. Get ready for some fun!",
-      "title": "Rockstar Bingo at the Red Rooster Saloon",
-      "venue": {
-        "address": "2004 Main Street Ste 110",
-        "city": "Forest Grove",
-        "latitude": 45.519786,
-        "longitude": -123.1123,
-        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -122480,34 +122543,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-23T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-10-23T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-23T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-10-23T11:30:00-07:00",
@@ -122560,6 +122595,34 @@
         "latitude": 45.35734,
         "longitude": -122.60676,
         "name": "Oregon City"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-23T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-10-23T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
       }
     },
     {
@@ -125701,7 +125764,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-23T20:26:47+00:00",
+  "generated_at": "2026-09-23T23:45:08+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
