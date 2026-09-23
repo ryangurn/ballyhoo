@@ -5178,37 +5178,6 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:rZ7HnEZ1A4ZF_S",
-      "image_url": "https://s1.ticketm.net/dam/a/c33/38c38236-9a11-4f75-9a82-c2985206bc33_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/salin-with-midpak-star-theater-tickets/15008673",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 34.48,
-        "min": 34.48
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-07T20:00:00-07:00",
-      "summary": "Sould Out Presents: Salin w/ MidpakDoors : 7:00pmShow : 8:00pm Ages 21+.Salin is a Thai-born drummer, Juno-nominated producer, and composer. She was chosen to be one of the 6 artists of CBCs Revelation Canada (2025) and has been featured on the cover of Tidals Best New Jazz and Spotifys Fresh Finds Jazz playlists.Her newly released album Rammana is a groundbreaking album that merges afro-jazz, funk, and indigenous Thai instruments, forming a new sub-genre that Salin calls Afro Thai Funk. This unique blend highlights shared global music traditions and reminds us that music is a universal language, transcending borders and uniting us all in a shared experience of joy and creativity. Through her music, she ponders themes of identity, spirituality, and humanity, all paired with a dose of fun to create a unique sonic journey for her listeners.Coming out of Seattle, Washington, Midpak is an instrumental funk-fueled psychedelic experience. With influences ranging from 70s funk to global grooves, and no fear of electronica, Midpak has created a new unique sound, and theyre eager to share.",
-      "ticket_url": "https://www.ticketweb.com/event/salin-with-midpak-star-theater-tickets/15008673",
-      "title": "SALIN with Midpak",
-      "venue": {
-        "address": "13 NW Sixth Avenue",
-        "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
-        "name": "Star Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "id": "ticketmaster:vvG1HZ_o3b1pDd",
       "image_url": "https://s1.ticketm.net/dam/a/3b1/9b96daf2-28c3-4c3f-bcb9-62eac5f163b1_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -10832,7 +10801,7 @@
       "start_at": "2026-10-26T20:00:00-07:00",
       "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
       "ticket_url": "https://www.ticketweb.com/event/abby-webster-her-imaginary-showdown-saloon-tickets/14291834",
-      "title": "Abby Webster & Her Imaginary Band with Rodeo Wilson",
+      "title": "Abby Webster & Her Imaginary Band with Rodeo Wilson and West Coast Country Superstars",
       "venue": {
         "address": "1195 SE Powell Blvd",
         "city": "Portland",
@@ -16241,6 +16210,37 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "McMenamins Crystal Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfG3AV",
+      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/tribute-to-wilco-neil-young-showdown-saloon-tickets/14312174",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.16,
+        "min": 25.16
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-20T20:00:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/tribute-to-wilco-neil-young-showdown-saloon-tickets/14312174",
+      "title": "Tribute to Wilco, Neil Young, and Elliott Smith Featuring Wilclone, Mars FM, and Rose Parade",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -26001,7 +26001,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-22T22:05:32+00:00",
+  "generated_at": "2026-09-23T00:28:50+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
