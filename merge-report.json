@@ -2236,7 +2236,7 @@
       "dropped": "dopdx:17217970",
       "kept": "ticketmaster:vvG1HZ_FLJtDXU",
       "start_at": "2026-10-02T19:30:00-07:00",
-      "title_dropped": "SOMBR with special guest: BALU BRIGADA & THE HELLP",
+      "title_dropped": "SOMBR",
       "title_kept": "SOMBR - You Are The Reason Tour",
       "venue": "Moda Center"
     },
@@ -2245,7 +2245,7 @@
       "kept": "dopdx:17217970",
       "start_at": "2026-10-02T19:30:00-07:00",
       "title_dropped": "SOMBR - You Are The Reason Tour",
-      "title_kept": "SOMBR with special guest: BALU BRIGADA & THE HELLP",
+      "title_kept": "SOMBR",
       "venue": "Moda Center"
     },
     {
@@ -3177,19 +3177,19 @@
       "venue": "Roseland Theater"
     },
     {
+      "dropped": "willamette_week:19879658@2026-10-05T18:30",
+      "kept": "dopdx:17620601",
+      "start_at": "2026-10-05T19:00:00-07:00",
+      "title_dropped": "Kaonashi & The Number Twelve Looks Like You & Blind Equation",
+      "title_kept": "The Number Twelve Looks Like You - Kaonashi - Blind Equation",
+      "venue": "The High Limit Room"
+    },
+    {
       "dropped": "dopdx:16582703",
       "kept": "ticketmaster:vvG1HZbgBK01OI",
       "start_at": "2026-10-05T19:00:00-07:00",
       "title_dropped": "The Neighbourhood",
       "title_kept": "The Neighbourhood: THE WOURLD TOUR",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "willamette_week:18134658@2026-10-05T19:30",
-      "kept": "dopdx:16582703",
-      "start_at": "2026-10-05T19:00:00-07:00",
-      "title_dropped": "The Neighbourhood: The World Tour 2026",
-      "title_kept": "The Neighbourhood",
       "venue": "Moda Center"
     },
     {
@@ -3199,6 +3199,14 @@
       "title_dropped": "Square Dancing",
       "title_kept": "Square Dancing",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:18134658@2026-10-05T19:30",
+      "kept": "ticketmaster:vvG1HZbgBK01OI",
+      "start_at": "2026-10-05T19:00:00-07:00",
+      "title_dropped": "The Neighbourhood: The World Tour 2026",
+      "title_kept": "The Neighbourhood: THE WOURLD TOUR",
+      "venue": "Moda Center"
     },
     {
       "dropped": "willamette_week:18916784@2026-10-05T20:00",
@@ -6785,14 +6793,6 @@
       "venue": "Dante's"
     },
     {
-      "dropped": "willamette_week:19879658@2026-10-05T18:30",
-      "kept": "dopdx:17620601",
-      "start_at": "2026-10-05T19:00:00-07:00",
-      "title_dropped": "Kaonashi & The Number Twelve Looks Like You & Blind Equation",
-      "title_kept": "The Number Twelve Looks Like You - Kaonashi - Blind Equation",
-      "venue": "The High Limit Room"
-    },
-    {
       "dropped": "willamette_week:17586570@2026-10-05T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AKPwu7",
       "start_at": "2026-10-05T21:00:00-07:00",
@@ -6873,9 +6873,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 6354,
-  "floor_check": "6354 events against a 6336-event baseline",
-  "generated_at": "2026-09-23T17:31:09+00:00",
+  "event_count": 6449,
+  "floor_check": "6449 events against a 6336-event baseline",
+  "generated_at": "2026-09-23T17:59:19+00:00",
   "problems": [],
   "sources": [
     "calagator",
