@@ -233,14 +233,6 @@
       "venue": "McMenamins Crystal Ballroom"
     },
     {
-      "dropped": "dopdx:17669713",
-      "kept": "ticketmaster:rZ7HnEZ1AfaFu7",
-      "start_at": "2026-09-23T20:00:00-07:00",
-      "title_dropped": "Grivo with No Floor, Herr God, & House of Warmth",
-      "title_kept": "GRIVO with No Floor, & House of Warmth",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:19570942@2026-09-23T20:00",
       "kept": "dopdx:17669713",
       "start_at": "2026-09-23T20:00:00-07:00",
@@ -295,6 +287,14 @@
       "title_dropped": "Arlo Parks",
       "title_kept": "Arlo Parks",
       "venue": "Wonder Ballroom"
+    },
+    {
+      "dropped": "dopdx:17669713",
+      "kept": "ticketmaster:rZ7HnEZ1AfaFu7",
+      "start_at": "2026-09-23T20:30:00-07:00",
+      "title_dropped": "Grivo with No Floor, Herr God, & House of Warmth",
+      "title_kept": "GRIVO with No Floor, & House of Warmth",
+      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19442191@2026-09-23T20:30",
@@ -6905,9 +6905,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 6535,
-  "floor_check": "6535 events against a 6354-event baseline",
-  "generated_at": "2026-09-23T23:37:52+00:00",
+  "event_count": 6536,
+  "floor_check": "6536 events against a 6401-event baseline",
+  "generated_at": "2026-09-23T23:40:57+00:00",
   "problems": [],
   "sources": [
     "calagator",
