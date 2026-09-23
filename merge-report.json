@@ -1145,6 +1145,14 @@
       "venue": "The Midnight PDX & The SIX Music Venue."
     },
     {
+      "dropped": "willamette_week:20005189@2026-09-26T21:00",
+      "kept": "dopdx:17854919",
+      "start_at": "2026-09-26T21:00:00-07:00",
+      "title_dropped": "TIMELESS MAKERZ ENTERTAINMENT PRESENTS: SPOTLIGHT CYPHER PAPPI SD",
+      "title_kept": "Timeless Makerz Entertainment Presents: Spotlight Cypher, Pappi Sd, Mubbz, Rello, Whoadie The Bandit, Bandz",
+      "venue": "Kelly's Olympian"
+    },
+    {
       "dropped": "willamette_week:19108251@2026-09-26T21:00",
       "kept": "dopdx:17768719",
       "start_at": "2026-09-26T21:00:00-07:00",
@@ -5337,6 +5345,14 @@
       "venue": "Revolution Hall"
     },
     {
+      "dropped": "willamette_week:20005190@2026-10-16T20:00",
+      "kept": "dopdx:17838421",
+      "start_at": "2026-10-16T20:00:00-07:00",
+      "title_dropped": "SAD BOY UNION, DONKEY JAW (NV), JACKIE CLEMENTINE (CA)",
+      "title_kept": "Sad Boy Union, Donkey Jaw (Nv), Jackie Clementine (Ca)",
+      "venue": "Kelly's Olympian"
+    },
+    {
       "dropped": "dopdx:17620966",
       "kept": "ticketmaster:rZ7HnEZ1AfaOu7",
       "start_at": "2026-10-16T20:00:00-07:00",
@@ -6617,6 +6633,14 @@
       "venue": "High Water Mark Lounge"
     },
     {
+      "dropped": "willamette_week:20005222@2026-10-17T08:30",
+      "kept": "portland_farmers_market:celebration-of-matt-choi-2026@2026-10-17",
+      "start_at": "2026-10-17T08:30:00-07:00",
+      "title_dropped": "Celebration of Matt Choi's Legacy Event & Fundraiser",
+      "title_kept": "Celebration of Matt Choi&#8217;s Legacy Event &amp; Fundraiser",
+      "venue": "PSU Farmers Market"
+    },
+    {
       "dropped": "obt:830",
       "kept": "ticketmaster:Z7r9jZ1AAvzk3",
       "start_at": "2026-12-05T14:00:00-08:00",
@@ -6873,9 +6897,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 6449,
-  "floor_check": "6449 events against a 6336-event baseline",
-  "generated_at": "2026-09-23T20:15:10+00:00",
+  "event_count": 6536,
+  "floor_check": "6536 events against a 6336-event baseline",
+  "generated_at": "2026-09-23T20:28:08+00:00",
   "problems": [],
   "sources": [
     "calagator",
