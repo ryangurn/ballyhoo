@@ -1,30 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:19794487@2026-09-23T19:00",
-      "kept": "calagator:1250482693",
-      "start_at": "2026-09-23T19:00:00-07:00",
-      "title_dropped": "The Last Dive: Portland Premiere",
-      "title_kept": "The Last Dive: Portland Premiere",
-      "venue": "Cinema 21"
-    },
-    {
-      "dropped": "willamette_week:19348739@2026-09-23T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1Af18ef",
-      "start_at": "2026-09-23T19:00:00-07:00",
-      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "title_kept": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:19165860@2026-09-23T19:30",
-      "kept": "ticketmaster:Z7r9jZ1A70MJ4",
-      "start_at": "2026-09-23T19:30:00-07:00",
-      "title_dropped": "Sonic Symphony",
-      "title_kept": "Sonic - Live in Concert",
-      "venue": "Keller Auditorium"
-    },
-    {
       "dropped": "willamette_week:19082954@2026-09-24T18:00",
       "kept": "dopdx:17449630",
       "start_at": "2026-09-24T18:00:00-07:00",
@@ -6945,6 +6921,22 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
+      "dropped": "willamette_week:19348739@2026-09-23T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af18ef",
+      "start_at": "2026-09-23T19:00:00-07:00",
+      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "title_kept": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19165860@2026-09-23T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A70MJ4",
+      "start_at": "2026-09-23T19:30:00-07:00",
+      "title_dropped": "Sonic Symphony",
+      "title_kept": "Sonic - Live in Concert",
+      "venue": "Keller Auditorium"
+    },
+    {
       "dropped": "willamette_week:19484136@2026-09-23T20:00",
       "kept": "ticketmaster:rZ7HnEZ1AfJ3eK",
       "start_at": "2026-09-23T20:00:00-07:00",
@@ -7009,9 +7001,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 6526,
-  "floor_check": "6526 events against a 6535-event baseline",
-  "generated_at": "2026-09-24T01:41:23+00:00",
+  "event_count": 6523,
+  "floor_check": "6523 events against a 6535-event baseline",
+  "generated_at": "2026-09-24T04:37:48+00:00",
   "problems": [],
   "sources": [
     "calagator",
