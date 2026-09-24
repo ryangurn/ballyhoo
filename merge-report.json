@@ -593,6 +593,14 @@
       "venue": "45 East"
     },
     {
+      "dropped": "willamette_week:20019925@2026-09-25T22:00",
+      "kept": "dopdx:17252196",
+      "start_at": "2026-09-25T22:00:00-07:00",
+      "title_dropped": "Arlo - Ages 21+",
+      "title_kept": "Arlo + Fromclay",
+      "venue": "45 East"
+    },
+    {
       "dropped": "willamette_week:17758226@2026-09-25T22:00",
       "kept": "dopdx:17406830",
       "start_at": "2026-09-25T22:00:00-07:00",
@@ -3537,6 +3545,14 @@
       "venue": "45 East"
     },
     {
+      "dropped": "willamette_week:20019926@2026-10-08T21:00",
+      "kept": "dopdx:17470783",
+      "start_at": "2026-10-08T21:00:00-07:00",
+      "title_dropped": "Pendulum - Ages 21+",
+      "title_kept": "Pendulum [Dj Set] + Koji Aiken",
+      "venue": "45 East"
+    },
+    {
       "dropped": "willamette_week:19660520@2026-10-08T22:00",
       "kept": "dopdx:17473181",
       "start_at": "2026-10-08T22:00:00-07:00",
@@ -3815,6 +3831,14 @@
       "title_dropped": "Anna Graves w/ Trinity Jane",
       "title_kept": "Anna Graves",
       "venue": "Mississippi Studios"
+    },
+    {
+      "dropped": "willamette_week:19449658@2026-10-09T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPvjN",
+      "start_at": "2026-10-09T21:00:00-07:00",
+      "title_dropped": "Lou Hazel with Jeffrey Silverstein",
+      "title_kept": "Lou Hazel with Jeffrey Silverstein",
+      "venue": "Showdown Saloon"
     },
     {
       "dropped": "willamette_week:19801682@2026-10-09T21:30",
@@ -4265,6 +4289,14 @@
       "venue": "45 East"
     },
     {
+      "dropped": "willamette_week:20019927@2026-10-10T22:00",
+      "kept": "dopdx:17644099",
+      "start_at": "2026-10-10T22:00:00-07:00",
+      "title_dropped": "Said the Sky - Ages 21+",
+      "title_kept": "Said The Sky",
+      "venue": "45 East"
+    },
+    {
       "dropped": "willamette_week:14445255@2026-10-10T22:30",
       "kept": "ticketmaster:rZ7HnEZ1AfZ-q7",
       "start_at": "2026-10-10T22:30:00-07:00",
@@ -4487,6 +4519,14 @@
       "title_dropped": "Branford Marsalis & Dianne Reeves Celebrate John Coltrane",
       "title_kept": "Hot Flash Heat Wave (21 and Over)",
       "venue": "Revolution Hall - Portland"
+    },
+    {
+      "dropped": "willamette_week:20019928@2026-10-11T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfGgv0",
+      "start_at": "2026-10-11T20:00:00-07:00",
+      "title_dropped": "THE STUPID GIRLS followed by Sinferno Cabaret",
+      "title_kept": "THE STUPID GIRLS followed by Sinferno Cabaret",
+      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19957053@2026-10-11T20:00",
@@ -5246,6 +5286,14 @@
       "start_at": "2026-10-16T22:00:00-07:00",
       "title_dropped": "Caspa B2 B The Widdler",
       "title_kept": "Caspa - Ages 21+",
+      "venue": "45 East"
+    },
+    {
+      "dropped": "willamette_week:20019929@2026-10-16T22:00",
+      "kept": "dopdx:17769645",
+      "start_at": "2026-10-16T22:00:00-07:00",
+      "title_dropped": "Caspa - Ages 21+",
+      "title_kept": "Caspa B2 B The Widdler",
       "venue": "45 East"
     },
     {
@@ -6705,6 +6753,14 @@
       "venue": "45 East"
     },
     {
+      "dropped": "willamette_week:20019930@2026-10-23T22:00",
+      "kept": "dopdx:17754939",
+      "start_at": "2026-10-23T22:00:00-07:00",
+      "title_dropped": "Rise of the Shadowcell Tour - Ages 21+",
+      "title_kept": "The Resistance Rise Of The Shadowcell Tour",
+      "venue": "45 East"
+    },
+    {
       "dropped": "willamette_week:19879714@2026-10-23T22:00",
       "kept": "dopdx:17584792",
       "start_at": "2026-10-23T22:00:00-07:00",
@@ -7047,11 +7103,19 @@
       "title_dropped": "Audien",
       "title_kept": "Audien - Ages 21+",
       "venue": "45 East"
+    },
+    {
+      "dropped": "willamette_week:14445255@2026-10-24T22:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfZ-b7",
+      "start_at": "2026-10-24T22:30:00-07:00",
+      "title_dropped": "BURLY-Q REVUE",
+      "title_kept": "BURLY-Q REVUE",
+      "venue": "Jack London Revue"
     }
   ],
   "event_count": 6559,
   "floor_check": "6559 events against a 6551-event baseline",
-  "generated_at": "2026-09-24T15:03:28+00:00",
+  "generated_at": "2026-09-24T15:12:45+00:00",
   "problems": [],
   "sources": [
     "calagator",
