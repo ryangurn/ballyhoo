@@ -49391,7 +49391,7 @@
         "currency": "USD",
         "is_free": false,
         "max": 143.25,
-        "min": 38.75
+        "min": 33.75
       },
       "source": {
         "id": "dopdx",
@@ -49400,7 +49400,7 @@
       },
       "start_at": "2026-10-02T19:00:00-07:00",
       "summary": "About Emei: A little drama never hurt anybody Emei knows how to bring it too. She’s an unabashed “theater kid” who grew up into an Ivy League-educated pop femme fatale at the helm of a crazy, candy-coated, and colorful world of her own making. With a bold voice that’s as vibrant as her personality, the New Jersey-born Chinese-American songstress delivers clever and catchy anthems meant to be blasted out loud. After gathering over a quarter-of-a-billion streams, selling out shows, and attracting multi-GRAMMY® Award-winning mega-producer Ricky Reed [Lizzo, Leon Bridges, Camila Cabello, Phantogram, Jon Batiste] to her corner, she embraces her theatricality on her Night At The Opera EP [Atlantic Records / Nice Life].",
-      "title": "EMEI – Night at the Opera Tour",
+      "title": "EMEI – Night at the Opera Tour With special guest Madeline",
       "venue": {
         "address": "128 N.e. Russell Street",
         "city": "Portland",
@@ -135664,38 +135664,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-18T02:00:00-07:00",
-      "id": "dopdx:17492944",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1781807821/event-17492944.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/10/17/hazlett-tickets",
-      "organizer": "Monqui Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 56.25,
-        "min": 36.5
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-10-17T19:30:00-07:00",
-      "summary": "About Hazlett: Sweden-based, Australian-born Hazlett returns to the road following the success of his latest full-length album, “last night you said you missed me”. Hazlett divulges: “When I started this whole thing I wanted anyone who starts to listen to feel like they’re part of this whole thing with me—growing and finding ourselves along the way.” Over the past several years, Hazlett and his unique brand of Indie Folk have quietly built a devoted following through his heartfelt songwriting and captivating live performances. Whether it’s an intimate clubs, historic theatre, or on festival stages around the world, his ability to create genuine connection with audiences continues to set him apart. From lush acoustic textures to stripped-bac",
-      "title": "Hazlett",
-      "venue": {
-        "address": "128 N.e. Russell Street",
-        "city": "Portland",
-        "latitude": 45.5407835,
-        "longitude": -122.6634794,
-        "name": "Wonder Ballroom"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-18T02:00:00-07:00",
@@ -152033,7 +152001,7 @@
         "currency": "USD",
         "is_free": false,
         "max": 56.25,
-        "min": 34.0
+        "min": 29.0
       },
       "source": {
         "id": "dopdx",
@@ -155200,6 +155168,38 @@
         "latitude": 45.5197386178146,
         "longitude": -123.05865727043835,
         "name": "Cornelius Public Library"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-23T02:00:00-07:00",
+      "id": "dopdx:17881044",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/22/nice-as-f-k-back-as-f-k-nice-as-ever-tickets-6zmrlmn",
+      "organizer": "Monqui Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-22T16:00:00-07:00",
+      "summary": "About Nice As F*#K: Gather ‘round ladies, I am God’s favorite evolved male music journalist! This is my resounding endorsement of Nice As Fuck! Damn, this is a good look for me! I can feel my incomplete chromosome regenerating as we speak! Not so much a crass “bio” engineered to cynically exploit the no-shortage-of-sexy-talking-points-that-have-little-to-nothing-to-with-the-actual-music (THEIR EYES ARE UP THERE JESUS), this is in reality more a tacit referendum on the most successful PR campaign of all time: selling you on the indispensability of the male gender. Which I totally get, and am all-to-well-aware of my complicity in that. It sucks. I am the “post-modern man” [eye roll]. But seriously, I am the new tyranny, like, the sole bear",
+      "title": "Nice As F*#K – Back As F*#K Nice As Ever",
+      "venue": {
+        "address": "128 N.e. Russell Street",
+        "city": "Portland",
+        "latitude": 45.5407835,
+        "longitude": -122.6634794,
+        "name": "Wonder Ballroom"
       }
     },
     {
@@ -197258,5 +197258,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-25T20:42:48+00:00"
+  "generated_at": "2026-09-25T20:45:44+00:00"
 }
