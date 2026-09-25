@@ -11154,6 +11154,33 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-09-26T14:30:00-07:00",
+      "id": "dopdx:17881764",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790263715/event-17881764.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/26/sc-summits-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-26T10:45:00-07:00",
+      "summary": "Welcome back to the next installment of Slabtown Circuits: Summits. Come climb some big hills with us!",
+      "title": "SC: Summits",
+      "venue": {
+        "address": "1560 NW 21st Ave",
+        "city": "Portland",
+        "name": "Trek Bicycle Portland Slabtown"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-26T12:15:00-07:00",
@@ -13502,6 +13529,59 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-09-26T21:00:00-07:00",
+      "id": "dopdx:17879721",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230273/event-17879721.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/26/pee-wee-pub-crawl-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.52,
+        "min": 23.18
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-26T15:00:00-07:00",
+      "summary": "Celebrate all things Pee-wee Herman on a fun-filled pub crawl in southeast Portland on Saturday, September 26th! Costumes encouraged.",
+      "title": "Pee-wee Pub Crawl",
+      "venue": {
+        "name": "Top secret meet-up location revealed to ticket holders"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-09-26T18:30:00-07:00",
+      "id": "dopdx:17879772",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230520/event-17879772.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/26/peel-paint-tickets",
+      "organizer": "YOU MATTER BEAUTY PRESENTS",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-26T15:00:00-07:00",
+      "summary": "Peel, paint & mingle with us. No pressure. No stuffiness. Just an afternoon centered around skin, self-care, creativity, and community!",
+      "title": "Peel & Paint",
+      "venue": {
+        "name": "3939 NE Hancock St"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "willamette_week:19863545@2026-09-26T15:00",
@@ -15806,6 +15886,37 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-09-26T21:00:00-07:00",
+      "id": "dopdx:17879771",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230515/event-17879771.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/26/gets-dark-comedy-show-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.18,
+        "min": 23.18
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-26T19:00:00-07:00",
+      "summary": "Portland’s darkest comedy show in Portland's darkest place, because life can be dark af, and all you can do is laugh.",
+      "title": "Gets Dark Comedy Show",
+      "venue": {
+        "name": "Shanghai Tunnel Bar"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-09-27T02:00:00-07:00",
@@ -16143,37 +16254,6 @@
         "latitude": 45.527475,
         "longitude": -122.931775,
         "name": "Breathing Room Yoga + Wellness Studio"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-09-26T21:00:00-07:00",
-      "id": "willamette_week:19143824@2026-09-26T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dyZHWMWixUOrJjfxJQ5e-A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/gets-dark-comedy-show-tickets-1976686287898",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 23.18,
-        "min": 23.18
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-26T19:00:00-07:00",
-      "summary": "Portland’s darkest comedy show in Portland's darkest place, because life can be dark af, and all you can do is laugh.",
-      "title": "Gets Dark Comedy Show",
-      "venue": {
-        "address": "211 SW Ankeny St",
-        "city": "Portland",
-        "latitude": 45.5227,
-        "longitude": -122.672553,
-        "name": "Shanghai Tunnel Bar"
       }
     },
     {
@@ -20821,6 +20901,35 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-09-27T13:30:00-07:00",
+      "id": "dopdx:17879751",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230370/event-17879751.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/27/drag-brunch-bar-cala-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.52,
+        "min": 28.52
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-27T11:00:00-07:00",
+      "summary": "DRAG BRUNCH BAR-CALA (Sunday, SEPTEMBER 27)",
+      "title": "Drag Brunch Bar Cala",
+      "venue": {
+        "address": "2703 NE Alberta Street",
+        "city": "Portland",
+        "name": "Bar Cala"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:forest-bathing-walk-2026-09-27",
@@ -23081,6 +23190,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-28T02:00:00-07:00",
+      "id": "dopdx:17882538",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790272450/event-17882538.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/27/sunday-comedy-open-mic-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-27T15:30:00-07:00",
+      "title": "Sunday Comedy Open Mic",
+      "venue": {
+        "address": "426 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5199352,
+        "longitude": -122.6765458,
+        "name": "Kelly's Olympian"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-09-27T16:30:00-07:00",
@@ -23666,6 +23805,33 @@
       "title": "Nada Prana Vocal Meditation",
       "venue": {
         "name": "Pacha Collective"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-09-27T18:00:00-07:00",
+      "id": "dopdx:17879750",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230363/event-17879750.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/27/restorative-sound-bath-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 39.19,
+        "min": 39.19
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-27T17:00:00-07:00",
+      "summary": "A restorative crystal bowl sound bath designed to help your body settle, reset, and come back into balance.",
+      "title": "Restorative Sound Bath",
+      "venue": {
+        "name": "All Heart Yoga"
       }
     },
     {
@@ -57376,6 +57542,36 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-03T18:30:00-07:00",
+      "id": "dopdx:17886584",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790347994/event-17886584.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/3/traumamatized-all-mamas-and-2s-tickets",
+      "organizer": "Umi Om",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-03T17:00:00-07:00",
+      "summary": "TrauMaMatized: All Mamas and 2S edition. Saturday October 2, 2026 at 5:00 pm at Covert Cafe in Portland, OR. Portland’s finest comedians gather to talk about their trauma as Mamas’s and 2S. This lineup is fierce and full of passion. @angeliquebeillin, @carlos_kareem_windham, @hannahskforreal, @lorier_expectations, @kristinlrowan and Manie Poster artist @peli.mira #portland #pdx #comedy #standupcomedy #giggleconsistently",
+      "title": "TrauMaMatized: All MaMas and 2S",
+      "venue": {
+        "address": "803 SE 82nd Ave.",
+        "city": "Portland",
+        "name": "Covert Cafe"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-03T22:00:00-07:00",
@@ -68438,6 +68634,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-06T02:00:00-07:00",
+      "id": "dopdx:17879674",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790229677/event-17879674.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/5/school-of-rock-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-05T16:30:00-07:00",
+      "summary": "School of Rock's music programs are designed to motivate and inspire students to work together and grow as musicians. Each month, the School of Rock's House Band presents a free showcase by their most advanced students.",
+      "title": "School Of Rock",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-05T18:30:00-07:00",
@@ -70505,13 +70730,17 @@
     },
     {
       "categories": [
-        "community"
+        "nightlife"
       ],
       "end_at": "2026-10-06T19:00:00-07:00",
-      "id": "willamette_week:19686003@2026-10-06T09:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GZq8qZ6aJk2-zHAh2wP95Q.large.png",
+      "id": "dopdx:17879770",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230509/event-17879770.png",
       "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/counter-culture-portland-tickets-1997450291592",
+      "listing_url": "https://dopdx.com/events/2026/10/6/counter-culture-portland-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -70519,18 +70748,14 @@
         "min": 55.2
       },
       "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
       },
       "start_at": "2026-10-06T09:30:00-07:00",
       "summary": "Join us in Portland, Oregon, for a day of cheese education and networking with industry peers.",
       "title": "Counter Culture Portland",
       "venue": {
-        "address": "930 Southeast Oak Street",
-        "city": "Portland",
-        "latitude": 45.519892,
-        "longitude": -122.656271,
         "name": "Bauman's on Oak"
       }
     },
@@ -72257,6 +72482,39 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-06T20:00:00-07:00",
+      "id": "dopdx:17879776",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230548/event-17879776.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/6/a-conversation-with-tim-leatherman-inventor-of-the-leatherman-multi-tool-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 38.79,
+        "min": 38.79
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-06T18:00:00-07:00",
+      "summary": "Join us on October 6th as we welcome the inventor of the Leatherman multi-tool to Powell's!",
+      "ticket_url": "https://www.eventbrite.com/e/a-conversation-with-tim-leatherman-inventor-of-the-leatherman-multi-tool-tickets-1991496445478?aff=oddtdtcreator",
+      "title": "A Conversation with Tim Leatherman, Inventor of the Leatherman Multi-Tool",
+      "venue": {
+        "address": "1005 W Burnside St",
+        "name": "Powell's City of Books"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-07T02:00:00-07:00",
@@ -72602,35 +72860,6 @@
     },
     {
       "categories": [
-        "literary"
-      ],
-      "id": "willamette_week:19495574@2026-10-06T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-S1CehkR10yjAxx04sxxAQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/901082966406572/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-06T18:00:00-07:00",
-      "summary": "A Conversation with Tim Leatherman, Inventor of the Leatherman Multi-Tool Join us on October 6th as we welcome the inventor of the Leatherman multi-tool to Powell's! Tim Leatherman, creator of the Leatherman Pocket Survival Tool and cofounder of the iconic Portland company, presents his inspiring personal story as a practical how-to guide for entrepreneurs, inventors, artists, and creatives of all kinds who want to pursue their own big ideas. On a budget trip to Europe in 1975, Tim started making a list of ideas for what to do with the rest of his life. After months of fixing the plumbing in cheap hotels and toiling on his temperamental Fiat, he added to his list of ideas: “Add pliers to pocketknife.” Little did he know he would spend the following four decades building an iconic American company that would go on to manufacture more than 90 million multi-tools in its Portland, Oregon factory. His latest multi-tool is a book. In The Leatherman Book \\(Ballantine\\), Tim uses the pieces of his story as tools to help dreamers, entrepreneurs, inventors, and creatives of all kinds build their own big ideas. Each chapter shares valuable insight into how Tim built his invention and his company — and the lessons he’s learned doing it — including: \\* You don’t have to be \"qualified\" to pursue your big idea. \\* If you’re serious about your principles, they become your competitive advantage. \\* Your most important tool is a willingness to figure things out as you go along. Weaving storytelling, advice, and never-before-seen photos, The Leatherman Book is a visionary and intimate look at a true American icon, meant to inspire and enable dreamers to bring their ideas to life. Leatherman will be joined in conversation by Chris Kornelis, The Leatherman Book co-author, and The Wall Street Journal reporter, and moderated by Bill Monroe, longtime outdoor writer for The Oregonian/OregonLive — and the first journalist to write about the Leatherman multi-tool! Please note: This is a ticketed event. Tickets include admission, as well as one hardcover copy of The Leatherman Book. Books distributed at event. ️: Purchase your book-inclusive ticket: https://www.eventbrite.com/e/a-conversation-with-tim-leatherman-inventor-of-the-leatherman-multi-tool-tickets-1991496445478?aff=oddtdtcreator",
-      "ticket_url": "https://www.eventbrite.com/e/a-conversation-with-tim-leatherman-inventor-of-the-leatherman-multi-tool-tickets-1991496445478?aff=oddtdtcreator",
-      "title": "Powell's Presents: Tim Leatherman, Inventor of the Leatherman Multi-Tool - TICKETED EVENT",
-      "venue": {
-        "address": "1005 W Burnside St",
-        "city": "Portland",
-        "latitude": 45.5231895447,
-        "longitude": -122.6814193726,
-        "name": "Powell's City of Books"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-06T20:00:00-07:00",
@@ -72844,6 +73073,35 @@
         "address": "1195 SE Powell Dr",
         "city": "Portland",
         "name": "The Showdown"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-07T02:00:00-07:00",
+      "id": "dopdx:17878458",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790209809/event-17878458.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/6/kickstand-improv-student-showcase-level-3-level-4-improvised-movie-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-06T18:30:00-07:00",
+      "summary": "We are thrilled to present Kickstand Comedy's Student Showcase!! This show is a celebration of our students' hard work and a chance for audiences to support a night of rad local comedy from up-and-coming performers! Featuring:Naomi Dixon's Level 3!Kristen Schier's Level 4!Paul Stein's Advanced Study Improvised Movie! Looking for another student showcase? Links below:Improv - Level 3, Level 4, Improvised Movie - Tuesday, Oct 6, 2026 @ 6:30 PMImprov - Level 4 & Level 5 - Tuesday, Oct 6, 2026 @ 8:30 PMImprov - One Act Play & Improvised Movie - Wednesday, Oct 7, 2026 @ 6:30 PMImprov - Eventé & Level 3 - Wednesday, Oct 7, 2026 @ 8:30Improv - One Act Play & Eventé - Monday, Oct 12, 2026 @ 6:30 PMStand Up - Intro - Wednesday, Oct 14, 2026 @ 6:30 PM",
+      "title": "Kickstand Improv Student Showcase - Level 3, Level 4, Improvised Movie",
+      "venue": {
+        "address": "1006 SE Hawthorne Blvd",
+        "city": "Portland",
+        "name": "Kickstand Comedy"
       }
     },
     {
@@ -73448,6 +73706,35 @@
         "address": "3552 N Mississippi Ave",
         "city": "Portland",
         "name": "Atlantis Lounge"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-06T21:30:00-07:00",
+      "id": "dopdx:17879773",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230528/event-17879773.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/6/sapphic-singles-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 12.51,
+        "min": 12.51
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-06T19:00:00-07:00",
+      "summary": "Calling all single sapphics! Get ready to mingle, flirt, and connect at Sapphic Singles, the ultimate in-person event for meeting new people",
+      "title": "Sapphic Singles",
+      "venue": {
+        "address": "9004 NE Sandy Blvd",
+        "city": "Portland",
+        "name": "Escape Bar & Grill"
       }
     },
     {
@@ -74474,6 +74761,35 @@
         "latitude": 45.519069,
         "longitude": -122.652295,
         "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-07T02:00:00-07:00",
+      "id": "dopdx:17878459",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790209814/event-17878459.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/6/kickstand-improv-student-showcase-level-4-level-5-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-06T20:30:00-07:00",
+      "summary": "We are thrilled to present Kickstand Comedy's Student Showcase!! This show is a celebration of our students' hard work and a chance for audiences to support a night of rad local comedy from up-and-coming performers! Featuring:Dylan Reiff's Level 4!Roland Mechanik's Level 5! Looking for another student showcase? Links below:Improv - Level 3, Level 4, Improvised Movie - Tuesday, Oct 6, 2026 @ 6:30 PMImprov - Level 4 & Level 5 - Tuesday, Oct 6, 2026 @ 8:30 PMImprov - One Act Play & Improvised Movie - Wednesday, Oct 7, 2026 @ 6:30 PMImprov - Eventé & Level 3 - Wednesday, Oct 7, 2026 @ 8:30Improv - One Act Play & Eventé - Monday, Oct 12, 2026 @ 6:30 PMStand Up - Intro - Wednesday, Oct 14, 2026 @ 6:30 PM",
+      "title": "Kickstand Improv Student Showcase - Level 4 & Level 5",
+      "venue": {
+        "address": "1006 SE Hawthorne Blvd",
+        "city": "Portland",
+        "name": "Kickstand Comedy"
       }
     },
     {
@@ -77621,6 +77937,35 @@
         "latitude": 45.53543990000001,
         "longitude": -122.620608,
         "name": "Hollywood Theatre"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-08T02:00:00-07:00",
+      "id": "dopdx:17878460",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790209820/event-17878460.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/7/kickstand-improv-student-showcase-one-act-play-improvised-movie-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-07T18:30:00-07:00",
+      "summary": "We are thrilled to present Kickstand Comedy's Student Showcase!! This show is a celebration of our students' hard work and a chance for audiences to support a night of rad local comedy from up-and-coming performers! Featuring:Jon Bolden's Advanced Study Improvised One Act Play!Paul Stein's Improvised Movie! Looking for another student showcase? Links below:Improv - Level 3, Level 4, Improvised Movie - Tuesday, Oct 6, 2026 @ 6:30 PMImprov - Level 4 & Level 5 - Tuesday, Oct 6, 2026 @ 8:30 PMImprov - One Act Play & Improvised Movie - Wednesday, Oct 7, 2026 @ 6:30 PMImprov - Eventé & Level 3 - Wednesday, Oct 7, 2026 @ 8:30Improv - One Act Play & Eventé - Monday, Oct 12, 2026 @ 6:30 PMStand Up - Intro - Wednesday, Oct 14, 2026 @ 6:30 PM",
+      "title": "Kickstand Improv Student Showcase - One Act Play & Improvised Movie",
+      "venue": {
+        "address": "1006 SE Hawthorne Blvd",
+        "city": "Portland",
+        "name": "Kickstand Comedy"
       }
     },
     {
@@ -97108,6 +97453,35 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-10-10T21:00:00-07:00",
+      "id": "dopdx:17880514",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790241311/event-17880514.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/10/richard-colombo-and-john-silliman-dodge-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.36,
+        "min": 18.11
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-10T19:00:00-07:00",
+      "summary": "Referred to as \"Twin Sons of Different Mothers\", Richard and John perform a yours/mine/ours combo of heartfelt and rollicking duets & solos.",
+      "title": "Richard Colombo and John Silliman Dodge",
+      "venue": {
+        "address": "2007 SE Powell Blvd",
+        "city": "Portland",
+        "name": "Artichoke Music"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-10-10T20:00:00-07:00",
       "id": "dopdx:17427118",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1780434814/event-17427118.jpg",
@@ -102052,6 +102426,37 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-11T14:30:00-07:00",
+      "id": "dopdx:17879788",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230646/event-17879788.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/11/pay-what-you-can-rainbow-exhale-a-queer-trans-sound-journey-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 49.87,
+        "min": 23.18
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-11T13:00:00-07:00",
+      "summary": "Rainbow Exhale: A Queer & Trans Sound Journey",
+      "title": "Pay What You Can: Rainbow Exhale | A Queer + Trans Sound Journey",
+      "venue": {
+        "name": "Breathing Room Yoga + Wellness Studio"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:natural-pigments-engobe-and-lampblack-2026-10-11-0",
@@ -102131,36 +102536,6 @@
         "latitude": 45.525646,
         "longitude": -122.680628,
         "name": "The BLACK Gallery"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-11T14:30:00-07:00",
-      "id": "willamette_week:19787146@2026-10-11T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DNQYUDmSOkm1TsjwkPBg6Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/pay-what-you-can-rainbow-exhale-a-queer-trans-sound-journey-tickets-1998378844920",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 49.87,
-        "min": 23.18
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-11T13:00:00-07:00",
-      "summary": "Rainbow Exhale: There's something powerful about being able to exhale in a space where you know you are welcome...",
-      "title": "Pay What You Can: Rainbow Exhale | A Queer + Trans Sound Journey",
-      "venue": {
-        "city": "Hillsboro",
-        "latitude": 45.527475,
-        "longitude": -122.931775,
-        "name": "Breathing Room Yoga + Wellness Studio"
       }
     },
     {
@@ -107434,6 +107809,33 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-12T21:00:00-07:00",
+      "id": "dopdx:17879766",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230482/event-17879766.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/12/a-special-evening-of-turkish-folk-music-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.52,
+        "min": 28.52
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-12T18:00:00-07:00",
+      "summary": "Uğur Önür is a celebrated Turkish folk musician, singer, and master of the kabak kemane and traditional ıklık.",
+      "title": "A special Evening of Turkish Folk Music",
+      "venue": {
+        "name": "Nomadic Vintage Rugs"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-13T02:00:00-07:00",
@@ -107672,6 +108074,33 @@
         "latitude": 45.5165257305,
         "longitude": -122.6811832935,
         "name": "Portland 5 Centers for the Arts"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-13T02:00:00-07:00",
+      "id": "dopdx:17879677",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790229682/event-17879677.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/12/portland-songwriters-open-mic-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-12T18:30:00-07:00",
+      "summary": "Doors open at 6:30. Sign-ups 6:30-7:00 or until full. Portland Songwriters and Atlantis Lounge: Songwriters Open Mic. Join other songwriters in and around Portland for a monthly event to showcase your original music, meet other songwriters, music makers, and creatives, and build community. Performers are drawn at random. We take names from 6:30 to 7:00 or until full.This open mic is played “In The Round”. We host three songwriters on stage at a time. Each writer plays 2 songs each. All writers who are not selected to play the round will be prioritized to play the next month. We typically have time for 5 rounds each month (15 total performers) We provide a house keyboard. Please bring your own guitar or instrument. **Atlantis Lounge is All Ag",
+      "title": "Portland Songwriters Open Mic",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
       }
     },
     {
@@ -108053,6 +108482,35 @@
         "address": "2012 SE Hawthorne",
         "city": "Portland",
         "name": "Cinemagic Theater"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-13T02:00:00-07:00",
+      "id": "dopdx:17878462",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790209829/event-17878462.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/12/kickstand-improv-student-showcase-one-act-play-evente-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-12T19:00:00-07:00",
+      "summary": "We are thrilled to present Kickstand Comedy's Student Showcase!! This show is a celebration of our students' hard work and a chance for audiences to support a night of rad local comedy from up-and-coming performers! Featuring:Jon Bolden's Advanced Study Improvised One Act Play!Diana Kolsky's Advanced Study Eventé! Looking for another student showcase? Links below:Improv - Level 3, Level 4, Improvised Movie - Tuesday, Oct 6, 2026 @ 6:30 PMImprov - Level 4 & Level 5 - Tuesday, Oct 6, 2026 @ 8:30 PMImprov - One Act Play & Improvised Movie - Wednesday, Oct 7, 2026 @ 6:30 PMImprov - Eventé & Level 3 - Wednesday, Oct 7, 2026 @ 8:30Improv - One Act Play & Eventé - Monday, Oct 12, 2026 @ 6:30 PMStand Up - Intro - Wednesday, Oct 14, 2026 @ 6:30 PM",
+      "title": "Kickstand Improv Student Showcase - One Act Play & Eventé",
+      "venue": {
+        "address": "1006 SE Hawthorne Blvd",
+        "city": "Portland",
+        "name": "Kickstand Comedy"
       }
     },
     {
@@ -114809,6 +115267,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-15T02:00:00-07:00",
+      "id": "dopdx:17879679",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790229685/event-17879679.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/14/trivia-sippi-weekly-quiz-night-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-14T17:30:00-07:00",
+      "summary": "The Atlantis Lounge at Mississippi Pizza Pub is excited to announce a new weekly trivia event! Michael Rainey, one of the hosts and organizers of the monthly Nerd Nite at the Pub, brings his formidable talents to the new Pub Quiz/Trivia Night. Rainey writes and hosts the weekly event drawing from nerdy subjects. The event will test the audience in a broad knowledge base. Bring your friends for a fun time!",
+      "title": "Trivia-sippi! Weekly Quiz Night!",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-14T19:30:00-07:00",
@@ -115860,6 +116347,35 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-15T02:00:00-07:00",
+      "id": "dopdx:17878463",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790209832/event-17878463.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/14/kickstand-stand-up-student-showcase-intro-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-14T19:00:00-07:00",
+      "summary": "We are thrilled to present Kickstand Comedy's Student Showcase!! This show is a celebration of our students' hard work and a chance for audiences to support a night of rad local comedy from up-and-coming performers! Featuring:Julia Corral's Intro to Stand Up! Looking for another student showcase? Links below:Improv - Level 3, Level 4, Improvised Movie - Tuesday, Oct 6, 2026 @ 6:30 PMImprov - Level 4 & Level 5 - Tuesday, Oct 6, 2026 @ 8:30 PMImprov - One Act Play & Improvised Movie - Wednesday, Oct 7, 2026 @ 6:30 PMImprov - Eventé & Level 3 - Wednesday, Oct 7, 2026 @ 8:30Improv - One Act Play & Eventé - Monday, Oct 12, 2026 @ 6:30 PMStand Up - Intro - Wednesday, Oct 14, 2026 @ 6:30 PM",
+      "title": "Kickstand Stand Up Student Showcase - Intro",
+      "venue": {
+        "address": "1006 SE Hawthorne Blvd",
+        "city": "Portland",
+        "name": "Kickstand Comedy"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-10-14T21:00:00-07:00",
@@ -116528,6 +117044,35 @@
         "address": "1195 SE Powell Dr",
         "city": "Portland",
         "name": "The Showdown"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-15T02:00:00-07:00",
+      "id": "dopdx:17879680",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790229687/event-17879680.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/14/mango-twist-live-music-dancing-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 11.5,
+        "min": 11.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-14T20:00:00-07:00",
+      "summary": "Mango Twist is a musical collective playing tropical Latin music for that summer breeze feeling! Our intimate venue transforms into a vibrant dance floor filled with high-energy music, good drinks, and welcoming vibes. Whether you’re a seasoned dancer or just coming to move and have fun, everyone is invited to join the party! Every Wednesday! **Atlantis Lounge is All Ages until 9:00 PM, at that time any minors will be asked to leave the space. Thanks for your understanding!",
+      "title": "Mango Twist- Live Music & Dancing!",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
       }
     },
     {
@@ -122140,6 +122685,32 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-16T02:00:00-07:00",
+      "id": "dopdx:17881055",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790251701/event-17881055.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/15/starsixnine-rei-deora-the-fine-print-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-15T20:30:00-07:00",
+      "title": "Starsixnine, Rei Deora, The Fine Print",
+      "venue": {
+        "address": "6800 NE Martin Luther King Jr Blvd",
+        "city": "Portland",
+        "name": "High Water Mark Lounge"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-16T02:00:00-07:00",
@@ -124688,6 +125259,35 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-17T02:00:00-07:00",
+      "id": "dopdx:17879681",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790229690/event-17879681.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/16/mr-hoo-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 6.5,
+        "min": 6.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-16T16:30:00-07:00",
+      "summary": "Mr. Hoo is at Mississippi Pizza every 1st and 3rd Fridays. Mr. Hoo performs all over the Portland metro area by himself (and his invisible band) and with his visible band, The Alphabeticians.",
+      "title": "Mr. Hoo",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
       }
     },
     {
@@ -127516,6 +128116,32 @@
         "address": "421 SE Grand Ave",
         "city": "Portland",
         "name": "The Coffin Club"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-17T02:00:00-07:00",
+      "id": "dopdx:17881056",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790251706/event-17881056.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/16/semuta-atumes-u-sco-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-16T20:30:00-07:00",
+      "title": "Semuta, Atumes, U Sco",
+      "venue": {
+        "address": "6800 NE Martin Luther King Jr Blvd",
+        "city": "Portland",
+        "name": "High Water Mark Lounge"
       }
     },
     {
@@ -133075,6 +133701,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-18T02:00:00-07:00",
+      "id": "dopdx:17879682",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790229693/event-17879682.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/17/the-mantis-tickets",
+      "organizer": "The Atlantis Lounge",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 11.5,
+        "min": 11.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-17T16:30:00-07:00",
+      "summary": "The Mantis is a monthly storytelling event that invites the queer community to share a story in safe and supportive space. With its open-mic style, The Mantis is quickly growing a following! Hosted by Temp Lez Bar. 21+ LGBTQIA2s+ & allies of all orientations are welcome. Hosted by Temp Lez Bar. @temp_lez_pdx Temporary Lesbian Bar Dance Party returns to the Atlantis Lounge with the founder DJ DilEmma and special guest DJs. Join our Temp Lez group on Facebook! Follow us on Instagram! @MississippiPizzaPub all events are 21+ unless otherwise noted. no refunds except for cancellations. lineups are subject to change.",
+      "title": "The Mantis",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-10-18T02:00:00-07:00",
@@ -135668,6 +136324,35 @@
         "address": "6550 N Interstate Ave",
         "city": "Portland",
         "name": "Arbor Beer Lodge & Brewery"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-18T02:00:00-07:00",
+      "id": "dopdx:17886040",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790335495/event-17886040.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/17/saturday-oct-17-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 44.57,
+        "min": 31.82
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-17T20:00:00-07:00",
+      "summary": "\"It's time to join the club.\" Finally. The return of the staged parody of the best movie ever made about teenage vampires in the 1980s. Brought to you by the crew who brought you Road House: The Play, A Nightmare on Elm Stree Live, and She's Like The Wind, this show debuted in 2012 to sold out crowds that came back year after year! With live music, big hair and even bigger fangs, you'll leave yelling, \"I still believe!\" Adapted to the stage by Shelley McLendon and Courtenay Hameister Music by Jonny Newsome and Robyn El Kay And starring some of your Siren Theater faves : Marshall James Bradley Paul Glazier Erin Jean O'Regan Shelley McLendon Lori Ferraro Ted Douglass Jed Arkley Wm. Steven Humphrey Tony Marcellino Justin Himes Fridays & Saturda",
+      "title": "Saturday Oct 17",
+      "venue": {
+        "address": "315 NW Davis",
+        "city": "Portland",
+        "name": "Siren Theater"
       }
     },
     {
@@ -140974,6 +141659,35 @@
         "latitude": 45.561001,
         "longitude": -122.6617039,
         "name": "Curious Comedy Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-19T02:00:00-07:00",
+      "id": "dopdx:17879683",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790229696/event-17879683.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/18/the-occidental-tourists-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 11.5,
+        "min": 6.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-18T18:30:00-07:00",
+      "summary": "An all-star Portland group of musicians including Eric Stern and Michael Beach, the group performs music from the Middle East and features bellydancers. **Atlantis Lounge is All Ages until 9:00 PM, at that time any minors will be asked to leave the space. Thanks for your understanding!",
+      "title": "The Occidental Tourists",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
       }
     },
     {
@@ -154030,6 +154744,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-23T02:00:00-07:00",
+      "id": "dopdx:17883962",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790300767/event-17883962.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/22/club-curfew-tickets",
+      "organizer": "McMenamins Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-22T16:00:00-07:00",
+      "title": "Club Curfew",
+      "venue": {
+        "address": "1332 W Burnside",
+        "city": "Portland",
+        "latitude": 45.5227528,
+        "longitude": -122.6851261,
+        "name": "McMenamins Lola's Room"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-10-22T17:30:00-07:00",
@@ -154289,6 +155032,36 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-23T02:00:00-07:00",
+      "id": "dopdx:17879684",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790229700/event-17879684.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/22/red-yarn-tickets",
+      "organizer": "The Atlantis Lounge",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 6.5,
+        "min": 6.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-22T16:30:00-07:00",
+      "summary": "This is a partially seated event. First come, first serve. It’s dancin’ room only! Please save seats for children eating pizza. Red Yarn is a dynamic performer who weaves folksongs & puppetry into high-energy shows for families. TX-born, OR-based family folk-rocker, puppeteer, teaching artist & dad.",
+      "title": "Red Yarn",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
       }
     },
     {
@@ -155674,6 +156447,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-23T02:00:00-07:00",
+      "id": "dopdx:17879685",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790229703/event-17879685.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/22/brazi-beats-tickets",
+      "organizer": "The Atlantis Lounge",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 14.5,
+        "min": 14.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-22T19:30:00-07:00",
+      "summary": "Brazi Beats is a Portland-based band bringing the energy, rhythm, and soul of Brazilian Rock music to the Pacific Northwest. Blending Brazilian classics with an upbeat, contemporary live sound, Brazi Beats delivers a high-energy performance built to get audiences moving. From infectious beats to crowd-favorite songs, the band brings the vibrant spirit of Brazil to every stage!",
+      "title": "Brazi Beats",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-23T02:00:00-07:00",
@@ -156263,6 +157066,34 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-10-23T02:00:00-07:00",
+      "id": "dopdx:17880536",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790241732/event-17880536.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/22/stevie-stone-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-22T20:00:00-07:00",
+      "title": "Stevie Stone",
+      "venue": {
+        "address": "836 N Russell St",
+        "city": "Portland",
+        "latitude": 45.54075599999999,
+        "longitude": -122.6754525,
+        "name": "White Eagle Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-10-22T23:00:00-07:00",
       "id": "dopdx:17290930",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1777635779/event-17290930.png",
@@ -156440,6 +157271,41 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-23T02:00:00-07:00",
+      "id": "dopdx:17879767",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230488/event-17879767.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/22/big-murph-and-kelsey-lynn-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 44.2,
+        "min": 22.6
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-22T20:00:00-07:00",
+      "summary": "Big Murph & Kelsey Lynn bring genre-bending country, rap & rock to the Pondo for a high-energy Thursday night!",
+      "title": "Big Murph and Kelsey Lynn",
+      "venue": {
+        "address": "10350 N Vancouver Way",
+        "city": "Portland",
+        "latitude": 45.59757099999999,
+        "longitude": -122.6696598,
+        "name": "Ponderosa Lounge & Grill"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:rZ7HnEZ1AfGF_f",
@@ -156539,36 +157405,6 @@
         "latitude": 45.5195274353,
         "longitude": -122.6363220215,
         "name": "Goodfoot Pub & Lounge"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "willamette_week:19907059@2026-10-22T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5R7HllwRXEeoPaYIos0uwA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/big-murph-and-kelsey-lynn-tickets-1998966474536",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 44.2,
-        "min": 22.6
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-22T20:00:00-07:00",
-      "summary": "Big Murph & Kelsey Lynn bring genre-bending country, rap & rock to the Pondo for a high-energy Thursday night!",
-      "title": "Big Murph and Kelsey Lynn",
-      "venue": {
-        "address": "10350 N Vancouver Wy",
-        "city": "Portland",
-        "latitude": 45.597461,
-        "longitude": -122.669663,
-        "name": "Ponderosa Lounge & Grill"
       }
     },
     {
@@ -159151,6 +159987,33 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-10-23T21:45:00-07:00",
+      "id": "dopdx:17880841",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790246229/event-17880841.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/23/candlelight-a-haunted-evening-of-halloween-classics-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-23T18:30:00-07:00",
+      "summary": "⭐ Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Portland. Get your tickets now to discover Halloween Classics at The Old Church Concert Hall under the gentle glow of candlelight. Spooky season is almost here! Halloween special concerts are selling fast. Get your tickets before they fully SELL OUT! Gener",
+      "title": "Candlelight: A Haunted Evening of Halloween Classics",
+      "venue": {
+        "address": "1422 SW 11th Ave",
+        "city": "Portland",
+        "name": "The Old Church Concert Hall"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:19879701@2026-10-23T18:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/NxxrCnyUE0qcaZBtaQ6J4Q.large.png",
       "is_all_day": false,
@@ -159301,6 +160164,34 @@
         "latitude": 45.52332639999999,
         "longitude": -122.6761479,
         "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-25T02:00:00-07:00",
+      "id": "dopdx:17885962",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790353560/event-17885962.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/23/dj-smooth-hopperator-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-23T19:00:00-07:00",
+      "title": "Dj Smooth Hopperator",
+      "venue": {
+        "address": "835 NE Broadway St",
+        "city": "Portland",
+        "latitude": 45.5352608,
+        "longitude": -122.6567883,
+        "name": "Black Water Bar"
       }
     },
     {
@@ -160905,6 +161796,35 @@
         "address": "322 NW 6th Ave",
         "city": "Portland",
         "name": "322NW6TH"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-24T02:00:00-07:00",
+      "id": "dopdx:17886041",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790335497/event-17886041.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/23/friday-oct-23-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 44.57,
+        "min": 31.82
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-23T20:00:00-07:00",
+      "summary": "\"It's time to join the club.\" Finally. The return of the staged parody of the best movie ever made about teenage vampires in the 1980s. Brought to you by the crew who brought you Road House: The Play, A Nightmare on Elm Stree Live, and She's Like The Wind, this show debuted in 2012 to sold out crowds that came back year after year! With live music, big hair and even bigger fangs, you'll leave yelling, \"I still believe!\" Adapted to the stage by Shelley McLendon and Courtenay Hameister Music by Jonny Newsome and Robyn El Kay And starring some of your Siren Theater faves : Marshall James Bradley Paul Glazier Erin Jean O'Regan Shelley McLendon Lori Ferraro Ted Douglass Jed Arkley Wm. Steven Humphrey Tony Marcellino Justin Himes Fridays & Saturda",
+      "title": "Friday Oct 23",
+      "venue": {
+        "address": "315 NW Davis",
+        "city": "Portland",
+        "name": "Siren Theater"
       }
     },
     {
@@ -165085,6 +166005,34 @@
         "latitude": 45.53543990000001,
         "longitude": -122.620608,
         "name": "Hollywood Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-25T02:00:00-07:00",
+      "id": "dopdx:17879686",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790229706/event-17879686.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/24/crow-party-tickets",
+      "organizer": "The Atlantis Lounge",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-24T15:00:00-07:00",
+      "summary": "Calling all crow-lovers! October 24, 3pm-6pm is your moment! Wear black or your best crow-themed attire and come on out to Mississippi Pizza and Atlantis Lounge for a FREE CROW PARTY featuring a trinket contest. Entries must be brought and submitted by 3:30pm and the winner will be announced at 4pm. Whoever brings the coolest trinket will be crowned Crow Majesty. Other fun will include karaoke (crowaoke?), a photo booth, goods made by local vendors and makers, and tasty treats for sale by Marsh & Mallow Co (yay, s'mores!), Mississippi Pizza, and Atlantis Lounge!",
+      "title": "Crow Party",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
       }
     },
     {
@@ -195680,5 +196628,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-25T17:30:01+00:00"
+  "generated_at": "2026-09-25T17:32:44+00:00"
 }
