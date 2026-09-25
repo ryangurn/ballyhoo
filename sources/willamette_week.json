@@ -42546,6 +42546,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-03T22:00:00-07:00",
+      "id": "willamette_week:20007561@2026-10-03T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/N-63a68eBUS_C-F55mD-wA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://www.saltyrhinopub.com",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-03T17:00:00-07:00",
+      "summary": "Live music by Shane Brown - proceed for the day go to support people with breast cancer",
+      "title": "Raise 'Em Up For The Girls - Breast Cancer Fundraiser",
+      "venue": {
+        "address": "19335 Willamette Dr.",
+        "city": "West Linn",
+        "latitude": 45.385185,
+        "longitude": -122.640084,
+        "name": "Salty Rhino Pub"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "id": "willamette_week:19874332@2026-10-03T17:00",
@@ -65286,6 +65317,38 @@
         "latitude": 45.518239,
         "longitude": -122.673949,
         "name": "One Financial District"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-10-09T21:30:00-07:00",
+      "id": "willamette_week:20005931@2026-10-09T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/V_vhWLrJkkWlPhhZrWTaPA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://ncprd.org/events/teen-swim",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 14.0,
+        "min": 9.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T18:30:00-07:00",
+      "summary": "Make a splash at our Halloween-themed teen swim night! Join us for a spooktacular evening of swimming, music, games, and festive poolside fun. Hunt for floating pumpkins, hang out with friends, and celebrate the season with Halloween-themed activities throughout the night. Advanced registration required. For Grades 6–9.",
+      "ticket_url": "https://ncprd.org/events/teen-swim",
+      "title": "Monster Mash & Splash Teen Swim Night",
+      "venue": {
+        "address": "7300 SE Harmony Rd.",
+        "city": "Milwaukie",
+        "latitude": 45.43116,
+        "longitude": -122.58225,
+        "name": "North Clackamas Aquatic Park"
       }
     },
     {
@@ -128625,7 +128688,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-25T07:54:30+00:00",
+  "generated_at": "2026-09-25T13:53:02+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
