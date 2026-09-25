@@ -118351,6 +118351,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-15T14:00:00-07:00",
+      "id": "calagator:1250482728",
+      "is_all_day": false,
+      "listing_url": "https://beam-pdx.groupflow.app/events/13068",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-15T11:00:00-07:00",
+      "summary": "Note: Your RSVP is required in order to attend this event.\r\n\r\nLet’s get together for an informal BEAM PDX hangout: coffee, conversation, and light co-working.\r\n\r\nThis is a low-key monthly meetup for folks working with Elixir, Erlang, Gleam, and other BEAM languages, aimed at reconnecting the local community and rebuilding momentum after a long quiet stretch. We'll holding this on the second Thursday of each month.\r\n\r\nThere will be opportunities to:\r\n\r\n- Ask questions about Elixir and other BEAM languages\r\n\r\n- Share what you’ve been working on (or stuck on)\r\n\r\n- Get help with programming or design problems\r\n\r\n- Co-work: get things done with like-minded folks nearby\r\n\r\nBrainstorm ideas for future talk-based meetups and identify potential speakers\r\n\r\nBring your laptop if you’d like. It's totally optional.\r\n\r\nNew to BEAM languages, or just curious? You’re very welcome.\r\n\r\nPlease RSVP so we know roughly how many people to expect. If your plans change, un-RSVP when you can.\r\n\r\nThis meetup is also part of our transition away from Meetup to a new home for the group, where we’ll be organizing future events.",
+      "title": "Portland Monthly BEAM Meet & Chat",
+      "venue": {
+        "address": "1033 SE Main St",
+        "city": "Portland",
+        "latitude": 45.514,
+        "longitude": -122.655,
+        "name": "Honey Latte Cafe"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-15T19:00:00-07:00",
@@ -195759,5 +195787,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-25T06:35:37+00:00"
+  "generated_at": "2026-09-25T07:41:37+00:00"
 }
