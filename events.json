@@ -221,31 +221,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:regional-waste-advisory-committee-meeting-2026-09-24",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/regional-waste-advisory-committee-meeting-2026-09-24",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-09-24T14:00:00-07:00",
-      "title": "Regional Waste Advisory Committee meeting",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
         "market",
         "food"
       ],
@@ -367,25 +342,6 @@
         "city": "Portland",
         "name": "The Streets at Tanasbourne Farmers Market"
       }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:natural-areas-and-capital-program-performance-oversight-committee-working-group-2026-09-24",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/natural-areas-and-capital-program-performance-oversight-committee-working-group-2026-09-24",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-09-24T16:30:00-07:00",
-      "title": "Natural Areas and Capital Program Performance Oversight Committee working group"
     },
     {
       "categories": [
@@ -123338,29 +123294,6 @@
       "categories": [
         "outdoors"
       ],
-      "id": "oregon_metro:mushroom-hike-2026-10-16-0",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-10-16-0",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-16T09:30:00-07:00",
-      "title": "Mushroom hike",
-      "venue": {
-        "city": "Portland",
-        "name": "Chehalem Ridge Nature Park"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
       "id": "oregon_metro:salmon-days-2026-10-16",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/salmon-days-2026-10-16",
@@ -175826,7 +175759,13 @@
         "url": "https://www.oregonmetro.gov"
       },
       "start_at": "2026-11-04T12:30:00-08:00",
-      "title": "Metropolitan Exposition Recreation Commission meeting"
+      "title": "Metropolitan Exposition Recreation Commission meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52832,
+        "longitude": -122.66311,
+        "name": "Oregon Convention Center"
+      }
     },
     {
       "categories": [
@@ -183481,13 +183420,7 @@
         "url": "https://www.oregonmetro.gov"
       },
       "start_at": "2026-12-02T12:30:00-08:00",
-      "title": "Metropolitan Exposition Recreation Commission meeting",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.52832,
-        "longitude": -122.66311,
-        "name": "Oregon Convention Center"
-      }
+      "title": "Metropolitan Exposition Recreation Commission meeting"
     },
     {
       "categories": [
@@ -195797,5 +195730,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-25T01:36:05+00:00"
+  "generated_at": "2026-09-25T01:40:02+00:00"
 }
