@@ -6297,6 +6297,14 @@
       "venue": "Funhouse Lounge"
     },
     {
+      "dropped": "dopdx:17339148",
+      "kept": "ticketmaster:rZ7HnEZ1Af03_N",
+      "start_at": "2026-10-23T23:55:00-07:00",
+      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19225591@2026-10-23T23:55",
       "kept": "dopdx:17339148",
       "start_at": "2026-10-23T23:55:00-07:00",
@@ -7097,9 +7105,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6474,
-  "floor_check": "6474 events against a 6631-event baseline",
-  "generated_at": "2026-09-26T07:34:39+00:00",
+  "event_count": 6459,
+  "floor_check": "6459 events against a 6631-event baseline",
+  "generated_at": "2026-09-26T07:38:06+00:00",
   "problems": [],
   "sources": [
     "calagator",
