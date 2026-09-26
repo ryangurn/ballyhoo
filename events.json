@@ -87128,6 +87128,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-10T18:00:00-07:00",
+      "id": "calagator:1250482730",
+      "is_all_day": false,
+      "listing_url": "https://clipdx.com/webday",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-10T13:00:00-07:00",
+      "summary": "Community Room 1A\r\n\r\nJoin us and surf the web together in person! The Good Web never went away and it's better than ever. We find weird stuff, play games, make our own pages, follow mysterious web rings and generally have a blast. \r\n\r\nPop in for 20 minutes or an hour. No computer necessary.",
+      "title": "Web Surfing Party!",
+      "venue": {
+        "address": "1038 Southeast Cesar E Chavez Boulevard",
+        "city": "Portland",
+        "latitude": 45.5153,
+        "longitude": -122.6227,
+        "name": "Multnomah County Library - Belmont"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-11T02:00:00-07:00",
@@ -192494,5 +192522,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-26T20:08:35+00:00"
+  "generated_at": "2026-09-26T21:03:52+00:00"
 }
