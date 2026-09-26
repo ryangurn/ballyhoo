@@ -2,39 +2,6 @@
   "events": [
     {
       "categories": [
-        "music",
-        "market"
-      ],
-      "end_at": "2026-09-19T12:30:00-07:00",
-      "id": "hollywood_farmers_market:music-schedule/rose-city-banjoliers-2026",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1705453888441-5NC25L9BK7I1ALSJXL8K/Screen+Shot+2024-01-16+at+5.10.49+PM.png",
-      "is_all_day": false,
-      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/rose-city-banjoliers-2026",
-      "organizer": "Hollywood Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "hollywood_farmers_market",
-        "name": "Hollywood Farmers Market",
-        "url": "https://www.hollywoodfarmersmarket.org"
-      },
-      "start_at": "2026-09-19T10:00:00-07:00",
-      "summary": "The Rose City Banjoliers band, formed in 1972, consists primarily of plectrum and tenor banjos, a tuba, a piano, a saw, washboard(s), and vocalists. Our toe-tapping music, which ranges from the \"gay nineties\" to the mid-1900's, is popular with audiences as diverse as farmers markets, retirement homes, county fairs, and private parties. We are a nonprofit organization.",
-      "title": "Rose City Banjoliers",
-      "venue": {
-        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
-        "city": "Portland",
-        "latitude": 45.53635,
-        "longitude": -122.61756,
-        "name": "Hollywood Farmers Market"
-      }
-    },
-    {
-      "categories": [
         "market",
         "food"
       ],
@@ -702,7 +669,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-26T16:34:51+00:00",
+  "generated_at": "2026-09-26T21:22:16+00:00",
   "source_id": "hollywood_farmers_market",
   "status": "ok"
 }
