@@ -27,6 +27,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-03T02:00:00-07:00",
+      "id": "dopdx:17890748",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790449687/event-17890748.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/weekly/fri/laser-stranger-things-5-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-25T18:00:00-07:00",
+      "summary": "New! | October | Select Fridays + Saturdays | 6 pm Fans can't get enough of the retro vibe of the hit series Stranger Things. Take a trip to the upside-down in the safety of the dome. Experience the '80s tunes and soundscapes from all 5 seasons of the show reinterpreted in vibrant laser light. Please Note: Please arrive at the Planetarium at least 5 minutes prior to your showtime. No late entry. This show may contain adult language or themes.",
+      "title": "Laser Stranger Things 5",
+      "venue": {
+        "address": "1945 SE Water Ave.",
+        "city": "Portland",
+        "name": "Oregon Museum of Science & Industry (OMSI)"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "willamette_week:20021733@2026-09-26T00:00",
@@ -23978,6 +24005,33 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-09-30T02:00:00-07:00",
+      "id": "dopdx:17888150",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790452649/event-17888150.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/9/29/twilight-open-mic-comedy-night-hosted-by-jess-bushnell-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-09-29T18:00:00-07:00",
+      "summary": "Time: 6:00pm Day: Tuesday Doors: 5:30pm Ages: 21+ Ages",
+      "title": "Twilight Open Mic Comedy Night-Hosted by Jess Bushnell",
+      "venue": {
+        "address": "832 SE Grand Ave",
+        "city": "Portland",
+        "name": "Twilight Cafe And Bar"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-09-29T20:00:00-07:00",
@@ -34263,6 +34317,37 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-01T20:30:00-07:00",
+      "id": "dopdx:17890584",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438606/event-17890584.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/1/a-m-p-gallery-open-mic-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 7.18,
+        "min": 7.18
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-01T18:00:00-07:00",
+      "summary": "Join us and experience creativity, where art, music, and poetry collide in an explosion of talent and inspiration.",
+      "title": "A.M.P. Gallery - Open Mic",
+      "venue": {
+        "name": "1124 NW 13th Ave"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-01T20:00:00-07:00",
@@ -34405,37 +34490,6 @@
         "latitude": 45.530549,
         "longitude": -122.688813,
         "name": "Rhythms PDX"
-      }
-    },
-    {
-      "categories": [
-        "literary"
-      ],
-      "end_at": "2026-10-01T20:30:00-07:00",
-      "id": "willamette_week:19872771@2026-10-01T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c_yFyhJUsEaXwxQIq2gZjQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/amp-gallery-open-mic-october-1st-edition-tickets-1999799892311",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 17.85,
-        "min": 7.18
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-01T18:00:00-07:00",
-      "summary": "Join us and experience creativity, where art, music, and poetry collide in an explosion of talent and inspiration.",
-      "title": "A.M.P. Gallery - Open Mic (October 1st Edition)",
-      "venue": {
-        "address": "1124 Northwest 13th Avenue",
-        "city": "Portland",
-        "latitude": 45.530989,
-        "longitude": -122.68416,
-        "name": "1124 NW 13th Ave"
       }
     },
     {
@@ -34798,6 +34852,35 @@
         "latitude": 45.53543990000001,
         "longitude": -122.620608,
         "name": "Hollywood Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-02T02:00:00-07:00",
+      "id": "dopdx:17890508",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790437625/event-17890508.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/1/live-in-the-depths-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 16.5,
+        "min": 2.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-01T18:30:00-07:00",
+      "summary": "FIRST THURSDAYS This long running monthly series produced and hosted by Dhug features experimental electronic music. The showcase has a different lineup of local artists every month. https://liveinthedepths.com/ all events are 21+ unless otherwise noted. no refunds except for cancellations. lineups are subject to change.",
+      "title": "Live In The Depths",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
       }
     },
     {
@@ -37268,6 +37351,33 @@
       "title": "Club Privata: Newbie's Night",
       "venue": {
         "name": "Club Privata"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-01T23:30:00-07:00",
+      "id": "dopdx:17890568",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438494/event-17890568.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/1/left-on-read-with-proxi-and-meatcute-hey-there-tickets-xmrjr7e",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 17.85,
+        "min": 12.51
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-01T20:00:00-07:00",
+      "summary": "Portland heavy emo from Left On Read with PROXI, Meatcute and Hey There at The Six Below Midnight.",
+      "title": "Left On Read with PROXI and Meatcute + Hey There",
+      "venue": {
+        "name": "The Midnight PDX & The Six Venue"
       }
     },
     {
@@ -43796,6 +43906,33 @@
         "address": "3341 SE Belmont St",
         "city": "Portland",
         "name": "The Six Below Midnight"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-02T23:30:00-07:00",
+      "id": "dopdx:17879714",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230255/event-17879714.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/2/husky-boys-with-neon-prairie-dogs-and-heaven-skate-tickets-b98dbne",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 17.85,
+        "min": 12.51
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-02T20:30:00-07:00",
+      "summary": "Portland rock lifers Husky Boys with the hard-edged country of Neon Prairie Dogs and the strange skate-punk country of Heaven Skate.",
+      "title": "Husky Boys with Neon Prairie Dogs and Heaven Skate",
+      "venue": {
+        "name": "The Midnight PDX & The Six Venue"
       }
     },
     {
@@ -53039,6 +53176,35 @@
         "latitude": 45.519531,
         "longitude": -122.636324,
         "name": "Goodfoot"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-04T02:00:00-07:00",
+      "id": "dopdx:17877252",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790184868/event-17877252.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/3/asilo-portland-goth-club-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 12.51,
+        "min": 12.51
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-03T21:00:00-07:00",
+      "summary": "Tijuana Darkwave duo RITÜEL FOR TWO performs live at Asilo: Portland Goth Club! Saturday October 3rd",
+      "title": "¡ASILO! Portland Goth Club",
+      "venue": {
+        "address": "3341 SE Belmont St",
+        "city": "Portland",
+        "name": "The Six Below Midnight"
       }
     },
     {
@@ -74849,6 +75015,33 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-08T21:00:00-07:00",
+      "id": "dopdx:17890591",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438648/event-17890591.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/8/listening-to-the-wisdom-of-your-body-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 49.87,
+        "min": 25.85
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-08T18:00:00-07:00",
+      "summary": "How to feel more grounded in your boundaries and confident in your decisions",
+      "title": "Listening to the Wisdom of Your Body",
+      "venue": {
+        "name": "Awakenings Wellness Center"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-10-08T19:00:00-07:00",
@@ -83292,6 +83485,70 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-10T02:00:00-07:00",
+      "id": "dopdx:17890448",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790436553/event-17890448.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/9/activity-giver-tickets-g0wobaz",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-09T21:00:00-07:00",
+      "summary": "Think you know how to complete a simple task? These comedians don't. Inspired by the hit British TV game show Taskmaster, watch local comics humiliate themselves in increasingly absurd challenges — all to win the approval of the all-powerful Activity Giver. Alliances will crumble. Dignity will be lost. Points will be disputed. Come witness the chaos.",
+      "title": "Activity Giver",
+      "venue": {
+        "address": "535 NW 16th Ave",
+        "city": "Portland",
+        "name": "CSz Portland"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-10T02:00:00-07:00",
+      "id": "dopdx:17890597",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438679/event-17890597.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/9/dakota-robins-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.0,
+        "min": 17.2
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-09T21:00:00-07:00",
+      "summary": "Battle of the Bands winner Dakota Robins brings old-school country grit, heartfelt storytelling, and modern indie energy to the Pondo stage!",
+      "title": "Dakota Robins",
+      "venue": {
+        "address": "10350 N Vancouver Way",
+        "city": "Portland",
+        "latitude": 45.59757099999999,
+        "longitude": -122.6696598,
+        "name": "Ponderosa Lounge & Grill"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:rZ7HnEZ1AfPvjN",
@@ -83418,36 +83675,6 @@
         "latitude": 45.517008,
         "longitude": -122.651351,
         "name": "Peacock PDX"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:19717043@2026-10-09T21:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/p-WTSOQl9kiwpisCeUFkiQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/dakota-robins-tickets-1997637772352",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 28.0,
-        "min": 17.2
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-09T21:00:00-07:00",
-      "summary": "Battle of the Bands winner Dakota Robins brings old-school country grit, heartfelt storytelling, and modern indie energy to the Pondo stage!",
-      "title": "Dakota Robins",
-      "venue": {
-        "address": "10350 N Vancouver Wy",
-        "city": "Portland",
-        "latitude": 45.597461,
-        "longitude": -122.669663,
-        "name": "Ponderosa Lounge & Grill"
       }
     },
     {
@@ -86658,6 +86885,37 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-10T13:30:00-07:00",
+      "id": "dopdx:17890608",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438754/event-17890608.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/10/halloween-drag-brunch-portland-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.18,
+        "min": 15.71
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-10T12:00:00-07:00",
+      "summary": "Something wicked this way comes! The Lipstick Divas are taking over 10 Barrel. Grab your ghoul squad for drag, cocktails & mayhem!",
+      "title": "Halloween Drag Brunch Portland",
+      "venue": {
+        "name": "10 Barrel Brewing Portland"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-10T15:00:00-07:00",
@@ -86843,37 +87101,6 @@
         "latitude": 45.5262374878,
         "longitude": -122.6417236328,
         "name": "Pairings Portland Wine Shop"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-10-10T13:30:00-07:00",
-      "id": "willamette_week:19872794@2026-10-10T12:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4Flvvq9T20OvQpqOtN9-sg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/halloween-drag-brunch-portland-tickets-1999808938368",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 23.18,
-        "min": 15.71
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T12:00:00-07:00",
-      "summary": "Something wicked this way comes! The Lipstick Divas are taking over 10 Barrel. Grab your ghoul squad for drag, cocktails & mayhem!",
-      "title": "HALLOWEEN DRAG BRUNCH PORTLAND",
-      "venue": {
-        "address": "1411 Northwest Flanders Street",
-        "city": "Portland",
-        "latitude": 45.525928,
-        "longitude": -122.685629,
-        "name": "10 Barrel Brewing Portland"
       }
     },
     {
@@ -92540,6 +92767,35 @@
       "categories": [
         "arts"
       ],
+      "end_at": "2026-10-11T02:00:00-07:00",
+      "id": "dopdx:17890457",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790436569/event-17890457.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/10/the-haunted-reels-tickets-6zmd0lp",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-10T21:00:00-07:00",
+      "summary": "The Haunted Reels: classic silent horror films... unscripted! Step into the world of eerie classics with The Haunted Reels, a spine-tingling tribute to silent horror films. This unforgettable show blends the haunting charm of live piano music with the wild creativity of improvised theater, creating a hilarious and chilling movie experience told without words. And after intermission, you'll enjoy The Spectral Tapes: classic horror radio plays... improvised! In the style of the golden age of radio, we'll lower the lights, invite you to shut your eyes, and be spooked (or at very least wildly entertained) by stories presented with voice, music, and sound effects. Potential subgenres include vampires, slashers, haunted houses, werewolves, body ho",
+      "title": "The Haunted Reels",
+      "venue": {
+        "address": "535 NW 16th Ave",
+        "city": "Portland",
+        "name": "CSz Portland"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "end_at": "2026-10-10T22:15:00-07:00",
       "id": "willamette_week:20030000@2026-10-10T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-59LfPRAJESxQpxUnHw2EQ.large.jpg",
@@ -92765,6 +93021,33 @@
         "address": "727 SE Grand Ave",
         "city": "Portland",
         "name": "Swan Dive"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-11T02:00:00-07:00",
+      "id": "dopdx:17890573",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438525/event-17890573.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/10/one-night-in-kampala-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 535.38,
+        "min": 17.85
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-10T22:00:00-07:00",
+      "summary": "CELEBRTATING CULTURE , MUSIC AND COMMUNITY",
+      "title": "One Night In Kampala",
+      "venue": {
+        "name": "600 SE Belmont St"
       }
     },
     {
@@ -93607,6 +93890,33 @@
       "title": "Pokeweed: Food, Medicine, Poison, Dye!",
       "venue": {
         "name": "Rhythm Seed Farm"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-11T15:00:00-07:00",
+      "id": "dopdx:17890566",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438482/event-17890566.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/11/pokeweed-food-medicine-poison-dye-tickets-ymkgqxo",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 161.9,
+        "min": 161.9
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-11T10:00:00-07:00",
+      "summary": "Learn about and deepen your relationship with this incredible (yet often demonized) common plant!",
+      "title": "Pokeweed: Food, Medicine, Poison, Dye!",
+      "venue": {
+        "name": "Tryon Creek Parking"
       }
     },
     {
@@ -96968,6 +97278,35 @@
       "categories": [
         "arts"
       ],
+      "end_at": "2026-10-12T02:00:00-07:00",
+      "id": "dopdx:17890468",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790436603/event-17890468.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/11/comedysportz-rec-league-tickets-70ekvdl",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-11T17:00:00-07:00",
+      "summary": "A ComedySportz match featuring students from our Rec League classes.",
+      "title": "ComedySportz Rec League",
+      "venue": {
+        "address": "535 NW 16th Ave",
+        "city": "Portland",
+        "name": "CSz Portland"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "end_at": "2026-10-11T19:00:00-07:00",
       "id": "willamette_week:20019065@2026-10-11T17:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
@@ -98225,6 +98564,35 @@
         "address": "535 NW 16th Ave",
         "city": "Portland",
         "name": "Portland Comedy Theater"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-12T02:00:00-07:00",
+      "id": "dopdx:17890464",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790436589/event-17890464.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/11/stand-up-second-sunday-tickets-d0qodq7",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-11T19:30:00-07:00",
+      "summary": "A night of hilarious local Stand Up Comedy with host Carl Wolfson and friends!",
+      "title": "Stand Up Second Sunday",
+      "venue": {
+        "address": "535 NW 16th Ave",
+        "city": "Portland",
+        "name": "CSz Portland"
       }
     },
     {
@@ -108158,6 +108526,33 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-14T21:30:00-07:00",
+      "id": "dopdx:17890577",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438552/event-17890577.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/14/the-sound-healing-symphony-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 48.3,
+        "min": 48.3
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-14T18:00:00-07:00",
+      "summary": "Two intimate sound baths at Portland’s World Forestry Center. Choose the 6pm or 8pm show, with just 100 guests per show.",
+      "title": "The Sound Healing Symphony",
+      "venue": {
+        "name": "World Forestry Center"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-14T19:30:00-07:00",
@@ -112206,6 +112601,31 @@
         "latitude": 45.301412,
         "longitude": -122.9773179,
         "name": "Newberg Public Library"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-15T20:00:00-07:00",
+      "id": "dopdx:17890562",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438462/event-17890562.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/15/rose-city-industry-hour-chamber-of-commerce-allay-and-alibi-portland-or-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-15T16:00:00-07:00",
+      "summary": "Cheers to Fall! Join us for our October industry mixer as we kick off the new season with Allay Consulting and Alibi Cannabis!",
+      "title": "Rose City Industry Hour- Chamber of Commerce, Allay and Alibi- Portland OR",
+      "venue": {
+        "name": "The Alibi Tiki Lounge"
       }
     },
     {
@@ -117045,6 +117465,61 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-10-17T02:00:00-07:00",
+      "id": "dopdx:17890498",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790450723/event-17890498.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/16/mls-next-pro-western-conference-quarterfinal-st-louis-city2-at-timbers-2-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-16T12:00:00-07:00",
+      "title": "MLS Next Pro Western Conference Quarterfinal: St. Louis CITY2 at Timbers 2",
+      "venue": {
+        "address": "1844 SW Morrison St",
+        "city": "Portland",
+        "latitude": 45.5222918,
+        "longitude": -122.6920696,
+        "name": "Providence Park"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-16T13:00:00-07:00",
+      "id": "dopdx:17890588",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438631/event-17890588.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/16/4word-portland-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-16T12:00:00-07:00",
+      "summary": "Join 4word women for fellowship, to discuss life, faith, work, relationships, and explore the 4word theme this month",
+      "title": "4word: Portland",
+      "venue": {
+        "name": "Chart House"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "oregon_metro:public-hearing-updating-supportive-housing-services-administrative-rules-2026-10-16",
@@ -121169,6 +121644,34 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-17T02:00:00-07:00",
+      "id": "dopdx:17890567",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438489/event-17890567.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/16/wicked-wobbles-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 17.85,
+        "min": 12.51
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-16T21:00:00-07:00",
+      "summary": "Bring your costumes and besties for a night of experimental bass, DnB, and Dubstep!!",
+      "title": "Wicked Wobbles",
+      "venue": {
+        "address": "262 SE Main St",
+        "name": "WonderLove"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:rZ7HnEZ1AfaM07",
@@ -124101,6 +124604,37 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-17T12:00:00-07:00",
+      "id": "dopdx:17879777",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230557/event-17879777.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/17/community-tarot-swap-in-person-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 9.31,
+        "min": 9.31
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-17T11:00:00-07:00",
+      "summary": "Join us for a sweet gathering where you can *trade* your tarot decks with fellow witches and deck enthusiasts.",
+      "title": "Community Tarot Swap *In Person*",
+      "venue": {
+        "name": "Seagrape Apothecary"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-18T02:00:00-07:00",
@@ -124281,37 +124815,6 @@
         "latitude": 45.2978782654,
         "longitude": -122.7577896118,
         "name": "Wilsonville Library"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "end_at": "2026-10-17T12:00:00-07:00",
-      "id": "willamette_week:19669288@2026-10-17T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Lyz-J5hEZUGMhbX2DqsJDQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/community-tarot-swap-in-person-tickets-1993717883860",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 17.85,
-        "min": 17.85
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-17T11:00:00-07:00",
-      "summary": "Join us for a sweet gathering where you can \\trade\\ your tarot decks with fellow witches and deck enthusiasts.",
-      "title": "Community Tarot Swap",
-      "venue": {
-        "address": "2823 NE Sandy Blvd",
-        "city": "Portland",
-        "latitude": 45.529598,
-        "longitude": -122.63672,
-        "name": "Seagrape Apothecary"
       }
     },
     {
@@ -127194,6 +127697,40 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-18T02:00:00-07:00",
+      "id": "dopdx:17890750",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790443749/event-17890750.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/17/can-can-s-hitchcock-hotel-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 89.0,
+        "min": 29.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-17T18:30:00-07:00",
+      "summary": "Presenting in Portland at Can Can's Paris Theatre⭐Can Can's Hitchcock Hotel brings a night of Parisian fantasy to the revived Paris Theatre. Lavish drinks, decadent bites, and a stage alive with burlesque, bold dance, and sultry song await. Don’t miss out! DescriptionDing ding ding your room is waiting at the infamous Hitchcock Hotel. Although decades have passed since the Hitchcock family entertained royalty and influential politicians, the hotel's dubious operations continue. The hotel's supernatural allure inhabits its guests (and staff) in this dilapidated relic of the past. The Hitchcocks' latest hire is no exception. The graveyard \"maitre d,\" quickly realizes that there has been a misunderstanding in the hiring process and that he's be",
+      "ticket_url": "https://feverup.com/m/558625",
+      "title": "Can Can’s Hitchcock Hotel",
+      "venue": {
+        "address": "6 SW 3rd Ave",
+        "city": "Portland",
+        "name": "Can Can's Paris Theatre"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-18T02:00:00-07:00",
@@ -127254,38 +127791,6 @@
         "latitude": 45.5212202668,
         "longitude": -122.6807206124,
         "name": "Literary Arts"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-10-17T20:30:00-07:00",
-      "id": "willamette_week:19801682@2026-10-17T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4dSlyLUn80iCqBhdxHKJ9w.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.cancanportland.com/hitchcock-hotel-2026",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 89.0,
-        "min": 29.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-17T18:30:00-07:00",
-      "summary": "Ding ding ding… your room is waiting at the infamous Hitchcock Hotel. Although decades have passed since the Hitchcock family entertained royalty and influential politicians, the hotel's dubious operations continue. The hotel's supernatural allure inhabits its guests (and staff) in this dilapidated relic of the past. The Hitchcocks' latest hire is no exception. The graveyard \"maitre d,\" quickly realizes that there has been a misunderstanding in the hiring process and that he's been mistakenly hired for the precarious “night shift” position, one unfit for pedigree. He is about to experience nothing short of a fortuitous paranormal entanglement unlike any other. An evening featuring death defying dance, sultry songs, shimmying show girls and hauntingly beautiful new music, you’re sure to delight in this decadence of the damned.",
-      "ticket_url": "https://feverup.com/m/558625",
-      "title": "Can Can's Hitchcock Hotel",
-      "venue": {
-        "address": "6 SW 3rd Ave",
-        "city": "Portland",
-        "latitude": 45.522875,
-        "longitude": -122.673009,
-        "name": "Can Can's Paris Theatre"
       }
     },
     {
@@ -127670,6 +128175,37 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-17T20:30:00-07:00",
+      "id": "dopdx:17879779",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790230571/event-17879779.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/17/flow-state-edm-power-vinyasa-with-alexie-karen-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.52,
+        "min": 15.18
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-17T19:00:00-07:00",
+      "summary": "Flow State is a music-driven Vinyasa flow set to an uplifting electronic dance music (EDM) soundtrack.",
+      "title": "Flow State: EDM Power Vinyasa with Alexie + Karen",
+      "venue": {
+        "name": "Breathing Room Yoga + Wellness Studio"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-18T02:00:00-07:00",
@@ -128013,36 +128549,6 @@
         "latitude": 45.300642,
         "longitude": -122.970742,
         "name": "Wolves & People Bar and Music Hall"
-      }
-    },
-    {
-      "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-10-17T20:30:00-07:00",
-      "id": "willamette_week:19336280@2026-10-17T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EVZ1XtsCzU2rKdLP1P4yzg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/flow-state-edm-power-vinyasa-yoga-class-tickets-1998457014728",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 28.52,
-        "min": 15.18
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-17T19:00:00-07:00",
-      "summary": "Flow State is a music-driven Vinyasa flow set to an uplifting electronic dance music \\(EDM\\) soundtrack.",
-      "title": "Flow State: EDM Power Vinyasa Yoga Class",
-      "venue": {
-        "city": "Hillsboro",
-        "latitude": 45.527475,
-        "longitude": -122.931775,
-        "name": "Breathing Room Yoga + Wellness Studio"
       }
     },
     {
@@ -129879,6 +130385,36 @@
         "music"
       ],
       "end_at": "2026-10-18T02:00:00-07:00",
+      "id": "dopdx:17889146",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790406859/event-17889146.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/17/the-playboy-halloween-ball-21-tickets",
+      "organizer": "More Life Presents:",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.28,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-17T21:00:00-07:00",
+      "summary": "LAFFY TAFFY PRESENTS The PLAYBOY HALLOWEEN BALL Its every baddies favorite holiday!!!! This years theme we will continue to keep it SEXY!!!!! Playboy bunny style; fishnets, bunny ears, bunnysuits; A GET CREATIVE!!!! Most importantly EXPRESS YOURSELF BOOOOO-ty Shaking Contest at Midnight $$$$$ Were also celebrating our resident DJ Hefs birthday!!!! Lets show Hef some LOVE Playlist will be the sounds of: Megan THEE Stallion, Cardi B, Bad Bunny, BIG Freeda, City Girls, Latto, Doja Cat, Pluto, J Balvin, Rae Sremmurd, Drake, Charli XCX, etc.. Resident DJs: HEF + JACK",
+      "title": "The Playboy Halloween Ball – 21+",
+      "venue": {
+        "address": "1001 SE Morrison",
+        "city": "Portland",
+        "name": "Holocene"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-18T02:00:00-07:00",
       "id": "dopdx:17630951",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1784676397/event-17630951.jpg",
       "is_all_day": false,
@@ -129957,6 +130493,35 @@
         "address": "535 NW 16th Ave",
         "city": "Portland",
         "name": "Portland Comedy Theater"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-18T02:00:00-07:00",
+      "id": "dopdx:17890458",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790436572/event-17890458.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/17/the-haunted-reels-tickets-mekonmm",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-17T21:00:00-07:00",
+      "summary": "The Haunted Reels: classic silent horror films... unscripted! Step into the world of eerie classics with The Haunted Reels, a spine-tingling tribute to silent horror films. This unforgettable show blends the haunting charm of live piano music with the wild creativity of improvised theater, creating a hilarious and chilling movie experience told without words. And after intermission, you'll enjoy The Spectral Tapes: classic horror radio plays... improvised! In the style of the golden age of radio, we'll lower the lights, invite you to shut your eyes, and be spooked (or at very least wildly entertained) by stories presented with voice, music, and sound effects. Potential subgenres include vampires, slashers, haunted houses, werewolves, body ho",
+      "title": "The Haunted Reels",
+      "venue": {
+        "address": "535 NW 16th Ave",
+        "city": "Portland",
+        "name": "CSz Portland"
       }
     },
     {
@@ -130116,13 +130681,17 @@
     },
     {
       "categories": [
-        "nightlife"
+        "arts"
       ],
-      "end_at": "2026-10-17T23:30:00-07:00",
-      "id": "willamette_week:19801682@2026-10-17T21:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4dSlyLUn80iCqBhdxHKJ9w.large.jpg",
+      "end_at": "2026-10-18T02:00:00-07:00",
+      "id": "dopdx:17890751",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790443752/event-17890751.png",
       "is_all_day": false,
-      "listing_url": "https://www.cancanportland.com/hitchcock-hotel-2026",
+      "listing_url": "https://dopdx.com/events/2026/10/17/can-can-s-hitchcock-hotel-tickets-g0wonej",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -130130,19 +130699,17 @@
         "min": 29.0
       },
       "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
       },
       "start_at": "2026-10-17T21:30:00-07:00",
-      "summary": "Ding ding ding… your room is waiting at the infamous Hitchcock Hotel. Although decades have passed since the Hitchcock family entertained royalty and influential politicians, the hotel's dubious operations continue. The hotel's supernatural allure inhabits its guests (and staff) in this dilapidated relic of the past. The Hitchcocks' latest hire is no exception. The graveyard \"maitre d,\" quickly realizes that there has been a misunderstanding in the hiring process and that he's been mistakenly hired for the precarious “night shift” position, one unfit for pedigree. He is about to experience nothing short of a fortuitous paranormal entanglement unlike any other. An evening featuring death defying dance, sultry songs, shimmying show girls and hauntingly beautiful new music, you’re sure to delight in this decadence of the damned.",
+      "summary": "Presenting in Portland at Can Can's Paris Theatre⭐Can Can's Hitchcock Hotel brings a night of Parisian fantasy to the revived Paris Theatre. Lavish drinks, decadent bites, and a stage alive with burlesque, bold dance, and sultry song await. Don’t miss out! DescriptionDing ding ding your room is waiting at the infamous Hitchcock Hotel. Although decades have passed since the Hitchcock family entertained royalty and influential politicians, the hotel's dubious operations continue. The hotel's supernatural allure inhabits its guests (and staff) in this dilapidated relic of the past. The Hitchcocks' latest hire is no exception. The graveyard \"maitre d,\" quickly realizes that there has been a misunderstanding in the hiring process and that he's be",
       "ticket_url": "https://feverup.com/m/558625",
-      "title": "Can Can's Hitchcock Hotel",
+      "title": "Can Can’s Hitchcock Hotel",
       "venue": {
         "address": "6 SW 3rd Ave",
         "city": "Portland",
-        "latitude": 45.522875,
-        "longitude": -122.673009,
         "name": "Can Can's Paris Theatre"
       }
     },
@@ -134310,6 +134877,35 @@
         "address": "535 NW 16th Ave",
         "city": "Portland",
         "name": "Portland Comedy Theater"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-19T02:00:00-07:00",
+      "id": "dopdx:17890470",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790436605/event-17890470.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/18/comedysportz-rec-league-tickets-drenlwx",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-18T17:00:00-07:00",
+      "summary": "A ComedySportz match featuring students from our Rec League classes.",
+      "title": "ComedySportz Rec League",
+      "venue": {
+        "address": "535 NW 16th Ave",
+        "city": "Portland",
+        "name": "CSz Portland"
       }
     },
     {
@@ -140228,6 +140824,33 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-20T20:00:00-07:00",
+      "id": "dopdx:17890575",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438536/event-17890575.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/20/the-new-business-playbook-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 60.54,
+        "min": 23.18
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-20T17:00:00-07:00",
+      "summary": "NEW RULES → NEW OPPORTUNITIES → NEW TECHNOLOGY",
+      "title": "The New Business Playbook",
+      "venue": {
+        "name": "Oregon State Bar"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-20T19:00:00-07:00",
@@ -140340,6 +140963,33 @@
         "latitude": 45.478934715870885,
         "longitude": -122.61206954232797,
         "name": "Woodstock Library"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-20T19:00:00-07:00",
+      "id": "dopdx:17890595",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438670/event-17890595.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/20/portland-wellness-practitioners-connect-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 18.0,
+        "min": 18.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-20T17:30:00-07:00",
+      "summary": "Are you a wellness & healthcare practitioner in Portland? This is a space to learn, connect, and support each other.",
+      "title": "Portland Wellness Practitioners Connect",
+      "venue": {
+        "name": "House Nine Wellness & Tea"
       }
     },
     {
@@ -153571,6 +154221,33 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-24T02:00:00-07:00",
+      "id": "dopdx:17890753",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790450112/event-17890753.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/23/hope-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-23T19:00:00-07:00",
+      "summary": "Run Time: 157 min. Language: Korean Doors 6:30 p.m.; Event 7 p.m. Select Showtime to Purchase Tickets Click here to learn more about accessibility at the Tomorrow Theater. 2026. Directed by Na Hong-jin. Runtime: 2 hours 36 minutes. Rated R. In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "title": "Hope",
+      "venue": {
+        "address": "3530 SE Division St, Portland, OR 97202",
+        "city": "Portland",
+        "name": "Tomorrow Theater"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-24T02:00:00-07:00",
@@ -157174,6 +157851,33 @@
         "latitude": 45.506306,
         "longitude": -122.586374,
         "name": "Mt Tabor Hall"
+      }
+    },
+    {
+      "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-25T18:00:00-07:00",
+      "id": "dopdx:17890604",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790438727/event-17890604.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/24/asist-applied-suicide-intervention-skills-training-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 250.0,
+        "min": 250.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-24T10:00:00-07:00",
+      "summary": "Join us for this important training that will provide you the skills to support people in suicide crisis.",
+      "title": "ASIST: Applied Suicide Intervention Skills Training:",
+      "venue": {
+        "name": "Lines for Life"
       }
     },
     {
@@ -162582,6 +163286,35 @@
       "categories": [
         "arts"
       ],
+      "end_at": "2026-10-25T02:00:00-07:00",
+      "id": "dopdx:17890459",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790436575/event-17890459.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/24/the-haunted-reels-tickets-x6aokbw",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-24T21:00:00-07:00",
+      "summary": "The Haunted Reels: classic silent horror films... unscripted! Step into the world of eerie classics with The Haunted Reels, a spine-tingling tribute to silent horror films. This unforgettable show blends the haunting charm of live piano music with the wild creativity of improvised theater, creating a hilarious and chilling movie experience told without words. And after intermission, you'll enjoy The Spectral Tapes: classic horror radio plays... improvised! In the style of the golden age of radio, we'll lower the lights, invite you to shut your eyes, and be spooked (or at very least wildly entertained) by stories presented with voice, music, and sound effects. Potential subgenres include vampires, slashers, haunted houses, werewolves, body ho",
+      "title": "The Haunted Reels",
+      "venue": {
+        "address": "535 NW 16th Ave",
+        "city": "Portland",
+        "name": "CSz Portland"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "end_at": "2026-10-24T22:15:00-07:00",
       "id": "willamette_week:20021441@2026-10-24T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fviOBLtEFUGJJezlYwaRTA.large.jpg",
@@ -165161,6 +165894,35 @@
         "arts"
       ],
       "end_at": "2026-10-26T02:00:00-07:00",
+      "id": "dopdx:17890475",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790436611/event-17890475.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/25/almost-phameous-friends-tickets-zmnbekw",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-25T14:00:00-07:00",
+      "summary": "Almost PHAMEous, PHAME Academy’s resident comedy troupe, hosts this monthly improv comedy showcase featuring some of Portland’s finest talent. Each month, Almost PHAMEous kicks it off with their hilarious brand of fast-paced short form improv comedy a la “Whose Line is it Anyway”. Then they invite a carousel of creative cadres, including special guest improvisers, comics, and musicians, to close out the show. PHAME is a fine and performing arts academy serving adults with intellectual and developmental disabilities. Located in Portland, Oregon, and also operating online, their education and performance programs empower students to learn new skills, take artistic risks, and build lasting relationships with people who share their experience of",
+      "title": "Almost PHAMEous & Friends",
+      "venue": {
+        "address": "535 NW 16th Ave",
+        "city": "Portland",
+        "name": "CSz Portland"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-26T02:00:00-07:00",
       "id": "ticketmaster:Z7r9jZ1AAZYvo",
       "image_url": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -166192,6 +166954,35 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-26T02:00:00-07:00",
+      "id": "dopdx:17890466",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790436594/event-17890466.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/25/trial-run-tickets-drenlj9",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-25T17:00:00-07:00",
+      "summary": "Watch improvisors put brand new formats to the test. Live!",
+      "title": "Trial Run",
+      "venue": {
+        "address": "535 NW 16th Ave",
+        "city": "Portland",
+        "name": "CSz Portland"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:19907061@2026-10-25T17:00",
@@ -166712,6 +167503,35 @@
         "latitude": 45.53543990000001,
         "longitude": -122.620608,
         "name": "Hollywood Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-25T21:00:00-07:00",
+      "id": "dopdx:17890929",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790449188/event-17890929.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/25/jacob-westfall-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.36,
+        "min": 18.11
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-25T19:00:00-07:00",
+      "summary": "Americana Tender-Rock",
+      "title": "Jacob Westfall",
+      "venue": {
+        "address": "2007 SE Powell Blvd",
+        "city": "Portland",
+        "name": "Artichoke Music"
       }
     },
     {
@@ -192489,5 +193309,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-26T22:10:37+00:00"
+  "generated_at": "2026-09-26T22:13:17+00:00"
 }

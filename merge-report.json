@@ -1265,6 +1265,14 @@
       "venue": "Nicoletta's Table and Marketplace"
     },
     {
+      "dropped": "willamette_week:19872771@2026-10-01T18:00",
+      "kept": "dopdx:17890584",
+      "start_at": "2026-10-01T18:00:00-07:00",
+      "title_dropped": "A.M.P. Gallery - Open Mic (October 1st Edition)",
+      "title_kept": "A.M.P. Gallery - Open Mic",
+      "venue": "1124 NW 13th Ave"
+    },
+    {
       "dropped": "willamette_week:19307218@2026-10-01T18:30",
       "kept": "dopdx:17536428",
       "start_at": "2026-10-01T18:30:00-07:00",
@@ -3321,6 +3329,14 @@
       "venue": "Mississippi Studios"
     },
     {
+      "dropped": "willamette_week:19717043@2026-10-09T21:00",
+      "kept": "dopdx:17890597",
+      "start_at": "2026-10-09T21:00:00-07:00",
+      "title_dropped": "Dakota Robins",
+      "title_kept": "Dakota Robins",
+      "venue": "Ponderosa Lounge & Grill"
+    },
+    {
       "dropped": "willamette_week:19449658@2026-10-09T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPvjN",
       "start_at": "2026-10-09T21:00:00-07:00",
@@ -3391,6 +3407,14 @@
       "title_dropped": "Lee Asher Booksigning",
       "title_kept": "Lee Asher Booksigning",
       "venue": "Powell's City of Books"
+    },
+    {
+      "dropped": "willamette_week:19872794@2026-10-10T12:00",
+      "kept": "dopdx:17890608",
+      "start_at": "2026-10-10T12:00:00-07:00",
+      "title_dropped": "HALLOWEEN DRAG BRUNCH PORTLAND",
+      "title_kept": "Halloween Drag Brunch Portland",
+      "venue": "10 Barrel Brewing Portland"
     },
     {
       "dropped": "willamette_week:19664169@2026-10-10T12:00",
@@ -4857,6 +4881,14 @@
       "venue": "Veterans Memorial Coliseum"
     },
     {
+      "dropped": "willamette_week:19669288@2026-10-17T11:00",
+      "kept": "dopdx:17879777",
+      "start_at": "2026-10-17T11:00:00-07:00",
+      "title_dropped": "Community Tarot Swap",
+      "title_kept": "Community Tarot Swap *In Person*",
+      "venue": "Seagrape Apothecary"
+    },
+    {
       "dropped": "willamette_week:19872808@2026-10-17T12:00",
       "kept": "dopdx:17836319",
       "start_at": "2026-10-17T12:00:00-07:00",
@@ -4953,6 +4985,14 @@
       "venue": "Veterans Memorial Coliseum"
     },
     {
+      "dropped": "willamette_week:19801682@2026-10-17T18:30",
+      "kept": "dopdx:17890750",
+      "start_at": "2026-10-17T18:30:00-07:00",
+      "title_dropped": "Can Can's Hitchcock Hotel",
+      "title_kept": "Can Can’s Hitchcock Hotel",
+      "venue": "Can Can's Paris Theatre"
+    },
+    {
       "dropped": "willamette_week:17706546@2026-10-17T19:00",
       "kept": "dopdx:17434148",
       "start_at": "2026-10-17T19:00:00-07:00",
@@ -4999,6 +5039,14 @@
       "title_dropped": "Stranger Things, the Musical Parody",
       "title_kept": "Stranger Things, the Musical Parody",
       "venue": "Funhouse Lounge"
+    },
+    {
+      "dropped": "willamette_week:19336280@2026-10-17T19:00",
+      "kept": "dopdx:17879779",
+      "start_at": "2026-10-17T19:00:00-07:00",
+      "title_dropped": "Flow State: EDM Power Vinyasa Yoga Class",
+      "title_kept": "Flow State: EDM Power Vinyasa with Alexie + Karen",
+      "venue": "Breathing Room Yoga + Wellness Studio"
     },
     {
       "dropped": "willamette_week:17706547@2026-10-17T19:30",
@@ -5183,6 +5231,14 @@
       "title_dropped": "Joshua Burnside with Taylor Kingman",
       "title_kept": "Joshua Burnside with Taylor Kingman",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19801682@2026-10-17T21:30",
+      "kept": "dopdx:17890751",
+      "start_at": "2026-10-17T21:30:00-07:00",
+      "title_dropped": "Can Can's Hitchcock Hotel",
+      "title_kept": "Can Can’s Hitchcock Hotel",
+      "venue": "Can Can's Paris Theatre"
     },
     {
       "dropped": "willamette_week:18266446@2026-10-17T22:00",
@@ -7105,9 +7161,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6470,
-  "floor_check": "6470 events against a 6462-event baseline",
-  "generated_at": "2026-09-26T22:10:37+00:00",
+  "event_count": 6499,
+  "floor_check": "6499 events against a 6462-event baseline",
+  "generated_at": "2026-09-26T22:13:17+00:00",
   "problems": [],
   "sources": [
     "calagator",
