@@ -30670,9 +30670,15 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790186252/event-17875334.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/10/2/h-p-lovecraft-film-festival-cthulhucon-full-fest-pass-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 100.0,
+        "min": 27.0
       },
       "source": {
         "id": "dopdx",
@@ -30681,6 +30687,7 @@
       },
       "start_at": "2026-10-02T18:59:00-07:00",
       "summary": "Celebrate the 31st Anniversary of the HPLFF! With 50+ short and feature films from around the world, including Australia, Austria, Brazil, Canada, Denmark, France, Germany, Hungary, Iceland, Italy, Mexico, Russia, Serbia, Spain, Sweden, Switzerland, United Kingdom, and the US, representing the wide diversity of filmmakers creating cosmic horror cinema today! 3 days of Short & Feature-length cosmic horror on all 3 screens, plus live performances and presentations, includes all programs in the theater, plus panels and author readings: Oct 2 @ 7 -11 pm (Doors at 6:00pm) Oct 3 @ 1-11 pm (Doors at 12:15pm) + literary events at Hollywood Library Oct 4 @ 1-11 pm (Doors at 12:15pm) + literary events at Hollywood Library Highlights include: 50+ short",
+      "ticket_url": "https://hollywoodtheatre.org/series/h-p-lovecraft-film-festival/",
       "title": "H. P. Lovecraft Film Festival & CthulhuCon Full Fest Pass",
       "venue": {
         "address": "4122 NE Sandy Blvd.",
@@ -37699,9 +37706,15 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790186255/event-17875336.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/10/3/uncanny-saturday-feat-ithaqua-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 100.0,
+        "min": 27.0
       },
       "source": {
         "id": "dopdx",
@@ -37710,6 +37723,7 @@
       },
       "start_at": "2026-10-03T13:00:00-07:00",
       "summary": "Films & Live Events 1-5 pm, 7-11 pm (doors at 12:15 pm) PNW Premiere of HAMMER’S ITHAQUA, Q&A with director Casey Walker Special Double Feature presentation of FROGMAN and FROGMAN RETURNS with writer/director Anthony Cousins ANIMATED ADAPTATIONS: “The Beast in the Cave”, “The Hound” Short and Feature Films from around the world with visiting filmmakers! PLUS Literary events, GOH Philip Fracassi, special events, and vendors in the Mall of Cthulhu & Many more on all 3 screens. See full schedule on Festival Website Celebrate the 31st Anniversary of the HPLFF! Prepare yourself for Night 2 of our 3 day festival of 50+ short and feature films from around the world, including Australia, Austria, Brazil, Canada, Denmark, France, Germany, Hungary, I",
+      "ticket_url": "https://hollywoodtheatre.org/series/h-p-lovecraft-film-festival/",
       "title": "Uncanny Saturday Feat. Ithaqua",
       "venue": {
         "address": "4122 NE Sandy Blvd.",
@@ -45359,9 +45373,15 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790186259/event-17875337.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/10/4/closing-day-cosmic-horrors-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 100.0,
+        "min": 27.0
       },
       "source": {
         "id": "dopdx",
@@ -45370,6 +45390,7 @@
       },
       "start_at": "2026-10-04T13:00:00-07:00",
       "summary": "Films & Live Events 1-5 pm, 7-11 pm (doors at 12:15 pm) Short films extravaganza! Lovecraft Under the Gun 72 Hour Film Competition screening! Feature & Short Films from around the world, with visiting filmmakers! Awards Presentation Secret Screening PLUS Literary events, GOH Philip Fracassi, special events, and vendors in the Mall of Cthulhu & Many more on all 3 screens. See full schedule on Festival Website Celebrate the 31st Anniversary of the HPLFF! Prepare yourself for Night 3 of our 3 day festival of 50+ short and feature films from around the world, including Australia, Austria, Brazil, Canada, Denmark, France, Germany, Hungary, Iceland, Italy, Mexico, Russia, Serbia, Spain, Sweden, Switzerland, United Kingdom, and the US, representin",
+      "ticket_url": "https://hollywoodtheatre.org/series/h-p-lovecraft-film-festival/",
       "title": "Closing Day Cosmic Horrors",
       "venue": {
         "address": "4122 NE Sandy Blvd.",
@@ -79740,6 +79761,38 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "end_at": "2026-10-10T20:30:00-07:00",
+      "id": "willamette_week:20033531@2026-10-10T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/q_vdjIInXEeupdoB2aOcng.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://libraryfoundationhillsboro.org/vandermeer/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T19:00:00-07:00",
+      "summary": "Jeff VanderMeer is coming to town! Join us for An Evening with the Author, featuring the award-winning, New York Times bestselling author whose unforgettable works include the Southern Reach series and Hummingbird Salamander.",
+      "ticket_url": "https://libraryfoundationofhillsboro.ticketspice.com/author-event-an-evening-with-jeff-vandermeer",
+      "title": "An Evening with Author Jeff VanderMeer",
+      "venue": {
+        "address": "2850 NE Brookwood Pkwy",
+        "city": "Hillsboro",
+        "latitude": 45.542849,
+        "longitude": -122.936138,
+        "name": "Brookwood Library, Hillsboro"
       }
     },
     {
@@ -185839,5 +185892,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-27T08:06:04+00:00"
+  "generated_at": "2026-09-27T08:17:46+00:00"
 }
