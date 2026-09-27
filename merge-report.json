@@ -97,22 +97,6 @@
       "venue": "Lents International Farmers Market"
     },
     {
-      "dropped": "willamette_week:19972298@2026-09-27T13:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfGYFV",
-      "start_at": "2026-09-27T13:30:00-07:00",
-      "title_dropped": "IN COLOR",
-      "title_kept": "IN COLOR",
-      "venue": "Star Theater"
-    },
-    {
-      "dropped": "dopdx:17262319",
-      "kept": "ticketmaster:Z7r9jZ1A7Jefd",
-      "start_at": "2026-09-27T14:00:00-07:00",
-      "title_dropped": "Wild Symphony",
-      "title_kept": "Oregon Symphony presents Dan Brown???s Wild Symphony",
-      "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
       "dropped": "willamette_week:18235576@2026-09-27T14:00",
       "kept": "dopdx:17262319",
       "start_at": "2026-09-27T14:00:00-07:00",
@@ -4377,14 +4361,6 @@
       "venue": "Ponderosa Lounge & Grill"
     },
     {
-      "dropped": "willamette_week:19707055@2026-10-16T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfaM07",
-      "start_at": "2026-10-16T21:00:00-07:00",
-      "title_dropped": "NEKROMANTIX & Guests",
-      "title_kept": "NEKROMANTIX with Rezurex & Guests",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:18266446@2026-10-16T21:45",
       "kept": "dopdx:17434147",
       "start_at": "2026-10-16T21:15:00-07:00",
@@ -6881,9 +6857,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6240,
-  "floor_check": "6240 events against a 6237-event baseline",
-  "generated_at": "2026-09-27T21:40:37+00:00",
+  "event_count": 6241,
+  "floor_check": "6241 events against a 6237-event baseline",
+  "generated_at": "2026-09-27T22:07:44+00:00",
   "problems": [],
   "sources": [
     "calagator",
