@@ -75465,6 +75465,37 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "end_at": "2026-10-10T13:00:00-07:00",
+      "id": "willamette_week:19990111@2026-10-10T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/358a44f2-98d5-42b8-b633-ff14cea71bff.large.png",
+      "is_all_day": false,
+      "listing_url": "https://wccls.bibliocommons.com/events/6a9d713dac72f22c5568466a",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T11:00:00-07:00",
+      "summary": "To mark Banned Books Week this year, we're teaming up with @librofm and Silent Book Club to host a Banned Books Silent Read-In on Saturday, October 10th, from 11:00 am - 1:00 pm. Bring your own banned or challenged book - or pick one of the titles on display - and join us in the fireplace area for a time of silent reading and to show your support for the freedom to read. Drop in for a few minutes or find a comfy seat and stay for the full two hours! Attendees will also receive a free audio copy of either Banned Together or How to Defend Books and Why. Audience: Adults, Teens.",
+      "title": "Banned Books Week Silent Read-In",
+      "venue": {
+        "address": "2114 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519558298716575,
+        "longitude": -123.1086999746265,
+        "name": "Forest Grove City Library"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-10-10T12:30:00-07:00",
@@ -185444,5 +185475,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-27T18:21:35+00:00"
+  "generated_at": "2026-09-27T18:29:54+00:00"
 }
