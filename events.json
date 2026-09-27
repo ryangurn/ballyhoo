@@ -163337,6 +163337,31 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:metro-council-meeting-2026-10-29",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/metro-council-meeting-2026-10-29",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-29T10:00:00-07:00",
+      "title": "Metro Council meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -168218,6 +168243,29 @@
       "venue": {
         "city": "Portland",
         "name": "Chehalem Ridge Nature Park"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:cemetery-tending-multnomah-park-cemetery-2026-11-13",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/cemetery-tending-multnomah-park-cemetery-2026-11-13",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-13T10:30:00-08:00",
+      "title": "Cemetery tending at Multnomah Park Cemetery",
+      "venue": {
+        "city": "Portland",
+        "name": "Multnomah Park Cemetery"
       }
     },
     {
@@ -179150,6 +179198,31 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:supportive-housing-services-regional-policy-and-oversight-committee-meeting-2027-01-13",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/supportive-housing-services-regional-policy-and-oversight-committee-meeting-2027-01-13",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-01-13T15:00:00-08:00",
+      "title": "Supportive Housing Services Regional Policy and Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_83qFzWO",
@@ -185475,5 +185548,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-27T18:29:54+00:00"
+  "generated_at": "2026-09-27T18:32:25+00:00"
 }
