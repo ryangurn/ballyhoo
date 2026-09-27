@@ -39213,6 +39213,10 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790541558/event-17894462.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/10/3/october-artist-in-residence-deangelo-raines-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": true,
@@ -107911,9 +107915,15 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/10/16/nightmares-one-night-group-show-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
       },
       "source": {
         "id": "dopdx",
@@ -107927,6 +107937,37 @@
         "address": "6414 se foster rd",
         "city": "portland",
         "name": "Fern & Wolf"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-16T20:00:00-07:00",
+      "id": "willamette_week:19963246@2026-10-16T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zsUIgV5fYEup7b9qxML6-g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/stumptowntaps/events",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T18:00:00-07:00",
+      "summary": "Join us for a very fall Soup Cook-off! Bring your best soup and try to win the Golden Ladle! Soups must be entered by 6:30PM. Prizes for top 3 soups.",
+      "title": "Soup Cook-off",
+      "venue": {
+        "address": "2401 Portland Rd Suite A6",
+        "city": "Newberg",
+        "latitude": 45.304493,
+        "longitude": -122.955203,
+        "name": "Stumptown Taps"
       }
     },
     {
@@ -107959,37 +108000,6 @@
         "latitude": 45.516825,
         "longitude": -122.607341,
         "name": "Taborspace"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-10-16T20:00:00-07:00",
-      "id": "willamette_week:19963246@2026-10-16T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zsUIgV5fYEup7b9qxML6-g.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/stumptowntaps/events",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-16T18:00:00-07:00",
-      "summary": "Join us for a very fall Soup Cook-off! Bring your best soup and try to win the Golden Ladle! Soups must be entered by 6:30PM. Prizes for top 3 soups.",
-      "title": "Soup Cook-off",
-      "venue": {
-        "address": "2401 Portland Rd Suite A6",
-        "city": "Newberg",
-        "latitude": 45.304493,
-        "longitude": -122.955203,
-        "name": "Stumptown Taps"
       }
     },
     {
@@ -109476,6 +109486,38 @@
         "latitude": 45.497799,
         "longitude": -122.693703,
         "name": "Keller Auditorium"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-16T21:45:00-07:00",
+      "id": "willamette_week:20034186@2026-10-16T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9KCxDSGhkEu9BcQm9LTe4g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://lizziepdx.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 35.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T19:30:00-07:00",
+      "summary": "Rock, Revolution. *LIZZIE* Brings America's Favorite Murder Mystery to Portland Marin Summer Theater and Bridgetown Conservatory of Musical Theatre present *LIZZIE* Music by Steven Cheslik-deMeyer, Alan Stevens Hewitt & Tim Maner Book and Lyrics by Tim Maner & Steven Cheslik-deMeyer What really happened inside the Borden house? Based on the historical events surrounding the 1892 murders of Andrew and Abby Borden, LIZZIE explores the days leading up to the shocking crime through the eyes of four women (Voni Kengla as Lizzie Borden, Jessica Tidd as Emma Borden, Tia Lempert as Alice Russell, and Ashley Moore as Bridget Sullivan), determined to tell their own story. With a thunderous rock score inspired by artists such as Heart, The Runaways, and Bikini Kill, the musical is a bold examination of abuse, repression, freedom, and rage. The show has earned international acclaim, with productions in more than 100 theaters across 11 countries and multiple Best Musical awards. More information and tickets can be found at https:\\\\\\\\lizziepdx.com.",
+      "ticket_url": "https://lizziepdx.com",
+      "title": "LIZZIE",
+      "venue": {
+        "address": "711 Southwest 14th Avenue",
+        "city": "Portland",
+        "latitude": 45.52032,
+        "longitude": -122.686984,
+        "name": "Bridgetown Conservatory of Musical Theatre"
       }
     },
     {
@@ -118308,6 +118350,38 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-17T21:45:00-07:00",
+      "id": "willamette_week:20034186@2026-10-17T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9KCxDSGhkEu9BcQm9LTe4g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://lizziepdx.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 35.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-17T19:30:00-07:00",
+      "summary": "Rock, Revolution. *LIZZIE* Brings America's Favorite Murder Mystery to Portland Marin Summer Theater and Bridgetown Conservatory of Musical Theatre present *LIZZIE* Music by Steven Cheslik-deMeyer, Alan Stevens Hewitt & Tim Maner Book and Lyrics by Tim Maner & Steven Cheslik-deMeyer What really happened inside the Borden house? Based on the historical events surrounding the 1892 murders of Andrew and Abby Borden, LIZZIE explores the days leading up to the shocking crime through the eyes of four women (Voni Kengla as Lizzie Borden, Jessica Tidd as Emma Borden, Tia Lempert as Alice Russell, and Ashley Moore as Bridget Sullivan), determined to tell their own story. With a thunderous rock score inspired by artists such as Heart, The Runaways, and Bikini Kill, the musical is a bold examination of abuse, repression, freedom, and rage. The show has earned international acclaim, with productions in more than 100 theaters across 11 countries and multiple Best Musical awards. More information and tickets can be found at https:\\\\\\\\lizziepdx.com.",
+      "ticket_url": "https://lizziepdx.com",
+      "title": "LIZZIE",
+      "venue": {
+        "address": "711 Southwest 14th Avenue",
+        "city": "Portland",
+        "latitude": 45.52032,
+        "longitude": -122.686984,
+        "name": "Bridgetown Conservatory of Musical Theatre"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-17T22:00:00-07:00",
@@ -122720,6 +122794,38 @@
         "latitude": 45.5201,
         "longitude": -122.6884,
         "name": "Arlene Schnitzer Concert Hall"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-18T15:45:00-07:00",
+      "id": "willamette_week:20034186@2026-10-18T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9KCxDSGhkEu9BcQm9LTe4g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://lizziepdx.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 35.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-18T14:00:00-07:00",
+      "summary": "Rock, Revolution. *LIZZIE* Brings America's Favorite Murder Mystery to Portland Marin Summer Theater and Bridgetown Conservatory of Musical Theatre present *LIZZIE* Music by Steven Cheslik-deMeyer, Alan Stevens Hewitt & Tim Maner Book and Lyrics by Tim Maner & Steven Cheslik-deMeyer What really happened inside the Borden house? Based on the historical events surrounding the 1892 murders of Andrew and Abby Borden, LIZZIE explores the days leading up to the shocking crime through the eyes of four women (Voni Kengla as Lizzie Borden, Jessica Tidd as Emma Borden, Tia Lempert as Alice Russell, and Ashley Moore as Bridget Sullivan), determined to tell their own story. With a thunderous rock score inspired by artists such as Heart, The Runaways, and Bikini Kill, the musical is a bold examination of abuse, repression, freedom, and rage. The show has earned international acclaim, with productions in more than 100 theaters across 11 countries and multiple Best Musical awards. More information and tickets can be found at https:\\\\\\\\lizziepdx.com.",
+      "ticket_url": "https://lizziepdx.com",
+      "title": "LIZZIE",
+      "venue": {
+        "address": "711 Southwest 14th Avenue",
+        "city": "Portland",
+        "latitude": 45.52032,
+        "longitude": -122.686984,
+        "name": "Bridgetown Conservatory of Musical Theatre"
       }
     },
     {
@@ -139509,6 +139615,38 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-22T21:45:00-07:00",
+      "id": "willamette_week:20034186@2026-10-22T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9KCxDSGhkEu9BcQm9LTe4g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://lizziepdx.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 35.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-22T19:30:00-07:00",
+      "summary": "Rock, Revolution. *LIZZIE* Brings America's Favorite Murder Mystery to Portland Marin Summer Theater and Bridgetown Conservatory of Musical Theatre present *LIZZIE* Music by Steven Cheslik-deMeyer, Alan Stevens Hewitt & Tim Maner Book and Lyrics by Tim Maner & Steven Cheslik-deMeyer What really happened inside the Borden house? Based on the historical events surrounding the 1892 murders of Andrew and Abby Borden, LIZZIE explores the days leading up to the shocking crime through the eyes of four women (Voni Kengla as Lizzie Borden, Jessica Tidd as Emma Borden, Tia Lempert as Alice Russell, and Ashley Moore as Bridget Sullivan), determined to tell their own story. With a thunderous rock score inspired by artists such as Heart, The Runaways, and Bikini Kill, the musical is a bold examination of abuse, repression, freedom, and rage. The show has earned international acclaim, with productions in more than 100 theaters across 11 countries and multiple Best Musical awards. More information and tickets can be found at https:\\\\\\\\lizziepdx.com.",
+      "ticket_url": "https://lizziepdx.com",
+      "title": "LIZZIE",
+      "venue": {
+        "address": "711 Southwest 14th Avenue",
+        "city": "Portland",
+        "latitude": 45.52032,
+        "longitude": -122.686984,
+        "name": "Bridgetown Conservatory of Musical Theatre"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-10-22T20:30:00-07:00",
@@ -144038,6 +144176,38 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-10-23T21:45:00-07:00",
+      "id": "willamette_week:20034186@2026-10-23T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9KCxDSGhkEu9BcQm9LTe4g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://lizziepdx.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 35.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T19:30:00-07:00",
+      "summary": "Rock, Revolution. *LIZZIE* Brings America's Favorite Murder Mystery to Portland Marin Summer Theater and Bridgetown Conservatory of Musical Theatre present *LIZZIE* Music by Steven Cheslik-deMeyer, Alan Stevens Hewitt & Tim Maner Book and Lyrics by Tim Maner & Steven Cheslik-deMeyer What really happened inside the Borden house? Based on the historical events surrounding the 1892 murders of Andrew and Abby Borden, LIZZIE explores the days leading up to the shocking crime through the eyes of four women (Voni Kengla as Lizzie Borden, Jessica Tidd as Emma Borden, Tia Lempert as Alice Russell, and Ashley Moore as Bridget Sullivan), determined to tell their own story. With a thunderous rock score inspired by artists such as Heart, The Runaways, and Bikini Kill, the musical is a bold examination of abuse, repression, freedom, and rage. The show has earned international acclaim, with productions in more than 100 theaters across 11 countries and multiple Best Musical awards. More information and tickets can be found at https:\\\\\\\\lizziepdx.com.",
+      "ticket_url": "https://lizziepdx.com",
+      "title": "LIZZIE",
+      "venue": {
+        "address": "711 Southwest 14th Avenue",
+        "city": "Portland",
+        "latitude": 45.52032,
+        "longitude": -122.686984,
+        "name": "Bridgetown Conservatory of Musical Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-10-23T21:30:00-07:00",
       "id": "willamette_week:19943058@2026-10-23T19:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rYFkFI2EkUKEJs6vF3mcaA.large.jpg",
@@ -144975,6 +145145,37 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Revolution Hall - Portland"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-23T22:00:00-07:00",
+      "id": "willamette_week:20034300@2026-10-23T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XW5kii34-ki6UcAPtlQuPg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://itsgonnabeokaycomedy.wordpress.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T20:00:00-07:00",
+      "summary": "It's Gonna Be Okay is a long running comedy show in Portland that showcases the best professional comedians, and strives to create a fun, safe, positive, chill, joyful community vibe. This event will be a hilarious comedy show and a Halloween party! Everyone in the audience is encouraged to come in costume or witchy goth vibes! The comedy performances will likely run from 8pm-9:15pm, but please get there early and stay late to party with us, spooky style. Featuring stand up comedy from: Ben Harkins (named \"Funniest Person in Portland\" by Helium Comedy Club), Mx. Dahlia Belle (As seen on Netflix), Virginia Jones (As seen on Portlandia), Julia Corral (named “top five funniest people in Portland” by the Willamette Week.) Hosted by and featuring stand up and sketch comedy by Babs Holm and Lewis Sequeira Pay what you can, suggested donation $10. No one will be turned away for a lack of funds. It is going to be really funny, absurd and sweet. All of the shows we produce aim to be inclusive community events and we try to not book anyone who does any material attacking marginalized populations. Peacock PDX is a really special queer bar in Portland that feels like a creative performance space, a local neighborhood drinking hole, a magical romantic queer date night spot, and a nice spot to meet your future best friend all rolled into one. 10/23 8pm at Peacock PDX Get there early to get a seat! (I recommend getting there by at least 7:30.)",
+      "title": "It's Gonna Be Okay",
+      "venue": {
+        "address": "1400 SE Morrison St,",
+        "city": "Portland",
+        "latitude": 45.517046,
+        "longitude": -122.651421,
+        "name": "Peacock PDX"
       }
     },
     {
@@ -150925,6 +151126,38 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-10-24T21:45:00-07:00",
+      "id": "willamette_week:20034186@2026-10-24T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9KCxDSGhkEu9BcQm9LTe4g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://lizziepdx.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 35.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T19:30:00-07:00",
+      "summary": "Rock, Revolution. *LIZZIE* Brings America's Favorite Murder Mystery to Portland Marin Summer Theater and Bridgetown Conservatory of Musical Theatre present *LIZZIE* Music by Steven Cheslik-deMeyer, Alan Stevens Hewitt & Tim Maner Book and Lyrics by Tim Maner & Steven Cheslik-deMeyer What really happened inside the Borden house? Based on the historical events surrounding the 1892 murders of Andrew and Abby Borden, LIZZIE explores the days leading up to the shocking crime through the eyes of four women (Voni Kengla as Lizzie Borden, Jessica Tidd as Emma Borden, Tia Lempert as Alice Russell, and Ashley Moore as Bridget Sullivan), determined to tell their own story. With a thunderous rock score inspired by artists such as Heart, The Runaways, and Bikini Kill, the musical is a bold examination of abuse, repression, freedom, and rage. The show has earned international acclaim, with productions in more than 100 theaters across 11 countries and multiple Best Musical awards. More information and tickets can be found at https:\\\\\\\\lizziepdx.com.",
+      "ticket_url": "https://lizziepdx.com",
+      "title": "LIZZIE",
+      "venue": {
+        "address": "711 Southwest 14th Avenue",
+        "city": "Portland",
+        "latitude": 45.52032,
+        "longitude": -122.686984,
+        "name": "Bridgetown Conservatory of Musical Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-10-24T21:00:00-07:00",
       "id": "willamette_week:18751402@2026-10-24T19:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e98b4359-6c38-4b5f-b43d-784f0d048f7f.large.png",
@@ -155210,6 +155443,38 @@
         "latitude": 45.5201,
         "longitude": -122.6884,
         "name": "Arlene Schnitzer Concert Hall"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-25T15:45:00-07:00",
+      "id": "willamette_week:20034186@2026-10-25T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9KCxDSGhkEu9BcQm9LTe4g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://lizziepdx.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.0,
+        "min": 35.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-25T14:00:00-07:00",
+      "summary": "Rock, Revolution. *LIZZIE* Brings America's Favorite Murder Mystery to Portland Marin Summer Theater and Bridgetown Conservatory of Musical Theatre present *LIZZIE* Music by Steven Cheslik-deMeyer, Alan Stevens Hewitt & Tim Maner Book and Lyrics by Tim Maner & Steven Cheslik-deMeyer What really happened inside the Borden house? Based on the historical events surrounding the 1892 murders of Andrew and Abby Borden, LIZZIE explores the days leading up to the shocking crime through the eyes of four women (Voni Kengla as Lizzie Borden, Jessica Tidd as Emma Borden, Tia Lempert as Alice Russell, and Ashley Moore as Bridget Sullivan), determined to tell their own story. With a thunderous rock score inspired by artists such as Heart, The Runaways, and Bikini Kill, the musical is a bold examination of abuse, repression, freedom, and rage. The show has earned international acclaim, with productions in more than 100 theaters across 11 countries and multiple Best Musical awards. More information and tickets can be found at https:\\\\\\\\lizziepdx.com.",
+      "ticket_url": "https://lizziepdx.com",
+      "title": "LIZZIE",
+      "venue": {
+        "address": "711 Southwest 14th Avenue",
+        "city": "Portland",
+        "latitude": 45.52032,
+        "longitude": -122.686984,
+        "name": "Bridgetown Conservatory of Musical Theatre"
       }
     },
     {
@@ -185621,5 +185886,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-27T22:07:44+00:00"
+  "generated_at": "2026-09-27T22:17:36+00:00"
 }

@@ -1465,6 +1465,14 @@
       "venue": "Veterans Memorial Coliseum"
     },
     {
+      "dropped": "willamette_week:20034295@2026-10-03T18:00",
+      "kept": "dopdx:17894462",
+      "start_at": "2026-10-03T18:00:00-07:00",
+      "title_dropped": "October Artist in Residence - DeAngelo Raines",
+      "title_kept": "October Artist in Residence - DeAngelo Raines",
+      "venue": "Fern & Wolf"
+    },
+    {
       "dropped": "dopdx:16685771",
       "kept": "ticketmaster:vvG1HZbMx40g-5",
       "start_at": "2026-10-03T18:30:00-07:00",
@@ -4111,6 +4119,14 @@
       "title_dropped": "Housing Land Advocates Annual Conference - 2026",
       "title_kept": "Housing Land Advocates Annual Conference - 2026",
       "venue": "Smith Memorial Student Union"
+    },
+    {
+      "dropped": "willamette_week:20034296@2026-10-16T18:00",
+      "kept": "dopdx:17894463",
+      "start_at": "2026-10-16T18:00:00-07:00",
+      "title_dropped": "Nightmares - One night group show",
+      "title_kept": "Nightmares - One night group show",
+      "venue": "Fern & Wolf"
     },
     {
       "dropped": "willamette_week:19801682@2026-10-16T18:30",
@@ -6857,9 +6873,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6241,
-  "floor_check": "6241 events against a 6237-event baseline",
-  "generated_at": "2026-09-27T22:07:44+00:00",
+  "event_count": 6249,
+  "floor_check": "6249 events against a 6237-event baseline",
+  "generated_at": "2026-09-27T22:17:36+00:00",
   "problems": [],
   "sources": [
     "calagator",
