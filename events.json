@@ -5968,14 +5968,10 @@
       "categories": [
         "sports"
       ],
-      "id": "ticketmaster:Z7r9jZ1A7Ox_b",
-      "image_url": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "willamette_week:17965629@2026-09-26T17:45",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qSPs-kbFUEuxywNW-I25CA.large.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ox_b",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
+      "listing_url": "https://seatgeek.com/portland-thorns-fc-tickets/national-womens-soccer/2026-09-26-5-45-pm/17963328?quantity=1",
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -5983,53 +5979,19 @@
         "min": 20.23
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-09-26T17:45:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ox_b",
-      "title": "Portland Thorns FC vs. Houston Dash",
+      "ticket_url": "https://seatgeek.com/portland-thorns-fc-tickets/national-womens-soccer/2026-09-26-5-45-pm/17963328?quantity=1",
+      "title": "Portland Thorns V. Houston Dash",
       "venue": {
-        "address": "1844 SW Morrison St.",
+        "address": "1844 SW Morrison St",
         "city": "Portland",
-        "latitude": 45.5201,
-        "longitude": -122.6884,
+        "latitude": 45.521686554,
+        "longitude": -122.6917266846,
         "name": "Providence Park"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "id": "ticketmaster:vvG1HZ_2mbV6a3",
-      "image_url": "https://s1.ticketm.net/dam/a/81b/474adaa2-4ca6-466a-9b89-ea1680cc881b_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/portland-winterhawks-vs-kamloops-blazers-portland-oregon-09-26-2026/event/0F0064FB98D07252",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "organizer": "PROMOTED BY VENUE",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-09-26T18:00:00-07:00",
-      "summary": "Bags and full-length umbrellas are not allowed in the arena. Exclusions apply for medical bags, children's bags and clutches 5X8\" or smaller. Bag check is available.",
-      "ticket_url": "https://www.ticketmaster.com/portland-winterhawks-vs-kamloops-blazers-portland-oregon-09-26-2026/event/0F0064FB98D07252",
-      "title": "Portland Winterhawks vs Kamloops Blazers",
-      "venue": {
-        "address": "300 Winning Way",
-        "city": "Portland",
-        "latitude": 45.533299,
-        "longitude": -122.667442,
-        "name": "Veterans Memorial Coliseum"
       }
     },
     {
@@ -6210,6 +6172,35 @@
         "latitude": 45.480035,
         "longitude": -122.568482,
         "name": "The Common Loon"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "willamette_week:19570968@2026-09-26T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hYvgqgeDwES8wFdmM9KFDg.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketmaster.com%252Fportland-winterhawks-vs-kamloops-blazers-portland-oregon-09-26-2026%252Fevent%252F0F0064FB98D07252%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-26T18:00:00-07:00",
+      "summary": "Bags and full-length umbrellas are not allowed in the arena. Exclusions apply for medical bags, children's bags and clutches 5X8\" or smaller. Bag check is available.",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketmaster.com%252Fportland-winterhawks-vs-kamloops-blazers-portland-oregon-09-26-2026%252Fevent%252F0F0064FB98D07252%26utm_medium%3daffiliate",
+      "title": "Portland Winterhawks vs Penticton Vees",
+      "venue": {
+        "address": "300 Winning Way",
+        "city": "Portland",
+        "latitude": 45.53243410945172,
+        "longitude": -122.66872908517573,
+        "name": "Veterans Memorial Coliseum"
       }
     },
     {
@@ -191817,5 +191808,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-27T00:52:02+00:00"
+  "generated_at": "2026-09-27T01:25:17+00:00"
 }
