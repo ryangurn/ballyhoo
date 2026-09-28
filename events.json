@@ -5576,6 +5576,38 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-09-29T18:00:00-07:00",
+      "id": "willamette_week:20020882@2026-09-29T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/00evECD2BUi3PJAvc1mD4g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://feedthemass.org/culinaryacademy/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 539.0,
+        "min": 39.19
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-09-29T16:00:00-07:00",
+      "summary": "Harvest Kitchen: Skills for Life is a hands-on fall cooking program for youth ages 11–18. Students build practical kitchen skills, confidence, cultural curiosity, teamwork, and leadership through two guided classes each week. Each session follows the Feed the Mass teaching model: welcome and safety check, instructor demonstration, team cooking, tasting and reflection, and a complete cleanup and sanitation close. What Will They Learn? Participants will build hands-on skills through a structured weekly curriculum. Students will learn: Kitchen safety, sanitation, and safe food handling How to read recipes and follow step-by-step instructions Measuring, prepping, and using kitchen tools correctly Teamwork, communication, and time management Confidence in preparing food independently Creativity, problem-solving, and pride in making something with their own hands A deeper understanding of food, nutrition, and cultural connection through cooking",
+      "ticket_url": "https://www.eventbrite.com/e/fall-2026-culinary-academy-harvest-kitchen-skills-for-life-tickets-1998440707954?aff=oddtdtcreator",
+      "title": "Feed the Mass Fall 2026 Culinary Academy",
+      "venue": {
+        "address": "34 NW 1st Avenue",
+        "city": "Portland",
+        "latitude": 45.523669,
+        "longitude": -122.671051,
+        "name": "Nourish Building"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-09-29T17:30:00-07:00",
@@ -5628,38 +5660,6 @@
         "latitude": 45.51984,
         "longitude": -123.11066,
         "name": "Forest Grove"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-09-29T18:00:00-07:00",
-      "id": "willamette_week:20020882@2026-09-29T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/00evECD2BUi3PJAvc1mD4g.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://feedthemass.org/culinaryacademy/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 539.0,
-        "min": 39.19
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-09-29T16:00:00-07:00",
-      "summary": "Harvest Kitchen: Skills for Life is a hands-on fall cooking program for youth ages 11–18. Students build practical kitchen skills, confidence, cultural curiosity, teamwork, and leadership through two guided classes each week. Each session follows the Feed the Mass teaching model: welcome and safety check, instructor demonstration, team cooking, tasting and reflection, and a complete cleanup and sanitation close. What Will They Learn? Participants will build hands-on skills through a structured weekly curriculum. Students will learn: Kitchen safety, sanitation, and safe food handling How to read recipes and follow step-by-step instructions Measuring, prepping, and using kitchen tools correctly Teamwork, communication, and time management Confidence in preparing food independently Creativity, problem-solving, and pride in making something with their own hands A deeper understanding of food, nutrition, and cultural connection through cooking",
-      "ticket_url": "https://www.eventbrite.com/e/fall-2026-culinary-academy-harvest-kitchen-skills-for-life-tickets-1998440707954?aff=oddtdtcreator",
-      "title": "Feed the Mass Fall 2026 Culinary Academy",
-      "venue": {
-        "address": "34 NW 1st Avenue",
-        "city": "Portland",
-        "latitude": 45.523669,
-        "longitude": -122.671051,
-        "name": "Nourish Building"
       }
     },
     {
@@ -15034,35 +15034,6 @@
     },
     {
       "categories": [
-        "literary"
-      ],
-      "end_at": "2026-10-01T13:00:00-07:00",
-      "id": "willamette_week:18550401@2026-10-01T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fBHiaNb6Gkq7mikWXWp1WA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/4d-recovery-midland-library-29",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-01T11:00:00-07:00",
-      "summary": "Offering recovery services for ages 14-35: Peer Mentoring Treatment Housing Mental Health Family Support",
-      "title": "4D Recovery at Midland Library",
-      "venue": {
-        "address": "805 SE 122nd Avenue",
-        "city": "Portland",
-        "latitude": 45.516677291858464,
-        "longitude": -122.53848246502874,
-        "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-01T19:00:00-07:00",
@@ -15090,6 +15061,35 @@
         "latitude": 45.559268,
         "longitude": -122.646073,
         "name": "Alberta Street Gallery"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "end_at": "2026-10-01T13:00:00-07:00",
+      "id": "willamette_week:18550401@2026-10-01T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fBHiaNb6Gkq7mikWXWp1WA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/4d-recovery-midland-library-29",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-01T11:00:00-07:00",
+      "summary": "Offering recovery services for ages 14-35: Peer Mentoring Treatment Housing Mental Health Family Support",
+      "title": "4D Recovery at Midland Library",
+      "venue": {
+        "address": "805 SE 122nd Avenue",
+        "city": "Portland",
+        "latitude": 45.516677291858464,
+        "longitude": -122.53848246502874,
+        "name": "Midland Library"
       }
     },
     {
@@ -21614,6 +21614,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-02T19:00:00-07:00",
+      "id": "willamette_week:20024392@2026-10-02T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bELpG7nxAUmkHzTqo_dpeQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://www.albertastreetgallery.com",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-02T11:00:00-07:00",
+      "summary": "Skeletons Out of the Closet The annual Spooky Art Show returns to Lavaun's Community Gallery for its third year, this time as “Skeleton's Out of the Closet.” Curated from an open call for submissions, this show features art that is spooky, scary, strange, and out of the ordinary. Alberta Street Gallery member Julia Alora, a lifetime lover of Halloween, has hand-picked this year’s collection of frights and delights from more than 10 local artists. What makes art spooky? Art that focuses on fears, phobias, or disquieting themes. Settings or characters or creatures that are dark, born from night, or upsetting to see. Images that capture the fun and nostalgia of playing in a scary space through a safe lens, reminiscent of horror movies and Halloweens past. Come in for a thrill and a chill, find a new piece to haunt your home, and enjoy beautiful works of art perfect for those who are strange and unusual. Alberta Street Gallery is a friendly and vibrant cooperative gallery of 30 local artists in the heart of the Alberta Arts District in Northeast Portland. In addition to our members’ art, we mount monthly shows that begin on the “Last Thursday” of every month. Our front windows feature new work by two of our member artists, and we curate group shows in Lavaun's Community Gallery, a special exhibition space inside the gallery named for and made possible by gallery member Lavaun Benavidez Heaster, a legally blind collage artist who died in 2020.",
+      "title": "Skeletons Out of the Closet: A Spooky Art Show",
+      "venue": {
+        "address": "1829 NE Alberta St",
+        "city": "Portland",
+        "latitude": 45.559268,
+        "longitude": -122.646073,
+        "name": "Alberta Street Gallery"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-02T11:30:00-07:00",
@@ -21696,37 +21727,6 @@
         "latitude": 45.63873,
         "longitude": -122.66149,
         "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-02T19:00:00-07:00",
-      "id": "willamette_week:20024392@2026-10-02T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bELpG7nxAUmkHzTqo_dpeQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "http://www.albertastreetgallery.com",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-02T11:00:00-07:00",
-      "summary": "Skeletons Out of the Closet The annual Spooky Art Show returns to Lavaun's Community Gallery for its third year, this time as “Skeleton's Out of the Closet.” Curated from an open call for submissions, this show features art that is spooky, scary, strange, and out of the ordinary. Alberta Street Gallery member Julia Alora, a lifetime lover of Halloween, has hand-picked this year’s collection of frights and delights from more than 10 local artists. What makes art spooky? Art that focuses on fears, phobias, or disquieting themes. Settings or characters or creatures that are dark, born from night, or upsetting to see. Images that capture the fun and nostalgia of playing in a scary space through a safe lens, reminiscent of horror movies and Halloweens past. Come in for a thrill and a chill, find a new piece to haunt your home, and enjoy beautiful works of art perfect for those who are strange and unusual. Alberta Street Gallery is a friendly and vibrant cooperative gallery of 30 local artists in the heart of the Alberta Arts District in Northeast Portland. In addition to our members’ art, we mount monthly shows that begin on the “Last Thursday” of every month. Our front windows feature new work by two of our member artists, and we curate group shows in Lavaun's Community Gallery, a special exhibition space inside the gallery named for and made possible by gallery member Lavaun Benavidez Heaster, a legally blind collage artist who died in 2020.",
-      "title": "Skeletons Out of the Closet: A Spooky Art Show",
-      "venue": {
-        "address": "1829 NE Alberta St",
-        "city": "Portland",
-        "latitude": 45.559268,
-        "longitude": -122.646073,
-        "name": "Alberta Street Gallery"
       }
     },
     {
@@ -28906,6 +28906,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-03T17:30:00-07:00",
+      "id": "willamette_week:20024256@2026-10-03T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/WfIKGXesrEmmQBWUtl8KhQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://japanesegarden.org/pjg-events/weaving-time-nuno-textiles-of-tradition-and-transformation/2026-10-03/?promo=1",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 22.5,
+        "min": 22.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-03T10:00:00-07:00",
+      "summary": "Join Portland Japanese Garden and experience the awe-inspiring artistry of NUNO, the iconic Japanese textile design studio. Featuring vibrant and compelling fabrics created across eight specific regions of Japan, NUNO’s championing of small community makers illuminates the breadth and depth of contemporary Japanese textile design. This unforgettable exhibition includes site-specific installations and a hands-on touch wall that will make you rethink your relationship to cloth.",
+      "title": "Weaving Time: NUNO – Textiles of Tradition and Transformation",
+      "venue": {
+        "address": "611 SW Kingston Ave",
+        "city": "Portland",
+        "latitude": 45.5194078,
+        "longitude": -122.7090681,
+        "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-10-03T11:00:00-07:00",
@@ -28960,37 +28991,6 @@
         "latitude": 45.6888,
         "longitude": -122.53026,
         "name": "Otis Orchards"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-03T17:30:00-07:00",
-      "id": "willamette_week:20024256@2026-10-03T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/WfIKGXesrEmmQBWUtl8KhQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://japanesegarden.org/pjg-events/weaving-time-nuno-textiles-of-tradition-and-transformation/2026-10-03/?promo=1",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 22.5,
-        "min": 22.5
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-03T10:00:00-07:00",
-      "summary": "Join Portland Japanese Garden and experience the awe-inspiring artistry of NUNO, the iconic Japanese textile design studio. Featuring vibrant and compelling fabrics created across eight specific regions of Japan, NUNO’s championing of small community makers illuminates the breadth and depth of contemporary Japanese textile design. This unforgettable exhibition includes site-specific installations and a hands-on touch wall that will make you rethink your relationship to cloth.",
-      "title": "Weaving Time: NUNO – Textiles of Tradition and Transformation",
-      "venue": {
-        "address": "611 SW Kingston Ave",
-        "city": "Portland",
-        "latitude": 45.5194078,
-        "longitude": -122.7090681,
-        "name": "Portland Japanese Garden"
       }
     },
     {
@@ -29732,6 +29732,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-03T19:00:00-07:00",
+      "id": "willamette_week:20024392@2026-10-03T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bELpG7nxAUmkHzTqo_dpeQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://www.albertastreetgallery.com",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-03T11:00:00-07:00",
+      "summary": "Skeletons Out of the Closet The annual Spooky Art Show returns to Lavaun's Community Gallery for its third year, this time as “Skeleton's Out of the Closet.” Curated from an open call for submissions, this show features art that is spooky, scary, strange, and out of the ordinary. Alberta Street Gallery member Julia Alora, a lifetime lover of Halloween, has hand-picked this year’s collection of frights and delights from more than 10 local artists. What makes art spooky? Art that focuses on fears, phobias, or disquieting themes. Settings or characters or creatures that are dark, born from night, or upsetting to see. Images that capture the fun and nostalgia of playing in a scary space through a safe lens, reminiscent of horror movies and Halloweens past. Come in for a thrill and a chill, find a new piece to haunt your home, and enjoy beautiful works of art perfect for those who are strange and unusual. Alberta Street Gallery is a friendly and vibrant cooperative gallery of 30 local artists in the heart of the Alberta Arts District in Northeast Portland. In addition to our members’ art, we mount monthly shows that begin on the “Last Thursday” of every month. Our front windows feature new work by two of our member artists, and we curate group shows in Lavaun's Community Gallery, a special exhibition space inside the gallery named for and made possible by gallery member Lavaun Benavidez Heaster, a legally blind collage artist who died in 2020.",
+      "title": "Skeletons Out of the Closet: A Spooky Art Show",
+      "venue": {
+        "address": "1829 NE Alberta St",
+        "city": "Portland",
+        "latitude": 45.559268,
+        "longitude": -122.646073,
+        "name": "Alberta Street Gallery"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-03T21:00:00-07:00",
@@ -29791,37 +29822,6 @@
         "latitude": 45.27373,
         "longitude": -123.041508,
         "name": "Holloran Vineyard Wines"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-03T19:00:00-07:00",
-      "id": "willamette_week:20024392@2026-10-03T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bELpG7nxAUmkHzTqo_dpeQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "http://www.albertastreetgallery.com",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-03T11:00:00-07:00",
-      "summary": "Skeletons Out of the Closet The annual Spooky Art Show returns to Lavaun's Community Gallery for its third year, this time as “Skeleton's Out of the Closet.” Curated from an open call for submissions, this show features art that is spooky, scary, strange, and out of the ordinary. Alberta Street Gallery member Julia Alora, a lifetime lover of Halloween, has hand-picked this year’s collection of frights and delights from more than 10 local artists. What makes art spooky? Art that focuses on fears, phobias, or disquieting themes. Settings or characters or creatures that are dark, born from night, or upsetting to see. Images that capture the fun and nostalgia of playing in a scary space through a safe lens, reminiscent of horror movies and Halloweens past. Come in for a thrill and a chill, find a new piece to haunt your home, and enjoy beautiful works of art perfect for those who are strange and unusual. Alberta Street Gallery is a friendly and vibrant cooperative gallery of 30 local artists in the heart of the Alberta Arts District in Northeast Portland. In addition to our members’ art, we mount monthly shows that begin on the “Last Thursday” of every month. Our front windows feature new work by two of our member artists, and we curate group shows in Lavaun's Community Gallery, a special exhibition space inside the gallery named for and made possible by gallery member Lavaun Benavidez Heaster, a legally blind collage artist who died in 2020.",
-      "title": "Skeletons Out of the Closet: A Spooky Art Show",
-      "venue": {
-        "address": "1829 NE Alberta St",
-        "city": "Portland",
-        "latitude": 45.559268,
-        "longitude": -122.646073,
-        "name": "Alberta Street Gallery"
       }
     },
     {
@@ -37997,37 +37997,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-04T21:00:00-07:00",
-      "id": "willamette_week:20024562@2026-10-04T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eJN5mZeUGkCxGurg9Z1SXQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.stormbreakerbrewing.com/",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-04T11:00:00-07:00",
-      "summary": "Hoptoberfresh 2026 is here! Join us at our St. Johns taproom (8409 N Lombard St) October 2-4 for an Oktoberfest & Fresh Hop Celebration - fresh hop beers, Oktoberfest-style brews, and good times with the StormBreaker community. See you there!",
-      "title": "Hoptoberfresh 2026: An Oktoberfest & Fresh Hop Celebration",
-      "venue": {
-        "address": "8409 N Lombard St",
-        "city": "Portland",
-        "latitude": 45.58984,
-        "longitude": -122.753099,
-        "name": "StormBreaker Brewing - St. Johns"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-04T19:00:00-07:00",
@@ -38055,6 +38024,37 @@
         "latitude": 45.559268,
         "longitude": -122.646073,
         "name": "Alberta Street Gallery"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-04T21:00:00-07:00",
+      "id": "willamette_week:20024562@2026-10-04T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eJN5mZeUGkCxGurg9Z1SXQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.stormbreakerbrewing.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-04T11:00:00-07:00",
+      "summary": "Hoptoberfresh 2026 is here! Join us at our St. Johns taproom (8409 N Lombard St) October 2-4 for an Oktoberfest & Fresh Hop Celebration - fresh hop beers, Oktoberfest-style brews, and good times with the StormBreaker community. See you there!",
+      "title": "Hoptoberfresh 2026: An Oktoberfest & Fresh Hop Celebration",
+      "venue": {
+        "address": "8409 N Lombard St",
+        "city": "Portland",
+        "latitude": 45.58984,
+        "longitude": -122.753099,
+        "name": "StormBreaker Brewing - St. Johns"
       }
     },
     {
@@ -39206,6 +39206,38 @@
         "latitude": 45.5201,
         "longitude": -122.6884,
         "name": "Arlene Schnitzer Concert Hall"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-04T16:00:00-07:00",
+      "id": "willamette_week:20023487@2026-10-04T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5Rni9H6LhkiUFD8_rGKkXw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://epcwl.org/the-bridge/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-04T14:00:00-07:00",
+      "summary": "Join us the month of October as we celebrate old school crafts that still pack a punch! We all love a brand new craft, but some are classics for a reason! And this month we are celebrating some of those during our monthlong celebration of \"Grandma Crafts for ALL!\" Join us on Sunday, October 4th as we will be teaching how to make a simple crocheted beginner granny square! No previous experience necessary. We will have yarn, hooks, and excitment as we share how fun and versatile this simple little square can be! Tickets are limited. Please reserve your ticket HERE: https://www.eventbrite.com/e/grandma-crafts-for-all-learn-to-crochet-a-granny-square-tickets-2002096775350 We list the event as free, but we do kindly ask for a $5 donation to cover materials. However, no one will be turned away for lack of funds. Please join us at the starting time of 2pm as we will be beginning the class with instruction and there is not time to repeat everything again! This event is hosted at a church but it is NOT a church event. There will be NO church talk; just a free community-building event that allows us all to take a break in our busy lives to do something that's good for ourself and our community. We hope you will join us!",
+      "ticket_url": "https://www.eventbrite.com/e/grandma-crafts-for-all-learn-to-crochet-a-granny-square-tickets-2002096775350",
+      "title": "Learn how to Crochet a Granny Square with The Bridge",
+      "venue": {
+        "address": "19200 Willamette Drive",
+        "city": "Portland",
+        "latitude": 45.386497,
+        "longitude": -122.639998,
+        "name": "Emmanuel Presbyterian Church"
       }
     },
     {
@@ -42804,35 +42836,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-05T12:00:00-07:00",
-      "id": "willamette_week:18616669@2026-10-05T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/r5ZoOn5nU0unuxrAwNBt3A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/ged-tutoring-77",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-05T10:00:00-07:00",
-      "summary": "Drop in to work one-on-one with a tutor. Books and materials are provided. Prepare for the GED: math, language arts, science and social studies For more information, call or text 503.577.9984. Venga a estudiar uno-a-uno con un tutor. Se proveerán libros y materiales. Prepárese para el GED: matemáticas, artes del lenguaje, ciencias y estudios sociales. Para obtener más información, llame al 503.577-.9984.",
-      "title": "GED Tutoring",
-      "venue": {
-        "address": "512 N Killingsworth Street",
-        "city": "Portland",
-        "latitude": 45.5624530442023,
-        "longitude": -122.67152133558135,
-        "name": "North Portland Library"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-05T17:30:00-07:00",
@@ -42860,6 +42863,35 @@
         "latitude": 45.5194078,
         "longitude": -122.7090681,
         "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-05T12:00:00-07:00",
+      "id": "willamette_week:18616669@2026-10-05T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/r5ZoOn5nU0unuxrAwNBt3A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/ged-tutoring-77",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-05T10:00:00-07:00",
+      "summary": "Drop in to work one-on-one with a tutor. Books and materials are provided. Prepare for the GED: math, language arts, science and social studies For more information, call or text 503.577.9984. Venga a estudiar uno-a-uno con un tutor. Se proveerán libros y materiales. Prepárese para el GED: matemáticas, artes del lenguaje, ciencias y estudios sociales. Para obtener más información, llame al 503.577-.9984.",
+      "title": "GED Tutoring",
+      "venue": {
+        "address": "512 N Killingsworth Street",
+        "city": "Portland",
+        "latitude": 45.5624530442023,
+        "longitude": -122.67152133558135,
+        "name": "North Portland Library"
       }
     },
     {
@@ -52125,35 +52157,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-07T19:30:00-07:00",
-      "id": "willamette_week:18550397@2026-10-07T17:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mRUoffKKLEWkUVMmygQ1-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/goodwill-english-class-350",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-07T17:30:00-07:00",
-      "summary": "Free ESL classes. The level of the series is determined at the first class. No registration required. For more information, call 503.577.9984. Browse more English learning classes . Hosted by Goodwill Industries of the Columbia Willamette. Clases de inglés gratuitas. Todos los niveles son bienvenidos. El nivel de la clase se determinará mediante una prueba de nivel el primer dia. No es necesario inscribirse. Para obtener más información, llame al 503.577.9984. Ver más clases de inglés . Organizado por Goodwill Industries of the Columbia Willamette. 免費英文班，任何英文水平都欢迎参加，班级级别由第一天的分级测试决定。无需注冊。请致电 503.577.9984 查询详情。 浏览更多英语学习课程 授课单位 Goodwill Industries of the Columbia Willamette. Бесплатные уроки английского языка. Классы для студентов всех уровней. Уровень знаний определяется по результатам вступительного теста в первый посещаемый день. Без регистрации. Для более подробной информации звоните call 503.577.9984. Просмотреть другие курсы изучения английского языка. Oрганизованный Goodwill Industries of the Columbia Willamette. Lớp học tiếng Anh miễn phi. Mọi trinh độ đều được chào đón. Trinh độ lớp học được xác định thông qua bài kiểm tra xếp lớp vào ngày đầu tiên. Không cần ghi danh trước. Để có thêm thông tin, xin gọi 503.577.9984. Xem các khóa học tiếng Anh khác . được tổ chức bởi Goodwill Industries of the Columbia Willamette.",
-      "title": "Goodwill English Class",
-      "venue": {
-        "address": "1520 NE Village Street",
-        "city": "Fairview",
-        "latitude": 45.53227095409817,
-        "longitude": -122.43932211779094,
-        "name": "Fairview-Columbia Library"
-      }
-    },
-    {
-      "categories": [
         "literary"
       ],
       "end_at": "2026-10-07T19:00:00-07:00",
@@ -52182,6 +52185,35 @@
         "latitude": 45.521349,
         "longitude": -122.671884,
         "name": "PAE"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-07T19:30:00-07:00",
+      "id": "willamette_week:18550397@2026-10-07T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mRUoffKKLEWkUVMmygQ1-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/goodwill-english-class-350",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T17:30:00-07:00",
+      "summary": "Free ESL classes. The level of the series is determined at the first class. No registration required. For more information, call 503.577.9984. Browse more English learning classes . Hosted by Goodwill Industries of the Columbia Willamette. Clases de inglés gratuitas. Todos los niveles son bienvenidos. El nivel de la clase se determinará mediante una prueba de nivel el primer dia. No es necesario inscribirse. Para obtener más información, llame al 503.577.9984. Ver más clases de inglés . Organizado por Goodwill Industries of the Columbia Willamette. 免費英文班，任何英文水平都欢迎参加，班级级别由第一天的分级测试决定。无需注冊。请致电 503.577.9984 查询详情。 浏览更多英语学习课程 授课单位 Goodwill Industries of the Columbia Willamette. Бесплатные уроки английского языка. Классы для студентов всех уровней. Уровень знаний определяется по результатам вступительного теста в первый посещаемый день. Без регистрации. Для более подробной информации звоните call 503.577.9984. Просмотреть другие курсы изучения английского языка. Oрганизованный Goodwill Industries of the Columbia Willamette. Lớp học tiếng Anh miễn phi. Mọi trinh độ đều được chào đón. Trinh độ lớp học được xác định thông qua bài kiểm tra xếp lớp vào ngày đầu tiên. Không cần ghi danh trước. Để có thêm thông tin, xin gọi 503.577.9984. Xem các khóa học tiếng Anh khác . được tổ chức bởi Goodwill Industries of the Columbia Willamette.",
+      "title": "Goodwill English Class",
+      "venue": {
+        "address": "1520 NE Village Street",
+        "city": "Fairview",
+        "latitude": 45.53227095409817,
+        "longitude": -122.43932211779094,
+        "name": "Fairview-Columbia Library"
       }
     },
     {
@@ -52937,35 +52969,6 @@
     },
     {
       "categories": [
-        "literary"
-      ],
-      "end_at": "2026-10-07T20:00:00-07:00",
-      "id": "willamette_week:19312621@2026-10-07T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3rkkQMfkSUexmSKRPDYOBw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://literary-arts.org/event/one-page-wednesday-october/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-07T18:30:00-07:00",
-      "summary": "Here is an opportunity to share or listen to one page of work in progress from talented writers from everywhere. Come with a single page of work and sign up to read – or come to listen and prepare to be inspired. Our host is the one and only, Emme Lund. The featured reader for October is Robin Lane.",
-      "title": "One Page",
-      "venue": {
-        "address": "925 SW Washington St",
-        "city": "Portland",
-        "latitude": 45.5212202668,
-        "longitude": -122.6807206124,
-        "name": "Literary Arts"
-      }
-    },
-    {
-      "categories": [
         "wellness"
       ],
       "end_at": "2026-10-07T19:30:00-07:00",
@@ -52993,6 +52996,35 @@
         "latitude": 45.716411,
         "longitude": -123.063606,
         "name": "Mountaindale Sun Resort"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "end_at": "2026-10-07T20:00:00-07:00",
+      "id": "willamette_week:19312621@2026-10-07T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3rkkQMfkSUexmSKRPDYOBw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://literary-arts.org/event/one-page-wednesday-october/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T18:30:00-07:00",
+      "summary": "Here is an opportunity to share or listen to one page of work in progress from talented writers from everywhere. Come with a single page of work and sign up to read – or come to listen and prepare to be inspired. Our host is the one and only, Emme Lund. The featured reader for October is Robin Lane.",
+      "title": "One Page",
+      "venue": {
+        "address": "925 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5212202668,
+        "longitude": -122.6807206124,
+        "name": "Literary Arts"
       }
     },
     {
@@ -58597,6 +58629,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-08T21:00:00-07:00",
+      "id": "willamette_week:20019065@2026-10-08T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://flynncreekcircus.com/tickets-page-2026/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 50.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T19:00:00-07:00",
+      "summary": "This 2026 season, Flynn Creek Circus invites audiences to ‘The Cricket & the Wren’ — memorable family fun and Artful athleticism under the circus big top. A merchant’s daughter sets out to find the castle where the horizon meets the sea. In order to break the spell of the Frog Prince, she must brave a harrowing journey filled with wonder. Along the adventure, she encounters Jack and the Beanstalk’s sassy cow, an out of pocket Pirate and the secret sacrifice of the cricket and the wren. Featuring aerialists, jugglers, knife throwers, and laugh out loud comedy, this circus blends classic storybook archetypes with imaginative new heroes. The Cricket and the Wren will surprise, dazzle and delight all ages. In addition to the family friendly showings, and the interactive children's camp program held under the circus big top, Flynn Creek Circus also presents the wildly popular 'Adults Only Show' boasting outrageous acts, dark comedy, and an infamous party atmosphere. Check the website for select adults only showtimes as well as special discount nights. Spectators for all showings are invited to the tent to experience the magic up to 30 minutes before each show. The event will offer beer, wine, and light concession for purchase and include a 15 minute intermission during the two hour show. Limited free parking is available at the location at Clark College.",
+      "ticket_url": "https://flynncreekcircus.com/tickets-page-2026/",
+      "title": "Flynn Creek Circus - The Cricket and the Wren",
+      "venue": {
+        "address": "E. MCGLOUGHLIN BLVD & FORT VANCOUVER WAY",
+        "city": "Vancouver",
+        "latitude": 45.633166,
+        "longitude": -122.658303,
+        "name": "Clark College: Library"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-08T21:00:00-07:00",
@@ -58707,38 +58771,6 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-08T21:00:00-07:00",
-      "id": "willamette_week:20019065@2026-10-08T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://flynncreekcircus.com/tickets-page-2026/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 50.0,
-        "min": 20.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-08T19:00:00-07:00",
-      "summary": "This 2026 season, Flynn Creek Circus invites audiences to ‘The Cricket & the Wren’ — memorable family fun and Artful athleticism under the circus big top. A merchant’s daughter sets out to find the castle where the horizon meets the sea. In order to break the spell of the Frog Prince, she must brave a harrowing journey filled with wonder. Along the adventure, she encounters Jack and the Beanstalk’s sassy cow, an out of pocket Pirate and the secret sacrifice of the cricket and the wren. Featuring aerialists, jugglers, knife throwers, and laugh out loud comedy, this circus blends classic storybook archetypes with imaginative new heroes. The Cricket and the Wren will surprise, dazzle and delight all ages. In addition to the family friendly showings, and the interactive children's camp program held under the circus big top, Flynn Creek Circus also presents the wildly popular 'Adults Only Show' boasting outrageous acts, dark comedy, and an infamous party atmosphere. Check the website for select adults only showtimes as well as special discount nights. Spectators for all showings are invited to the tent to experience the magic up to 30 minutes before each show. The event will offer beer, wine, and light concession for purchase and include a 15 minute intermission during the two hour show. Limited free parking is available at the location at Clark College.",
-      "ticket_url": "https://flynncreekcircus.com/tickets-page-2026/",
-      "title": "Flynn Creek Circus - The Cricket and the Wren",
-      "venue": {
-        "address": "E. MCGLOUGHLIN BLVD & FORT VANCOUVER WAY",
-        "city": "Vancouver",
-        "latitude": 45.633166,
-        "longitude": -122.658303,
-        "name": "Clark College: Library"
       }
     },
     {
@@ -60920,35 +60952,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-09T11:00:00-07:00",
-      "id": "willamette_week:18714800@2026-10-09T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v8hys5TiJk-p6W0LAFyZ3g.large.png",
-      "is_all_day": false,
-      "listing_url": "https://theallison.com/event/garden-tour-10-9/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-09T10:00:00-07:00",
-      "summary": "Step into the heart of our culinary story with a guided tour of the Chef’s Garden at The Allison Inn & Spa. Offered complimentary to hotel guests every Friday at 10 a.m., April through October, this intimate experience is led by a member of our garden team, an extension of JORY’s culinary program. Stroll through the garden as we share how our ingredients are grown, harvested and sourced, and learn about our bee colonies and the remarkable role they play in our garden ecosystem and culinary offerings. RSVP today to save your spot for this small group experience.",
-      "title": "Garden Tour",
-      "venue": {
-        "address": "2525 Allison Ln",
-        "city": "Newberg",
-        "latitude": 45.319767,
-        "longitude": -122.946365,
-        "name": "The Allison Inn & Spa"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-09T17:30:00-07:00",
@@ -60976,6 +60979,35 @@
         "latitude": 45.5194078,
         "longitude": -122.7090681,
         "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-09T11:00:00-07:00",
+      "id": "willamette_week:18714800@2026-10-09T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v8hys5TiJk-p6W0LAFyZ3g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://theallison.com/event/garden-tour-10-9/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T10:00:00-07:00",
+      "summary": "Step into the heart of our culinary story with a guided tour of the Chef’s Garden at The Allison Inn & Spa. Offered complimentary to hotel guests every Friday at 10 a.m., April through October, this intimate experience is led by a member of our garden team, an extension of JORY’s culinary program. Stroll through the garden as we share how our ingredients are grown, harvested and sourced, and learn about our bee colonies and the remarkable role they play in our garden ecosystem and culinary offerings. RSVP today to save your spot for this small group experience.",
+      "title": "Garden Tour",
+      "venue": {
+        "address": "2525 Allison Ln",
+        "city": "Newberg",
+        "latitude": 45.319767,
+        "longitude": -122.946365,
+        "name": "The Allison Inn & Spa"
       }
     },
     {
@@ -61185,6 +61217,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-09T19:00:00-07:00",
+      "id": "willamette_week:20024392@2026-10-09T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bELpG7nxAUmkHzTqo_dpeQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://www.albertastreetgallery.com",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T11:00:00-07:00",
+      "summary": "Skeletons Out of the Closet The annual Spooky Art Show returns to Lavaun's Community Gallery for its third year, this time as “Skeleton's Out of the Closet.” Curated from an open call for submissions, this show features art that is spooky, scary, strange, and out of the ordinary. Alberta Street Gallery member Julia Alora, a lifetime lover of Halloween, has hand-picked this year’s collection of frights and delights from more than 10 local artists. What makes art spooky? Art that focuses on fears, phobias, or disquieting themes. Settings or characters or creatures that are dark, born from night, or upsetting to see. Images that capture the fun and nostalgia of playing in a scary space through a safe lens, reminiscent of horror movies and Halloweens past. Come in for a thrill and a chill, find a new piece to haunt your home, and enjoy beautiful works of art perfect for those who are strange and unusual. Alberta Street Gallery is a friendly and vibrant cooperative gallery of 30 local artists in the heart of the Alberta Arts District in Northeast Portland. In addition to our members’ art, we mount monthly shows that begin on the “Last Thursday” of every month. Our front windows feature new work by two of our member artists, and we curate group shows in Lavaun's Community Gallery, a special exhibition space inside the gallery named for and made possible by gallery member Lavaun Benavidez Heaster, a legally blind collage artist who died in 2020.",
+      "title": "Skeletons Out of the Closet: A Spooky Art Show",
+      "venue": {
+        "address": "1829 NE Alberta St",
+        "city": "Portland",
+        "latitude": 45.559268,
+        "longitude": -122.646073,
+        "name": "Alberta Street Gallery"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-09T12:30:00-07:00",
@@ -61267,37 +61330,6 @@
         "latitude": 45.63873,
         "longitude": -122.66149,
         "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-09T19:00:00-07:00",
-      "id": "willamette_week:20024392@2026-10-09T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bELpG7nxAUmkHzTqo_dpeQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "http://www.albertastreetgallery.com",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-09T11:00:00-07:00",
-      "summary": "Skeletons Out of the Closet The annual Spooky Art Show returns to Lavaun's Community Gallery for its third year, this time as “Skeleton's Out of the Closet.” Curated from an open call for submissions, this show features art that is spooky, scary, strange, and out of the ordinary. Alberta Street Gallery member Julia Alora, a lifetime lover of Halloween, has hand-picked this year’s collection of frights and delights from more than 10 local artists. What makes art spooky? Art that focuses on fears, phobias, or disquieting themes. Settings or characters or creatures that are dark, born from night, or upsetting to see. Images that capture the fun and nostalgia of playing in a scary space through a safe lens, reminiscent of horror movies and Halloweens past. Come in for a thrill and a chill, find a new piece to haunt your home, and enjoy beautiful works of art perfect for those who are strange and unusual. Alberta Street Gallery is a friendly and vibrant cooperative gallery of 30 local artists in the heart of the Alberta Arts District in Northeast Portland. In addition to our members’ art, we mount monthly shows that begin on the “Last Thursday” of every month. Our front windows feature new work by two of our member artists, and we curate group shows in Lavaun's Community Gallery, a special exhibition space inside the gallery named for and made possible by gallery member Lavaun Benavidez Heaster, a legally blind collage artist who died in 2020.",
-      "title": "Skeletons Out of the Closet: A Spooky Art Show",
-      "venue": {
-        "address": "1829 NE Alberta St",
-        "city": "Portland",
-        "latitude": 45.559268,
-        "longitude": -122.646073,
-        "name": "Alberta Street Gallery"
       }
     },
     {
@@ -62573,35 +62605,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "end_at": "2026-10-09T19:00:00-07:00",
-      "id": "willamette_week:18876945@2026-10-09T17:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.large.png",
-      "is_all_day": false,
-      "listing_url": "https://goboxers.com/calendar.aspx?game_id=8175&amp;sport_id=6",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-09T17:00:00-07:00",
-      "summary": "Pacific University Athletics Men's Soccer vs Linfield University",
-      "title": "Pacific University Athletics Men's Soccer vs Linfield University",
-      "venue": {
-        "address": "2043 College Way",
-        "city": "Forest Grove",
-        "latitude": 45.522007,
-        "longitude": -123.108985,
-        "name": "Hanson Stadium"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-10-09T21:00:00-07:00",
@@ -62629,6 +62632,35 @@
         "latitude": 45.51524,
         "longitude": -122.680148,
         "name": "Migration Brewing — Pac West Patio"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-10-09T19:00:00-07:00",
+      "id": "willamette_week:18876945@2026-10-09T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goboxers.com/calendar.aspx?game_id=8175&amp;sport_id=6",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T17:00:00-07:00",
+      "summary": "Pacific University Athletics Men's Soccer vs Linfield University",
+      "title": "Pacific University Athletics Men's Soccer vs Linfield University",
+      "venue": {
+        "address": "2043 College Way",
+        "city": "Forest Grove",
+        "latitude": 45.522007,
+        "longitude": -123.108985,
+        "name": "Hanson Stadium"
       }
     },
     {
@@ -63855,6 +63887,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-09T21:00:00-07:00",
+      "id": "willamette_week:20019065@2026-10-09T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://flynncreekcircus.com/tickets-page-2026/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 50.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T19:00:00-07:00",
+      "summary": "This 2026 season, Flynn Creek Circus invites audiences to ‘The Cricket & the Wren’ — memorable family fun and Artful athleticism under the circus big top. A merchant’s daughter sets out to find the castle where the horizon meets the sea. In order to break the spell of the Frog Prince, she must brave a harrowing journey filled with wonder. Along the adventure, she encounters Jack and the Beanstalk’s sassy cow, an out of pocket Pirate and the secret sacrifice of the cricket and the wren. Featuring aerialists, jugglers, knife throwers, and laugh out loud comedy, this circus blends classic storybook archetypes with imaginative new heroes. The Cricket and the Wren will surprise, dazzle and delight all ages. In addition to the family friendly showings, and the interactive children's camp program held under the circus big top, Flynn Creek Circus also presents the wildly popular 'Adults Only Show' boasting outrageous acts, dark comedy, and an infamous party atmosphere. Check the website for select adults only showtimes as well as special discount nights. Spectators for all showings are invited to the tent to experience the magic up to 30 minutes before each show. The event will offer beer, wine, and light concession for purchase and include a 15 minute intermission during the two hour show. Limited free parking is available at the location at Clark College.",
+      "ticket_url": "https://flynncreekcircus.com/tickets-page-2026/",
+      "title": "Flynn Creek Circus - The Cricket and the Wren",
+      "venue": {
+        "address": "E. MCGLOUGHLIN BLVD & FORT VANCOUVER WAY",
+        "city": "Vancouver",
+        "latitude": 45.633166,
+        "longitude": -122.658303,
+        "name": "Clark College: Library"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-09T21:00:00-07:00",
@@ -63911,38 +63975,6 @@
         "latitude": 45.44368,
         "longitude": -122.64171,
         "name": "Bridge City Improv"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-09T21:00:00-07:00",
-      "id": "willamette_week:20019065@2026-10-09T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://flynncreekcircus.com/tickets-page-2026/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 50.0,
-        "min": 20.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-09T19:00:00-07:00",
-      "summary": "This 2026 season, Flynn Creek Circus invites audiences to ‘The Cricket & the Wren’ — memorable family fun and Artful athleticism under the circus big top. A merchant’s daughter sets out to find the castle where the horizon meets the sea. In order to break the spell of the Frog Prince, she must brave a harrowing journey filled with wonder. Along the adventure, she encounters Jack and the Beanstalk’s sassy cow, an out of pocket Pirate and the secret sacrifice of the cricket and the wren. Featuring aerialists, jugglers, knife throwers, and laugh out loud comedy, this circus blends classic storybook archetypes with imaginative new heroes. The Cricket and the Wren will surprise, dazzle and delight all ages. In addition to the family friendly showings, and the interactive children's camp program held under the circus big top, Flynn Creek Circus also presents the wildly popular 'Adults Only Show' boasting outrageous acts, dark comedy, and an infamous party atmosphere. Check the website for select adults only showtimes as well as special discount nights. Spectators for all showings are invited to the tent to experience the magic up to 30 minutes before each show. The event will offer beer, wine, and light concession for purchase and include a 15 minute intermission during the two hour show. Limited free parking is available at the location at Clark College.",
-      "ticket_url": "https://flynncreekcircus.com/tickets-page-2026/",
-      "title": "Flynn Creek Circus - The Cricket and the Wren",
-      "venue": {
-        "address": "E. MCGLOUGHLIN BLVD & FORT VANCOUVER WAY",
-        "city": "Vancouver",
-        "latitude": 45.633166,
-        "longitude": -122.658303,
-        "name": "Clark College: Library"
       }
     },
     {
@@ -67511,6 +67543,38 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-10T16:15:00-07:00",
+      "id": "willamette_week:20029007@2026-10-10T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eWyyjGd65kitdequ0SDD-Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://seedalliance.org/events/portland-farm-crawl/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T09:00:00-07:00",
+      "summary": "Join Organic Seed Alliance as we tour Rhythm Seed Farm, Tanager Farm, and Oak Grove New Urban Farm in the Portland, Oregon area. Together we will learn how to harvest and clean seeds at various scales. This crawl is perfect for farmers and beginning seed growers. Schedule: 9:00-10:30 Rhythm Seed Farm 11:15-12:35 Tanager Farm 1:25-3:30 Oak Grover New Urban Farm Bus returns to Rhythm Seed Farm at 4:15pm Transportation: Bus or drive yourself Food: Bagged lunch with Sandwich, chips, apple, and a drink. Please bring a water bottle. Attire: Please wear comfortable clothing, a hat, sunscreen, raincoat, and walking shoes.",
+      "ticket_url": "https://secure.qgiv.com/for/ineven/event/portland-farm-crawl/",
+      "title": "Portland Farm Crawl",
+      "venue": {
+        "address": "6841 Northeast Prescott Street",
+        "city": "Portland",
+        "latitude": 45.555792,
+        "longitude": -122.592347,
+        "name": "Rhythm Seed Farm, Tanager Farm, and Oak Grove New Urban High School Farm"
+      }
+    },
+    {
+      "categories": [
         "market"
       ],
       "end_at": "2026-10-10T15:30:00-07:00",
@@ -67999,35 +68063,6 @@
     },
     {
       "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-10-10T11:00:00-07:00",
-      "id": "willamette_week:18401087@2026-10-10T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1hOcMtwruUSjU_CjhUfH8w.large.png",
-      "is_all_day": false,
-      "listing_url": "https://theallison.com/event/vineyard-walk/2026-10-10/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T10:00:00-07:00",
-      "summary": "Discover the story of The Allison’s estate vineyard and Austin Knoll Pinot Noir. Offered Saturdays at 10 a.m., April through October, this complimentary experience is led by our concierge, Andy Burke, who guides guests on a leisurely walk through our on-site vineyard. Along the way, learn about the legacy of Austin Knoll wines, taste two vintages of Austin Knoll Pinot Noir vintages to experience the evolution of each harvest, and hear the story of Willamette Valley pinot noir’s rise on the international stage. This intimate, 30-minute experience is available to hotel guests and in-house groups, with space limited to 14 participants. RSVP to secure your spot.",
-      "title": "Vineyard Walk",
-      "venue": {
-        "address": "2525 Allison Ln",
-        "city": "Newberg",
-        "latitude": 45.319767,
-        "longitude": -122.946365,
-        "name": "The Allison Inn & Spa"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-10T17:30:00-07:00",
@@ -68055,6 +68090,35 @@
         "latitude": 45.5194078,
         "longitude": -122.7090681,
         "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-10-10T11:00:00-07:00",
+      "id": "willamette_week:18401087@2026-10-10T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1hOcMtwruUSjU_CjhUfH8w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://theallison.com/event/vineyard-walk/2026-10-10/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T10:00:00-07:00",
+      "summary": "Discover the story of The Allison’s estate vineyard and Austin Knoll Pinot Noir. Offered Saturdays at 10 a.m., April through October, this complimentary experience is led by our concierge, Andy Burke, who guides guests on a leisurely walk through our on-site vineyard. Along the way, learn about the legacy of Austin Knoll wines, taste two vintages of Austin Knoll Pinot Noir vintages to experience the evolution of each harvest, and hear the story of Willamette Valley pinot noir’s rise on the international stage. This intimate, 30-minute experience is available to hotel guests and in-house groups, with space limited to 14 participants. RSVP to secure your spot.",
+      "title": "Vineyard Walk",
+      "venue": {
+        "address": "2525 Allison Ln",
+        "city": "Newberg",
+        "latitude": 45.319767,
+        "longitude": -122.946365,
+        "name": "The Allison Inn & Spa"
       }
     },
     {
@@ -68985,6 +69049,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-10T19:00:00-07:00",
+      "id": "willamette_week:20024392@2026-10-10T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bELpG7nxAUmkHzTqo_dpeQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://www.albertastreetgallery.com",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T11:00:00-07:00",
+      "summary": "Skeletons Out of the Closet The annual Spooky Art Show returns to Lavaun's Community Gallery for its third year, this time as “Skeleton's Out of the Closet.” Curated from an open call for submissions, this show features art that is spooky, scary, strange, and out of the ordinary. Alberta Street Gallery member Julia Alora, a lifetime lover of Halloween, has hand-picked this year’s collection of frights and delights from more than 10 local artists. What makes art spooky? Art that focuses on fears, phobias, or disquieting themes. Settings or characters or creatures that are dark, born from night, or upsetting to see. Images that capture the fun and nostalgia of playing in a scary space through a safe lens, reminiscent of horror movies and Halloweens past. Come in for a thrill and a chill, find a new piece to haunt your home, and enjoy beautiful works of art perfect for those who are strange and unusual. Alberta Street Gallery is a friendly and vibrant cooperative gallery of 30 local artists in the heart of the Alberta Arts District in Northeast Portland. In addition to our members’ art, we mount monthly shows that begin on the “Last Thursday” of every month. Our front windows feature new work by two of our member artists, and we curate group shows in Lavaun's Community Gallery, a special exhibition space inside the gallery named for and made possible by gallery member Lavaun Benavidez Heaster, a legally blind collage artist who died in 2020.",
+      "title": "Skeletons Out of the Closet: A Spooky Art Show",
+      "venue": {
+        "address": "1829 NE Alberta St",
+        "city": "Portland",
+        "latitude": 45.559268,
+        "longitude": -122.646073,
+        "name": "Alberta Street Gallery"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "end_at": "2026-10-10T13:00:00-07:00",
@@ -69042,37 +69137,6 @@
         "latitude": 45.5256321,
         "longitude": -122.6751842,
         "name": "Lan Su Chinese Garden"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-10T19:00:00-07:00",
-      "id": "willamette_week:20024392@2026-10-10T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bELpG7nxAUmkHzTqo_dpeQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "http://www.albertastreetgallery.com",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T11:00:00-07:00",
-      "summary": "Skeletons Out of the Closet The annual Spooky Art Show returns to Lavaun's Community Gallery for its third year, this time as “Skeleton's Out of the Closet.” Curated from an open call for submissions, this show features art that is spooky, scary, strange, and out of the ordinary. Alberta Street Gallery member Julia Alora, a lifetime lover of Halloween, has hand-picked this year’s collection of frights and delights from more than 10 local artists. What makes art spooky? Art that focuses on fears, phobias, or disquieting themes. Settings or characters or creatures that are dark, born from night, or upsetting to see. Images that capture the fun and nostalgia of playing in a scary space through a safe lens, reminiscent of horror movies and Halloweens past. Come in for a thrill and a chill, find a new piece to haunt your home, and enjoy beautiful works of art perfect for those who are strange and unusual. Alberta Street Gallery is a friendly and vibrant cooperative gallery of 30 local artists in the heart of the Alberta Arts District in Northeast Portland. In addition to our members’ art, we mount monthly shows that begin on the “Last Thursday” of every month. Our front windows feature new work by two of our member artists, and we curate group shows in Lavaun's Community Gallery, a special exhibition space inside the gallery named for and made possible by gallery member Lavaun Benavidez Heaster, a legally blind collage artist who died in 2020.",
-      "title": "Skeletons Out of the Closet: A Spooky Art Show",
-      "venue": {
-        "address": "1829 NE Alberta St",
-        "city": "Portland",
-        "latitude": 45.559268,
-        "longitude": -122.646073,
-        "name": "Alberta Street Gallery"
       }
     },
     {
@@ -71286,35 +71350,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "end_at": "2026-10-10T17:00:00-07:00",
-      "id": "willamette_week:19433649@2026-10-10T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RwouKid3ukygP98NHo4n0w.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/hora-de-cuentos-460",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T16:00:00-07:00",
-      "summary": "¡Vengan a disfrutar y divertirse en este programa interactivo para niños de 0 a 6 años! Ofrecemos actividades que promueven la alfabetización temprana, leyendo libros, cantando, jugando y haciendo manualidades. Los padres, hermanos mayores de 6 años y cuidadores son bienvenidos. Este programa se presenta en español. La asistencia es limitada y está disponible por orden de llegada. Apoyado por donaciones a La Fundación de la Biblioteca .",
-      "title": "Hora de Cuentos",
-      "venue": {
-        "address": "7905 SE Holgate Boulevard",
-        "city": "Portland",
-        "latitude": 45.490504558338586,
-        "longitude": -122.58224808281963,
-        "name": "Holgate Library"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-10T18:00:00-07:00",
@@ -71343,6 +71378,35 @@
         "latitude": 45.633166,
         "longitude": -122.658303,
         "name": "Clark College: Library"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-10-10T17:00:00-07:00",
+      "id": "willamette_week:19433649@2026-10-10T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RwouKid3ukygP98NHo4n0w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/hora-de-cuentos-460",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T16:00:00-07:00",
+      "summary": "¡Vengan a disfrutar y divertirse en este programa interactivo para niños de 0 a 6 años! Ofrecemos actividades que promueven la alfabetización temprana, leyendo libros, cantando, jugando y haciendo manualidades. Los padres, hermanos mayores de 6 años y cuidadores son bienvenidos. Este programa se presenta en español. La asistencia es limitada y está disponible por orden de llegada. Apoyado por donaciones a La Fundación de la Biblioteca .",
+      "title": "Hora de Cuentos",
+      "venue": {
+        "address": "7905 SE Holgate Boulevard",
+        "city": "Portland",
+        "latitude": 45.490504558338586,
+        "longitude": -122.58224808281963,
+        "name": "Holgate Library"
       }
     },
     {
@@ -71525,37 +71589,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-10T18:00:00-07:00",
-      "id": "willamette_week:19975622@2026-10-10T17:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/713c0a6f-84f7-4da3-a128-4178dc6aa86d.large.png",
-      "is_all_day": false,
-      "listing_url": "https://fhfg.org/event-6841596?CalendarViewType=1&SelectedDate=10/1/2026",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 10.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T17:00:00-07:00",
-      "summary": "Come dressed up as your favorite witch. Enjoy tea and snacks. Cherie Savoie Tintary, local collage artist, is hosting a crafting tea party. Guests will work with historic pharmacy labels mixed in with some local history. Participants must be willing to have their photo taken. Photos will be used to showcase Tintary's craft that was published in A Somerset Halloween magazine in August. Tickets to the event are $10. Seating is limited. Register today. Participants must be",
-      "title": "Witches Tea",
-      "venue": {
-        "address": "1936 19th Avenue",
-        "city": "Forest Grove",
-        "latitude": 45.518102,
-        "longitude": -123.112472,
-        "name": "Old Train Station"
-      }
-    },
-    {
-      "categories": [
         "food"
       ],
       "end_at": "2026-10-10T21:00:00-07:00",
@@ -71583,6 +71616,37 @@
         "latitude": 45.716411,
         "longitude": -123.063606,
         "name": "Mountaindale Sun Resort"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-10T18:00:00-07:00",
+      "id": "willamette_week:19975622@2026-10-10T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/713c0a6f-84f7-4da3-a128-4178dc6aa86d.large.png",
+      "is_all_day": false,
+      "listing_url": "https://fhfg.org/event-6841596?CalendarViewType=1&SelectedDate=10/1/2026",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T17:00:00-07:00",
+      "summary": "Come dressed up as your favorite witch. Enjoy tea and snacks. Cherie Savoie Tintary, local collage artist, is hosting a crafting tea party. Guests will work with historic pharmacy labels mixed in with some local history. Participants must be willing to have their photo taken. Photos will be used to showcase Tintary's craft that was published in A Somerset Halloween magazine in August. Tickets to the event are $10. Seating is limited. Register today. Participants must be",
+      "title": "Witches Tea",
+      "venue": {
+        "address": "1936 19th Avenue",
+        "city": "Forest Grove",
+        "latitude": 45.518102,
+        "longitude": -123.112472,
+        "name": "Old Train Station"
       }
     },
     {
@@ -72941,6 +73005,68 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-10-10T21:00:00-07:00",
+      "id": "willamette_week:20029785@2026-10-10T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1b3vqTqSGE-SWSNChkU8MQ.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T19:00:00-07:00",
+      "summary": "Grab your weirdest friends and your littlest goblins for a free, all-ages, silly goose block party! Local artist Mike Bennett is turning his studio into a not-so-spooky haunted house, and Easy Bake Coven, Portland's coven of queer musical witches, brings a brand new improvised musical every night. Wander through local vendors and makers, catch opening acts from community performers, and join in activities built for whimsy and connection. Wholesome spookiness guaranteed. Bring a shelf-stable food item to donate to the Q Center if you can!",
+      "title": "The SPOOKTACULAR with Mike Bennet + Easy Bake Coven",
+      "venue": {
+        "address": "707 NE Fremont St Portland, OR 97212 United States",
+        "city": "Portland",
+        "latitude": 45.548515,
+        "longitude": -122.658359,
+        "name": "Mike Bennet Studios"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-10T21:00:00-07:00",
+      "id": "willamette_week:20019065@2026-10-10T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://flynncreekcircus.com/tickets-page-2026/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 50.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T19:00:00-07:00",
+      "summary": "This 2026 season, Flynn Creek Circus invites audiences to ‘The Cricket & the Wren’ — memorable family fun and Artful athleticism under the circus big top. A merchant’s daughter sets out to find the castle where the horizon meets the sea. In order to break the spell of the Frog Prince, she must brave a harrowing journey filled with wonder. Along the adventure, she encounters Jack and the Beanstalk’s sassy cow, an out of pocket Pirate and the secret sacrifice of the cricket and the wren. Featuring aerialists, jugglers, knife throwers, and laugh out loud comedy, this circus blends classic storybook archetypes with imaginative new heroes. The Cricket and the Wren will surprise, dazzle and delight all ages. In addition to the family friendly showings, and the interactive children's camp program held under the circus big top, Flynn Creek Circus also presents the wildly popular 'Adults Only Show' boasting outrageous acts, dark comedy, and an infamous party atmosphere. Check the website for select adults only showtimes as well as special discount nights. Spectators for all showings are invited to the tent to experience the magic up to 30 minutes before each show. The event will offer beer, wine, and light concession for purchase and include a 15 minute intermission during the two hour show. Limited free parking is available at the location at Clark College.",
+      "ticket_url": "https://flynncreekcircus.com/tickets-page-2026/",
+      "title": "Flynn Creek Circus - The Cricket and the Wren",
+      "venue": {
+        "address": "E. MCGLOUGHLIN BLVD & FORT VANCOUVER WAY",
+        "city": "Vancouver",
+        "latitude": 45.633166,
+        "longitude": -122.658303,
+        "name": "Clark College: Library"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "end_at": "2026-10-10T20:30:00-07:00",
@@ -73058,68 +73184,6 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "end_at": "2026-10-10T21:00:00-07:00",
-      "id": "willamette_week:20029785@2026-10-10T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1b3vqTqSGE-SWSNChkU8MQ.large.jpg",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T19:00:00-07:00",
-      "summary": "Grab your weirdest friends and your littlest goblins for a free, all-ages, silly goose block party! Local artist Mike Bennett is turning his studio into a not-so-spooky haunted house, and Easy Bake Coven, Portland's coven of queer musical witches, brings a brand new improvised musical every night. Wander through local vendors and makers, catch opening acts from community performers, and join in activities built for whimsy and connection. Wholesome spookiness guaranteed. Bring a shelf-stable food item to donate to the Q Center if you can!",
-      "title": "The SPOOKTACULAR with Mike Bennet + Easy Bake Coven",
-      "venue": {
-        "address": "707 NE Fremont St Portland, OR 97212 United States",
-        "city": "Portland",
-        "latitude": 45.548515,
-        "longitude": -122.658359,
-        "name": "Mike Bennet Studios"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-10T21:00:00-07:00",
-      "id": "willamette_week:20019065@2026-10-10T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://flynncreekcircus.com/tickets-page-2026/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 50.0,
-        "min": 20.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T19:00:00-07:00",
-      "summary": "This 2026 season, Flynn Creek Circus invites audiences to ‘The Cricket & the Wren’ — memorable family fun and Artful athleticism under the circus big top. A merchant’s daughter sets out to find the castle where the horizon meets the sea. In order to break the spell of the Frog Prince, she must brave a harrowing journey filled with wonder. Along the adventure, she encounters Jack and the Beanstalk’s sassy cow, an out of pocket Pirate and the secret sacrifice of the cricket and the wren. Featuring aerialists, jugglers, knife throwers, and laugh out loud comedy, this circus blends classic storybook archetypes with imaginative new heroes. The Cricket and the Wren will surprise, dazzle and delight all ages. In addition to the family friendly showings, and the interactive children's camp program held under the circus big top, Flynn Creek Circus also presents the wildly popular 'Adults Only Show' boasting outrageous acts, dark comedy, and an infamous party atmosphere. Check the website for select adults only showtimes as well as special discount nights. Spectators for all showings are invited to the tent to experience the magic up to 30 minutes before each show. The event will offer beer, wine, and light concession for purchase and include a 15 minute intermission during the two hour show. Limited free parking is available at the location at Clark College.",
-      "ticket_url": "https://flynncreekcircus.com/tickets-page-2026/",
-      "title": "Flynn Creek Circus - The Cricket and the Wren",
-      "venue": {
-        "address": "E. MCGLOUGHLIN BLVD & FORT VANCOUVER WAY",
-        "city": "Vancouver",
-        "latitude": 45.633166,
-        "longitude": -122.658303,
-        "name": "Clark College: Library"
       }
     },
     {
@@ -73836,6 +73900,38 @@
         "latitude": 45.497799,
         "longitude": -122.693703,
         "name": "Keller Auditorium"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-10T21:30:00-07:00",
+      "id": "willamette_week:20024423@2026-10-10T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/J38NsVx5E0aKtEFyLnobHQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.tickettomato.com/event/10246/phoenix",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T19:30:00-07:00",
+      "summary": "The historic Winona Grange, located at 8340 SW Seneca Street in Tualatin, will open their yearly concert series on Saturday, October 10th by hosting the American folk pop duo Phoenix. This duo consists of award-winning songwriters and multi-instrumentalists Tim and Kathy Crosby - who have been performing together for well over 2 decades. They have entertained together from San Francisco to Nashville, Las Vegas to Alaska, and are delighted to have the opportunity to perform at the 2nd Saturday Concert Series hosted by S&A Irish Entertainment and the Winona Grange. In their current configuration, Phoenix has released two full length albums, Rise and Viewpoint, along with the single Calamity Blues. Their music has not only won numerous awards, but has been featured on several specialty shows, including BWHs Her Voice, The Indie Radio Network, Indie Top Chart, and Women of Substance Radio \\(WOS\\) Music with a Conscience. In 2027, they will release 4 singles over the course of the year, beginning with Razorblade on January 1st. All proceeds from this song will go to a domestic violence organization. The Winona Grange 2nd Saturday Concert Series has been bringing musicians from around the world to Tualatin for 17 years. The series is known for its diverse lineup, including artists from Oregon, Ireland, Scotland, and beyond. Tickets for the October 10th performance are available at: https://www.tickettomato.com/event/10246/phoenix Doors open at 6:45 p.m., and performance begins at 7:30 p.m. There will be treats and fellowship downstairs during intermission. This venue is not wheelchair accessible.",
+      "ticket_url": "https://www.tickettomato.com/event/10246/phoenix",
+      "title": "Winona Grange to Host Award-Winning Folk Pop Duo",
+      "venue": {
+        "address": "8340 SW Seneca Street",
+        "city": "Tualatin",
+        "latitude": 45.383178,
+        "longitude": -122.76233,
+        "name": "Winona Grange"
       }
     },
     {
@@ -78517,35 +78613,6 @@
     },
     {
       "categories": [
-        "film"
-      ],
-      "end_at": "2026-10-11T16:00:00-07:00",
-      "id": "willamette_week:20007667@2026-10-11T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0yirrJWzjEKQ8Z3I2ebvNw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://portlandartmuseum.org/event/addams-family-1991-x-screenplay/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-11T14:00:00-07:00",
-      "summary": "Addams Family \\(1991\\) Directed by Barry Sonnenfeld. 1hr 39min. Rated PG-13. Join PAM CUT @ The Whitsell for our kids and family series ScreenPLAY! featuring Addams Family. This dark comedy cult classic follows the Addams family as they are preyed upon by predatory loan sharks, a devious brother, and prying neighbors. Featuring an incredible cast, this movie is fun for the whole family. Monster Mash artmaking Finley Learning Studio, 11 a.m. – 2 p.m. Join us for a creative hands-on workshop in conjunction with this Screen Play family programming! Visitors are invited to drop in for make-and-take monster creation, and to participate in building our collaborative monster family on the studio walls. All materials provided! We do not generally provide advisories about subject matter or potentially triggering content in films, and films exhibited don’t necessarily reflect the views of PAM CUT or the Portland Art Museum. In addition to the synopses, trailers, and other links on our website, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media, IMDb, and DoesTheDogDie.com.",
-      "title": "Addams Family (1991) x ScreenPLAY!",
-      "venue": {
-        "address": "1219 SW Park Ave",
-        "city": "Portland",
-        "latitude": 45.516149999999996,
-        "longitude": -122.683357,
-        "name": "Portland Art Museum"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-11T17:00:00-07:00",
@@ -78574,6 +78641,35 @@
         "latitude": 45.633166,
         "longitude": -122.658303,
         "name": "Clark College: Library"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-11T16:00:00-07:00",
+      "id": "willamette_week:20007667@2026-10-11T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0yirrJWzjEKQ8Z3I2ebvNw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portlandartmuseum.org/event/addams-family-1991-x-screenplay/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-11T14:00:00-07:00",
+      "summary": "Addams Family \\(1991\\) Directed by Barry Sonnenfeld. 1hr 39min. Rated PG-13. Join PAM CUT @ The Whitsell for our kids and family series ScreenPLAY! featuring Addams Family. This dark comedy cult classic follows the Addams family as they are preyed upon by predatory loan sharks, a devious brother, and prying neighbors. Featuring an incredible cast, this movie is fun for the whole family. Monster Mash artmaking Finley Learning Studio, 11 a.m. – 2 p.m. Join us for a creative hands-on workshop in conjunction with this Screen Play family programming! Visitors are invited to drop in for make-and-take monster creation, and to participate in building our collaborative monster family on the studio walls. All materials provided! We do not generally provide advisories about subject matter or potentially triggering content in films, and films exhibited don’t necessarily reflect the views of PAM CUT or the Portland Art Museum. In addition to the synopses, trailers, and other links on our website, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media, IMDb, and DoesTheDogDie.com.",
+      "title": "Addams Family (1991) x ScreenPLAY!",
+      "venue": {
+        "address": "1219 SW Park Ave",
+        "city": "Portland",
+        "latitude": 45.516149999999996,
+        "longitude": -122.683357,
+        "name": "Portland Art Museum"
       }
     },
     {
@@ -82385,35 +82481,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-12T12:00:00-07:00",
-      "id": "willamette_week:18616669@2026-10-12T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/r5ZoOn5nU0unuxrAwNBt3A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/ged-tutoring-78",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-12T10:00:00-07:00",
-      "summary": "Drop in to work one-on-one with a tutor. Books and materials are provided. Prepare for the GED: math, language arts, science and social studies For more information, call or text 503.577.9984. Venga a estudiar uno-a-uno con un tutor. Se proveerán libros y materiales. Prepárese para el GED: matemáticas, artes del lenguaje, ciencias y estudios sociales. Para obtener más información, llame al 503.577-.9984.",
-      "title": "GED Tutoring",
-      "venue": {
-        "address": "512 N Killingsworth Street",
-        "city": "Portland",
-        "latitude": 45.5624530442023,
-        "longitude": -122.67152133558135,
-        "name": "North Portland Library"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-12T17:30:00-07:00",
@@ -82441,6 +82508,35 @@
         "latitude": 45.5194078,
         "longitude": -122.7090681,
         "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-12T12:00:00-07:00",
+      "id": "willamette_week:18616669@2026-10-12T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/r5ZoOn5nU0unuxrAwNBt3A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/ged-tutoring-78",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-12T10:00:00-07:00",
+      "summary": "Drop in to work one-on-one with a tutor. Books and materials are provided. Prepare for the GED: math, language arts, science and social studies For more information, call or text 503.577.9984. Venga a estudiar uno-a-uno con un tutor. Se proveerán libros y materiales. Prepárese para el GED: matemáticas, artes del lenguaje, ciencias y estudios sociales. Para obtener más información, llame al 503.577-.9984.",
+      "title": "GED Tutoring",
+      "venue": {
+        "address": "512 N Killingsworth Street",
+        "city": "Portland",
+        "latitude": 45.5624530442023,
+        "longitude": -122.67152133558135,
+        "name": "North Portland Library"
       }
     },
     {
@@ -99077,6 +99173,38 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-16T09:30:00-07:00",
+      "id": "willamette_week:20028819@2026-10-16T07:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gTP5577560aqhEG9ShNRww.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://chamber.tualatinchamber.com/events/details/multi-chamber-pirate-networking-13803?calendarMonth=2026-10-01",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 5.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T07:30:00-07:00",
+      "summary": "Calling all business partners! Multi-Chamber Pirate Networking: A Pirate’s Gathering Ahoy, Business Buccaneers! Join us for a morning of high-spirited networking, treasure-worthy connections, and a splash of coffee-fueled fun. Whether ye be a seasoned captain of industry or a fresh-faced deckhand in the business world, this is your chance to chart new waters and forge alliances! Performance by The Pillage People. Registration required.",
+      "ticket_url": "https://chamber.tualatinchamber.com/events/details/multi-chamber-pirate-networking-13803?calendarMonth=2026-10-01",
+      "title": "Multi-Chamber Pirate Networking",
+      "venue": {
+        "address": "8187 SW Tualatin-Sherwood Rd",
+        "city": "Tualatin",
+        "latitude": 45.381888,
+        "longitude": -122.760991,
+        "name": "Brix Tavern Tualatin"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-10-16T09:00:00-07:00",
@@ -99482,35 +99610,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-16T11:00:00-07:00",
-      "id": "willamette_week:18714800@2026-10-16T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v8hys5TiJk-p6W0LAFyZ3g.large.png",
-      "is_all_day": false,
-      "listing_url": "https://theallison.com/event/garden-tour-10-16/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-16T10:00:00-07:00",
-      "summary": "Step into the heart of our culinary story with a guided tour of the Chef’s Garden at The Allison Inn & Spa. Offered complimentary to hotel guests every Friday at 10 a.m., April through October, this intimate experience is led by a member of our garden team, an extension of JORY’s culinary program. Stroll through the garden as we share how our ingredients are grown, harvested and sourced, and learn about our bee colonies and the remarkable role they play in our garden ecosystem and culinary offerings. RSVP today to save your spot for this small group experience.",
-      "title": "Garden Tour",
-      "venue": {
-        "address": "2525 Allison Ln",
-        "city": "Newberg",
-        "latitude": 45.319767,
-        "longitude": -122.946365,
-        "name": "The Allison Inn & Spa"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-16T17:30:00-07:00",
@@ -99538,6 +99637,35 @@
         "latitude": 45.5194078,
         "longitude": -122.7090681,
         "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-16T11:00:00-07:00",
+      "id": "willamette_week:18714800@2026-10-16T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v8hys5TiJk-p6W0LAFyZ3g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://theallison.com/event/garden-tour-10-16/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T10:00:00-07:00",
+      "summary": "Step into the heart of our culinary story with a guided tour of the Chef’s Garden at The Allison Inn & Spa. Offered complimentary to hotel guests every Friday at 10 a.m., April through October, this intimate experience is led by a member of our garden team, an extension of JORY’s culinary program. Stroll through the garden as we share how our ingredients are grown, harvested and sourced, and learn about our bee colonies and the remarkable role they play in our garden ecosystem and culinary offerings. RSVP today to save your spot for this small group experience.",
+      "title": "Garden Tour",
+      "venue": {
+        "address": "2525 Allison Ln",
+        "city": "Newberg",
+        "latitude": 45.319767,
+        "longitude": -122.946365,
+        "name": "The Allison Inn & Spa"
       }
     },
     {
@@ -99776,6 +99904,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-16T19:00:00-07:00",
+      "id": "willamette_week:20024392@2026-10-16T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bELpG7nxAUmkHzTqo_dpeQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://www.albertastreetgallery.com",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T11:00:00-07:00",
+      "summary": "Skeletons Out of the Closet The annual Spooky Art Show returns to Lavaun's Community Gallery for its third year, this time as “Skeleton's Out of the Closet.” Curated from an open call for submissions, this show features art that is spooky, scary, strange, and out of the ordinary. Alberta Street Gallery member Julia Alora, a lifetime lover of Halloween, has hand-picked this year’s collection of frights and delights from more than 10 local artists. What makes art spooky? Art that focuses on fears, phobias, or disquieting themes. Settings or characters or creatures that are dark, born from night, or upsetting to see. Images that capture the fun and nostalgia of playing in a scary space through a safe lens, reminiscent of horror movies and Halloweens past. Come in for a thrill and a chill, find a new piece to haunt your home, and enjoy beautiful works of art perfect for those who are strange and unusual. Alberta Street Gallery is a friendly and vibrant cooperative gallery of 30 local artists in the heart of the Alberta Arts District in Northeast Portland. In addition to our members’ art, we mount monthly shows that begin on the “Last Thursday” of every month. Our front windows feature new work by two of our member artists, and we curate group shows in Lavaun's Community Gallery, a special exhibition space inside the gallery named for and made possible by gallery member Lavaun Benavidez Heaster, a legally blind collage artist who died in 2020.",
+      "title": "Skeletons Out of the Closet: A Spooky Art Show",
+      "venue": {
+        "address": "1829 NE Alberta St",
+        "city": "Portland",
+        "latitude": 45.559268,
+        "longitude": -122.646073,
+        "name": "Alberta Street Gallery"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-16T16:00:00-07:00",
@@ -99858,37 +100017,6 @@
         "latitude": 45.582817572658264,
         "longitude": -122.68645335011975,
         "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-16T19:00:00-07:00",
-      "id": "willamette_week:20024392@2026-10-16T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bELpG7nxAUmkHzTqo_dpeQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "http://www.albertastreetgallery.com",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-16T11:00:00-07:00",
-      "summary": "Skeletons Out of the Closet The annual Spooky Art Show returns to Lavaun's Community Gallery for its third year, this time as “Skeleton's Out of the Closet.” Curated from an open call for submissions, this show features art that is spooky, scary, strange, and out of the ordinary. Alberta Street Gallery member Julia Alora, a lifetime lover of Halloween, has hand-picked this year’s collection of frights and delights from more than 10 local artists. What makes art spooky? Art that focuses on fears, phobias, or disquieting themes. Settings or characters or creatures that are dark, born from night, or upsetting to see. Images that capture the fun and nostalgia of playing in a scary space through a safe lens, reminiscent of horror movies and Halloweens past. Come in for a thrill and a chill, find a new piece to haunt your home, and enjoy beautiful works of art perfect for those who are strange and unusual. Alberta Street Gallery is a friendly and vibrant cooperative gallery of 30 local artists in the heart of the Alberta Arts District in Northeast Portland. In addition to our members’ art, we mount monthly shows that begin on the “Last Thursday” of every month. Our front windows feature new work by two of our member artists, and we curate group shows in Lavaun's Community Gallery, a special exhibition space inside the gallery named for and made possible by gallery member Lavaun Benavidez Heaster, a legally blind collage artist who died in 2020.",
-      "title": "Skeletons Out of the Closet: A Spooky Art Show",
-      "venue": {
-        "address": "1829 NE Alberta St",
-        "city": "Portland",
-        "latitude": 45.559268,
-        "longitude": -122.646073,
-        "name": "Alberta Street Gallery"
       }
     },
     {
@@ -106499,35 +106627,6 @@
     },
     {
       "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-10-17T11:00:00-07:00",
-      "id": "willamette_week:18401087@2026-10-17T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1hOcMtwruUSjU_CjhUfH8w.large.png",
-      "is_all_day": false,
-      "listing_url": "https://theallison.com/event/vineyard-walk/2026-10-17/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-17T10:00:00-07:00",
-      "summary": "Discover the story of The Allison’s estate vineyard and Austin Knoll Pinot Noir. Offered Saturdays at 10 a.m., April through October, this complimentary experience is led by our concierge, Andy Burke, who guides guests on a leisurely walk through our on-site vineyard. Along the way, learn about the legacy of Austin Knoll wines, taste two vintages of Austin Knoll Pinot Noir vintages to experience the evolution of each harvest, and hear the story of Willamette Valley pinot noir’s rise on the international stage. This intimate, 30-minute experience is available to hotel guests and in-house groups, with space limited to 14 participants. RSVP to secure your spot.",
-      "title": "Vineyard Walk",
-      "venue": {
-        "address": "2525 Allison Ln",
-        "city": "Newberg",
-        "latitude": 45.319767,
-        "longitude": -122.946365,
-        "name": "The Allison Inn & Spa"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-17T17:30:00-07:00",
@@ -106555,6 +106654,35 @@
         "latitude": 45.5194078,
         "longitude": -122.7090681,
         "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-10-17T11:00:00-07:00",
+      "id": "willamette_week:18401087@2026-10-17T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1hOcMtwruUSjU_CjhUfH8w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://theallison.com/event/vineyard-walk/2026-10-17/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-17T10:00:00-07:00",
+      "summary": "Discover the story of The Allison’s estate vineyard and Austin Knoll Pinot Noir. Offered Saturdays at 10 a.m., April through October, this complimentary experience is led by our concierge, Andy Burke, who guides guests on a leisurely walk through our on-site vineyard. Along the way, learn about the legacy of Austin Knoll wines, taste two vintages of Austin Knoll Pinot Noir vintages to experience the evolution of each harvest, and hear the story of Willamette Valley pinot noir’s rise on the international stage. This intimate, 30-minute experience is available to hotel guests and in-house groups, with space limited to 14 participants. RSVP to secure your spot.",
+      "title": "Vineyard Walk",
+      "venue": {
+        "address": "2525 Allison Ln",
+        "city": "Newberg",
+        "latitude": 45.319767,
+        "longitude": -122.946365,
+        "name": "The Allison Inn & Spa"
       }
     },
     {
@@ -110967,34 +111095,6 @@
     },
     {
       "categories": [
-        "film"
-      ],
-      "id": "willamette_week:19433660@2026-10-17T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kl3SZ82H1ECXL7_RBUVSYA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://tomorrowtheater.org/movies/the-witches-of-eastwick-2/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-17T19:00:00-07:00",
-      "summary": "Run Time: 118 min. TICKETS $15 Doors 6:30 p.m.; Event 7 p.m. Select Showtime to Purchase Tickets Click here to learn more about accessibility at the Tomorrow Theater. THE EXPERIENCE Join us for George Miller's The Witches of Eastwick-where Cher, Susan Sarandon, and Michelle Pfeiffer light up the screen in a tale of wit, power, and witchy sisterhood. ON SCREEN: The Witches of Eastwick 1986. Directed by George Miller. Runtime: 1hr 58min. Rated R. Three single women in a picturesque Rhode Island village have their wishes granted-at a cost-when a mysterious and flamboyant man arrives in their lives. Note: We do not generally provide advisories about subject matter or potentially triggering content in films, and films exhibited don't necessarily reflect the views of PAM CUT, the Tomorrow Theater, or the Portland Art Museum. In addition to the synopses, trailers and other links on our website, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media , IMDb and DoesTheDogDie.com .",
-      "title": "The Witches of Eastwick",
-      "venue": {
-        "address": "3530 SE Division St",
-        "city": "Portland",
-        "latitude": 45.50474058972204,
-        "longitude": -122.6275816386394,
-        "name": "PAM CUT's Tomorrow Theater"
-      }
-    },
-    {
-      "categories": [
         "outdoors"
       ],
       "end_at": "2026-10-17T21:00:00-07:00",
@@ -111021,6 +111121,34 @@
         "latitude": 45.548515,
         "longitude": -122.658359,
         "name": "Mike Bennet Studios"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "willamette_week:19433660@2026-10-17T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kl3SZ82H1ECXL7_RBUVSYA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://tomorrowtheater.org/movies/the-witches-of-eastwick-2/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-17T19:00:00-07:00",
+      "summary": "Run Time: 118 min. TICKETS $15 Doors 6:30 p.m.; Event 7 p.m. Select Showtime to Purchase Tickets Click here to learn more about accessibility at the Tomorrow Theater. THE EXPERIENCE Join us for George Miller's The Witches of Eastwick-where Cher, Susan Sarandon, and Michelle Pfeiffer light up the screen in a tale of wit, power, and witchy sisterhood. ON SCREEN: The Witches of Eastwick 1986. Directed by George Miller. Runtime: 1hr 58min. Rated R. Three single women in a picturesque Rhode Island village have their wishes granted-at a cost-when a mysterious and flamboyant man arrives in their lives. Note: We do not generally provide advisories about subject matter or potentially triggering content in films, and films exhibited don't necessarily reflect the views of PAM CUT, the Tomorrow Theater, or the Portland Art Museum. In addition to the synopses, trailers and other links on our website, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media , IMDb and DoesTheDogDie.com .",
+      "title": "The Witches of Eastwick",
+      "venue": {
+        "address": "3530 SE Division St",
+        "city": "Portland",
+        "latitude": 45.50474058972204,
+        "longitude": -122.6275816386394,
+        "name": "PAM CUT's Tomorrow Theater"
       }
     },
     {
@@ -116292,6 +116420,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-18T16:00:00-07:00",
+      "id": "willamette_week:20023535@2026-10-18T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3HxXeCnXBk-ni-O-QRefvA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://epcwl.org/the-bridge/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-18T14:00:00-07:00",
+      "summary": "Join us the month of October as we celebrate old school crafts that still pack a punch! We all love a brand new craft, but some are classics for a reason! And this month we are celebrating some of those during our monthlong celebration of \"Grandma Crafts for ALL!\" Join us on Sunday, October 18th as we will be teaching the basics of Needlepoint! No previous experience necessary. We will have thread, needles, canvas and excitment as we share how fun and versatile this craft can be! Spots are limited! To reserve your ticket, please RSVP here: https://www.eventbrite.com/e/grandma-crafts-for-all-learn-to-needlepoint-tickets-2002162471850 We list the event as free, but we do kindly ask for a $5 donation to cover materials. However, no one will be turned away for lack of funds. Please join us at the starting time of 2pm as we will be beginning the class with instruction and there is not time to repeat everything again! This event is hosted at a church but it is NOT a church event. There will be NO church talk; just a free community-building event that allows us all to take a break in our busy lives to do something that's good for ourself and our community. We hope you will join us!",
+      "ticket_url": "https://www.eventbrite.com/e/grandma-crafts-for-all-learn-to-needlepoint-tickets-2002162471850",
+      "title": "Learn how to Needlepoint with The Bridge",
+      "venue": {
+        "address": "19200 Willamette Drive",
+        "city": "Portland",
+        "latitude": 45.386497,
+        "longitude": -122.639998,
+        "name": "Emmanuel Presbyterian Church"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-18T15:45:00-07:00",
@@ -120061,35 +120221,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-19T12:00:00-07:00",
-      "id": "willamette_week:18616669@2026-10-19T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/r5ZoOn5nU0unuxrAwNBt3A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/ged-tutoring-79",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-19T10:00:00-07:00",
-      "summary": "Drop in to work one-on-one with a tutor. Books and materials are provided. Prepare for the GED: math, language arts, science and social studies For more information, call or text 503.577.9984. Venga a estudiar uno-a-uno con un tutor. Se proveerán libros y materiales. Prepárese para el GED: matemáticas, artes del lenguaje, ciencias y estudios sociales. Para obtener más información, llame al 503.577-.9984.",
-      "title": "GED Tutoring",
-      "venue": {
-        "address": "512 N Killingsworth Street",
-        "city": "Portland",
-        "latitude": 45.5624530442023,
-        "longitude": -122.67152133558135,
-        "name": "North Portland Library"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-19T17:30:00-07:00",
@@ -120117,6 +120248,35 @@
         "latitude": 45.5194078,
         "longitude": -122.7090681,
         "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-19T12:00:00-07:00",
+      "id": "willamette_week:18616669@2026-10-19T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/r5ZoOn5nU0unuxrAwNBt3A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/ged-tutoring-79",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-19T10:00:00-07:00",
+      "summary": "Drop in to work one-on-one with a tutor. Books and materials are provided. Prepare for the GED: math, language arts, science and social studies For more information, call or text 503.577.9984. Venga a estudiar uno-a-uno con un tutor. Se proveerán libros y materiales. Prepárese para el GED: matemáticas, artes del lenguaje, ciencias y estudios sociales. Para obtener más información, llame al 503.577-.9984.",
+      "title": "GED Tutoring",
+      "venue": {
+        "address": "512 N Killingsworth Street",
+        "city": "Portland",
+        "latitude": 45.5624530442023,
+        "longitude": -122.67152133558135,
+        "name": "North Portland Library"
       }
     },
     {
@@ -126178,34 +126338,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "id": "willamette_week:15351045@2026-10-21T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M_PNmTXsB0uZoPrZWydJ_g.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.dundeecity.org/index.asp?SEC=5B5C4FDE-4FE7-4347-879F-139084E743F8&DE=6D716C7A-A5B5-466C-AD92-F9A9773F401C",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-21T10:00:00-07:00",
-      "summary": "City of Dundee",
-      "title": "Tourism Committee Meetings",
-      "venue": {
-        "address": "620 SW 5th Street",
-        "city": "Dundee",
-        "latitude": 45.282148,
-        "longitude": -123.013782,
-        "name": "Dundee City Hall"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-21T17:30:00-07:00",
@@ -126233,6 +126365,34 @@
         "latitude": 45.5194078,
         "longitude": -122.7090681,
         "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:15351045@2026-10-21T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M_PNmTXsB0uZoPrZWydJ_g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.dundeecity.org/index.asp?SEC=5B5C4FDE-4FE7-4347-879F-139084E743F8&DE=6D716C7A-A5B5-466C-AD92-F9A9773F401C",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-21T10:00:00-07:00",
+      "summary": "City of Dundee",
+      "title": "Tourism Committee Meetings",
+      "venue": {
+        "address": "620 SW 5th Street",
+        "city": "Dundee",
+        "latitude": 45.282148,
+        "longitude": -123.013782,
+        "name": "Dundee City Hall"
       }
     },
     {
@@ -127899,35 +128059,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "end_at": "2026-10-21T19:30:00-07:00",
-      "id": "willamette_week:20028771@2026-10-21T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E_B5esXpdkOZh86EtW6Dug.large.png",
-      "is_all_day": false,
-      "listing_url": "https://literary-arts.org/event/dear-blind-lady-elsa-sjunneson/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-21T18:30:00-07:00",
-      "summary": "The Literary Arts Bookstore is excited to welcome author Elsa Sjunneson to celebrate her new book, Dear Blind Lady! About the book: In Dear Blind Lady, Deafblind author and disability rights activist Elsa Sjunneson delivers candid, funny, and practical guidance in an advice-column format. Written for disabled readers, allies, friends, family members, coworkers, and anyone who wants to build a more accessible and respectful world, this book tackles the questions nondisabled people may be afraid to ask—and disabled people are tired of answering.",
-      "title": "Dear Blind Lady: Elsa Sjunneson",
-      "venue": {
-        "address": "925 SW Washington St",
-        "city": "Portland",
-        "latitude": 45.5212202668,
-        "longitude": -122.6807206124,
-        "name": "Literary Arts"
-      }
-    },
-    {
-      "categories": [
         "wellness"
       ],
       "end_at": "2026-10-21T19:30:00-07:00",
@@ -127955,6 +128086,35 @@
         "latitude": 45.716411,
         "longitude": -123.063606,
         "name": "Mountaindale Sun Resort"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-10-21T19:30:00-07:00",
+      "id": "willamette_week:20028771@2026-10-21T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E_B5esXpdkOZh86EtW6Dug.large.png",
+      "is_all_day": false,
+      "listing_url": "https://literary-arts.org/event/dear-blind-lady-elsa-sjunneson/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-21T18:30:00-07:00",
+      "summary": "The Literary Arts Bookstore is excited to welcome author Elsa Sjunneson to celebrate her new book, Dear Blind Lady! About the book: In Dear Blind Lady, Deafblind author and disability rights activist Elsa Sjunneson delivers candid, funny, and practical guidance in an advice-column format. Written for disabled readers, allies, friends, family members, coworkers, and anyone who wants to build a more accessible and respectful world, this book tackles the questions nondisabled people may be afraid to ask—and disabled people are tired of answering.",
+      "title": "Dear Blind Lady: Elsa Sjunneson",
+      "venue": {
+        "address": "925 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5212202668,
+        "longitude": -122.6807206124,
+        "name": "Literary Arts"
       }
     },
     {
@@ -132648,35 +132808,6 @@
     },
     {
       "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-10-22T21:00:00-07:00",
-      "id": "willamette_week:19331124@2026-10-22T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IjlQR4auKUSSu1QBha5bJA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://cstpdx.com/event/death-spa/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-22T19:00:00-07:00",
-      "summary": "Gruesome deaths begin to occur at a hip Los Angeles health club. Director: Michael Fischa Country: United States Year: 1988 Runtime: 87 minutes",
-      "title": "Death Spa",
-      "venue": {
-        "address": "2522 SE Clinton St",
-        "city": "Portland",
-        "latitude": 45.5033352971,
-        "longitude": -122.640119344,
-        "name": "Clinton Street Theater"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "id": "willamette_week:20021396@2026-10-22T19:00",
@@ -132704,6 +132835,35 @@
         "latitude": 45.444548,
         "longitude": -122.641686,
         "name": "The Riff @ B Side Records"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-10-22T21:00:00-07:00",
+      "id": "willamette_week:19331124@2026-10-22T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IjlQR4auKUSSu1QBha5bJA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://cstpdx.com/event/death-spa/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-22T19:00:00-07:00",
+      "summary": "Gruesome deaths begin to occur at a hip Los Angeles health club. Director: Michael Fischa Country: United States Year: 1988 Runtime: 87 minutes",
+      "title": "Death Spa",
+      "venue": {
+        "address": "2522 SE Clinton St",
+        "city": "Portland",
+        "latitude": 45.5033352971,
+        "longitude": -122.640119344,
+        "name": "Clinton Street Theater"
       }
     },
     {
@@ -134739,35 +134899,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-23T11:00:00-07:00",
-      "id": "willamette_week:18714800@2026-10-23T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v8hys5TiJk-p6W0LAFyZ3g.large.png",
-      "is_all_day": false,
-      "listing_url": "https://theallison.com/event/garden-tour-10-23/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-23T10:00:00-07:00",
-      "summary": "Step into the heart of our culinary story with a guided tour of the Chef’s Garden at The Allison Inn & Spa. Offered complimentary to hotel guests every Friday at 10 a.m., April through October, this intimate experience is led by a member of our garden team, an extension of JORY’s culinary program. Stroll through the garden as we share how our ingredients are grown, harvested and sourced, and learn about our bee colonies and the remarkable role they play in our garden ecosystem and culinary offerings. RSVP today to save your spot for this small group experience.",
-      "title": "Garden Tour",
-      "venue": {
-        "address": "2525 Allison Ln",
-        "city": "Newberg",
-        "latitude": 45.319767,
-        "longitude": -122.946365,
-        "name": "The Allison Inn & Spa"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-23T17:30:00-07:00",
@@ -134795,6 +134926,35 @@
         "latitude": 45.5194078,
         "longitude": -122.7090681,
         "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-23T11:00:00-07:00",
+      "id": "willamette_week:18714800@2026-10-23T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v8hys5TiJk-p6W0LAFyZ3g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://theallison.com/event/garden-tour-10-23/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T10:00:00-07:00",
+      "summary": "Step into the heart of our culinary story with a guided tour of the Chef’s Garden at The Allison Inn & Spa. Offered complimentary to hotel guests every Friday at 10 a.m., April through October, this intimate experience is led by a member of our garden team, an extension of JORY’s culinary program. Stroll through the garden as we share how our ingredients are grown, harvested and sourced, and learn about our bee colonies and the remarkable role they play in our garden ecosystem and culinary offerings. RSVP today to save your spot for this small group experience.",
+      "title": "Garden Tour",
+      "venue": {
+        "address": "2525 Allison Ln",
+        "city": "Newberg",
+        "latitude": 45.319767,
+        "longitude": -122.946365,
+        "name": "The Allison Inn & Spa"
       }
     },
     {
@@ -134976,6 +135136,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-23T19:00:00-07:00",
+      "id": "willamette_week:20024392@2026-10-23T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bELpG7nxAUmkHzTqo_dpeQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://www.albertastreetgallery.com",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T11:00:00-07:00",
+      "summary": "Skeletons Out of the Closet The annual Spooky Art Show returns to Lavaun's Community Gallery for its third year, this time as “Skeleton's Out of the Closet.” Curated from an open call for submissions, this show features art that is spooky, scary, strange, and out of the ordinary. Alberta Street Gallery member Julia Alora, a lifetime lover of Halloween, has hand-picked this year’s collection of frights and delights from more than 10 local artists. What makes art spooky? Art that focuses on fears, phobias, or disquieting themes. Settings or characters or creatures that are dark, born from night, or upsetting to see. Images that capture the fun and nostalgia of playing in a scary space through a safe lens, reminiscent of horror movies and Halloweens past. Come in for a thrill and a chill, find a new piece to haunt your home, and enjoy beautiful works of art perfect for those who are strange and unusual. Alberta Street Gallery is a friendly and vibrant cooperative gallery of 30 local artists in the heart of the Alberta Arts District in Northeast Portland. In addition to our members’ art, we mount monthly shows that begin on the “Last Thursday” of every month. Our front windows feature new work by two of our member artists, and we curate group shows in Lavaun's Community Gallery, a special exhibition space inside the gallery named for and made possible by gallery member Lavaun Benavidez Heaster, a legally blind collage artist who died in 2020.",
+      "title": "Skeletons Out of the Closet: A Spooky Art Show",
+      "venue": {
+        "address": "1829 NE Alberta St",
+        "city": "Portland",
+        "latitude": 45.559268,
+        "longitude": -122.646073,
+        "name": "Alberta Street Gallery"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-23T13:00:00-07:00",
@@ -135085,37 +135276,6 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-23T19:00:00-07:00",
-      "id": "willamette_week:20024392@2026-10-23T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bELpG7nxAUmkHzTqo_dpeQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "http://www.albertastreetgallery.com",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-23T11:00:00-07:00",
-      "summary": "Skeletons Out of the Closet The annual Spooky Art Show returns to Lavaun's Community Gallery for its third year, this time as “Skeleton's Out of the Closet.” Curated from an open call for submissions, this show features art that is spooky, scary, strange, and out of the ordinary. Alberta Street Gallery member Julia Alora, a lifetime lover of Halloween, has hand-picked this year’s collection of frights and delights from more than 10 local artists. What makes art spooky? Art that focuses on fears, phobias, or disquieting themes. Settings or characters or creatures that are dark, born from night, or upsetting to see. Images that capture the fun and nostalgia of playing in a scary space through a safe lens, reminiscent of horror movies and Halloweens past. Come in for a thrill and a chill, find a new piece to haunt your home, and enjoy beautiful works of art perfect for those who are strange and unusual. Alberta Street Gallery is a friendly and vibrant cooperative gallery of 30 local artists in the heart of the Alberta Arts District in Northeast Portland. In addition to our members’ art, we mount monthly shows that begin on the “Last Thursday” of every month. Our front windows feature new work by two of our member artists, and we curate group shows in Lavaun's Community Gallery, a special exhibition space inside the gallery named for and made possible by gallery member Lavaun Benavidez Heaster, a legally blind collage artist who died in 2020.",
-      "title": "Skeletons Out of the Closet: A Spooky Art Show",
-      "venue": {
-        "address": "1829 NE Alberta St",
-        "city": "Portland",
-        "latitude": 45.559268,
-        "longitude": -122.646073,
-        "name": "Alberta Street Gallery"
       }
     },
     {
@@ -135915,6 +136075,70 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-23T19:00:00-07:00",
+      "id": "willamette_week:20004905@2026-10-23T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XBJat8dp7029aY1Bw9j5Bw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://ncprd.org/events/halloween",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 7.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T16:00:00-07:00",
+      "summary": "Get ready for a fun-filled night at Boo Bash! Families will enjoy an indoor trick-or-treat adventure featuring themed stations, crafts, music, photo opportunities, and plenty of candy throughout the event. Come dressed in your favorite costume, collect treats, participate in festive activities, and make unforgettable Halloween memories with the whole family. Pre-registration required. Space is limited per session.",
+      "ticket_url": "http://ncprd.org/events/halloween",
+      "title": "Halloween Boo Bash",
+      "venue": {
+        "address": "3811 SE Concord Rd",
+        "city": "Milwaukie",
+        "latitude": 45.410573,
+        "longitude": -122.623912,
+        "name": "Concord Community Center"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-23T17:00:00-07:00",
+      "id": "willamette_week:20006248@2026-10-23T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fsJ3dMARRUaPT6H4KnSG-Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://oswegoheritage.org/escaperoom",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 30.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T16:00:00-07:00",
+      "summary": "Will these stories stay behind glass, or will you open a door to the past? Something isn't right here. That book is out of place. There is a card in the display case, but no item behind it. There are antiques in the incorrect place; and artefacts that are standing wrong side up. Clearly, the venue needs your help. As curators of other nearby museums, you are called to the venue after hours in order to help figure out what is causing these disturbances. Once inside, you are greeted by one of the exhibits who has come to life. They are happy to show you around and share tales about the other exhibits. As you hear stories from their lives, it becomes clear that one of them is the culprit behind these disturbances. The question is, which one? Succeed and you will find yourself promoted. Fail, and you may find yourself trapped behind glass forever. Enter an immersive historic experience where exhibits come to life, and there’s a mystery for you to solve! Presented by Live History, a Governor General’s Award nominated international touring theatre company who produces site specific customizable mysteries around the world, and the Oswego Heritage Council.",
+      "ticket_url": "https://oswegoheritage.org/escaperoom",
+      "title": "Behind Glass Escape Room",
+      "venue": {
+        "address": "398 10th St.",
+        "city": "Lake Oswego",
+        "latitude": 45.42058,
+        "longitude": -122.67611,
+        "name": "Oswego Heritage House"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-23T17:30:00-07:00",
@@ -136382,6 +136606,38 @@
         "latitude": 45.5201,
         "longitude": -122.6884,
         "name": "Arlene Schnitzer Concert Hall"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-23T19:00:00-07:00",
+      "id": "willamette_week:20006248@2026-10-23T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fsJ3dMARRUaPT6H4KnSG-Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://oswegoheritage.org/escaperoom",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 30.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T18:00:00-07:00",
+      "summary": "Will these stories stay behind glass, or will you open a door to the past? Something isn't right here. That book is out of place. There is a card in the display case, but no item behind it. There are antiques in the incorrect place; and artefacts that are standing wrong side up. Clearly, the venue needs your help. As curators of other nearby museums, you are called to the venue after hours in order to help figure out what is causing these disturbances. Once inside, you are greeted by one of the exhibits who has come to life. They are happy to show you around and share tales about the other exhibits. As you hear stories from their lives, it becomes clear that one of them is the culprit behind these disturbances. The question is, which one? Succeed and you will find yourself promoted. Fail, and you may find yourself trapped behind glass forever. Enter an immersive historic experience where exhibits come to life, and there’s a mystery for you to solve! Presented by Live History, a Governor General’s Award nominated international touring theatre company who produces site specific customizable mysteries around the world, and the Oswego Heritage Council.",
+      "ticket_url": "https://oswegoheritage.org/escaperoom",
+      "title": "Behind Glass Escape Room",
+      "venue": {
+        "address": "398 10th St.",
+        "city": "Lake Oswego",
+        "latitude": 45.42058,
+        "longitude": -122.67611,
+        "name": "Oswego Heritage House"
       }
     },
     {
@@ -138645,6 +138901,38 @@
       "categories": [
         "arts"
       ],
+      "end_at": "2026-10-23T21:00:00-07:00",
+      "id": "willamette_week:20006248@2026-10-23T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fsJ3dMARRUaPT6H4KnSG-Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://oswegoheritage.org/escaperoom",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 30.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T20:00:00-07:00",
+      "summary": "Will these stories stay behind glass, or will you open a door to the past? Something isn't right here. That book is out of place. There is a card in the display case, but no item behind it. There are antiques in the incorrect place; and artefacts that are standing wrong side up. Clearly, the venue needs your help. As curators of other nearby museums, you are called to the venue after hours in order to help figure out what is causing these disturbances. Once inside, you are greeted by one of the exhibits who has come to life. They are happy to show you around and share tales about the other exhibits. As you hear stories from their lives, it becomes clear that one of them is the culprit behind these disturbances. The question is, which one? Succeed and you will find yourself promoted. Fail, and you may find yourself trapped behind glass forever. Enter an immersive historic experience where exhibits come to life, and there’s a mystery for you to solve! Presented by Live History, a Governor General’s Award nominated international touring theatre company who produces site specific customizable mysteries around the world, and the Oswego Heritage Council.",
+      "ticket_url": "https://oswegoheritage.org/escaperoom",
+      "title": "Behind Glass Escape Room",
+      "venue": {
+        "address": "398 10th St.",
+        "city": "Lake Oswego",
+        "latitude": 45.42058,
+        "longitude": -122.67611,
+        "name": "Oswego Heritage House"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "end_at": "2026-10-23T22:00:00-07:00",
       "id": "willamette_week:20034300@2026-10-23T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XW5kii34-ki6UcAPtlQuPg.large.jpg",
@@ -140855,35 +141143,6 @@
     },
     {
       "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-10-24T10:30:00-07:00",
-      "id": "willamette_week:18401087@2026-10-24T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1hOcMtwruUSjU_CjhUfH8w.large.png",
-      "is_all_day": false,
-      "listing_url": "https://theallison.com/event/vineyard-walk-10-24/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-24T10:00:00-07:00",
-      "summary": "Discover the story of The Allison’s estate vineyard and Austin Knoll Pinot Noir. Offered Saturdays at 10 a.m., April through October, this complimentary experience is led by our concierge, Andy Burke, who guides guests on a leisurely walk through our on-site vineyard. Along the way, learn about the legacy of Austin Knoll wines, taste two vintages of Austin Knoll Pinot Noir vintages to experience the evolution of each harvest, and hear the story of Willamette Valley pinot noir’s rise on the international stage. This intimate, 30-minute experience is available to hotel guests and in-house groups, with space limited to 14 participants. RSVP to secure your spot.",
-      "title": "Vineyard Walk",
-      "venue": {
-        "address": "2525 Allison Ln",
-        "city": "Newberg",
-        "latitude": 45.319767,
-        "longitude": -122.946365,
-        "name": "The Allison Inn & Spa"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-24T17:30:00-07:00",
@@ -140911,6 +141170,35 @@
         "latitude": 45.5194078,
         "longitude": -122.7090681,
         "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-10-24T10:30:00-07:00",
+      "id": "willamette_week:18401087@2026-10-24T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1hOcMtwruUSjU_CjhUfH8w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://theallison.com/event/vineyard-walk-10-24/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T10:00:00-07:00",
+      "summary": "Discover the story of The Allison’s estate vineyard and Austin Knoll Pinot Noir. Offered Saturdays at 10 a.m., April through October, this complimentary experience is led by our concierge, Andy Burke, who guides guests on a leisurely walk through our on-site vineyard. Along the way, learn about the legacy of Austin Knoll wines, taste two vintages of Austin Knoll Pinot Noir vintages to experience the evolution of each harvest, and hear the story of Willamette Valley pinot noir’s rise on the international stage. This intimate, 30-minute experience is available to hotel guests and in-house groups, with space limited to 14 participants. RSVP to secure your spot.",
+      "title": "Vineyard Walk",
+      "venue": {
+        "address": "2525 Allison Ln",
+        "city": "Newberg",
+        "latitude": 45.319767,
+        "longitude": -122.946365,
+        "name": "The Allison Inn & Spa"
       }
     },
     {
@@ -142889,6 +143177,70 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-24T17:00:00-07:00",
+      "id": "willamette_week:20006248@2026-10-24T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fsJ3dMARRUaPT6H4KnSG-Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://oswegoheritage.org/escaperoom",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 30.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T16:00:00-07:00",
+      "summary": "Will these stories stay behind glass, or will you open a door to the past? Something isn't right here. That book is out of place. There is a card in the display case, but no item behind it. There are antiques in the incorrect place; and artefacts that are standing wrong side up. Clearly, the venue needs your help. As curators of other nearby museums, you are called to the venue after hours in order to help figure out what is causing these disturbances. Once inside, you are greeted by one of the exhibits who has come to life. They are happy to show you around and share tales about the other exhibits. As you hear stories from their lives, it becomes clear that one of them is the culprit behind these disturbances. The question is, which one? Succeed and you will find yourself promoted. Fail, and you may find yourself trapped behind glass forever. Enter an immersive historic experience where exhibits come to life, and there’s a mystery for you to solve! Presented by Live History, a Governor General’s Award nominated international touring theatre company who produces site specific customizable mysteries around the world, and the Oswego Heritage Council.",
+      "ticket_url": "https://oswegoheritage.org/escaperoom",
+      "title": "Behind Glass Escape Room",
+      "venue": {
+        "address": "398 10th St.",
+        "city": "Lake Oswego",
+        "latitude": 45.42058,
+        "longitude": -122.67611,
+        "name": "Oswego Heritage House"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-24T19:00:00-07:00",
+      "id": "willamette_week:20004905@2026-10-24T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XBJat8dp7029aY1Bw9j5Bw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://ncprd.org/events/halloween",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 7.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T16:00:00-07:00",
+      "summary": "Get ready for a fun-filled night at Boo Bash! Families will enjoy an indoor trick-or-treat adventure featuring themed stations, crafts, music, photo opportunities, and plenty of candy throughout the event. Come dressed in your favorite costume, collect treats, participate in festive activities, and make unforgettable Halloween memories with the whole family. Pre-registration required. Space is limited per session.",
+      "ticket_url": "http://ncprd.org/events/halloween",
+      "title": "Halloween Boo Bash",
+      "venue": {
+        "address": "3811 SE Concord Rd",
+        "city": "Milwaukie",
+        "latitude": 45.410573,
+        "longitude": -122.623912,
+        "name": "Concord Community Center"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-10-24T17:00:00-07:00",
@@ -143216,6 +143568,38 @@
       "title": "Shire on the Mountain",
       "venue": {
         "name": "Trout Lake Hall"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-24T19:00:00-07:00",
+      "id": "willamette_week:20006248@2026-10-24T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fsJ3dMARRUaPT6H4KnSG-Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://oswegoheritage.org/escaperoom",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 30.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T18:00:00-07:00",
+      "summary": "Will these stories stay behind glass, or will you open a door to the past? Something isn't right here. That book is out of place. There is a card in the display case, but no item behind it. There are antiques in the incorrect place; and artefacts that are standing wrong side up. Clearly, the venue needs your help. As curators of other nearby museums, you are called to the venue after hours in order to help figure out what is causing these disturbances. Once inside, you are greeted by one of the exhibits who has come to life. They are happy to show you around and share tales about the other exhibits. As you hear stories from their lives, it becomes clear that one of them is the culprit behind these disturbances. The question is, which one? Succeed and you will find yourself promoted. Fail, and you may find yourself trapped behind glass forever. Enter an immersive historic experience where exhibits come to life, and there’s a mystery for you to solve! Presented by Live History, a Governor General’s Award nominated international touring theatre company who produces site specific customizable mysteries around the world, and the Oswego Heritage Council.",
+      "ticket_url": "https://oswegoheritage.org/escaperoom",
+      "title": "Behind Glass Escape Room",
+      "venue": {
+        "address": "398 10th St.",
+        "city": "Lake Oswego",
+        "latitude": 45.42058,
+        "longitude": -122.67611,
+        "name": "Oswego Heritage House"
       }
     },
     {
@@ -145696,6 +146080,38 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-24T21:00:00-07:00",
+      "id": "willamette_week:20006248@2026-10-24T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fsJ3dMARRUaPT6H4KnSG-Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://oswegoheritage.org/escaperoom",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 30.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T20:00:00-07:00",
+      "summary": "Will these stories stay behind glass, or will you open a door to the past? Something isn't right here. That book is out of place. There is a card in the display case, but no item behind it. There are antiques in the incorrect place; and artefacts that are standing wrong side up. Clearly, the venue needs your help. As curators of other nearby museums, you are called to the venue after hours in order to help figure out what is causing these disturbances. Once inside, you are greeted by one of the exhibits who has come to life. They are happy to show you around and share tales about the other exhibits. As you hear stories from their lives, it becomes clear that one of them is the culprit behind these disturbances. The question is, which one? Succeed and you will find yourself promoted. Fail, and you may find yourself trapped behind glass forever. Enter an immersive historic experience where exhibits come to life, and there’s a mystery for you to solve! Presented by Live History, a Governor General’s Award nominated international touring theatre company who produces site specific customizable mysteries around the world, and the Oswego Heritage Council.",
+      "ticket_url": "https://oswegoheritage.org/escaperoom",
+      "title": "Behind Glass Escape Room",
+      "venue": {
+        "address": "398 10th St.",
+        "city": "Lake Oswego",
+        "latitude": 45.42058,
+        "longitude": -122.67611,
+        "name": "Oswego Heritage House"
       }
     },
     {
@@ -151943,35 +152359,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-26T12:00:00-07:00",
-      "id": "willamette_week:18616669@2026-10-26T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/r5ZoOn5nU0unuxrAwNBt3A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/ged-tutoring-80",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-26T10:00:00-07:00",
-      "summary": "Drop in to work one-on-one with a tutor. Books and materials are provided. Prepare for the GED: math, language arts, science and social studies For more information, call or text 503.577.9984. Venga a estudiar uno-a-uno con un tutor. Se proveerán libros y materiales. Prepárese para el GED: matemáticas, artes del lenguaje, ciencias y estudios sociales. Para obtener más información, llame al 503.577-.9984.",
-      "title": "GED Tutoring",
-      "venue": {
-        "address": "512 N Killingsworth Street",
-        "city": "Portland",
-        "latitude": 45.5624530442023,
-        "longitude": -122.67152133558135,
-        "name": "North Portland Library"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-26T17:30:00-07:00",
@@ -151999,6 +152386,35 @@
         "latitude": 45.5194078,
         "longitude": -122.7090681,
         "name": "Portland Japanese Garden"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-26T12:00:00-07:00",
+      "id": "willamette_week:18616669@2026-10-26T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/r5ZoOn5nU0unuxrAwNBt3A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/ged-tutoring-80",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-26T10:00:00-07:00",
+      "summary": "Drop in to work one-on-one with a tutor. Books and materials are provided. Prepare for the GED: math, language arts, science and social studies For more information, call or text 503.577.9984. Venga a estudiar uno-a-uno con un tutor. Se proveerán libros y materiales. Prepárese para el GED: matemáticas, artes del lenguaje, ciencias y estudios sociales. Para obtener más información, llame al 503.577-.9984.",
+      "title": "GED Tutoring",
+      "venue": {
+        "address": "512 N Killingsworth Street",
+        "city": "Portland",
+        "latitude": 45.5624530442023,
+        "longitude": -122.67152133558135,
+        "name": "North Portland Library"
       }
     },
     {
@@ -159227,35 +159643,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "end_at": "2026-10-28T20:00:00-07:00",
-      "id": "willamette_week:18641436@2026-10-28T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6RIkPtOoz0KdwD0lJbK92g.large.png",
-      "is_all_day": false,
-      "listing_url": "https://literary-arts.org/event/bipoc-reading-series-october-2/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-28T18:30:00-07:00",
-      "summary": "This monthly reading series is intended to prioritize the safety, creativity, and stories of Black people, Indigenous people, and People of Color. Come listen to our featured readers, or sign up to share your work in our open mic. Readings will be followed by a short community discussion. Hosted by Kyle Yoshioka and Jessica Meza-Torres. The featured reader for October will be announced soon. This event is open to everyone, but only people who identify as Black, Indigenous, and/or People of Color will be invited to read. If you have any questions, please contact Jessica Meza-Torres at jmezatorres24@gmail.com or Kyle Yoshioka at kyle.yoshioka@gmail.com.",
-      "title": "BIPOC Reading Series",
-      "venue": {
-        "address": "925 SW Washington St",
-        "city": "Portland",
-        "latitude": 45.5212202668,
-        "longitude": -122.6807206124,
-        "name": "Literary Arts"
-      }
-    },
-    {
-      "categories": [
         "wellness"
       ],
       "end_at": "2026-10-28T19:30:00-07:00",
@@ -159283,6 +159670,35 @@
         "latitude": 45.716411,
         "longitude": -123.063606,
         "name": "Mountaindale Sun Resort"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-10-28T20:00:00-07:00",
+      "id": "willamette_week:18641436@2026-10-28T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6RIkPtOoz0KdwD0lJbK92g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://literary-arts.org/event/bipoc-reading-series-october-2/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-28T18:30:00-07:00",
+      "summary": "This monthly reading series is intended to prioritize the safety, creativity, and stories of Black people, Indigenous people, and People of Color. Come listen to our featured readers, or sign up to share your work in our open mic. Readings will be followed by a short community discussion. Hosted by Kyle Yoshioka and Jessica Meza-Torres. The featured reader for October will be announced soon. This event is open to everyone, but only people who identify as Black, Indigenous, and/or People of Color will be invited to read. If you have any questions, please contact Jessica Meza-Torres at jmezatorres24@gmail.com or Kyle Yoshioka at kyle.yoshioka@gmail.com.",
+      "title": "BIPOC Reading Series",
+      "venue": {
+        "address": "925 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5212202668,
+        "longitude": -122.6807206124,
+        "name": "Literary Arts"
       }
     },
     {
@@ -182439,5 +182855,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-28T06:50:22+00:00"
+  "generated_at": "2026-09-28T07:01:37+00:00"
 }
