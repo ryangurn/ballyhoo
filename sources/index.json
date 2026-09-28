@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T08:59:40+00:00",
+  "generated_at": "2026-09-28T13:46:07+00:00",
   "sources": [
     {
       "event_count": 26,
@@ -12,14 +12,14 @@
       "event_count": 1606,
       "last_run_at": "2026-09-28T05:46:53+00:00",
       "source_id": "dopdx",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/dopdx.json"
     },
     {
       "event_count": 20,
       "last_run_at": "2026-09-28T05:41:35+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
@@ -33,19 +33,19 @@
       "event_count": 142,
       "last_run_at": "2026-09-28T07:04:38+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
       "event_count": 211,
       "last_run_at": "2026-09-28T05:57:16+00:00",
       "source_id": "pdxparent_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/pdxparent_markets.json"
     },
     {
-      "event_count": 57,
-      "last_run_at": "2026-09-28T05:15:27+00:00",
+      "event_count": 56,
+      "last_run_at": "2026-09-28T13:45:20+00:00",
       "source_id": "portland_farmers_market",
       "status": "ok",
       "url": "sources/portland_farmers_market.json"
@@ -54,21 +54,21 @@
       "event_count": 0,
       "last_run_at": "2026-09-28T05:52:16+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
       "event_count": 836,
       "last_run_at": "2026-09-28T06:49:35+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
       "event_count": 4036,
       "last_run_at": "2026-09-28T07:00:23+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
