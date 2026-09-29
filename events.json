@@ -18081,6 +18081,34 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-10-02T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-10-02T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-02T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-10-02T12:30:00-07:00",
       "id": "willamette_week:18616662@2026-10-02T11:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mRUoffKKLEWkUVMmygQ1-Q.large.png",
@@ -18135,34 +18163,6 @@
         "latitude": 45.559268,
         "longitude": -122.646073,
         "name": "Alberta Street Gallery"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-02T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-10-02T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-02T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -25430,6 +25430,35 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-03T12:00:00-07:00",
+      "id": "willamette_week:19031977@2026-10-03T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4tC5qTFz5k65JHLUuyFvdg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://scld.libcal.com/event/16788844",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-03T10:00:00-07:00",
+      "summary": "Ages 5\\+ & their families Imagine and build with LEGO! Keep your engineering and problem-solving skills sharp using the library's abundance of LEGO bricks",
+      "title": "LEGO Free Play",
+      "venue": {
+        "address": "22324 E Wellesley Ave",
+        "city": "Orchards",
+        "latitude": 45.6888,
+        "longitude": -122.53026,
+        "name": "Otis Orchards"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-10-03T11:00:00-07:00",
@@ -25548,35 +25577,6 @@
         "latitude": 45.5194078,
         "longitude": -122.7090681,
         "name": "Portland Japanese Garden"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-03T12:00:00-07:00",
-      "id": "willamette_week:19031977@2026-10-03T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4tC5qTFz5k65JHLUuyFvdg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://scld.libcal.com/event/16788844",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-03T10:00:00-07:00",
-      "summary": "Ages 5\\+ & their families Imagine and build with LEGO! Keep your engineering and problem-solving skills sharp using the library's abundance of LEGO bricks",
-      "title": "LEGO Free Play",
-      "venue": {
-        "address": "22324 E Wellesley Ave",
-        "city": "Orchards",
-        "latitude": 45.6888,
-        "longitude": -122.53026,
-        "name": "Otis Orchards"
       }
     },
     {
@@ -31814,7 +31814,7 @@
         "arts"
       ],
       "id": "willamette_week:20005871@2026-10-03T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/NmHT4SQs9EKQ2JOC1yHs1Q.large.jpg",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2BnKxzjNq0SHNkonVkWOZw.large.jpg",
       "is_all_day": false,
       "listing_url": "https://eventbrite.com/e/stand-up-pawmedy-tickets-2002171571066",
       "price": {
@@ -31829,7 +31829,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-03T20:00:00-07:00",
-      "summary": "Come see stand-up comedians from all over the PNW do their most pet and animal-centric jokes with most of the proceeds going to The Oregon Humane Society ! This showcase features JULIA CORRAL (Kickstand's Comedy in The Park, WW's Funniest Five), TODD BASIL (The Teacher Show), CAMILLE REDD (Roast Battle Portland), CARLOS ROMERO and DANELLE PORTER. Hosted by CHRIS HUDSON (Leave Your Troubles) Admission is pay-what-you want and the majority of the proceeds go to The Oregon Humane Society\\* Covert Café will be serving their delicious food menu and tasty drink menu before, during and after the show. \\*this event is not officially endorsed by The Oregon Humane Society",
+      "summary": "Come see stand-up comedians from all over the PNW do their most pet and animal-centric jokes with most of the proceeds going to The Oregon Humane Society ! This showcase features JAREN GEORGE (Kickstand's Comedy in The Park, WW's Funniest Five), TODD BASIL (The Teacher Show), CAMILLE REDD (Roast Battle Portland), CARLOS ROMERO and DANELLE PORTER. Hosted by CHRIS HUDSON (Leave Your Troubles) Admission is pay-what-you want and the majority of the proceeds go to The Oregon Humane Society\\* Covert Café will be serving their delicious food menu and tasty drink menu before, during and after the show. \\*this event is not officially endorsed by The Oregon Humane Society",
       "ticket_url": "https://eventbrite.com/e/stand-up-pawmedy-tickets-2002171571066",
       "title": "Stand-up PAWMEDY",
       "venue": {
@@ -40243,6 +40243,38 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-05T20:00:00-07:00",
+      "id": "willamette_week:19972910@2026-10-05T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v_nvIp3PlUm--5_ooVGlrw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-05T14:00:00-07:00",
+      "summary": "Scooby Gang Wine Flight / October 5–11 / Sunnydale had a body count and somehow still made time for game night — this week, Pairings Portland is pouring to the friends who kept it together anyway. Five tastes, five characters: Buffy's main-character energy, Willow's quiet-turned-terrifying arc, Xander's no-superpowers loyalty, Giles' buttoned-up-librarian-with-a-Ripper-past routine, and Cordelia's zero-filter glamour. It's a wine flight built the way the Scooby Gang built their friend group — a little chaotic, weirdly effective, and better with company. Five tastes, $30, one week only before the Hellmouth closes back up. Pairings Portland, 1 week only, Oct 5–11. Reserve at https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "title": "Buffy Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-05T15:30:00-07:00",
@@ -43456,6 +43488,38 @@
         "latitude": 45.5197386178146,
         "longitude": -123.05865727043835,
         "name": "Cornelius Public Library"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-06T20:00:00-07:00",
+      "id": "willamette_week:19972910@2026-10-06T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v_nvIp3PlUm--5_ooVGlrw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-06T14:00:00-07:00",
+      "summary": "Scooby Gang Wine Flight / October 5–11 / Sunnydale had a body count and somehow still made time for game night — this week, Pairings Portland is pouring to the friends who kept it together anyway. Five tastes, five characters: Buffy's main-character energy, Willow's quiet-turned-terrifying arc, Xander's no-superpowers loyalty, Giles' buttoned-up-librarian-with-a-Ripper-past routine, and Cordelia's zero-filter glamour. It's a wine flight built the way the Scooby Gang built their friend group — a little chaotic, weirdly effective, and better with company. Five tastes, $30, one week only before the Hellmouth closes back up. Pairings Portland, 1 week only, Oct 5–11. Reserve at https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "title": "Buffy Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
       }
     },
     {
@@ -48750,6 +48814,38 @@
         "film"
       ],
       "end_at": "2026-10-07T20:00:00-07:00",
+      "id": "willamette_week:19972910@2026-10-07T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v_nvIp3PlUm--5_ooVGlrw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T14:00:00-07:00",
+      "summary": "Scooby Gang Wine Flight / October 5–11 / Sunnydale had a body count and somehow still made time for game night — this week, Pairings Portland is pouring to the friends who kept it together anyway. Five tastes, five characters: Buffy's main-character energy, Willow's quiet-turned-terrifying arc, Xander's no-superpowers loyalty, Giles' buttoned-up-librarian-with-a-Ripper-past routine, and Cordelia's zero-filter glamour. It's a wine flight built the way the Scooby Gang built their friend group — a little chaotic, weirdly effective, and better with company. Five tastes, $30, one week only before the Hellmouth closes back up. Pairings Portland, 1 week only, Oct 5–11. Reserve at https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "title": "Buffy Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-07T20:00:00-07:00",
       "id": "willamette_week:19889382@2026-10-07T14:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ttGoJGMkRUCUdQUGBkuSnw.large.jpg",
       "is_all_day": false,
@@ -53506,6 +53602,38 @@
         "film"
       ],
       "end_at": "2026-10-08T20:00:00-07:00",
+      "id": "willamette_week:19972910@2026-10-08T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v_nvIp3PlUm--5_ooVGlrw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T14:00:00-07:00",
+      "summary": "Scooby Gang Wine Flight / October 5–11 / Sunnydale had a body count and somehow still made time for game night — this week, Pairings Portland is pouring to the friends who kept it together anyway. Five tastes, five characters: Buffy's main-character energy, Willow's quiet-turned-terrifying arc, Xander's no-superpowers loyalty, Giles' buttoned-up-librarian-with-a-Ripper-past routine, and Cordelia's zero-filter glamour. It's a wine flight built the way the Scooby Gang built their friend group — a little chaotic, weirdly effective, and better with company. Five tastes, $30, one week only before the Hellmouth closes back up. Pairings Portland, 1 week only, Oct 5–11. Reserve at https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "title": "Buffy Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-08T20:00:00-07:00",
       "id": "willamette_week:19889382@2026-10-08T14:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ttGoJGMkRUCUdQUGBkuSnw.large.jpg",
       "is_all_day": false,
@@ -55777,6 +55905,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-08T21:00:00-07:00",
+      "id": "willamette_week:20019065@2026-10-08T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://flynncreekcircus.com/tickets-page-2026/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 50.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T19:00:00-07:00",
+      "summary": "This 2026 season, Flynn Creek Circus invites audiences to ‘The Cricket & the Wren’ — memorable family fun and Artful athleticism under the circus big top. A merchant’s daughter sets out to find the castle where the horizon meets the sea. In order to break the spell of the Frog Prince, she must brave a harrowing journey filled with wonder. Along the adventure, she encounters Jack and the Beanstalk’s sassy cow, an out of pocket Pirate and the secret sacrifice of the cricket and the wren. Featuring aerialists, jugglers, knife throwers, and laugh out loud comedy, this circus blends classic storybook archetypes with imaginative new heroes. The Cricket and the Wren will surprise, dazzle and delight all ages. In addition to the family friendly showings, and the interactive children's camp program held under the circus big top, Flynn Creek Circus also presents the wildly popular 'Adults Only Show' boasting outrageous acts, dark comedy, and an infamous party atmosphere. Check the website for select adults only showtimes as well as special discount nights. Spectators for all showings are invited to the tent to experience the magic up to 30 minutes before each show. The event will offer beer, wine, and light concession for purchase and include a 15 minute intermission during the two hour show. Limited free parking is available at the location at Clark College.",
+      "ticket_url": "https://flynncreekcircus.com/tickets-page-2026/",
+      "title": "Flynn Creek Circus - The Cricket and the Wren",
+      "venue": {
+        "address": "E. MCGLOUGHLIN BLVD & FORT VANCOUVER WAY",
+        "city": "Vancouver",
+        "latitude": 45.633166,
+        "longitude": -122.658303,
+        "name": "Clark College: Library"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:19989904@2026-10-08T19:00",
@@ -55830,38 +55990,6 @@
         "latitude": 45.51053261034869,
         "longitude": -122.68625725650317,
         "name": "Viking Pavilion"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-08T21:00:00-07:00",
-      "id": "willamette_week:20019065@2026-10-08T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://flynncreekcircus.com/tickets-page-2026/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 50.0,
-        "min": 20.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-08T19:00:00-07:00",
-      "summary": "This 2026 season, Flynn Creek Circus invites audiences to ‘The Cricket & the Wren’ — memorable family fun and Artful athleticism under the circus big top. A merchant’s daughter sets out to find the castle where the horizon meets the sea. In order to break the spell of the Frog Prince, she must brave a harrowing journey filled with wonder. Along the adventure, she encounters Jack and the Beanstalk’s sassy cow, an out of pocket Pirate and the secret sacrifice of the cricket and the wren. Featuring aerialists, jugglers, knife throwers, and laugh out loud comedy, this circus blends classic storybook archetypes with imaginative new heroes. The Cricket and the Wren will surprise, dazzle and delight all ages. In addition to the family friendly showings, and the interactive children's camp program held under the circus big top, Flynn Creek Circus also presents the wildly popular 'Adults Only Show' boasting outrageous acts, dark comedy, and an infamous party atmosphere. Check the website for select adults only showtimes as well as special discount nights. Spectators for all showings are invited to the tent to experience the magic up to 30 minutes before each show. The event will offer beer, wine, and light concession for purchase and include a 15 minute intermission during the two hour show. Limited free parking is available at the location at Clark College.",
-      "ticket_url": "https://flynncreekcircus.com/tickets-page-2026/",
-      "title": "Flynn Creek Circus - The Cricket and the Wren",
-      "venue": {
-        "address": "E. MCGLOUGHLIN BLVD & FORT VANCOUVER WAY",
-        "city": "Vancouver",
-        "latitude": 45.633166,
-        "longitude": -122.658303,
-        "name": "Clark College: Library"
       }
     },
     {
@@ -58425,6 +58553,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-09T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-10-09T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-09T19:00:00-07:00",
@@ -58452,34 +58608,6 @@
         "latitude": 45.559268,
         "longitude": -122.646073,
         "name": "Alberta Street Gallery"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-09T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-10-09T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-09T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -58714,6 +58842,38 @@
         "latitude": 45.582817572658264,
         "longitude": -122.68645335011975,
         "name": "Kenton Library"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-09T21:00:00-07:00",
+      "id": "willamette_week:19972910@2026-10-09T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v_nvIp3PlUm--5_ooVGlrw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T12:00:00-07:00",
+      "summary": "Scooby Gang Wine Flight / October 5–11 / Sunnydale had a body count and somehow still made time for game night — this week, Pairings Portland is pouring to the friends who kept it together anyway. Five tastes, five characters: Buffy's main-character energy, Willow's quiet-turned-terrifying arc, Xander's no-superpowers loyalty, Giles' buttoned-up-librarian-with-a-Ripper-past routine, and Cordelia's zero-filter glamour. It's a wine flight built the way the Scooby Gang built their friend group — a little chaotic, weirdly effective, and better with company. Five tastes, $30, one week only before the Hellmouth closes back up. Pairings Portland, 1 week only, Oct 5–11. Reserve at https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "title": "Buffy Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
       }
     },
     {
@@ -61093,6 +61253,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-09T21:00:00-07:00",
+      "id": "willamette_week:20019065@2026-10-09T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://flynncreekcircus.com/tickets-page-2026/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 50.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T19:00:00-07:00",
+      "summary": "This 2026 season, Flynn Creek Circus invites audiences to ‘The Cricket & the Wren’ — memorable family fun and Artful athleticism under the circus big top. A merchant’s daughter sets out to find the castle where the horizon meets the sea. In order to break the spell of the Frog Prince, she must brave a harrowing journey filled with wonder. Along the adventure, she encounters Jack and the Beanstalk’s sassy cow, an out of pocket Pirate and the secret sacrifice of the cricket and the wren. Featuring aerialists, jugglers, knife throwers, and laugh out loud comedy, this circus blends classic storybook archetypes with imaginative new heroes. The Cricket and the Wren will surprise, dazzle and delight all ages. In addition to the family friendly showings, and the interactive children's camp program held under the circus big top, Flynn Creek Circus also presents the wildly popular 'Adults Only Show' boasting outrageous acts, dark comedy, and an infamous party atmosphere. Check the website for select adults only showtimes as well as special discount nights. Spectators for all showings are invited to the tent to experience the magic up to 30 minutes before each show. The event will offer beer, wine, and light concession for purchase and include a 15 minute intermission during the two hour show. Limited free parking is available at the location at Clark College.",
+      "ticket_url": "https://flynncreekcircus.com/tickets-page-2026/",
+      "title": "Flynn Creek Circus - The Cricket and the Wren",
+      "venue": {
+        "address": "E. MCGLOUGHLIN BLVD & FORT VANCOUVER WAY",
+        "city": "Vancouver",
+        "latitude": 45.633166,
+        "longitude": -122.658303,
+        "name": "Clark College: Library"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-09T21:00:00-07:00",
@@ -61149,38 +61341,6 @@
         "latitude": 45.44368,
         "longitude": -122.64171,
         "name": "Bridge City Improv"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-09T21:00:00-07:00",
-      "id": "willamette_week:20019065@2026-10-09T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://flynncreekcircus.com/tickets-page-2026/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 50.0,
-        "min": 20.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-09T19:00:00-07:00",
-      "summary": "This 2026 season, Flynn Creek Circus invites audiences to ‘The Cricket & the Wren’ — memorable family fun and Artful athleticism under the circus big top. A merchant’s daughter sets out to find the castle where the horizon meets the sea. In order to break the spell of the Frog Prince, she must brave a harrowing journey filled with wonder. Along the adventure, she encounters Jack and the Beanstalk’s sassy cow, an out of pocket Pirate and the secret sacrifice of the cricket and the wren. Featuring aerialists, jugglers, knife throwers, and laugh out loud comedy, this circus blends classic storybook archetypes with imaginative new heroes. The Cricket and the Wren will surprise, dazzle and delight all ages. In addition to the family friendly showings, and the interactive children's camp program held under the circus big top, Flynn Creek Circus also presents the wildly popular 'Adults Only Show' boasting outrageous acts, dark comedy, and an infamous party atmosphere. Check the website for select adults only showtimes as well as special discount nights. Spectators for all showings are invited to the tent to experience the magic up to 30 minutes before each show. The event will offer beer, wine, and light concession for purchase and include a 15 minute intermission during the two hour show. Limited free parking is available at the location at Clark College.",
-      "ticket_url": "https://flynncreekcircus.com/tickets-page-2026/",
-      "title": "Flynn Creek Circus - The Cricket and the Wren",
-      "venue": {
-        "address": "E. MCGLOUGHLIN BLVD & FORT VANCOUVER WAY",
-        "city": "Vancouver",
-        "latitude": 45.633166,
-        "longitude": -122.658303,
-        "name": "Clark College: Library"
       }
     },
     {
@@ -66881,6 +67041,38 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-10T21:00:00-07:00",
+      "id": "willamette_week:20044879@2026-10-10T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/t8Obz3C9cUGaiUgMALmDqw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T12:00:00-07:00",
+      "summary": "Rebecca Yarros is throwing a party in Basgiath, and Pairings Portland got the invite. Her new Empyrean release, Threshing Day, collects thirteen short stories — dragons, riders, and the bonds between them — while she's off writing the book everyone's bracing for. We built a wine for every single story, so you can drink your way through Basgiath's greatest hits one pour at a time. Come for the lore, stay because thirteen wines is a genuinely ambitious Tuesday. Pairings Portland Wine Shop & Bar, 455 NE 24th Ave. October 10–18. https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "title": "Threshing Day Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-10-10T13:00:00-07:00",
@@ -66906,6 +67098,38 @@
         "latitude": 45.5192273855,
         "longitude": -122.6826296747,
         "name": "Multnomah County Central Library"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-10T21:00:00-07:00",
+      "id": "willamette_week:19972910@2026-10-10T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v_nvIp3PlUm--5_ooVGlrw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T12:00:00-07:00",
+      "summary": "Scooby Gang Wine Flight / October 5–11 / Sunnydale had a body count and somehow still made time for game night — this week, Pairings Portland is pouring to the friends who kept it together anyway. Five tastes, five characters: Buffy's main-character energy, Willow's quiet-turned-terrifying arc, Xander's no-superpowers loyalty, Giles' buttoned-up-librarian-with-a-Ripper-past routine, and Cordelia's zero-filter glamour. It's a wine flight built the way the Scooby Gang built their friend group — a little chaotic, weirdly effective, and better with company. Five tastes, $30, one week only before the Hellmouth closes back up. Pairings Portland, 1 week only, Oct 5–11. Reserve at https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "title": "Buffy Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
       }
     },
     {
@@ -70414,6 +70638,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-10T21:00:00-07:00",
+      "id": "willamette_week:20019065@2026-10-10T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://flynncreekcircus.com/tickets-page-2026/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 50.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T19:00:00-07:00",
+      "summary": "This 2026 season, Flynn Creek Circus invites audiences to ‘The Cricket & the Wren’ — memorable family fun and Artful athleticism under the circus big top. A merchant’s daughter sets out to find the castle where the horizon meets the sea. In order to break the spell of the Frog Prince, she must brave a harrowing journey filled with wonder. Along the adventure, she encounters Jack and the Beanstalk’s sassy cow, an out of pocket Pirate and the secret sacrifice of the cricket and the wren. Featuring aerialists, jugglers, knife throwers, and laugh out loud comedy, this circus blends classic storybook archetypes with imaginative new heroes. The Cricket and the Wren will surprise, dazzle and delight all ages. In addition to the family friendly showings, and the interactive children's camp program held under the circus big top, Flynn Creek Circus also presents the wildly popular 'Adults Only Show' boasting outrageous acts, dark comedy, and an infamous party atmosphere. Check the website for select adults only showtimes as well as special discount nights. Spectators for all showings are invited to the tent to experience the magic up to 30 minutes before each show. The event will offer beer, wine, and light concession for purchase and include a 15 minute intermission during the two hour show. Limited free parking is available at the location at Clark College.",
+      "ticket_url": "https://flynncreekcircus.com/tickets-page-2026/",
+      "title": "Flynn Creek Circus - The Cricket and the Wren",
+      "venue": {
+        "address": "E. MCGLOUGHLIN BLVD & FORT VANCOUVER WAY",
+        "city": "Vancouver",
+        "latitude": 45.633166,
+        "longitude": -122.658303,
+        "name": "Clark College: Library"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-10T21:00:00-07:00",
@@ -70498,38 +70754,6 @@
         "latitude": 45.548515,
         "longitude": -122.658359,
         "name": "Mike Bennet Studios"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-10T21:00:00-07:00",
-      "id": "willamette_week:20019065@2026-10-10T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-WOnTUyPokq8kxMv0MV65w.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://flynncreekcircus.com/tickets-page-2026/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 50.0,
-        "min": 20.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T19:00:00-07:00",
-      "summary": "This 2026 season, Flynn Creek Circus invites audiences to ‘The Cricket & the Wren’ — memorable family fun and Artful athleticism under the circus big top. A merchant’s daughter sets out to find the castle where the horizon meets the sea. In order to break the spell of the Frog Prince, she must brave a harrowing journey filled with wonder. Along the adventure, she encounters Jack and the Beanstalk’s sassy cow, an out of pocket Pirate and the secret sacrifice of the cricket and the wren. Featuring aerialists, jugglers, knife throwers, and laugh out loud comedy, this circus blends classic storybook archetypes with imaginative new heroes. The Cricket and the Wren will surprise, dazzle and delight all ages. In addition to the family friendly showings, and the interactive children's camp program held under the circus big top, Flynn Creek Circus also presents the wildly popular 'Adults Only Show' boasting outrageous acts, dark comedy, and an infamous party atmosphere. Check the website for select adults only showtimes as well as special discount nights. Spectators for all showings are invited to the tent to experience the magic up to 30 minutes before each show. The event will offer beer, wine, and light concession for purchase and include a 15 minute intermission during the two hour show. Limited free parking is available at the location at Clark College.",
-      "ticket_url": "https://flynncreekcircus.com/tickets-page-2026/",
-      "title": "Flynn Creek Circus - The Cricket and the Wren",
-      "venue": {
-        "address": "E. MCGLOUGHLIN BLVD & FORT VANCOUVER WAY",
-        "city": "Vancouver",
-        "latitude": 45.633166,
-        "longitude": -122.658303,
-        "name": "Clark College: Library"
       }
     },
     {
@@ -71313,6 +71537,38 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "end_at": "2026-10-10T21:30:00-07:00",
+      "id": "willamette_week:20005220@2026-10-10T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LkBuvxySM0GtXiSDfwxTcA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.pcs.org/events/communion",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 100.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T19:30:00-07:00",
+      "summary": "When a gay Catholic teacher marries the man he loves, the Church fires him, upending his faith and dividing the community he has devoted his life to serving. In this acclaimed solo show, Broadway actor Matthew LaBanca shares the true story behind the headlines through music, storytelling, and unexpected moments of connection. Honest, funny, and deeply moving, Communion asks a simple but urgent question: What happens when the values we preach collide with the people we claim to love? For all social media: @communionsoloshow",
+      "ticket_url": "https://communionpdx2026.ludus.com/index.php?sections=events",
+      "title": "COMMUNION by Matthew LaBanca",
+      "venue": {
+        "address": "128 NW 11th Ave",
+        "city": "Portland",
+        "latitude": 45.5241737366,
+        "longitude": -122.6816558838,
+        "name": "Portland Center Stage"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-10T21:30:00-07:00",
@@ -71370,37 +71626,6 @@
         "latitude": 45.521690526832046,
         "longitude": -123.08607918789842,
         "name": "Garage Door"
-      }
-    },
-    {
-      "categories": [
-        "literary"
-      ],
-      "end_at": "2026-10-10T21:30:00-07:00",
-      "id": "willamette_week:20005220@2026-10-10T19:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1o2bTVKLqEmgsorylg_wFw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.pcs.org/events/communion",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 100.0,
-        "min": 25.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T19:30:00-07:00",
-      "summary": "When a gay Catholic teacher marries the man he loves, the Church fires him, upending his faith and dividing the community he has devoted his life to serving. In this acclaimed solo show, Broadway actor Matthew LaBanca shares the true story behind the headlines through music, storytelling, and unexpected moments of connection. Honest, funny, and deeply moving, Communion asks a simple but urgent question: What happens when the values we preach collide with the people we claim to love? For all social media: @communionsoloshow",
-      "title": "COMMUNION by Matthew LaBanca",
-      "venue": {
-        "address": "128 NW 11th Ave",
-        "city": "Portland",
-        "latitude": 45.5241737366,
-        "longitude": -122.6816558838,
-        "name": "Portland Center Stage"
       }
     },
     {
@@ -75177,6 +75402,70 @@
         "food"
       ],
       "end_at": "2026-10-11T20:00:00-07:00",
+      "id": "willamette_week:20044879@2026-10-11T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/t8Obz3C9cUGaiUgMALmDqw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-11T12:00:00-07:00",
+      "summary": "Rebecca Yarros is throwing a party in Basgiath, and Pairings Portland got the invite. Her new Empyrean release, Threshing Day, collects thirteen short stories — dragons, riders, and the bonds between them — while she's off writing the book everyone's bracing for. We built a wine for every single story, so you can drink your way through Basgiath's greatest hits one pour at a time. Come for the lore, stay because thirteen wines is a genuinely ambitious Tuesday. Pairings Portland Wine Shop & Bar, 455 NE 24th Ave. October 10–18. https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "title": "Threshing Day Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-11T20:00:00-07:00",
+      "id": "willamette_week:19972910@2026-10-11T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v_nvIp3PlUm--5_ooVGlrw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-11T12:00:00-07:00",
+      "summary": "Scooby Gang Wine Flight / October 5–11 / Sunnydale had a body count and somehow still made time for game night — this week, Pairings Portland is pouring to the friends who kept it together anyway. Five tastes, five characters: Buffy's main-character energy, Willow's quiet-turned-terrifying arc, Xander's no-superpowers loyalty, Giles' buttoned-up-librarian-with-a-Ripper-past routine, and Cordelia's zero-filter glamour. It's a wine flight built the way the Scooby Gang built their friend group — a little chaotic, weirdly effective, and better with company. Five tastes, $30, one week only before the Hellmouth closes back up. Pairings Portland, 1 week only, Oct 5–11. Reserve at https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/BuffyScoobyGang",
+      "title": "Buffy Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-11T20:00:00-07:00",
       "id": "willamette_week:19963224@2026-10-11T12:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wICJkpvmhU-4hHEDkIwc8w.large.jpg",
       "is_all_day": false,
@@ -76110,18 +76399,18 @@
     },
     {
       "categories": [
-        "family"
+        "literary"
       ],
-      "end_at": "2026-10-11T17:00:00-07:00",
-      "id": "willamette_week:20024505@2026-10-11T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BDKLvO3BBkiwQO1CX8-aJA.large.jpg",
+      "end_at": "2026-10-11T16:00:00-07:00",
+      "id": "willamette_week:20005220@2026-10-11T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LkBuvxySM0GtXiSDfwxTcA.large.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.facebook.com/EVCOT/posts/please-join-us-for-our-open-house-at-emergency-veterinary-clinic-of-tualatin-sun/1737433115049341/",
+      "listing_url": "https://www.pcs.org/events/communion",
       "price": {
         "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
+        "is_free": false,
+        "max": 100.0,
+        "min": 25.0
       },
       "source": {
         "id": "willamette_week",
@@ -76129,14 +76418,15 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-11T14:00:00-07:00",
-      "summary": "Please join us for our Open House at Emergency Veterinary Clinic of Tualatin! We’re opening our doors to the community for an afternoon of fun, refreshments, and a behind-the-scenes look at our newly remodeled space. Come check out the new building addition with our partners at VDIC! • 🏥 Tour our newly remodeled space • 🧸 Teddy Bear Vet Station for kids • 🎟️ Raffle prizes • 🍪 Light snacks & refreshments • 👩‍⚕️ Meet members of our EVCOT team Bring the family and come say hello! We can’t wait to see you on October 11! ❤️💙 🐾",
-      "title": "Emergency Veterinary Clinic of Tualatin Open House",
+      "summary": "When a gay Catholic teacher marries the man he loves, the Church fires him, upending his faith and dividing the community he has devoted his life to serving. In this acclaimed solo show, Broadway actor Matthew LaBanca shares the true story behind the headlines through music, storytelling, and unexpected moments of connection. Honest, funny, and deeply moving, Communion asks a simple but urgent question: What happens when the values we preach collide with the people we claim to love? For all social media: @communionsoloshow",
+      "ticket_url": "https://communionpdx2026.ludus.com/index.php?sections=events",
+      "title": "COMMUNION by Matthew LaBanca",
       "venue": {
-        "address": "8250 SW Tonka St",
-        "city": "Tualatin",
-        "latitude": 45.38045,
-        "longitude": -122.76118,
-        "name": "Emergency Veterinary Clinic of Tualatin"
+        "address": "128 NW 11th Ave",
+        "city": "Portland",
+        "latitude": 45.5241737366,
+        "longitude": -122.6816558838,
+        "name": "Portland Center Stage"
       }
     },
     {
@@ -76173,6 +76463,37 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-11T17:00:00-07:00",
+      "id": "willamette_week:20024505@2026-10-11T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BDKLvO3BBkiwQO1CX8-aJA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/EVCOT/posts/please-join-us-for-our-open-house-at-emergency-veterinary-clinic-of-tualatin-sun/1737433115049341/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-11T14:00:00-07:00",
+      "summary": "Please join us for our Open House at Emergency Veterinary Clinic of Tualatin! We’re opening our doors to the community for an afternoon of fun, refreshments, and a behind-the-scenes look at our newly remodeled space. Come check out the new building addition with our partners at VDIC! • 🏥 Tour our newly remodeled space • 🧸 Teddy Bear Vet Station for kids • 🎟️ Raffle prizes • 🍪 Light snacks & refreshments • 👩‍⚕️ Meet members of our EVCOT team Bring the family and come say hello! We can’t wait to see you on October 11! ❤️💙 🐾",
+      "title": "Emergency Veterinary Clinic of Tualatin Open House",
+      "venue": {
+        "address": "8250 SW Tonka St",
+        "city": "Tualatin",
+        "latitude": 45.38045,
+        "longitude": -122.76118,
+        "name": "Emergency Veterinary Clinic of Tualatin"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-10-11T16:00:00-07:00",
@@ -76198,37 +76519,6 @@
         "latitude": 45.516149999999996,
         "longitude": -122.683357,
         "name": "Portland Art Museum"
-      }
-    },
-    {
-      "categories": [
-        "literary"
-      ],
-      "end_at": "2026-10-11T16:00:00-07:00",
-      "id": "willamette_week:20005220@2026-10-11T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1o2bTVKLqEmgsorylg_wFw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.pcs.org/events/communion",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 100.0,
-        "min": 25.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-11T14:00:00-07:00",
-      "summary": "When a gay Catholic teacher marries the man he loves, the Church fires him, upending his faith and dividing the community he has devoted his life to serving. In this acclaimed solo show, Broadway actor Matthew LaBanca shares the true story behind the headlines through music, storytelling, and unexpected moments of connection. Honest, funny, and deeply moving, Communion asks a simple but urgent question: What happens when the values we preach collide with the people we claim to love? For all social media: @communionsoloshow",
-      "title": "COMMUNION by Matthew LaBanca",
-      "venue": {
-        "address": "128 NW 11th Ave",
-        "city": "Portland",
-        "latitude": 45.5241737366,
-        "longitude": -122.6816558838,
-        "name": "Portland Center Stage"
       }
     },
     {
@@ -80540,6 +80830,38 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-12T20:00:00-07:00",
+      "id": "willamette_week:20044879@2026-10-12T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/t8Obz3C9cUGaiUgMALmDqw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-12T14:00:00-07:00",
+      "summary": "Rebecca Yarros is throwing a party in Basgiath, and Pairings Portland got the invite. Her new Empyrean release, Threshing Day, collects thirteen short stories — dragons, riders, and the bonds between them — while she's off writing the book everyone's bracing for. We built a wine for every single story, so you can drink your way through Basgiath's greatest hits one pour at a time. Come for the lore, stay because thirteen wines is a genuinely ambitious Tuesday. Pairings Portland Wine Shop & Bar, 455 NE 24th Ave. October 10–18. https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "title": "Threshing Day Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-12T15:30:00-07:00",
@@ -81953,35 +82275,6 @@
     },
     {
       "categories": [
-        "film"
-      ],
-      "end_at": "2026-10-12T21:00:00-07:00",
-      "id": "willamette_week:19331116@2026-10-12T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wQFXAxM7oUyxu3JfXtCiaQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://cstpdx.com/event/malpertuis/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-12T19:00:00-07:00",
-      "summary": "From Belgian filmmaker Harry Kümel \\(Daughters of Darkness\\) comes this ultimate phantasmagorical Euro nightmare with equal parts surrealism, Greek mythology and gothic intrigue. A young sailor returns to his childhood port only to be abducted into the eerie mansion of Malpertuis, ruled by his dying occultist uncle Cassavius \\(Orson Welles\\). All of Malpertuis’ inhabitants are waiting for Cassavius to die and the opportunity to inherit his vast fortune. But Cassavius wishes anyone who inherits to stay there forever! This one-of-a-kind tale is a Russian doll of fantastic ideas with stunning photography by Gerry Fisher and scored by Georges Delerue. Screened in Dutch and French with English subtitles. Director: Harry Kümel Country: Belgium, France, West Germany Year: 1971 Runtime: 125 minutes",
-      "title": "Malpertuis",
-      "venue": {
-        "address": "2522 SE Clinton St",
-        "city": "Portland",
-        "latitude": 45.5033352971,
-        "longitude": -122.640119344,
-        "name": "Clinton Street Theater"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "end_at": "2026-10-12T22:07:00-07:00",
@@ -82007,6 +82300,35 @@
         "latitude": 45.637555,
         "longitude": -122.67183,
         "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-12T21:00:00-07:00",
+      "id": "willamette_week:19331116@2026-10-12T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wQFXAxM7oUyxu3JfXtCiaQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://cstpdx.com/event/malpertuis/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-12T19:00:00-07:00",
+      "summary": "From Belgian filmmaker Harry Kümel \\(Daughters of Darkness\\) comes this ultimate phantasmagorical Euro nightmare with equal parts surrealism, Greek mythology and gothic intrigue. A young sailor returns to his childhood port only to be abducted into the eerie mansion of Malpertuis, ruled by his dying occultist uncle Cassavius \\(Orson Welles\\). All of Malpertuis’ inhabitants are waiting for Cassavius to die and the opportunity to inherit his vast fortune. But Cassavius wishes anyone who inherits to stay there forever! This one-of-a-kind tale is a Russian doll of fantastic ideas with stunning photography by Gerry Fisher and scored by Georges Delerue. Screened in Dutch and French with English subtitles. Director: Harry Kümel Country: Belgium, France, West Germany Year: 1971 Runtime: 125 minutes",
+      "title": "Malpertuis",
+      "venue": {
+        "address": "2522 SE Clinton St",
+        "city": "Portland",
+        "latitude": 45.5033352971,
+        "longitude": -122.640119344,
+        "name": "Clinton Street Theater"
       }
     },
     {
@@ -83871,6 +84193,38 @@
         "latitude": 45.5197386178146,
         "longitude": -123.05865727043835,
         "name": "Cornelius Public Library"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-13T20:00:00-07:00",
+      "id": "willamette_week:20044879@2026-10-13T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/t8Obz3C9cUGaiUgMALmDqw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-13T14:00:00-07:00",
+      "summary": "Rebecca Yarros is throwing a party in Basgiath, and Pairings Portland got the invite. Her new Empyrean release, Threshing Day, collects thirteen short stories — dragons, riders, and the bonds between them — while she's off writing the book everyone's bracing for. We built a wine for every single story, so you can drink your way through Basgiath's greatest hits one pour at a time. Come for the lore, stay because thirteen wines is a genuinely ambitious Tuesday. Pairings Portland Wine Shop & Bar, 455 NE 24th Ave. October 10–18. https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "title": "Threshing Day Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
       }
     },
     {
@@ -88344,6 +88698,38 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-14T20:00:00-07:00",
+      "id": "willamette_week:20044879@2026-10-14T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/t8Obz3C9cUGaiUgMALmDqw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-14T14:00:00-07:00",
+      "summary": "Rebecca Yarros is throwing a party in Basgiath, and Pairings Portland got the invite. Her new Empyrean release, Threshing Day, collects thirteen short stories — dragons, riders, and the bonds between them — while she's off writing the book everyone's bracing for. We built a wine for every single story, so you can drink your way through Basgiath's greatest hits one pour at a time. Come for the lore, stay because thirteen wines is a genuinely ambitious Tuesday. Pairings Portland Wine Shop & Bar, 455 NE 24th Ave. October 10–18. https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "title": "Threshing Day Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-14T15:00:00-07:00",
@@ -92671,6 +93057,38 @@
         "latitude": 45.490504558338586,
         "longitude": -122.58224808281963,
         "name": "Holgate Library"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-15T20:00:00-07:00",
+      "id": "willamette_week:20044879@2026-10-15T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/t8Obz3C9cUGaiUgMALmDqw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-15T14:00:00-07:00",
+      "summary": "Rebecca Yarros is throwing a party in Basgiath, and Pairings Portland got the invite. Her new Empyrean release, Threshing Day, collects thirteen short stories — dragons, riders, and the bonds between them — while she's off writing the book everyone's bracing for. We built a wine for every single story, so you can drink your way through Basgiath's greatest hits one pour at a time. Come for the lore, stay because thirteen wines is a genuinely ambitious Tuesday. Pairings Portland Wine Shop & Bar, 455 NE 24th Ave. October 10–18. https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "title": "Threshing Day Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
       }
     },
     {
@@ -97744,6 +98162,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-16T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-10-16T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-16T19:00:00-07:00",
@@ -97802,34 +98248,6 @@
         "latitude": 45.58328,
         "longitude": -122.685859,
         "name": "Oregon Contemporary"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-16T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-10-16T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-16T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -98086,6 +98504,38 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-16T21:00:00-07:00",
+      "id": "willamette_week:20044879@2026-10-16T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/t8Obz3C9cUGaiUgMALmDqw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T12:00:00-07:00",
+      "summary": "Rebecca Yarros is throwing a party in Basgiath, and Pairings Portland got the invite. Her new Empyrean release, Threshing Day, collects thirteen short stories — dragons, riders, and the bonds between them — while she's off writing the book everyone's bracing for. We built a wine for every single story, so you can drink your way through Basgiath's greatest hits one pour at a time. Come for the lore, stay because thirteen wines is a genuinely ambitious Tuesday. Pairings Portland Wine Shop & Bar, 455 NE 24th Ave. October 10–18. https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "title": "Threshing Day Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
       }
     },
     {
@@ -105960,6 +106410,38 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-17T21:00:00-07:00",
+      "id": "willamette_week:20044879@2026-10-17T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/t8Obz3C9cUGaiUgMALmDqw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-17T12:00:00-07:00",
+      "summary": "Rebecca Yarros is throwing a party in Basgiath, and Pairings Portland got the invite. Her new Empyrean release, Threshing Day, collects thirteen short stories — dragons, riders, and the bonds between them — while she's off writing the book everyone's bracing for. We built a wine for every single story, so you can drink your way through Basgiath's greatest hits one pour at a time. Come for the lore, stay because thirteen wines is a genuinely ambitious Tuesday. Pairings Portland Wine Shop & Bar, 455 NE 24th Ave. October 10–18. https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "title": "Threshing Day Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-10-17T13:00:00-07:00",
@@ -110088,6 +110570,35 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-17T22:00:00-07:00",
+      "id": "willamette_week:19045508@2026-10-17T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MMiNCwum7keTATFmEw5mTw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1621471762889921/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-17T19:30:00-07:00",
+      "summary": "Join us for more family-friendly laughs this fall at Magenta. Tickets $10 at magenta.ludus.com",
+      "title": "Magenta Improv Theater",
+      "venue": {
+        "address": "1108 Main St",
+        "city": "Vancouver",
+        "latitude": 45.629983,
+        "longitude": -122.672035,
+        "name": "Magenta Theater Magenta Theater"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-17T21:45:00-07:00",
@@ -110116,35 +110627,6 @@
         "latitude": 45.52032,
         "longitude": -122.686984,
         "name": "Bridgetown Conservatory of Musical Theatre"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-17T22:00:00-07:00",
-      "id": "willamette_week:19045508@2026-10-17T19:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MMiNCwum7keTATFmEw5mTw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1621471762889921/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-17T19:30:00-07:00",
-      "summary": "Join us for more family-friendly laughs this fall at Magenta. Tickets $10 at magenta.ludus.com",
-      "title": "Magenta Improv Theater",
-      "venue": {
-        "address": "1108 Main St",
-        "city": "Vancouver",
-        "latitude": 45.629983,
-        "longitude": -122.672035,
-        "name": "Magenta Theater Magenta Theater"
       }
     },
     {
@@ -113814,6 +114296,38 @@
         "latitude": 45.533299,
         "longitude": -122.667442,
         "name": "Veterans Memorial Coliseum"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-18T21:00:00-07:00",
+      "id": "willamette_week:20044879@2026-10-18T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/t8Obz3C9cUGaiUgMALmDqw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 30.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-18T12:00:00-07:00",
+      "summary": "Rebecca Yarros is throwing a party in Basgiath, and Pairings Portland got the invite. Her new Empyrean release, Threshing Day, collects thirteen short stories — dragons, riders, and the bonds between them — while she's off writing the book everyone's bracing for. We built a wine for every single story, so you can drink your way through Basgiath's greatest hits one pour at a time. Come for the lore, stay because thirteen wines is a genuinely ambitious Tuesday. Pairings Portland Wine Shop & Bar, 455 NE 24th Ave. October 10–18. https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "ticket_url": "https://pairingsportlandwineshopreservations.as.me/ThreshingDay",
+      "title": "Threshing Day Wine Flight",
+      "venue": {
+        "address": "455 NE 24th Ave",
+        "city": "Portland",
+        "latitude": 45.5262374878,
+        "longitude": -122.6417236328,
+        "name": "Pairings Portland Wine Shop"
       }
     },
     {
@@ -120133,34 +120647,6 @@
       "categories": [
         "community"
       ],
-      "id": "willamette_week:19504941@2026-10-19T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.oregoncc.org/attend/events/2026/10/portland-national-college-fair-2026",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-19T19:00:00-07:00",
-      "summary": "Free and open to the public, National College Fairs are the perfect place to begin or continue your college search. No matter where you are in the college search process, NACAC College Fairs have something for you! Choose from our in-personorvirtual college fairs to make connections with hundreds of institutions - all in one place!",
-      "title": "Portland National College Fair 2026",
-      "venue": {
-        "address": "777 NE Martin Luther King, Jr Blvd",
-        "city": "Portland",
-        "latitude": 45.5283737183,
-        "longitude": -122.6631393433,
-        "name": "Oregon Convention Center"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
       "end_at": "2026-10-19T22:07:00-07:00",
       "id": "willamette_week:17539493@2026-10-19T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RbIERhd0J06FhNVq8IQGUw.large.png",
@@ -120184,6 +120670,34 @@
         "latitude": 45.637555,
         "longitude": -122.67183,
         "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19504941@2026-10-19T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.oregoncc.org/attend/events/2026/10/portland-national-college-fair-2026",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-19T19:00:00-07:00",
+      "summary": "Free and open to the public, National College Fairs are the perfect place to begin or continue your college search. No matter where you are in the college search process, NACAC College Fairs have something for you! Choose from our in-personorvirtual college fairs to make connections with hundreds of institutions - all in one place!",
+      "title": "Portland National College Fair 2026",
+      "venue": {
+        "address": "777 NE Martin Luther King, Jr Blvd",
+        "city": "Portland",
+        "latitude": 45.5283737183,
+        "longitude": -122.6631393433,
+        "name": "Oregon Convention Center"
       }
     },
     {
@@ -134086,6 +134600,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-23T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-10-23T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-23T13:00:00-07:00",
@@ -134198,34 +134740,6 @@
         "latitude": 45.559268,
         "longitude": -122.646073,
         "name": "Alberta Street Gallery"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-23T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-10-23T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-23T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -142757,6 +143271,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-24T20:00:00-07:00",
+      "id": "willamette_week:2031577252@2026-10-24T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E2ajFa8QJ0a31b85RGZOuA.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T18:00:00-07:00",
+      "summary": "Come join us for our Harvest Festival! We will have games, Trunk or Treat, and some yummy eats! 6-8 pm at the Stake Centerm 18214 NE 18th St, Vancouver, WA",
+      "title": "Fern Prairie Harvest Festival",
+      "venue": {
+        "address": "18214 Northeast 18th Street",
+        "city": "Vancouver",
+        "latitude": 45.636275,
+        "longitude": -122.484733,
+        "name": "The Church of Jesus Christ of Latter-day Saints"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-24T21:00:00-07:00",
@@ -142817,36 +143361,6 @@
         "latitude": 45.42058,
         "longitude": -122.67611,
         "name": "Oswego Heritage House"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-24T20:00:00-07:00",
-      "id": "willamette_week:2031577252@2026-10-24T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E2ajFa8QJ0a31b85RGZOuA.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-24T18:00:00-07:00",
-      "summary": "Come join us for our Harvest Festival! We will have games, Trunk or Treat, and some yummy eats! 6-8 pm at the Stake Centerm 18214 NE 18th St, Vancouver, WA",
-      "title": "Fern Prairie Harvest Festival",
-      "venue": {
-        "address": "18214 Northeast 18th Street",
-        "city": "Vancouver",
-        "latitude": 45.636275,
-        "longitude": -122.484733,
-        "name": "The Church of Jesus Christ of Latter-day Saints"
       }
     },
     {
@@ -153088,6 +153602,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-26T22:07:00-07:00",
+      "id": "willamette_week:17539493@2026-10-26T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RbIERhd0J06FhNVq8IQGUw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1478787659863106/1478787743196431/?active_tab=about",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-26T19:00:00-07:00",
+      "summary": "Test your knowledge at Hungry \\+ Thirsty Sasquatch weekly trivia! Starts at 7pm. Free entry. Prizes for 1st, 2nd, and 3rd place. Teams of up to 6.",
+      "title": "TRIVIA NIGHT @ THIRSTY + HUNGRY SASQUATCH",
+      "venue": {
+        "address": "2102 Main St",
+        "city": "Vancouver",
+        "latitude": 45.637555,
+        "longitude": -122.67183,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-26T17:00:00-07:00",
@@ -153115,35 +153658,6 @@
         "latitude": 45.55272,
         "longitude": -122.90778,
         "name": "Hillsboro Stadium"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-26T22:07:00-07:00",
-      "id": "willamette_week:17539493@2026-10-26T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RbIERhd0J06FhNVq8IQGUw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1478787659863106/1478787743196431/?active_tab=about",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-26T19:00:00-07:00",
-      "summary": "Test your knowledge at Hungry \\+ Thirsty Sasquatch weekly trivia! Starts at 7pm. Free entry. Prizes for 1st, 2nd, and 3rd place. Teams of up to 6.",
-      "title": "TRIVIA NIGHT @ THIRSTY + HUNGRY SASQUATCH",
-      "venue": {
-        "address": "2102 Main St",
-        "city": "Vancouver",
-        "latitude": 45.637555,
-        "longitude": -122.67183,
-        "name": "Vancouver"
       }
     },
     {
@@ -164625,6 +165139,38 @@
         "latitude": 45.5192951113,
         "longitude": -122.6524239779,
         "name": "Revolution Hall"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-29T22:30:00-07:00",
+      "id": "willamette_week:20044611@2026-10-29T20:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DE31yT-R0kKk9mpGZC1ZzA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://LateLyrics.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-29T20:30:00-07:00",
+      "summary": "LATE LYRICS: HIP HOP OPEN MIC Portland’s monthly hip hop open mic and artist community — every last Thursday. Late Lyrics gives independent artists a place to perform, connect, grow, and access opportunities beyond the stage through live performances, audience voting, prizes, radio, media, pop-ups, networking, and artist resources. Special Guest: Bremer Baden https://Linktr.ee/BremerBaden Hosted by Shrista https://instagram.com/shristatyree Sounds by DJ Rappy On The Beat https://www.instagram.com/itzrappyyabisssh Thursday, October 29th Atlantis Lounge inside Mississippi Pizza 3552 N Mississippi Ave., Portland Doors + Sign-Ups: 8 PM Show: 8:30–10:30 PM 21+ after 9 PM ━━━━━━━━━━━━━━━━━━ ADMISSION $5 Online • $10 at the Door $5 Musician Admission at the Door FREE for performers LateLyrics.com ━━━━━━━━━━━━━━━━━━ WANT TO PERFORM? 10 Advance Performance Sign-Up spots are selected each month, plus 5 Door Sign-Up spots available on event night if time permits. Advance Sign-Ups open every last Thursday and close on the 15th of the following month. Sign Up: LateLyrics.com Performer Rewards + Opportunities: LateLyrics.com/rewards ━━━━━━━━━━━━━━━━━━ TOP PERFORMER The audience votes for the night’s Top Performer. Judges are used only as tie-breakers. October Judges: DJ Klyph, Akronym Beats + More! Top Performer Prizes Include: • $50 Cash Prize • Late Lyrics Top Performer Trophy • 1-Hour Studio Session at The Bunker Recording Studio • PDX Radio Feature + Song Review • Late Lyrics Radio Feature / Spin 503 Radio Rotation ━━━━━━━━━━━━━━━━━━ HAPPENING THIS MONTH Special Guest Performance by Bremer Baden Loco Lounge Pop-Up On-the-Spot Interviews Soufflé Pop-Up Exclusive Giveaway Plus radio opportunities, media opportunities, artist networking, resources, and more. ━━━━━━━━━━━━━━━━━━ THE LATE LYRICS LAB Artist resources, opportunities, and tools for independent artists. LateLyrics.com/lab Radio: LateLyrics.com/radio Media Coverage: LateLyrics.com/coverage Rewards: LateLyrics.com/rewards ━━━━━━━━━━━━━━━━━━ COMMUNITY PARTNERS MusicPortland • NW Breakout Show on Jam’n 107.5 • Welcome to the Neighborhood with DJ Klyph • Spin 503 • PDX Radio • Pretty Dope Xperience • Laced Up PDX • Upper Left Collective • The Bunker Recording Studio • Soufflé • Loco Lounge • Atlantis Lounge Supported in part by the Multnomah County Cultural Coalition and the Oregon Cultural Trust. ━━━━━━━━━━━━━━━━━━ Presented by Nexxt Up Entertainment Built for the Culture. Powered by the Community. LateLyrics.com",
+      "ticket_url": "https://www.etix.com/ticket/p/34006854/late-lyrics-portland-atlantis-lounge",
+      "title": "Late Lyrics ft. Bremer Baden",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.548622,
+        "longitude": -122.675305,
+        "name": "Atlantis Lounge"
       }
     },
     {
@@ -187025,5 +187571,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-29T08:26:11+00:00"
+  "generated_at": "2026-09-29T08:38:20+00:00"
 }
