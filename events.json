@@ -95852,6 +95852,36 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-15T23:00:00-07:00",
+      "id": "willamette_week:20047548@2026-10-15T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FxbDr5_XW06Cb1QqCs_p7Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://peacockpdx.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-15T19:30:00-07:00",
+      "title": "Elsewhere: Valor",
+      "venue": {
+        "address": "1400 SE Morrison St",
+        "city": "Portland",
+        "latitude": 45.517046,
+        "longitude": -122.651421,
+        "name": "Peacock PDX"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-15T21:30:00-07:00",
@@ -187560,5 +187590,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-29T15:47:34+00:00"
+  "generated_at": "2026-09-29T15:58:03+00:00"
 }
