@@ -81,6 +81,14 @@
       "venue": "Powell's Books at Cedar Hills Crossing"
     },
     {
+      "dropped": "willamette_week:19957012@2026-10-19T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfGf-V",
+      "start_at": "2026-10-19T19:00:00-07:00",
+      "title_dropped": "Square Dancing with Probably Polly String Band and Caller Andy Grummon",
+      "title_kept": "Square Dancing with Probably Polly String Band and Caller Andy Grummon",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:19591413@2026-09-29T18:00",
       "kept": "dopdx:17709840",
       "start_at": "2026-09-29T18:00:00-07:00",
@@ -4937,14 +4945,6 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
-      "dropped": "willamette_week:19957012@2026-10-19T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfGf-V",
-      "start_at": "2026-10-19T19:00:00-07:00",
-      "title_dropped": "Square Dancing with Probably Polly String Band and Caller Andy Grummon",
-      "title_kept": "Square Dancing with Probably Polly String Band and Caller Andy Grummon",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "dopdx:17461009",
       "kept": "ticketmaster:vvG1HZ_GQuJgGr",
       "start_at": "2026-10-19T20:00:00-07:00",
@@ -6913,9 +6913,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6303,
-  "floor_check": "6303 events against a 6290-event baseline",
-  "generated_at": "2026-09-29T16:09:43+00:00",
+  "event_count": 6305,
+  "floor_check": "6305 events against a 6290-event baseline",
+  "generated_at": "2026-09-29T18:35:18+00:00",
   "problems": [],
   "sources": [
     "calagator",
