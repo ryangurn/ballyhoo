@@ -266,6 +266,34 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-10-11T17:30:00-07:00",
+      "id": "calagator:1250482731",
+      "is_all_day": false,
+      "listing_url": "https://pnsqc.org/innovation-day/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-11T13:00:00-07:00",
+      "summary": "The PNSQC Innovation Day brings students, educators, parents, and community members together to explore emerging technologies through student projects, robotics demonstrations, and educational seminars. By combining student innovation with community learning, the event creates an environment where attendees can interact with each other on topics such as artificial intelligence, robotics, automation, and other technologies shaping our future. Innovation Day will be held the Sunday October 11th, immediately preceding the PNSQC Software Quality conference.",
+      "title": "PNSQC Innovation Day",
+      "venue": {
+        "address": "310 SW LINCOLN STREET",
+        "city": "PORTLAND",
+        "latitude": 45.5074,
+        "longitude": -122.6808,
+        "name": "University Place Hotel & Convention Center"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-10-12T12:00:00-07:00",
       "id": "calagator:1250482671",
       "is_all_day": false,
@@ -395,6 +423,32 @@
         "latitude": 45.4867,
         "longitude": -122.8053,
         "name": "Fly Chai"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-19T21:00:00-07:00",
+      "id": "calagator:1250482732",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/full-stack-dev-pdx/events/316767323/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-19T19:00:00-07:00",
+      "summary": "Two halves tonight.\r\n\r\nFIRST: show us what you did. Last month we went through nine ways to work with coding\r\nagents. Some of you went home and tried them. Bring what happened — the memory file that\r\nchanged your week, the prompt that finally worked, the agent that confidently destroyed\r\nsomething. Wins and disasters are equally welcome; the disasters usually teach more. Five\r\nminutes each, laptop optional, no slides required.\r\n\r\nTHEN: everything that isn't text. We've spent two meetings on language models. Meanwhile\r\nimage, video, music, and voice generation have quietly become genuinely good — and a\r\nsurprising amount of it now runs on the laptop in front of you, with nothing leaving the\r\nmachine.\r\n\r\nWe'll walk the current landscape honestly: what's actually worth using in October 2026,\r\nwhat got discontinued this year, and where each one still falls apart. Then we'll split the\r\nfield the way that matters for a working developer — what you call an API for, versus what\r\nyou can run yourself.\r\n\r\nAnd we'll generate something live. On a laptop. Offline.\r\n\r\nYou'll leave knowing which model to reach for per modality, what your own hardware can run,\r\nhow to set it up, and the three questions that decide hosted-versus-local for any of them.\r\n\r\nCome curious. Beginners and veterans welcome.\r\n\r\nSPEAKER\r\nMatt Duffield is President & CTO of Summit Software with 30+ years building enterprise\r\nsoftware. A published author of six technical books and U.S. Navy veteran, he focuses on\r\nAI-assisted development, local LLMs, and cloud-native architecture.\r\n\r\nEVENT DETAILS\r\nFood, drinks, and conversation beginning at 7:00. Show & tell at 7:30. Main talk around 8:00.\r\nParking is free at the Gladstone Park SDA church.",
+      "title": "Show & Tell + Beyond Text: Image, Video & Music on Your Own Machine — Full Stack Devs PDX",
+      "venue": {
+        "address": "8378 Cason Rd",
+        "city": "Gladstone",
+        "name": "Gladstone Park SDA Church"
       }
     },
     {
@@ -660,7 +714,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-29T12:42:03+00:00",
+  "generated_at": "2026-09-29T18:34:40+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
