@@ -1497,6 +1497,22 @@
       "venue": "Wild Cascara Farm"
     },
     {
+      "dropped": "willamette_week:18521269@2026-10-04T10:00",
+      "kept": "portland_farmers_market:king-farmers-market-3@2026-10-04",
+      "start_at": "2026-10-04T10:00:00-07:00",
+      "title_dropped": "King Farmers Market",
+      "title_kept": "King Farmers Market",
+      "venue": "King Farmers Market"
+    },
+    {
+      "dropped": "willamette_week:18521272@2026-10-04T10:00",
+      "kept": "portland_farmers_market:lents-international-farmers-market@2026-10-04",
+      "start_at": "2026-10-04T10:00:00-07:00",
+      "title_dropped": "Lents International Farmers Market",
+      "title_kept": "Lents International Farmers Market",
+      "venue": "Lents International Farmers Market"
+    },
+    {
       "dropped": "willamette_week:19872783@2026-10-04T11:00",
       "kept": "dopdx:17811062",
       "start_at": "2026-10-04T11:00:00-07:00",
@@ -5425,6 +5441,14 @@
       "venue": "Ponderosa Lounge & Grill"
     },
     {
+      "dropped": "willamette_week:20048034@2026-10-22T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1Afuk7V",
+      "start_at": "2026-10-22T20:00:00-07:00",
+      "title_dropped": "ETANA",
+      "title_kept": "ETANA",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:19866241@2026-10-22T20:00",
       "kept": "ticketmaster:rZ7HnEZ1AfGF_f",
       "start_at": "2026-10-22T20:00:00-07:00",
@@ -6305,6 +6329,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19469867@2026-10-25T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPsbN",
+      "start_at": "2026-10-25T21:00:00-07:00",
+      "title_dropped": "CHURCH OF HIVE",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-10-25T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPsbN",
       "start_at": "2026-10-25T21:00:00-07:00",
@@ -6889,12 +6921,28 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "willamette_week:18521271@2026-09-30T15:00",
+      "kept": "portland_farmers_market:kenton-farmers-market-2026@2026-09-30",
+      "start_at": "2026-09-30T15:00:00-07:00",
+      "title_dropped": "Kenton Farmers Market",
+      "title_kept": "Kenton Farmers Market",
+      "venue": "Kenton Farmers Market"
+    },
+    {
       "dropped": "willamette_week:17670892@2026-10-04T09:00",
       "kept": "pdxparent_markets:hillsdale-farmers-market@2026-10-04",
       "start_at": "2026-10-04T09:00:00-07:00",
       "title_dropped": "Hillsdale Farmers' Market",
       "title_kept": "Hillsdale Farmers Market",
       "venue": "Hillsdale Farmers Market"
+    },
+    {
+      "dropped": "willamette_week:18521270@2026-09-30T10:00",
+      "kept": "portland_farmers_market:shemanski-park-farmers-market-2026@2026-09-30",
+      "start_at": "2026-09-30T10:00:00-07:00",
+      "title_dropped": "Shemanski Park Farmers Market",
+      "title_kept": "Shemanski Park Farmers Market",
+      "venue": "Shemanski Park Farmers Market"
     },
     {
       "dropped": "willamette_week:18893389@2026-10-03T23:30",
@@ -6993,9 +7041,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6333,
-  "floor_check": "6333 events against a 6299-event baseline",
-  "generated_at": "2026-09-29T20:44:58+00:00",
+  "event_count": 6353,
+  "floor_check": "6353 events against a 6299-event baseline",
+  "generated_at": "2026-09-29T20:53:04+00:00",
   "problems": [],
   "sources": [
     "calagator",
