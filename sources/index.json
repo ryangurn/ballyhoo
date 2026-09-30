@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:36:44+00:00",
+  "generated_at": "2026-09-30T19:16:54+00:00",
   "sources": [
     {
       "event_count": 28,
@@ -19,7 +19,7 @@
       "event_count": 20,
       "last_run_at": "2026-09-30T12:52:50+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
@@ -58,8 +58,8 @@
       "url": "sources/portland_parks.json"
     },
     {
-      "event_count": 836,
-      "last_run_at": "2026-09-30T13:39:21+00:00",
+      "event_count": 841,
+      "last_run_at": "2026-09-30T19:16:04+00:00",
       "source_id": "ticketmaster",
       "status": "ok",
       "url": "sources/ticketmaster.json"

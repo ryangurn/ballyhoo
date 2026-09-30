@@ -5417,6 +5417,14 @@
       "venue": "Brunish Theatre"
     },
     {
+      "dropped": "dopdx:17620712",
+      "kept": "ticketmaster:Z7r9jZ1AAea4N",
+      "start_at": "2026-10-23T20:00:00-07:00",
+      "title_dropped": "90s vs 2000s Halloween Costume Glow Ball",
+      "title_kept": "90s vs 2000s Halloween Costume Glow Ball - ages 21+",
+      "venue": "McMenamins Crystal Ballroom"
+    },
+    {
       "dropped": "willamette_week:19570878@2026-10-23T20:00",
       "kept": "dopdx:17529271",
       "start_at": "2026-10-23T20:00:00-07:00",
@@ -6593,6 +6601,14 @@
       "venue": "The Highland Stillhouse"
     },
     {
+      "dropped": "dopdx:17815617",
+      "kept": "ticketmaster:Z7r9jZ1AAvt7d",
+      "start_at": "2026-10-29T10:00:00-07:00",
+      "title_dropped": "Crystal Ballroom History & Art Tour",
+      "title_kept": "Crystal Ballroom Tours",
+      "venue": "McMenamins Crystal Ballroom"
+    },
+    {
       "dropped": "willamette_week:19304192@2026-10-29T19:00",
       "kept": "dopdx:17539374",
       "start_at": "2026-10-29T19:00:00-07:00",
@@ -7057,9 +7073,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 6425,
-  "floor_check": "6425 events against a 6394-event baseline",
-  "generated_at": "2026-09-30T18:36:44+00:00",
+  "event_count": 6428,
+  "floor_check": "6428 events against a 6395-event baseline",
+  "generated_at": "2026-09-30T19:16:54+00:00",
   "problems": [],
   "sources": [
     "calagator",
