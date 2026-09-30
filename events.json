@@ -167091,6 +167091,31 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:2026-10-31",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/2026-10-31",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-31T09:00:00-07:00",
+      "title": "Household hazardous waste neighborhood collection event",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.32208,
+        "longitude": -122.57526,
+        "name": "Clackamas Community College - Wilsonville campus"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -171325,6 +171350,25 @@
         "longitude": -122.642799,
         "name": "Revolution Hall - Portland"
       }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:metro-technical-advisory-committee-meeting-2026-11-13",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/metro-technical-advisory-committee-meeting-2026-11-13",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-13T09:00:00-08:00",
+      "title": "Metro Technical Advisory Committee meeting"
     },
     {
       "categories": [
@@ -189354,5 +189398,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-30T00:32:44+00:00"
+  "generated_at": "2026-09-30T00:36:18+00:00"
 }
