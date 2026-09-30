@@ -2673,6 +2673,14 @@
       "venue": "Can Can's Paris Theatre"
     },
     {
+      "dropped": "willamette_week:20056432@2026-10-10T18:30",
+      "kept": "dopdx:17905673",
+      "start_at": "2026-10-10T18:30:00-07:00",
+      "title_dropped": "COMEDEE SHOW @ COFFEE BEER",
+      "title_kept": "COMEDEE SHOW @ COFFEE BEER",
+      "venue": "Coffee Beer"
+    },
+    {
       "dropped": "willamette_week:19171055@2026-10-10T19:00",
       "kept": "dopdx:17470836",
       "start_at": "2026-10-10T19:00:00-07:00",
@@ -5105,14 +5113,6 @@
       "venue": "Revolution Hall"
     },
     {
-      "dropped": "willamette_week:19879694@2026-10-21T20:00",
-      "kept": "dopdx:17640512",
-      "start_at": "2026-10-21T20:00:00-07:00",
-      "title_dropped": "DOSSEY & Deepest Darkest & Camp Crush",
-      "title_kept": "Dossey w/ Camp Crush, Deepest Darkest",
-      "venue": "Twilight Cafe And Bar"
-    },
-    {
       "dropped": "dopdx:17528165",
       "kept": "ticketmaster:Z7r9jZ1AAZv_J",
       "start_at": "2026-10-21T20:00:00-07:00",
@@ -5127,6 +5127,14 @@
       "title_dropped": "Frog",
       "title_kept": "Frog",
       "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "willamette_week:19879694@2026-10-21T20:00",
+      "kept": "dopdx:17640512",
+      "start_at": "2026-10-21T20:00:00-07:00",
+      "title_dropped": "DOSSEY & Deepest Darkest & Camp Crush",
+      "title_kept": "Dossey w/ Camp Crush, Deepest Darkest",
+      "venue": "Twilight Cafe And Bar"
     },
     {
       "dropped": "willamette_week:19538844@2026-10-21T20:00",
@@ -7082,8 +7090,8 @@
     }
   ],
   "event_count": 6468,
-  "floor_check": "6468 events against a 6411-event baseline",
-  "generated_at": "2026-09-30T22:28:53+00:00",
+  "floor_check": "6468 events against a 6415-event baseline",
+  "generated_at": "2026-09-30T22:36:26+00:00",
   "problems": [],
   "sources": [
     "calagator",
