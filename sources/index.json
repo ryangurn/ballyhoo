@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:06:01+00:00",
+  "generated_at": "2026-09-30T18:35:50+00:00",
   "sources": [
     {
       "event_count": 28,
@@ -9,8 +9,8 @@
       "url": "sources/calagator.json"
     },
     {
-      "event_count": 1722,
-      "last_run_at": "2026-09-30T12:56:45+00:00",
+      "event_count": 1725,
+      "last_run_at": "2026-09-30T18:32:53+00:00",
       "source_id": "dopdx",
       "status": "ok",
       "url": "sources/dopdx.json"
@@ -47,7 +47,7 @@
       "event_count": 54,
       "last_run_at": "2026-09-30T12:27:22+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
