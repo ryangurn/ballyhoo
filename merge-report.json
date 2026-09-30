@@ -2601,6 +2601,14 @@
       "venue": "Portland Wine Company’s Crushpad"
     },
     {
+      "dropped": "willamette_week:19679524@2026-10-10T16:00",
+      "kept": "dopdx:17434144",
+      "start_at": "2026-10-10T16:00:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Conor Janda",
+      "title_kept": "The Neon Room at Helium: Jerry Wayne Longmire",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:19076586@2026-10-10T16:00",
       "kept": "dopdx:17434144",
       "start_at": "2026-10-10T16:00:00-07:00",
@@ -7073,9 +7081,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 6428,
-  "floor_check": "6428 events against a 6395-event baseline",
-  "generated_at": "2026-09-30T19:16:54+00:00",
+  "event_count": 6469,
+  "floor_check": "6469 events against a 6395-event baseline",
+  "generated_at": "2026-09-30T19:27:42+00:00",
   "problems": [],
   "sources": [
     "calagator",
