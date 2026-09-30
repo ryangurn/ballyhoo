@@ -1361,6 +1361,14 @@
       "venue": "Lents International Farmers Market"
     },
     {
+      "dropped": "willamette_week:20057844@2026-10-04T10:30",
+      "kept": "portland_farmers_market:lents-international-farmers-market@2026-10-04",
+      "start_at": "2026-10-04T10:00:00-07:00",
+      "title_dropped": "Harvest Market with Soundstruck NW",
+      "title_kept": "Lents International Farmers Market",
+      "venue": "Lents International Farmers Market"
+    },
+    {
       "dropped": "willamette_week:19872783@2026-10-04T11:00",
       "kept": "dopdx:17811062",
       "start_at": "2026-10-04T11:00:00-07:00",
@@ -1927,6 +1935,14 @@
       "title_dropped": "Portland Trail Blazers vs. Golden State Warriors",
       "title_kept": "Trail blazers vs. Golden State Warriors",
       "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:20054563@2026-10-07T19:30",
+      "kept": "dopdx:17534529",
+      "start_at": "2026-10-07T19:30:00-07:00",
+      "title_dropped": "The Neon Room",
+      "title_kept": "The Neon Room: Matt Banwart",
+      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "willamette_week:19736087@2026-10-07T19:30",
@@ -7089,9 +7105,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 6470,
-  "floor_check": "6470 events against a 6422-event baseline",
-  "generated_at": "2026-09-30T23:47:10+00:00",
+  "event_count": 6480,
+  "floor_check": "6480 events against a 6422-event baseline",
+  "generated_at": "2026-09-30T23:56:00+00:00",
   "problems": [],
   "sources": [
     "calagator",
