@@ -77932,6 +77932,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-14T00:00:00-07:00",
+      "id": "calagator:1250482735",
+      "is_all_day": false,
+      "listing_url": "http://www.pnsqc.org",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-12T00:00:00-07:00",
+      "summary": "The 44th Pacific Northwest Software Quality Conference will be held October 12-14, 2026. The conference theme is \"Quality in the Age of Autonomy.\" Quality is relevant to design, manufacturing, code, applications, user experience, writing/prose, and many other areas that may not be obvious. \r\n\r\nKeynotes include Maaret Pyhäjärvi from Finland, Jonathon Wright from England, and over 50 more presenters.\r\n\r\nTalks include \"Inside Tesla: The Birth of the Software-Defined Vehicle and Quality in the Age of Autonomy\", \"The Quality Nervous System\", and many presentations about the impact of AI on software quality as well as more traditional quality aspects. \r\n\r\nPNSQC 2026 is both an in-person and online event, even offering a FREE virtual track to watch our keynotes and invited speakers.\r\n\r\nCheck it out online at: https://pnsqc.org/register\r\n\r\nTracks Include - Quality Engineering (Process & Methods, Tools & Technologies) - Management, Leadership, People & Enterprise IT Quality - AI and Emerging Technologies\r\n\r\nOur industry learns from working with education, healthcare, manufacturing, government sectors, and more. What can those other industries learn from us? Come and find out at PNSQC 2026.",
+      "title": "The Pacific NW Software Quality Conference (PNSQC)",
+      "venue": {
+        "address": "310 SW Lincoln Street",
+        "city": "Portland",
+        "latitude": 45.5078,
+        "longitude": -122.68,
+        "name": "University Place Hotel"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "id": "willamette_week:17884605@2026-10-12T00:00",
@@ -130083,6 +130111,30 @@
         "address": "2012 SE Hawthorne",
         "city": "Portland",
         "name": "Cinemagic Theater"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-22T19:00:00-07:00",
+      "id": "calagator:1250482736",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/portland-design-thinkers/events/316784073/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-22T17:30:00-07:00",
+      "summary": "Portland Design Thinkers is excited to announce our next event with George DeCarlo: You can build and launch software\r\n\r\nYou don't need to be a developer to ship real software anymore. If you've ever had an idea for an app or tool and assumed it was out of reach, this session is for you.\r\n\r\nGeorge will show you how to use the AI tools you already have to create fully functional, production-ready software that's live on the internet. He'll walk through the whole process end to end, from first idea to a working URL, and build an app live that you can follow along with.\r\n\r\nNo prep needed. Just come curious and see how much closer you are to launching than you think.\r\n\r\nAbout our speaker\r\nGeorge has been hosting websites for millions of people since the early days of the web. His latest business is Hatchable, built from the ground up to make it easy to build anything with your existing AI and make it live.",
+      "title": "You can build and launch software",
+      "venue": {
+        "name": "Virtual"
       }
     },
     {
@@ -192350,5 +192402,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-30T19:31:18+00:00"
+  "generated_at": "2026-09-30T20:46:30+00:00"
 }

@@ -185,6 +185,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19743115@2026-10-22T18:00",
+      "kept": "dopdx:17775654",
+      "start_at": "2026-10-22T18:00:00-07:00",
+      "title_dropped": "Portland Spirit Brews Cruise",
+      "title_kept": "Brews Cruise",
+      "venue": "Salmon Springs Dock"
+    },
+    {
       "dropped": "willamette_week:19787134@2026-09-30T12:00",
       "kept": "dopdx:17780743",
       "start_at": "2026-09-30T12:00:00-07:00",
@@ -5153,14 +5161,6 @@
       "venue": "Barrel Room Portland"
     },
     {
-      "dropped": "willamette_week:19743115@2026-10-22T18:00",
-      "kept": "dopdx:17775654",
-      "start_at": "2026-10-22T18:00:00-07:00",
-      "title_dropped": "Portland Spirit Brews Cruise",
-      "title_kept": "Brews Cruise",
-      "venue": "Salmon Springs Dock"
-    },
-    {
       "dropped": "willamette_week:19879697@2026-10-22T19:00",
       "kept": "dopdx:17837405",
       "start_at": "2026-10-22T19:00:00-07:00",
@@ -7081,9 +7081,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 6466,
-  "floor_check": "6466 events against a 6395-event baseline",
-  "generated_at": "2026-09-30T19:31:18+00:00",
+  "event_count": 6468,
+  "floor_check": "6468 events against a 6395-event baseline",
+  "generated_at": "2026-09-30T20:46:30+00:00",
   "problems": [],
   "sources": [
     "calagator",
