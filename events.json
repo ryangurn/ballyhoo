@@ -63650,6 +63650,39 @@
     },
     {
       "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-10-10T12:00:00-07:00",
+      "id": "portland_farmers_market:chef-in-the-market-101026@2026-10-10",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2025/09/sarah-marshall-CITM-101125.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/chef-in-the-market-101026/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-10-10T11:00:00-07:00",
+      "summary": "Join us for a cooking demonstration with Sarah Marshall at PSU Farmers Market on Saturday, October 10, 2026, 11 am – 12 pm.",
+      "title": "Chef in the Market with Sarah Marshall",
+      "venue": {
+        "address": "SW Park & Montgomery",
+        "city": "Portland",
+        "latitude": 45.5128932,
+        "longitude": -122.6853859,
+        "name": "PSU Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-10-10T12:30:00-07:00",
@@ -189554,5 +189587,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-30T02:23:32+00:00"
+  "generated_at": "2026-09-30T05:26:25+00:00"
 }
