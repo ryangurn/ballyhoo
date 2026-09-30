@@ -9060,6 +9060,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-01T21:00:00-07:00",
+      "id": "calagator:1250482734",
+      "is_all_day": false,
+      "listing_url": "https://pdxlinux.org/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-01T19:00:00-07:00",
+      "summary": "Summary:\r\n\r\nClinton will talk about how he setup a $25 Walmart TV box as a VPN gateway, to share IP-Locked streaming services with a friend or relative, using official apps from the Google Play store, and Developer mode ADB settings. It's fun to play with these boxes, to see what they can do besides stream TV. \r\n\r\nBio:\r\n\r\nClinton spent 40 years working in system administration and customer tech support, for Tektronix and Siemens, working with systems from ancient Vax VMS to modern day Linux etc. He is a VI editor user and doesn't know EMACS :) In the 90's he produced an award winning public access TV show (The Chess Show) still occasionally replayed on Portland Cable for the handful of remaining Cable TV subscribers. Now retired after almost 3 years, all that tech stuff is getting kind of fuzzy, and he mostly just tinkers with Linux and streaming his home video library (when not doing household chores and maintenance).",
+      "title": "Portland Linux/Unix Group General Monthly Meeting: Cheap and Easy VPN with Tailscale, with Clinton Wittstruck",
+      "venue": {
+        "address": "1900 Southwest 4th Avenue",
+        "city": "Portland",
+        "latitude": 45.5095,
+        "longitude": -122.6811,
+        "name": "Portland State University Fourth Avenue Building (FAB) Room FAB 86-01"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-02T02:00:00-07:00",
@@ -190217,5 +190245,5 @@
       }
     }
   ],
-  "generated_at": "2026-09-30T06:53:20+00:00"
+  "generated_at": "2026-09-30T08:25:35+00:00"
 }

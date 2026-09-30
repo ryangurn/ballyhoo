@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-30T06:53:20+00:00",
+  "generated_at": "2026-09-30T08:25:35+00:00",
   "sources": [
     {
-      "event_count": 27,
-      "last_run_at": "2026-09-30T02:01:45+00:00",
+      "event_count": 28,
+      "last_run_at": "2026-09-30T08:24:46+00:00",
       "source_id": "calagator",
       "status": "ok",
       "url": "sources/calagator.json"
@@ -54,7 +54,7 @@
       "event_count": 0,
       "last_run_at": "2026-09-30T02:22:56+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
