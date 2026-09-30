@@ -521,6 +521,14 @@
       "venue": "Funhouse Lounge"
     },
     {
+      "dropped": "willamette_week:20050697@2026-10-02T18:00",
+      "kept": "dopdx:17644657",
+      "start_at": "2026-10-02T18:00:00-07:00",
+      "title_dropped": "First Friday Art Walk - Binary Beer Tasting",
+      "title_kept": "First Friday Art Walk – Binary Beer Tasting",
+      "venue": "Patricia Reser Center for the Arts"
+    },
+    {
       "dropped": "willamette_week:19801682@2026-10-02T18:30",
       "kept": "dopdx:17749541",
       "start_at": "2026-10-02T18:30:00-07:00",
@@ -529,18 +537,18 @@
       "venue": "Can Can's Paris Theatre"
     },
     {
-      "dropped": "willamette_week:20033527@2026-10-02T19:00",
-      "kept": "dopdx:17875334",
-      "start_at": "2026-10-02T18:59:00-07:00",
-      "title_dropped": "H. P. Lovecraft Film Festival",
-      "title_kept": "H. P. Lovecraft Film Festival & CthulhuCon Full Fest Pass",
-      "venue": "Hollywood Theatre"
-    },
-    {
       "dropped": "willamette_week:20033544@2026-10-02T19:00",
       "kept": "dopdx:17875334",
       "start_at": "2026-10-02T18:59:00-07:00",
       "title_dropped": "US Premiere of ODDITIES starring Adrienne Barbeau + Short horror films",
+      "title_kept": "H. P. Lovecraft Film Festival & CthulhuCon Full Fest Pass",
+      "venue": "Hollywood Theatre"
+    },
+    {
+      "dropped": "willamette_week:20033527@2026-10-02T19:00",
+      "kept": "dopdx:17875334",
+      "start_at": "2026-10-02T18:59:00-07:00",
+      "title_dropped": "H. P. Lovecraft Film Festival",
       "title_kept": "H. P. Lovecraft Film Festival & CthulhuCon Full Fest Pass",
       "venue": "Hollywood Theatre"
     },
@@ -2757,14 +2765,6 @@
       "kept": "obt:823",
       "start_at": "2026-10-10T19:30:00-07:00",
       "title_dropped": "Swan Lake",
-      "title_kept": "Swan Lake",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "willamette_week:17827339@2026-10-10T19:30",
-      "kept": "obt:823",
-      "start_at": "2026-10-10T19:30:00-07:00",
-      "title_dropped": "DRACULA",
       "title_kept": "Swan Lake",
       "venue": "Keller Auditorium"
     },
@@ -7057,9 +7057,9 @@
       "venue": "Dante's"
     }
   ],
-  "event_count": 6361,
-  "floor_check": "6361 events against a 6364-event baseline",
-  "generated_at": "2026-09-30T06:40:48+00:00",
+  "event_count": 6396,
+  "floor_check": "6396 events against a 6364-event baseline",
+  "generated_at": "2026-09-30T06:48:56+00:00",
   "problems": [],
   "sources": [
     "calagator",
