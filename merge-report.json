@@ -3433,6 +3433,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:20063824@2026-10-15T19:00",
+      "kept": "dopdx:17379363",
+      "start_at": "2026-10-15T19:30:00-07:00",
+      "title_dropped": "George Colligan featuring Zyanna Album Release Concert",
+      "title_kept": "George Colligan feat. Zyanna w/ Noah Simpson",
+      "venue": "The Old Church Concert Hall"
+    },
+    {
       "dropped": "dopdx:17262327",
       "kept": "ticketmaster:Z7r9jZ1A70Ao0",
       "start_at": "2026-10-15T19:30:00-07:00",
@@ -7145,9 +7153,9 @@
       "venue": "Helium Comedy Club - Portland"
     }
   ],
-  "event_count": 6545,
-  "floor_check": "6545 events against a 6510-event baseline",
-  "generated_at": "2026-10-01T23:10:52+00:00",
+  "event_count": 6560,
+  "floor_check": "6560 events against a 6510-event baseline",
+  "generated_at": "2026-10-01T23:57:16+00:00",
   "problems": [],
   "sources": [
     "calagator",
