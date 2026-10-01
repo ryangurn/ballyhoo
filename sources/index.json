@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:09:34+00:00",
+  "generated_at": "2026-10-01T07:42:22+00:00",
   "sources": [
     {
       "event_count": 33,
@@ -12,7 +12,7 @@
       "event_count": 1737,
       "last_run_at": "2026-10-01T01:31:43+00:00",
       "source_id": "dopdx",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/dopdx.json"
     },
     {
@@ -26,7 +26,7 @@
       "event_count": 65,
       "last_run_at": "2026-10-01T01:36:23+00:00",
       "source_id": "obt",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/obt.json"
     },
     {
