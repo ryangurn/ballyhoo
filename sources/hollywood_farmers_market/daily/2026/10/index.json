@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/hollywood_farmers_market",
+  "month": "2026-10",
+  "snapshots": [
+    {
+      "bytes": 23959,
+      "captured_at": "2026-10-01T06:19:36+00:00",
+      "content_sha256": "889881d5d4b50091623c99da892db5eb2323d3fe4b28b1ff39b41f1ca13f1818",
+      "daily": "sources/hollywood_farmers_market/daily/2026/10/01.json.gz",
+      "event_count": 20,
+      "gzip_bytes": 2692,
+      "recent": "sources/hollywood_farmers_market/recent/2026-10-01/061936Z.json.gz",
+      "sha256": "eb7e0b0460023615fa98ac6ee95c9b7407e17aa0f2c80e2d22c4b1f0efea2088",
+      "unchanged": true
+    }
+  ]
+}
