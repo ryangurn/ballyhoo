@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/portland_parks",
+  "month": "2026-10",
+  "snapshots": [
+    {
+      "bytes": 117,
+      "captured_at": "2026-10-01T00:49:54+00:00",
+      "content_sha256": "eb30b16d9bfbbbb3ce90d20a398467a7afbe6d1b57323cf83a879b6ecfd0867d",
+      "daily": "sources/portland_parks/daily/2026/10/01.json.gz",
+      "event_count": 0,
+      "gzip_bytes": 120,
+      "recent": "sources/portland_parks/recent/2026-10-01/004954Z.json.gz",
+      "sha256": "dd5494234ec78bfc5c780303728afc08766fcca48bb0d8c64cdb549ac8b8d075",
+      "unchanged": true
+    }
+  ]
+}
