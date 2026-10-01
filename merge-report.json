@@ -225,6 +225,14 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
+      "dropped": "willamette_week:20062680@2026-10-01T18:30",
+      "kept": "dopdx:17654319",
+      "start_at": "2026-10-01T18:30:00-07:00",
+      "title_dropped": "Nankama",
+      "title_kept": "Nankama",
+      "venue": "Newmark Theatre"
+    },
+    {
       "dropped": "dopdx:17129828",
       "kept": "ticketmaster:vvG1HZ_61BSFz9",
       "start_at": "2026-10-01T19:45:00-07:00",
@@ -7129,9 +7137,9 @@
       "venue": "Helium Comedy Club - Portland"
     }
   ],
-  "event_count": 6516,
-  "floor_check": "6516 events against a 6500-event baseline",
-  "generated_at": "2026-10-01T18:53:09+00:00",
+  "event_count": 6524,
+  "floor_check": "6524 events against a 6500-event baseline",
+  "generated_at": "2026-10-01T19:37:08+00:00",
   "problems": [],
   "sources": [
     "calagator",
