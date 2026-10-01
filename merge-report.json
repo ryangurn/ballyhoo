@@ -7001,36 +7001,12 @@
       "venue": "Keller Auditorium"
     },
     {
-      "dropped": "willamette_week:19726898@2026-09-30T17:00",
-      "kept": "portland_farmers_market:the-tabor-tones-2@2026-09-30",
-      "start_at": "2026-09-30T17:00:00-07:00",
-      "title_dropped": "The Tabor Tones",
-      "title_kept": "The Tabor Tones",
-      "venue": "Kenton Farmers Market"
-    },
-    {
-      "dropped": "willamette_week:18521271@2026-09-30T15:00",
-      "kept": "portland_farmers_market:kenton-farmers-market-2026@2026-09-30",
-      "start_at": "2026-09-30T15:00:00-07:00",
-      "title_dropped": "Kenton Farmers Market",
-      "title_kept": "Kenton Farmers Market",
-      "venue": "Kenton Farmers Market"
-    },
-    {
       "dropped": "willamette_week:17670892@2026-10-04T09:00",
       "kept": "pdxparent_markets:hillsdale-farmers-market@2026-10-04",
       "start_at": "2026-10-04T09:00:00-07:00",
       "title_dropped": "Hillsdale Farmers' Market",
       "title_kept": "Hillsdale Farmers Market",
       "venue": "Hillsdale Farmers Market"
-    },
-    {
-      "dropped": "willamette_week:18521270@2026-09-30T10:00",
-      "kept": "portland_farmers_market:shemanski-park-farmers-market-2026@2026-09-30",
-      "start_at": "2026-09-30T10:00:00-07:00",
-      "title_dropped": "Shemanski Park Farmers Market",
-      "title_kept": "Shemanski Park Farmers Market",
-      "venue": "Shemanski Park Farmers Market"
     },
     {
       "dropped": "willamette_week:18893389@2026-10-03T23:30",
@@ -7065,17 +7041,105 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19570968@2026-10-31T15:00",
+      "kept": "ticketmaster:vvG1HZ_2mbBE1H",
+      "start_at": "2026-10-31T15:00:00-07:00",
+      "title_dropped": "Portland Winterhawks vs Penticton Vees",
+      "title_kept": "Portland Winterhawks vs Kelowna Rockets",
+      "venue": "Veterans Memorial Coliseum"
+    },
+    {
+      "dropped": "willamette_week:19700091@2026-10-31T19:30",
+      "kept": "ticketmaster:rZ7HnEZ1A4veAd",
+      "start_at": "2026-10-31T19:30:00-07:00",
+      "title_dropped": "KURT TRAVIS with Mella, Resilia, & Guest",
+      "title_kept": "KURT TRAVIS with Mella, Resilia, & Guest",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:18235584@2026-10-31T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A7JAvz",
+      "start_at": "2026-10-31T19:30:00-07:00",
+      "title_dropped": "Stravinsky & Beethoven",
+      "title_kept": "Oregon Symphony presents Stravinsky & Beethoven",
+      "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "willamette_week:19679529@2026-10-31T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A70tJ4",
+      "start_at": "2026-10-31T19:30:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Zac Townsend",
+      "title_kept": "Caitlin Peluffo",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "willamette_week:18896353@2026-10-31T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A70tJ4",
+      "start_at": "2026-10-31T19:30:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Caitlin Peluffo",
+      "title_kept": "Caitlin Peluffo",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "willamette_week:19863632@2026-10-31T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af1fF0",
+      "start_at": "2026-10-31T20:00:00-07:00",
+      "title_dropped": "HALLOW'S EVE PURO PARI! w/DRECKIG, Karma Rivera, and DJ's Omie and Velvet Ginger",
+      "title_kept": "HALLOW'S EVE PURO PARI! w/DRECKIG, Karma Rivera, and  DJ's Omie and Velvet Ginger",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19604539@2026-10-31T20:00",
+      "kept": "ticketmaster:Z7r9jZ1AAvFka",
+      "start_at": "2026-10-31T20:00:00-07:00",
+      "title_dropped": "The Brothers Comatose w/ Water Tower",
+      "title_kept": "The Brothers Comatose w/ Water Tower",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "willamette_week:20026235@2026-10-31T20:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfG40f",
+      "start_at": "2026-10-31T20:30:00-07:00",
+      "title_dropped": "BOSCO'S HAUS OF WHORRORS: Halloween Night Direct from TRANSylvania",
+      "title_kept": "BOSCO’S HAUS OF WHORRORS: Halloween Night  Direct from TRANSylvania",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:19736169@2026-10-31T21:00",
+      "kept": "ticketmaster:Z7r9jZ1AAvZ-Y",
+      "start_at": "2026-10-31T21:00:00-07:00",
+      "title_dropped": "Blade Rave",
+      "title_kept": "Blade Rave - Ages 21+",
+      "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "willamette_week:14445255@2026-10-31T22:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfZ-ff",
+      "start_at": "2026-10-31T22:30:00-07:00",
+      "title_dropped": "BURLY-Q REVUE",
+      "title_kept": "BURLY-Q REVUE",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "willamette_week:19801682@2026-10-30T18:30",
       "kept": "dopdx:17825980",
       "start_at": "2026-10-30T19:00:00-07:00",
       "title_dropped": "Can Can's Hitchcock Hotel",
       "title_kept": "Haunted Pub Tour",
       "venue": "Can Can's Paris Theatre"
+    },
+    {
+      "dropped": "willamette_week:18548784@2026-10-31T19:00",
+      "kept": "ticketmaster:Z7r9jZ1A70tJ4",
+      "start_at": "2026-10-31T19:30:00-07:00",
+      "title_dropped": "Special Event: Jason Salmon",
+      "title_kept": "Caitlin Peluffo",
+      "venue": "Helium Comedy Club - Portland"
     }
   ],
-  "event_count": 6490,
-  "floor_check": "6490 events against a 6468-event baseline",
-  "generated_at": "2026-10-01T05:47:36+00:00",
+  "event_count": 6501,
+  "floor_check": "6501 events against a 6468-event baseline",
+  "generated_at": "2026-10-01T06:04:48+00:00",
   "problems": [],
   "sources": [
     "calagator",
