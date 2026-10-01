@@ -172744,6 +172744,31 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:2026-11-04",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/2026-11-04",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-04T15:00:00-08:00",
+      "title": "Oregon Zoo Bond Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.50981,
+        "longitude": -122.71269,
+        "name": "Oregon Zoo"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_2mbH9Gu",
@@ -194102,5 +194127,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-01T19:37:08+00:00"
+  "generated_at": "2026-10-01T19:39:48+00:00"
 }
