@@ -401,6 +401,39 @@
         "music",
         "market"
       ],
+      "end_at": "2026-10-11T14:00:00-07:00",
+      "id": "portland_farmers_market:neighbors-in-the-market-lane-selman@2026-10-11",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2026/09/lane-selman-king-event-101126.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/neighbors-in-the-market-lane-selman/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-10-11T10:00:00-07:00",
+      "summary": "Join us Sunday, October 11, 2026 10 am – 2 pm for a recipe demo and book signing by Lane Selman.",
+      "title": "Recipe Demo &amp; Book Signing with Lane Selman",
+      "venue": {
+        "address": "NE Wygant St &, NE 7th Ave, Portland, OR 97211",
+        "city": "Portland",
+        "latitude": 45.5582344,
+        "longitude": -122.6590884,
+        "name": "King Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
       "end_at": "2026-10-11T15:00:00-07:00",
       "id": "portland_farmers_market:secret-world-ensemble@2026-10-11",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2025/06/wiley-coyote-071625.png",
@@ -1783,7 +1816,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-30T22:10:58+00:00",
+  "generated_at": "2026-10-01T05:43:31+00:00",
   "source_id": "portland_farmers_market",
   "status": "ok"
 }
