@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:04:48+00:00",
+  "generated_at": "2026-10-01T06:12:21+00:00",
   "sources": [
     {
       "event_count": 33,
@@ -30,10 +30,10 @@
       "url": "sources/obt.json"
     },
     {
-      "event_count": 148,
-      "last_run_at": "2026-09-30T23:59:05+00:00",
+      "event_count": 147,
+      "last_run_at": "2026-10-01T06:11:09+00:00",
       "source_id": "oregon_metro",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/oregon_metro.json"
     },
     {
