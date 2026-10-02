@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-02T13:14:22+00:00",
+  "generated_at": "2026-10-02T13:48:55+00:00",
   "sources": [
     {
-      "event_count": 31,
-      "last_run_at": "2026-10-02T06:57:24+00:00",
+      "event_count": 32,
+      "last_run_at": "2026-10-02T13:48:02+00:00",
       "source_id": "calagator",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/calagator.json"
     },
     {
       "event_count": 1749,
       "last_run_at": "2026-10-02T07:28:55+00:00",
       "source_id": "dopdx",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/dopdx.json"
     },
     {
