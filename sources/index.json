@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T15:46:34+00:00",
+  "generated_at": "2026-10-02T18:29:48+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -47,7 +47,7 @@
       "event_count": 52,
       "last_run_at": "2026-10-02T12:24:35+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
@@ -65,8 +65,8 @@
       "url": "sources/ticketmaster.json"
     },
     {
-      "event_count": 4236,
-      "last_run_at": "2026-10-02T12:44:06+00:00",
+      "event_count": 4233,
+      "last_run_at": "2026-10-02T18:28:32+00:00",
       "source_id": "willamette_week",
       "status": "ok",
       "url": "sources/willamette_week.json"
