@@ -617,6 +617,32 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-10-23T23:59:00-07:00",
+      "id": "calagator:1250482742",
+      "is_all_day": false,
+      "listing_url": "http://www.hermitcrab.band",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-23T20:00:00-07:00",
+      "summary": "Come out for a night of live, experimental music! Hermit Crab and Gladys are on tour from Eureka, CA. Local acts, Barb and Cobly and Feral Drollery, are opening up for them. This is a free, 21+ show.",
+      "title": "HERMIT CRAB / GLADYS / BARB AND COBLY / FERAL DROLLERY",
+      "venue": {
+        "address": "6517 Foster Rd",
+        "city": "Portland",
+        "name": "Starday Tavern"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-10-26T12:00:00-07:00",
       "id": "calagator:1250482673",
       "is_all_day": false,
@@ -817,7 +843,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-02T06:57:24+00:00",
+  "generated_at": "2026-10-02T13:48:02+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
