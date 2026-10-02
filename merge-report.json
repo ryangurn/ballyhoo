@@ -985,6 +985,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:17670892@2026-10-04T09:00",
+      "kept": "pdxparent_markets:hillsdale-farmers-market@2026-10-04",
+      "start_at": "2026-10-04T09:00:00-07:00",
+      "title_dropped": "Hillsdale Farmers' Market",
+      "title_kept": "Hillsdale Farmers Market",
+      "venue": "Hillsdale Farmers Market"
+    },
+    {
       "dropped": "willamette_week:19086677@2026-10-04T10:00",
       "kept": "dopdx:17448428",
       "start_at": "2026-10-04T10:00:00-07:00",
@@ -7033,14 +7041,6 @@
       "venue": "Keller Auditorium"
     },
     {
-      "dropped": "willamette_week:17670892@2026-10-04T09:00",
-      "kept": "pdxparent_markets:hillsdale-farmers-market@2026-10-04",
-      "start_at": "2026-10-04T09:00:00-07:00",
-      "title_dropped": "Hillsdale Farmers' Market",
-      "title_kept": "Hillsdale Farmers Market",
-      "venue": "Hillsdale Farmers Market"
-    },
-    {
       "dropped": "willamette_week:17670892@2026-11-01T09:00",
       "kept": "pdxparent_markets:hillsdale-farmers-market@2026-11-01",
       "start_at": "2026-11-01T09:00:00-08:00",
@@ -7161,9 +7161,9 @@
       "venue": "Can Can's Paris Theatre"
     }
   ],
-  "event_count": 6441,
-  "floor_check": "6441 events against a 6443-event baseline",
-  "generated_at": "2026-10-02T18:44:30+00:00",
+  "event_count": 6468,
+  "floor_check": "6468 events against a 6442-event baseline",
+  "generated_at": "2026-10-02T19:31:34+00:00",
   "problems": [],
   "sources": [
     "calagator",
