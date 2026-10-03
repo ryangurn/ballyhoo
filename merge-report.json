@@ -6305,6 +6305,14 @@
       "venue": "Helium Comedy Club - Portland"
     },
     {
+      "dropped": "dopdx:17339149",
+      "kept": "ticketmaster:rZ7HnEZ1Af034S",
+      "start_at": "2026-10-30T23:55:00-07:00",
+      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19225591@2026-10-30T23:55",
       "kept": "dopdx:17339149",
       "start_at": "2026-10-30T23:55:00-07:00",
@@ -6937,9 +6945,9 @@
       "venue": "Can Can's Paris Theatre"
     }
   ],
-  "event_count": 6364,
-  "floor_check": "6364 events against a 6433-event baseline",
-  "generated_at": "2026-10-03T11:54:18+00:00",
+  "event_count": 6363,
+  "floor_check": "6363 events against a 6399-event baseline",
+  "generated_at": "2026-10-03T12:30:53+00:00",
   "problems": [],
   "sources": [
     "calagator",
