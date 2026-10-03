@@ -4769,6 +4769,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:20067971@2026-10-23T19:30",
+      "kept": "dopdx:17747206",
+      "start_at": "2026-10-23T19:30:00-07:00",
+      "title_dropped": "NW Dance Project Presents: FALL FRONTIERS",
+      "title_kept": "Fall Frontiers",
+      "venue": "Newmark Theatre"
+    },
+    {
       "dropped": "dopdx:17387387",
       "kept": "ticketmaster:Z7r9jZ1AAZYkv",
       "start_at": "2026-10-23T19:30:00-07:00",
@@ -4999,6 +5007,14 @@
       "title_dropped": "Kahane, Still & Copland",
       "title_kept": "Kahane, Still & Copland",
       "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "willamette_week:20067971@2026-10-24T19:30",
+      "kept": "dopdx:17747209",
+      "start_at": "2026-10-24T19:30:00-07:00",
+      "title_dropped": "NW Dance Project Presents: FALL FRONTIERS",
+      "title_kept": "Fall Frontiers",
+      "venue": "Newmark Theatre"
     },
     {
       "dropped": "dopdx:16657672",
@@ -6921,9 +6937,9 @@
       "venue": "Can Can's Paris Theatre"
     }
   ],
-  "event_count": 6355,
-  "floor_check": "6355 events against a 6456-event baseline",
-  "generated_at": "2026-10-03T07:08:18+00:00",
+  "event_count": 6364,
+  "floor_check": "6364 events against a 6454-event baseline",
+  "generated_at": "2026-10-03T08:14:20+00:00",
   "problems": [],
   "sources": [
     "calagator",
