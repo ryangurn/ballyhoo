@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T14:27:15+00:00",
+  "generated_at": "2026-10-04T14:53:56+00:00",
   "sources": [
     {
       "event_count": 31,
@@ -12,7 +12,7 @@
       "event_count": 1653,
       "last_run_at": "2026-10-04T08:43:24+00:00",
       "source_id": "dopdx",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/dopdx.json"
     },
     {
@@ -30,8 +30,8 @@
       "url": "sources/obt.json"
     },
     {
-      "event_count": 141,
-      "last_run_at": "2026-10-04T08:33:47+00:00",
+      "event_count": 145,
+      "last_run_at": "2026-10-04T14:53:06+00:00",
       "source_id": "oregon_metro",
       "status": "ok",
       "url": "sources/oregon_metro.json"
@@ -54,7 +54,7 @@
       "event_count": 0,
       "last_run_at": "2026-10-04T08:46:38+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
