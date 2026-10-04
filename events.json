@@ -48263,6 +48263,37 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20073255@2026-10-11T16:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CJa7_laVy0yCWc5aPsUlxg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://resy.com/cities/portland-or/venues/takibi?date=2026-10-11&seats=2",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 95.0,
+        "min": 55.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-11T16:30:00-07:00",
+      "summary": "Join us at Takibi on Sunday, October 11 for a beautiful evening celebrating Japanese cuisine and Pacific Northwest ingredients. This is the last Veganizer collab dinner of the year! Some of you might remember Takibi from the Veganizer Asian Market in June, where they served yakisoba made with their snow-aged noodles from Niigata, Japan. We can't wait for you to experience the Takibi x Veganizer 3-course menu for $55 or the 5-course omakase for $95. These exquisite menus are developed in collaboration with chefs who are based in Japan. Pair Takibi's vegan Japanese cuisine with cocktails, sake, wine, and beer pairings. The omakase is only available with full table participation. Book your reservation today: https://resy.com/cities/portland-or/venues/takibi?date=2026-10-11&seats=2 About Takibi & Snow Peak Founded by Snow Peak, a Japanese outdoor lifestyle brand with more than 60 years of heritage, Takibi, meaning \"bonfire\" in Japanese, is rooted in the belief that gathering around a fire restores the human spirit. The hearth is the heart of the NW Portland restaurant, which specializes in modern fire-inspired Japanese cuisine. We invite you to reconnect over food inspired by the outdoors, crafted with intention, served with warmth, and designed to be shared. Below is the sample menu and omakase. Subject to change based on seasonal ingredients. Three Course Veganizer Menu $55 \\- One: avocado sashimi, dashi-marinated tomato, mini crispy potatoes with spicy miso & shishito pepper \\- Two: miso soup, grilled vegetables, rice \\- Three: matcha ice cream Five Course Vegan Omakase Menu $95 \\- The Beginning: avocado sashimi, dashi-marinated tomato, kinpira gobo, Ota tofu dengaku with miso glaze, crispy potatoes with spicy miso & shishito pepper, summer market salad, fried eggplant in vegan dashi \\- Cool & Crisp: miso soup, sweet corn tempura \\- From the Hearth: grilled summer vegetables with sansho miso \\- Heritage of Snow-Aging, Niigata's Tradition: ramen with snow-aged wheat noodles, vegan sushi \\- Sweet Dreams: anmitsu, matcha ice cream",
+      "ticket_url": "https://resy.com/cities/portland-or/venues/takibi?date=2026-10-11&seats=2",
+      "title": "Takibi x Veganizer: Japanese Omakase",
+      "venue": {
+        "address": "2275 NW Flanders St",
+        "city": "Portland",
+        "latitude": 45.525658,
+        "longitude": -122.698075,
+        "name": "Takibi"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-11T17:15:00-07:00",
@@ -182963,5 +182994,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-04T21:17:44+00:00"
+  "generated_at": "2026-10-04T21:34:48+00:00"
 }
