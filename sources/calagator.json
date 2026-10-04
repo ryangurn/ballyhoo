@@ -407,6 +407,33 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-10-15T21:00:00-07:00",
+      "id": "calagator:1250482743",
+      "is_all_day": false,
+      "listing_url": "https://bsd.pizza",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-15T19:00:00-07:00",
+      "summary": "A meeting of folks interested in BSD operating systems and related technologies to get together, eat pizza, drink beer, and talk about what interesting things have been going on.\r\n\r\nThis month's venue, Dove Vivi:\r\n- Is open until 9pm\r\n- Accepts only two credit cards per table, and\r\n- Adds a 20% gratuity to parties over 6 people\r\n\r\nPlease bring paper cash and plan accordingly.",
+      "title": "BSD Pizza Night",
+      "venue": {
+        "address": "2727 NE Glisan St",
+        "city": "Portland",
+        "latitude": 45.5267,
+        "name": "Dove Vivi"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-10-17T12:30:00-07:00",
       "id": "calagator:1250482303",
       "is_all_day": false,
@@ -819,7 +846,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-04T19:32:43+00:00",
+  "generated_at": "2026-10-04T23:01:21+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
