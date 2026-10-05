@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:09:17+00:00",
+  "generated_at": "2026-10-05T07:13:48+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -12,7 +12,7 @@
       "event_count": 1606,
       "last_run_at": "2026-10-05T01:12:02+00:00",
       "source_id": "dopdx",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/dopdx.json"
     },
     {
@@ -52,9 +52,9 @@
     },
     {
       "event_count": 145,
-      "last_run_at": "2026-10-05T01:04:17+00:00",
+      "last_run_at": "2026-10-05T07:13:01+00:00",
       "source_id": "oregon_metro",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/oregon_metro.json"
     },
     {
