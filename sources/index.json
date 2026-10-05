@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T07:43:29+00:00",
+  "generated_at": "2026-10-05T08:54:34+00:00",
   "sources": [
     {
-      "event_count": 32,
-      "last_run_at": "2026-10-05T01:53:01+00:00",
+      "event_count": 33,
+      "last_run_at": "2026-10-05T08:53:33+00:00",
       "source_id": "calagator",
       "status": "ok",
       "url": "sources/calagator.json"
@@ -75,7 +75,7 @@
       "event_count": 806,
       "last_run_at": "2026-10-05T01:57:59+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {

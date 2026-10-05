@@ -157221,6 +157221,31 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-05T17:30:00-08:00",
+      "id": "calagator:1250482744",
+      "is_all_day": false,
+      "listing_url": "https://evnt.ink/sim26/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-05T07:30:00-08:00",
+      "summary": "The Portland SIMposium is a premier event designed for IT leaders, taking place at the DoubleTree by Hilton Hotel in Portland, United States. This all-day event brings together CIOs, CISOs, and technology leaders from across the Pacific Northwest, offering a unique opportunity for collaboration, insight, and innovation. Attendees will engage in a series of mainstage panels, breakout sessions, and fireside conversations that delve into key themes reshaping technology leadership today. Topics of discussion will include AI-driven transformation, cybersecurity resilience, workforce evolution, and the human side of digital leadership.\r\n\r\nParticipants will hear from executives who are at the forefront of technology change across various industries, as well as thought leaders from Oregon's vibrant innovation ecosystem. The event also features the prestigious Oregon CIO & CISO of the Year Awards, highlighting exceptional leadership and impact within the region. With the chance to connect with over 150 regional technology and business leaders, attendees can expect to gain actionable insights that will enhance their strategic governance and leadership effectiveness. The Portland SIMposium promises a day filled with knowledge-sharing, networking opportunities, and community engagement.",
+      "title": "SIMposium 2026",
+      "venue": {
+        "city": "Portland",
+        "name": "DOUBLETREE BY HILTON PORTLAND"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metro-council-meeting-2026-11-05",
@@ -177821,5 +177846,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-05T07:43:29+00:00"
+  "generated_at": "2026-10-05T08:54:34+00:00"
 }
