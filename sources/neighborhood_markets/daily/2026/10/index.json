@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/neighborhood_markets",
+  "month": "2026-10",
+  "snapshots": [
+    {
+      "bytes": 88167,
+      "captured_at": "2026-10-05T06:21:10+00:00",
+      "content_sha256": "766ca2864b7a1153242117f2bc4279714618aa18d469387fdc6158c8878a7b18",
+      "daily": "sources/neighborhood_markets/daily/2026/10/05.json.gz",
+      "event_count": 101,
+      "gzip_bytes": 3272,
+      "recent": "sources/neighborhood_markets/recent/2026-10-05/062110Z.json.gz",
+      "sha256": "9ff3aa7fd41823441a8ec2b40efb7d95f7a0dea1a50de97c9f704288a1e340ca",
+      "unchanged": false
+    }
+  ]
+}
