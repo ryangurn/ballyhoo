@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/hillsboro_farmers_markets",
+  "month": "2026-10",
+  "snapshots": [
+    {
+      "bytes": 13159,
+      "captured_at": "2026-10-05T06:21:12+00:00",
+      "content_sha256": "2541719e023ef9c9030616d6e1d13dbdeaaa60dbd7eac984046346ab7083d897",
+      "daily": "sources/hillsboro_farmers_markets/daily/2026/10/05.json.gz",
+      "event_count": 11,
+      "gzip_bytes": 1478,
+      "recent": "sources/hillsboro_farmers_markets/recent/2026-10-05/062112Z.json.gz",
+      "sha256": "dd11e648a73cb07aa763c8970358d2abd14363872d1cc1974e5ffa449b6549eb",
+      "unchanged": false
+    }
+  ]
+}
