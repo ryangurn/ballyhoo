@@ -1705,6 +1705,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:17670892@2026-10-11T09:00",
+      "kept": "neighborhood_markets:hillsdale@2026-10-11",
+      "start_at": "2026-10-11T09:00:00-07:00",
+      "title_dropped": "Hillsdale Farmers' Market",
+      "title_kept": "Hillsdale Farmers Market",
+      "venue": "Hillsdale Farmers Market"
+    },
+    {
       "dropped": "willamette_week:18877584@2026-10-11T10:00",
       "kept": "dopdx:17768647",
       "start_at": "2026-10-11T10:00:00-07:00",
@@ -3105,6 +3113,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:17670892@2026-10-18T09:00",
+      "kept": "neighborhood_markets:hillsdale@2026-10-18",
+      "start_at": "2026-10-18T09:00:00-07:00",
+      "title_dropped": "Hillsdale Farmers' Market",
+      "title_kept": "Hillsdale Farmers Market",
+      "venue": "Hillsdale Farmers Market"
+    },
+    {
       "dropped": "dopdx:17266143",
       "kept": "ticketmaster:Z7r9jZ1AAvFAz",
       "start_at": "2026-10-18T11:00:00-07:00",
@@ -4463,6 +4479,14 @@
       "title_dropped": "StrongFirst Barbell 201 Workshop",
       "title_kept": "StrongFirst Barbell 201 Workshop",
       "venue": "Industrial Strength Gym: Fitness & Jiu Jitsu"
+    },
+    {
+      "dropped": "willamette_week:17670892@2026-10-25T09:00",
+      "kept": "neighborhood_markets:hillsdale@2026-10-25",
+      "start_at": "2026-10-25T09:00:00-07:00",
+      "title_dropped": "Hillsdale Farmers' Market",
+      "title_kept": "Hillsdale Farmers Market",
+      "venue": "Hillsdale Farmers Market"
     },
     {
       "dropped": "dopdx:17262332",
@@ -6065,6 +6089,22 @@
       "venue": "PSU Farmers Market"
     },
     {
+      "dropped": "willamette_week:17670892@2026-11-01T09:00",
+      "kept": "neighborhood_markets:hillsdale@2026-11-01",
+      "start_at": "2026-11-01T09:00:00-08:00",
+      "title_dropped": "Hillsdale Farmers' Market",
+      "title_kept": "Hillsdale Farmers Market",
+      "venue": "Hillsdale Farmers Market"
+    },
+    {
+      "dropped": "obt:866",
+      "kept": "ticketmaster:Z7r9jZ1AAvzF8",
+      "start_at": "2026-12-23T14:00:00-08:00",
+      "title_dropped": "George Balanchine's The Nutcracker",
+      "title_kept": "George Balanchine's The Nutcracker w/ Oregon Ballet Theatre Orchestra",
+      "venue": "Keller Auditorium"
+    },
+    {
       "dropped": "obt:830",
       "kept": "ticketmaster:Z7r9jZ1AAvzk3",
       "start_at": "2026-12-05T14:00:00-08:00",
@@ -6193,14 +6233,6 @@
       "venue": "Keller Auditorium"
     },
     {
-      "dropped": "obt:866",
-      "kept": "ticketmaster:Z7r9jZ1AAvzF8",
-      "start_at": "2026-12-23T14:00:00-08:00",
-      "title_dropped": "George Balanchine's The Nutcracker",
-      "title_kept": "George Balanchine's The Nutcracker w/ Oregon Ballet Theatre Orchestra",
-      "venue": "Keller Auditorium"
-    },
-    {
       "dropped": "obt:867",
       "kept": "ticketmaster:Z7r9jZ1AAvzFo",
       "start_at": "2026-12-23T19:30:00-08:00",
@@ -6313,19 +6345,23 @@
       "venue": "Can Can's Paris Theatre"
     }
   ],
-  "event_count": 5840,
-  "floor_check": "5840 events against a 6153-event baseline",
-  "generated_at": "2026-10-05T06:02:31+00:00",
+  "event_count": 5992,
+  "floor_check": "5992 events against a 6152-event baseline",
+  "generated_at": "2026-10-05T06:22:05+00:00",
   "problems": [],
   "sources": [
     "calagator",
     "dopdx",
+    "hillsboro_farmers_markets",
     "hollywood_farmers_market",
+    "neighborhood_markets",
     "obt",
+    "oregon_city_farmers_market",
     "oregon_metro",
     "portland_farmers_market",
     "portland_parks",
     "ticketmaster",
+    "vancouver_farmers_market",
     "willamette_week"
   ]
 }
