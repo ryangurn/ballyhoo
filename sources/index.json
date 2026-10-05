@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:13:48+00:00",
+  "generated_at": "2026-10-05T07:38:26+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -40,7 +40,7 @@
       "event_count": 65,
       "last_run_at": "2026-10-05T01:18:00+00:00",
       "source_id": "obt",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/obt.json"
     },
     {
@@ -68,7 +68,7 @@
       "event_count": 0,
       "last_run_at": "2026-10-05T01:16:57+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
