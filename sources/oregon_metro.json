@@ -525,6 +525,31 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:sustainability-tour-blue-lake-park-office-2026-10-16",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/sustainability-tour-blue-lake-park-office-2026-10-16",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-16T11:00:00-07:00",
+      "title": "Sustainability tour of Blue Lake park office",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.55596,
+        "longitude": -122.45242,
+        "name": "Blue Lake Regional Park"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "oregon_metro:public-hearing-updating-supportive-housing-services-administrative-rules-2026-10-16",
@@ -3250,7 +3275,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-05T16:12:34+00:00",
+  "generated_at": "2026-10-05T22:46:41+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
