@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T20:39:24+00:00",
+  "generated_at": "2026-10-05T22:43:35+00:00",
   "sources": [
     {
       "event_count": 33,
@@ -26,35 +26,35 @@
       "event_count": 18,
       "last_run_at": "2026-10-05T15:06:18+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
       "event_count": 96,
       "last_run_at": "2026-10-05T15:04:01+00:00",
       "source_id": "neighborhood_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/neighborhood_markets.json"
     },
     {
       "event_count": 65,
       "last_run_at": "2026-10-05T16:24:38+00:00",
       "source_id": "obt",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/obt.json"
     },
     {
       "event_count": 4,
       "last_run_at": "2026-10-05T15:28:32+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
       "event_count": 141,
       "last_run_at": "2026-10-05T16:12:34+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
@@ -68,7 +68,7 @@
       "event_count": 0,
       "last_run_at": "2026-10-05T16:23:14+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
@@ -86,8 +86,8 @@
       "url": "sources/vancouver_farmers_market.json"
     },
     {
-      "event_count": 3933,
-      "last_run_at": "2026-10-05T16:06:31+00:00",
+      "event_count": 4031,
+      "last_run_at": "2026-10-05T22:42:20+00:00",
       "source_id": "willamette_week",
       "status": "ok",
       "url": "sources/willamette_week.json"
