@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:54:34+00:00",
+  "generated_at": "2026-10-05T08:58:55+00:00",
   "sources": [
     {
       "event_count": 33,
@@ -72,10 +72,10 @@
       "url": "sources/portland_parks.json"
     },
     {
-      "event_count": 806,
-      "last_run_at": "2026-10-05T01:57:59+00:00",
+      "event_count": 798,
+      "last_run_at": "2026-10-05T08:58:10+00:00",
       "source_id": "ticketmaster",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/ticketmaster.json"
     },
     {
