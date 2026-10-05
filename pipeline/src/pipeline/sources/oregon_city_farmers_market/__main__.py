@@ -1,6 +1,6 @@
-"""PDX Parent farmers-market roundup entrypoint.
+"""Oregon City Farmers Market source entrypoint.
 
-    uv run python -m pipeline.sources.pdxparent_markets --output /tmp/pdxparent.json
+    uv run python -m pipeline.sources.oregon_city_farmers_market --output /tmp/ocfm.json
 """
 
 from __future__ import annotations
@@ -13,16 +13,17 @@ from pathlib import Path
 from ...common import log as logsetup
 from ...common.io import build_per_source_feed, dump_json
 from ...common.publishing import add_publish_arguments, publish_source_feed
+from ...common.tribe_events import TribeFetchError
 from ...common.validate import SchemaValidationError, validate_per_source
 from . import config
-from .fetch import PdxParentFetchError, fetch_raw
+from .fetch import fetch_raw
 from .normalize import normalize
 
-log = logsetup.get_logger("pipeline.sources.pdxparent_markets")
+log = logsetup.get_logger("pipeline.sources.oregon_city_farmers_market")
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(prog="pipeline.sources.pdxparent_markets")
+    parser = argparse.ArgumentParser(prog="pipeline.sources.oregon_city_farmers_market")
     parser.add_argument("--output", type=Path, help="Write the per-source feed here. Defaults to stdout.")
     add_publish_arguments(parser)
     args = parser.parse_args(argv)
@@ -32,7 +33,7 @@ def main(argv: list[str] | None = None) -> int:
 
     try:
         raw, _ = fetch_raw()
-    except PdxParentFetchError as exc:
+    except TribeFetchError as exc:
         log.error("fetch failed: %s", exc)
         return 1
 

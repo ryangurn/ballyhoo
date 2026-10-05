@@ -4,7 +4,7 @@ An iOS app for finding out what is happening in Portland, Oregon — concerts, m
 gallery openings, library talks, city meetings, ballet, volunteer days. Free, no
 accounts, no tracking, no ads.
 
-Ten sources are aggregated into one feed of around 5,700 upcoming events across roughly
+Thirteen sources are aggregated into one feed of around 5,700 upcoming events across roughly
 700 venues. The app reads that feed and nothing else.
 
 ## There is no server
@@ -44,16 +44,19 @@ openspec/            Spec-driven change workflow: proposals, specs, tasks
 
 Each has its own module, its own workflow, and its own quirks documented in
 `pipeline/README.md`. They fail independently — one source breaking leaves the other
-nine publishing.
+twelve publishing.
 
 | Source | What it covers | Cadence |
 |---|---|---|
 | Willamette Week | The alt-weekly's Get Busy calendar, via CitySpark | hourly |
 | DoPDX | Music, nightlife, art shows | hourly |
 | Ticketmaster | Ticketed concerts and touring shows | hourly |
-| PDX Parent | Neighborhood farmers markets | 6-hourly |
+| Neighborhood markets | 21 farmers markets with no calendar, each from its own site | 6-hourly |
 | Oregon Metro | Regional government meetings and events | hourly |
 | Portland Farmers Market | The market organization's own calendar | 6-hourly |
+| Vancouver Farmers Market | Downtown and East Vancouver markets, plus music | 6-hourly |
+| Hillsboro Farmers' Markets | Four Hillsboro markets on one calendar | 6-hourly |
+| Oregon City Farmers Market | Summer and winter markets | 6-hourly |
 | Hollywood Farmers Market | A single market's calendar | 6-hourly |
 | Portland Parks | Free city parks programming | hourly |
 | Calagator | Long-running Portland tech community calendar | hourly |

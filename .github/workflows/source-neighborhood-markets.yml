@@ -1,16 +1,18 @@
-name: source-pdxparent-markets
+name: source-neighborhood-markets
 
-# One request for one page. Everything else is expansion of recurrence rules parsed
-# out of that page, and a listicle is edited a few times a season, so four runs a day
-# is already far more often than the content changes.
+# One request per market website, about twenty in all, each on a different small
+# operator's host. Nothing here is a calendar: every market day is expanded from a
+# schedule encoded in markets.py, and the pages are read only to confirm the sentences
+# those schedules came from are still there. Four runs a day keeps the window rolling.
 #
-# Watch dropped_unparseable_schedule in the run log. It is 0 today; a jump means the
-# roundup has been reworded into a form the parser does not read, and those markets
-# are being withheld rather than guessed at.
+# Watch markets_statement_changed in the run log. Non-zero means a market's website no
+# longer says what its entry in markets.py was encoded from — usually next season's
+# dates going up — and that market is withheld until someone re-reads the page. The
+# warning line names the market and the page.
 
 on:
   schedule:
-    - cron: "55 */6 * * *"
+    - cron: "27 */6 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -22,7 +24,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: source-pdxparent-markets
+  group: source-neighborhood-markets
   cancel-in-progress: false
 
 jobs:
@@ -55,10 +57,10 @@ jobs:
         working-directory: pipeline
         run: |
           set -o pipefail
-          uv run python -m pipeline.sources.pdxparent_markets \
+          uv run python -m pipeline.sources.neighborhood_markets \
             --pages-dir "$GITHUB_WORKSPACE/.gh-pages" \
             --archive-dir "$GITHUB_WORKSPACE/.archive" \
-            --output "$GITHUB_WORKSPACE/dist/pdxparent-markets.json" \
+            --output "$GITHUB_WORKSPACE/dist/neighborhood-markets.json" \
             ${{ inputs.dry_run && '--dry-run' || '' }} \
             2>&1 | tee "$GITHUB_WORKSPACE/run.log"
 
@@ -66,7 +68,7 @@ jobs:
         if: always()
         run: |
           {
-            echo "## PDX Parent markets"
+            echo "## Neighborhood farmers markets"
             echo ""
             echo "Mode: ${{ inputs.dry_run && 'dry run' || 'publish' }}"
             echo ""
@@ -78,7 +80,7 @@ jobs:
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: pdxparent-markets-feed
+          name: neighborhood-markets-feed
           path: dist/
           if-no-files-found: ignore
           retention-days: 7

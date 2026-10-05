@@ -52,16 +52,20 @@ never committed. In CI the same values come from GitHub Actions secrets.
 |---|---|---|---|---|
 | Willamette Week | none | ~3,650 | 30 d | Get Busy, via CitySpark. Larger than every other source combined |
 | Ticketmaster | API key | ~705 | 365 d | Touring acts plus independent venues |
-| PDX Parent markets | none | ~450 | 120 d | 36 neighbourhood farmers markets; schedules parsed from prose |
 | DoPDX | none | ~185 | 30 d | Curated city guide; the richest metadata of any source |
 | Oregon Metro | none | ~125 | all | Council meetings, nature activities, regional parks |
 | Portland Farmers Market | none | ~110 | season | Five markets plus their live music; recurrence pre-expanded upstream |
+| Neighbourhood markets | none | ~100 | 120 d | 21 markets with no calendar; each schedule encoded from its own site's sentence |
+| Vancouver Farmers Market | none | ~40 | 365 d | Downtown and East Vancouver, plus music; same plugin as PFM |
 | Hollywood Farmers Market | none | ~32 | 120 d | One market; its own days expanded from a rule |
+| Hillsboro Farmers' Markets | none | ~11 | season | Four markets on one dated Squarespace page, cancellations included |
+| Oregon City Farmers Market | none | ~4 | season | Same plugin as PFM; the site's fixed UTC offset makes its UTC times wrong |
 | Portland Parks | none | ~30 | season | Summer Free For All — every event free |
 | Calagator | none | ~27 | 365 d | Portland's community **tech** calendar |
 | Oregon Ballet Theatre | none | ~19 | 18 mo | Tessitura TNEW; one event per performance, not per production |
 
-Volumes are measured, not estimated.
+Volumes are measured, not estimated. The market sources swing with the seasons; theirs
+were measured in early October 2026, as most summer markets were closing.
 
 Cross-source dedup earns its keep here: DoPDX and Ticketmaster list many of the same
 ticketed shows, since plenty of independent venues appear in both. Calagator and Oregon
@@ -82,6 +86,12 @@ Worth recording so the ground is not re-covered:
 | Multnomah County Library | JS-rendered; zero event data in the HTML |
 | Travel Portland | Real WordPress API, but Cloudflare blocks non-browser TLS fingerprints |
 | Hillsboro Parks | Hard 403 at their edge |
+| PDX Parent | Ran in the feed and was removed. See below |
+| USDA Local Food Directory | Farmers market API needs a key; the portal's own search endpoint 403s without one |
+| Downtown Forest Grove calendar | Cloudflare managed challenge. Adelante's own site states the same market |
+| Sherwood Saturday Market | Closed on festival weekends the site never dates, so a rule would publish closed days |
+| Pearl District Culinary Market | Its calendar holds 4 of its dates and the page's season had already lapsed. Revisit in 2027 |
+| The Farmers Market @ MHCC | Moved to Troutdale in 2026 as a permanent indoor shop, not a dated market |
 | Bandsintown / Songkick / SeatGeek | All require API keys |
 
 #### Eventbrite, and why it is not coming back
@@ -107,6 +117,22 @@ The content was also judged the wrong shape for this app. 62% of what it publish
 carried a stated price at a median of $60, and a visible share of that was professional
 training and certification courses booked into Portland by national resellers — against
 a feed whose point is the free, walkable, neighbourhood long tail.
+
+#### PDX Parent, and why it was removed
+
+It was the only inventory of the neighbourhood markets, reading one listicle that named
+every market in the metro with its schedule as a sentence. On
+29 September 2026 the whole site went behind a Cloudflare managed challenge
+(`cf-mitigated: challenge`, "Just a moment..."): every path, including `robots.txt`,
+the RSS feed and `/wp-json/`, and from a residential address with a browser user agent
+as well as from Actions. That is the operator saying no to automated readers, not a
+fingerprinting quirk to work around, so the source was retired rather than taught to
+solve challenges.
+
+Its markets now come from their operators directly: Vancouver, Oregon City and
+Hillsboro from real calendars, and the rest through the neighbourhood markets source
+below. Its last published file was deleted from `gh-pages` too, because the merge keeps
+serving any per-source file it finds and those dates were no longer being checked.
 
 ### Calagator
 
@@ -224,9 +250,13 @@ rather than a failure.
 
 ### Farmers markets, and recurrence
 
-Three sources cover farmers markets, and together they are the largest block of
-genuinely free, walkable, neighbourhood-scale events in the feed. They also forced the
-one piece of shared machinery added since the model was written.
+Six sources cover farmers markets, and together they are the largest block of
+genuinely free, walkable, neighbourhood-scale events in the feed. They also forced most
+of the shared machinery added since the model was written: `common/recurrence.py`
+below, and clients for the two platforms markets keep turning up on,
+`common/tribe_events.py` and `common/squarespace.py`. Portland Farmers Market and
+Hollywood predate those clients and keep their own copies, so adding a market source
+stays a change to no other source's code.
 
 **The problem.** `Event` has no recurrence and should not grow any — every event is one
 dated occurrence with a stable id, which dedup, staleness and client bookmarks all lean
@@ -309,47 +339,88 @@ that is evidence-based: their detail pages carry a schema.org `Event` with an em
 `location` and a null `offers`, and the collection mixes on-site days with off-site
 benefit nights at a bar. A guess either way is a wrong pin or a wrong price.
 
-### PDX Parent — the neighbourhood markets
+### Vancouver and Oregon City — The Events Calendar again
 
-One page listing every farmers market in the metro by day of week. It is the only
-inventory of Montavilla, Woodstock, Woodlawn, Cully, St Johns, Sellwood, Rocky Butte and
-People's that exists in machine-readable reach; without it none of them are in the feed.
+Both run the same WordPress plugin as Portland Farmers Market and are read through
+`common/tribe_events.py`, which carries the plugin's quirks once: empty *lists* for
+unset objects, HTML-escaped titles **and venue names** (`"(June &#8211; September)"`),
+`per_page` clamped to 50, and a past-the-end page that is a 400 on one site and a 404
+on another, so pagination stops on the response's own `total_pages`.
 
-The price of that reach is that every schedule is a sentence, so `schedule.py` parses
-prose and is built for precision — anything it cannot read with confidence yields
-nothing for that clause plus a recorded reason. Three rules, each of which was silently
-wrong first:
+The trap that only showed up with a second site is **which timestamp pair to trust**.
+Each record has offset-free local times and offset-free UTC times. On a site configured
+with a named zone (`America/Los_Angeles`, as Vancouver and PFM are) the UTC pair is right
+and is the unambiguous one across DST. Oregon City is configured with a fixed `UTC-8`,
+so WordPress derives its UTC pair from -8 all year and every summer market came back an
+hour late: 10am for a market that opens at 9. When the record's `timezone` is a fixed
+offset, the local pair — what the organizer typed — is read instead.
 
-- **A bare number after a month is a day only if it is not part of a year.**
-  "June-September 2026" was parsing as June through September *20th*, quietly
-  shortening six markets' seasons by ten days.
-- **Semicolons separate alternate schedules**, and a clause with no weekday inherits the
-  previous one — which is what lets Beaverton's winter and summer hours both survive.
-- **A vague phrase only voids a rule when it comes before the hours.** "Every other
-  Sunday" as the subject is unusable, but Hillsdale's "9 am-1 pm. Open select dates
-  twice monthly in winter" has a good primary rule an earlier version threw away.
+Vancouver puts the whole address in the venue *name* and geocodes nothing, so its
+`venues.json` maps each upstream venue string to a clean venue with coordinates. Market
+days are recognised by exact title and musicians by the `Market Music` category;
+anything else (Kids Bucks, a dance performance, the holiday market at the Hilton)
+publishes as a community listing. Musicians get no summary because their description
+is the booking form performers fill in. Price is free on the market grounds and unknown
+off them, and a record that states a `cost` is never marked free.
 
-Two things are refused rather than guessed. A follow-on clause naming a venue is the
-market *relocating* for the season — Woodlawn's winter market is "December-May at
-Classic Foods, 817 NE Madrona St" — and since the roundup gives one address per market
-those dates would carry the wrong pin, so they are dropped. And markets whose operator
-publishes a real calendar are skipped entirely, matched on the link the roundup itself
-provides, so the Portland Farmers Market and Hollywood entries defer to the
-authoritative sources with no hand-maintained list here.
+Oregon City's `robots.txt` asks for `Crawl-Delay: 10`, honoured between pages; a season
+fits on one, so in practice it is one request. Its excerpt is the page builder's footer
+(phone number, payment methods), so no summary is taken from it.
 
-Coordinates were geocoded once against Nominatim **and verified to be in the expected
-city**. That check is not ceremony: an unverified pass looked entirely successful and
-had put the Hillsboro Tuesday Marketplace on a Main Street in Portland, twenty-five
-miles from the market. 328 of 450 events carry a pin; the rest publish without one
-rather than with a plausible wrong one.
+### Hillsboro Farmers' Markets
 
-Ids are a slug of the market name plus the date. ASCII folding deletes a curly
-apostrophe but keeps a straight one, so "Camas Farmer's Market" slugged two different
-ways depending on which quote character was typed; apostrophes are stripped before
-slugging so both forms agree.
+Four markets — Downtown Saturday, Orenco Station, Reed's Crossing, Streets at
+Tanasbourne — all dated on one Squarespace `/events` page that the operator also uses
+for cancellations. The site is the market nonprofit's own, not the city parks site that
+403s. Read through `common/squarespace.py`, which carries the U+202F clock and multiday
+details from Hollywood.
 
-`dropped_unparseable_schedule` is 0 today. A jump means the roundup has been reworded
-into a form the parser does not read, and those markets are being withheld.
+Item titles are not market names (`"Orenco Station"`, `"Hillsboro Farmers Markets -
+Saturday Downtown"`, `"Harvest Festival - Streets at Tanasbourne"`), so each is matched
+to a market by a title fragment and published under that market's own name. Ids are
+market plus date rather than the item slug, because the operator builds a season by
+duplicating items and the slugs are chains of copy suffixes.
+
+A cancellation is its own item — `"**CANCELLED Aug 5th, 2026 **Reed's Crossing..."` —
+sometimes alongside the original rather than replacing it, so a closure naming a market
+suppresses that market's day, and one naming none (`"HFM Closed - Labor Day"`)
+suppresses every market that date. The items' own addresses are wrong for Orenco and
+Tanasbourne (both carry the office on NE 61st Ave), so each market's location comes
+from its own page.
+
+`dropped_unrecognised_title` should be 0; a non-zero value is most likely a fifth market.
+
+### Neighbourhood markets — one sentence per market
+
+Twenty-one markets with no calendar anywhere — no plugin route, no dated collection, no
+public Google Calendar. Each states its schedule as a sentence on its own site, and this
+source is the Hollywood approach applied to all of them at once: the schedule is
+**encoded** in `markets.py`, never parsed, alongside the verbatim sentences it came
+from, and every run re-reads those sentences from each market's own page. A market
+whose sentence is gone is withheld and logged with the page to re-read; the others are
+unaffected. A page that cannot be read costs only the markets that cite it.
+
+The comparison ignores case, whitespace, zero-width characters, and curly-versus-straight
+quotes and dashes, because those change when a site builder re-renders a page without
+anyone touching a word. Whitespace is removed rather than collapsed because Beaverton's
+Wix page splits "April" across two spans.
+
+Seasons in `WeeklyRule` are year-less, so a sentence like "May 16th through October 24th
+2026" would otherwise repeat into 2027 if the page were never updated. Every entry whose
+sentence names exact dates therefore carries `through`, its season's last day, and
+nothing after it publishes. Entries whose sentence names only months ("May through
+October") are the operator's standing schedule and carry none. Only what a sentence
+states is encoded: Montavilla's winter "every other Sunday" and Woodlawn's winter market
+at Classic Foods name no dates, so neither is published.
+
+Coordinates were geocoded once from each market's own stated address — Nominatim for
+street addresses, OpenStreetMap intersections via Overpass for the street corners —
+and each checked against an independent map pin. That check caught Cully, which the old
+PDX Parent table placed about 3 km south of where it now meets, at NE 42nd and Alberta.
+
+`markets_statement_changed` is the counter to watch. Most of these sentences name 2026,
+so expect it to fire each spring as markets post their next season; the fix is to copy
+the new sentence in and re-derive the rules.
 
 ### Willamette Week — Get Busy, via CitySpark
 
