@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/oregon_city_farmers_market",
+  "month": "2026-10",
+  "snapshots": [
+    {
+      "bytes": 4807,
+      "captured_at": "2026-10-05T06:21:09+00:00",
+      "content_sha256": "c8152cb12a6fde11c44800d2c0e64093705a5abd741e4a99d39f04266d9362d9",
+      "daily": "sources/oregon_city_farmers_market/daily/2026/10/05.json.gz",
+      "event_count": 4,
+      "gzip_bytes": 622,
+      "recent": "sources/oregon_city_farmers_market/recent/2026-10-05/062109Z.json.gz",
+      "sha256": "2407f39b5c8ae85892a6c688ebe6d8b2cb67c47fc02429388ee9de74701c5aa7",
+      "unchanged": false
+    }
+  ]
+}
