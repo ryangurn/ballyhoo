@@ -1,0 +1,3037 @@
+{
+  "events": [
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-04T13:00:00-07:00",
+      "id": "neighborhood_markets:hillsdale@2026-10-04",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-04T09:00:00-07:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-04T13:30:00-07:00",
+      "id": "neighborhood_markets:tigard@2026-10-04",
+      "is_all_day": false,
+      "listing_url": "https://www.tigardfarmersmarket.org/",
+      "organizer": "Tigard Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-04T09:00:00-07:00",
+      "title": "Tigard Farmers Market",
+      "venue": {
+        "address": "Universal Plaza, 9100 SW Burnham St, Tigard, OR 97223",
+        "city": "Tigard",
+        "latitude": 45.42864,
+        "longitude": -122.77134,
+        "name": "Tigard Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-04T14:00:00-07:00",
+      "id": "neighborhood_markets:milwaukie@2026-10-04",
+      "is_all_day": false,
+      "listing_url": "https://milwaukiefarmersmarket.com/",
+      "organizer": "Milwaukie Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-04T09:30:00-07:00",
+      "title": "Milwaukie Farmers Market",
+      "venue": {
+        "address": "SE Main St & SE Harrison St, Milwaukie, OR 97222",
+        "city": "Milwaukie",
+        "latitude": 45.44552,
+        "longitude": -122.64166,
+        "name": "Milwaukie Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-04T14:00:00-07:00",
+      "id": "neighborhood_markets:montavilla@2026-10-04",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-04T10:00:00-07:00",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St, Portland, OR 97215",
+        "city": "Portland",
+        "latitude": 45.51891,
+        "longitude": -122.58458,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-04T14:00:00-07:00",
+      "id": "neighborhood_markets:woodstock@2026-10-04",
+      "is_all_day": false,
+      "listing_url": "https://woodstockmarketpdx.com/",
+      "organizer": "Woodstock Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-04T10:00:00-07:00",
+      "title": "Woodstock Farmers Market",
+      "venue": {
+        "address": "4600 SE Woodstock Blvd, Portland, OR 97206",
+        "city": "Portland",
+        "latitude": 45.479,
+        "longitude": -122.61497,
+        "name": "Woodstock Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-05T19:00:00-07:00",
+      "id": "neighborhood_markets:come-thru@2026-10-05",
+      "is_all_day": false,
+      "listing_url": "https://www.comethrupdx.org/",
+      "organizer": "Come Thru Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-05T15:00:00-07:00",
+      "title": "Come Thru Market",
+      "venue": {
+        "address": "2766 NE Martin Luther King Jr Blvd, Portland, OR 97212",
+        "city": "Portland",
+        "latitude": 45.54279,
+        "longitude": -122.66115,
+        "name": "Come Thru Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-07T19:00:00-07:00",
+      "id": "neighborhood_markets:peoples@2026-10-07",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-07T14:00:00-07:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-07T20:00:00-07:00",
+      "id": "neighborhood_markets:forest-grove@2026-10-07",
+      "is_all_day": false,
+      "listing_url": "https://www.adelantefarmersmarket.org/",
+      "organizer": "Forest Grove Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-07T16:00:00-07:00",
+      "title": "Forest Grove Farmers Market",
+      "venue": {
+        "address": "Main St between 21st Ave and Pacific Ave, Forest Grove, OR 97116",
+        "city": "Forest Grove",
+        "latitude": 45.52,
+        "longitude": -123.11217,
+        "name": "Forest Grove Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-08T17:00:00-07:00",
+      "id": "neighborhood_markets:south-waterfront@2026-10-08",
+      "is_all_day": false,
+      "listing_url": "https://www.southwaterfront.com/farmers-market-about",
+      "organizer": "South Waterfront Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-08T12:00:00-07:00",
+      "title": "South Waterfront Farmers Market",
+      "venue": {
+        "address": "Elizabeth Caruthers Park, 3508 S Moody Ave, Portland, OR 97239",
+        "city": "Portland",
+        "latitude": 45.49714,
+        "longitude": -122.67136,
+        "name": "South Waterfront Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-09T19:00:00-07:00",
+      "id": "neighborhood_markets:mount-hood@2026-10-09",
+      "is_all_day": false,
+      "listing_url": "https://mounthoodfarmersmarket.org/",
+      "organizer": "Mount Hood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-09T14:00:00-07:00",
+      "title": "Mount Hood Farmers Market",
+      "venue": {
+        "address": "38600 Proctor Blvd, Sandy, OR 97055",
+        "city": "Sandy",
+        "latitude": 45.39704,
+        "longitude": -122.26609,
+        "name": "Mount Hood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-10T13:30:00-07:00",
+      "id": "neighborhood_markets:beaverton@2026-10-10",
+      "is_all_day": false,
+      "listing_url": "https://www.beavertonfarmersmarket.com/form-map",
+      "organizer": "Beaverton Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-10T08:30:00-07:00",
+      "title": "Beaverton Farmers Market",
+      "venue": {
+        "address": "12375 SW 5th St, Beaverton, OR 97005",
+        "city": "Beaverton",
+        "latitude": 45.48412,
+        "longitude": -122.80406,
+        "name": "Beaverton Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-10T14:00:00-07:00",
+      "id": "neighborhood_markets:gresham@2026-10-10",
+      "is_all_day": false,
+      "listing_url": "https://www.greshamfarmersmarket.com/",
+      "organizer": "Gresham Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-10T08:30:00-07:00",
+      "title": "Gresham Farmers Market",
+      "venue": {
+        "address": "Center for the Arts Plaza, NE 3rd St & NE Hood Ave, Gresham, OR 97030",
+        "city": "Gresham",
+        "latitude": 45.49964,
+        "longitude": -122.428,
+        "name": "Gresham Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-10T14:00:00-07:00",
+      "id": "neighborhood_markets:happy-valley@2026-10-10",
+      "is_all_day": false,
+      "listing_url": "https://www.sunnysidefarmersmarkets.com/",
+      "organizer": "Happy Valley Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-10T09:00:00-07:00",
+      "title": "Happy Valley Farmers Market",
+      "venue": {
+        "address": "13231 SE Sunnyside Rd, Happy Valley, OR 97015",
+        "city": "Happy Valley",
+        "latitude": 45.42737,
+        "longitude": -122.52603,
+        "name": "Happy Valley Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-10T13:00:00-07:00",
+      "id": "neighborhood_markets:rocky-butte@2026-10-10",
+      "is_all_day": false,
+      "listing_url": "https://www.rockybuttemarket.com/",
+      "organizer": "Rocky Butte Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-10T09:00:00-07:00",
+      "title": "Rocky Butte Farmers Market",
+      "venue": {
+        "address": "NE Siskiyou St & NE 80th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.54453,
+        "longitude": -122.58086,
+        "name": "Rocky Butte Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-10T14:00:00-07:00",
+      "id": "neighborhood_markets:st-johns@2026-10-10",
+      "is_all_day": false,
+      "listing_url": "https://www.stjohnsopportunity.org/market-info",
+      "organizer": "St. Johns Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-10T09:00:00-07:00",
+      "title": "St. Johns Farmers Market",
+      "venue": {
+        "address": "N Charleston Ave & N Central St, Portland, OR 97203",
+        "city": "Portland",
+        "latitude": 45.59129,
+        "longitude": -122.75067,
+        "name": "St. Johns Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-10T13:00:00-07:00",
+      "id": "neighborhood_markets:woodlawn@2026-10-10",
+      "is_all_day": false,
+      "listing_url": "https://www.woodlawnfarmersmarket.org/",
+      "organizer": "Woodlawn Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-10T09:00:00-07:00",
+      "title": "Woodlawn Farmers Market",
+      "venue": {
+        "address": "NE Dekum St & NE Durham Ave, Portland, OR 97211",
+        "city": "Portland",
+        "latitude": 45.57178,
+        "longitude": -122.65676,
+        "name": "Woodlawn Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-10T14:00:00-07:00",
+      "id": "neighborhood_markets:sellwood-moreland@2026-10-10",
+      "is_all_day": false,
+      "listing_url": "https://www.morelandfarmersmarket.org/time-place",
+      "organizer": "Sellwood Moreland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-10T10:00:00-07:00",
+      "title": "Sellwood Moreland Farmers Market",
+      "venue": {
+        "address": "SE Claybourne St between SE Milwaukie Ave and SE 17th Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.47558,
+        "longitude": -122.64795,
+        "name": "Sellwood Moreland Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-11T13:00:00-07:00",
+      "id": "neighborhood_markets:hillsdale@2026-10-11",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-11T09:00:00-07:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-11T13:30:00-07:00",
+      "id": "neighborhood_markets:tigard@2026-10-11",
+      "is_all_day": false,
+      "listing_url": "https://www.tigardfarmersmarket.org/",
+      "organizer": "Tigard Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-11T09:00:00-07:00",
+      "title": "Tigard Farmers Market",
+      "venue": {
+        "address": "Universal Plaza, 9100 SW Burnham St, Tigard, OR 97223",
+        "city": "Tigard",
+        "latitude": 45.42864,
+        "longitude": -122.77134,
+        "name": "Tigard Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-11T14:00:00-07:00",
+      "id": "neighborhood_markets:milwaukie@2026-10-11",
+      "is_all_day": false,
+      "listing_url": "https://milwaukiefarmersmarket.com/",
+      "organizer": "Milwaukie Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-11T09:30:00-07:00",
+      "title": "Milwaukie Farmers Market",
+      "venue": {
+        "address": "SE Main St & SE Harrison St, Milwaukie, OR 97222",
+        "city": "Milwaukie",
+        "latitude": 45.44552,
+        "longitude": -122.64166,
+        "name": "Milwaukie Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-11T14:00:00-07:00",
+      "id": "neighborhood_markets:montavilla@2026-10-11",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-11T10:00:00-07:00",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St, Portland, OR 97215",
+        "city": "Portland",
+        "latitude": 45.51891,
+        "longitude": -122.58458,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-11T14:00:00-07:00",
+      "id": "neighborhood_markets:woodstock@2026-10-11",
+      "is_all_day": false,
+      "listing_url": "https://woodstockmarketpdx.com/",
+      "organizer": "Woodstock Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-11T10:00:00-07:00",
+      "title": "Woodstock Farmers Market",
+      "venue": {
+        "address": "4600 SE Woodstock Blvd, Portland, OR 97206",
+        "city": "Portland",
+        "latitude": 45.479,
+        "longitude": -122.61497,
+        "name": "Woodstock Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-14T19:00:00-07:00",
+      "id": "neighborhood_markets:peoples@2026-10-14",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-14T14:00:00-07:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-14T20:00:00-07:00",
+      "id": "neighborhood_markets:forest-grove@2026-10-14",
+      "is_all_day": false,
+      "listing_url": "https://www.adelantefarmersmarket.org/",
+      "organizer": "Forest Grove Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-14T16:00:00-07:00",
+      "title": "Forest Grove Farmers Market",
+      "venue": {
+        "address": "Main St between 21st Ave and Pacific Ave, Forest Grove, OR 97116",
+        "city": "Forest Grove",
+        "latitude": 45.52,
+        "longitude": -123.11217,
+        "name": "Forest Grove Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-15T17:00:00-07:00",
+      "id": "neighborhood_markets:south-waterfront@2026-10-15",
+      "is_all_day": false,
+      "listing_url": "https://www.southwaterfront.com/farmers-market-about",
+      "organizer": "South Waterfront Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-15T12:00:00-07:00",
+      "title": "South Waterfront Farmers Market",
+      "venue": {
+        "address": "Elizabeth Caruthers Park, 3508 S Moody Ave, Portland, OR 97239",
+        "city": "Portland",
+        "latitude": 45.49714,
+        "longitude": -122.67136,
+        "name": "South Waterfront Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-16T19:00:00-07:00",
+      "id": "neighborhood_markets:mount-hood@2026-10-16",
+      "is_all_day": false,
+      "listing_url": "https://mounthoodfarmersmarket.org/",
+      "organizer": "Mount Hood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-16T14:00:00-07:00",
+      "title": "Mount Hood Farmers Market",
+      "venue": {
+        "address": "38600 Proctor Blvd, Sandy, OR 97055",
+        "city": "Sandy",
+        "latitude": 45.39704,
+        "longitude": -122.26609,
+        "name": "Mount Hood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-17T13:30:00-07:00",
+      "id": "neighborhood_markets:beaverton@2026-10-17",
+      "is_all_day": false,
+      "listing_url": "https://www.beavertonfarmersmarket.com/form-map",
+      "organizer": "Beaverton Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-17T08:30:00-07:00",
+      "title": "Beaverton Farmers Market",
+      "venue": {
+        "address": "12375 SW 5th St, Beaverton, OR 97005",
+        "city": "Beaverton",
+        "latitude": 45.48412,
+        "longitude": -122.80406,
+        "name": "Beaverton Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-17T14:00:00-07:00",
+      "id": "neighborhood_markets:gresham@2026-10-17",
+      "is_all_day": false,
+      "listing_url": "https://www.greshamfarmersmarket.com/",
+      "organizer": "Gresham Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-17T08:30:00-07:00",
+      "title": "Gresham Farmers Market",
+      "venue": {
+        "address": "Center for the Arts Plaza, NE 3rd St & NE Hood Ave, Gresham, OR 97030",
+        "city": "Gresham",
+        "latitude": 45.49964,
+        "longitude": -122.428,
+        "name": "Gresham Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-17T14:00:00-07:00",
+      "id": "neighborhood_markets:happy-valley@2026-10-17",
+      "is_all_day": false,
+      "listing_url": "https://www.sunnysidefarmersmarkets.com/",
+      "organizer": "Happy Valley Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-17T09:00:00-07:00",
+      "title": "Happy Valley Farmers Market",
+      "venue": {
+        "address": "13231 SE Sunnyside Rd, Happy Valley, OR 97015",
+        "city": "Happy Valley",
+        "latitude": 45.42737,
+        "longitude": -122.52603,
+        "name": "Happy Valley Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-17T13:00:00-07:00",
+      "id": "neighborhood_markets:rocky-butte@2026-10-17",
+      "is_all_day": false,
+      "listing_url": "https://www.rockybuttemarket.com/",
+      "organizer": "Rocky Butte Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-17T09:00:00-07:00",
+      "title": "Rocky Butte Farmers Market",
+      "venue": {
+        "address": "NE Siskiyou St & NE 80th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.54453,
+        "longitude": -122.58086,
+        "name": "Rocky Butte Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-17T14:00:00-07:00",
+      "id": "neighborhood_markets:st-johns@2026-10-17",
+      "is_all_day": false,
+      "listing_url": "https://www.stjohnsopportunity.org/market-info",
+      "organizer": "St. Johns Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-17T09:00:00-07:00",
+      "title": "St. Johns Farmers Market",
+      "venue": {
+        "address": "N Charleston Ave & N Central St, Portland, OR 97203",
+        "city": "Portland",
+        "latitude": 45.59129,
+        "longitude": -122.75067,
+        "name": "St. Johns Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-17T13:00:00-07:00",
+      "id": "neighborhood_markets:woodlawn@2026-10-17",
+      "is_all_day": false,
+      "listing_url": "https://www.woodlawnfarmersmarket.org/",
+      "organizer": "Woodlawn Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-17T09:00:00-07:00",
+      "title": "Woodlawn Farmers Market",
+      "venue": {
+        "address": "NE Dekum St & NE Durham Ave, Portland, OR 97211",
+        "city": "Portland",
+        "latitude": 45.57178,
+        "longitude": -122.65676,
+        "name": "Woodlawn Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-17T14:00:00-07:00",
+      "id": "neighborhood_markets:sellwood-moreland@2026-10-17",
+      "is_all_day": false,
+      "listing_url": "https://www.morelandfarmersmarket.org/time-place",
+      "organizer": "Sellwood Moreland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-17T10:00:00-07:00",
+      "title": "Sellwood Moreland Farmers Market",
+      "venue": {
+        "address": "SE Claybourne St between SE Milwaukie Ave and SE 17th Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.47558,
+        "longitude": -122.64795,
+        "name": "Sellwood Moreland Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-18T13:00:00-07:00",
+      "id": "neighborhood_markets:hillsdale@2026-10-18",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-18T09:00:00-07:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-18T13:30:00-07:00",
+      "id": "neighborhood_markets:tigard@2026-10-18",
+      "is_all_day": false,
+      "listing_url": "https://www.tigardfarmersmarket.org/",
+      "organizer": "Tigard Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-18T09:00:00-07:00",
+      "title": "Tigard Farmers Market",
+      "venue": {
+        "address": "Universal Plaza, 9100 SW Burnham St, Tigard, OR 97223",
+        "city": "Tigard",
+        "latitude": 45.42864,
+        "longitude": -122.77134,
+        "name": "Tigard Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-18T14:00:00-07:00",
+      "id": "neighborhood_markets:milwaukie@2026-10-18",
+      "is_all_day": false,
+      "listing_url": "https://milwaukiefarmersmarket.com/",
+      "organizer": "Milwaukie Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-18T09:30:00-07:00",
+      "title": "Milwaukie Farmers Market",
+      "venue": {
+        "address": "SE Main St & SE Harrison St, Milwaukie, OR 97222",
+        "city": "Milwaukie",
+        "latitude": 45.44552,
+        "longitude": -122.64166,
+        "name": "Milwaukie Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-18T14:00:00-07:00",
+      "id": "neighborhood_markets:montavilla@2026-10-18",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-18T10:00:00-07:00",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St, Portland, OR 97215",
+        "city": "Portland",
+        "latitude": 45.51891,
+        "longitude": -122.58458,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-18T14:00:00-07:00",
+      "id": "neighborhood_markets:woodstock@2026-10-18",
+      "is_all_day": false,
+      "listing_url": "https://woodstockmarketpdx.com/",
+      "organizer": "Woodstock Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-18T10:00:00-07:00",
+      "title": "Woodstock Farmers Market",
+      "venue": {
+        "address": "4600 SE Woodstock Blvd, Portland, OR 97206",
+        "city": "Portland",
+        "latitude": 45.479,
+        "longitude": -122.61497,
+        "name": "Woodstock Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-19T19:00:00-07:00",
+      "id": "neighborhood_markets:come-thru@2026-10-19",
+      "is_all_day": false,
+      "listing_url": "https://www.comethrupdx.org/",
+      "organizer": "Come Thru Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-19T15:00:00-07:00",
+      "title": "Come Thru Market",
+      "venue": {
+        "address": "2766 NE Martin Luther King Jr Blvd, Portland, OR 97212",
+        "city": "Portland",
+        "latitude": 45.54279,
+        "longitude": -122.66115,
+        "name": "Come Thru Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-21T19:00:00-07:00",
+      "id": "neighborhood_markets:peoples@2026-10-21",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-21T14:00:00-07:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-21T20:00:00-07:00",
+      "id": "neighborhood_markets:forest-grove@2026-10-21",
+      "is_all_day": false,
+      "listing_url": "https://www.adelantefarmersmarket.org/",
+      "organizer": "Forest Grove Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-21T16:00:00-07:00",
+      "title": "Forest Grove Farmers Market",
+      "venue": {
+        "address": "Main St between 21st Ave and Pacific Ave, Forest Grove, OR 97116",
+        "city": "Forest Grove",
+        "latitude": 45.52,
+        "longitude": -123.11217,
+        "name": "Forest Grove Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-22T17:00:00-07:00",
+      "id": "neighborhood_markets:south-waterfront@2026-10-22",
+      "is_all_day": false,
+      "listing_url": "https://www.southwaterfront.com/farmers-market-about",
+      "organizer": "South Waterfront Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-22T12:00:00-07:00",
+      "title": "South Waterfront Farmers Market",
+      "venue": {
+        "address": "Elizabeth Caruthers Park, 3508 S Moody Ave, Portland, OR 97239",
+        "city": "Portland",
+        "latitude": 45.49714,
+        "longitude": -122.67136,
+        "name": "South Waterfront Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-24T13:30:00-07:00",
+      "id": "neighborhood_markets:beaverton@2026-10-24",
+      "is_all_day": false,
+      "listing_url": "https://www.beavertonfarmersmarket.com/form-map",
+      "organizer": "Beaverton Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-24T08:30:00-07:00",
+      "title": "Beaverton Farmers Market",
+      "venue": {
+        "address": "12375 SW 5th St, Beaverton, OR 97005",
+        "city": "Beaverton",
+        "latitude": 45.48412,
+        "longitude": -122.80406,
+        "name": "Beaverton Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-24T14:00:00-07:00",
+      "id": "neighborhood_markets:gresham@2026-10-24",
+      "is_all_day": false,
+      "listing_url": "https://www.greshamfarmersmarket.com/",
+      "organizer": "Gresham Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-24T08:30:00-07:00",
+      "title": "Gresham Farmers Market",
+      "venue": {
+        "address": "Center for the Arts Plaza, NE 3rd St & NE Hood Ave, Gresham, OR 97030",
+        "city": "Gresham",
+        "latitude": 45.49964,
+        "longitude": -122.428,
+        "name": "Gresham Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-24T14:00:00-07:00",
+      "id": "neighborhood_markets:happy-valley@2026-10-24",
+      "is_all_day": false,
+      "listing_url": "https://www.sunnysidefarmersmarkets.com/",
+      "organizer": "Happy Valley Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-24T09:00:00-07:00",
+      "title": "Happy Valley Farmers Market",
+      "venue": {
+        "address": "13231 SE Sunnyside Rd, Happy Valley, OR 97015",
+        "city": "Happy Valley",
+        "latitude": 45.42737,
+        "longitude": -122.52603,
+        "name": "Happy Valley Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-24T13:00:00-07:00",
+      "id": "neighborhood_markets:rocky-butte@2026-10-24",
+      "is_all_day": false,
+      "listing_url": "https://www.rockybuttemarket.com/",
+      "organizer": "Rocky Butte Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-24T09:00:00-07:00",
+      "title": "Rocky Butte Farmers Market",
+      "venue": {
+        "address": "NE Siskiyou St & NE 80th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.54453,
+        "longitude": -122.58086,
+        "name": "Rocky Butte Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-24T14:00:00-07:00",
+      "id": "neighborhood_markets:st-johns@2026-10-24",
+      "is_all_day": false,
+      "listing_url": "https://www.stjohnsopportunity.org/market-info",
+      "organizer": "St. Johns Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-24T09:00:00-07:00",
+      "title": "St. Johns Farmers Market",
+      "venue": {
+        "address": "N Charleston Ave & N Central St, Portland, OR 97203",
+        "city": "Portland",
+        "latitude": 45.59129,
+        "longitude": -122.75067,
+        "name": "St. Johns Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-24T13:00:00-07:00",
+      "id": "neighborhood_markets:woodlawn@2026-10-24",
+      "is_all_day": false,
+      "listing_url": "https://www.woodlawnfarmersmarket.org/",
+      "organizer": "Woodlawn Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-24T09:00:00-07:00",
+      "title": "Woodlawn Farmers Market",
+      "venue": {
+        "address": "NE Dekum St & NE Durham Ave, Portland, OR 97211",
+        "city": "Portland",
+        "latitude": 45.57178,
+        "longitude": -122.65676,
+        "name": "Woodlawn Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-24T14:00:00-07:00",
+      "id": "neighborhood_markets:sellwood-moreland@2026-10-24",
+      "is_all_day": false,
+      "listing_url": "https://www.morelandfarmersmarket.org/time-place",
+      "organizer": "Sellwood Moreland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-24T10:00:00-07:00",
+      "title": "Sellwood Moreland Farmers Market",
+      "venue": {
+        "address": "SE Claybourne St between SE Milwaukie Ave and SE 17th Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.47558,
+        "longitude": -122.64795,
+        "name": "Sellwood Moreland Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-25T13:00:00-07:00",
+      "id": "neighborhood_markets:hillsdale@2026-10-25",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-25T09:00:00-07:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-25T13:30:00-07:00",
+      "id": "neighborhood_markets:tigard@2026-10-25",
+      "is_all_day": false,
+      "listing_url": "https://www.tigardfarmersmarket.org/",
+      "organizer": "Tigard Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-25T09:00:00-07:00",
+      "title": "Tigard Farmers Market",
+      "venue": {
+        "address": "Universal Plaza, 9100 SW Burnham St, Tigard, OR 97223",
+        "city": "Tigard",
+        "latitude": 45.42864,
+        "longitude": -122.77134,
+        "name": "Tigard Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-25T14:00:00-07:00",
+      "id": "neighborhood_markets:milwaukie@2026-10-25",
+      "is_all_day": false,
+      "listing_url": "https://milwaukiefarmersmarket.com/",
+      "organizer": "Milwaukie Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-25T09:30:00-07:00",
+      "title": "Milwaukie Farmers Market",
+      "venue": {
+        "address": "SE Main St & SE Harrison St, Milwaukie, OR 97222",
+        "city": "Milwaukie",
+        "latitude": 45.44552,
+        "longitude": -122.64166,
+        "name": "Milwaukie Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-25T14:00:00-07:00",
+      "id": "neighborhood_markets:montavilla@2026-10-25",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-25T10:00:00-07:00",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St, Portland, OR 97215",
+        "city": "Portland",
+        "latitude": 45.51891,
+        "longitude": -122.58458,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-25T14:00:00-07:00",
+      "id": "neighborhood_markets:woodstock@2026-10-25",
+      "is_all_day": false,
+      "listing_url": "https://woodstockmarketpdx.com/",
+      "organizer": "Woodstock Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-25T10:00:00-07:00",
+      "title": "Woodstock Farmers Market",
+      "venue": {
+        "address": "4600 SE Woodstock Blvd, Portland, OR 97206",
+        "city": "Portland",
+        "latitude": 45.479,
+        "longitude": -122.61497,
+        "name": "Woodstock Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-28T19:00:00-07:00",
+      "id": "neighborhood_markets:peoples@2026-10-28",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-28T14:00:00-07:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-28T20:00:00-07:00",
+      "id": "neighborhood_markets:forest-grove@2026-10-28",
+      "is_all_day": false,
+      "listing_url": "https://www.adelantefarmersmarket.org/",
+      "organizer": "Forest Grove Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-28T16:00:00-07:00",
+      "title": "Forest Grove Farmers Market",
+      "venue": {
+        "address": "Main St between 21st Ave and Pacific Ave, Forest Grove, OR 97116",
+        "city": "Forest Grove",
+        "latitude": 45.52,
+        "longitude": -123.11217,
+        "name": "Forest Grove Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-29T17:00:00-07:00",
+      "id": "neighborhood_markets:south-waterfront@2026-10-29",
+      "is_all_day": false,
+      "listing_url": "https://www.southwaterfront.com/farmers-market-about",
+      "organizer": "South Waterfront Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-29T12:00:00-07:00",
+      "title": "South Waterfront Farmers Market",
+      "venue": {
+        "address": "Elizabeth Caruthers Park, 3508 S Moody Ave, Portland, OR 97239",
+        "city": "Portland",
+        "latitude": 45.49714,
+        "longitude": -122.67136,
+        "name": "South Waterfront Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-31T13:30:00-07:00",
+      "id": "neighborhood_markets:beaverton@2026-10-31",
+      "is_all_day": false,
+      "listing_url": "https://www.beavertonfarmersmarket.com/form-map",
+      "organizer": "Beaverton Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-31T08:30:00-07:00",
+      "title": "Beaverton Farmers Market",
+      "venue": {
+        "address": "12375 SW 5th St, Beaverton, OR 97005",
+        "city": "Beaverton",
+        "latitude": 45.48412,
+        "longitude": -122.80406,
+        "name": "Beaverton Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-31T14:00:00-07:00",
+      "id": "neighborhood_markets:gresham@2026-10-31",
+      "is_all_day": false,
+      "listing_url": "https://www.greshamfarmersmarket.com/",
+      "organizer": "Gresham Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-31T08:30:00-07:00",
+      "title": "Gresham Farmers Market",
+      "venue": {
+        "address": "Center for the Arts Plaza, NE 3rd St & NE Hood Ave, Gresham, OR 97030",
+        "city": "Gresham",
+        "latitude": 45.49964,
+        "longitude": -122.428,
+        "name": "Gresham Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-31T14:00:00-07:00",
+      "id": "neighborhood_markets:happy-valley@2026-10-31",
+      "is_all_day": false,
+      "listing_url": "https://www.sunnysidefarmersmarkets.com/",
+      "organizer": "Happy Valley Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-31T09:00:00-07:00",
+      "title": "Happy Valley Farmers Market",
+      "venue": {
+        "address": "13231 SE Sunnyside Rd, Happy Valley, OR 97015",
+        "city": "Happy Valley",
+        "latitude": 45.42737,
+        "longitude": -122.52603,
+        "name": "Happy Valley Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-31T13:00:00-07:00",
+      "id": "neighborhood_markets:rocky-butte@2026-10-31",
+      "is_all_day": false,
+      "listing_url": "https://www.rockybuttemarket.com/",
+      "organizer": "Rocky Butte Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-31T09:00:00-07:00",
+      "title": "Rocky Butte Farmers Market",
+      "venue": {
+        "address": "NE Siskiyou St & NE 80th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.54453,
+        "longitude": -122.58086,
+        "name": "Rocky Butte Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-31T14:00:00-07:00",
+      "id": "neighborhood_markets:st-johns@2026-10-31",
+      "is_all_day": false,
+      "listing_url": "https://www.stjohnsopportunity.org/market-info",
+      "organizer": "St. Johns Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-31T09:00:00-07:00",
+      "title": "St. Johns Farmers Market",
+      "venue": {
+        "address": "N Charleston Ave & N Central St, Portland, OR 97203",
+        "city": "Portland",
+        "latitude": 45.59129,
+        "longitude": -122.75067,
+        "name": "St. Johns Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-01T13:00:00-08:00",
+      "id": "neighborhood_markets:hillsdale@2026-11-01",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-01T09:00:00-08:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-01T14:00:00-08:00",
+      "id": "neighborhood_markets:montavilla@2026-11-01",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-01T10:00:00-08:00",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St, Portland, OR 97215",
+        "city": "Portland",
+        "latitude": 45.51891,
+        "longitude": -122.58458,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-04T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2026-11-04",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-04T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-07T13:30:00-08:00",
+      "id": "neighborhood_markets:beaverton@2026-11-07",
+      "is_all_day": false,
+      "listing_url": "https://www.beavertonfarmersmarket.com/form-map",
+      "organizer": "Beaverton Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-07T08:30:00-08:00",
+      "title": "Beaverton Farmers Market",
+      "venue": {
+        "address": "12375 SW 5th St, Beaverton, OR 97005",
+        "city": "Beaverton",
+        "latitude": 45.48412,
+        "longitude": -122.80406,
+        "name": "Beaverton Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-07T14:00:00-08:00",
+      "id": "neighborhood_markets:st-johns@2026-11-07",
+      "is_all_day": false,
+      "listing_url": "https://www.stjohnsopportunity.org/market-info",
+      "organizer": "St. Johns Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-07T09:00:00-08:00",
+      "title": "St. Johns Farmers Market",
+      "venue": {
+        "address": "N Charleston Ave & N Central St, Portland, OR 97203",
+        "city": "Portland",
+        "latitude": 45.59129,
+        "longitude": -122.75067,
+        "name": "St. Johns Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-08T13:00:00-08:00",
+      "id": "neighborhood_markets:hillsdale@2026-11-08",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-08T09:00:00-08:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-08T14:00:00-08:00",
+      "id": "neighborhood_markets:montavilla@2026-11-08",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-08T10:00:00-08:00",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St, Portland, OR 97215",
+        "city": "Portland",
+        "latitude": 45.51891,
+        "longitude": -122.58458,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-11T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2026-11-11",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-11T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-14T13:30:00-08:00",
+      "id": "neighborhood_markets:beaverton@2026-11-14",
+      "is_all_day": false,
+      "listing_url": "https://www.beavertonfarmersmarket.com/form-map",
+      "organizer": "Beaverton Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-14T08:30:00-08:00",
+      "title": "Beaverton Farmers Market",
+      "venue": {
+        "address": "12375 SW 5th St, Beaverton, OR 97005",
+        "city": "Beaverton",
+        "latitude": 45.48412,
+        "longitude": -122.80406,
+        "name": "Beaverton Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-14T14:00:00-08:00",
+      "id": "neighborhood_markets:st-johns@2026-11-14",
+      "is_all_day": false,
+      "listing_url": "https://www.stjohnsopportunity.org/market-info",
+      "organizer": "St. Johns Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-14T09:00:00-08:00",
+      "title": "St. Johns Farmers Market",
+      "venue": {
+        "address": "N Charleston Ave & N Central St, Portland, OR 97203",
+        "city": "Portland",
+        "latitude": 45.59129,
+        "longitude": -122.75067,
+        "name": "St. Johns Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-15T13:00:00-08:00",
+      "id": "neighborhood_markets:hillsdale@2026-11-15",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-15T09:00:00-08:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-15T14:00:00-08:00",
+      "id": "neighborhood_markets:montavilla@2026-11-15",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-15T10:00:00-08:00",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St, Portland, OR 97215",
+        "city": "Portland",
+        "latitude": 45.51891,
+        "longitude": -122.58458,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-18T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2026-11-18",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-18T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-21T13:30:00-08:00",
+      "id": "neighborhood_markets:beaverton@2026-11-21",
+      "is_all_day": false,
+      "listing_url": "https://www.beavertonfarmersmarket.com/form-map",
+      "organizer": "Beaverton Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-21T08:30:00-08:00",
+      "title": "Beaverton Farmers Market",
+      "venue": {
+        "address": "12375 SW 5th St, Beaverton, OR 97005",
+        "city": "Beaverton",
+        "latitude": 45.48412,
+        "longitude": -122.80406,
+        "name": "Beaverton Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-21T14:00:00-08:00",
+      "id": "neighborhood_markets:happy-valley@2026-11-21",
+      "is_all_day": false,
+      "listing_url": "https://www.sunnysidefarmersmarkets.com/",
+      "organizer": "Happy Valley Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-21T09:00:00-08:00",
+      "title": "Happy Valley Harvest Market",
+      "venue": {
+        "address": "13231 SE Sunnyside Rd, Happy Valley, OR 97015",
+        "city": "Happy Valley",
+        "latitude": 45.42737,
+        "longitude": -122.52603,
+        "name": "Happy Valley Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-21T14:00:00-08:00",
+      "id": "neighborhood_markets:st-johns@2026-11-21",
+      "is_all_day": false,
+      "listing_url": "https://www.stjohnsopportunity.org/market-info",
+      "organizer": "St. Johns Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-21T09:00:00-08:00",
+      "title": "St. Johns Farmers Market",
+      "venue": {
+        "address": "N Charleston Ave & N Central St, Portland, OR 97203",
+        "city": "Portland",
+        "latitude": 45.59129,
+        "longitude": -122.75067,
+        "name": "St. Johns Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-22T13:00:00-08:00",
+      "id": "neighborhood_markets:hillsdale@2026-11-22",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-22T09:00:00-08:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-22T14:00:00-08:00",
+      "id": "neighborhood_markets:montavilla@2026-11-22",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-22T10:00:00-08:00",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St, Portland, OR 97215",
+        "city": "Portland",
+        "latitude": 45.51891,
+        "longitude": -122.58458,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-25T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2026-11-25",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-25T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-11-29T14:00:00-08:00",
+      "id": "neighborhood_markets:montavilla@2026-11-29",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-11-29T10:00:00-08:00",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St, Portland, OR 97215",
+        "city": "Portland",
+        "latitude": 45.51891,
+        "longitude": -122.58458,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-02T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2026-12-02",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-12-02T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-06T13:00:00-08:00",
+      "id": "neighborhood_markets:hillsdale@2026-12-06",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-12-06T09:00:00-08:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-06T14:00:00-08:00",
+      "id": "neighborhood_markets:montavilla@2026-12-06",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-12-06T10:00:00-08:00",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St, Portland, OR 97215",
+        "city": "Portland",
+        "latitude": 45.51891,
+        "longitude": -122.58458,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-09T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2026-12-09",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-12-09T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-12T14:00:00-08:00",
+      "id": "neighborhood_markets:st-johns@2026-12-12",
+      "is_all_day": false,
+      "listing_url": "https://www.stjohnsopportunity.org/market-info",
+      "organizer": "St. Johns Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-12-12T10:00:00-08:00",
+      "title": "St. Johns Holiday Market",
+      "venue": {
+        "address": "N Charleston Ave & N Central St, Portland, OR 97203",
+        "city": "Portland",
+        "latitude": 45.59129,
+        "longitude": -122.75067,
+        "name": "St. Johns Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-13T14:00:00-08:00",
+      "id": "neighborhood_markets:montavilla@2026-12-13",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-12-13T10:00:00-08:00",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St, Portland, OR 97215",
+        "city": "Portland",
+        "latitude": 45.51891,
+        "longitude": -122.58458,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-16T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2026-12-16",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-12-16T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-20T13:00:00-08:00",
+      "id": "neighborhood_markets:hillsdale@2026-12-20",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-12-20T09:00:00-08:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-20T14:00:00-08:00",
+      "id": "neighborhood_markets:montavilla@2026-12-20",
+      "is_all_day": false,
+      "listing_url": "https://www.montavillamarket.org/",
+      "organizer": "Montavilla Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-12-20T10:00:00-08:00",
+      "title": "Montavilla Farmers Market",
+      "venue": {
+        "address": "7700 SE Stark St, Portland, OR 97215",
+        "city": "Portland",
+        "latitude": 45.51891,
+        "longitude": -122.58458,
+        "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-23T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2026-12-23",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-12-23T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-12-30T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2026-12-30",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-12-30T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2027-01-06T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2027-01-06",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2027-01-06T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2027-01-09T14:00:00-08:00",
+      "id": "neighborhood_markets:happy-valley@2027-01-09",
+      "is_all_day": false,
+      "listing_url": "https://www.sunnysidefarmersmarkets.com/",
+      "organizer": "Happy Valley Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2027-01-09T10:00:00-08:00",
+      "title": "Happy Valley Winter Farmers Market",
+      "venue": {
+        "address": "13231 SE Sunnyside Rd, Happy Valley, OR 97015",
+        "city": "Happy Valley",
+        "latitude": 45.42737,
+        "longitude": -122.52603,
+        "name": "Happy Valley Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2027-01-10T13:00:00-08:00",
+      "id": "neighborhood_markets:hillsdale@2027-01-10",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2027-01-10T09:00:00-08:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2027-01-13T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2027-01-13",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2027-01-13T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2027-01-20T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2027-01-20",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2027-01-20T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2027-01-23T14:00:00-08:00",
+      "id": "neighborhood_markets:happy-valley@2027-01-23",
+      "is_all_day": false,
+      "listing_url": "https://www.sunnysidefarmersmarkets.com/",
+      "organizer": "Happy Valley Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2027-01-23T10:00:00-08:00",
+      "title": "Happy Valley Winter Farmers Market",
+      "venue": {
+        "address": "13231 SE Sunnyside Rd, Happy Valley, OR 97015",
+        "city": "Happy Valley",
+        "latitude": 45.42737,
+        "longitude": -122.52603,
+        "name": "Happy Valley Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2027-01-24T13:00:00-08:00",
+      "id": "neighborhood_markets:hillsdale@2027-01-24",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2027-01-24T09:00:00-08:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2027-01-27T19:00:00-08:00",
+      "id": "neighborhood_markets:peoples@2027-01-27",
+      "is_all_day": false,
+      "listing_url": "https://www.peoples.coop/farmers-market",
+      "organizer": "People's Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2027-01-27T14:00:00-08:00",
+      "title": "People's Farmers Market",
+      "venue": {
+        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
+        "city": "Portland",
+        "latitude": 45.5008,
+        "longitude": -122.64489,
+        "name": "People's Farmers Market"
+      }
+    }
+  ],
+  "generated_at": "2026-10-05T06:21:10+00:00",
+  "source_id": "neighborhood_markets",
+  "status": "ok"
+}
