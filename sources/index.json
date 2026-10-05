@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:07:43+00:00",
+  "generated_at": "2026-10-05T16:14:09+00:00",
   "sources": [
     {
       "event_count": 33,
@@ -51,10 +51,10 @@
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
-      "event_count": 145,
-      "last_run_at": "2026-10-05T07:13:01+00:00",
+      "event_count": 141,
+      "last_run_at": "2026-10-05T16:12:34+00:00",
       "source_id": "oregon_metro",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/oregon_metro.json"
     },
     {
