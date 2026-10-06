@@ -6025,6 +6025,14 @@
       "venue": "Revolution Hall"
     },
     {
+      "dropped": "willamette_week:17586570@2026-11-02T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPwF7",
+      "start_at": "2026-11-02T21:00:00-08:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19669298@2026-11-03T17:00",
       "kept": "dopdx:17908909",
       "start_at": "2026-11-03T17:00:00-08:00",
@@ -6489,9 +6497,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6192,
-  "floor_check": "6192 events against a 6122-event baseline",
-  "generated_at": "2026-10-06T07:30:29+00:00",
+  "event_count": 6186,
+  "floor_check": "6186 events against a 6123-event baseline",
+  "generated_at": "2026-10-06T07:32:14+00:00",
   "problems": [],
   "sources": [
     "calagator",
