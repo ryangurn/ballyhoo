@@ -337,6 +337,22 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:18602724@2026-10-27T18:00",
+      "kept": "dopdx:16977305",
+      "start_at": "2026-10-27T18:00:00-07:00",
+      "title_dropped": "Science on Tap - K9 Conservationists: Dogs Helping Wolf Research",
+      "title_kept": "Science on Tap – K9 Conservationists: Dogs Helping Wolf Research",
+      "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "willamette_week:19029326@2026-10-27T18:00",
+      "kept": "dopdx:17404661",
+      "start_at": "2026-10-27T18:00:00-07:00",
+      "title_dropped": "Catch Your Breath - Not Broken Enough Tour",
+      "title_kept": "Catch Your Breath – Not Broken Enough Tour",
+      "venue": "Roseland Theater"
+    },
+    {
       "dropped": "willamette_week:19879730@2026-10-27T19:00",
       "kept": "dopdx:17894455",
       "start_at": "2026-10-27T19:00:00-07:00",
@@ -4841,22 +4857,6 @@
       "venue": "Showdown Saloon"
     },
     {
-      "dropped": "willamette_week:18602724@2026-10-27T18:00",
-      "kept": "dopdx:16977305",
-      "start_at": "2026-10-27T18:00:00-07:00",
-      "title_dropped": "Science on Tap - K9 Conservationists: Dogs Helping Wolf Research",
-      "title_kept": "Science on Tap – K9 Conservationists: Dogs Helping Wolf Research",
-      "venue": "The Alberta Rose Theatre"
-    },
-    {
-      "dropped": "willamette_week:19029326@2026-10-27T18:00",
-      "kept": "dopdx:17404661",
-      "start_at": "2026-10-27T18:00:00-07:00",
-      "title_dropped": "Catch Your Breath - Not Broken Enough Tour",
-      "title_kept": "Catch Your Breath – Not Broken Enough Tour",
-      "venue": "Roseland Theater"
-    },
-    {
       "dropped": "willamette_week:19867867@2026-10-27T20:00",
       "kept": "dopdx:17806220",
       "start_at": "2026-10-27T19:30:00-07:00",
@@ -6537,9 +6537,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6220,
-  "floor_check": "6220 events against a 6190-event baseline",
-  "generated_at": "2026-10-06T18:44:32+00:00",
+  "event_count": 6221,
+  "floor_check": "6221 events against a 6190-event baseline",
+  "generated_at": "2026-10-06T20:13:38+00:00",
   "problems": [],
   "sources": [
     "calagator",

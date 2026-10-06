@@ -124214,6 +124214,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-27T19:30:00-07:00",
+      "id": "calagator:1250482748",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/aws-portland/events/316860384/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-27T17:30:00-07:00",
+      "summary": "Join the Portland AWS User Group for an evening of technical learning with other cloud and security professionals!\r\n\r\n📍 Location: ProFocus Headquarters\r\n📍 Address: 10200 Eastridge St, Ste 100, Portland, OR 97225\r\n🥂 Food & Drinks: Enjoy drinks provided by ProFocus Technology, Food is NOT provided this time.\r\n\r\nAgenda\r\n\r\nKickoff @ 5:30 PM: Networking & introductions\r\nTech Talk @ 6:00 PM: 10 deployments in 10 minutes, zero dropped packets! A tech talk by Lee Harding, where he shows how serverless datagram backends are really easy to operate and iterate on.",
+      "title": "Portland AWS User Group - 10 deployments in 10 minutes, zero dropped packets!",
+      "venue": {
+        "address": "10200 Southwest Eastridge Street",
+        "city": "Portland",
+        "latitude": 45.5058,
+        "longitude": -122.7818,
+        "name": "ProFocus Technology Professionals"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-28T02:00:00-07:00",
@@ -184488,5 +184516,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-06T18:44:32+00:00"
+  "generated_at": "2026-10-06T20:13:38+00:00"
 }
