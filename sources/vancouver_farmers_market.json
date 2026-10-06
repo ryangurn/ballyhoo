@@ -5,68 +5,6 @@
         "market",
         "food"
       ],
-      "end_at": "2026-10-04T15:00:00-07:00",
-      "id": "vancouver_farmers_market:downtown-vancouver-farmers-market-72@2026-10-04",
-      "is_all_day": false,
-      "listing_url": "https://vancouverfarmersmarket.org/event/downtown-vancouver-farmers-market-72/",
-      "organizer": "Vancouver Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "vancouver_farmers_market",
-        "name": "Vancouver Farmers Market",
-        "url": "https://vancouverfarmersmarket.org"
-      },
-      "start_at": "2026-10-04T10:00:00-07:00",
-      "title": "Downtown Vancouver Farmers Market",
-      "venue": {
-        "address": "605 Esther St, Vancouver, WA 98660",
-        "city": "Vancouver",
-        "latitude": 45.6261,
-        "longitude": -122.67574,
-        "name": "Vancouver Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "music",
-        "market"
-      ],
-      "end_at": "2026-10-04T13:00:00-07:00",
-      "id": "vancouver_farmers_market:the-steve-and-margot-show-at-the-vancouver-farmers-market-2@2026-10-04",
-      "is_all_day": false,
-      "listing_url": "https://vancouverfarmersmarket.org/event/the-steve-and-margot-show-at-the-vancouver-farmers-market-2/",
-      "organizer": "Vancouver Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "vancouver_farmers_market",
-        "name": "Vancouver Farmers Market",
-        "url": "https://vancouverfarmersmarket.org"
-      },
-      "start_at": "2026-10-04T11:00:00-07:00",
-      "title": "The Steve and Margot Show at the Vancouver Farmers Market",
-      "venue": {
-        "address": "605 Esther St, Vancouver, WA 98660",
-        "city": "Vancouver",
-        "latitude": 45.6261,
-        "longitude": -122.67574,
-        "name": "Vancouver Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
       "end_at": "2026-10-10T15:00:00-07:00",
       "id": "vancouver_farmers_market:downtown-vancouver-farmers-market-73@2026-10-10",
       "is_all_day": false,
@@ -645,6 +583,34 @@
     },
     {
       "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-27T19:00:00-08:00",
+      "id": "vancouver_farmers_market:live-music-fiddler-on-the-loop-%c2%b7-discovery-ballroom@2026-11-27",
+      "is_all_day": false,
+      "listing_url": "https://vancouverfarmersmarket.org/event/live-music-fiddler-on-the-loop-%c2%b7-discovery-ballroom/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2026-11-27T17:00:00-08:00",
+      "title": "Live Music: Fiddler on the Loop · Discovery Ballroom",
+      "venue": {
+        "city": "Vancouver",
+        "name": "Discovery Ballroom, Hilton Vancouver Washington, 301 W 6th St, Vancouver, WA 98660"
+      }
+    },
+    {
+      "categories": [
         "community",
         "market"
       ],
@@ -705,6 +671,62 @@
     },
     {
       "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-28T14:00:00-08:00",
+      "id": "vancouver_farmers_market:live-music-the-honeybees-%c2%b7-reception@2026-11-28",
+      "is_all_day": false,
+      "listing_url": "https://vancouverfarmersmarket.org/event/live-music-the-honeybees-%c2%b7-reception/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2026-11-28T12:00:00-08:00",
+      "title": "Live Music: The HoneyBees · Reception",
+      "venue": {
+        "city": "Vancouver",
+        "name": "Reception, Hilton Vancouver Washington, 301 W 6th St, Vancouver, WA 98660"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-28T16:00:00-08:00",
+      "id": "vancouver_farmers_market:live-music-tyralouise-with-vinny-anderson-%c2%b7-reception@2026-11-28",
+      "is_all_day": false,
+      "listing_url": "https://vancouverfarmersmarket.org/event/live-music-tyralouise-with-vinny-anderson-%c2%b7-reception/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2026-11-28T14:00:00-08:00",
+      "title": "Live Music: tyraløuise with Vinny Anderson · Reception",
+      "venue": {
+        "city": "Vancouver",
+        "name": "Reception, Hilton Vancouver Washington, 301 W 6th St, Vancouver, WA 98660"
+      }
+    },
+    {
+      "categories": [
         "community",
         "market"
       ],
@@ -730,6 +752,146 @@
         "latitude": 45.62517,
         "longitude": -122.67445,
         "name": "Hilton Vancouver Washington"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-29T12:00:00-08:00",
+      "id": "vancouver_farmers_market:live-music-braveheart-%c2%b7-discovery-ballroom@2026-11-29",
+      "is_all_day": false,
+      "listing_url": "https://vancouverfarmersmarket.org/event/live-music-braveheart-%c2%b7-discovery-ballroom/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2026-11-29T10:00:00-08:00",
+      "title": "Live Music: Braveheart · Discovery Ballroom",
+      "venue": {
+        "city": "Vancouver",
+        "name": "Discovery Ballroom, Hilton Vancouver Washington, 301 W 6th St, Vancouver, WA 98660"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-29T14:00:00-08:00",
+      "id": "vancouver_farmers_market:live-music-braveheart-%c2%b7-reception@2026-11-29",
+      "is_all_day": false,
+      "listing_url": "https://vancouverfarmersmarket.org/event/live-music-braveheart-%c2%b7-reception/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2026-11-29T12:00:00-08:00",
+      "title": "Live Music: Braveheart · Reception",
+      "venue": {
+        "city": "Vancouver",
+        "name": "Reception, Hilton Vancouver Washington, 301 W 6th St, Vancouver, WA 98660"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-29T14:00:00-08:00",
+      "id": "vancouver_farmers_market:live-music-fiddler-on-the-loop-%c2%b7-discovery-ballroom-2@2026-11-29",
+      "is_all_day": false,
+      "listing_url": "https://vancouverfarmersmarket.org/event/live-music-fiddler-on-the-loop-%c2%b7-discovery-ballroom-2/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2026-11-29T12:00:00-08:00",
+      "title": "Live Music: Fiddler on the Loop · Discovery Ballroom",
+      "venue": {
+        "city": "Vancouver",
+        "name": "Discovery Ballroom, Hilton Vancouver Washington, 301 W 6th St, Vancouver, WA 98660"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-29T16:00:00-08:00",
+      "id": "vancouver_farmers_market:live-music-the-honeybees-%c2%b7-reception-2@2026-11-29",
+      "is_all_day": false,
+      "listing_url": "https://vancouverfarmersmarket.org/event/live-music-the-honeybees-%c2%b7-reception-2/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2026-11-29T14:00:00-08:00",
+      "title": "Live Music: The HoneyBees · Reception",
+      "venue": {
+        "city": "Vancouver",
+        "name": "Reception, Hilton Vancouver Washington, 301 W 6th St, Vancouver, WA 98660"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-29T16:00:00-08:00",
+      "id": "vancouver_farmers_market:live-music-tyralouise-with-vinny-anderson-%c2%b7-discovery-ballroom@2026-11-29",
+      "is_all_day": false,
+      "listing_url": "https://vancouverfarmersmarket.org/event/live-music-tyralouise-with-vinny-anderson-%c2%b7-discovery-ballroom/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2026-11-29T14:00:00-08:00",
+      "title": "Live Music: tyraløuise with Vinny Anderson · Discovery Ballroom",
+      "venue": {
+        "city": "Vancouver",
+        "name": "Discovery Ballroom, Hilton Vancouver Washington, 301 W 6th St, Vancouver, WA 98660"
       }
     },
     {
@@ -1230,7 +1392,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-05T20:19:37+00:00",
+  "generated_at": "2026-10-06T04:39:50+00:00",
   "source_id": "vancouver_farmers_market",
   "status": "ok"
 }
