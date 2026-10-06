@@ -1,14 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:19686002@2026-10-05T09:00",
-      "kept": "dopdx:17729008",
-      "start_at": "2026-10-05T09:00:00-07:00",
-      "title_dropped": "SAME Portland Post Bud Ossey Golf Tournament",
-      "title_kept": "SAME Portland Post Bud Ossey Golf Tournament",
-      "venue": "RedTail Golf Center"
-    },
-    {
       "dropped": "willamette_week:18783421@2026-10-07T18:30",
       "kept": "dopdx:17304600",
       "start_at": "2026-10-07T18:30:00-07:00",
@@ -71,6 +63,22 @@
       "title_dropped": "Special Event: Love, Lies and Port Charles with Laura Wright and James Patrick Stuart",
       "title_kept": "Love, Lies and Port Charles with Laura Wright and James Patrick Stuart",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19872805@2026-10-14T17:00",
+      "kept": "dopdx:17789329",
+      "start_at": "2026-10-14T17:00:00-07:00",
+      "title_dropped": "OMPA & Miller Nash - LEGAL SERIES - #2 - Clearance & AI",
+      "title_kept": "OMPA & Miller Nash - LEGAL SERIES - #2 — Clearance & AI",
+      "venue": "Miller Nash LLP"
+    },
+    {
+      "dropped": "willamette_week:19956944@2026-10-14T17:30",
+      "kept": "dopdx:17850237",
+      "start_at": "2026-10-14T17:30:00-07:00",
+      "title_dropped": "Doc-Doc-Mock & Sherblock 4 Short Films About Portland",
+      "title_kept": "Doc-Doc-Mock & Sherblock 4 Short Films About Portland",
+      "venue": "The Alberta Rose Theatre"
     },
     {
       "dropped": "willamette_week:19736167@2026-10-14T19:00",
@@ -327,6 +335,14 @@
       "title_dropped": "LASKA & Friends Friends & Shore Pines",
       "title_kept": "LASKA & Friends Friends & Shore Pines",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19686002@2026-10-05T09:00",
+      "kept": "dopdx:17729008",
+      "start_at": "2026-10-05T09:00:00-07:00",
+      "title_dropped": "SAME Portland Post Bud Ossey Golf Tournament",
+      "title_kept": "SAME Portland Post Bud Ossey Golf Tournament",
+      "venue": "RedTail Golf Center"
     },
     {
       "dropped": "willamette_week:20074581@2026-10-05T16:30",
@@ -2191,22 +2207,6 @@
       "title_dropped": "Kelsey Lu",
       "title_kept": "Kelsey Lu",
       "venue": "Wonder Ballroom"
-    },
-    {
-      "dropped": "willamette_week:19872805@2026-10-14T17:00",
-      "kept": "dopdx:17789329",
-      "start_at": "2026-10-14T17:00:00-07:00",
-      "title_dropped": "OMPA & Miller Nash - LEGAL SERIES - #2 - Clearance & AI",
-      "title_kept": "OMPA & Miller Nash - LEGAL SERIES - #2 — Clearance & AI",
-      "venue": "Miller Nash LLP"
-    },
-    {
-      "dropped": "willamette_week:19956944@2026-10-14T17:30",
-      "kept": "dopdx:17850237",
-      "start_at": "2026-10-14T17:30:00-07:00",
-      "title_dropped": "Doc-Doc-Mock & Sherblock 4 Short Films About Portland",
-      "title_kept": "Doc-Doc-Mock & Sherblock 4 Short Films About Portland",
-      "venue": "The Alberta Rose Theatre"
     },
     {
       "dropped": "willamette_week:19066438@2026-10-14T19:30",
@@ -6482,8 +6482,8 @@
     }
   ],
   "event_count": 6120,
-  "floor_check": "6120 events against a 6001-event baseline",
-  "generated_at": "2026-10-06T00:32:52+00:00",
+  "floor_check": "6120 events against a 6003-event baseline",
+  "generated_at": "2026-10-06T00:46:04+00:00",
   "problems": [],
   "sources": [
     "calagator",
