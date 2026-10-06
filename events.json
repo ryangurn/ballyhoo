@@ -1708,34 +1708,28 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:rZ7HnEZ1Afu9G7",
-      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "willamette_week:20074581@2026-10-05T16:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mYeAQ0FGIkiMGedZrF2__g.large.png",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/knrk-presents-jesse-rutheford-of-star-theater-tickets/14357304",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fknrk-presents-jesse-rutheford-of-star-theater-tickets%252F14357304%26utm_medium%3daffiliate",
       "price": {
         "currency": "USD",
-        "is_free": false,
-        "max": 1.03,
-        "min": 1.03
+        "is_free": false
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-05T16:30:00-07:00",
       "summary": "Jesse Rutheford of The NeighborhoodKNRK Presents a special intimate perfomance by Jesse Rutheford of The Neighborhood. No ticket required. Doors: 4:00pm Show: 4:30pm - 5:00pm All Ages welcome",
-      "ticket_url": "https://www.ticketweb.com/event/knrk-presents-jesse-rutheford-of-star-theater-tickets/14357304",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fknrk-presents-jesse-rutheford-of-star-theater-tickets%252F14357304%26utm_medium%3daffiliate",
       "title": "KNRK PRESENTS JESSE RUTHEFORD of THE NEIGHBORHOOD",
       "venue": {
-        "address": "13 NW Sixth Avenue",
+        "address": "13 NW 6th Ave",
         "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
+        "latitude": 45.5233726501,
+        "longitude": -122.6767425537,
         "name": "Star Theater"
       }
     },
@@ -2655,7 +2649,7 @@
       "id": "ticketmaster:rZ7HnEZ1AfGfjV",
       "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/square-dancing-showdown-saloon-tickets/14314734",
+      "listing_url": "https://www.ticketweb.com/event/square-dancing-with-rats-gone-showdown-saloon-tickets/14314734",
       "merged_sources": [
         "ticketmaster",
         "willamette_week"
@@ -2673,8 +2667,8 @@
       },
       "start_at": "2026-10-05T19:00:00-07:00",
       "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/square-dancing-showdown-saloon-tickets/14314734",
-      "title": "Square Dancing",
+      "ticket_url": "https://www.ticketweb.com/event/square-dancing-with-rats-gone-showdown-saloon-tickets/14314734",
+      "title": "Square Dancing with Rats Gone to Rest and Caller Bex Bee",
       "venue": {
         "address": "1195 SE Powell Blvd",
         "city": "Portland",
@@ -52135,6 +52129,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNpf",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/two-step-tuesday-with-shorty-showdown-saloon-tickets/14363594",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-13T19:30:00-07:00",
+      "summary": "7pm Doors 7:30pm Dance Lessons 8:30pm Band",
+      "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-shorty-showdown-saloon-tickets/14363594",
+      "title": "Two-Step Tuesday with Shorty and the Mustangs and Dance Lessons with Peggy and Peter",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-10-13T00:00:00-07:00",
       "id": "willamette_week:18195657@2026-10-13T19:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wCz4CiWRykOyru55ek69ig.large.png",
@@ -56031,6 +56056,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNjf",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/intermediate-two-step-lessons-with-showdown-saloon-tickets/14363714",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.01,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-14T19:00:00-07:00",
+      "summary": "This class is designed for dancers who are already comfortable with two-step fundamentals, and want to build their range. Beginning fundamentals will not be reviewed. For those who want to stay for the Whiskey Wednesday bands and keep dancing, a discounted ticket package is available, or a $5 lift can be added to an already purchased ticket at the door. Lessons 7-8 Dancing 8-8:30",
+      "ticket_url": "https://www.ticketweb.com/event/intermediate-two-step-lessons-with-showdown-saloon-tickets/14363714",
+      "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-10-14T21:00:00-07:00",
@@ -56946,6 +57002,37 @@
         "address": "6800 NE Martin Luther King Jr Blvd",
         "city": "Portland",
         "name": "High Water Mark Lounge"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNj7",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/whiskey-wednesday-with-special-guests-showdown-saloon-tickets/14363704",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.92,
+        "min": 15.92
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-14T20:30:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/whiskey-wednesday-with-special-guests-showdown-saloon-tickets/14363704",
+      "title": "Whiskey Wednesday with Special Guests",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -92473,6 +92560,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNb7",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/two-step-tuesday-with-best-showdown-saloon-tickets/14363604",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-20T19:30:00-07:00",
+      "summary": "7pm Doors 7:30pm Dance Lessons 8:30pm Band",
+      "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-best-showdown-saloon-tickets/14363604",
+      "title": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy and Peter",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-20T21:00:00-07:00",
@@ -96241,6 +96359,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNq7",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/intermediate-two-step-lessons-with-showdown-saloon-tickets/14363744",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.01,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-21T19:00:00-07:00",
+      "summary": "This class is designed for dancers who are already comfortable with two-step fundamentals, and want to build their range. Beginning fundamentals will not be reviewed. For those who want to stay for the Whiskey Wednesday bands and keep dancing, a discounted ticket package is available, or a $5 lift can be added to an already purchased ticket at the door. Lessons 7-8 Dancing 8-8:30",
+      "ticket_url": "https://www.ticketweb.com/event/intermediate-two-step-lessons-with-showdown-saloon-tickets/14363744",
+      "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "id": "willamette_week:20066936@2026-10-21T19:00",
@@ -97343,6 +97492,37 @@
         "address": "6800 NE Martin Luther King Jr Blvd",
         "city": "Portland",
         "name": "High Water Mark Lounge"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNjV",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/whiskey-wednesday-with-william-surly-showdown-saloon-tickets/14363734",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.92,
+        "min": 15.92
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-21T20:30:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/whiskey-wednesday-with-william-surly-showdown-saloon-tickets/14363734",
+      "title": "Whiskey Wednesday with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -128297,6 +128477,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNbf",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/two-step-tuesday-with-the-showdown-saloon-tickets/14363614",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-27T19:30:00-07:00",
+      "summary": "7pm Doors 7:30pm Dance Lessons 8:30pm Band",
+      "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-the-showdown-saloon-tickets/14363614",
+      "title": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Peggy and Peter",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:19879733@2026-10-27T19:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iwDydZ3b-EG19wKrJvQrwg.large.png",
       "is_all_day": false,
@@ -131539,6 +131750,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNqV",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/intermediate-two-step-lessons-with-showdown-saloon-tickets/14363774",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.01,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-28T19:00:00-07:00",
+      "summary": "This class is designed for dancers who are already comfortable with two-step fundamentals, and want to build their range. Beginning fundamentals will not be reviewed. For those who want to stay for the Whiskey Wednesday bands and keep dancing, a discounted ticket package is available, or a $5 lift can be added to an already purchased ticket at the door. Lessons 7-8 Dancing 8-8:30",
+      "ticket_url": "https://www.ticketweb.com/event/intermediate-two-step-lessons-with-showdown-saloon-tickets/14363774",
+      "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-29T02:00:00-07:00",
@@ -132688,6 +132930,37 @@
         "latitude": 45.5261955261,
         "longitude": -122.6881103516,
         "name": "McMenamins Mission Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNq0",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/whiskey-wednesday-with-brookyln-del-showdown-saloon-tickets/14363764",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.92,
+        "min": 15.92
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-28T20:30:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/whiskey-wednesday-with-brookyln-del-showdown-saloon-tickets/14363764",
+      "title": "Whiskey Wednesday with Brookyln Del and the Revelators",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -158120,6 +158393,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNb0",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/two-step-tuesday-with-countryside-showdown-saloon-tickets/14363624",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-03T19:30:00-08:00",
+      "summary": "7pm Doors 7:30pm Dance Lessons 8:30pm Band",
+      "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-countryside-showdown-saloon-tickets/14363624",
+      "title": "Two-Step Tuesday with Countryside Ride and Dance Lessons with Robbie",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-11-04T02:00:00-08:00",
       "id": "dopdx:16756449",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1766438919/event-16756449.png",
@@ -161376,6 +161680,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1Afu077",
+      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/the-hyrule-ball-star-theater-tickets/14364104",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.3,
+        "min": 28.3
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-06T20:00:00-08:00",
+      "summary": "The Hyrule Ball - Nerdy Niche Nightlife\" Hey! Listen! 🧚🏽 Grab your gear and strap your tunic on, because The Hyrule Ball is here! A niche, nerdy, nightlife celebration of everyone's favorite action-adventure franchise, just in time for the latest release. Featuring Zelda-inspired DJ sets and drag performances, specialty cocktails, local vendors, and consoles and cabinets for playing games with friends! Come dressed in your cosplay best, grab your wallet of rupees, and get ready to dance until the Sun Song plays. \" 8:00pm. Ages 21+.",
+      "ticket_url": "https://www.ticketweb.com/event/the-hyrule-ball-star-theater-tickets/14364104",
+      "title": "THE HYRULE BALL",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7JdkK",
       "image_url": "https://s1.ticketm.net/dam/a/c69/2e7542a5-6245-4df6-8e17-55c7e0cadc69_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -162758,6 +163093,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNbV",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/two-step-tuesday-with-shorty-showdown-saloon-tickets/14363634",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-10T19:30:00-08:00",
+      "summary": "7pm Doors 7:30pm Dance Lessons 8:30pm Band",
+      "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-shorty-showdown-saloon-tickets/14363634",
+      "title": "Two-Step Tuesday with Shorty and the Mustangs and Dance Lessons with Peggy",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:vvG1HZ_1R97uAt",
       "image_url": "https://s1.ticketm.net/dam/a/492/6d94c22c-be24-4391-bb8e-a4cb94e06492_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -163116,6 +163482,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNP0",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/intermediate-two-step-lessons-with-showdown-saloon-tickets/14363964",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.01,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-11T19:00:00-08:00",
+      "summary": "This class is designed for dancers who are already comfortable with two-step fundamentals, and want to build their range. Beginning fundamentals will not be reviewed. For those who want to stay for the Whiskey Wednesday bands and keep dancing, a discounted ticket package is available, or a $5 lift can be added to an already purchased ticket at the door. Lessons 7-8 Dancing 8-8:30",
+      "ticket_url": "https://www.ticketweb.com/event/intermediate-two-step-lessons-with-showdown-saloon-tickets/14363964",
+      "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7JAqA",
       "image_url": "https://s1.ticketm.net/dam/c/f7b/ef64d601-8740-43cd-86ea-ed9b392e4f7b_105961_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -163138,6 +163535,37 @@
         "latitude": 45.5201,
         "longitude": -122.6884,
         "name": "Arlene Schnitzer Concert Hall"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1Afufj7",
+      "image_url": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/a-strange-bird-with-vega-dantes-tickets/14354704",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 17.0,
+        "min": 17.0
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-11T20:00:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/a-strange-bird-with-vega-dantes-tickets/14354704",
+      "title": "A STRANGE BIRD with Vega Black, Zane Thomas & Bikehouse",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
       }
     },
     {
@@ -163194,6 +163622,37 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNPf",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/whiskey-wednesday-with-special-guests-showdown-saloon-tickets/14363954",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.92,
+        "min": 15.92
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-11T20:30:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/whiskey-wednesday-with-special-guests-showdown-saloon-tickets/14363954",
+      "title": "Whiskey Wednesday with Special Guests",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -165220,6 +165679,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfuN_f",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/two-step-tuesday-showdown-saloon-tickets/14363654",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-17T19:30:00-08:00",
+      "summary": "7pm Doors 7:30pm Dance Lessons 8:30pm Band",
+      "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-showdown-saloon-tickets/14363654",
+      "title": "Two-Step Tuesday",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1Afa9b7",
       "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -165411,6 +165901,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNJ7",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/intermediate-two-step-lessons-with-showdown-saloon-tickets/14363984",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.01,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-18T19:00:00-08:00",
+      "summary": "This class is designed for dancers who are already comfortable with two-step fundamentals, and want to build their range. Beginning fundamentals will not be reviewed. For those who want to stay for the Whiskey Wednesday bands and keep dancing, a discounted ticket package is available, or a $5 lift can be added to an already purchased ticket at the door. Lessons 7-8 Dancing 8-8:30",
+      "ticket_url": "https://www.ticketweb.com/event/intermediate-two-step-lessons-with-showdown-saloon-tickets/14363984",
+      "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7Pg_3",
       "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -165548,6 +166069,37 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Revolution Hall - Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNPV",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/whiskey-wednesday-with-william-surly-showdown-saloon-tickets/14363974",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.92,
+        "min": 15.92
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-18T20:30:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/whiskey-wednesday-with-william-surly-showdown-saloon-tickets/14363974",
+      "title": "Whiskey Wednesday with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -167140,6 +167692,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNr7",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/two-step-tuesday-showdown-saloon-tickets/14363784",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-24T19:30:00-08:00",
+      "summary": "7pm Doors 7:30pm Dance Lessons 8:30pm Band",
+      "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-showdown-saloon-tickets/14363784",
+      "title": "Two-Step Tuesday",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -167263,6 +167846,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1Afu0Z7",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/intermediate-two-step-lessons-with-showdown-saloon-tickets/14364004",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.01,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-25T19:00:00-08:00",
+      "summary": "This class is designed for dancers who are already comfortable with two-step fundamentals, and want to build their range. Beginning fundamentals will not be reviewed. For those who want to stay for the Whiskey Wednesday bands and keep dancing, a discounted ticket package is available, or a $5 lift can be added to an already purchased ticket at the door. Lessons 7-8 Dancing 8-8:30",
+      "ticket_url": "https://www.ticketweb.com/event/intermediate-two-step-lessons-with-showdown-saloon-tickets/14364004",
+      "title": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1AfuFF7",
       "image_url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -167288,6 +167902,37 @@
         "latitude": 45.519452,
         "longitude": -122.676291,
         "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfuNJf",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/whiskey-wednesday-with-brooklyn-del-showdown-saloon-tickets/14363994",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 15.92,
+        "min": 15.92
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-25T20:30:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/whiskey-wednesday-with-brooklyn-del-showdown-saloon-tickets/14363994",
+      "title": "Whiskey Wednesday with Brooklyn Del and the Revelators",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -170662,7 +171307,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-12-11T21:00:00-08:00",
-      "summary": "Both bizarre and beautiful, this cabaret features specialty acts from Portland's best loved entertainers expressing their adoration on stage for the varied works of cult director David Lynch. You'll see Twin Peaks, Dune, Blue Velvet, Mulholland Drive, Wild at Heart and more brought to life via acts featuring burlesque and drag.Hosted By Natasha Riot",
+      "summary": "Both bizarre and beautiful, this cabaret features specialty acts from Portland's best loved entertainers expressing their adoration on stage for the varied works of cult director David Lynch. You'll see Twin Peaks, Dune, Blue Velvet, Mulholland Drive, Wild at Heart and more brought to life via acts featuring burlesque and drag.Hosted By Natasha Riot Performers: Abigail Rhys Wanda Bones Baby LeStrange Natasha Riot Rummy Rose Kate Cloud Vera Mysteria Sophie du Mal Anna Nymph Tas Al-Ghul U_phoria",
       "ticket_url": "https://www.ticketweb.com/event/black-lodge-burlesque-dantes-tickets/14334704",
       "title": "BLACK LODGE BURLESQUE",
       "venue": {
@@ -181553,5 +182198,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-06T00:46:04+00:00"
+  "generated_at": "2026-10-06T00:47:24+00:00"
 }
