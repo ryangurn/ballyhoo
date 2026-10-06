@@ -2993,6 +2993,22 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19907058@2026-10-17T21:00",
+      "kept": "dopdx:17927230",
+      "start_at": "2026-10-17T21:00:00-07:00",
+      "title_dropped": "Hell on Heels",
+      "title_kept": "Hell on Heels",
+      "venue": "Ponderosa Lounge & Grill"
+    },
+    {
+      "dropped": "willamette_week:19412615@2026-10-17T21:00",
+      "kept": "dopdx:17927230",
+      "start_at": "2026-10-17T21:00:00-07:00",
+      "title_dropped": "Lakeview - Wreck My Night Tour",
+      "title_kept": "Hell on Heels",
+      "venue": "Ponderosa Lounge & Grill"
+    },
+    {
       "dropped": "willamette_week:19801682@2026-10-17T21:30",
       "kept": "dopdx:17890751",
       "start_at": "2026-10-17T21:30:00-07:00",
@@ -4097,6 +4113,14 @@
       "venue": "Funhouse Lounge"
     },
     {
+      "dropped": "willamette_week:19449678@2026-10-24T08:30",
+      "kept": "dopdx:17927233",
+      "start_at": "2026-10-24T08:30:00-07:00",
+      "title_dropped": "Life Surge Phoenix",
+      "title_kept": "Options & Opportunities",
+      "venue": "Oregon Convention Center"
+    },
+    {
       "dropped": "willamette_week:19787155@2026-10-24T09:00",
       "kept": "dopdx:17762576",
       "start_at": "2026-10-24T09:00:00-07:00",
@@ -4505,6 +4529,14 @@
       "venue": "Ellyn Bye Studio Theater"
     },
     {
+      "dropped": "willamette_week:19801682@2026-10-25T18:30",
+      "kept": "dopdx:17927418",
+      "start_at": "2026-10-25T18:30:00-07:00",
+      "title_dropped": "Can Can's Hitchcock Hotel",
+      "title_kept": "Can Can’s Hitchcock Hotel",
+      "venue": "Can Can's Paris Theatre"
+    },
+    {
       "dropped": "willamette_week:19185711@2026-10-25T19:00",
       "kept": "dopdx:17470837",
       "start_at": "2026-10-25T19:00:00-07:00",
@@ -4553,20 +4585,20 @@
       "venue": "Helium Comedy Club"
     },
     {
-      "dropped": "willamette_week:19736097@2026-10-25T19:30",
-      "kept": "dopdx:17434161",
-      "start_at": "2026-10-25T19:00:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Jon DelCollo",
-      "title_kept": "Steve Furey",
-      "venue": "Helium Comedy Club"
-    },
-    {
       "dropped": "willamette_week:18811215@2026-10-25T19:00",
       "kept": "ticketmaster:vvG1HZ_FDLdrxf",
       "start_at": "2026-10-25T19:00:00-07:00",
       "title_dropped": "Logic & G-Eazy: The Endless Summer Tour Part II",
       "title_kept": "Logic & G-Eazy: The Endless Summer Tour Part II",
       "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:19736097@2026-10-25T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A70YZ6",
+      "start_at": "2026-10-25T19:00:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Jon DelCollo",
+      "title_kept": "Steve Furey",
+      "venue": "Helium Comedy Club - Portland"
     },
     {
       "dropped": "willamette_week:19766480@2026-10-25T19:30",
@@ -5487,6 +5519,14 @@
       "title_dropped": "Halloween at Club Privata: Saints, Sins & Vampires",
       "title_kept": "Halloween: Saints, Sins & Vampires",
       "venue": "Club Privata"
+    },
+    {
+      "dropped": "willamette_week:19900812@2026-10-30T20:00",
+      "kept": "dopdx:17927227",
+      "start_at": "2026-10-30T20:00:00-07:00",
+      "title_dropped": "Portland's Haunted Hop 2026: Halloween Bar Crawl (Friday, Oct 30)",
+      "title_kept": "Portland's Haunted Hop 2026: Halloween Bar Crawl",
+      "venue": "Star Bar"
     },
     {
       "dropped": "willamette_week:19957017@2026-10-30T20:00",
@@ -6497,9 +6537,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6190,
-  "floor_check": "6190 events against a 6187-event baseline",
-  "generated_at": "2026-10-06T17:25:12+00:00",
+  "event_count": 6222,
+  "floor_check": "6222 events against a 6187-event baseline",
+  "generated_at": "2026-10-06T17:26:09+00:00",
   "problems": [],
   "sources": [
     "calagator",
