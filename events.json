@@ -124522,6 +124522,33 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-27T21:00:00-07:00",
+      "id": "calagator:1250482746",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-27T19:00:00-07:00",
+      "summary": "Join us for the SNAP Specs PDX Meetup. The group focuses on the wearable AR glasses, SPECS 27 (https://www.specs.com), being released by SNAP in Q4 2026. The group is open to all - developers, designers, enthusiasts. All are welcome!\r\n\r\nOctober agenda to be announced later.\r\n\r\nThis event is hosted by the Oregon Reality Lab at the University of Oregon Portland Campus. The intent is to meet monthly.\r\n\r\nNOTE: The https://pdxr.org is presently down being built.",
+      "title": "SNAP Specs PDX Meetup",
+      "venue": {
+        "address": "2811 NE Holman St,",
+        "city": "Portland",
+        "latitude": 45.5687,
+        "longitude": -122.6369,
+        "name": "Oregon Reality Lab at the University of Oregon, Portland Campus,"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-28T02:00:00-07:00",
@@ -165596,6 +165623,30 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-14T20:30:00-08:00",
+      "id": "calagator:1250482747",
+      "is_all_day": false,
+      "listing_url": "https://unlockedhacks.org",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-14T08:30:00-08:00",
+      "summary": "A free, student-run 12-hour hackathon for Oregon high schoolers (grades 9-12). Build in hardware, software, or both, solo or in teams of up to 3. No experience needed. Free food, snacks and swag, mentors, workshops, and $10,000+ in prizes. Hosted by Oregon Unlocked, a student-led STEM nonprofit. Register at https://unlockedhacks.org",
+      "title": "UnlockedHacks 2026: free 12-hour high school hackathon",
+      "venue": {
+        "name": "Field Office"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -183653,5 +183704,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-06T07:06:10+00:00"
+  "generated_at": "2026-10-06T07:30:29+00:00"
 }

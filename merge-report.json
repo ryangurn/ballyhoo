@@ -337,6 +337,30 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19879730@2026-10-27T19:00",
+      "kept": "dopdx:17894455",
+      "start_at": "2026-10-27T19:00:00-07:00",
+      "title_dropped": "Megan Cronin",
+      "title_kept": "Local Roots Music NW Presents: Local Roots Live",
+      "venue": "Alberta Street Pub"
+    },
+    {
+      "dropped": "willamette_week:19029325@2026-10-27T19:00",
+      "kept": "ticketmaster:Z7r9jZ1AAvAo_",
+      "start_at": "2026-10-27T19:00:00-07:00",
+      "title_dropped": "Roseland Theater",
+      "title_kept": "Catch Your Breath",
+      "venue": "Roseland Theater"
+    },
+    {
+      "dropped": "willamette_week:19867860@2026-10-27T19:30",
+      "kept": "dopdx:17806220",
+      "start_at": "2026-10-27T19:30:00-07:00",
+      "title_dropped": "Special Event: IMHO",
+      "title_kept": "Imho",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:19686003@2026-10-06T09:30",
       "kept": "dopdx:17879770",
       "start_at": "2026-10-06T09:30:00-07:00",
@@ -4801,30 +4825,6 @@
       "venue": "Roseland Theater"
     },
     {
-      "dropped": "willamette_week:19879730@2026-10-27T19:00",
-      "kept": "dopdx:17894455",
-      "start_at": "2026-10-27T19:00:00-07:00",
-      "title_dropped": "Megan Cronin",
-      "title_kept": "Local Roots Music NW Presents: Local Roots Live",
-      "venue": "Alberta Street Pub"
-    },
-    {
-      "dropped": "willamette_week:19029325@2026-10-27T19:00",
-      "kept": "ticketmaster:Z7r9jZ1AAvAo_",
-      "start_at": "2026-10-27T19:00:00-07:00",
-      "title_dropped": "Roseland Theater",
-      "title_kept": "Catch Your Breath",
-      "venue": "Roseland Theater"
-    },
-    {
-      "dropped": "willamette_week:19867860@2026-10-27T19:30",
-      "kept": "dopdx:17806220",
-      "start_at": "2026-10-27T19:30:00-07:00",
-      "title_dropped": "Special Event: IMHO",
-      "title_kept": "Imho",
-      "venue": "Helium Comedy Club"
-    },
-    {
       "dropped": "willamette_week:19867867@2026-10-27T20:00",
       "kept": "dopdx:17806220",
       "start_at": "2026-10-27T19:30:00-07:00",
@@ -6489,9 +6489,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6190,
-  "floor_check": "6190 events against a 6122-event baseline",
-  "generated_at": "2026-10-06T07:06:10+00:00",
+  "event_count": 6192,
+  "floor_check": "6192 events against a 6122-event baseline",
+  "generated_at": "2026-10-06T07:30:29+00:00",
   "problems": [],
   "sources": [
     "calagator",
