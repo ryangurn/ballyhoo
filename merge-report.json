@@ -505,19 +505,19 @@
       "venue": "Artichoke Music"
     },
     {
-      "dropped": "dopdx:16723675",
-      "kept": "ticketmaster:rZ7HnEZ1AKJ7o7",
-      "start_at": "2026-10-06T19:30:00-07:00",
-      "title_dropped": "Hammerfall with Evergrey & Elvenking",
-      "title_kept": "HAMMERFALL with Evergrey",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:17654261@2026-10-06T19:30",
       "kept": "dopdx:16723675",
       "start_at": "2026-10-06T19:30:00-07:00",
       "title_dropped": "HAMMERFALL with Evergrey & Elvenking",
       "title_kept": "Hammerfall with Evergrey & Elvenking",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "dopdx:16723675",
+      "kept": "ticketmaster:rZ7HnEZ1AKJ7o7",
+      "start_at": "2026-10-06T20:00:00-07:00",
+      "title_dropped": "Hammerfall with Evergrey & Elvenking",
+      "title_kept": "HAMMERFALL with Evergrey",
       "venue": "Dante's"
     },
     {
@@ -6554,8 +6554,8 @@
     }
   ],
   "event_count": 6256,
-  "floor_check": "6256 events against a 6191-event baseline",
-  "generated_at": "2026-10-06T22:52:59+00:00",
+  "floor_check": "6256 events against a 6206-event baseline",
+  "generated_at": "2026-10-06T23:51:06+00:00",
   "problems": [],
   "sources": [
     "calagator",
