@@ -1449,6 +1449,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:19787144@2026-10-10T19:00",
+      "kept": "dopdx:17927215",
+      "start_at": "2026-10-10T19:00:00-07:00",
+      "title_dropped": "Water Bearer's Dream",
+      "title_kept": "Water Bearer's Dream",
+      "venue": "The Lantern"
+    },
+    {
       "dropped": "dopdx:17262324",
       "kept": "ticketmaster:Z7r9jZ1A7JAbe",
       "start_at": "2026-10-10T19:30:00-07:00",
@@ -6545,9 +6553,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6252,
-  "floor_check": "6252 events against a 6190-event baseline",
-  "generated_at": "2026-10-06T21:54:06+00:00",
+  "event_count": 6256,
+  "floor_check": "6256 events against a 6190-event baseline",
+  "generated_at": "2026-10-06T21:54:43+00:00",
   "problems": [],
   "sources": [
     "calagator",

@@ -4207,6 +4207,35 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-10-06T22:00:00-07:00",
+      "id": "dopdx:17926899",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791260708/event-17926899.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/6/ecstatic-dance-portland-boomurian-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-06T19:00:00-07:00",
+      "summary": "A free form embodiment experience every TUESDAY night from 7-10 pm TICKETS SOLD AT THE DOOR $20, or $16.50 w/ 10 dance pass, or $15 for Bipoc Ecstatic Dance Portland: BOOMURIAN",
+      "title": "Ecstatic Dance Portland : Boomurian",
+      "venue": {
+        "address": "116 SE Yamhill St. Portland, OR 97217",
+        "city": "Portland",
+        "name": "The Den"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-10-07T02:00:00-07:00",
       "id": "dopdx:17852747",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1789607050/event-17852747.jpg",
@@ -20164,6 +20193,31 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-10-09T21:30:00-07:00",
+      "id": "dopdx:17928623",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791302506/event-17928623.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/9/iowa-hawkeyes-v-washington-huskies-game-watch-party-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-09T18:00:00-07:00",
+      "summary": "Catch the Iowa Hawkeyes take on the Washington Huskies with the PDX Iowa Club!",
+      "title": "Iowa Hawkeyes v. Washington Huskies Game Watch Party",
+      "venue": {
+        "name": "The Garden Tavern"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-10-09T20:00:00-07:00",
       "id": "willamette_week:20034382@2026-10-09T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-vodqT2HYU-lfi4m8BoIFQ.large.jpg",
@@ -31357,6 +31411,37 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-10T21:00:00-07:00",
+      "id": "dopdx:17927215",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791269866/event-17927215.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/10/water-bearer-s-dream-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-10T19:00:00-07:00",
+      "summary": "Water Bearer's Dream: devotional Ritual Theatre exploring the archetype of mother; bringing our stories from the personal to universal.",
+      "title": "Water Bearer's Dream",
+      "venue": {
+        "name": "The Lantern"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-11T02:00:00-07:00",
@@ -31769,37 +31854,6 @@
         "latitude": 45.51697,
         "longitude": -122.680636,
         "name": "The Judy Kafoury Center for Youth Arts"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "end_at": "2026-10-10T21:00:00-07:00",
-      "id": "willamette_week:19787144@2026-10-10T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/NzRsvMuQDka_7jm9WicfvA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/water-bearers-dream-tickets-1998401938995",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T19:00:00-07:00",
-      "summary": "Water Bearer's Dream: devotional Ritual Theatre exploring the archetype of mother; bringing our stories from the personal to universal.",
-      "title": "Water Bearer's Dream",
-      "venue": {
-        "address": "2828 Southeast Stephens Street",
-        "city": "Portland",
-        "latitude": 45.509511,
-        "longitude": -122.63705,
-        "name": "The Lantern"
       }
     },
     {
@@ -92624,6 +92678,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-22T02:00:00-07:00",
+      "id": "dopdx:17927148",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791267855/event-17927148.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/21/trivia-sippi-weekly-quiz-night-tickets",
+      "organizer": "The Atlantis Lounge",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-21T17:30:00-07:00",
+      "summary": "The Atlantis Lounge at Mississippi Pizza Pub is excited to announce a new weekly trivia event! Michael Rainey, one of the hosts and organizers of the monthly Nerd Nite at the Pub, brings his formidable talents to the new Pub Quiz/Trivia Night. Rainey writes and hosts the weekly event drawing from nerdy subjects. The event will test the audience in a broad knowledge base. Bring your friends for a fun time!",
+      "title": "Trivia-sippi! Weekly Quiz Night!",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-21T19:30:00-07:00",
@@ -94540,6 +94624,36 @@
         "address": "1195 SE Powell Dr",
         "city": "Portland",
         "name": "The Showdown"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-22T02:00:00-07:00",
+      "id": "dopdx:17927149",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791267857/event-17927149.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/21/mango-twist-live-music-dancing-tickets",
+      "organizer": "The Atlantis Lounge",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 11.5,
+        "min": 11.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-21T20:00:00-07:00",
+      "summary": "Mango Twist is a musical collective playing tropical Latin music for that summer breeze feeling! Our intimate venue transforms into a vibrant dance floor filled with high-energy music, good drinks, and welcoming vibes. Whether you’re a seasoned dancer or just coming to move and have fun, everyone is invited to join the party! Every Wednesday! **Atlantis Lounge is All Ages until 9:00 PM, at that time any minors will be asked to leave the space. Thanks for your understanding!",
+      "title": "Mango Twist- Live Music & Dancing!",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
       }
     },
     {
@@ -103796,7 +103910,7 @@
       ],
       "end_at": "2026-10-24T02:00:00-07:00",
       "id": "dopdx:17928327",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791307466/event-17928327.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/10/23/qdoc-jaripeo-tickets",
       "price": {
@@ -116548,7 +116662,7 @@
       ],
       "end_at": "2026-10-26T02:00:00-07:00",
       "id": "dopdx:17928330",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791307472/event-17928330.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/10/25/qdoc-hunky-jesus-tickets",
       "price": {
@@ -117372,7 +117486,7 @@
       ],
       "end_at": "2026-10-26T02:00:00-07:00",
       "id": "dopdx:17928331",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791307472/event-17928331.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/10/25/qdoc-q-shorts-tickets",
       "price": {
@@ -118355,7 +118469,7 @@
       ],
       "end_at": "2026-10-26T02:00:00-07:00",
       "id": "dopdx:17928332",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791307473/event-17928332.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/10/25/qdoc-acting-like-women-tickets",
       "price": {
@@ -119247,7 +119361,7 @@
       ],
       "end_at": "2026-10-26T02:00:00-07:00",
       "id": "dopdx:17928333",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791307473/event-17928333.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/10/25/qdoc-antidiva-the-carole-pope-confessions-tickets",
       "price": {
@@ -185500,5 +185614,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-06T21:54:06+00:00"
+  "generated_at": "2026-10-06T21:54:43+00:00"
 }
