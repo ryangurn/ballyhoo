@@ -28189,6 +28189,40 @@
         "sports"
       ],
       "end_at": "2026-10-10T16:00:00-07:00",
+      "id": "ticketmaster:Z7r9jZ1A7-Oq3",
+      "image_url": "https://s1.ticketm.net/dam/a/98b/16b892d1-f65b-4b45-a6cf-c7737de8298b_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Oq3",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-10T13:00:00-07:00",
+      "summary": "Portland State University Football vs Utah Tech - Wear Black TV: Rose City SportsNet \\(Ch 49.1 w/ Antenna; 13/713 w/ Cable\\) Streaming Video: https://www.espn.com/watch/player/\\_/id/ae93fa3b-091a-4f9b-87ed-fbe70de34cb5 Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3358",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Oq3",
+      "title": "Portland State Vikings Football vs. Utah Tech Trailblazers Football",
+      "venue": {
+        "address": "4450 NE Century Blvd",
+        "city": "Hillsboro",
+        "latitude": 45.616501,
+        "longitude": -122.954498,
+        "name": "Hillsboro Stadium"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-10-10T16:00:00-07:00",
       "id": "willamette_week:18783427@2026-10-10T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b589a407-62da-4341-bcf8-21c843bb5002.large.png",
       "is_all_day": false,
@@ -28211,35 +28245,6 @@
         "latitude": 45.522007,
         "longitude": -123.108985,
         "name": "Hanson Stadium"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-10-10T16:00:00-07:00",
-      "id": "willamette_week:17827380@2026-10-10T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2cc33cba-3382-4f23-9030-5f91033b83c3.large.png",
-      "is_all_day": false,
-      "listing_url": "https://goviks.com/calendar.aspx?game_id=5656&amp;sport_id=1",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T13:00:00-07:00",
-      "summary": "Portland State University Football vs Utah Tech - Wear Black TV: Rose City SportsNet \\(Ch 49.1 w/ Antenna; 13/713 w/ Cable\\) Streaming Video: https://www.espn.com/watch/player/\\_/id/ae93fa3b-091a-4f9b-87ed-fbe70de34cb5 Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3358",
-      "title": "Portland State University Football vs Utah Tech",
-      "venue": {
-        "address": "4450 Northwest 229th Avenue",
-        "city": "Hillsboro",
-        "latitude": 45.55272,
-        "longitude": -122.90778,
-        "name": "Hillsboro Stadium"
       }
     },
     {
@@ -135776,6 +135781,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1Afu0FV",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/halloween-barn-dance-with-silk-showdown-saloon-tickets/14364234",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.1,
+        "min": 23.1
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-29T20:00:00-07:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/halloween-barn-dance-with-silk-showdown-saloon-tickets/14364234",
+      "title": "Halloween Barn Dance with Silk & Steel",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-10-30T02:00:00-07:00",
       "id": "ticketmaster:Z7r9jZ1A7JFuO",
       "image_url": "https://s1.ticketm.net/dam/a/f2e/78b91649-0ca0-48d6-a88a-fb652ee8df2e_RETINA_LANDSCAPE_16_9.jpg",
@@ -156584,7 +156620,7 @@
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 107.61,
+        "max": 35.51,
         "min": 35.51
       },
       "source": {
@@ -156593,7 +156629,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-11-03T20:00:00-08:00",
-      "summary": "Daley is an acclaimed British singer, songwriter and creative artist from Manchester, UK,whose unmistakable falsetto and soul-bearing songwriting first emerged through Londonsunderground music scene and swiftly carried him onto the global stage, where heestablished himself as one of the most distinctive voices in contemporary soul.Touched by the sounds of Prince, Chaka Khan, Sade, Radiohead and George Michael,Daleys sound seamlessly blends classic soul sensibilities with contemporary, alternativeR&B. With two critically acclaimed studio albums and several Top 10 Billboard R&B singles,Daleys artistry has been acknowledged by the Grammys, MOBO Awards, BET and SoulTrain Awards. His collaborations with legends including Stevie Wonder, Jill Scott, MarshaAmbrosius, Gorillaz, Pharrell Williams and Jessie J have further cemented his place amongsome of the most respected artists in the world.Now entering a new era, Daley prepares to unveil the next chapter of his artistic journeywith the release of his long-awaited third album project, supported by his USA Tour... Daley Meet & Greet PackageOne premium reserved ticket or general admission ticket (where applicable)Early entry into the venueExclusive Meet & Greet with DaleyPersonal photo with DaleyAccess to an intimate pre-show Q&A with DaleyExclusive lavender candle by Tap CandlesOfficial Meet & Greet laminate signed by DaleyPriority merchandise shoppingLimited availability",
+      "summary": "Daley is an acclaimed British singer, songwriter and creative artist from Manchester, UK, whose unmistakable falsetto and soul-bearing songwriting first emerged through London's underground music scene and swiftly carried him onto the global stage, where he established himself as one of the most distinctive voices in contemporary soul. Touched by the sounds of Prince, Chaka Khan, Sade, Radiohead and George Michael, Daley's sound seamlessly blends classic soul sensibilities with contemporary, alternative R&B. With two critically acclaimed studio albums and several Top 10 Billboard R&B singles, Daley's artistry has been acknowledged by the Grammys, MOBO Awards, BET and Soul Train Awards. His collaborations with legends including Stevie Wonder, Jill Scott, Marsha Ambrosius, Gorillaz, Pharrell Williams and Jessie J have further cemented his place among some of the most respected artists in the world. Now entering a new era, Daley prepares to unveil the next chapter of his artistic journey with the release of his long-awaited third album project, supported by his USA Tour... Daley Meet & Greet Package One premium reserved ticket or general admission ticket (where applicable) Early entry into the venue Exclusive Meet & Greet with Daley Personal photo with Daley Access to an intimate pre-show Q&A with Daley Exclusive lavender candle by Tap Candles Official Meet & Greet laminate signed by Daley Priority merchandise shopping Limited availability",
       "ticket_url": "https://www.ticketweb.com/event/daley-star-theater-tickets/14193114",
       "title": "DALEY",
       "venue": {
@@ -179994,6 +180030,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1Afu0_f",
+      "image_url": "https://s1.ticketm.net/dam/a/1b1/7f05cb72-35cf-4c81-ad41-7365b49471b1_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/reverend-horton-heat-with-special-jack-london-revue-tickets/14364654",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 64.35,
+        "min": 11.35
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-02-18T20:00:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/reverend-horton-heat-with-special-jack-london-revue-tickets/14364654",
+      "title": "REVEREND HORTON HEAT with Special Guest",
+      "venue": {
+        "address": "529 SW 4th Ave.",
+        "city": "Portland",
+        "latitude": 45.519452,
+        "longitude": -122.676291,
+        "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "obt:838",
@@ -180044,6 +180111,37 @@
       "summary": "w/ OBT Orchestra — Follow Alice down the rabbit hole to Septime Webre’s psychedelic Wonderland with this premium experience package that includes a backstage tour!",
       "ticket_url": "https://my.obt.org/918/924",
       "title": "ALICE (in wonderland)-Premium Experience"
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1Afu0bV",
+      "image_url": "https://s1.ticketm.net/dam/a/1b1/7f05cb72-35cf-4c81-ad41-7365b49471b1_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/reverend-horton-heat-with-special-star-theater-tickets/14364634",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 55.6,
+        "min": 12.88
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-02-19T21:00:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/reverend-horton-heat-with-special-star-theater-tickets/14364634",
+      "title": "REVEREND HORTON HEAT with Special Guest",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
+      }
     },
     {
       "categories": [
@@ -180308,6 +180406,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1Afu0u0",
+      "image_url": "https://s1.ticketm.net/dam/a/1b1/7f05cb72-35cf-4c81-ad41-7365b49471b1_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/reverend-horton-heat-with-special-dantes-tickets/14364364",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-02-20T21:00:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/reverend-horton-heat-with-special-dantes-tickets/14364364",
+      "title": "REVEREND HORTON HEAT with Special Guest",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1Afuvu7",
       "image_url": "https://s1.ticketm.net/dam/a/c3f/9eed9c06-0021-460e-b7d7-dcc1be2bdc3f_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -180444,6 +180573,37 @@
         "latitude": 45.533299,
         "longitude": -122.667442,
         "name": "Veterans Memorial Coliseum"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1Afu0_0",
+      "image_url": "https://s1.ticketm.net/dam/a/1b1/7f05cb72-35cf-4c81-ad41-7365b49471b1_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/reverend-horton-heat-with-special-showdown-saloon-tickets/14364664",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 56.06,
+        "min": 13.86
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-02-21T20:00:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/reverend-horton-heat-with-special-showdown-saloon-tickets/14364664",
+      "title": "REVEREND HORTON HEAT with Special Guest",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -182118,6 +182278,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1Afu0uf",
+      "image_url": "https://s1.ticketm.net/dam/a/d03/5e1b67b9-cb88-40e3-8d71-068f9ca01d03_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/hans-williams-star-theater-tickets/14364354",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 29.33,
+        "min": 29.33
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-03-21T18:00:00-07:00",
+      "summary": "New Orleans-based singer-songwriter Hans Williams makes soulful, dreamy folk shaped by the people and places closest to him. His debut album, Songs for the Neighbors, was born in the backyard o1f his Bayou St. John home, where late-night jams and intimate shows regularly spill over fences and through open windows. Recorded largely live at the house with his longtime band and producer Phin Choukas (Noah Kahan), the record blends folk with touches of soul, funk, psychedelia, and country. At its heart, Songs for the Neighbors is about connection with friends, lovers, family, neighbors, and those no longer here. Warm, intimate, and deeply human, the album captures the feeling of people making music together and Williams belief that even the smallest act of reaching out can bring us closer. Now, Williams is excited to bring Songs for the Neighbors out of the backyard and onto the stage. To play these songs live, see familiar faces, meet new ones, and share the record with the people who have been listening along the way.",
+      "ticket_url": "https://www.ticketweb.com/event/hans-williams-star-theater-tickets/14364354",
+      "title": "HANS WILLIAMS",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_83qLtvQ",
@@ -182840,6 +183031,35 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "ticketmaster:vvG1HZ_fpgFFOD",
+      "image_url": "https://s1.ticketm.net/dam/a/1bb/27e1dbf1-1e21-42f3-b3c3-0ff8dddcd1bb_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://portland5.evenue.net/events/MBAMFORD",
+      "organizer": "LIVE NATION MUSIC",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-04-17T19:30:00-07:00",
+      "ticket_url": "https://portland5.evenue.net/events/MBAMFORD",
+      "title": "Maria Bamford",
+      "venue": {
+        "address": "1111 S.W. Broadway",
+        "city": "Portland",
+        "latitude": 45.5044355,
+        "longitude": -122.6855578,
+        "name": "Newmark Theatre"
       }
     },
     {
@@ -184516,5 +184736,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-06T20:13:38+00:00"
+  "generated_at": "2026-10-06T20:16:08+00:00"
 }
