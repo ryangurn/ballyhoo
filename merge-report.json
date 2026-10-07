@@ -33,6 +33,38 @@
       "venue": "The Foundry"
     },
     {
+      "dropped": "willamette_week:19538841@2026-10-09T21:00",
+      "kept": "dopdx:17486880",
+      "start_at": "2026-10-09T21:00:00-07:00",
+      "title_dropped": "Anna Graves w/ Trinity Jane",
+      "title_kept": "Anna Graves",
+      "venue": "Mississippi Studios"
+    },
+    {
+      "dropped": "willamette_week:19717043@2026-10-09T21:00",
+      "kept": "dopdx:17890597",
+      "start_at": "2026-10-09T21:00:00-07:00",
+      "title_dropped": "Dakota Robins",
+      "title_kept": "Dakota Robins",
+      "venue": "Ponderosa Lounge & Grill"
+    },
+    {
+      "dropped": "willamette_week:19449658@2026-10-09T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPvjN",
+      "start_at": "2026-10-09T21:00:00-07:00",
+      "title_dropped": "Lou Hazel with Jeffrey Silverstein",
+      "title_kept": "Lou Hazel with Jeffrey Silverstein",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19801682@2026-10-09T21:30",
+      "kept": "dopdx:17749547",
+      "start_at": "2026-10-09T21:30:00-07:00",
+      "title_dropped": "Can Can's Hitchcock Hotel",
+      "title_kept": "Can Can’s Hitchcock Hotel",
+      "venue": "Can Can's Paris Theatre"
+    },
+    {
       "dropped": "willamette_week:17827380@2026-10-10T13:00",
       "kept": "ticketmaster:Z7r9jZ1A7-Oq3",
       "start_at": "2026-10-10T13:00:00-07:00",
@@ -959,38 +991,6 @@
       "title_dropped": "Sammy Rae & The Friends",
       "title_kept": "Sammy Rae and The Friends w/ Melt",
       "venue": "McMenamins Crystal Ballroom"
-    },
-    {
-      "dropped": "willamette_week:19538841@2026-10-09T21:00",
-      "kept": "dopdx:17486880",
-      "start_at": "2026-10-09T21:00:00-07:00",
-      "title_dropped": "Anna Graves w/ Trinity Jane",
-      "title_kept": "Anna Graves",
-      "venue": "Mississippi Studios"
-    },
-    {
-      "dropped": "willamette_week:19717043@2026-10-09T21:00",
-      "kept": "dopdx:17890597",
-      "start_at": "2026-10-09T21:00:00-07:00",
-      "title_dropped": "Dakota Robins",
-      "title_kept": "Dakota Robins",
-      "venue": "Ponderosa Lounge & Grill"
-    },
-    {
-      "dropped": "willamette_week:19449658@2026-10-09T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfPvjN",
-      "start_at": "2026-10-09T21:00:00-07:00",
-      "title_dropped": "Lou Hazel with Jeffrey Silverstein",
-      "title_kept": "Lou Hazel with Jeffrey Silverstein",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:19801682@2026-10-09T21:30",
-      "kept": "dopdx:17749547",
-      "start_at": "2026-10-09T21:30:00-07:00",
-      "title_dropped": "Can Can's Hitchcock Hotel",
-      "title_kept": "Can Can’s Hitchcock Hotel",
-      "venue": "Can Can's Paris Theatre"
     },
     {
       "dropped": "dopdx:17339146",
@@ -6521,9 +6521,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6248,
-  "floor_check": "6248 events against a 6248-event baseline",
-  "generated_at": "2026-10-07T14:47:02+00:00",
+  "event_count": 6249,
+  "floor_check": "6249 events against a 6248-event baseline",
+  "generated_at": "2026-10-07T15:31:02+00:00",
   "problems": [],
   "sources": [
     "calagator",
