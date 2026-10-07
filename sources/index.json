@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:09:14+00:00",
+  "generated_at": "2026-10-07T14:47:02+00:00",
   "sources": [
     {
       "event_count": 35,
@@ -38,9 +38,9 @@
     },
     {
       "event_count": 65,
-      "last_run_at": "2026-10-07T07:44:25+00:00",
+      "last_run_at": "2026-10-07T14:46:02+00:00",
       "source_id": "obt",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/obt.json"
     },
     {
@@ -89,7 +89,7 @@
       "event_count": 4113,
       "last_run_at": "2026-10-07T08:45:49+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
