@@ -40279,6 +40279,35 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-31T02:00:00-07:00",
+      "id": "dopdx:17927227",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791269936/event-17927227.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/30/portland-s-haunted-hop-2026-halloween-bar-crawl-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 28.45,
+        "min": 17.79
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-30T20:00:00-07:00",
+      "summary": "Portland's Friday Halloween takeover. One wristband, 4+ bars, no cover, a host and a live crawl map. Fri, Oct 30. 21+",
+      "title": "Portland's Haunted Hop 2026: Halloween Bar Crawl",
+      "venue": {
+        "address": "639 SE Morrison",
+        "city": "Portland",
+        "name": "Star Bar"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-31T02:00:00-07:00",
@@ -40387,35 +40416,6 @@
         "address": "315 NW Davis",
         "city": "Portland",
         "name": "Siren Theater"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-10-31T02:00:00-07:00",
-      "id": "dopdx:17927227",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791269936/event-17927227.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/10/30/portland-s-haunted-hop-2026-halloween-bar-crawl-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 28.45,
-        "min": 17.79
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-10-30T20:00:00-07:00",
-      "summary": "Portland's Friday Halloween takeover. One wristband, 4+ bars, no cover, a host and a live crawl map. Fri, Oct 30. 21+",
-      "title": "Portland's Haunted Hop 2026: Halloween Bar Crawl",
-      "venue": {
-        "address": "639 SE Morrison",
-        "city": "Portland",
-        "name": "Star Bar"
       }
     },
     {
@@ -47438,7 +47438,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-07T01:46:15+00:00",
+  "generated_at": "2026-10-07T09:10:48+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
