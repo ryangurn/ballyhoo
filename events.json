@@ -2203,6 +2203,35 @@
       "categories": [
         "family"
       ],
+      "end_at": "2026-10-07T15:00:00-07:00",
+      "id": "willamette_week:18898171@2026-10-07T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E-IgqiS4bk6BWrtDlzX_kg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/black-family-storytime-165",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T14:00:00-07:00",
+      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and free tickets are available 15 minutes before storytime. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Black Family Storytime",
+      "venue": {
+        "address": "17917 SE Stark Street",
+        "city": "Portland",
+        "latitude": 45.51951806199975,
+        "longitude": -122.47906864110425,
+        "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
       "end_at": "2026-10-07T16:00:00-07:00",
       "id": "willamette_week:18607086@2026-10-07T14:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kjoGIPjR4EKpZErrXhE-Lg.large.png",
@@ -2227,35 +2256,6 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-07T15:00:00-07:00",
-      "id": "willamette_week:18898171@2026-10-07T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E-IgqiS4bk6BWrtDlzX_kg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/black-family-storytime-165",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-07T14:00:00-07:00",
-      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and free tickets are available 15 minutes before storytime. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Black Family Storytime",
-      "venue": {
-        "address": "17917 SE Stark Street",
-        "city": "Portland",
-        "latitude": 45.51951806199975,
-        "longitude": -122.47906864110425,
-        "name": "Rockwood Library"
       }
     },
     {
@@ -3137,6 +3137,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-07T21:00:00-07:00",
+      "id": "willamette_week:18146620@2026-10-07T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-07T18:00:00-07:00",
+      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
+      "title": "Tabletop and Taps",
+      "venue": {
+        "address": "316 SE 123rd Ave D4",
+        "city": "Vancouver",
+        "latitude": 45.619046,
+        "longitude": -122.547103,
+        "name": "Vault 31 Bar"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-10-07T19:00:00-07:00",
@@ -3217,35 +3246,6 @@
         "latitude": 45.761108,
         "longitude": -122.663506,
         "name": "Footprints Church"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-07T21:00:00-07:00",
-      "id": "willamette_week:18146620@2026-10-07T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-07T18:00:00-07:00",
-      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
-      "title": "Tabletop and Taps",
-      "venue": {
-        "address": "316 SE 123rd Ave D4",
-        "city": "Vancouver",
-        "latitude": 45.619046,
-        "longitude": -122.547103,
-        "name": "Vault 31 Bar"
       }
     },
     {
@@ -6489,6 +6489,35 @@
         "family"
       ],
       "end_at": "2026-10-08T11:00:00-07:00",
+      "id": "willamette_week:18977010@2026-10-08T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pePzBwccQUKEy-1YZ2bhwQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/family-storytime-1108",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T10:15:00-07:00",
+      "summary": "Please note this storytime will take place in the children's area of the library. Children from birth to age 6 \\(with a favorite adult\\) will enjoy books, songs, rhymes and movement activities while building language and literacy skills. After storytime, we will have social time with either toys or a craft activity! Attendance is limited and available on a first come, first served basis. Please stay home if anyone in your home is sick. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Family Storytime",
+      "venue": {
+        "address": "1520 NE Village Street",
+        "city": "Fairview",
+        "latitude": 45.53227095409817,
+        "longitude": -122.43932211779094,
+        "name": "Fairview-Columbia Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-08T11:00:00-07:00",
       "id": "willamette_week:19433650@2026-10-08T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
       "is_all_day": false,
@@ -6540,35 +6569,6 @@
         "latitude": 45.551652047946824,
         "longitude": -122.58136760245881,
         "name": "Gregory Heights Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-08T11:00:00-07:00",
-      "id": "willamette_week:18977010@2026-10-08T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pePzBwccQUKEy-1YZ2bhwQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/family-storytime-1108",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-08T10:15:00-07:00",
-      "summary": "Please note this storytime will take place in the children's area of the library. Children from birth to age 6 \\(with a favorite adult\\) will enjoy books, songs, rhymes and movement activities while building language and literacy skills. After storytime, we will have social time with either toys or a craft activity! Attendance is limited and available on a first come, first served basis. Please stay home if anyone in your home is sick. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Family Storytime",
-      "venue": {
-        "address": "1520 NE Village Street",
-        "city": "Fairview",
-        "latitude": 45.53227095409817,
-        "longitude": -122.43932211779094,
-        "name": "Fairview-Columbia Library"
       }
     },
     {
@@ -6660,6 +6660,35 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-08T11:00:00-07:00",
+      "id": "willamette_week:19504939@2026-10-08T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SdanofgJgEGTE-2cb1jk-A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/book-babies-playtime-46",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T10:30:00-07:00",
+      "summary": "Babies from birth to 12 months \\(with a favorite adult\\) enjoy songs, action rhymes, and playtime, with bonus socialization for babies and the adults. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Book Babies Playtime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-10-08T12:00:00-07:00",
@@ -6686,35 +6715,6 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-08T11:00:00-07:00",
-      "id": "willamette_week:19504939@2026-10-08T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SdanofgJgEGTE-2cb1jk-A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/book-babies-978",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-08T10:30:00-07:00",
-      "summary": "Babies from birth to 12 months \\(with a favorite adult\\) enjoy songs, action rhymes, and playtime, with bonus socialization for babies and the adults. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Book Babies Playtime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
       }
     },
     {
@@ -9860,6 +9860,35 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-10-08T21:00:00-07:00",
+      "id": "willamette_week:18846798@2026-10-08T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41303adc-6311-419e-8756-cc69b17d8c41.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goviks.com/calendar.aspx?game_id=5845&amp;sport_id=14",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T19:00:00-07:00",
+      "summary": "Portland State University Women's Volleyball vs Montana - National Hero Day Streaming Video: https://www.espn.com/watch/player/\\_/id/786c1231-5166-4509-ae7f-cb2fccd44e75 Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3475",
+      "title": "Portland State University Women's Volleyball vs Montana",
+      "venue": {
+        "address": "930 SW Hall St",
+        "city": "Portland",
+        "latitude": 45.51053261034869,
+        "longitude": -122.68625725650317,
+        "name": "Viking Pavilion"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-08T21:00:00-07:00",
@@ -9889,6 +9918,32 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "id": "willamette_week:19906167@2026-10-08T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/56924039-b795-486d-a4a5-a79d4c6399ff.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T19:00:00-07:00",
+      "title": "Varsity Football at Gladstone",
+      "venue": {
+        "address": "18800 Portland Ave",
+        "city": "Gladstone",
+        "latitude": 45.387307,
+        "longitude": -122.597384,
+        "name": "Gladstone High School"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:19989904@2026-10-08T19:00",
@@ -9913,35 +9968,6 @@
         "latitude": 45.521573,
         "longitude": -123.08612,
         "name": "McMenamins Grand Lodge -- Grand Lodge"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-10-08T21:00:00-07:00",
-      "id": "willamette_week:18846798@2026-10-08T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41303adc-6311-419e-8756-cc69b17d8c41.large.png",
-      "is_all_day": false,
-      "listing_url": "https://goviks.com/calendar.aspx?game_id=5845&amp;sport_id=14",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-08T19:00:00-07:00",
-      "summary": "Portland State University Women's Volleyball vs Montana - National Hero Day Streaming Video: https://www.espn.com/watch/player/\\_/id/786c1231-5166-4509-ae7f-cb2fccd44e75 Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3475",
-      "title": "Portland State University Women's Volleyball vs Montana",
-      "venue": {
-        "address": "930 SW Hall St",
-        "city": "Portland",
-        "latitude": 45.51053261034869,
-        "longitude": -122.68625725650317,
-        "name": "Viking Pavilion"
       }
     },
     {
@@ -10088,32 +10114,6 @@
         "latitude": 45.615034,
         "longitude": -123.111331,
         "name": "Banks High School"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "id": "willamette_week:19906167@2026-10-08T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/56924039-b795-486d-a4a5-a79d4c6399ff.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-08T19:00:00-07:00",
-      "title": "Varsity Football at Gladstone",
-      "venue": {
-        "address": "18800 Portland Ave",
-        "city": "Gladstone",
-        "latitude": 45.387307,
-        "longitude": -122.597384,
-        "name": "Gladstone High School"
       }
     },
     {
@@ -11412,6 +11412,37 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Hawthorne Theatre"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-09T00:00:00-07:00",
+      "id": "willamette_week:17343334@2026-10-08T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cef083ae-cbce-4bed-97bc-90a3fcf3a0da.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-08T20:00:00-07:00",
+      "summary": "Best karaoke hosts around! Craig and Taresa host karaoke at the Red Rooster Saloon every Thursday and Saturday night. Join us for a seriously fun night!",
+      "title": "Totally Kroaked Karaoke",
+      "venue": {
+        "address": "2004 Main Street, Suite 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -12979,35 +13010,6 @@
     },
     {
       "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-09T11:30:00-07:00",
-      "id": "willamette_week:18818262@2026-10-09T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gT-pPZAYRU-1AJtwHbg8fQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/family-playtime-76",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-09T11:00:00-07:00",
-      "summary": "Play and learning go hand in hand. Join other families in a fun playtime at the library with books, toys, music, and all the room you need to learn through play. As Mr. Rogers said, \"... for children play is serious learning. Play is really the work of childhood.\"",
-      "title": "Family Playtime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "end_at": "2026-10-09T12:30:00-07:00",
@@ -13033,6 +13035,35 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-09T11:30:00-07:00",
+      "id": "willamette_week:18818262@2026-10-09T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gT-pPZAYRU-1AJtwHbg8fQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/family-playtime-76",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T11:00:00-07:00",
+      "summary": "Play and learning go hand in hand. Join other families in a fun playtime at the library with books, toys, music, and all the room you need to learn through play. As Mr. Rogers said, \"... for children play is serious learning. Play is really the work of childhood.\"",
+      "title": "Family Playtime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -17748,34 +17779,6 @@
       "categories": [
         "music"
       ],
-      "id": "willamette_week:19449658@2026-10-09T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ln37GogbMkqRL0L0E9oWkw.large.png",
-      "is_all_day": false,
-      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Flou-hazel-with-jeffrey-silverstein-showdown-saloon-tickets%252F14941723%26utm_medium%3daffiliate",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-09T20:00:00-07:00",
-      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Flou-hazel-with-jeffrey-silverstein-showdown-saloon-tickets%252F14941723%26utm_medium%3daffiliate",
-      "title": "Lou Hazel with Jeffrey Silverstein",
-      "venue": {
-        "address": "1223 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.501092,
-        "longitude": -122.652817,
-        "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "end_at": "2026-10-09T23:59:00-07:00",
       "id": "willamette_week:20085828@2026-10-09T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vbr_-nLfCUGYB-UcAeR4Hw.large.jpg",
@@ -17801,6 +17804,34 @@
         "latitude": 45.582611084,
         "longitude": -122.6875534058,
         "name": "Kenton Club"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19449658@2026-10-09T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ln37GogbMkqRL0L0E9oWkw.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Flou-hazel-with-jeffrey-silverstein-showdown-saloon-tickets%252F14941723%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-09T20:00:00-07:00",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Flou-hazel-with-jeffrey-silverstein-showdown-saloon-tickets%252F14941723%26utm_medium%3daffiliate",
+      "title": "Lou Hazel with Jeffrey Silverstein",
+      "venue": {
+        "address": "1223 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.501092,
+        "longitude": -122.652817,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -19641,35 +19672,6 @@
       "categories": [
         "outdoors"
       ],
-      "end_at": "2026-10-10T13:00:00-07:00",
-      "id": "willamette_week:19747035@2026-10-10T08:45",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/288da7f4-a0a9-48c8-96f9-4b2c39a6ef09.large.png",
-      "is_all_day": false,
-      "listing_url": "http://friendsoftrees.org/youthwaiver",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T08:45:00-07:00",
-      "summary": "Kick off the 2026-2027 planting season by joining a Jackson Bottom Wetlands event to plant hundreds of native plants to support wetland habitat enhancement! Jackson Bottom is a 635-acre wetland complex on the Tualatin River that is designated as an Important Bird Area for both migrating and non-migratory species. Your support is crucial to the success of this project! Please arrive by 8:45amto sign-in and be assigned a planting crew. The planting starts at 9:00am. We provide gloves, tools, and planting guidance, as well as breakfast snacks and coffee/tea/hot chocolate -- all you need to do is show up dressed for the weather wearing sturdy shoes or boots, and be ready to have fun! How do I register? Register by filling out this quick form . Groups, families, and individuals welcome! Under age 18? We request that youth 15 and under volunteer with a parent/guardian. Youth 16 and older can volunteer on their own and will need to hand us a youth waiver form signed by their parent/guardian. Questions? Please check out our Volunteer FAQ webpage . Our team is also happy to assist! Reach us at volunteer@friendsoftrees.org volunteer@friendsoftrees.org or 503-595-0213. We look forward to planting together soon! A special thank you to the Portland Fire for sponsoring this event! This event is in partnership with the City of Hillsboro.",
-      "title": "Jackson Bottom Wetlands planting",
-      "venue": {
-        "address": "2600 SW Hillsboro Hwy",
-        "city": "Hillsboro",
-        "latitude": 45.501427,
-        "longitude": -122.990207,
-        "name": "Hillsboro"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
       "end_at": "2026-10-10T14:00:00-07:00",
       "id": "willamette_week:19353450@2026-10-10T08:45",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/77f2234c-9a7d-4167-870a-3bc5ee246c00.large.png",
@@ -19693,6 +19695,35 @@
         "latitude": 45.38466,
         "longitude": -122.78667,
         "name": "Tualatin City Services"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-10-10T13:00:00-07:00",
+      "id": "willamette_week:19747035@2026-10-10T08:45",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/288da7f4-a0a9-48c8-96f9-4b2c39a6ef09.large.png",
+      "is_all_day": false,
+      "listing_url": "http://friendsoftrees.org/youthwaiver",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T08:45:00-07:00",
+      "summary": "Kick off the 2026-2027 planting season by joining a Jackson Bottom Wetlands event to plant hundreds of native plants to support wetland habitat enhancement! Jackson Bottom is a 635-acre wetland complex on the Tualatin River that is designated as an Important Bird Area for both migrating and non-migratory species. Your support is crucial to the success of this project! Please arrive by 8:45amto sign-in and be assigned a planting crew. The planting starts at 9:00am. We provide gloves, tools, and planting guidance, as well as breakfast snacks and coffee/tea/hot chocolate -- all you need to do is show up dressed for the weather wearing sturdy shoes or boots, and be ready to have fun! How do I register? Register by filling out this quick form . Groups, families, and individuals welcome! Under age 18? We request that youth 15 and under volunteer with a parent/guardian. Youth 16 and older can volunteer on their own and will need to hand us a youth waiver form signed by their parent/guardian. Questions? Please check out our Volunteer FAQ webpage . Our team is also happy to assist! Reach us at volunteer@friendsoftrees.org volunteer@friendsoftrees.org or 503-595-0213. We look forward to planting together soon! A special thank you to the Portland Fire for sponsoring this event! This event is in partnership with the City of Hillsboro.",
+      "title": "Jackson Bottom Wetlands planting",
+      "venue": {
+        "address": "2600 SW Hillsboro Hwy",
+        "city": "Hillsboro",
+        "latitude": 45.501427,
+        "longitude": -122.990207,
+        "name": "Hillsboro"
       }
     },
     {
@@ -21311,64 +21342,6 @@
     },
     {
       "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-10T11:00:00-07:00",
-      "id": "willamette_week:18905785@2026-10-10T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JV6kl_DaTEyfZr2jc-O1bw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1139",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T10:15:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and free tickets are available 15 minutes before storytime. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "805 SE 122nd Avenue",
-        "city": "Portland",
-        "latitude": 45.516677291858464,
-        "longitude": -122.53848246502874,
-        "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-10T11:00:00-07:00",
-      "id": "willamette_week:19634275@2026-10-10T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/family-storytime-1086",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T10:15:00-07:00",
-      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Family Storytime",
-      "venue": {
-        "address": "6008 SE 49th Avenue",
-        "city": "Portland",
-        "latitude": 45.478934715870885,
-        "longitude": -122.61206954232797,
-        "name": "Woodstock Library"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-10-10T11:00:00-07:00",
@@ -21423,6 +21396,64 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-10T11:00:00-07:00",
+      "id": "willamette_week:18905785@2026-10-10T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JV6kl_DaTEyfZr2jc-O1bw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1139",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T10:15:00-07:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and free tickets are available 15 minutes before storytime. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "805 SE 122nd Avenue",
+        "city": "Portland",
+        "latitude": 45.516677291858464,
+        "longitude": -122.53848246502874,
+        "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-10T11:00:00-07:00",
+      "id": "willamette_week:19634275@2026-10-10T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/family-storytime-1086",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T10:15:00-07:00",
+      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Family Storytime",
+      "venue": {
+        "address": "6008 SE 49th Avenue",
+        "city": "Portland",
+        "latitude": 45.478934715870885,
+        "longitude": -122.61206954232797,
+        "name": "Woodstock Library"
       }
     },
     {
@@ -21489,11 +21520,11 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-10-10T11:15:00-07:00",
-      "id": "willamette_week:18609432@2026-10-10T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6rvGFprt3UGhRDDzpl8JHA.large.png",
+      "end_at": "2026-10-10T12:00:00-07:00",
+      "id": "willamette_week:18616664@2026-10-10T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JV6kl_DaTEyfZr2jc-O1bw.large.png",
       "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/book-babies-1054",
+      "listing_url": "https://multcolib.org/events-classes/family-storytime-playtime-32",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -21504,14 +21535,14 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-10T10:30:00-07:00",
-      "summary": "Babies from birth to 12 months \\(with a favorite adult\\) enjoy songs, action rhymes, and playtime, with bonus socialization for babies and the adults. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Book Babies Playtime",
+      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and free tickets are available 15 minutes before storytime. OR Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Family Storytime with Playtime",
       "venue": {
-        "address": "17917 SE Stark Street",
+        "address": "512 N Killingsworth Street",
         "city": "Portland",
-        "latitude": 45.51951806199975,
-        "longitude": -122.47906864110425,
-        "name": "Rockwood Library"
+        "latitude": 45.5624530442023,
+        "longitude": -122.67152133558135,
+        "name": "North Portland Library"
       }
     },
     {
@@ -21550,11 +21581,11 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-10-10T12:00:00-07:00",
-      "id": "willamette_week:18616664@2026-10-10T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JV6kl_DaTEyfZr2jc-O1bw.large.png",
+      "end_at": "2026-10-10T11:15:00-07:00",
+      "id": "willamette_week:18609432@2026-10-10T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6rvGFprt3UGhRDDzpl8JHA.large.png",
       "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/family-storytime-playtime-32",
+      "listing_url": "https://multcolib.org/events-classes/book-babies-1054",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -21565,14 +21596,14 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-10T10:30:00-07:00",
-      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and free tickets are available 15 minutes before storytime. OR Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Family Storytime with Playtime",
+      "summary": "Babies from birth to 12 months \\(with a favorite adult\\) enjoy songs, action rhymes, and playtime, with bonus socialization for babies and the adults. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Book Babies Playtime",
       "venue": {
-        "address": "512 N Killingsworth Street",
+        "address": "17917 SE Stark Street",
         "city": "Portland",
-        "latitude": 45.5624530442023,
-        "longitude": -122.67152133558135,
-        "name": "North Portland Library"
+        "latitude": 45.51951806199975,
+        "longitude": -122.47906864110425,
+        "name": "Rockwood Library"
       }
     },
     {
@@ -23756,35 +23787,6 @@
     },
     {
       "categories": [
-        "literary"
-      ],
-      "end_at": "2026-10-10T17:00:00-07:00",
-      "id": "willamette_week:18608885@2026-10-10T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hQNSf1GER0G9WgUk0kjg9w.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/buraanbur-somali-culture-dance-poetry-women-7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T14:00:00-07:00",
-      "summary": "Experience a mesmerizing performance of buraanbur, a Somali form of dance, music, and poetry performed by and for women. Come learn about beautiful buraanbur and Somali culture, from the local artist and educator, Amina Abdirahman. This event will be in Soomalli and English. It is appropriate for women. Waxay la kulmaan bandhig faneed xamaasad leh oo buraanbur ah, oo ah qaab Soomaaliyeed oo qoob ka ciyaar, muusig iyo gabayo ah oo ay qaadaan dumarka iyo dumarka. Kaalay wax ka baro buraanburka quruxda badan iyo dhaqanka Soomaalida, oo ay ka baratay fanaanada iyo baraha deegaanka, Aamina Cabdiraxmaan. Dhacdadani waxay noqon doontaa Soomalli iyo Ingiriis. Barnaamijkan waxaa loogu talagalay daawadayaasha haweenka.",
-      "title": "Buraanbur: Somali Culture, Dance, Poetry for Women",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
         "tech"
       ],
       "end_at": "2026-10-10T16:00:00-07:00",
@@ -23810,6 +23812,35 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "end_at": "2026-10-10T17:00:00-07:00",
+      "id": "willamette_week:18608885@2026-10-10T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hQNSf1GER0G9WgUk0kjg9w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/buraanbur-somali-culture-dance-poetry-women-7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T14:00:00-07:00",
+      "summary": "Experience a mesmerizing performance of buraanbur, a Somali form of dance, music, and poetry performed by and for women. Come learn about beautiful buraanbur and Somali culture, from the local artist and educator, Amina Abdirahman. This event will be in Soomalli and English. It is appropriate for women. Waxay la kulmaan bandhig faneed xamaasad leh oo buraanbur ah, oo ah qaab Soomaaliyeed oo qoob ka ciyaar, muusig iyo gabayo ah oo ay qaadaan dumarka iyo dumarka. Kaalay wax ka baro buraanburka quruxda badan iyo dhaqanka Soomaalida, oo ay ka baratay fanaanada iyo baraha deegaanka, Aamina Cabdiraxmaan. Dhacdadani waxay noqon doontaa Soomalli iyo Ingiriis. Barnaamijkan waxaa loogu talagalay daawadayaasha haweenka.",
+      "title": "Buraanbur: Somali Culture, Dance, Poetry for Women",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -26465,35 +26496,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "end_at": "2026-10-10T21:00:00-07:00",
-      "id": "willamette_week:18846799@2026-10-10T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c0a9941a-c1ec-4e56-aed9-a08e58729f67.large.png",
-      "is_all_day": false,
-      "listing_url": "https://goviks.com/calendar.aspx?game_id=5846&amp;sport_id=14",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-10T19:00:00-07:00",
-      "summary": "Portland State University Women's Volleyball vs Montana State - Homecoming Streaming Video: https://www.espn.com/watch/player/\\_/id/3b3da3fc-d55b-42b7-878c-8c3eb8a27d54 Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3476",
-      "title": "Portland State University Women's Volleyball vs Montana State",
-      "venue": {
-        "address": "930 SW Hall St",
-        "city": "Portland",
-        "latitude": 45.51053261034869,
-        "longitude": -122.68625725650317,
-        "name": "Viking Pavilion"
-      }
-    },
-    {
-      "categories": [
         "film"
       ],
       "end_at": "2026-10-10T21:00:00-07:00",
@@ -26519,6 +26521,35 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-10-10T21:00:00-07:00",
+      "id": "willamette_week:18846799@2026-10-10T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c0a9941a-c1ec-4e56-aed9-a08e58729f67.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goviks.com/calendar.aspx?game_id=5846&amp;sport_id=14",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T19:00:00-07:00",
+      "summary": "Portland State University Women's Volleyball vs Montana State - Homecoming Streaming Video: https://www.espn.com/watch/player/\\_/id/3b3da3fc-d55b-42b7-878c-8c3eb8a27d54 Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3476",
+      "title": "Portland State University Women's Volleyball vs Montana State",
+      "venue": {
+        "address": "930 SW Hall St",
+        "city": "Portland",
+        "latitude": 45.51053261034869,
+        "longitude": -122.68625725650317,
+        "name": "Viking Pavilion"
       }
     },
     {
@@ -28372,7 +28403,9 @@
       "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
       },
       "source": {
         "id": "willamette_week",
@@ -28383,7 +28416,7 @@
       "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. Best Karaoke Hosts around! Craig and Taresa will be at the Red Rooster for karaoke every Thursday and Saturday night. Join us for a seriously fun night!",
       "title": "Totally Kroaked Karaoke",
       "venue": {
-        "address": "2004 Main Street Ste 110",
+        "address": "2004 Main Street, Suite 110",
         "city": "Forest Grove",
         "latitude": 45.519786,
         "longitude": -123.1123,
@@ -29649,7 +29682,6 @@
       "categories": [
         "film"
       ],
-      "end_at": "2026-10-10T00:00:00-07:00",
       "id": "willamette_week:18401190@2026-10-10T23:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Tlew0VYp8ECjNTtlCPchzQ.large.png",
       "is_all_day": false,
@@ -29678,7 +29710,6 @@
       "categories": [
         "music"
       ],
-      "end_at": "2026-10-10T00:00:00-07:00",
       "id": "ticketmaster:rZ7HnEZ1AfvKZ7",
       "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -35792,6 +35823,34 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19867855@2026-10-11T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vmzR5G29h0q9WNmD8QuZJg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portland.heliumcomedy.com/events/142707",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-11T19:30:00-07:00",
+      "summary": "Biography Video Website October 11 The Neon Room at Helium: Papp Johnson T",
+      "title": "The Neon Room at Helium: Papp Johnson",
+      "venue": {
+        "address": "1510 SE 9th Ave",
+        "city": "Portland",
+        "latitude": 45.5120477825,
+        "longitude": -122.6566256583,
+        "name": "Helium Comedy Club"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19080957@2026-10-11T19:30",
@@ -35817,34 +35876,6 @@
         "latitude": 45.522891283,
         "longitude": -122.6847714186,
         "name": "Crystal Ballroom"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "willamette_week:19867855@2026-10-11T19:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vmzR5G29h0q9WNmD8QuZJg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://portland.heliumcomedy.com/events/142707",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-11T19:30:00-07:00",
-      "summary": "Biography Video Website October 11 The Neon Room at Helium: Papp Johnson T",
-      "title": "The Neon Room at Helium: Papp Johnson",
-      "venue": {
-        "address": "1510 SE 9th Ave",
-        "city": "Portland",
-        "latitude": 45.5120477825,
-        "longitude": -122.6566256583,
-        "name": "Helium Comedy Club"
       }
     },
     {
@@ -42385,35 +42416,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "end_at": "2026-10-13T19:30:00-07:00",
-      "id": "willamette_week:19042764@2026-10-13T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-l2mUxbLP064eJ-DciOw8A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/citizenship-class-goodwill-16",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-13T18:00:00-07:00",
-      "summary": "Learn about the process of becoming a citizen. Prepare for your citizenship interview. Study United States history and government for the examination. Classes are taught in English. Registration information call 503.577.9984, or email mcl.adult.literacy@multco.us Clases gratuitas de Ciudadanía en persona Aprenda sobre la historia de los Estados Unidos, su gobierno y otra información importante para prepararse para el examen de Ciudadanía. Estas clases se enseñan en inglés. Para inscribirse llame al 503.577.9984, o escriba a mcl.adult.literacy@multco.us 免费入籍课程 了解美国历史、政府 和其他信息，以准备 入籍考试。 英语授课 请致电 本课程以英语授课。\\(503\\) 577-9984 或 发电邮 mcl.adult.literacy@multco.us 注册 Lớp học thi nhập quốc tịch Tìm hiểu về lịch sử và chính phủ Hoa kỳ cùng thông tin chuẩn bị thi nhập quốc tịch. Lớp học hướng dẫn bằng tiếng Anh. Để ghi danh, xin gọi 503.577.9984 hoặc gửi email cho mcl.adult.literacy@multco.us Бесплатные классы по гражданству США Узнайте об истории и правительстве США, а также другую необходимую информацию для подготовки к экзамену на гражданство. Занятия проводятся на английском языке. Для регистрации звоните \\(503\\) 577-9984 или отправьте электронное письмо по адресу mcl.adult.literacy@multco.us.",
-      "title": "Citizenship Class - Goodwill",
-      "venue": {
-        "address": "205 NE Russell Street",
-        "city": "Portland",
-        "latitude": 45.54121794278324,
-        "longitude": -122.66326099447758,
-        "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-10-13T20:30:00-07:00",
@@ -42440,6 +42442,35 @@
         "latitude": 45.492607,
         "longitude": -122.654914,
         "name": "Poly Pocket"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-10-13T19:30:00-07:00",
+      "id": "willamette_week:19042764@2026-10-13T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-l2mUxbLP064eJ-DciOw8A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/citizenship-class-goodwill-16",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-13T18:00:00-07:00",
+      "summary": "Learn about the process of becoming a citizen. Prepare for your citizenship interview. Study United States history and government for the examination. Classes are taught in English. Registration information call 503.577.9984, or email mcl.adult.literacy@multco.us Clases gratuitas de Ciudadanía en persona Aprenda sobre la historia de los Estados Unidos, su gobierno y otra información importante para prepararse para el examen de Ciudadanía. Estas clases se enseñan en inglés. Para inscribirse llame al 503.577.9984, o escriba a mcl.adult.literacy@multco.us 免费入籍课程 了解美国历史、政府 和其他信息，以准备 入籍考试。 英语授课 请致电 本课程以英语授课。\\(503\\) 577-9984 或 发电邮 mcl.adult.literacy@multco.us 注册 Lớp học thi nhập quốc tịch Tìm hiểu về lịch sử và chính phủ Hoa kỳ cùng thông tin chuẩn bị thi nhập quốc tịch. Lớp học hướng dẫn bằng tiếng Anh. Để ghi danh, xin gọi 503.577.9984 hoặc gửi email cho mcl.adult.literacy@multco.us Бесплатные классы по гражданству США Узнайте об истории и правительстве США, а также другую необходимую информацию для подготовки к экзамену на гражданство. Занятия проводятся на английском языке. Для регистрации звоните \\(503\\) 577-9984 или отправьте электронное письмо по адресу mcl.adult.literacy@multco.us.",
+      "title": "Citizenship Class - Goodwill",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -42913,35 +42944,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-13T20:15:00-07:00",
-      "id": "willamette_week:19540002@2026-10-13T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/36dad397-e126-4541-beab-aaf65ad0f5bb.large.png",
-      "is_all_day": false,
-      "listing_url": "https://omsi.edu/events/circle-of-light/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-13T18:30:00-07:00",
-      "summary": "Circle of Light: The Love of Rumi & Shams is an immersive 360° dome experience that ushers you into the mystical world of the Persian Sufi poet Rumi, featuring the voice of the most renowned living Iranian vocalist,Shahram Nazeri, performed in Rumi's original language.",
-      "title": "Circle of Light: The Love of Rumi & Shams",
-      "venue": {
-        "address": "1945 SE Water Ave",
-        "city": "Portland",
-        "latitude": 45.508437953549475,
-        "longitude": -122.66602451429013,
-        "name": "OMSI"
-      }
-    },
-    {
-      "categories": [
         "food"
       ],
       "end_at": "2026-10-13T20:30:00-07:00",
@@ -42967,6 +42969,35 @@
         "latitude": 45.5283737183,
         "longitude": -122.6631393433,
         "name": "Oregon Convention Center"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-13T20:15:00-07:00",
+      "id": "willamette_week:19540002@2026-10-13T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/36dad397-e126-4541-beab-aaf65ad0f5bb.large.png",
+      "is_all_day": false,
+      "listing_url": "https://omsi.edu/events/circle-of-light/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-13T18:30:00-07:00",
+      "summary": "Circle of Light: The Love of Rumi & Shams is an immersive 360° dome experience that ushers you into the mystical world of the Persian Sufi poet Rumi, featuring the voice of the most renowned living Iranian vocalist,Shahram Nazeri, performed in Rumi's original language.",
+      "title": "Circle of Light: The Love of Rumi & Shams",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
       }
     },
     {
@@ -47070,6 +47101,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-14T21:00:00-07:00",
+      "id": "willamette_week:18146620@2026-10-14T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-14T18:00:00-07:00",
+      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
+      "title": "Tabletop and Taps",
+      "venue": {
+        "address": "316 SE 123rd Ave D4",
+        "city": "Vancouver",
+        "latitude": 45.619046,
+        "longitude": -122.547103,
+        "name": "Vault 31 Bar"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-14T20:00:00-07:00",
@@ -47178,35 +47238,6 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-14T21:00:00-07:00",
-      "id": "willamette_week:18146620@2026-10-14T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-14T18:00:00-07:00",
-      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
-      "title": "Tabletop and Taps",
-      "venue": {
-        "address": "316 SE 123rd Ave D4",
-        "city": "Vancouver",
-        "latitude": 45.619046,
-        "longitude": -122.547103,
-        "name": "Vault 31 Bar"
       }
     },
     {
@@ -50522,13 +50553,13 @@
     },
     {
       "categories": [
-        "civic"
+        "family"
       ],
-      "end_at": "2026-10-15T12:30:00-07:00",
-      "id": "willamette_week:19259167@2026-10-15T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jAdSH03S2EaY63pFnNW4Sg.large.png",
+      "end_at": "2026-10-15T11:00:00-07:00",
+      "id": "willamette_week:19504939@2026-10-15T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SdanofgJgEGTE-2cb1jk-A.large.png",
       "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/volunteers-america-rockwood-library-17",
+      "listing_url": "https://multcolib.org/events-classes/book-babies-playtime-47",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -50539,14 +50570,14 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-15T10:30:00-07:00",
-      "summary": "Come meet with Volunteers of America at the library! Get help with housing, shelter, behavioral and mental health in a safe space. Talk about family safety, re-entry from the criminal justice system and more with members of the community! This program is first come, first served - no reservations required.",
-      "title": "Volunteers of America at Rockwood Library",
+      "summary": "Babies from birth to 12 months \\(with a favorite adult\\) enjoy songs, action rhymes, and playtime, with bonus socialization for babies and the adults. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Book Babies Playtime",
       "venue": {
-        "address": "17917 SE Stark Street",
+        "address": "8226 N Denver Avenue",
         "city": "Portland",
-        "latitude": 45.51951806199975,
-        "longitude": -122.47906864110425,
-        "name": "Rockwood Library"
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -50581,13 +50612,13 @@
     },
     {
       "categories": [
-        "family"
+        "civic"
       ],
-      "end_at": "2026-10-15T11:00:00-07:00",
-      "id": "willamette_week:19504939@2026-10-15T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SdanofgJgEGTE-2cb1jk-A.large.png",
+      "end_at": "2026-10-15T12:30:00-07:00",
+      "id": "willamette_week:19259167@2026-10-15T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jAdSH03S2EaY63pFnNW4Sg.large.png",
       "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/book-babies-979",
+      "listing_url": "https://multcolib.org/events-classes/4d-recovery-rockwood-library-3",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -50598,14 +50629,14 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-15T10:30:00-07:00",
-      "summary": "Babies from birth to 12 months \\(with a favorite adult\\) enjoy songs, action rhymes, and playtime, with bonus socialization for babies and the adults. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Book Babies Playtime",
+      "summary": "Come meet with Volunteers of America at the library! Get help with housing, shelter, behavioral and mental health in a safe space. Talk about family safety, re-entry from the criminal justice system and more with members of the community! This program is first come, first served - no reservations required.",
+      "title": "Volunteers of America at Rockwood Library",
       "venue": {
-        "address": "8226 N Denver Avenue",
+        "address": "17917 SE Stark Street",
         "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
+        "latitude": 45.51951806199975,
+        "longitude": -122.47906864110425,
+        "name": "Rockwood Library"
       }
     },
     {
@@ -51687,35 +51718,6 @@
     },
     {
       "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-15T17:30:00-07:00",
-      "id": "willamette_week:18616656@2026-10-15T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ExNJwEUi3E-W3lyKIupq-g.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/creative-learning-bambu-3d-printer-90",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-15T16:00:00-07:00",
-      "summary": "Use a 3D printer and get help from staff on creating a project of your choice \\(subject to time limits\\). No experience necessary! A selection of colors of PLA will be available for you to use. Space is limited and registration is required. Registration opens September 24. Children in grades 5 and under must be accompanied by an attentive teen or adult. Made possible by gifts to The Library Foundation , a local nonprofit dedicated to enhancing our library's leadership, innovation and reach through private support.",
-      "title": "Creative Learning: Bambu 3D Printer",
-      "venue": {
-        "address": "7905 SE Holgate Boulevard",
-        "city": "Portland",
-        "latitude": 45.490504558338586,
-        "longitude": -122.58224808281963,
-        "name": "Holgate Library"
-      }
-    },
-    {
-      "categories": [
         "tech"
       ],
       "end_at": "2026-10-15T17:30:00-07:00",
@@ -51770,6 +51772,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-15T17:30:00-07:00",
+      "id": "willamette_week:18616656@2026-10-15T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ExNJwEUi3E-W3lyKIupq-g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/creative-learning-bambu-3d-printer-90",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-15T16:00:00-07:00",
+      "summary": "Use a 3D printer and get help from staff on creating a project of your choice \\(subject to time limits\\). No experience necessary! A selection of colors of PLA will be available for you to use. Space is limited and registration is required. Registration opens September 24. Children in grades 5 and under must be accompanied by an attentive teen or adult. Made possible by gifts to The Library Foundation , a local nonprofit dedicated to enhancing our library's leadership, innovation and reach through private support.",
+      "title": "Creative Learning: Bambu 3D Printer",
+      "venue": {
+        "address": "7905 SE Holgate Boulevard",
+        "city": "Portland",
+        "latitude": 45.490504558338586,
+        "longitude": -122.58224808281963,
+        "name": "Holgate Library"
       }
     },
     {
@@ -55207,6 +55238,37 @@
         "arts"
       ],
       "end_at": "2026-10-16T00:00:00-07:00",
+      "id": "willamette_week:17343334@2026-10-15T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cef083ae-cbce-4bed-97bc-90a3fcf3a0da.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-15T20:00:00-07:00",
+      "summary": "Best karaoke hosts around! Craig and Taresa host karaoke at the Red Rooster Saloon every Thursday and Saturday night. Join us for a seriously fun night!",
+      "title": "Totally Kroaked Karaoke",
+      "venue": {
+        "address": "2004 Main Street, Suite 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-16T00:00:00-07:00",
       "id": "willamette_week:19784843@2026-10-15T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e978361b-97f5-46be-a303-5cb31fe8a7fa.large.png",
       "is_all_day": false,
@@ -56855,35 +56917,6 @@
     },
     {
       "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-16T11:30:00-07:00",
-      "id": "willamette_week:18818262@2026-10-16T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gT-pPZAYRU-1AJtwHbg8fQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/family-playtime-77",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-16T11:00:00-07:00",
-      "summary": "Play and learning go hand in hand. Join other families in a fun playtime at the library with books, toys, music, and all the room you need to learn through play. As Mr. Rogers said, \"... for children play is serious learning. Play is really the work of childhood.\"",
-      "title": "Family Playtime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "end_at": "2026-10-16T12:30:00-07:00",
@@ -56909,6 +56942,35 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-16T11:30:00-07:00",
+      "id": "willamette_week:18818262@2026-10-16T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gT-pPZAYRU-1AJtwHbg8fQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/family-playtime-77",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T11:00:00-07:00",
+      "summary": "Play and learning go hand in hand. Join other families in a fun playtime at the library with books, toys, music, and all the room you need to learn through play. As Mr. Rogers said, \"... for children play is serious learning. Play is really the work of childhood.\"",
+      "title": "Family Playtime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -64238,6 +64300,36 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-10-17T15:00:00-07:00",
+      "id": "willamette_week:20086265@2026-10-17T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/h8nHIJtuqEm03d4iih2vHA.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-17T10:00:00-07:00",
+      "summary": "Come one and all who love plants and/or African Violets in particular because we'll have many available. Members of the Portland African Violet Association will be on hand to answer questions. 10 am - 3pm or until sold out!",
+      "title": "African Violet Sale",
+      "venue": {
+        "address": "9000 SE Division",
+        "city": "Portland",
+        "latitude": 45.504218,
+        "longitude": -122.570527,
+        "name": "Portland Nursery on Division"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-10-17T11:00:00-07:00",
@@ -65086,35 +65178,6 @@
     },
     {
       "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-17T11:00:00-07:00",
-      "id": "willamette_week:18905785@2026-10-17T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JV6kl_DaTEyfZr2jc-O1bw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1140",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-17T10:15:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and free tickets are available 15 minutes before storytime. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "805 SE 122nd Avenue",
-        "city": "Portland",
-        "latitude": 45.516677291858464,
-        "longitude": -122.53848246502874,
-        "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-10-17T11:00:00-07:00",
@@ -65140,6 +65203,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-17T11:00:00-07:00",
+      "id": "willamette_week:18905785@2026-10-17T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JV6kl_DaTEyfZr2jc-O1bw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1140",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-17T10:15:00-07:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and free tickets are available 15 minutes before storytime. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "805 SE 122nd Avenue",
+        "city": "Portland",
+        "latitude": 45.516677291858464,
+        "longitude": -122.53848246502874,
+        "name": "Midland Library"
       }
     },
     {
@@ -71540,14 +71632,16 @@
       "categories": [
         "arts"
       ],
-      "end_at": "2026-10-18T00:00:00-07:00",
+      "end_at": "2026-10-18T01:00:00-07:00",
       "id": "willamette_week:17343334@2026-10-17T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cef083ae-cbce-4bed-97bc-90a3fcf3a0da.large.png",
       "is_all_day": false,
       "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
       },
       "source": {
         "id": "willamette_week",
@@ -71558,7 +71652,7 @@
       "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. Best Karaoke Hosts around! Craig and Taresa will be at the Red Rooster for karaoke every Thursday and Saturday night. Join us for a seriously fun night!",
       "title": "Totally Kroaked Karaoke",
       "venue": {
-        "address": "2004 Main Street Ste 110",
+        "address": "2004 Main Street, Suite 110",
         "city": "Forest Grove",
         "latitude": 45.519786,
         "longitude": -123.1123,
@@ -72777,7 +72871,6 @@
       "categories": [
         "film"
       ],
-      "end_at": "2026-10-17T00:00:00-07:00",
       "id": "willamette_week:18401189@2026-10-17T22:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8hDYAetqbEuvb-LCfvwsgQ.large.png",
       "is_all_day": false,
@@ -72806,7 +72899,6 @@
       "categories": [
         "music"
       ],
-      "end_at": "2026-10-17T00:00:00-07:00",
       "id": "ticketmaster:rZ7HnEZ1AfvKZV",
       "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -74164,7 +74256,7 @@
       "id": "willamette_week:18548791@2026-10-18T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8ORql_8hA0a9HceOrDiOJw.large.png",
       "is_all_day": false,
-      "listing_url": "https://lansugarden.org/event/tai-chi-fundamentals-2/2026-10-18/",
+      "listing_url": "https://www.facebook.com/events/930346956548563/930347039881888/?active_tab=about",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -74175,7 +74267,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-18T10:30:00-07:00",
-      "summary": "Get moving with a beginner Tai Chi class by Many Roads Martial Arts Center on Sundays. 10:30 – 11:30 AM | Sundays, May 3 – October 25, 2026 Many Roads Martial Arts Center is offering an introductory Tai Chi class at Lan Su on Sundays at 10:30AM. This class will introduce the fundamental principles of Tai Chi Chaun \\(or Taijiquan\\) using the Yang Style 24 Posture Form. We will work on posture and body alignment alongside principles of movement and meditation. We will also discuss how Tai Chi blends health, meditation, and martial application. This class is suitable for all levels but will be particularly helpful for beginners of all ages. Get Admission Meet the Instructors: Many Roads Martial Arts Center Jenny Lohr, Owner/Instructor Jenny has been practicing Shaolin Kung Fu and Tai Chi since 2005. As the owner of Many Roads Martial Arts Center, her focus is nurturing a supportive and safe learning environment while challenging everyone to keep growing and improving. Jenny loves the physical and mental challenges of martial arts and is very excited to share them with the students and instructors at the center. Jay Twitchell, Instructor Jay has studied various martial arts systems including boxing, wrestling, judo, karate, taekwondo, aikido, hopkido, kumdo, and muay thai kick boxing since he was 10. In other words, he has been used as a punching bag for over 30 years by masters and lifelong practitioners of these systems. His lifetime of experience getting kicked, punched, choked, kneed, elbowed, and thrown are invaluable in teaching others how not to be. Balancing his martial studies, Jay has 20 years of experience as a massage therapist and movement specialist, offering him a deep knowledge of the human body and healthy practice. Myk Olsen, Instructor Myk has been a Tai Chi Chuan practitioner since 1997 and has been teaching since 2013. His primary teachers were Gao Jamin and Yu Shaowen. Over the years, Myk has learned a multitude of forms in Yang, Chen, Wu, and Sun styles—both open-hand and weapons \\(straight sword, broadsword, staff, spear, cane, deerhorn knives, and daggers\\). While he used to compete in both forms and Push-Hands, Myk now focuses more time on teaching. His teaching style is student-centered and is focused on achieving a balance between the meditative and martial aspects of the forms. Myk also teaches a Tai Chi class specifically geared toward those with mobility and balance issues on Sunday afternoon. Joel, Instructor A lifetime student of martial arts, Joel has been training Shaolin Kung Fu and Tai Chi since 1999 and teaching since 2009. His teaching goal is to provide tools to improve every student’s physical, mental, and emotional health in a supportive, encouraging learning environment. Joel’s primary teaching focus is Chen Tai Chi as taught by Master George Xu \\(Xu Guo Ming\\). He also teaches our black belt Shaolin curriculum, Yang style Tai Chi, and 5 Element Qi Gong. Learn more Or follow them on social media: Facebook | Instagram Parking & Directions Free Lan Su Parking There is free first come, first served parking in our sister lot next to the garden at 424 NW Third Avenue. Additional metered parking and garages are available on surrounding streets.",
+      "summary": "Many Roads Martial Arts Center is offering an introductory Tai Chi class at Lan Su on Sundays at 10:30AM. This class will introduce the fundamental principles of Tai Chi Chaun \\(or Taijiquan\\) using the Yang Style 24 Posture Form. We will work on posture and body alignment alongside principles of movement and meditation. We will also discuss how Tai Chi blends health, meditation, and martial application. This class is suitable for all levels but will be particularly helpful for beginners of all ages. Free with admission and membership.",
       "ticket_url": "https://shop.lansugarden.org/calendar.aspx",
       "title": "Tai Chi Fundamentals",
       "venue": {
@@ -79794,35 +79886,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-10-19T11:00:00-07:00",
-      "id": "willamette_week:18616681@2026-10-19T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JV6kl_DaTEyfZr2jc-O1bw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/family-storytime-1183",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-19T10:15:00-07:00",
-      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Family Storytime",
-      "venue": {
-        "address": "205 NE Russell Street",
-        "city": "Portland",
-        "latitude": 45.54121794278324,
-        "longitude": -122.66326099447758,
-        "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-10-19T11:15:00-07:00",
       "id": "willamette_week:18608891@2026-10-19T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4mWMI6xvMkmOu318Fk0Jpg.large.png",
@@ -79846,6 +79909,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-19T11:00:00-07:00",
+      "id": "willamette_week:18616681@2026-10-19T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JV6kl_DaTEyfZr2jc-O1bw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/family-storytime-1183",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-19T10:15:00-07:00",
+      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Family Storytime",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -81240,35 +81332,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-19T21:00:00-07:00",
-      "id": "willamette_week:19331122@2026-10-19T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Pn7fIcv0GEmW9RFdTSMvFw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://cstpdx.com/event/in-my-skin/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-19T19:00:00-07:00",
-      "summary": "Auteur Marina de Van’s gorgeous and grotesque horror breakthrough follows Esther, who develops an increasingly disturbing relationship with her body, one where the lines between painful pleasure and self-mutilation become irrevocably blurred. Screened in French with English subtitles. Director: Marina de Van Country: France Year: 2002 Runtime: 93 minutes",
-      "title": "In My Skin",
-      "venue": {
-        "address": "2522 SE Clinton St",
-        "city": "Portland",
-        "latitude": 45.5033352971,
-        "longitude": -122.640119344,
-        "name": "Clinton Street Theater"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "id": "willamette_week:19504941@2026-10-19T19:00",
@@ -81322,6 +81385,35 @@
         "latitude": 45.637555,
         "longitude": -122.67183,
         "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-19T21:00:00-07:00",
+      "id": "willamette_week:19331122@2026-10-19T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Pn7fIcv0GEmW9RFdTSMvFw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://cstpdx.com/event/in-my-skin/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-19T19:00:00-07:00",
+      "summary": "Auteur Marina de Van’s gorgeous and grotesque horror breakthrough follows Esther, who develops an increasingly disturbing relationship with her body, one where the lines between painful pleasure and self-mutilation become irrevocably blurred. Screened in French with English subtitles. Director: Marina de Van Country: France Year: 2002 Runtime: 93 minutes",
+      "title": "In My Skin",
+      "venue": {
+        "address": "2522 SE Clinton St",
+        "city": "Portland",
+        "latitude": 45.5033352971,
+        "longitude": -122.640119344,
+        "name": "Clinton Street Theater"
       }
     },
     {
@@ -83941,35 +84033,6 @@
         "community"
       ],
       "end_at": "2026-10-20T19:30:00-07:00",
-      "id": "willamette_week:18607079@2026-10-20T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M3Zr95edvEOwzAmLdWGcOA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/ged-tutoring-46",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-20T18:00:00-07:00",
-      "summary": "Venga a estudiar uno-a-uno con un tutor. Se proveerán libros y materiales. Prepárese para el GED: matemáticas, artes del lenguaje, ciencias y estudios sociales. Para obtener más información, llame al 503.577-.9984. Drop in to work one-on-one with a tutor. Books and materials are provided. Prepare for the GED: math, language arts, science and social studies For more information, call or text 503.577.9984.",
-      "title": "GED Tutoring",
-      "venue": {
-        "address": "805 SE 122nd Avenue",
-        "city": "Portland",
-        "latitude": 45.516677291858464,
-        "longitude": -122.53848246502874,
-        "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-20T19:30:00-07:00",
       "id": "willamette_week:18607081@2026-10-20T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_Q1ig9Cn9UyNuuecCyauIA.large.png",
       "is_all_day": false,
@@ -83992,6 +84055,35 @@
         "latitude": 45.490504558338586,
         "longitude": -122.58224808281963,
         "name": "Holgate Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-20T19:30:00-07:00",
+      "id": "willamette_week:18607079@2026-10-20T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M3Zr95edvEOwzAmLdWGcOA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/ged-tutoring-46",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-20T18:00:00-07:00",
+      "summary": "Venga a estudiar uno-a-uno con un tutor. Se proveerán libros y materiales. Prepárese para el GED: matemáticas, artes del lenguaje, ciencias y estudios sociales. Para obtener más información, llame al 503.577-.9984. Drop in to work one-on-one with a tutor. Books and materials are provided. Prepare for the GED: math, language arts, science and social studies For more information, call or text 503.577.9984.",
+      "title": "GED Tutoring",
+      "venue": {
+        "address": "805 SE 122nd Avenue",
+        "city": "Portland",
+        "latitude": 45.516677291858464,
+        "longitude": -122.53848246502874,
+        "name": "Midland Library"
       }
     },
     {
@@ -88084,6 +88176,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-21T21:00:00-07:00",
+      "id": "willamette_week:18146620@2026-10-21T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-21T18:00:00-07:00",
+      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
+      "title": "Tabletop and Taps",
+      "venue": {
+        "address": "316 SE 123rd Ave D4",
+        "city": "Vancouver",
+        "latitude": 45.619046,
+        "longitude": -122.547103,
+        "name": "Vault 31 Bar"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "willamette_week:20081362@2026-10-21T18:00",
@@ -88165,35 +88286,6 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-21T21:00:00-07:00",
-      "id": "willamette_week:18146620@2026-10-21T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-21T18:00:00-07:00",
-      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
-      "title": "Tabletop and Taps",
-      "venue": {
-        "address": "316 SE 123rd Ave D4",
-        "city": "Vancouver",
-        "latitude": 45.619046,
-        "longitude": -122.547103,
-        "name": "Vault 31 Bar"
       }
     },
     {
@@ -91288,35 +91380,6 @@
         "family"
       ],
       "end_at": "2026-10-22T11:00:00-07:00",
-      "id": "willamette_week:18977010@2026-10-22T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pePzBwccQUKEy-1YZ2bhwQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/family-storytime-1110",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-22T10:15:00-07:00",
-      "summary": "Please note this storytime will take place in the children's area of the library. Children from birth to age 6 \\(with a favorite adult\\) will enjoy books, songs, rhymes and movement activities while building language and literacy skills. After storytime, we will have social time with either toys or a craft activity! Attendance is limited and available on a first come, first served basis. Please stay home if anyone in your home is sick. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Family Storytime",
-      "venue": {
-        "address": "1520 NE Village Street",
-        "city": "Fairview",
-        "latitude": 45.53227095409817,
-        "longitude": -122.43932211779094,
-        "name": "Fairview-Columbia Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-22T11:00:00-07:00",
       "id": "willamette_week:19433650@2026-10-22T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
       "is_all_day": false,
@@ -91339,6 +91402,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-22T11:00:00-07:00",
+      "id": "willamette_week:18977010@2026-10-22T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pePzBwccQUKEy-1YZ2bhwQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/family-storytime-1110",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-22T10:15:00-07:00",
+      "summary": "Please note this storytime will take place in the children's area of the library. Children from birth to age 6 \\(with a favorite adult\\) will enjoy books, songs, rhymes and movement activities while building language and literacy skills. After storytime, we will have social time with either toys or a craft activity! Attendance is limited and available on a first come, first served basis. Please stay home if anyone in your home is sick. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Family Storytime",
+      "venue": {
+        "address": "1520 NE Village Street",
+        "city": "Fairview",
+        "latitude": 45.53227095409817,
+        "longitude": -122.43932211779094,
+        "name": "Fairview-Columbia Library"
       }
     },
     {
@@ -91418,7 +91510,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-22T10:30:00-07:00",
-      "summary": "Come meet with Volunteers of America at the library! Get help with housing, shelter, behavioral and mental health in a safe space. Talk about family safety, re-entry from the criminal justice system and more with members of the community! This program is first come, first served - no reservations required.",
+      "summary": "Come meet with Volunteers of America at the library! Get help with housing, shelter, behavioral and mental health in a safe space. Talk about family safety, re-entry from the criminal justice system and more with members of the community! This program is first come, first served - no reservations required. ¡Venga a reunirse con Volunteers of America en la biblioteca! Reciba ayuda relacionada con la vivienda, el alojamiento temporal y la salud mental y conductual en un entorno seguro. ¡Hable sobre la seguridad familiar, la reintegración tras el paso por el sistema de justicia penal y otros temas con miembros de la comunidad! La atención se ofrece por orden de llegada; no se requiere reserva.",
       "title": "Volunteers of America at Rockwood Library",
       "venue": {
         "address": "17917 SE Stark Street",
@@ -91426,35 +91518,6 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-22T11:00:00-07:00",
-      "id": "willamette_week:19504939@2026-10-22T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SdanofgJgEGTE-2cb1jk-A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/book-babies-980",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-22T10:30:00-07:00",
-      "summary": "Babies from birth to 12 months \\(with a favorite adult\\) enjoy songs, action rhymes, and playtime, with bonus socialization for babies and the adults. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Book Babies Playtime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
       }
     },
     {
@@ -91485,6 +91548,35 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-22T11:00:00-07:00",
+      "id": "willamette_week:19504939@2026-10-22T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SdanofgJgEGTE-2cb1jk-A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/book-babies-playtime-48",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-22T10:30:00-07:00",
+      "summary": "Babies from birth to 12 months \\(with a favorite adult\\) enjoy songs, action rhymes, and playtime, with bonus socialization for babies and the adults. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Book Babies Playtime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -92528,7 +92620,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-22T16:00:00-07:00",
-      "summary": "Quý vị có câu hỏi về kỹ thuật? Không cần đặt hẹn, xin hãy vào gặp một hỗ trợ viên thân thiện và am hiểu, người sẽ giúp quý vị tìm ra câu trả lời cho những câu hỏi về thiết bị di động, trang web, tải nội dung hoặc thông tin, thiết bị đọc sách điện tử, bắt đầu làm quen với kỹ thuật và còn nhiều vấn đề khác. Hỗ trợ viên giúp quý vị trong 30 phút, trả lời câu hỏi và hướng dẫn sử dụng những thiết bị và ứng dụng khác nhau. Nếu quý vị cần giúp với loại phone nhiều chức năng, máy tính bảng hoặc laptop, xin vui lòng đem theo. Quý vị nên nhớ mang theo tên sử dụng và mật mã đăng nhập của các thiết bị vì có thể cần để chúng ta có thể cùng nhau làm việc thành công.",
+      "summary": "Quý vị có câu hỏi về kỹ thuật? Không cần đặt hẹn, xin hãy vào gặp một hỗ trợ viên thân thiện và am hiểu, người sẽ giúp quý vị tim ra câu trả lời cho những câu hỏi về thiết bị di động, trang web, tải nội dung hoặc thông tin, thiết bị đọc sách điện tử, bắt đầu làm quen với kỹ thuật và còn nhiều vấn đề khác. Hỗ trợ viên giúp quý vị trong 30 phút, trả lời câu hỏi và hướng dẫn sử dụng những thiết bị và ứng dụng khác nhau. Nếu quý vị cần giúp với loại phone nhiều chức năng, máy tinh bảng hoặc laptop, xin vui lòng đem theo. Quý vị nên nhớ mang theo tên sử dụng và mật mã đăng nhập của các thiết bị vi có thể cần để chúng ta có thể cùng nhau làm việc thành công.",
       "title": "Giờ trợ giúp kỹ thuật bằng tiếng Việt/Vietnamese Tech Help",
       "venue": {
         "address": "7921 NE Sandy Boulevard",
@@ -95466,6 +95558,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-23T00:00:00-07:00",
+      "id": "willamette_week:17343334@2026-10-22T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cef083ae-cbce-4bed-97bc-90a3fcf3a0da.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-22T20:00:00-07:00",
+      "summary": "Best karaoke hosts around! Craig and Taresa host karaoke at the Red Rooster Saloon every Thursday and Saturday night. Join us for a seriously fun night!",
+      "title": "Totally Kroaked Karaoke",
+      "venue": {
+        "address": "2004 Main Street, Suite 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-23T01:00:00-07:00",
@@ -96842,34 +96965,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-23T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-10-23T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-23T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-10-23T11:30:00-07:00",
@@ -96895,6 +96990,34 @@
         "latitude": 45.582817572658264,
         "longitude": -122.68645335011975,
         "name": "Kenton Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-23T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-10-23T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
       }
     },
     {
@@ -104096,6 +104219,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-24T11:00:00-07:00",
+      "id": "willamette_week:18941160@2026-10-24T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iOz7CSOOlEiHZLuCzSvqVQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/music-and-dance-157",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T10:15:00-07:00",
+      "summary": "Enjoy songs, rhymes, rhythm and dance in this active program for children ages 0 to 6 and their parents or caregivers. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Music and Dance",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-24T11:00:00-07:00",
@@ -104150,35 +104302,6 @@
         "latitude": 45.478934715870885,
         "longitude": -122.61206954232797,
         "name": "Woodstock Library"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-24T11:00:00-07:00",
-      "id": "willamette_week:18941160@2026-10-24T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iOz7CSOOlEiHZLuCzSvqVQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/music-and-dance-157",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-24T10:15:00-07:00",
-      "summary": "Enjoy songs, rhymes, rhythm and dance in this active program for children ages 0 to 6 and their parents or caregivers. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Music and Dance",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
       }
     },
     {
@@ -105529,35 +105652,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-24T17:00:00-07:00",
-      "id": "willamette_week:19808387@2026-10-24T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DtDYKAbop06Xzen44QIy_A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/27921239957529785/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-24T14:00:00-07:00",
-      "summary": "Say It Isn't So!!!!! One of our all time favorite musical groups is calling it quits and we are doing it in STYLE in the Barn! Come on out and enjoy this lovely group's covers of so many of your favorite soft rock songs from the decades, for one last time. In addition to our elegant Carpenter Creek wines, we serve a nice selection of beer, hard cider, soft drinks and also charcuterie and cheese & fruit plates. Something for everyone! This is a FAMILY FRIENDLY band, bring the kids, and doggies are always welcome too.",
-      "title": "Mae Day Band Farewell Performance in the Big Red Barn!",
-      "venue": {
-        "address": "47266 SW Carpenter Creek Rd",
-        "city": "Forest Grove",
-        "latitude": 45.50213,
-        "longitude": -123.16301,
-        "name": "Carpenter Creek Farm and Winery"
-      }
-    },
-    {
-      "categories": [
         "tech"
       ],
       "end_at": "2026-10-24T16:00:00-07:00",
@@ -105583,6 +105677,35 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-24T17:00:00-07:00",
+      "id": "willamette_week:19808387@2026-10-24T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DtDYKAbop06Xzen44QIy_A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/27921239957529785/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T14:00:00-07:00",
+      "summary": "Say It Isn't So!!!!! One of our all time favorite musical groups is calling it quits and we are doing it in STYLE in the Barn! Come on out and enjoy this lovely group's covers of so many of your favorite soft rock songs from the decades, for one last time. In addition to our elegant Carpenter Creek wines, we serve a nice selection of beer, hard cider, soft drinks and also charcuterie and cheese & fruit plates. Something for everyone! This is a FAMILY FRIENDLY band, bring the kids, and doggies are always welcome too.",
+      "title": "Mae Day Band Farewell Performance in the Big Red Barn!",
+      "venue": {
+        "address": "47266 SW Carpenter Creek Rd",
+        "city": "Forest Grove",
+        "latitude": 45.50213,
+        "longitude": -123.16301,
+        "name": "Carpenter Creek Farm and Winery"
       }
     },
     {
@@ -109509,14 +109632,16 @@
       "categories": [
         "arts"
       ],
-      "end_at": "2026-10-25T00:00:00-07:00",
+      "end_at": "2026-10-25T01:00:00-07:00",
       "id": "willamette_week:17343334@2026-10-24T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cef083ae-cbce-4bed-97bc-90a3fcf3a0da.large.png",
       "is_all_day": false,
       "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
       },
       "source": {
         "id": "willamette_week",
@@ -109527,7 +109652,7 @@
       "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. Best Karaoke Hosts around! Craig and Taresa will be at the Red Rooster for karaoke every Thursday and Saturday night. Join us for a seriously fun night!",
       "title": "Totally Kroaked Karaoke",
       "venue": {
-        "address": "2004 Main Street Ste 110",
+        "address": "2004 Main Street, Suite 110",
         "city": "Forest Grove",
         "latitude": 45.519786,
         "longitude": -123.1123,
@@ -110700,7 +110825,6 @@
       "categories": [
         "film"
       ],
-      "end_at": "2026-10-24T00:00:00-07:00",
       "id": "willamette_week:17759279@2026-10-24T23:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Tlew0VYp8ECjNTtlCPchzQ.large.png",
       "is_all_day": false,
@@ -110729,7 +110853,6 @@
       "categories": [
         "music"
       ],
-      "end_at": "2026-10-24T00:00:00-07:00",
       "id": "ticketmaster:rZ7HnEZ1AfvKvf",
       "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -114106,9 +114229,9 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-25T16:15:00-07:00",
-      "summary": "To mark the passing of the seasons, (and to celebrate Scottish poet Robert Burns) Portland Revels holds three pub sings a year – Bobbie Burns Night in January, a Spring Sing in March or April, and a Fall Sing in September or October. These are casual affairs where our community gathers together at a pub or similar establishment to eat, drink, and sing together. All ages. Portland Revels 2026 “Spooky” Fall Pub Sing It is spooky season! Join us to enjoy a drink, a bite to eat and the chance to sing chilling, thrilling and autumnal songs together in celebration of the season. Costumes STRONGLY encouraged. Doors open at 4:15, singing starts at about 4:30! Reserve your free ticket(s)! https://app.arts-people.com/index.php?ticketing=revel",
+      "summary": "To mark the passing of the seasons, \\(and to celebrate Scottish poet Robert Burns\\) Portland Revels holds three pub sings a year – Bobbie Burns Night in January, a Spring Sing in March or April, and a Fall Sing in September or October. These are casual affairs where our community gathers together at a pub or similar establishment to eat, drink, and sing together. All ages. Portland Revels 2026 “Spooky” Fall Pub Sing It is spooky season! Join us to enjoy a drink, a bite to eat and the chance to sing chilling, thrilling and autumnal songs together in celebration of the season. Costumes STRONGLY encouraged. Doors open at 4:15, singing starts at about 4:30! Reserve your free ticket\\(s\\)! https://app.arts-people.com/index.php?ticketing=revel",
       "ticket_url": "https://app.arts-people.com/index.php?ticketing=revel",
-      "title": "Portland Revels 2026 “Spooky” Fall Pub Sing",
+      "title": "Portland Revels 2026 \"Spooky\" Fall Pub Sing",
       "venue": {
         "address": "1945 NW Quimby Ave",
         "city": "Portland",
@@ -116632,35 +116755,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-10-26T11:00:00-07:00",
-      "id": "willamette_week:18616681@2026-10-26T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JV6kl_DaTEyfZr2jc-O1bw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/family-storytime-1184",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-26T10:15:00-07:00",
-      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Family Storytime",
-      "venue": {
-        "address": "205 NE Russell Street",
-        "city": "Portland",
-        "latitude": 45.54121794278324,
-        "longitude": -122.66326099447758,
-        "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-10-26T11:15:00-07:00",
       "id": "willamette_week:18616683@2026-10-26T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ADDpSShokUit2lIxil43lg.large.png",
@@ -116684,6 +116778,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-26T11:00:00-07:00",
+      "id": "willamette_week:18616681@2026-10-26T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JV6kl_DaTEyfZr2jc-O1bw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/family-storytime-1184",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-26T10:15:00-07:00",
+      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Family Storytime",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -116919,35 +117042,6 @@
     },
     {
       "categories": [
-        "tech"
-      ],
-      "end_at": "2026-10-26T15:30:00-07:00",
-      "id": "willamette_week:18608894@2026-10-26T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hadod1ETUEeD_ZX0ijDLHQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/microsoft-word-goodwill-industries-53",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-26T14:00:00-07:00",
-      "summary": "Begin to master the spectrum of capabilities within Microsoft Word, gaining practical formatting skills and an introduction to advanced skills such as design and layout. Students will learn to navigate the tabs and ribbon within Word and understand how to use the tools that word processing software can provide to job seekers and employees in the workforce. This course provides a jumping off point into the multitude of software offered through Microsoft Office. Microsoft Word Class Objectives: Learn how to interact with and access the application. Get started using the basic tools to open, save, and create new documents. Identify the different tabs in Word and how they can be used. Explore page setup options and keyboard shortcuts. Review how to check, protect and share documents. Registration opens October 5. Presented by volunteers from Goodwill Industries of the Columbia Willamette . Browse more technology classes",
-      "title": "Microsoft Word with Goodwill Industries",
-      "venue": {
-        "address": "205 NE Russell Street",
-        "city": "Portland",
-        "latitude": 45.54121794278324,
-        "longitude": -122.66326099447758,
-        "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "end_at": "2026-10-26T15:30:00-07:00",
@@ -116973,6 +117067,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-26T15:30:00-07:00",
+      "id": "willamette_week:18608894@2026-10-26T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hadod1ETUEeD_ZX0ijDLHQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/microsoft-word-goodwill-industries-53",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-26T14:00:00-07:00",
+      "summary": "Begin to master the spectrum of capabilities within Microsoft Word, gaining practical formatting skills and an introduction to advanced skills such as design and layout. Students will learn to navigate the tabs and ribbon within Word and understand how to use the tools that word processing software can provide to job seekers and employees in the workforce. This course provides a jumping off point into the multitude of software offered through Microsoft Office. Microsoft Word Class Objectives: Learn how to interact with and access the application. Get started using the basic tools to open, save, and create new documents. Identify the different tabs in Word and how they can be used. Explore page setup options and keyboard shortcuts. Review how to check, protect and share documents. Registration opens October 5. Presented by volunteers from Goodwill Industries of the Columbia Willamette . Browse more technology classes",
+      "title": "Microsoft Word with Goodwill Industries",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -121458,35 +121581,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "end_at": "2026-10-27T21:00:00-07:00",
-      "id": "willamette_week:19695903@2026-10-27T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d79fec9e-625d-494a-8623-ed009ee58656.large.png",
-      "is_all_day": false,
-      "listing_url": "https://goviks.com/calendar.aspx?game_id=5928&amp;sport_id=8",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-27T19:00:00-07:00",
-      "summary": "Portland State University Women's Basketball vs Warner Pacific - Exhibition Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3573",
-      "title": "Portland State University Women's Basketball vs Warner Pacific - Exhibition",
-      "venue": {
-        "address": "930 SW Hall St",
-        "city": "Portland",
-        "latitude": 45.51053261034869,
-        "longitude": -122.68625725650317,
-        "name": "Viking Pavilion"
-      }
-    },
-    {
-      "categories": [
         "film"
       ],
       "end_at": "2026-10-27T21:00:00-07:00",
@@ -121512,6 +121606,35 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-10-27T21:00:00-07:00",
+      "id": "willamette_week:19695903@2026-10-27T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d79fec9e-625d-494a-8623-ed009ee58656.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goviks.com/calendar.aspx?game_id=5928&amp;sport_id=8",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-27T19:00:00-07:00",
+      "summary": "Portland State University Women's Basketball vs Warner Pacific - Exhibition Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3573",
+      "title": "Portland State University Women's Basketball vs Warner Pacific - Exhibition",
+      "venue": {
+        "address": "930 SW Hall St",
+        "city": "Portland",
+        "latitude": 45.51053261034869,
+        "longitude": -122.68625725650317,
+        "name": "Viking Pavilion"
       }
     },
     {
@@ -123896,7 +124019,6 @@
       "categories": [
         "community"
       ],
-      "end_at": "2026-10-28T06:59:00-07:00",
       "id": "willamette_week:19504942@2026-10-28T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
       "is_all_day": false,
@@ -124068,35 +124190,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-10-28T16:00:00-07:00",
-      "id": "willamette_week:18607086@2026-10-28T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kjoGIPjR4EKpZErrXhE-Lg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/creative-learning-glowforge-laser-cutter-38",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-28T14:00:00-07:00",
-      "summary": "Use a Glowforge laser cutter to engrave and cut designs out of acrylic or wood, with assistance from staff and volunteers. No experience needed! A selection of laser-safe materials will be available for you to use. Space is limited and registration is required. Registration opens October 7. Children in grades 5 and under must be accompanied by an attentive teen or adult. People with sensory concerns should know that the Glowforge is noisy and can produce strong smells. Made possible by gifts to The Library Foundation , a local nonprofit dedicated to enhancing our library's leadership, innovation and reach through private support.",
-      "title": "Creative Learning: Glowforge Laser Cutter",
-      "venue": {
-        "address": "805 SE 122nd Avenue",
-        "city": "Portland",
-        "latitude": 45.516677291858464,
-        "longitude": -122.53848246502874,
-        "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-10-28T15:00:00-07:00",
       "id": "willamette_week:18898171@2026-10-28T14:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E-IgqiS4bk6BWrtDlzX_kg.large.png",
@@ -124120,6 +124213,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-28T16:00:00-07:00",
+      "id": "willamette_week:18607086@2026-10-28T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kjoGIPjR4EKpZErrXhE-Lg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/creative-learning-glowforge-laser-cutter-38",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-28T14:00:00-07:00",
+      "summary": "Use a Glowforge laser cutter to engrave and cut designs out of acrylic or wood, with assistance from staff and volunteers. No experience needed! A selection of laser-safe materials will be available for you to use. Space is limited and registration is required. Registration opens October 7. Children in grades 5 and under must be accompanied by an attentive teen or adult. People with sensory concerns should know that the Glowforge is noisy and can produce strong smells. Made possible by gifts to The Library Foundation , a local nonprofit dedicated to enhancing our library's leadership, innovation and reach through private support.",
+      "title": "Creative Learning: Glowforge Laser Cutter",
+      "venue": {
+        "address": "805 SE 122nd Avenue",
+        "city": "Portland",
+        "latitude": 45.516677291858464,
+        "longitude": -122.53848246502874,
+        "name": "Midland Library"
       }
     },
     {
@@ -124698,6 +124820,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-28T21:00:00-07:00",
+      "id": "willamette_week:18146620@2026-10-28T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-28T18:00:00-07:00",
+      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
+      "title": "Tabletop and Taps",
+      "venue": {
+        "address": "316 SE 123rd Ave D4",
+        "city": "Vancouver",
+        "latitude": 45.619046,
+        "longitude": -122.547103,
+        "name": "Vault 31 Bar"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "willamette_week:20081367@2026-10-28T18:00",
@@ -124807,35 +124958,6 @@
         "latitude": 45.761108,
         "longitude": -122.663506,
         "name": "Footprints Church"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-28T21:00:00-07:00",
-      "id": "willamette_week:18146620@2026-10-28T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9fe41d13-ca65-4d23-8ff6-bfed718324b6.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.meetup.com/tabletop-and-taps/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-28T18:00:00-07:00",
-      "summary": "Open table gaming hosted by Tabletop and Taps meetup.",
-      "title": "Tabletop and Taps",
-      "venue": {
-        "address": "316 SE 123rd Ave D4",
-        "city": "Vancouver",
-        "latitude": 45.619046,
-        "longitude": -122.547103,
-        "name": "Vault 31 Bar"
       }
     },
     {
@@ -127850,7 +127972,7 @@
       "id": "willamette_week:19504939@2026-10-29T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SdanofgJgEGTE-2cb1jk-A.large.png",
       "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/book-babies-981",
+      "listing_url": "https://multcolib.org/events-classes/book-babies-playtime-49",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -128347,6 +128469,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19504942@2026-10-29T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.oregoncc.org/attend/events/2026/10/zero-three-learn-conference-2026-ztt-lc26",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-29T13:00:00-07:00",
+      "summary": "For more than a decade, the ZERO TO THREE LEARN Conference has brought together thousands of early childhood professionals from around the world for a premier multidisciplinary experience in professional development. Our early childhood conference offers a range of learning opportunities featuring the latest research, promising practices and policy strategies. Registration Required",
+      "title": "ZERO to THREE LEARN Conference 2026 - ZTT LC26",
+      "venue": {
+        "address": "777 NE Martin Luther King, Jr Blvd",
+        "city": "Portland",
+        "latitude": 45.5283737183,
+        "longitude": -122.6631393433,
+        "name": "Oregon Convention Center"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-29T15:00:00-07:00",
@@ -128372,35 +128522,6 @@
         "latitude": 45.554001,
         "longitude": -122.907657,
         "name": "Hillsboro Stadium"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-29T06:59:00-07:00",
-      "id": "willamette_week:19504942@2026-10-29T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.oregoncc.org/attend/events/2026/10/zero-three-learn-conference-2026-ztt-lc26",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-29T13:00:00-07:00",
-      "summary": "For more than a decade, the ZERO TO THREE LEARN Conference has brought together thousands of early childhood professionals from around the world for a premier multidisciplinary experience in professional development. Our early childhood conference offers a range of learning opportunities featuring the latest research, promising practices and policy strategies. Registration Required",
-      "title": "ZERO to THREE LEARN Conference 2026 - ZTT LC26",
-      "venue": {
-        "address": "777 NE Martin Luther King, Jr Blvd",
-        "city": "Portland",
-        "latitude": 45.5283737183,
-        "longitude": -122.6631393433,
-        "name": "Oregon Convention Center"
       }
     },
     {
@@ -128692,6 +128813,35 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-29T17:30:00-07:00",
+      "id": "willamette_week:19433648@2026-10-29T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7JoaFbSRwkaLS7upUHXOaQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/video-game-club-teens-109",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-29T16:00:00-07:00",
+      "summary": "Do you like to game? Are you in middle or high school? If so, join our gaming club! We'll play games, talk about games and eat snacks. Made possible by gifts to The Library Foundation , a local nonprofit dedicated to enhancing our library's leadership, innovation and reach through private support.",
+      "title": "Video Game Club - For Teens",
+      "venue": {
+        "address": "17917 SE Stark Street",
+        "city": "Portland",
+        "latitude": 45.51951806199975,
+        "longitude": -122.47906864110425,
+        "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-10-29T17:30:00-07:00",
@@ -128746,35 +128896,6 @@
         "latitude": 45.490504558338586,
         "longitude": -122.58224808281963,
         "name": "Holgate Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-29T17:30:00-07:00",
-      "id": "willamette_week:19433648@2026-10-29T16:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7JoaFbSRwkaLS7upUHXOaQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/video-game-club-teens-109",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-29T16:00:00-07:00",
-      "summary": "Do you like to game? Are you in middle or high school? If so, join our gaming club! We'll play games, talk about games and eat snacks. Made possible by gifts to The Library Foundation , a local nonprofit dedicated to enhancing our library's leadership, innovation and reach through private support.",
-      "title": "Video Game Club - For Teens",
-      "venue": {
-        "address": "17917 SE Stark Street",
-        "city": "Portland",
-        "latitude": 45.51951806199975,
-        "longitude": -122.47906864110425,
-        "name": "Rockwood Library"
       }
     },
     {
@@ -129457,35 +129578,6 @@
     },
     {
       "categories": [
-        "tech"
-      ],
-      "end_at": "2026-10-29T19:00:00-07:00",
-      "id": "willamette_week:18005581@2026-10-29T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7c4c8725-6959-43e7-8705-25fcdf32060a.large.png",
-      "is_all_day": false,
-      "listing_url": "https://cca.fgcchamber.org/EvtListing.aspx?dbid2=ORFORG&evtid=15030235&class=B",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-29T18:00:00-07:00",
-      "summary": "Take the first step towards mastering technology! Our class is designed to teach the basics and help you become proficient in using computers, office software, browsing the internet, sending emails, and more . ¡Ven y da el primer paso para dominar la tecnologia! Nuestra clase está diseñada para aprender los conceptos básicos y ayudarte a dominar el uso de computadoras, software de oficina, navegar por Internet, enviar correos electrónicos y más. https://or-cornelius.civicplus.com/calendar.aspx?EID=2306",
-      "title": "Basic Technology Class | Clase de Tecnologia Básica",
-      "venue": {
-        "address": "1370 N Adair St",
-        "city": "Cornelius",
-        "latitude": 45.5197386178146,
-        "longitude": -123.05865727043835,
-        "name": "Cornelius Public Library"
-      }
-    },
-    {
-      "categories": [
         "film"
       ],
       "end_at": "2026-10-29T20:30:00-07:00",
@@ -129511,6 +129603,35 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-29T19:00:00-07:00",
+      "id": "willamette_week:18005581@2026-10-29T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7c4c8725-6959-43e7-8705-25fcdf32060a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://cca.fgcchamber.org/EvtListing.aspx?dbid2=ORFORG&evtid=15030235&class=B",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-29T18:00:00-07:00",
+      "summary": "Take the first step towards mastering technology! Our class is designed to teach the basics and help you become proficient in using computers, office software, browsing the internet, sending emails, and more . ¡Ven y da el primer paso para dominar la tecnologia! Nuestra clase está diseñada para aprender los conceptos básicos y ayudarte a dominar el uso de computadoras, software de oficina, navegar por Internet, enviar correos electrónicos y más. https://or-cornelius.civicplus.com/calendar.aspx?EID=2306",
+      "title": "Basic Technology Class | Clase de Tecnologia Básica",
+      "venue": {
+        "address": "1370 N Adair St",
+        "city": "Cornelius",
+        "latitude": 45.5197386178146,
+        "longitude": -123.05865727043835,
+        "name": "Cornelius Public Library"
       }
     },
     {
@@ -131912,6 +132033,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-30T00:00:00-07:00",
+      "id": "willamette_week:17343334@2026-10-29T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cef083ae-cbce-4bed-97bc-90a3fcf3a0da.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-29T20:00:00-07:00",
+      "summary": "Best karaoke hosts around! Craig and Taresa host karaoke at the Red Rooster Saloon every Thursday and Saturday night. Join us for a seriously fun night!",
+      "title": "Totally Kroaked Karaoke",
+      "venue": {
+        "address": "2004 Main Street, Suite 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:19896542@2026-10-29T20:00",
@@ -132813,7 +132965,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-30T10:00:00-07:00",
-      "summary": "Step into the heart of our culinary story with a guided tour of the Chef’s Garden at The Allison Inn & Spa. Offered complimentary to hotel guests every Friday at 10 a.m., April through October, this intimate experience is led by a member of our garden team, an extension of JORY’s culinary program. Stroll through the garden as we share how our ingredients are grown, harvested and sourced, and learn about our bee colonies and the remarkable role they play in our garden ecosystem and culinary offerings. RSVP today to save your spot for this small group experience.",
+      "summary": "Step into the heart of our culinary story with a guided tour of the Chef’s Garden at The Allison Inn & Spa. Offered complimentary to hotel guests every Friday at 10 a.m., April through October, this intimate experience is led by a member of our garden team, an extension of JORY’s culinary program. Stroll through the garden as we share how our ingredients are grown, harvested and sourced, and learn about our bee colonies and the remarkable role they play in our garden ecosystem and culinary offerings.",
       "title": "Garden Tour",
       "venue": {
         "address": "2525 Allison Ln",
@@ -133094,6 +133246,34 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-10-30T16:00:00-07:00",
+      "id": "willamette_week:16719446@2026-10-30T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-30T11:00:00-07:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-10-30T12:30:00-07:00",
       "id": "willamette_week:18616662@2026-10-30T11:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mRUoffKKLEWkUVMmygQ1-Q.large.png",
@@ -133146,34 +133326,6 @@
         "latitude": 45.582817572658264,
         "longitude": -122.68645335011975,
         "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-10-30T16:00:00-07:00",
-      "id": "willamette_week:16719446@2026-10-30T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-30T11:00:00-07:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -133600,7 +133752,6 @@
       "categories": [
         "community"
       ],
-      "end_at": "2026-10-30T06:59:00-07:00",
       "id": "willamette_week:19504942@2026-10-30T13:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
       "is_all_day": false,
@@ -137683,7 +137834,6 @@
       "categories": [
         "film"
       ],
-      "end_at": "2026-10-30T00:00:00-07:00",
       "id": "willamette_week:18401189@2026-10-30T22:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8hDYAetqbEuvb-LCfvwsgQ.large.png",
       "is_all_day": false,
@@ -139254,6 +139404,35 @@
         "family"
       ],
       "end_at": "2026-10-31T11:00:00-07:00",
+      "id": "willamette_week:19634275@2026-10-31T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/family-storytime-1089",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-31T10:15:00-07:00",
+      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Family Storytime",
+      "venue": {
+        "address": "6008 SE 49th Avenue",
+        "city": "Portland",
+        "latitude": 45.478934715870885,
+        "longitude": -122.61206954232797,
+        "name": "Woodstock Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-31T11:00:00-07:00",
       "id": "willamette_week:20051440@2026-10-31T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LOPLVSPyQEeyOuHV1ekTVg.large.png",
       "is_all_day": false,
@@ -139312,10 +139491,10 @@
         "family"
       ],
       "end_at": "2026-10-31T11:00:00-07:00",
-      "id": "willamette_week:19634275@2026-10-31T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
+      "id": "willamette_week:18905785@2026-10-31T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JV6kl_DaTEyfZr2jc-O1bw.large.png",
       "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/family-storytime-1089",
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1142",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -139326,14 +139505,14 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-31T10:15:00-07:00",
-      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Family Storytime",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and free tickets are available 15 minutes before storytime. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
       "venue": {
-        "address": "6008 SE 49th Avenue",
+        "address": "805 SE 122nd Avenue",
         "city": "Portland",
-        "latitude": 45.478934715870885,
-        "longitude": -122.61206954232797,
-        "name": "Woodstock Library"
+        "latitude": 45.516677291858464,
+        "longitude": -122.53848246502874,
+        "name": "Midland Library"
       }
     },
     {
@@ -139363,35 +139542,6 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-31T11:00:00-07:00",
-      "id": "willamette_week:18905785@2026-10-31T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JV6kl_DaTEyfZr2jc-O1bw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1142",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-31T10:15:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and free tickets are available 15 minutes before storytime. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "805 SE 122nd Avenue",
-        "city": "Portland",
-        "latitude": 45.516677291858464,
-        "longitude": -122.53848246502874,
-        "name": "Midland Library"
       }
     },
     {
@@ -140819,6 +140969,37 @@
       "categories": [
         "family"
       ],
+      "end_at": "2026-10-31T17:00:00-07:00",
+      "id": "willamette_week:20085855@2026-10-31T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b2870204-81c4-4aa9-aae2-058d7e76d15e.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1619736233035512/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-31T15:00:00-07:00",
+      "summary": "Gather your little ghosts, goblins, and superheroes for a favorite Forest Grove Halloween tradition! Join us Saturday, October 31, from 3–5 PM in Downtown Forest Grove. Wear your costume, bring your treat bag, and visit participating merchants along Main Street and the surrounding downtown shops for treats and family-friendly Halloween fun. No signup necessary—just come enjoy the afternoon with your family, friends, and neighbors! Presented by the Downtown Association of Forest Grove.",
+      "title": "Forest Grove Trick or Treat the Merchants",
+      "venue": {
+        "address": "College Way and 21st Avenue",
+        "city": "Forest Grove",
+        "latitude": 45.520955,
+        "longitude": -123.111046,
+        "name": "Downtown Forest Grove"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
       "end_at": "2026-10-31T18:30:00-07:00",
       "id": "willamette_week:20021324@2026-10-31T15:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3nhxzmZTMUmkNxdzCN2jUg.large.jpg",
@@ -141544,6 +141725,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-31T20:30:00-07:00",
+      "id": "willamette_week:18401189@2026-10-31T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8hDYAetqbEuvb-LCfvwsgQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-the-clinton-street-cabaret-103/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-31T18:00:00-07:00",
+      "summary": "Doors open at 5:30 PM. Pre-show starts at 6:00 PM; film starts at 6:30 PM sharp! It’s Halloween Month, which means Portland’s favorite tradition is bigger than ever! Be sure to get your tickets in advance as these events sell out every year. Join our weekly screenings of The Rocky Horror Picture Show that started in April of 1978! Starring Tim Curry, Susan Sarandon, and Barry Bostwick, The Rocky Horror Picture Show \\(1975\\) continues to titillate and delight audiences all over the world. Tonight’s screening features the cast of the Clinton Street Cabaret! $2 from every ticket goes to support the group. Come see the famous, rambunctious show that has played every single week at the Clinton Street Theater in Portland, Oregon. Director: Jim Sharman Country: USA Year: 1975 Runtime: 100 minutes Starting in March 2024 the CSC offers a selection of tickets for each show which are available to our BIPOC community members free of charge! To reserve one send an email to the Clinton Street Cabaret clintonstreetec@gmail.com with the heading BIPOC Affinity Ticket and include your name and the date of the show you would like to reserve a ticket for in the body of the email. Only 1 ticket can be reserved per person per show and reserved tickets also include a prop bag. These tickets can only be reserved by confirmed email with the Clinton Street Cabaret and are not available to reserve at the Clinton Street Theater box office. Tickets can be reserved starting two weeks before a show and no later than 2 hours before the show. Please note we won’t be able to accommodate late requests for shows that are already sold out. These are tickets specifically for the Clinton Street Cabaret’s performances of the Rocky Horror Picture Show at the Clinton Street Theater, on the 1st, 3rd, and occasionally 5th Saturdays of the month. Showings on 2nd and 4th Saturdays or “For Virgins” nights are not Cabaret shows and do not qualify for this program.",
+      "title": "The Rocky Horror Picture Show with the Clinton Street Cabaret",
+      "venue": {
+        "address": "2522 SE Clinton St",
+        "city": "Portland",
+        "latitude": 45.5033352971,
+        "longitude": -122.640119344,
+        "name": "Clinton Street Theater"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-31T23:00:00-07:00",
@@ -141598,35 +141808,6 @@
         "latitude": 45.30012,
         "longitude": -122.97316,
         "name": "Wheeler Sports Center"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-10-31T20:30:00-07:00",
-      "id": "willamette_week:18401189@2026-10-31T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8hDYAetqbEuvb-LCfvwsgQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-the-clinton-street-cabaret-103/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-31T18:00:00-07:00",
-      "summary": "Doors open at 5:30 PM. Pre-show starts at 6:00 PM; film starts at 6:30 PM sharp! It’s Halloween Month, which means Portland’s favorite tradition is bigger than ever! Be sure to get your tickets in advance as these events sell out every year. Join our weekly screenings of The Rocky Horror Picture Show that started in April of 1978! Starring Tim Curry, Susan Sarandon, and Barry Bostwick, The Rocky Horror Picture Show \\(1975\\) continues to titillate and delight audiences all over the world. Tonight’s screening features the cast of the Clinton Street Cabaret! $2 from every ticket goes to support the group. Come see the famous, rambunctious show that has played every single week at the Clinton Street Theater in Portland, Oregon. Director: Jim Sharman Country: USA Year: 1975 Runtime: 100 minutes Starting in March 2024 the CSC offers a selection of tickets for each show which are available to our BIPOC community members free of charge! To reserve one send an email to the Clinton Street Cabaret clintonstreetec@gmail.com with the heading BIPOC Affinity Ticket and include your name and the date of the show you would like to reserve a ticket for in the body of the email. Only 1 ticket can be reserved per person per show and reserved tickets also include a prop bag. These tickets can only be reserved by confirmed email with the Clinton Street Cabaret and are not available to reserve at the Clinton Street Theater box office. Tickets can be reserved starting two weeks before a show and no later than 2 hours before the show. Please note we won’t be able to accommodate late requests for shows that are already sold out. These are tickets specifically for the Clinton Street Cabaret’s performances of the Rocky Horror Picture Show at the Clinton Street Theater, on the 1st, 3rd, and occasionally 5th Saturdays of the month. Showings on 2nd and 4th Saturdays or “For Virgins” nights are not Cabaret shows and do not qualify for this program.",
-      "title": "The Rocky Horror Picture Show with the Clinton Street Cabaret",
-      "venue": {
-        "address": "2522 SE Clinton St",
-        "city": "Portland",
-        "latitude": 45.5033352971,
-        "longitude": -122.640119344,
-        "name": "Clinton Street Theater"
       }
     },
     {
@@ -142163,6 +142344,34 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "id": "willamette_week:19331108@2026-10-31T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Xv0dyMLmOUGPvqKtLsp0CQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://tomorrowtheater.org/movies/house/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-31T19:00:00-07:00",
+      "summary": "Run Time: 88 min. Language: Japanese TICKETS $15 Doors 6:30 p.m.; Film at 7 p.m. Click here to learn more about accessibility at the Tomorrow Theater. THE EXPERIENCE Our annual Halloween Hausu screening returns! Buckle up for House \\(Hausu\\)-a genre-defying fever dream that feels as fresh, bizarre, and hilarious today as it did in 1977. Part haunted house horror, part surreal comedy, part pop-art collage, Nobuhiko Ôbayashi's cult classic is the cinematic equivalent of opening a haunted toy box: playful, chaotic, and bursting with color and invention. Whether it's your first visit to the aunt's mansion or a yearly pilgrimage, come ready to laugh, gasp, and surrender to the strange. ON SCREEN: House \\(Hausu\\) 1977. Directed by Nobuhiko Ôbayashi. Runtime: 88 minutes. In an effort to avoid spending time with her father and his creepy new lover, young Gorgeous \\(Kimiko Ikegami\\) resolves to visit her aunt's remote mansion. With six of her closest friends in tow, including the musically inclined Melody \\(Eriko Tanaka\\) and the geeky Prof \\(Ai Matsubara\\), Gorgeous arrives at the estate, where supernatural events occur almost immediately. A severed head takes flight, household appliances come to life and a portrait of a cat seems to contain an evil spirit. WITCHING HOUR",
+      "title": "Hausu (House)",
+      "venue": {
+        "address": "3530 SE Division St",
+        "city": "Portland",
+        "latitude": 45.50474058972204,
+        "longitude": -122.6275816386394,
+        "name": "PAM CUT's Tomorrow Theater"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-31T21:00:00-07:00",
@@ -142188,34 +142397,6 @@
         "latitude": 45.51053261034869,
         "longitude": -122.68625725650317,
         "name": "Viking Pavilion"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "id": "willamette_week:19331108@2026-10-31T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Xv0dyMLmOUGPvqKtLsp0CQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://tomorrowtheater.org/movies/house/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-31T19:00:00-07:00",
-      "summary": "Run Time: 88 min. Language: Japanese TICKETS $15 Doors 6:30 p.m.; Film at 7 p.m. Click here to learn more about accessibility at the Tomorrow Theater. THE EXPERIENCE Our annual Halloween Hausu screening returns! Buckle up for House \\(Hausu\\)-a genre-defying fever dream that feels as fresh, bizarre, and hilarious today as it did in 1977. Part haunted house horror, part surreal comedy, part pop-art collage, Nobuhiko Ôbayashi's cult classic is the cinematic equivalent of opening a haunted toy box: playful, chaotic, and bursting with color and invention. Whether it's your first visit to the aunt's mansion or a yearly pilgrimage, come ready to laugh, gasp, and surrender to the strange. ON SCREEN: House \\(Hausu\\) 1977. Directed by Nobuhiko Ôbayashi. Runtime: 88 minutes. In an effort to avoid spending time with her father and his creepy new lover, young Gorgeous \\(Kimiko Ikegami\\) resolves to visit her aunt's remote mansion. With six of her closest friends in tow, including the musically inclined Melody \\(Eriko Tanaka\\) and the geeky Prof \\(Ai Matsubara\\), Gorgeous arrives at the estate, where supernatural events occur almost immediately. A severed head takes flight, household appliances come to life and a portrait of a cat seems to contain an evil spirit. WITCHING HOUR",
-      "title": "Hausu (House)",
-      "venue": {
-        "address": "3530 SE Division St",
-        "city": "Portland",
-        "latitude": 45.50474058972204,
-        "longitude": -122.6275816386394,
-        "name": "PAM CUT's Tomorrow Theater"
       }
     },
     {
@@ -143690,14 +143871,16 @@
       "categories": [
         "arts"
       ],
-      "end_at": "2026-11-01T00:00:00-07:00",
+      "end_at": "2026-11-01T01:00:00-08:00",
       "id": "willamette_week:17343334@2026-10-31T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cef083ae-cbce-4bed-97bc-90a3fcf3a0da.large.png",
       "is_all_day": false,
       "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
       },
       "source": {
         "id": "willamette_week",
@@ -143708,7 +143891,7 @@
       "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. Best Karaoke Hosts around! Craig and Taresa will be at the Red Rooster for karaoke every Thursday and Saturday night. Join us for a seriously fun night!",
       "title": "Totally Kroaked Karaoke",
       "venue": {
-        "address": "2004 Main Street Ste 110",
+        "address": "2004 Main Street, Suite 110",
         "city": "Forest Grove",
         "latitude": 45.519786,
         "longitude": -123.1123,
@@ -143734,7 +143917,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-31T20:00:00-07:00",
-      "summary": "Red Rooster Saloon's Halloween costume party features scary-oke \\(Halloween karaoke\\) with Craig and Taresa of Totally Kroaked Karaoke from 8 p.m. to 1 a.m. The costume contest awards Rooster gift cards: $100 for first place, $50 for second and $25 for third. Anyone in costume gets merch, while supplies last, and drink specials run all night.",
+      "summary": "Red Rooster Saloon's Halloween costume party features scary-oke \\(Halloween karaoke\\) with Craig and Taresa of Totally Kroaked Karaoke from 8 p.m. to 1 a.m. The costume contest awards Rooster gift cards: $100 for first place, $50 for second and $25 for third. Category winners get merch, and drink specials run all night.",
       "title": "Red Rooster Halloween Costume Party",
       "venue": {
         "address": "2004 Main Street, Suite 110",
@@ -144826,7 +145009,6 @@
       "categories": [
         "film"
       ],
-      "end_at": "2026-10-31T00:00:00-07:00",
       "id": "willamette_week:18401189@2026-10-31T22:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8hDYAetqbEuvb-LCfvwsgQ.large.png",
       "is_all_day": false,
@@ -144886,7 +145068,6 @@
       "categories": [
         "music"
       ],
-      "end_at": "2026-10-31T00:00:00-07:00",
       "id": "ticketmaster:rZ7HnEZ1Afv3-7",
       "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -149607,6 +149788,32 @@
       "categories": [
         "sports"
       ],
+      "id": "willamette_week:20086587@2026-11-02T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/610dabab-06fd-4201-b15a-3a76f8148d85.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-02T17:00:00-08:00",
+      "title": "JV Football at Estacada High",
+      "venue": {
+        "address": "355 NE 6th Ave",
+        "city": "Estacada",
+        "latitude": 45.295613,
+        "longitude": -122.331025,
+        "name": "Estacada High School"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
       "end_at": "2026-11-02T20:00:00-08:00",
       "id": "willamette_week:19800781@2026-11-02T17:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dPUFTrtg80GcZ3RgaesYWg.large.jpg",
@@ -152021,6 +152228,35 @@
         "community"
       ],
       "end_at": "2026-11-03T19:30:00-08:00",
+      "id": "willamette_week:18607081@2026-11-03T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_Q1ig9Cn9UyNuuecCyauIA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/torus-english-class-351",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-03T18:00:00-08:00",
+      "summary": "Free ESL classes. All levels welcome. No registration required. For more information, call 503.577.9984. Presented by volunteers from Torus Browse more English learning classes. Clase de inglés gratis. Todos los niveles son bienvenidos. No es necesario registrarse. Para obtener más información, llame al 503.577.9984. Presentada por voluntarios de Torus Ver más clases de inglés 免費英文班 任何英語水平都欢迎参加 无需注冊 主持的志工来自 Torus 浏览更多英语学习课程 Бесплатные уроки английского языка Классы для студентов всех уровней. Без регистрации Предоставлен волонтерами из организации Torus Просмотреть другие курсы изучения английского языка Các lớp tiếng Anh miễn phí Những lớp này dành cho mọi trình độ. Quý vị không cần phải ghi danh Được tổ chức bởi các tình nguyện viên từ Torus Xem các khóa học tiếng Anh khác.",
+      "title": "Torus English Class",
+      "venue": {
+        "address": "7905 SE Holgate Boulevard",
+        "city": "Portland",
+        "latitude": 45.490504558338586,
+        "longitude": -122.58224808281963,
+        "name": "Holgate Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-03T19:30:00-08:00",
       "id": "willamette_week:18607079@2026-11-03T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M3Zr95edvEOwzAmLdWGcOA.large.png",
       "is_all_day": false,
@@ -152072,35 +152308,6 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-11-03T19:30:00-08:00",
-      "id": "willamette_week:18607081@2026-11-03T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_Q1ig9Cn9UyNuuecCyauIA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/torus-english-class-351",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-03T18:00:00-08:00",
-      "summary": "Free ESL classes. All levels welcome. No registration required. For more information, call 503.577.9984. Presented by volunteers from Torus Browse more English learning classes. Clase de inglés gratis. Todos los niveles son bienvenidos. No es necesario registrarse. Para obtener más información, llame al 503.577.9984. Presentada por voluntarios de Torus Ver más clases de inglés 免費英文班 任何英語水平都欢迎参加 无需注冊 主持的志工来自 Torus 浏览更多英语学习课程 Бесплатные уроки английского языка Классы для студентов всех уровней. Без регистрации Предоставлен волонтерами из организации Torus Просмотреть другие курсы изучения английского языка Các lớp tiếng Anh miễn phí Những lớp này dành cho mọi trình độ. Quý vị không cần phải ghi danh Được tổ chức bởi các tình nguyện viên từ Torus Xem các khóa học tiếng Anh khác.",
-      "title": "Torus English Class",
-      "venue": {
-        "address": "7905 SE Holgate Boulevard",
-        "city": "Portland",
-        "latitude": 45.490504558338586,
-        "longitude": -122.58224808281963,
-        "name": "Holgate Library"
       }
     },
     {
@@ -152581,34 +152788,6 @@
         "sports"
       ],
       "end_at": "2026-11-03T21:00:00-08:00",
-      "id": "willamette_week:19060477@2026-11-03T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.large.png",
-      "is_all_day": false,
-      "listing_url": "https://athletics.georgefox.edu/calendar.aspx?game_id=22656&amp;sport_id=20",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-03T19:00:00-08:00",
-      "summary": "George Fox University Women's Volleyball vs Lewis & Clark",
-      "title": "George Fox University Women's Volleyball vs Lewis & Clark",
-      "venue": {
-        "city": "Newberg",
-        "latitude": 45.30012,
-        "longitude": -122.97316,
-        "name": "Wheeler Sports Center"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-11-03T21:00:00-08:00",
       "id": "willamette_week:19695905@2026-11-03T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd7fcb1c-2598-4537-95d4-c5aef83193b9.large.png",
       "is_all_day": false,
@@ -152631,6 +152810,34 @@
         "latitude": 45.51053261034869,
         "longitude": -122.68625725650317,
         "name": "Viking Pavilion"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-11-03T21:00:00-08:00",
+      "id": "willamette_week:19060477@2026-11-03T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.large.png",
+      "is_all_day": false,
+      "listing_url": "https://athletics.georgefox.edu/calendar.aspx?game_id=22656&amp;sport_id=20",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-03T19:00:00-08:00",
+      "summary": "George Fox University Women's Volleyball vs Lewis & Clark",
+      "title": "George Fox University Women's Volleyball vs Lewis & Clark",
+      "venue": {
+        "city": "Newberg",
+        "latitude": 45.30012,
+        "longitude": -122.97316,
+        "name": "Wheeler Sports Center"
       }
     },
     {
@@ -154085,7 +154292,7 @@
       "id": "willamette_week:18898171@2026-11-04T13:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E-IgqiS4bk6BWrtDlzX_kg.large.png",
       "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/black-family-storytime-169",
+      "listing_url": "https://multcolib.org/events-classes/family-storytime-1121",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -154535,35 +154742,6 @@
     },
     {
       "categories": [
-        "market"
-      ],
-      "end_at": "2026-11-04T19:00:00-08:00",
-      "id": "willamette_week:19798607@2026-11-04T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MpMLliluX0qP3qr0N90u5w.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/portland-puzzlers-puzzle-swap-7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-04T18:00:00-08:00",
-      "summary": "Part strategy session, part social hour, and part puzzle exchange! Gather with fellow puzzle lovers to tackle 300-1000-piece challenges featuring everything from surreal art to suspiciously smug-looking cats. \\\\Bring a puzzle \\(or two\\) from home to swap for a fresh challenge to take with you.\\\\ Voices rise, laughter echoes, and someone always misplaces a corner piece-until it magically reappears. No rules, no pressure, and absolutely no gluing allowed. For ages 16 and up",
-      "title": "Portland Puzzlers & Puzzle Swap",
-      "venue": {
-        "address": "805 SE 122nd Avenue",
-        "city": "Portland",
-        "latitude": 45.516677291858464,
-        "longitude": -122.53848246502874,
-        "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "end_at": "2026-11-04T21:00:00-08:00",
@@ -154589,6 +154767,35 @@
         "latitude": 45.619046,
         "longitude": -122.547103,
         "name": "Vault 31 Bar"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-11-04T19:00:00-08:00",
+      "id": "willamette_week:19798607@2026-11-04T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MpMLliluX0qP3qr0N90u5w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/portland-puzzlers-puzzle-swap-7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-04T18:00:00-08:00",
+      "summary": "Part strategy session, part social hour, and part puzzle exchange! Gather with fellow puzzle lovers to tackle 300-1000-piece challenges featuring everything from surreal art to suspiciously smug-looking cats. \\\\Bring a puzzle \\(or two\\) from home to swap for a fresh challenge to take with you.\\\\ Voices rise, laughter echoes, and someone always misplaces a corner piece-until it magically reappears. No rules, no pressure, and absolutely no gluing allowed. For ages 16 and up",
+      "title": "Portland Puzzlers & Puzzle Swap",
+      "venue": {
+        "address": "805 SE 122nd Avenue",
+        "city": "Portland",
+        "latitude": 45.516677291858464,
+        "longitude": -122.53848246502874,
+        "name": "Midland Library"
       }
     },
     {
@@ -157384,35 +157591,6 @@
     },
     {
       "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-05T12:00:00-08:00",
-      "id": "willamette_week:18616651@2026-11-05T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SdanofgJgEGTE-2cb1jk-A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/book-babies-936",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-05T11:15:00-08:00",
-      "summary": "Babies from birth to 12 months \\(with a favorite adult\\) enjoy songs, action rhymes, and playtime, with bonus socialization for babies and the adults. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Book Babies",
-      "venue": {
-        "address": "7921 NE Sandy Boulevard",
-        "city": "Portland",
-        "latitude": 45.551652047946824,
-        "longitude": -122.58136760245881,
-        "name": "Gregory Heights Library"
-      }
-    },
-    {
-      "categories": [
         "tech"
       ],
       "end_at": "2026-11-05T12:00:00-08:00",
@@ -157438,6 +157616,35 @@
         "latitude": 45.53227095409817,
         "longitude": -122.43932211779094,
         "name": "Fairview-Columbia Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-05T12:00:00-08:00",
+      "id": "willamette_week:18616651@2026-11-05T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SdanofgJgEGTE-2cb1jk-A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/book-babies-936",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-05T11:15:00-08:00",
+      "summary": "Babies from birth to 12 months \\(with a favorite adult\\) enjoy songs, action rhymes, and playtime, with bonus socialization for babies and the adults. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Book Babies",
+      "venue": {
+        "address": "7921 NE Sandy Boulevard",
+        "city": "Portland",
+        "latitude": 45.551652047946824,
+        "longitude": -122.58136760245881,
+        "name": "Gregory Heights Library"
       }
     },
     {
@@ -157790,35 +157997,6 @@
     },
     {
       "categories": [
-        "tech"
-      ],
-      "end_at": "2026-11-05T16:30:00-08:00",
-      "id": "willamette_week:18609274@2026-11-05T15:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YpBkICJH6E2mUbhrlEfhUA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/steam-lab-29",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-05T15:30:00-08:00",
-      "summary": "Come explore Science, Technology, Engineering, Art, and Math concepts with us in a hands-on, fun, and engaging environment.",
-      "title": "STEAM Lab",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-11-05T17:30:00-08:00",
@@ -157844,6 +158022,35 @@
         "latitude": 45.490504558338586,
         "longitude": -122.58224808281963,
         "name": "Holgate Library"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-05T16:30:00-08:00",
+      "id": "willamette_week:18609274@2026-11-05T15:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YpBkICJH6E2mUbhrlEfhUA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/steam-lab-29",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-05T15:30:00-08:00",
+      "summary": "Come explore Science, Technology, Engineering, Art, and Math concepts with us in a hands-on, fun, and engaging environment.",
+      "title": "STEAM Lab",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -160424,6 +160631,37 @@
         "arts"
       ],
       "end_at": "2026-11-06T00:00:00-08:00",
+      "id": "willamette_week:17343334@2026-11-05T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cef083ae-cbce-4bed-97bc-90a3fcf3a0da.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-05T20:00:00-08:00",
+      "summary": "Best karaoke hosts around! Craig and Taresa host karaoke at the Red Rooster Saloon every Thursday and Saturday night. Join us for a seriously fun night!",
+      "title": "Totally Kroaked Karaoke",
+      "venue": {
+        "address": "2004 Main Street, Suite 110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-06T00:00:00-08:00",
       "id": "willamette_week:19784843@2026-11-05T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e978361b-97f5-46be-a303-5cb31fe8a7fa.large.png",
       "is_all_day": false,
@@ -161476,35 +161714,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "end_at": "2026-11-06T12:30:00-08:00",
-      "id": "willamette_week:18616662@2026-11-06T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mRUoffKKLEWkUVMmygQ1-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/goodwill-english-class-388",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T11:00:00-08:00",
-      "summary": "Free ESL classes. The level of the series is determined at the first class. No registration required. For more information, call 503.577.9984. Browse more English learning classes . Hosted by Goodwill Industries of the Columbia Willamette. Clases de inglés gratuitas. Todos los niveles son bienvenidos. El nivel de la clase se determinará mediante una prueba de nivel el primer dia. No es necesario inscribirse. Para obtener más información, llame al 503.577.9984. Ver más clases de inglés . Organizado por Goodwill Industries of the Columbia Willamette. 免費英文班，任何英文水平都欢迎参加，班级级别由第一天的分级测试决定。无需注冊。请致电 503.577.9984 查询详情。 浏览更多英语学习课程 授课单位 Goodwill Industries of the Columbia Willamette. Бесплатные уроки английского языка. Классы для студентов всех уровней. Уровень знаний определяется по результатам вступительного теста в первый посещаемый день. Без регистрации. Для более подробной информации звоните call 503.577.9984. Просмотреть другие курсы изучения английского языка. Oрганизованный Goodwill Industries of the Columbia Willamette. Lớp học tiếng Anh miễn phi. Mọi trinh độ đều được chào đón. Trinh độ lớp học được xác định thông qua bài kiểm tra xếp lớp vào ngày đầu tiên. Không cần ghi danh trước. Để có thêm thông tin, xin gọi 503.577.9984. Xem các khóa học tiếng Anh khác . được tổ chức bởi Goodwill Industries of the Columbia Willamette.",
-      "title": "Goodwill English Class",
-      "venue": {
-        "address": "805 SE 122nd Avenue",
-        "city": "Portland",
-        "latitude": 45.516677291858464,
-        "longitude": -122.53848246502874,
-        "name": "Midland Library"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-11-06T11:30:00-08:00",
@@ -161558,6 +161767,35 @@
         "latitude": 45.63873,
         "longitude": -122.66149,
         "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-06T12:30:00-08:00",
+      "id": "willamette_week:18616662@2026-11-06T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mRUoffKKLEWkUVMmygQ1-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/goodwill-english-class-388",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T11:00:00-08:00",
+      "summary": "Free ESL classes. The level of the series is determined at the first class. No registration required. For more information, call 503.577.9984. Browse more English learning classes . Hosted by Goodwill Industries of the Columbia Willamette. Clases de inglés gratuitas. Todos los niveles son bienvenidos. El nivel de la clase se determinará mediante una prueba de nivel el primer dia. No es necesario inscribirse. Para obtener más información, llame al 503.577.9984. Ver más clases de inglés . Organizado por Goodwill Industries of the Columbia Willamette. 免費英文班，任何英文水平都欢迎参加，班级级别由第一天的分级测试决定。无需注冊。请致电 503.577.9984 查询详情。 浏览更多英语学习课程 授课单位 Goodwill Industries of the Columbia Willamette. Бесплатные уроки английского языка. Классы для студентов всех уровней. Уровень знаний определяется по результатам вступительного теста в первый посещаемый день. Без регистрации. Для более подробной информации звоните call 503.577.9984. Просмотреть другие курсы изучения английского языка. Oрганизованный Goodwill Industries of the Columbia Willamette. Lớp học tiếng Anh miễn phi. Mọi trinh độ đều được chào đón. Trinh độ lớp học được xác định thông qua bài kiểm tra xếp lớp vào ngày đầu tiên. Không cần ghi danh trước. Để có thêm thông tin, xin gọi 503.577.9984. Xem các khóa học tiếng Anh khác . được tổ chức bởi Goodwill Industries of the Columbia Willamette.",
+      "title": "Goodwill English Class",
+      "venue": {
+        "address": "805 SE 122nd Avenue",
+        "city": "Portland",
+        "latitude": 45.516677291858464,
+        "longitude": -122.53848246502874,
+        "name": "Midland Library"
       }
     },
     {
@@ -162063,35 +162301,6 @@
     },
     {
       "categories": [
-        "food"
-      ],
-      "end_at": "2026-11-06T17:30:00-08:00",
-      "id": "willamette_week:19591398@2026-11-06T15:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.oregoncc.org/attend/events/2026/11/2027-hba-housing-forecast-breakfast",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T15:00:00-08:00",
-      "summary": "More than 500 industry professionals and government officials will gather for this informativebreakfast program. The event covers the residential and residential-commercial housing markets, including for sale, rental, and remodel. Registration Required",
-      "title": "HBA - 2027 Housing Forecast Breakfast",
-      "venue": {
-        "address": "777 NE Martin Luther King, Jr Blvd",
-        "city": "Portland",
-        "latitude": 45.5283737183,
-        "longitude": -122.6631393433,
-        "name": "Oregon Convention Center"
-      }
-    },
-    {
-      "categories": [
         "tech"
       ],
       "end_at": "2026-11-06T17:00:00-08:00",
@@ -162117,6 +162326,35 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-11-06T17:30:00-08:00",
+      "id": "willamette_week:19591398@2026-11-06T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.oregoncc.org/attend/events/2026/11/2027-hba-housing-forecast-breakfast",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T15:00:00-08:00",
+      "summary": "More than 500 industry professionals and government officials will gather for this informativebreakfast program. The event covers the residential and residential-commercial housing markets, including for sale, rental, and remodel. Registration Required",
+      "title": "HBA - 2027 Housing Forecast Breakfast",
+      "venue": {
+        "address": "777 NE Martin Luther King, Jr Blvd",
+        "city": "Portland",
+        "latitude": 45.5283737183,
+        "longitude": -122.6631393433,
+        "name": "Oregon Convention Center"
       }
     },
     {
@@ -164194,7 +164432,6 @@
       "categories": [
         "music"
       ],
-      "end_at": "2026-11-06T00:00:00-08:00",
       "id": "willamette_week:19225591@2026-11-06T23:55",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PQP58sHzXUKjSoCUP50ujg.large.png",
       "is_all_day": false,
@@ -185428,5 +185665,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-07T15:31:02+00:00"
+  "generated_at": "2026-10-07T16:36:17+00:00"
 }
