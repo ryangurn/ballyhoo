@@ -5313,6 +5313,14 @@
       "venue": "Revolution Hall - Portland"
     },
     {
+      "dropped": "willamette_week:19900812@2026-10-30T20:00",
+      "kept": "dopdx:17927227",
+      "start_at": "2026-10-30T20:00:00-07:00",
+      "title_dropped": "Portland's Haunted Hop 2026: Halloween Bar Crawl (Friday, Oct 30)",
+      "title_kept": "Portland's Haunted Hop 2026: Halloween Bar Crawl",
+      "venue": "Star Bar"
+    },
+    {
       "dropped": "dopdx:17830505",
       "kept": "ticketmaster:rZ7HnEZ1AfGou0",
       "start_at": "2026-10-30T20:00:00-07:00",
@@ -5335,14 +5343,6 @@
       "title_dropped": "Halloween at Club Privata: Saints, Sins & Vampires",
       "title_kept": "Halloween: Saints, Sins & Vampires",
       "venue": "Club Privata"
-    },
-    {
-      "dropped": "willamette_week:19900812@2026-10-30T20:00",
-      "kept": "dopdx:17927227",
-      "start_at": "2026-10-30T20:00:00-07:00",
-      "title_dropped": "Portland's Haunted Hop 2026: Halloween Bar Crawl (Friday, Oct 30)",
-      "title_kept": "Portland's Haunted Hop 2026: Halloween Bar Crawl",
-      "venue": "Star Bar"
     },
     {
       "dropped": "willamette_week:19957017@2026-10-30T20:00",
@@ -6523,7 +6523,7 @@
   ],
   "event_count": 6248,
   "floor_check": "6248 events against a 6249-event baseline",
-  "generated_at": "2026-10-07T09:10:50+00:00",
+  "generated_at": "2026-10-07T09:13:09+00:00",
   "problems": [],
   "sources": [
     "calagator",
