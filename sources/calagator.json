@@ -108,6 +108,30 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-10-09T22:00:00-07:00",
+      "id": "calagator:1250482749",
+      "is_all_day": false,
+      "listing_url": "https://luma.com/7dvn5mp6",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-09T21:00:00-07:00",
+      "summary": "It's Friday evening. You're wiped. But you're still in the mood for something entertaining.\r\n\r\n​Well, unfortunately, this ain't it.\r\n\r\n​But it is an opportunity to join folks from the Portland startup community for a little watch party — all from the comfort of your own keyboard.",
+      "title": "Silicon Florist watch party",
+      "venue": {
+        "name": "YouTube Stream"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-10-10T18:00:00-07:00",
       "id": "calagator:1250482730",
       "is_all_day": false,
@@ -922,7 +946,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-07T07:09:44+00:00",
+  "generated_at": "2026-10-07T15:30:16+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
