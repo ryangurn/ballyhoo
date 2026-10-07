@@ -4,25 +4,6 @@
       "categories": [
         "civic"
       ],
-      "id": "oregon_metro:oregon-zoo-bond-oversight-subcommittee-meeting-2026-10-06",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-subcommittee-meeting-2026-10-06",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-06T15:00:00-07:00",
-      "title": "Oregon Zoo Bond Oversight Subcommittee meeting"
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "id": "oregon_metro:regional-land-banking-partner-workgroup-session-2026-10-07",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/regional-land-banking-partner-workgroup-session-2026-10-07",
@@ -273,6 +254,25 @@
         "longitude": -122.66024,
         "name": "Metro Regional Center"
       }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:oregon-zoo-bond-oversight-subcommittee-meeting-2026-10-13",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-subcommittee-meeting-2026-10-13",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-13T14:00:00-07:00",
+      "title": "Oregon Zoo Bond Oversight Subcommittee meeting"
     },
     {
       "categories": [
@@ -3244,7 +3244,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-06T21:44:38+00:00",
+  "generated_at": "2026-10-07T01:39:54+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
