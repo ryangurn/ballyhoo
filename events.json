@@ -343,25 +343,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:oregon-zoo-bond-oversight-subcommittee-meeting-2026-10-06",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-subcommittee-meeting-2026-10-06",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-06T15:00:00-07:00",
-      "title": "Oregon Zoo Bond Oversight Subcommittee meeting"
-    },
-    {
-      "categories": [
         "film"
       ],
       "end_at": "2026-10-07T02:00:00-07:00",
@@ -42901,6 +42882,25 @@
         "longitude": -123.05865727043835,
         "name": "Cornelius Public Library"
       }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:oregon-zoo-bond-oversight-subcommittee-meeting-2026-10-13",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-subcommittee-meeting-2026-10-13",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-13T14:00:00-07:00",
+      "title": "Oregon Zoo Bond Oversight Subcommittee meeting"
     },
     {
       "categories": [
@@ -185865,5 +185865,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-07T01:37:39+00:00"
+  "generated_at": "2026-10-07T01:41:20+00:00"
 }
