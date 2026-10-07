@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:45:15+00:00",
+  "generated_at": "2026-10-07T08:47:02+00:00",
   "sources": [
     {
       "event_count": 35,
@@ -12,7 +12,7 @@
       "event_count": 1653,
       "last_run_at": "2026-10-07T01:46:15+00:00",
       "source_id": "dopdx",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/dopdx.json"
     },
     {
@@ -68,7 +68,7 @@
       "event_count": 0,
       "last_run_at": "2026-10-07T01:48:27+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
@@ -86,10 +86,10 @@
       "url": "sources/vancouver_farmers_market.json"
     },
     {
-      "event_count": 4110,
-      "last_run_at": "2026-10-07T01:36:31+00:00",
+      "event_count": 4113,
+      "last_run_at": "2026-10-07T08:45:49+00:00",
       "source_id": "willamette_week",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/willamette_week.json"
     }
   ]
