@@ -773,6 +773,34 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-11-05T19:00:00-08:00",
+      "id": "calagator:1250482750",
+      "is_all_day": false,
+      "listing_url": "https://www.tickettailor.com/events/oregonbioscienceincubator/2459787",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-05T17:30:00-08:00",
+      "summary": "Join us for OBI’s Accelerate Biotech Happy Hour on Thursday, November 5, from 5:30 to 7:00 PM.\r\n\r\nFall is in full swing, and we’re bringing the OBI community together for an evening of conversation, connection, and good company. This month’s happy hour is made possible with support from Davis Wright Tremaine.\r\n\r\nTake a break from the busy season to catch up with colleagues, meet others working across Oregon’s bioscience community, and make a few new connections along the way.\r\n\r\nWhether you’re new to OBI or a familiar face, we’d love to have you join us!\r\n\r\nWhen: Thursday, November 5 | 5:30 to 7:00 PM\r\nWhere: OBI Event Space | Suite 230\r\n\r\nRSVP and join us for a relaxed evening of connection, conversation, and good company.",
+      "title": "11-5-26 Accelerate Biotech Happy Hour",
+      "venue": {
+        "address": "4640 SW Macadam Avenue, Suite 270",
+        "city": "Portland",
+        "latitude": 45.489,
+        "longitude": -122.6719,
+        "name": "Oregon Bioscience Incubator (OBI)"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-11-07T13:00:00-08:00",
@@ -946,7 +974,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-07T15:30:16+00:00",
+  "generated_at": "2026-10-07T21:14:04+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
