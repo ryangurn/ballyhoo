@@ -409,6 +409,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:19029328@2026-11-05T17:30",
+      "kept": "dopdx:17404662",
+      "start_at": "2026-11-05T17:30:00-08:00",
+      "title_dropped": "Periphery - A Pale White Dot US Tour",
+      "title_kept": "Periphery – a Pale White Dot Us Tour",
+      "venue": "Roseland Theater"
+    },
+    {
       "dropped": "willamette_week:19686004@2026-10-07T11:30",
       "kept": "dopdx:17843382",
       "start_at": "2026-10-07T11:30:00-07:00",
@@ -6113,14 +6121,6 @@
       "venue": "Showdown Saloon"
     },
     {
-      "dropped": "willamette_week:19029328@2026-11-05T17:30",
-      "kept": "dopdx:17404662",
-      "start_at": "2026-11-05T17:30:00-08:00",
-      "title_dropped": "Periphery - A Pale White Dot US Tour",
-      "title_kept": "Periphery – a Pale White Dot Us Tour",
-      "venue": "Roseland Theater"
-    },
-    {
       "dropped": "willamette_week:18783422@2026-11-05T18:30",
       "kept": "dopdx:17304601",
       "start_at": "2026-11-05T18:30:00-08:00",
@@ -6521,9 +6521,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6277,
-  "floor_check": "6277 events against a 6248-event baseline",
-  "generated_at": "2026-10-07T20:13:26+00:00",
+  "event_count": 6278,
+  "floor_check": "6278 events against a 6248-event baseline",
+  "generated_at": "2026-10-07T21:14:47+00:00",
   "problems": [],
   "sources": [
     "calagator",
