@@ -2,32 +2,6 @@
   "events": [
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-01T02:00:00-08:00",
-      "id": "dopdx:17847787",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790110149/event-17847787.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/10/1/dine-the-couve-tickets",
-      "organizer": "Visit Vancouver Washington",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-10-01T07:00:00-07:00",
-      "summary": "Taste Your Way Through Vancouver, WA Vancouver’s ever-growing food scene takes center stage this October with the return of Dine the Couve, the city’s annual celebration of great local eats. Now in its 11th year, the event invites locals and visitors to explore more than 30 participating restaurants, each serving up special prix-fixe menus featuring three items for $35 or $50. Make a reservation, try somewhere new, and eat your way through the city all month long. Download the free, mobile-friendly Dine the Couve pass to browse participating restaurants, check out their menus, keep all the details in one place, and get a chance to win along the way. GIVEAWAY: Enter for a chance to win a $50 gift card to the participating restaurant of the",
-      "title": "Dine the Couve",
-      "venue": {
-        "name": "Vancouver, WA"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "end_at": "2026-10-01T20:00:00-07:00",
@@ -1545,6 +1519,31 @@
         "latitude": 45.301412,
         "longitude": -122.9773179,
         "name": "Newberg Public Library"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-08T23:00:00-07:00",
+      "id": "dopdx:17934430",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791426907/event-17934430.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/8/winterhawks-hockey-2026-2027-season-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-08T11:00:00-07:00",
+      "summary": "Runs until Wednesday, March 24th, 2027 THE HAWKS ARE BACK. LET’S MAKE A NIGHT OF IT. The Winterhawks hockey 2026-2027 season is upon us, which means it’s officially time to dust off the jerseys, round up the crew, and make your way downtown. And lucky for you, Metropolitan Tavern is just a few blocks from Veterans Memorial Coliseum. Come hang with us before the puck drops for Happy Hour from 3–6 PM, then head to the game with just enough time to argue about who’s actually the biggest Hawks fan. And when the final horn sounds? We’ll be here for Happy Hour from 9 PM–close, too. Pre-game. Post-game. Either way, you know where to go. Winterhawks Home Opener September 26 Happy Hour | 3–6 PM + 9 PM–Close Metropolitan Tavern Rooftop Come hungry",
+      "title": "Winterhawks Hockey 2026-2027 Season",
+      "venue": {
+        "name": "Metropolitan Tavern"
       }
     },
     {
@@ -5308,8 +5307,8 @@
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 23.72,
-        "min": 23.72
+        "max": 27.96,
+        "min": 27.96
       },
       "source": {
         "id": "dopdx",
@@ -19331,6 +19330,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-11T02:00:00-07:00",
+      "id": "dopdx:17936399",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791477646/event-17936399.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/10/jacobsen-salt-co-x-snake-river-farms-how-to-cook-a-steak-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 40.0,
+        "min": 40.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-10T15:00:00-07:00",
+      "summary": "Jacobsen Salt Co. x Snake River Farms: A Steak Cooking Class",
+      "title": "Jacobsen Salt Co. x Snake River Farms: How to Cook a Steak",
+      "venue": {
+        "name": "The Buck Building"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-10-10T17:00:00-07:00",
@@ -21119,40 +21145,6 @@
       "categories": [
         "arts"
       ],
-      "end_at": "2026-10-11T02:00:00-07:00",
-      "id": "dopdx:17749548",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1787224456/event-17749548.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/10/10/can-can-s-hitchcock-hotel-tickets",
-      "merged_sources": [
-        "dopdx",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 89.0,
-        "min": 29.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-10-10T18:30:00-07:00",
-      "summary": "Presenting in Portland at Can Can's Paris Theatre ⭐Can Can's Hitchcock Hotel brings a night of Parisian fantasy to the revived Paris Theatre. Lavish drinks, decadent bites, and a stage alive with burlesque, bold dance, and sultry song await. Don’t miss out! Description Ding ding ding your room is waiting at the infamous Hitchcock Hotel. Although decades have passed since the Hitchcock family entertained royalty and influential politicians, the hotel's dubious operations continue. The hotel's supernatural allure inhabits its guests (and staff) in this dilapidated relic of the past. The Hitchcocks' latest hire is no exception. The graveyard \"maitre d,\" quickly realizes that there has been a misunderstanding in the hiring process and that he's",
-      "ticket_url": "https://feverup.com/m/558625",
-      "title": "Can Can’s Hitchcock Hotel",
-      "venue": {
-        "address": "6 SW 3rd Ave",
-        "city": "Portland",
-        "name": "Can Can's Paris Theatre"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
       "end_at": "2026-10-10T20:00:00-07:00",
       "id": "dopdx:17905673",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790796601/event-17905673.jpg",
@@ -21217,6 +21209,38 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-10T20:30:00-07:00",
+      "id": "willamette_week:19801682@2026-10-10T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4dSlyLUn80iCqBhdxHKJ9w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.cancanportland.com/hitchcock-hotel-2026",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 89.0,
+        "min": 29.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-10T18:30:00-07:00",
+      "summary": "Ding ding ding… your room is waiting at the infamous Hitchcock Hotel. Although decades have passed since the Hitchcock family entertained royalty and influential politicians, the hotel's dubious operations continue. The hotel's supernatural allure inhabits its guests (and staff) in this dilapidated relic of the past. The Hitchcocks' latest hire is no exception. The graveyard \"maitre d,\" quickly realizes that there has been a misunderstanding in the hiring process and that he's been mistakenly hired for the precarious “night shift” position, one unfit for pedigree. He is about to experience nothing short of a fortuitous paranormal entanglement unlike any other. An evening featuring death defying dance, sultry songs, shimmying show girls and hauntingly beautiful new music, you’re sure to delight in this decadence of the damned.",
+      "ticket_url": "https://feverup.com/m/558625",
+      "title": "Can Can's Hitchcock Hotel",
+      "venue": {
+        "address": "6 SW 3rd Ave",
+        "city": "Portland",
+        "latitude": 45.522875,
+        "longitude": -122.673009,
+        "name": "Can Can's Paris Theatre"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-10T20:30:00-07:00",
@@ -21250,6 +21274,33 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-11-02T02:00:00-08:00",
+      "id": "dopdx:17929721",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791396401/event-17929721.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/10/spirit-of-halloweentown-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-10T19:00:00-07:00",
+      "summary": "Halloween Magic Comes to Life in St. Helens Step into the world of Halloweentown at Spirit of Halloweentown, a month-long Halloween celebration in the very town where the beloved Disney movie was filmed. Wander through the charming streets of St. Helens and discover haunted attractions, spooky exhibits, live entertainment, themed activities and plenty of Halloween magic for the whole family. Your ticket unlocks a full lineup of attractions, including a kid-friendly haunted house, the Masonic Building’s signature attractions, Boo Bash Pavilion, the Harvest Games Zone with pumpkin bowling and a hay maze, and a filming-location tour trolley ride. You can also catch live performances, roaming entertainers, costume contests, the Great Pumpkin Li",
+      "title": "Spirit of Halloweentown",
+      "venue": {
+        "address": "275 Strand St",
+        "city": "St Helens",
+        "name": "275 Strand St"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-10-11T02:00:00-07:00",
       "id": "dopdx:17428167",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1780364554/event-17428167.jpg",
@@ -21276,33 +21327,6 @@
         "latitude": 45.5407835,
         "longitude": -122.6634794,
         "name": "Wonder Ballroom"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-02T02:00:00-08:00",
-      "id": "dopdx:17929721",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791396401/event-17929721.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/10/10/spirit-of-halloweentown-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-10-10T19:00:00-07:00",
-      "summary": "Halloween Magic Comes to Life in St. Helens Step into the world of Halloweentown at Spirit of Halloweentown, a month-long Halloween celebration in the very town where the beloved Disney movie was filmed. Wander through the charming streets of St. Helens and discover haunted attractions, spooky exhibits, live entertainment, themed activities and plenty of Halloween magic for the whole family. Your ticket unlocks a full lineup of attractions, including a kid-friendly haunted house, the Masonic Building’s signature attractions, Boo Bash Pavilion, the Harvest Games Zone with pumpkin bowling and a hay maze, and a filming-location tour trolley ride. You can also catch live performances, roaming entertainers, costume contests, the Great Pumpkin Li",
-      "title": "Spirit of Halloweentown",
-      "venue": {
-        "address": "275 Strand St",
-        "city": "St Helens",
-        "name": "275 Strand St"
       }
     },
     {
@@ -36688,6 +36712,32 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-14T02:00:00-07:00",
+      "id": "dopdx:17933665",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791413414/event-17933665.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/13/belles-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-13T12:00:00-07:00",
+      "title": "Belles",
+      "venue": {
+        "address": "1210 SW 6th Ave",
+        "city": "Portland",
+        "name": "PNC Live Studio"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "willamette_week:20079049@2026-10-13T12:00",
@@ -37162,6 +37212,32 @@
         "latitude": 45.515007,
         "longitude": -122.679101,
         "name": "City Council Chambers"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-14T02:00:00-07:00",
+      "id": "dopdx:17933664",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791413411/event-17933664.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/13/aj-kross-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-13T14:30:00-07:00",
+      "title": "AJ Kross",
+      "venue": {
+        "address": "1210 SW 6th Ave",
+        "city": "Portland",
+        "name": "PNC Live Studio"
       }
     },
     {
@@ -40008,6 +40084,35 @@
         "address": "720 SE Hawthorne Blvd, Portland, OR, 97214",
         "city": "Portland",
         "name": "The High Limit Room"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-14T02:00:00-07:00",
+      "id": "dopdx:17934633",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/13/two-step-tuesday-with-shorty-and-the-mustangs-and-dance-lessons-with-peggy-and-peter-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-13T19:30:00-07:00",
+      "summary": "7pm Doors 7:30pm Dance Lessons 8:30pm Band",
+      "title": "Two-Step Tuesday with Shorty and the Mustangs and Dance Lessons with Peggy and Peter",
+      "venue": {
+        "address": "1195 SE Powell Dr",
+        "city": "Portland",
+        "name": "The Showdown"
       }
     },
     {
@@ -51164,6 +51269,33 @@
       "venue": {
         "address": "2016 NE Sandy Portland, OR 97232",
         "name": "The Blue Diamond"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-16T02:00:00-07:00",
+      "id": "dopdx:17933806",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/15/alterlatino-night-w-dj-lissex-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-15T20:00:00-07:00",
+      "summary": "Time: 8:00pm Day: Thursday Doors: 7:30pm Ages: 21+ Ages",
+      "title": "Alterlatino Night w/ Dj Lissex",
+      "venue": {
+        "address": "832 SE Grand Ave",
+        "city": "Portland",
+        "name": "Twilight Cafe And Bar"
       }
     },
     {
@@ -74742,6 +74874,33 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-19T02:00:00-07:00",
+      "id": "dopdx:17933807",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/18/goth-craft-night-mask-making-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-18T19:00:00-07:00",
+      "summary": "Time: 7:00pm Day: Sunday Doors: 5:30pm Ages: 21+ Ages",
+      "title": "Goth Craft Night-Mask Making",
+      "venue": {
+        "address": "832 SE Grand Ave",
+        "city": "Portland",
+        "name": "Twilight Cafe And Bar"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-19T02:00:00-07:00",
@@ -82080,6 +82239,39 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-10-21T02:00:00-07:00",
+      "id": "dopdx:17934635",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/20/two-step-tuesday-with-best-intentions-and-dance-lessons-with-peggy-and-peter-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-20T19:30:00-07:00",
+      "summary": "7pm Doors 7:30pm Dance Lessons 8:30pm Band",
+      "title": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy and Peter",
+      "venue": {
+        "address": "1195 SE Powell Dr",
+        "city": "Portland",
+        "name": "The Showdown"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1AfuNb7",
       "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -82619,33 +82811,6 @@
         "latitude": 45.523713,
         "longitude": -122.671737,
         "name": "Barrel Room Portland"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:19879533@2026-10-20T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PtDbXKapKECev01viuTk7Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/108539684?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-20T20:00:00-07:00",
-      "title": "Jesse Cunningham",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.5010531,
-        "longitude": -122.6528153,
-        "name": "The Showdown"
       }
     },
     {
@@ -98801,6 +98966,35 @@
         "address": "6800 NE Martin Luther King Jr Blvd",
         "city": "Portland",
         "name": "High Water Mark Lounge"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-23T23:30:00-07:00",
+      "id": "dopdx:17934539",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791430759/event-17934539.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/23/the-candy-os-with-h-i-v-e-s-and-the-tube-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 17.85,
+        "min": 12.51
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-23T20:30:00-07:00",
+      "summary": "MIDNIGHT PDX: THE SIX BELOW TRIBUTE SHOW",
+      "title": "The Candy Os with H.I.V.E.S and The Tube",
+      "venue": {
+        "address": "3341 SE Belmont St",
+        "city": "Portland",
+        "name": "The Six Below Midnight"
       }
     },
     {
@@ -118520,6 +118714,33 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-28T02:00:00-07:00",
+      "id": "dopdx:17933808",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/27/twilight-open-mic-comedy-night-hosted-by-jess-bushnell-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-27T18:00:00-07:00",
+      "summary": "Time: 6:00pm Day: Tuesday Doors: 5:30pm Ages: 21+ Ages",
+      "title": "Twilight Open Mic Comedy Night-Hosted by Jess Bushnell",
+      "venue": {
+        "address": "832 SE Grand Ave",
+        "city": "Portland",
+        "name": "Twilight Cafe And Bar"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-27T19:30:00-07:00",
@@ -130552,13 +130773,14 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-10-30T02:00:00-07:00",
       "id": "ticketmaster:rZ7HnEZ1AfuJQf",
       "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketweb.com/event/38-cramps-guests-dantes-tickets/14366694",
       "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
+        "dopdx",
+        "ticketmaster"
       ],
       "price": {
         "currency": "USD",
@@ -152053,6 +152275,35 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-11-04T02:00:00-08:00",
+      "id": "dopdx:17934640",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/3/two-step-tuesday-with-countryside-ride-and-dance-lessons-with-robbie-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-03T19:30:00-08:00",
+      "summary": "7pm Doors 7:30pm Dance Lessons 8:30pm Band",
+      "title": "Two-Step Tuesday with Countryside Ride and Dance Lessons with Robbie",
+      "venue": {
+        "address": "1195 SE Powell Dr",
+        "city": "Portland",
+        "name": "The Showdown"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1AfuNb0",
       "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -154159,6 +154410,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-05T02:00:00-08:00",
+      "id": "dopdx:17936291",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791475339/event-17936291.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/4/trivia-sippi-weekly-quiz-night-tickets",
+      "organizer": "The Atlantis Lounge",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-04T18:30:00-08:00",
+      "summary": "The Atlantis Lounge at Mississippi Pizza Pub is excited to announce a new weekly trivia event! Michael Rainey, one of the hosts and organizers of the monthly Nerd Nite at the Pub, brings his formidable talents to the new Pub Quiz/Trivia Night. Rainey writes and hosts the weekly event drawing from nerdy subjects. The event will test the audience in a broad knowledge base. Bring your friends for a fun time!",
+      "title": "Trivia-sippi! Weekly Quiz Night!",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-11-04T21:30:00-08:00",
@@ -155719,6 +156000,36 @@
         "address": "1195 SE Powell Dr",
         "city": "Portland",
         "name": "The Showdown"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-05T02:00:00-08:00",
+      "id": "dopdx:17936292",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791475341/event-17936292.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/4/mango-twist-live-music-dancing-tickets",
+      "organizer": "The Atlantis Lounge",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 11.5,
+        "min": 11.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-04T21:00:00-08:00",
+      "summary": "Mango Twist is a musical collective playing tropical Latin music for that summer breeze feeling! Our intimate venue transforms into a vibrant dance floor filled with high-energy music, good drinks, and welcoming vibes. Whether you’re a seasoned dancer or just coming to move and have fun, everyone is invited to join the party! Every Wednesday! **Atlantis Lounge is All Ages until 9:00 PM, at that time any minors will be asked to leave the space. Thanks for your understanding!",
+      "title": "Mango Twist- Live Music & Dancing!",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
       }
     },
     {
@@ -159096,6 +159407,36 @@
         "music"
       ],
       "end_at": "2026-11-06T02:00:00-08:00",
+      "id": "dopdx:17936293",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791475344/event-17936293.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/5/live-in-the-depths-tickets",
+      "organizer": "The Atlantis Lounge",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 16.5,
+        "min": 2.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-05T19:30:00-08:00",
+      "summary": "FIRST THURSDAYS This long running monthly series produced and hosted by Dhug features experimental electronic music. The showcase has a different lineup of local artists every month. https://liveinthedepths.com/ all events are 21+ unless otherwise noted. no refunds except for cancellations. lineups are subject to change.",
+      "title": "Live In The Depths",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-06T02:00:00-08:00",
       "id": "ticketmaster:rZ7HnEZ1AfaMF7",
       "image_url": "https://s1.ticketm.net/dam/a/be2/1c756914-cebb-4e0d-b569-f440a0307be2_1309541_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -162407,6 +162748,36 @@
         "latitude": 45.51984,
         "longitude": -123.11066,
         "name": "Hanson Stadium"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-07T02:00:00-08:00",
+      "id": "dopdx:17936294",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791475347/event-17936294.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/6/mr-hoo-tickets",
+      "organizer": "The Atlantis Lounge",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 6.5,
+        "min": 3.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-06T17:30:00-08:00",
+      "summary": "Mr. Hoo is at Mississippi Pizza every 1st and 3rd Fridays. Mr. Hoo performs all over the Portland metro area by himself (and his invisible band) and with his visible band, The Alphabeticians.",
+      "title": "Mr. Hoo",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "name": "Atlantis Lounge"
       }
     },
     {
@@ -190709,5 +191080,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-08T16:51:57+00:00"
+  "generated_at": "2026-10-08T16:55:29+00:00"
 }

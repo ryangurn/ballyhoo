@@ -1057,14 +1057,6 @@
       "venue": "Avenue Portland"
     },
     {
-      "dropped": "willamette_week:19801682@2026-10-10T18:30",
-      "kept": "dopdx:17749548",
-      "start_at": "2026-10-10T18:30:00-07:00",
-      "title_dropped": "Can Can's Hitchcock Hotel",
-      "title_kept": "Can Can’s Hitchcock Hotel",
-      "venue": "Can Can's Paris Theatre"
-    },
-    {
       "dropped": "willamette_week:20056432@2026-10-10T18:30",
       "kept": "dopdx:17905673",
       "start_at": "2026-10-10T18:30:00-07:00",
@@ -3297,6 +3289,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:19879533@2026-10-20T20:00",
+      "kept": "dopdx:17934635",
+      "start_at": "2026-10-20T19:30:00-07:00",
+      "title_dropped": "Jesse Cunningham",
+      "title_kept": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy and Peter",
+      "venue": "The Showdown"
+    },
+    {
       "dropped": "dopdx:17434212",
       "kept": "ticketmaster:Z7r9jZ1A7PdZV",
       "start_at": "2026-10-20T20:00:00-07:00",
@@ -5193,11 +5193,19 @@
       "venue": "Holocene"
     },
     {
-      "dropped": "willamette_week:20095172@2026-10-29T21:00",
+      "dropped": "dopdx:17934252",
       "kept": "ticketmaster:rZ7HnEZ1AfuJQf",
       "start_at": "2026-10-29T21:00:00-07:00",
-      "title_dropped": "38 CRAMPS & Guests",
+      "title_dropped": "38 Cramps & Guests",
       "title_kept": "38 CRAMPS & Guests",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:20095172@2026-10-29T21:00",
+      "kept": "dopdx:17934252",
+      "start_at": "2026-10-29T21:00:00-07:00",
+      "title_dropped": "38 CRAMPS & Guests",
+      "title_kept": "38 Cramps & Guests",
       "venue": "Dante's"
     },
     {
@@ -6833,9 +6841,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 6421,
-  "floor_check": "6421 events against a 6389-event baseline",
-  "generated_at": "2026-10-08T16:51:57+00:00",
+  "event_count": 6434,
+  "floor_check": "6434 events against a 6396-event baseline",
+  "generated_at": "2026-10-08T16:55:29+00:00",
   "problems": [],
   "sources": [
     "calagator",
