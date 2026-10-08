@@ -5,66 +5,6 @@
         "market",
         "food"
       ],
-      "end_at": "2026-10-07T19:00:00-07:00",
-      "id": "neighborhood_markets:peoples@2026-10-07",
-      "is_all_day": false,
-      "listing_url": "https://www.peoples.coop/farmers-market",
-      "organizer": "People's Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-07T14:00:00-07:00",
-      "title": "People's Farmers Market",
-      "venue": {
-        "address": "People's Food Co-op, 3029 SE 21st Ave, Portland, OR 97202",
-        "city": "Portland",
-        "latitude": 45.5008,
-        "longitude": -122.64489,
-        "name": "People's Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-07T20:00:00-07:00",
-      "id": "neighborhood_markets:forest-grove@2026-10-07",
-      "is_all_day": false,
-      "listing_url": "https://www.adelantefarmersmarket.org/",
-      "organizer": "Forest Grove Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-07T16:00:00-07:00",
-      "title": "Forest Grove Farmers Market",
-      "venue": {
-        "address": "Main St between 21st Ave and Pacific Ave, Forest Grove, OR 97116",
-        "city": "Forest Grove",
-        "latitude": 45.52,
-        "longitude": -123.11217,
-        "name": "Forest Grove Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
       "end_at": "2026-10-08T17:00:00-07:00",
       "id": "neighborhood_markets:south-waterfront@2026-10-08",
       "is_all_day": false,
@@ -2881,7 +2821,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-08T06:23:18+00:00",
+  "generated_at": "2026-10-08T13:49:30+00:00",
   "source_id": "neighborhood_markets",
   "status": "ok"
 }
