@@ -1,30 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "dopdx:17286130",
-      "kept": "ticketmaster:Z7r9jZ1A7Jd46",
-      "start_at": "2026-10-08T17:30:00-07:00",
-      "title_dropped": "Pitch Latino",
-      "title_kept": "Pitch Latino",
-      "venue": "Newmark Theatre"
-    },
-    {
-      "dropped": "willamette_week:19055526@2026-10-08T18:00",
-      "kept": "ticketmaster:Z7r9jZ1A7Jd46",
-      "start_at": "2026-10-08T17:30:00-07:00",
-      "title_dropped": "Pitch Latino",
-      "title_kept": "Pitch Latino",
-      "venue": "Newmark Theatre"
-    },
-    {
-      "dropped": "willamette_week:19872790@2026-10-08T18:00",
-      "kept": "dopdx:17836310",
-      "start_at": "2026-10-08T18:00:00-07:00",
-      "title_dropped": "The Impact of Exercise on Parkinson's Disease",
-      "title_kept": "The Impact of Exercise on Parkinson’s Disease",
-      "venue": "The Foundry"
-    },
-    {
       "dropped": "willamette_week:19538841@2026-10-09T21:00",
       "kept": "dopdx:17486880",
       "start_at": "2026-10-09T21:00:00-07:00",
@@ -415,6 +391,22 @@
       "title_dropped": "The Mahjong Lounge x Malka Diamonds Present: Mahjong & Giving Back",
       "title_kept": "Mahjong & Giving Back",
       "venue": "The Racquet Club"
+    },
+    {
+      "dropped": "willamette_week:19055526@2026-10-08T18:00",
+      "kept": "dopdx:17286130",
+      "start_at": "2026-10-08T18:00:00-07:00",
+      "title_dropped": "Pitch Latino",
+      "title_kept": "Pitch Latino",
+      "venue": "Newmark Theatre"
+    },
+    {
+      "dropped": "willamette_week:19872790@2026-10-08T18:00",
+      "kept": "dopdx:17836310",
+      "start_at": "2026-10-08T18:00:00-07:00",
+      "title_dropped": "The Impact of Exercise on Parkinson's Disease",
+      "title_kept": "The Impact of Exercise on Parkinson’s Disease",
+      "venue": "The Foundry"
     },
     {
       "dropped": "willamette_week:19879665@2026-10-08T18:30",
@@ -6481,6 +6473,14 @@
       "venue": "Oregon Convention Center"
     },
     {
+      "dropped": "dopdx:17286130",
+      "kept": "ticketmaster:Z7r9jZ1A7Jd46",
+      "start_at": "2026-10-08T17:30:00-07:00",
+      "title_dropped": "Pitch Latino",
+      "title_kept": "Pitch Latino",
+      "venue": "Newmark Theatre"
+    },
+    {
       "dropped": "willamette_week:18893389@2026-10-17T23:30",
       "kept": "ticketmaster:rZ7HnEZ1AfvKZV",
       "start_at": "2026-10-17T23:30:00-07:00",
@@ -6577,9 +6577,9 @@
       "venue": "McMenamins Mission Theater"
     }
   ],
-  "event_count": 6405,
-  "floor_check": "6405 events against a 6388-event baseline",
-  "generated_at": "2026-10-08T14:05:25+00:00",
+  "event_count": 6404,
+  "floor_check": "6404 events against a 6388-event baseline",
+  "generated_at": "2026-10-08T16:24:51+00:00",
   "problems": [],
   "sources": [
     "calagator",
