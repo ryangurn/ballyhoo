@@ -5161,6 +5161,14 @@
       "venue": "Helium Comedy Club - Portland"
     },
     {
+      "dropped": "willamette_week:20093206@2026-10-30T19:30",
+      "kept": "dopdx:17790045",
+      "start_at": "2026-10-30T19:30:00-07:00",
+      "title_dropped": "The American Story Live: 250 Years of Becoming",
+      "title_kept": "The American Story Live: 250 Years of Becoming",
+      "venue": "Patricia Reser Center for the Arts"
+    },
+    {
       "dropped": "dopdx:17372832",
       "kept": "ticketmaster:Z7r9jZ1A7Jd-s",
       "start_at": "2026-10-30T20:00:00-07:00",
@@ -5783,6 +5791,14 @@
       "title_dropped": "Girl Winter Film Tour",
       "title_kept": "Girl Winter Film Tour",
       "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "willamette_week:20093202@2026-11-03T18:30",
+      "kept": "dopdx:17881440",
+      "start_at": "2026-11-03T18:30:00-08:00",
+      "title_dropped": "Lecture Demonstration with Hung Dance",
+      "title_kept": "Lecture Demonstration with Hung Dance",
+      "venue": "Patricia Reser Center for the Arts"
     },
     {
       "dropped": "willamette_week:19736098@2026-11-03T19:30",
@@ -6561,9 +6577,9 @@
       "venue": "McMenamins Mission Theater"
     }
   ],
-  "event_count": 6381,
-  "floor_check": "6381 events against a 6378-event baseline",
-  "generated_at": "2026-10-08T08:51:29+00:00",
+  "event_count": 6408,
+  "floor_check": "6408 events against a 6379-event baseline",
+  "generated_at": "2026-10-08T09:05:27+00:00",
   "problems": [],
   "sources": [
     "calagator",
