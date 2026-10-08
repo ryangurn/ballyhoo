@@ -1,14 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:18783421@2026-10-07T18:30",
-      "kept": "dopdx:17304600",
-      "start_at": "2026-10-07T18:30:00-07:00",
-      "title_dropped": "Masters of Hawaiian Music with George Kahumoku, Jr, Led Kaapana and Jeff Peterson",
-      "title_kept": "Masters of Hawaiian Music with George Kahumoku, Jr, Led Kaapana and Jeff Peterson",
-      "venue": "The Alberta Rose Theatre"
-    },
-    {
       "dropped": "dopdx:17286130",
       "kept": "ticketmaster:Z7r9jZ1A7Jd46",
       "start_at": "2026-10-08T17:30:00-07:00",
@@ -423,6 +415,14 @@
       "title_dropped": "Meeting Workforce Needs",
       "title_kept": "Meeting Workforce Needs",
       "venue": "University Club of Portland"
+    },
+    {
+      "dropped": "willamette_week:18783421@2026-10-07T18:30",
+      "kept": "dopdx:17304600",
+      "start_at": "2026-10-07T18:30:00-07:00",
+      "title_dropped": "Masters of Hawaiian Music with George Kahumoku, Jr, Led Kaapana and Jeff Peterson",
+      "title_kept": "Masters of Hawaiian Music with George Kahumoku, Jr, Led Kaapana and Jeff Peterson",
+      "venue": "The Alberta Rose Theatre"
     },
     {
       "dropped": "willamette_week:19579471@2026-10-07T19:00",
@@ -6521,9 +6521,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6379,
-  "floor_check": "6379 events against a 6267-event baseline",
-  "generated_at": "2026-10-08T00:26:25+00:00",
+  "event_count": 6377,
+  "floor_check": "6377 events against a 6277-event baseline",
+  "generated_at": "2026-10-08T01:50:51+00:00",
   "problems": [],
   "sources": [
     "calagator",
