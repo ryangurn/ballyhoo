@@ -201,6 +201,14 @@
       "venue": "Arlene Schnitzer Concert Hall"
     },
     {
+      "dropped": "willamette_week:19657446@2026-10-15T19:30",
+      "kept": "dopdx:17641013",
+      "start_at": "2026-10-15T19:30:00-07:00",
+      "title_dropped": "Live Wire with Chuck Klosterman, Joey Clift, and Ages and Ages",
+      "title_kept": "Live Wire with Chuck Klosterman, Joey Clift, and Ages and Ages",
+      "venue": "The Alberta Rose Theatre"
+    },
+    {
       "dropped": "willamette_week:18608598@2026-10-15T19:30",
       "kept": "dopdx:17434145",
       "start_at": "2026-10-15T19:30:00-07:00",
@@ -391,6 +399,14 @@
       "title_dropped": "Special Event: IMHO",
       "title_kept": "Imho",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:20082199@2026-10-27T19:30",
+      "kept": "dopdx:17936725",
+      "start_at": "2026-10-27T19:30:00-07:00",
+      "title_dropped": "Marsha Blovotnik and the Marvelous Magical Chicken Soup",
+      "title_kept": "Marsha Blovotnik and the Marvelous Magical Chicken Soup",
+      "venue": "Artists Repertory Theatre"
     },
     {
       "dropped": "willamette_week:20095170@2026-10-27T19:30",
@@ -1055,6 +1071,14 @@
       "title_dropped": "Silayan: Illuminating the Future We Build Together",
       "title_kept": "Silayan: Illuminating the Future We Build Together",
       "venue": "Avenue Portland"
+    },
+    {
+      "dropped": "willamette_week:19801682@2026-10-10T18:30",
+      "kept": "dopdx:17749548",
+      "start_at": "2026-10-10T18:30:00-07:00",
+      "title_dropped": "Can Can's Hitchcock Hotel",
+      "title_kept": "Can Can’s Hitchcock Hotel",
+      "venue": "Can Can's Paris Theatre"
     },
     {
       "dropped": "willamette_week:20056432@2026-10-10T18:30",
@@ -1927,14 +1951,6 @@
       "title_dropped": "Panel: Future of AdTech",
       "title_kept": "Panel: Future of AdTech - Portland",
       "venue": "Instrument"
-    },
-    {
-      "dropped": "willamette_week:19504943@2026-10-15T18:30",
-      "kept": "dopdx:17641013",
-      "start_at": "2026-10-15T18:30:00-07:00",
-      "title_dropped": "Live Wire with Luke Burbank",
-      "title_kept": "Live Wire with Luke Burbank",
-      "venue": "The Alberta Rose Theatre"
     },
     {
       "dropped": "willamette_week:19867857@2026-10-15T20:00",
@@ -2983,14 +2999,6 @@
       "title_dropped": "Special Event: Christopher Titus",
       "title_kept": "Christopher Titus",
       "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:19165865@2026-10-18T18:00",
-      "kept": "dopdx:17373839",
-      "start_at": "2026-10-18T18:30:00-07:00",
-      "title_dropped": "SiM",
-      "title_kept": "SiM – HOOMAN WORLD TOUR With special guest Zero 9:36",
-      "venue": "Wonder Ballroom"
     },
     {
       "dropped": "willamette_week:19801682@2026-10-18T18:30",
@@ -6229,7 +6237,7 @@
       "kept": "dopdx:17605834",
       "start_at": "2026-11-05T19:00:00-08:00",
       "title_dropped": "Buzzcocks & Grade 2",
-      "title_kept": "Celebrating 50 Years of Buzzcocks",
+      "title_kept": "Celebrating 50 Years of Buzzcocks With special guest Grade 2 and Whisper Hiss",
       "venue": "Wonder Ballroom"
     },
     {
@@ -6843,7 +6851,7 @@
   ],
   "event_count": 6463,
   "floor_check": "6463 events against a 6408-event baseline",
-  "generated_at": "2026-10-08T22:23:05+00:00",
+  "generated_at": "2026-10-08T22:26:00+00:00",
   "problems": [],
   "sources": [
     "calagator",
