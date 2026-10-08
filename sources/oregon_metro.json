@@ -4,31 +4,6 @@
       "categories": [
         "civic"
       ],
-      "id": "oregon_metro:metro-council-meeting-2026-10-08",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metro-council-meeting-2026-10-08",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-08T10:00:00-07:00",
-      "title": "Metro Council meeting",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "id": "oregon_metro:future-vision-commission-meeting-2026-10-08",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/future-vision-commission-meeting-2026-10-08",
@@ -928,31 +903,6 @@
       "categories": [
         "outdoors"
       ],
-      "id": "oregon_metro:fly-fishing-learn-basics-2026-10-24",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/fly-fishing-learn-basics-2026-10-24",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-24T10:00:00-07:00",
-      "title": "Fly fishing: Learn the basics",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.55596,
-        "longitude": -122.45242,
-        "name": "Blue Lake Regional Park"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
       "id": "oregon_metro:self-defense-and-planting-glendoveer-2026-10-24",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/self-defense-and-planting-glendoveer-2026-10-24",
@@ -976,31 +926,6 @@
     },
     {
       "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:fly-fishing-learn-basics-2026-10-24-0",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/fly-fishing-learn-basics-2026-10-24-0",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-24T13:00:00-07:00",
-      "title": "Fly fishing: Learn the basics",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.55596,
-        "longitude": -122.45242,
-        "name": "Blue Lake Regional Park"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "id": "oregon_metro:future-50-community-vision-tables-2026-10-24",
@@ -1020,6 +945,56 @@
       "venue": {
         "city": "Portland",
         "name": "Oak Lodge Library, Oak Grove"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:fly-fishing-learn-basics-2026-10-25",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/fly-fishing-learn-basics-2026-10-25",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-25T10:00:00-07:00",
+      "title": "Fly fishing: Learn the basics",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.55596,
+        "longitude": -122.45242,
+        "name": "Blue Lake Regional Park"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:fly-fishing-learn-basics-2026-10-25-0",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/fly-fishing-learn-basics-2026-10-25-0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-25T13:00:00-07:00",
+      "title": "Fly fishing: Learn the basics",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.55596,
+        "longitude": -122.45242,
+        "name": "Blue Lake Regional Park"
       }
     },
     {
@@ -3200,7 +3175,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-08T16:38:26+00:00",
+  "generated_at": "2026-10-08T22:13:14+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
