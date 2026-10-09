@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:31:51+00:00",
+  "generated_at": "2026-10-09T13:08:56+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -40,14 +40,14 @@
       "event_count": 65,
       "last_run_at": "2026-10-09T06:47:53+00:00",
       "source_id": "obt",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/obt.json"
     },
     {
       "event_count": 18,
       "last_run_at": "2026-10-09T07:04:37+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
@@ -58,10 +58,10 @@
       "url": "sources/oregon_metro.json"
     },
     {
-      "event_count": 48,
-      "last_run_at": "2026-10-09T06:00:17+00:00",
+      "event_count": 47,
+      "last_run_at": "2026-10-09T13:08:11+00:00",
       "source_id": "portland_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/portland_farmers_market.json"
     },
     {
