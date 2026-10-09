@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:30:40+00:00",
+  "generated_at": "2026-10-09T16:35:08+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -10,9 +10,9 @@
     },
     {
       "event_count": 1708,
-      "last_run_at": "2026-10-09T09:33:53+00:00",
+      "last_run_at": "2026-10-09T16:32:05+00:00",
       "source_id": "dopdx",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/dopdx.json"
     },
     {
@@ -66,9 +66,9 @@
     },
     {
       "event_count": 0,
-      "last_run_at": "2026-10-09T09:37:30+00:00",
+      "last_run_at": "2026-10-09T16:34:30+00:00",
       "source_id": "portland_parks",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/portland_parks.json"
     },
     {
