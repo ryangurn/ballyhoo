@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:08:13+00:00",
+  "generated_at": "2026-10-09T16:18:45+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -86,10 +86,10 @@
       "url": "sources/vancouver_farmers_market.json"
     },
     {
-      "event_count": 4228,
-      "last_run_at": "2026-10-09T09:11:02+00:00",
+      "event_count": 4233,
+      "last_run_at": "2026-10-09T16:17:30+00:00",
       "source_id": "willamette_week",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/willamette_week.json"
     }
   ]
