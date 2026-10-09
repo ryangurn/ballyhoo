@@ -5,36 +5,6 @@
         "market",
         "food"
       ],
-      "end_at": "2026-10-08T17:00:00-07:00",
-      "id": "neighborhood_markets:south-waterfront@2026-10-08",
-      "is_all_day": false,
-      "listing_url": "https://www.southwaterfront.com/farmers-market-about",
-      "organizer": "South Waterfront Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-08T12:00:00-07:00",
-      "title": "South Waterfront Farmers Market",
-      "venue": {
-        "address": "Elizabeth Caruthers Park, 3508 S Moody Ave, Portland, OR 97239",
-        "city": "Portland",
-        "latitude": 45.49714,
-        "longitude": -122.67136,
-        "name": "South Waterfront Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
       "end_at": "2026-10-09T19:00:00-07:00",
       "id": "neighborhood_markets:mount-hood@2026-10-09",
       "is_all_day": false,
@@ -328,36 +298,6 @@
         "latitude": 45.42864,
         "longitude": -122.77134,
         "name": "Tigard Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-11T14:00:00-07:00",
-      "id": "neighborhood_markets:milwaukie@2026-10-11",
-      "is_all_day": false,
-      "listing_url": "https://milwaukiefarmersmarket.com/",
-      "organizer": "Milwaukie Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-11T09:30:00-07:00",
-      "title": "Milwaukie Farmers Market",
-      "venue": {
-        "address": "SE Main St & SE Harrison St, Milwaukie, OR 97222",
-        "city": "Milwaukie",
-        "latitude": 45.44552,
-        "longitude": -122.64166,
-        "name": "Milwaukie Farmers Market"
       }
     },
     {
@@ -816,36 +756,6 @@
         "food"
       ],
       "end_at": "2026-10-18T14:00:00-07:00",
-      "id": "neighborhood_markets:milwaukie@2026-10-18",
-      "is_all_day": false,
-      "listing_url": "https://milwaukiefarmersmarket.com/",
-      "organizer": "Milwaukie Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-18T09:30:00-07:00",
-      "title": "Milwaukie Farmers Market",
-      "venue": {
-        "address": "SE Main St & SE Harrison St, Milwaukie, OR 97222",
-        "city": "Milwaukie",
-        "latitude": 45.44552,
-        "longitude": -122.64166,
-        "name": "Milwaukie Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-18T14:00:00-07:00",
       "id": "neighborhood_markets:montavilla@2026-10-18",
       "is_all_day": false,
       "listing_url": "https://www.montavillamarket.org/",
@@ -1288,36 +1198,6 @@
         "latitude": 45.42864,
         "longitude": -122.77134,
         "name": "Tigard Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-25T14:00:00-07:00",
-      "id": "neighborhood_markets:milwaukie@2026-10-25",
-      "is_all_day": false,
-      "listing_url": "https://milwaukiefarmersmarket.com/",
-      "organizer": "Milwaukie Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-25T09:30:00-07:00",
-      "title": "Milwaukie Farmers Market",
-      "venue": {
-        "address": "SE Main St & SE Harrison St, Milwaukie, OR 97222",
-        "city": "Milwaukie",
-        "latitude": 45.44552,
-        "longitude": -122.64166,
-        "name": "Milwaukie Farmers Market"
       }
     },
     {
@@ -2819,9 +2699,39 @@
         "longitude": -122.64489,
         "name": "People's Farmers Market"
       }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2027-02-06T14:00:00-08:00",
+      "id": "neighborhood_markets:happy-valley@2027-02-06",
+      "is_all_day": false,
+      "listing_url": "https://www.sunnysidefarmersmarkets.com/",
+      "organizer": "Happy Valley Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2027-02-06T10:00:00-08:00",
+      "title": "Happy Valley Winter Farmers Market",
+      "venue": {
+        "address": "13231 SE Sunnyside Rd, Happy Valley, OR 97015",
+        "city": "Happy Valley",
+        "latitude": 45.42737,
+        "longitude": -122.52603,
+        "name": "Happy Valley Farmers Market"
+      }
     }
   ],
-  "generated_at": "2026-10-09T06:24:48+00:00",
+  "generated_at": "2026-10-09T13:35:39+00:00",
   "source_id": "neighborhood_markets",
   "status": "ok"
 }
