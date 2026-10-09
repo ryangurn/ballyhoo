@@ -114811,35 +114811,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-27T22:00:00-07:00",
-      "id": "dopdx:17800109",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788380963/event-17800109.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/10/27/harp-twins-volfgang-twins-halloween-concert-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 40.0,
-        "min": 35.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-10-27T19:30:00-07:00",
-      "summary": "Doors 6:30pm | All Ages | Bar w/ ID | Tickets $35 adv / $40 dos | Pricing includes all ticket fees. Harp Twins + Volfgang Twins Halloween Concert! After 3 long years away, the Harp Twins are finally returning to Portland and are bringing their rockin' Halloween show! You won't want to miss this all-ages concert full of spooky songs, tantalizing tunes, comedy, and classic rock and metal favorites!",
-      "title": "Harp Twins + Volfgang Twins Halloween Concert!",
-      "venue": {
-        "address": "1422 SW 11th Ave",
-        "city": "Portland",
-        "name": "The Old Church Concert Hall"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-11-22T21:00:00-08:00",
@@ -114873,6 +114844,35 @@
         "latitude": 45.5216901,
         "longitude": -122.6875609,
         "name": "Artists Repertory Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-27T22:00:00-07:00",
+      "id": "dopdx:17800109",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1788380963/event-17800109.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/27/harp-twins-volfgang-twins-halloween-concert-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 40.0,
+        "min": 35.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-27T19:30:00-07:00",
+      "summary": "Doors 6:30pm | All Ages | Bar w/ ID | Tickets $35 adv / $40 dos | Pricing includes all ticket fees. Harp Twins + Volfgang Twins Halloween Concert! After 3 long years away, the Harp Twins are finally returning to Portland and are bringing their rockin' Halloween show! You won't want to miss this all-ages concert full of spooky songs, tantalizing tunes, comedy, and classic rock and metal favorites!",
+      "title": "Harp Twins + Volfgang Twins Halloween Concert!",
+      "venue": {
+        "address": "1422 SW 11th Ave",
+        "city": "Portland",
+        "name": "The Old Church Concert Hall"
       }
     },
     {
@@ -190649,5 +190649,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-09T09:33:01+00:00"
+  "generated_at": "2026-10-09T09:36:20+00:00"
 }
