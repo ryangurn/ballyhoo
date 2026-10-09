@@ -514,6 +514,30 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-10-24T21:00:00-07:00",
+      "id": "calagator:1250482751",
+      "is_all_day": false,
+      "listing_url": "https://macabremamabooks.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-24T18:00:00-07:00",
+      "summary": "Brews & Books Event🍺📚\r\n\r\nPortland horror book and craft beer fans ~ mark your calendars! Macabre Mama Books will be at Fortside Brewing Company on Saturday, October 24th at 6:00 PM for a special Brews & Books event celebrating  my novella ~ Blood for Beer Money! 🩸🍺\r\n\r\nThis spooky story was originally conceived right here over pints at Fortside, so I'm bringing it back to where it all began. \r\nCome hang out, grab a fresh brew, pick up a signed copy, and enter our spooky book raffle!\r\n\r\nWhether you're a hardcore horror fan or just looking for your next atmospheric autumn read, we’ve got a seat saved for you.\r\n\r\n📍 Fortside Brewing Co. — 2200 NE Andresen Rd, Ste B, Vancouver, WA\r\n⏰ Saturday, Oct 24 @ 6 PM",
+      "title": "Brews & Books",
+      "venue": {
+        "name": "Fortside Brewing Company"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-10-26T12:00:00-07:00",
       "id": "calagator:1250482673",
       "is_all_day": false,
@@ -846,7 +870,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-09T16:07:29+00:00",
+  "generated_at": "2026-10-09T21:36:53+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
