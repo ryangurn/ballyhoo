@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T06:02:19+00:00",
+  "generated_at": "2026-10-09T06:26:05+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -31,9 +31,9 @@
     },
     {
       "event_count": 94,
-      "last_run_at": "2026-10-08T23:28:56+00:00",
+      "last_run_at": "2026-10-09T06:24:48+00:00",
       "source_id": "neighborhood_markets",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/neighborhood_markets.json"
     },
     {
@@ -75,7 +75,7 @@
       "event_count": 856,
       "last_run_at": "2026-10-09T00:20:10+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
