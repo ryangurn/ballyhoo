@@ -5417,6 +5417,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:20124196@2026-11-02T18:00",
+      "kept": "dopdx:17918324",
+      "start_at": "2026-11-02T18:00:00-08:00",
+      "title_dropped": "WorldOregon presents Dr. Katharine Hayhoe: Climate Action & Conversation Across Divides",
+      "title_kept": "Worldoregon Presents Dr. Katharine Hayhoe: Climate Action & Conversation Across Divides",
+      "venue": "The Alberta Rose Theatre"
+    },
+    {
       "dropped": "willamette_week:19957019@2026-11-02T19:00",
       "kept": "ticketmaster:rZ7HnEZ1AfGfx7",
       "start_at": "2026-11-02T19:00:00-08:00",
@@ -6609,9 +6617,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6360,
-  "floor_check": "6360 events against a 6419-event baseline",
-  "generated_at": "2026-10-10T07:03:17+00:00",
+  "event_count": 6396,
+  "floor_check": "6396 events against a 6419-event baseline",
+  "generated_at": "2026-10-10T07:14:47+00:00",
   "problems": [],
   "sources": [
     "calagator",
