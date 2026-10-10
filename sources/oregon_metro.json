@@ -2,29 +2,6 @@
   "events": [
     {
       "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:salmon-days-2026-10-09",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/salmon-days-2026-10-09",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-09T10:00:00-07:00",
-      "title": "Salmon Days",
-      "venue": {
-        "city": "Portland",
-        "name": "Chinook Landing Marine Park"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "id": "oregon_metro:household-hazardous-waste-neighborhood-collection-event-2026-10-10",
@@ -1077,6 +1054,31 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:2026-10-31",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/2026-10-31",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-31T09:00:00-07:00",
+      "title": "Household hazardous waste neighborhood collection event",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.32208,
+        "longitude": -122.57526,
+        "name": "Clackamas Community College - Wilsonville campus"
       }
     },
     {
@@ -2697,6 +2699,31 @@
       "categories": [
         "civic"
       ],
+      "id": "oregon_metro:supportive-housing-services-regional-policy-and-oversight-committee-meeting-2027-03-10",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/supportive-housing-services-regional-policy-and-oversight-committee-meeting-2027-03-10",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-03-10T15:00:00-08:00",
+      "title": "Supportive Housing Services Regional Policy and Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
       "id": "oregon_metro:metro-regional-planning-workshop-2027-04-14",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-regional-planning-workshop-2027-04-14",
@@ -3138,7 +3165,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-09T21:03:25+00:00",
+  "generated_at": "2026-10-10T01:01:30+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
