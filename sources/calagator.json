@@ -699,6 +699,30 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-11-07T11:30:00-08:00",
+      "id": "calagator:1250482752",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/pdx-women-coders/events/316830324/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-07T10:00:00-08:00",
+      "summary": "Join PDX Women Coders for a back-end study session, where we read and discuss Designing Data-Intensive Applications (2nd edition) (https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/) by Martin Kleppmann. We plan to go over one chapter (or so) each session, and we will be meeting every two weeks for 7-8 months to finish the book. Each session, we'll go over that we learned in that chapter, and explore key concepts in distributed systems, data storage, and scalable architecture. We hope this will be a good opportunity to learn and connect with fellow engineers.\r\n\r\nBefore our reboot* meeting, please read the first chapter.\r\n\r\nSome additional details:\r\n- We are meeting every two weeks @ 10AM PT on Zoom\r\n- The Zoom event link willl be shared 2-3 days before the event\r\n- Anyone can attend, regardless of gender, as long as you support our mission\r\n- Reading is not required for attendance\r\n(but you'll get more out of this session if you read along 😉)\r\n- The event photo comes from Martin Kleppmann's blog post: Drawing a map of distributed data systems (https://martin.kleppmann.com/2017/03/15/map-distributed-data-systems.html)\r\n\r\n*This event series was created and organized by Kat K. starting in February 2024. We read the first edition of the book back then; we will be reading the second edition this time around.",
+      "title": "Backend & Systems Guild: Designing Data-Intensive Applications [Ch. 1]",
+      "venue": {
+        "name": "Zoom"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-11-11T20:30:00-08:00",
       "id": "calagator:1250482571",
       "is_all_day": false,
@@ -846,7 +870,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-10T20:00:40+00:00",
+  "generated_at": "2026-10-10T23:28:23+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
