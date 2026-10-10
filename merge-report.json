@@ -4177,14 +4177,6 @@
       "venue": "Helium Comedy Club"
     },
     {
-      "dropped": "willamette_week:18557790@2026-10-27T20:00",
-      "kept": "ticketmaster:vvG1HZ_61KVUk5",
-      "start_at": "2026-10-27T19:30:00-07:00",
-      "title_dropped": "Dermot Kennedy: The Weight of the Woods Tour",
-      "title_kept": "Dermot Kennedy: The Weight of the Woods Tour",
-      "venue": "Moda Center"
-    },
-    {
       "dropped": "willamette_week:19900087@2026-10-27T19:30",
       "kept": "dopdx:17259686",
       "start_at": "2026-10-27T20:00:00-07:00",
@@ -6017,6 +6009,14 @@
       "venue": "Alberta Abbey"
     },
     {
+      "dropped": "dopdx:17339150",
+      "kept": "ticketmaster:rZ7HnEZ1Af03qd",
+      "start_at": "2026-11-06T23:55:00-08:00",
+      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19225591@2026-11-06T23:55",
       "kept": "dopdx:17339150",
       "start_at": "2026-11-06T23:55:00-08:00",
@@ -6609,9 +6609,9 @@
       "venue": "Aladdin Theater"
     }
   ],
-  "event_count": 6372,
-  "floor_check": "6372 events against a 6419-event baseline",
-  "generated_at": "2026-10-10T06:36:43+00:00",
+  "event_count": 6360,
+  "floor_check": "6360 events against a 6419-event baseline",
+  "generated_at": "2026-10-10T07:03:17+00:00",
   "problems": [],
   "sources": [
     "calagator",
