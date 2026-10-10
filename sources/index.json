@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:51:51+00:00",
+  "generated_at": "2026-10-10T13:13:17+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -45,9 +45,9 @@
     },
     {
       "event_count": 18,
-      "last_run_at": "2026-10-10T06:35:56+00:00",
+      "last_run_at": "2026-10-10T13:12:32+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
@@ -75,7 +75,7 @@
       "event_count": 890,
       "last_run_at": "2026-10-10T07:02:30+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
@@ -89,7 +89,7 @@
       "event_count": 4169,
       "last_run_at": "2026-10-10T07:13:14+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
