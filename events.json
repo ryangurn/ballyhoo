@@ -245,36 +245,6 @@
     },
     {
       "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-09T19:00:00-07:00",
-      "id": "neighborhood_markets:mount-hood@2026-10-09",
-      "is_all_day": false,
-      "listing_url": "https://mounthoodfarmersmarket.org/",
-      "organizer": "Mount Hood Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-09T14:00:00-07:00",
-      "title": "Mount Hood Farmers Market",
-      "venue": {
-        "address": "38600 Proctor Blvd, Sandy, OR 97055",
-        "city": "Sandy",
-        "latitude": 45.39704,
-        "longitude": -122.26609,
-        "name": "Mount Hood Farmers Market"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "id": "willamette_week:19725144@2026-10-10T00:00",
@@ -12365,36 +12335,6 @@
         "latitude": 45.571774,
         "longitude": -122.724489,
         "name": "University of Portland"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-11T14:00:00-07:00",
-      "id": "neighborhood_markets:milwaukie@2026-10-11",
-      "is_all_day": false,
-      "listing_url": "https://milwaukiefarmersmarket.com/",
-      "organizer": "Milwaukie Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-11T09:30:00-07:00",
-      "title": "Milwaukie Farmers Market",
-      "venue": {
-        "address": "SE Main St & SE Harrison St, Milwaukie, OR 97222",
-        "city": "Milwaukie",
-        "latitude": 45.44552,
-        "longitude": -122.64166,
-        "name": "Milwaukie Farmers Market"
       }
     },
     {
@@ -57807,36 +57747,6 @@
     },
     {
       "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-18T14:00:00-07:00",
-      "id": "neighborhood_markets:milwaukie@2026-10-18",
-      "is_all_day": false,
-      "listing_url": "https://milwaukiefarmersmarket.com/",
-      "organizer": "Milwaukie Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-18T09:30:00-07:00",
-      "title": "Milwaukie Farmers Market",
-      "venue": {
-        "address": "SE Main St & SE Harrison St, Milwaukie, OR 97222",
-        "city": "Milwaukie",
-        "latitude": 45.44552,
-        "longitude": -122.64166,
-        "name": "Milwaukie Farmers Market"
-      }
-    },
-    {
-      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:mushroom-hike-2026-10-18",
@@ -97732,36 +97642,6 @@
       "title": "Hot Girl Walk® | Portland",
       "venue": {
         "name": "6820 SW 45th Ave"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-25T14:00:00-07:00",
-      "id": "neighborhood_markets:milwaukie@2026-10-25",
-      "is_all_day": false,
-      "listing_url": "https://milwaukiefarmersmarket.com/",
-      "organizer": "Milwaukie Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-25T09:30:00-07:00",
-      "title": "Milwaukie Farmers Market",
-      "venue": {
-        "address": "SE Main St & SE Harrison St, Milwaukie, OR 97222",
-        "city": "Milwaukie",
-        "latitude": 45.44552,
-        "longitude": -122.64166,
-        "name": "Milwaukie Farmers Market"
       }
     },
     {
@@ -182677,6 +182557,36 @@
     },
     {
       "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2027-02-07T13:00:00-08:00",
+      "id": "neighborhood_markets:hillsdale@2027-02-07",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsdalefarmersmarket.com/",
+      "organizer": "Hillsdale Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2027-02-07T09:00:00-08:00",
+      "title": "Hillsdale Farmers Market",
+      "venue": {
+        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
+        "city": "Portland",
+        "latitude": 45.47712,
+        "longitude": -122.69539,
+        "name": "Hillsdale Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:Z7r9jZ1AA7AFP",
@@ -189878,5 +189788,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-10T12:25:15+00:00"
+  "generated_at": "2026-10-10T12:48:16+00:00"
 }
