@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T13:12:17+00:00",
+  "generated_at": "2026-10-11T13:16:32+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -23,10 +23,10 @@
       "url": "sources/hillsboro_farmers_markets.json"
     },
     {
-      "event_count": 16,
-      "last_run_at": "2026-10-11T06:09:41+00:00",
+      "event_count": 15,
+      "last_run_at": "2026-10-11T13:15:38+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
