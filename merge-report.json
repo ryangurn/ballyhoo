@@ -401,14 +401,6 @@
       "venue": "Roseland Theater"
     },
     {
-      "dropped": "obt:823",
-      "kept": "ticketmaster:Z7r9jZ1AAvP4z",
-      "start_at": "2026-10-10T19:30:00-07:00",
-      "title_dropped": "Swan Lake",
-      "title_kept": "Swan Lake",
-      "venue": "Keller Auditorium"
-    },
-    {
       "dropped": "willamette_week:17670892@2026-10-11T09:00",
       "kept": "neighborhood_markets:hillsdale@2026-10-11",
       "start_at": "2026-10-11T09:00:00-07:00",
@@ -6185,9 +6177,9 @@
       "venue": "Keller Auditorium"
     }
   ],
-  "event_count": 6266,
-  "floor_check": "6266 events against a 6447-event baseline",
-  "generated_at": "2026-10-11T06:44:36+00:00",
+  "event_count": 6250,
+  "floor_check": "6250 events against a 6447-event baseline",
+  "generated_at": "2026-10-11T08:46:04+00:00",
   "problems": [],
   "sources": [
     "calagator",
