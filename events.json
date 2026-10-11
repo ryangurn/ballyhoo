@@ -133,66 +133,6 @@
         "market",
         "food"
       ],
-      "end_at": "2026-10-10T13:30:00-07:00",
-      "id": "neighborhood_markets:beaverton@2026-10-10",
-      "is_all_day": false,
-      "listing_url": "https://www.beavertonfarmersmarket.com/form-map",
-      "organizer": "Beaverton Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-10T08:30:00-07:00",
-      "title": "Beaverton Farmers Market",
-      "venue": {
-        "address": "12375 SW 5th St, Beaverton, OR 97005",
-        "city": "Beaverton",
-        "latitude": 45.48412,
-        "longitude": -122.80406,
-        "name": "Beaverton Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-10T14:00:00-07:00",
-      "id": "neighborhood_markets:gresham@2026-10-10",
-      "is_all_day": false,
-      "listing_url": "https://www.greshamfarmersmarket.com/",
-      "organizer": "Gresham Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-10T08:30:00-07:00",
-      "title": "Gresham Farmers Market",
-      "venue": {
-        "address": "Center for the Arts Plaza, NE 3rd St & NE Hood Ave, Gresham, OR 97030",
-        "city": "Gresham",
-        "latitude": 45.49964,
-        "longitude": -122.428,
-        "name": "Gresham Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
       "end_at": "2026-10-10T14:00:00-07:00",
       "id": "portland_farmers_market:psu-farmers-market@2026-10-10",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/psu-jun23.jpg",
@@ -251,126 +191,6 @@
         "latitude": 45.52252,
         "longitude": -122.98929,
         "name": "Downtown Hillsboro Saturday Farmers' Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-10T14:00:00-07:00",
-      "id": "neighborhood_markets:happy-valley@2026-10-10",
-      "is_all_day": false,
-      "listing_url": "https://www.sunnysidefarmersmarkets.com/",
-      "organizer": "Happy Valley Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-10T09:00:00-07:00",
-      "title": "Happy Valley Farmers Market",
-      "venue": {
-        "address": "13231 SE Sunnyside Rd, Happy Valley, OR 97015",
-        "city": "Happy Valley",
-        "latitude": 45.42737,
-        "longitude": -122.52603,
-        "name": "Happy Valley Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-10T13:00:00-07:00",
-      "id": "neighborhood_markets:rocky-butte@2026-10-10",
-      "is_all_day": false,
-      "listing_url": "https://www.rockybuttemarket.com/",
-      "organizer": "Rocky Butte Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-10T09:00:00-07:00",
-      "title": "Rocky Butte Farmers Market",
-      "venue": {
-        "address": "NE Siskiyou St & NE 80th Ave, Portland, OR 97213",
-        "city": "Portland",
-        "latitude": 45.54453,
-        "longitude": -122.58086,
-        "name": "Rocky Butte Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-10T14:00:00-07:00",
-      "id": "neighborhood_markets:st-johns@2026-10-10",
-      "is_all_day": false,
-      "listing_url": "https://www.stjohnsopportunity.org/market-info",
-      "organizer": "St. Johns Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-10T09:00:00-07:00",
-      "title": "St. Johns Farmers Market",
-      "venue": {
-        "address": "N Charleston Ave & N Central St, Portland, OR 97203",
-        "city": "Portland",
-        "latitude": 45.59129,
-        "longitude": -122.75067,
-        "name": "St. Johns Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-10T13:00:00-07:00",
-      "id": "neighborhood_markets:woodlawn@2026-10-10",
-      "is_all_day": false,
-      "listing_url": "https://www.woodlawnfarmersmarket.org/",
-      "organizer": "Woodlawn Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-10T09:00:00-07:00",
-      "title": "Woodlawn Farmers Market",
-      "venue": {
-        "address": "NE Dekum St & NE Durham Ave, Portland, OR 97211",
-        "city": "Portland",
-        "latitude": 45.57178,
-        "longitude": -122.65676,
-        "name": "Woodlawn Farmers Market"
       }
     },
     {
@@ -492,36 +312,6 @@
         "latitude": 45.53635,
         "longitude": -122.61756,
         "name": "Hollywood Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-10T14:00:00-07:00",
-      "id": "neighborhood_markets:sellwood-moreland@2026-10-10",
-      "is_all_day": false,
-      "listing_url": "https://www.morelandfarmersmarket.org/time-place",
-      "organizer": "Sellwood Moreland Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-10T10:00:00-07:00",
-      "title": "Sellwood Moreland Farmers Market",
-      "venue": {
-        "address": "SE Claybourne St between SE Milwaukie Ave and SE 17th Ave, Portland, OR 97202",
-        "city": "Portland",
-        "latitude": 45.47558,
-        "longitude": -122.64795,
-        "name": "Sellwood Moreland Farmers Market"
       }
     },
     {
@@ -185426,5 +185216,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-11T12:42:48+00:00"
+  "generated_at": "2026-10-11T13:12:17+00:00"
 }
