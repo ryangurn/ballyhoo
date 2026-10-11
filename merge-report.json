@@ -441,14 +441,6 @@
       "venue": "Keller Auditorium"
     },
     {
-      "dropped": "dopdx:17555756",
-      "kept": "ticketmaster:Z7r9jZ1AAvPpk",
-      "start_at": "2026-10-11T14:00:00-07:00",
-      "title_dropped": "Swan Lake",
-      "title_kept": "Swan Lake",
-      "venue": "Keller Auditorium"
-    },
-    {
       "dropped": "willamette_week:19957052@2026-10-11T14:00",
       "kept": "dopdx:17555756",
       "start_at": "2026-10-11T14:00:00-07:00",
@@ -457,28 +449,12 @@
       "venue": "Keller Auditorium"
     },
     {
-      "dropped": "dopdx:17262325",
-      "kept": "ticketmaster:Z7r9jZ1A7JAbA",
-      "start_at": "2026-10-11T14:00:00-07:00",
-      "title_dropped": "Holst’s The Planets",
-      "title_kept": "Oregon Symphony presents Holst's the Planets",
-      "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
       "dropped": "willamette_week:18245391@2026-10-11T14:00",
       "kept": "dopdx:17262325",
       "start_at": "2026-10-11T14:00:00-07:00",
       "title_dropped": "Holst's The Planets",
       "title_kept": "Holst’s The Planets",
       "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
-      "dropped": "dopdx:17387383",
-      "kept": "ticketmaster:Z7r9jZ1AAv0p6",
-      "start_at": "2026-10-11T14:00:00-07:00",
-      "title_dropped": "Guys and Dolls",
-      "title_kept": "Guys & Dolls",
-      "venue": "Winningstad Theatre"
     },
     {
       "dropped": "willamette_week:19957051@2026-10-11T14:00",
@@ -6187,7 +6163,7 @@
   ],
   "event_count": 6264,
   "floor_check": "6264 events against a 6265-event baseline",
-  "generated_at": "2026-10-11T22:39:29+00:00",
+  "generated_at": "2026-10-11T23:41:14+00:00",
   "problems": [],
   "sources": [
     "calagator",
