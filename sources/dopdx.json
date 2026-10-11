@@ -1591,6 +1591,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-10-12T02:00:00-07:00",
+      "id": "dopdx:17931966",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791378809/event-17931966.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/11/the-end-of-oak-street-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-11T19:00:00-07:00",
+      "summary": "(99) Running time: 99 minutes After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "title": "The End of Oak Street",
+      "venue": {
+        "address": "5736 NE 33rd Ave",
+        "city": "Portland",
+        "latitude": 45.5644833,
+        "longitude": -122.6302851,
+        "name": "Kennedy School"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-12T02:00:00-07:00",
@@ -1643,35 +1672,6 @@
         "address": "2522 SE Clinton St",
         "city": "Portland",
         "name": "Clinton St. Theater"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-10-12T02:00:00-07:00",
-      "id": "dopdx:17931966",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791378809/event-17931966.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/10/11/the-end-of-oak-street-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-10-11T19:00:00-07:00",
-      "summary": "(99) Running time: 99 minutes After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "title": "The End of Oak Street",
-      "venue": {
-        "address": "5736 NE 33rd Ave",
-        "city": "Portland",
-        "latitude": 45.5644833,
-        "longitude": -122.6302851,
-        "name": "Kennedy School"
       }
     },
     {
@@ -45568,7 +45568,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-11T09:15:28+00:00",
+  "generated_at": "2026-10-11T15:55:47+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
