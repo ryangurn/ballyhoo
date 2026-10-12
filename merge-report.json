@@ -4313,6 +4313,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:20134421@2026-10-31T19:00",
+      "kept": "dopdx:17948291",
+      "start_at": "2026-10-31T19:00:00-07:00",
+      "title_dropped": "Halloween Party and Costume Contest",
+      "title_kept": "Halloween Dance Party and Costume Contest",
+      "venue": "Advice Booth"
+    },
+    {
       "dropped": "dopdx:17752115",
       "kept": "ticketmaster:rZ7HnEZ1A4veAd",
       "start_at": "2026-10-31T19:30:00-07:00",
@@ -6017,9 +6025,9 @@
       "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 6152,
-  "floor_check": "6152 events against a 6264-event baseline",
-  "generated_at": "2026-10-12T06:52:44+00:00",
+  "event_count": 6153,
+  "floor_check": "6153 events against a 6264-event baseline",
+  "generated_at": "2026-10-12T07:27:12+00:00",
   "problems": [],
   "sources": [
     "calagator",
