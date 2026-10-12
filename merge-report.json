@@ -425,14 +425,6 @@
       "venue": "Showdown Saloon"
     },
     {
-      "dropped": "dopdx:17723666",
-      "kept": "ticketmaster:vvG1HZ_23k0AJD",
-      "start_at": "2026-10-12T13:00:00-07:00",
-      "title_dropped": "Trail blazers vs. London Lions",
-      "title_kept": "Portland Trail Blazers vs London Lions",
-      "venue": "Moda Center"
-    },
-    {
       "dropped": "willamette_week:19570947@2026-10-12T13:00",
       "kept": "dopdx:17723666",
       "start_at": "2026-10-12T13:00:00-07:00",
@@ -3205,7 +3197,7 @@
       "kept": "ticketmaster:rZ7HnEZ1Af1afV",
       "start_at": "2026-10-25T19:00:00-07:00",
       "title_dropped": "Church Of Hive",
-      "title_kept": "A SPLIT - SECOND",
+      "title_kept": "A SPLIT - SECOND with Dancing Plague and Graveyard Gossip",
       "venue": "Star Theater"
     },
     {
@@ -5761,6 +5753,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:16902271@2026-11-08T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPs0S",
+      "start_at": "2026-11-08T21:00:00-08:00",
+      "title_dropped": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "dopdx:17918384",
       "kept": "ticketmaster:rZ7HnEZ1AfFYO0",
       "start_at": "2026-11-08T22:00:00-08:00",
@@ -6201,9 +6201,9 @@
       "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 6277,
-  "floor_check": "6277 events against a 6153-event baseline",
-  "generated_at": "2026-10-12T18:59:19+00:00",
+  "event_count": 6328,
+  "floor_check": "6328 events against a 6153-event baseline",
+  "generated_at": "2026-10-12T22:33:20+00:00",
   "problems": [],
   "sources": [
     "calagator",
