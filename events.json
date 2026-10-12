@@ -18239,7 +18239,13 @@
         "url": "https://www.oregonmetro.gov"
       },
       "start_at": "2026-10-15T17:30:00-07:00",
-      "title": "Committee on Racial Equity meeting"
+      "title": "Committee on Racial Equity meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
     },
     {
       "categories": [
@@ -187421,5 +187427,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-12T22:33:20+00:00"
+  "generated_at": "2026-10-12T23:06:57+00:00"
 }
