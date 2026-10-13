@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:35:09+00:00",
+  "generated_at": "2026-10-13T21:20:41+00:00",
   "sources": [
     {
       "event_count": 31,
@@ -19,21 +19,21 @@
       "event_count": 9,
       "last_run_at": "2026-10-13T14:05:10+00:00",
       "source_id": "hillsboro_farmers_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hillsboro_farmers_markets.json"
     },
     {
       "event_count": 15,
       "last_run_at": "2026-10-13T14:27:59+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
       "event_count": 83,
       "last_run_at": "2026-10-13T14:26:50+00:00",
       "source_id": "neighborhood_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/neighborhood_markets.json"
     },
     {
@@ -47,7 +47,7 @@
       "event_count": 17,
       "last_run_at": "2026-10-13T14:44:27+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
@@ -61,7 +61,7 @@
       "event_count": 41,
       "last_run_at": "2026-10-13T14:04:58+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
@@ -86,8 +86,8 @@
       "url": "sources/vancouver_farmers_market.json"
     },
     {
-      "event_count": 4261,
-      "last_run_at": "2026-10-13T16:04:13+00:00",
+      "event_count": 4280,
+      "last_run_at": "2026-10-13T21:19:24+00:00",
       "source_id": "willamette_week",
       "status": "ok",
       "url": "sources/willamette_week.json"
