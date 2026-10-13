@@ -201,6 +201,14 @@
       "venue": "Star Theater"
     },
     {
+      "dropped": "willamette_week:20145393@2026-10-18T13:00",
+      "kept": "portland_farmers_market:rich-compton@2026-10-18",
+      "start_at": "2026-10-18T13:00:00-07:00",
+      "title_dropped": "Rich Compton",
+      "title_kept": "Rich Compton",
+      "venue": "Lents International Farmers Market"
+    },
+    {
       "dropped": "willamette_week:19957012@2026-10-19T19:00",
       "kept": "ticketmaster:rZ7HnEZ1AfGf-V",
       "start_at": "2026-10-19T19:00:00-07:00",
@@ -1623,14 +1631,6 @@
       "title_dropped": "Disney On Ice presents Jump In!",
       "title_kept": "Jump In!",
       "venue": "Veterans Memorial Coliseum"
-    },
-    {
-      "dropped": "willamette_week:20145393@2026-10-18T13:00",
-      "kept": "portland_farmers_market:rich-compton@2026-10-18",
-      "start_at": "2026-10-18T13:00:00-07:00",
-      "title_dropped": "Rich Compton",
-      "title_kept": "Rich Compton",
-      "venue": "Lents International Farmers Market"
     },
     {
       "dropped": "dopdx:17262329",
@@ -6185,9 +6185,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6357,
-  "floor_check": "6357 events against a 6153-event baseline",
-  "generated_at": "2026-10-13T01:05:11+00:00",
+  "event_count": 6358,
+  "floor_check": "6358 events against a 6215-event baseline",
+  "generated_at": "2026-10-13T01:17:06+00:00",
   "problems": [],
   "sources": [
     "calagator",
