@@ -513,6 +513,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-13T02:00:00-07:00",
+      "id": "dopdx:17262326",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1777336895/event-17262326.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/12/bluey-s-big-play-the-stage-show-tickets",
+      "organizer": "Presented by Tobin Entertainment and Portland’5",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 38.7,
+        "min": 38.7
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-12T18:00:00-07:00",
+      "summary": "This is Bluey’s Big Play, For Real Life. When Dad feels like a little bit of time out, Bluey and Bingo have other plans! Join them as they pull out all of the games and cleverness at their disposal to get Dad off that bean bag. Bluey’s Big Play is a theatrical adaptation of the Emmy® award-winning children’s television series, with an original story by Bluey creator Joe Brumm, and new music by Bluey composer, Joff Bush. Join the Heelers in their first live theatre show made just for you, featuring brilliantly created puppets, this is Bluey as you’ve never seen it before, brought to real life. Bluey’s Big Play is presented by BBC Studios and Andrew Kay in association with Windmill Theatre Co. Website: blueylive.com Facebook / Instagram: @Offi",
+      "title": "Bluey’s Big Play – The Stage Show",
+      "venue": {
+        "address": "1037 Southwest Broadway",
+        "city": "Portland",
+        "latitude": 45.5172295,
+        "longitude": -122.6814325,
+        "name": "Arlene Schnitzer Concert Hall"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-13T02:00:00-07:00",
@@ -651,43 +683,6 @@
       "venue": {
         "address": "2222 NE Oregon St Suite 207, Portland, OR 97232",
         "name": "Rae Loft At The Bakery Building"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-13T02:00:00-07:00",
-      "id": "ticketmaster:Z7r9jZ1A70a0a",
-      "image_url": "https://s1.ticketm.net/dam/a/4d4/d963b745-c842-4a74-8678-58e1508774d4_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70a0a",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "Presented by Tobin Entertainment and Portland’5",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 38.7,
-        "min": 38.7
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-12T18:00:00-07:00",
-      "summary": "This is Bluey’s Big Play, For Real Life. When Dad feels like a little bit of time out, Bluey and Bingo have other plans! Join them as they pull out all of the games and cleverness at their disposal to get Dad off that bean bag. Bluey’s Big Play is a theatrical adaptation of the Emmy® award-winning children’s television series, with an original story by Bluey creator Joe Brumm, and new music by Bluey composer, Joff Bush. Join the Heelers in their first live theatre show made just for you, featuring brilliantly created puppets, this is Bluey as you’ve never seen it before, brought to real life. Bluey’s Big Play is presented by BBC Studios and Andrew Kay in association with Windmill Theatre Co. Website: blueylive.com Facebook / Instagram: @Offi",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70a0a",
-      "title": "Bluey's Big Play - The Stage Show - All Ages, everyone needs a ticket",
-      "venue": {
-        "address": "1037 SW Broadway Dr",
-        "city": "Portland",
-        "latitude": 45.5201,
-        "longitude": -122.6884,
-        "name": "Arlene Schnitzer Concert Hall"
       }
     },
     {
@@ -1101,37 +1096,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfGf-0",
-      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/square-dancing-with-old-time-showdown-saloon-tickets/14314864",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 15.92,
-        "min": 15.92
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-12T19:00:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/square-dancing-with-old-time-showdown-saloon-tickets/14314864",
-      "title": "Square Dancing with Old Time Highway and Caller Caroline Oakley",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
-        "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "end_at": "2026-10-13T02:00:00-07:00",
@@ -1365,34 +1329,6 @@
         "address": "727 SE Grand Ave",
         "city": "Portland",
         "name": "Swan Dive"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1AAZ9a9",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ9a9",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-12T20:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ9a9",
-      "title": "Paige Fish (21 and Over)",
-      "venue": {
-        "address": "1001 SE Morrison St",
-        "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "Holocene"
       }
     },
     {
@@ -26757,6 +26693,37 @@
         "address": "727 SE Grand Ave",
         "city": "Portland",
         "name": "Swan Dive"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfuUj7",
+      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/twirl-star-theater-tickets/14376704",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 23.15,
+        "min": 23.15
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-10-16T21:00:00-07:00",
+      "summary": "TWIRL @ STAR THEATERJoin us this Friday 10/16 for Twirl: A Queer Dark Disco! We're delighted to have local artist One-Half Nelson as our guest dj this month. A visionary behind Portland's queer club-kid dance party Hickey Machine, with her at the helm we already know y'all are in for some tricks and treats! Sounds: Dark Disco / Moody Funk / Eerie Electro / Haunting House, and all things Synthy! Guest dj ~ One-Half Nelson Resident dj ~ LéMix With two special guest performances from our creatures of the night, Angel Darko & Ed Du'Bull! (don't forget cash for our performers!) Looks always encouraged! Dark Denim, Purples, Blues, Blacks, and Halloween looks too...add some ghoul to your glam or whatever feels moody to you:) This month's charity is Rose Haven, a day shelter and community center serving women, children and gender non-conforming folks. Please consider donating at the door, or online at https://rosehaven.org/ Fri. 10/16 ~ 9pm ~ $18* ~ 21+ Tickets available via Star Theater and at the door via Venmo, Cash app, or cash money:) *no one turned away for lack of funds* This is a LGBTQIA+ event where these identities are centered and celebrated! Queer joy ftw! Consent is essential. Be friendly, be kind, leave the patriarchy behind! Bring a friend or just yourself, just don't forget the groove in your heart! Now let's Twirl girl! More info on IG @twirl.pdx",
+      "ticket_url": "https://www.ticketweb.com/event/twirl-star-theater-tickets/14376704",
+      "title": "TWIRL",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
       }
     },
     {
@@ -128058,7 +128025,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-11-03T20:00:00-08:00",
-      "summary": "Daley is an acclaimed British singer, songwriter and creative artist from Manchester, UK, whose unmistakable falsetto and soul-bearing songwriting first emerged through London's underground music scene and swiftly carried him onto the global stage, where he established himself as one of the most distinctive voices in contemporary soul. Touched by the sounds of Prince, Chaka Khan, Sade, Radiohead and George Michael, Daley's sound seamlessly blends classic soul sensibilities with contemporary, alternative R&B. With two critically acclaimed studio albums and several Top 10 Billboard R&B singles, Daley's artistry has been acknowledged by the Grammys, MOBO Awards, BET and Soul Train Awards. His collaborations with legends including Stevie Wonder, Jill Scott, Marsha Ambrosius, Gorillaz, Pharrell Williams and Jessie J have further cemented his place among some of the most respected artists in the world. Now entering a new era, Daley prepares to unveil the next chapter of his artistic journey with the release of his long-awaited third album project, supported by his USA Tour... Daley Meet & Greet Package One premium reserved ticket or general admission ticket (where applicable) Early entry into the venue Exclusive Meet & Greet with Daley Personal photo with Daley Access to an intimate pre-show Q&A with Daley Exclusive lavender candle by Tap Candles Official Meet & Greet laminate signed by Daley Priority merchandise shopping Limited availability",
+      "summary": "Daley with Tahirah MemorySoul'd Out Presents: Daley with Tahirah Memory Doors: 7:00pm Show: 8:00pm Ages 21+ Daley is an acclaimed British singer, songwriter and creative artist from Manchester, UK, whose unmistakable falsetto and soul-bearing songwriting first emerged through London's underground music scene and swiftly carried him onto the global stage, where he established himself as one of the most distinctive voices in contemporary soul. Touched by the sounds of Prince, Chaka Khan, Sade, Radiohead and George Michael, Daley's sound seamlessly blends classic soul sensibilities with contemporary, alternative R&B. With two critically acclaimed studio albums and several Top 10 Billboard R&B singles, Daley's artistry has been acknowledged by the Grammys, MOBO Awards, BET and Soul Train Awards. His collaborations with legends including Stevie Wonder, Jill Scott, Marsha Ambrosius, Gorillaz, Pharrell Williams and Jessie J have further cemented his place among some of the most respected artists in the world. Now entering a new era, Daley prepares to unveil the next chapter of his artistic journeywith the release of his long-awaited third album project, supported by his USA Tour... Daley Meet & Greet Package One premium reserved ticket or general admission ticket (where applicable) Early entry into the venue Exclusive Meet & Greet with Daley Personal photo with Daley Access to an intimate pre-show Q&A with Daley Exclusive lavender candle by Tap Candles Official Meet & Greet laminate signed by Daley Priority merchandise shopping Limited availability",
       "ticket_url": "https://www.ticketweb.com/event/daley-star-theater-tickets/14193114",
       "title": "DALEY",
       "venue": {
@@ -188290,5 +188257,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-13T01:17:06+00:00"
+  "generated_at": "2026-10-13T03:32:24+00:00"
 }
