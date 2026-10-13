@@ -809,6 +809,29 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:future-50-community-vision-tables-2026-10-24",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/future-50-community-vision-tables-2026-10-24",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-24T15:00:00-07:00",
+      "title": "Future 50 community vision tables",
+      "venue": {
+        "city": "Portland",
+        "name": "Oak Lodge Library, Oak Grove"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:fly-fishing-learn-basics-2026-10-25",
@@ -1073,25 +1096,6 @@
         "longitude": -122.66024,
         "name": "Metro Regional Center"
       }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:transportation-policy-alternatives-committee-meeting-2026-11-06",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/transportation-policy-alternatives-committee-meeting-2026-11-06",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-06T09:00:00-08:00",
-      "title": "Transportation Policy Alternatives Committee meeting"
     },
     {
       "categories": [
@@ -3035,7 +3039,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-13T03:39:41+00:00",
+  "generated_at": "2026-10-13T11:57:19+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
