@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T14:45:16+00:00",
+  "generated_at": "2026-10-13T16:05:41+00:00",
   "sources": [
     {
       "event_count": 31,
       "last_run_at": "2026-10-13T09:19:10+00:00",
       "source_id": "calagator",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/calagator.json"
     },
     {
@@ -86,10 +86,10 @@
       "url": "sources/vancouver_farmers_market.json"
     },
     {
-      "event_count": 4253,
-      "last_run_at": "2026-10-13T07:47:01+00:00",
+      "event_count": 4261,
+      "last_run_at": "2026-10-13T16:04:13+00:00",
       "source_id": "willamette_week",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/willamette_week.json"
     }
   ]

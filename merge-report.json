@@ -1049,6 +1049,14 @@
       "venue": "Ponderosa Lounge & Grill"
     },
     {
+      "dropped": "willamette_week:20169128@2026-10-16T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfuUj7",
+      "start_at": "2026-10-16T21:00:00-07:00",
+      "title_dropped": "TWIRL",
+      "title_kept": "TWIRL",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:18266446@2026-10-16T21:45",
       "kept": "dopdx:17434147",
       "start_at": "2026-10-16T21:15:00-07:00",
@@ -3172,7 +3180,7 @@
       "dropped": "willamette_week:19758601@2026-10-25T19:00",
       "kept": "dopdx:16762191",
       "start_at": "2026-10-25T19:00:00-07:00",
-      "title_dropped": "A SPLIT - SECOND",
+      "title_dropped": "A SPLIT - SECOND with Dancing Plague and Graveyard Gossip",
       "title_kept": "Church Of Hive",
       "venue": "Star Theater"
     },
@@ -5721,6 +5729,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19469867@2026-11-08T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPs0S",
+      "start_at": "2026-11-08T21:00:00-08:00",
+      "title_dropped": "CHURCH OF HIVE",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-11-08T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPs0S",
       "start_at": "2026-11-08T21:00:00-08:00",
@@ -6281,9 +6297,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6353,
-  "floor_check": "6353 events against a 6354-event baseline",
-  "generated_at": "2026-10-13T14:45:16+00:00",
+  "event_count": 6359,
+  "floor_check": "6359 events against a 6354-event baseline",
+  "generated_at": "2026-10-13T16:05:41+00:00",
   "problems": [],
   "sources": [
     "calagator",
