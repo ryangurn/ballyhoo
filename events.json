@@ -763,31 +763,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:metro-council-work-session-2026-10-13",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-10-13",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-13T10:00:00-07:00",
-      "title": "Metro Council work session",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-13T17:00:00-07:00",
@@ -1606,25 +1581,6 @@
         "longitude": -123.05865727043835,
         "name": "Cornelius Public Library"
       }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:oregon-zoo-bond-oversight-subcommittee-meeting-2026-10-13",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-subcommittee-meeting-2026-10-13",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-13T14:00:00-07:00",
-      "title": "Oregon Zoo Bond Oversight Subcommittee meeting"
     },
     {
       "categories": [
@@ -166095,9 +166051,7 @@
       "title": "Future Vision Commission meeting",
       "venue": {
         "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
+        "name": "Muslim Educational Trust"
       }
     },
     {
@@ -191646,5 +191600,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-13T23:17:47+00:00"
+  "generated_at": "2026-10-13T23:22:11+00:00"
 }
