@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:33:52+00:00",
+  "generated_at": "2026-10-13T19:14:58+00:00",
   "sources": [
     {
       "event_count": 31,
@@ -12,7 +12,7 @@
       "event_count": 1533,
       "last_run_at": "2026-10-13T12:06:28+00:00",
       "source_id": "dopdx",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/dopdx.json"
     },
     {
@@ -40,7 +40,7 @@
       "event_count": 59,
       "last_run_at": "2026-10-13T12:12:46+00:00",
       "source_id": "obt",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/obt.json"
     },
     {
@@ -54,7 +54,7 @@
       "event_count": 132,
       "last_run_at": "2026-10-13T11:57:19+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
@@ -68,12 +68,12 @@
       "event_count": 0,
       "last_run_at": "2026-10-13T12:11:05+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
-      "event_count": 907,
-      "last_run_at": "2026-10-13T11:43:37+00:00",
+      "event_count": 912,
+      "last_run_at": "2026-10-13T19:14:00+00:00",
       "source_id": "ticketmaster",
       "status": "ok",
       "url": "sources/ticketmaster.json"
