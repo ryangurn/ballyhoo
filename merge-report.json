@@ -1361,6 +1361,14 @@
       "venue": "Breathing Room Yoga + Wellness Studio"
     },
     {
+      "dropped": "willamette_week:19909094@2026-10-17T19:00",
+      "kept": "dopdx:17952346",
+      "start_at": "2026-10-17T19:00:00-07:00",
+      "title_dropped": "Keep It Portland",
+      "title_kept": "Keep It Portland",
+      "venue": "Kickstand Comedy"
+    },
+    {
       "dropped": "willamette_week:17706547@2026-10-17T19:30",
       "kept": "dopdx:17434148",
       "start_at": "2026-10-17T19:00:00-07:00",
@@ -1551,6 +1559,14 @@
       "title_dropped": "Joshua Burnside with Taylor Kingman",
       "title_kept": "Joshua Burnside with Taylor Kingman",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19892096@2026-10-17T20:30",
+      "kept": "dopdx:17952347",
+      "start_at": "2026-10-17T20:30:00-07:00",
+      "title_dropped": "Good Vibes: Saturday Night House Teams",
+      "title_kept": "Good Vibes: Saturday Night House Teams",
+      "venue": "Kickstand Comedy"
     },
     {
       "dropped": "willamette_week:20142773@2026-10-17T21:00",
@@ -6353,9 +6369,9 @@
       "venue": "Revolution Hall - Portland"
     }
   ],
-  "event_count": 6470,
-  "floor_check": "6470 events against a 6364-event baseline",
-  "generated_at": "2026-10-13T23:24:25+00:00",
+  "event_count": 6472,
+  "floor_check": "6472 events against a 6365-event baseline",
+  "generated_at": "2026-10-13T23:26:47+00:00",
   "problems": [],
   "sources": [
     "calagator",
