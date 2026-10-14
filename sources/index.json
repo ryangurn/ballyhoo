@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:04:15+00:00",
+  "generated_at": "2026-10-14T10:09:45+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -73,7 +73,7 @@
     },
     {
       "event_count": 907,
-      "last_run_at": "2026-10-14T04:48:14+00:00",
+      "last_run_at": "2026-10-14T10:08:59+00:00",
       "source_id": "ticketmaster",
       "status": "ok",
       "url": "sources/ticketmaster.json"
@@ -82,7 +82,7 @@
       "event_count": 49,
       "last_run_at": "2026-10-14T03:22:39+00:00",
       "source_id": "vancouver_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/vancouver_farmers_market.json"
     },
     {
