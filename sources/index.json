@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T05:09:06+00:00",
+  "generated_at": "2026-10-14T05:11:28+00:00",
   "sources": [
     {
       "event_count": 32,
@@ -24,9 +24,9 @@
     },
     {
       "event_count": 15,
-      "last_run_at": "2026-10-13T22:59:48+00:00",
+      "last_run_at": "2026-10-14T05:10:33+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
@@ -47,7 +47,7 @@
       "event_count": 17,
       "last_run_at": "2026-10-13T23:10:52+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
