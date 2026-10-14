@@ -2693,7 +2693,7 @@
       "kept": "ticketmaster:rZ7HnEZ1A4ZUbd",
       "start_at": "2026-10-24T19:00:00-07:00",
       "title_dropped": "Havok with Hellripper, Slackjaw, & Xoth",
-      "title_kept": "HAVOK with Hellripper, Slackjaw, & Xoth",
+      "title_kept": "HAVOK with Slackjaw, & Xoth",
       "venue": "Dante's"
     },
     {
@@ -4181,7 +4181,7 @@
       "kept": "ticketmaster:rZ7HnEZ1AfGaef",
       "start_at": "2026-10-30T20:00:00-07:00",
       "title_dropped": "Jackstraw and The Last Wild Buffalo and Mark Tegio",
-      "title_kept": "Jackstraw and The Last Wild Buffalo and Mark Tegio",
+      "title_kept": "Jackstraw with Mark Tegio",
       "venue": "Showdown Saloon"
     },
     {
@@ -4413,7 +4413,7 @@
       "kept": "ticketmaster:rZ7HnEZ1A4veAd",
       "start_at": "2026-10-31T19:30:00-07:00",
       "title_dropped": "Kurt Travis with Mella, Resilia, & Guest",
-      "title_kept": "KURT TRAVIS with Mella, Resilia, & Guest",
+      "title_kept": "KURT TRAVIS with Mella, Resilia, & Predisposed",
       "venue": "Dante's"
     },
     {
@@ -5601,6 +5601,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "dopdx:17837687",
+      "kept": "ticketmaster:Z7r9jZ1AA7obP",
+      "start_at": "2026-11-08T13:00:00-08:00",
+      "title_dropped": "Warren Miller's \"Days Off\"",
+      "title_kept": "Warren Miller's Days Off",
+      "venue": "Aladdin Theater"
+    },
+    {
       "dropped": "dopdx:17555760",
       "kept": "ticketmaster:Z7r9jZ1AAvzoK",
       "start_at": "2026-11-08T14:00:00-08:00",
@@ -5623,6 +5631,14 @@
       "title_dropped": "SAW: The Musical",
       "title_kept": "SAW: The Musical (Touring)",
       "venue": "Alberta Abbey"
+    },
+    {
+      "dropped": "dopdx:17837688",
+      "kept": "ticketmaster:Z7r9jZ1AAvYG3",
+      "start_at": "2026-11-08T16:00:00-08:00",
+      "title_dropped": "Warren Miller's \"Days Off\"",
+      "title_kept": "Warren Miller's Days Off",
+      "venue": "Aladdin Theater"
     },
     {
       "dropped": "willamette_week:19082956@2026-11-08T18:00",
@@ -5663,6 +5679,14 @@
       "title_dropped": "Dax",
       "title_kept": "DAX – The Anger Management Tour with special guest Nevv",
       "venue": "Wonder Ballroom"
+    },
+    {
+      "dropped": "dopdx:17837689",
+      "kept": "ticketmaster:Z7r9jZ1AAvYGo",
+      "start_at": "2026-11-08T19:00:00-08:00",
+      "title_dropped": "Warren Miller's \"Days Off\"",
+      "title_kept": "Warren Miller's Days Off",
+      "venue": "Aladdin Theater"
     },
     {
       "dropped": "dopdx:17918383",
@@ -6481,9 +6505,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6570,
-  "floor_check": "6570 events against a 6478-event baseline",
-  "generated_at": "2026-10-14T18:57:57+00:00",
+  "event_count": 6587,
+  "floor_check": "6587 events against a 6478-event baseline",
+  "generated_at": "2026-10-14T19:21:11+00:00",
   "problems": [],
   "sources": [
     "calagator",
