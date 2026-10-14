@@ -3433,6 +3433,14 @@
       "venue": "Aladdin Theater"
     },
     {
+      "dropped": "willamette_week:20178093@2026-10-27T20:00",
+      "kept": "dopdx:17143711",
+      "start_at": "2026-10-27T20:00:00-07:00",
+      "title_dropped": "Aaron Rowe",
+      "title_kept": "Dermot Kennedy",
+      "venue": "Theater of the Clouds"
+    },
+    {
       "dropped": "willamette_week:18557028@2026-10-27T20:00",
       "kept": "dopdx:17143711",
       "start_at": "2026-10-27T20:00:00-07:00",
@@ -3447,6 +3455,14 @@
       "title_dropped": "ButtTootKing: Lydia B Kollins, Suzie Toot, and Kori King",
       "title_kept": "ButtTootKing: Lydia B Kollins, Suzie Toot, and Kori King - Ages 18+",
       "venue": "McMenamins Crystal Ballroom"
+    },
+    {
+      "dropped": "willamette_week:20178095@2026-10-27T20:00",
+      "kept": "dopdx:17523810",
+      "start_at": "2026-10-27T20:00:00-07:00",
+      "title_dropped": "Touch Girl Apple Blossom",
+      "title_kept": "The Tubs",
+      "venue": "Mississippi Studios"
     },
     {
       "dropped": "willamette_week:19879735@2026-10-27T20:00",
@@ -3687,6 +3703,14 @@
       "title_dropped": "Crystal Ballroom History & Art Tour",
       "title_kept": "Crystal Ballroom Tours",
       "venue": "McMenamins Crystal Ballroom"
+    },
+    {
+      "dropped": "willamette_week:20177204@2026-10-29T18:00",
+      "kept": "dopdx:17813115",
+      "start_at": "2026-10-29T18:00:00-07:00",
+      "title_dropped": "Kinky Creatures",
+      "title_kept": "Kinky Creatures Market",
+      "venue": "Hawthorne Theatre"
     },
     {
       "dropped": "willamette_week:19872834@2026-10-29T18:30",
@@ -4223,6 +4247,14 @@
       "title_dropped": "Marlon Wayans",
       "title_kept": "Caitlin Peluffo",
       "venue": "Helium Comedy Club - Portland"
+    },
+    {
+      "dropped": "willamette_week:20178096@2026-10-30T21:30",
+      "kept": "dopdx:17894459",
+      "start_at": "2026-10-30T21:30:00-07:00",
+      "title_dropped": "HaHa & Monte",
+      "title_kept": "Tragic Circus Presented by Monte and Marin & Rare Company. Featuring Hana the Clown",
+      "venue": "Alberta Street Pub"
     },
     {
       "dropped": "willamette_week:19907064@2026-10-30T21:30",
@@ -6449,9 +6481,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6478,
-  "floor_check": "6478 events against a 6466-event baseline",
-  "generated_at": "2026-10-14T17:05:33+00:00",
+  "event_count": 6539,
+  "floor_check": "6539 events against a 6467-event baseline",
+  "generated_at": "2026-10-14T17:17:54+00:00",
   "problems": [],
   "sources": [
     "calagator",
