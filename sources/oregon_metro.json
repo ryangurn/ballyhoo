@@ -1109,29 +1109,6 @@
       "categories": [
         "outdoors"
       ],
-      "id": "oregon_metro:natural-pigments-corn-and-mexican-marigold-2026-11-08",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/natural-pigments-corn-and-mexican-marigold-2026-11-08",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-08T10:00:00-08:00",
-      "title": "Natural pigments: Corn and Mexican marigold",
-      "venue": {
-        "city": "Portland",
-        "name": "Chehalem Ridge Nature Park"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
       "id": "oregon_metro:fly-fishing-beyond-basics-2026-11-08",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/fly-fishing-beyond-basics-2026-11-08",
@@ -1151,6 +1128,29 @@
         "latitude": 45.55596,
         "longitude": -122.45242,
         "name": "Blue Lake Regional Park"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:natural-pigments-corn-and-mexican-marigold-2026-11-08",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/natural-pigments-corn-and-mexican-marigold-2026-11-08",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-08T10:00:00-08:00",
+      "title": "Natural pigments: Corn and Mexican marigold",
+      "venue": {
+        "city": "Portland",
+        "name": "Chehalem Ridge Nature Park"
       }
     },
     {
@@ -2924,7 +2924,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-15T17:11:55+00:00",
+  "generated_at": "2026-10-15T20:25:02+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
