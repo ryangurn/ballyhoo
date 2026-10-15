@@ -92795,6 +92795,25 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:oregon-zoo-bond-oversight-subcommittee-meeting-2026-10-28",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-subcommittee-meeting-2026-10-28",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-28T14:00:00-07:00",
+      "title": "Oregon Zoo Bond Oversight Subcommittee meeting"
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-10-28T16:00:00-07:00",
@@ -145270,6 +145289,29 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:future-50-community-vision-tables-2026-11-07",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/future-50-community-vision-tables-2026-11-07",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-07T14:00:00-08:00",
+      "title": "Future 50 community vision tables",
+      "venue": {
+        "city": "Portland",
+        "name": "East County Library"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-11-07T15:30:00-08:00",
@@ -174486,6 +174528,31 @@
       "categories": [
         "civic"
       ],
+      "id": "oregon_metro:supportive-housing-services-regional-policy-and-oversight-committee-meeting-2026-11-18",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/supportive-housing-services-regional-policy-and-oversight-committee-meeting-2026-11-18",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-18T15:00:00-08:00",
+      "title": "Supportive Housing Services Regional Policy and Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
       "id": "oregon_metro:metro-policy-advisory-committee-meeting-2026-11-18",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-policy-advisory-committee-meeting-2026-11-18",
@@ -180910,6 +180977,31 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "Portland Center Stage"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:future-vision-commission-meeting-2026-12-10",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/future-vision-commission-meeting-2026-12-10",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-12-10T16:00:00-08:00",
+      "title": "Future Vision Commission meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
       }
     },
     {
@@ -196215,31 +196307,6 @@
       "categories": [
         "civic"
       ],
-      "id": "oregon_metro:metro-regional-planning-workshop-2027-12-08",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metro-regional-planning-workshop-2027-12-08",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2027-12-08T09:00:00-08:00",
-      "title": "Metro Regional Planning workshop",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "id": "oregon_metro:supportive-housing-services-regional-policy-and-oversight-committee-meeting-2027-12-08",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/supportive-housing-services-regional-policy-and-oversight-committee-meeting-2027-12-08",
@@ -196260,7 +196327,32 @@
         "longitude": -122.66024,
         "name": "Metro Regional Center"
       }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:metro-regional-planning-workshop-2027-12-15",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/metro-regional-planning-workshop-2027-12-15",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-12-15T09:00:00-08:00",
+      "title": "Metro Regional Planning workshop",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
     }
   ],
-  "generated_at": "2026-10-14T23:58:36+00:00"
+  "generated_at": "2026-10-15T00:42:04+00:00"
 }
