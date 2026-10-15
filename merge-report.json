@@ -1649,22 +1649,6 @@
       "venue": "Mississippi Studios"
     },
     {
-      "dropped": "dopdx:17461710",
-      "kept": "ticketmaster:Z7r9jZ1A7P8b-",
-      "start_at": "2026-10-18T20:00:00-07:00",
-      "title_dropped": "Sawyer Hill - Everybody’s Home, Nobody’s Happy World Tour",
-      "title_kept": "Sawyer Hill",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "willamette_week:19171054@2026-10-18T20:00",
-      "kept": "dopdx:17461710",
-      "start_at": "2026-10-18T20:00:00-07:00",
-      "title_dropped": "Sawyer Hill",
-      "title_kept": "Sawyer Hill - Everybody’s Home, Nobody’s Happy World Tour",
-      "venue": "Hawthorne Theatre"
-    },
-    {
       "dropped": "willamette_week:19907008@2026-10-18T20:00",
       "kept": "dopdx:17451714",
       "start_at": "2026-10-18T20:00:00-07:00",
@@ -1719,6 +1703,14 @@
       "title_dropped": "Casual Eddie with Special Guest Dominic Robison",
       "title_kept": "Casual Eddie",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19171054@2026-10-18T20:00",
+      "kept": "ticketmaster:Z7r9jZ1A7P8b-",
+      "start_at": "2026-10-18T20:00:00-07:00",
+      "title_dropped": "Sawyer Hill",
+      "title_kept": "Sawyer Hill",
+      "venue": "Hawthorne Theatre"
     },
     {
       "dropped": "dopdx:17795967",
@@ -4401,6 +4393,14 @@
       "venue": "Ponderosa Lounge & Grill"
     },
     {
+      "dropped": "willamette_week:20194754@2026-10-31T21:00",
+      "kept": "dopdx:17959095",
+      "start_at": "2026-10-31T21:00:00-07:00",
+      "title_dropped": "Viva Goth Vegas: Rhinestone’s 1-Year Anniversary Halloween Party",
+      "title_kept": "Viva Goth Vegas: Rhinestone’s 1-Year Anniversary Halloween Party",
+      "venue": "Rhinestone"
+    },
+    {
       "dropped": "willamette_week:19907064@2026-10-31T21:30",
       "kept": "dopdx:17894461",
       "start_at": "2026-10-31T21:00:00-07:00",
@@ -5937,6 +5937,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:20194693@2026-11-12T19:00",
+      "kept": "dopdx:17959074",
+      "start_at": "2026-11-12T19:00:00-08:00",
+      "title_dropped": "Gay Drama",
+      "title_kept": "Gay Drama",
+      "venue": "Peacock PDX"
+    },
+    {
       "dropped": "dopdx:17262341",
       "kept": "ticketmaster:Z7r9jZ1A7JAqk",
       "start_at": "2026-11-12T19:30:00-08:00",
@@ -6587,7 +6595,7 @@
   ],
   "event_count": 6688,
   "floor_check": "6688 events against a 6659-event baseline",
-  "generated_at": "2026-10-15T20:30:31+00:00",
+  "generated_at": "2026-10-15T20:33:12+00:00",
   "problems": [],
   "sources": [
     "calagator",
