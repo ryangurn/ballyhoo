@@ -6033,6 +6033,14 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "dopdx:17881686",
+      "kept": "ticketmaster:Z7r9jZ1AAekPs",
+      "start_at": "2026-11-12T20:00:00-08:00",
+      "title_dropped": "2slimey",
+      "title_kept": "2slimey",
+      "venue": "Hawthorne Theatre"
+    },
+    {
       "dropped": "dopdx:17957263",
       "kept": "ticketmaster:rZ7HnEZ1AfusOf",
       "start_at": "2026-11-12T20:00:00-08:00",
@@ -6577,9 +6585,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6660,
-  "floor_check": "6660 events against a 6659-event baseline",
-  "generated_at": "2026-10-15T18:14:06+00:00",
+  "event_count": 6667,
+  "floor_check": "6667 events against a 6659-event baseline",
+  "generated_at": "2026-10-15T18:16:15+00:00",
   "problems": [],
   "sources": [
     "calagator",
