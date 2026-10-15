@@ -1,14 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:19348739@2026-10-14T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfuNjf",
-      "start_at": "2026-10-14T19:00:00-07:00",
-      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "title_kept": "Country Waltz Lessons with Peggy and Derek",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "willamette_week:20142733@2026-10-15T19:00",
       "kept": "dopdx:17503342",
       "start_at": "2026-10-15T19:00:00-07:00",
@@ -6465,6 +6457,14 @@
       "venue": "Oregon Convention Center"
     },
     {
+      "dropped": "willamette_week:19348739@2026-10-14T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfuNjf",
+      "start_at": "2026-10-14T19:00:00-07:00",
+      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "title_kept": "Country Waltz Lessons with Peggy and Derek",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:19449664@2026-10-14T20:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPxGN",
       "start_at": "2026-10-14T20:00:00-07:00",
@@ -6529,9 +6529,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6625,
-  "floor_check": "6625 events against a 6607-event baseline",
-  "generated_at": "2026-10-15T00:56:50+00:00",
+  "event_count": 6623,
+  "floor_check": "6623 events against a 6607-event baseline",
+  "generated_at": "2026-10-15T01:25:14+00:00",
   "problems": [],
   "sources": [
     "calagator",
