@@ -14635,6 +14635,37 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:19430792@2026-10-16T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XwXK4A1fY0GI47owtfPJ6Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.tixr.com/e/198494",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.01,
+        "min": 25.01
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-16T20:00:00-07:00",
+      "summary": "City of the Sun’s new album, Under the Moon marks a return and feels like stepping out of the shadows and into new sunlight. Produced with the legendary Phil Ek (Fleet Foxes, Father John Misty, Built to Spill), the record bends through moods and geogra-phies: the rolling surf of “Angeles,” the spaghetti-western hush of “Bajo la Luna,” the desert rock pulse of \"Ciudad del Sol,” the Mediterranean sway of “Hotel Alma.” Formed by guitarist John Pita, joined by drummer Zach Para, the band later introduced bassists Matt Fasano and guitarist Marco Bolfelli. City of the Sun creates music that feels at once intimate and cinematic–like a film you can step inside. Since their debut in 2016 with To The Sun and All the Cities in Between, to their 2020 self-titled, and 2022’s Segunda Alma, the band has built a cult-following around the globe.",
+      "ticket_url": "https://www.tixr.com/e/198494",
+      "title": "RESCHEDULED (Date TBD) - City of the Sun",
+      "venue": {
+        "address": "680 SE 6th Ave, Portland, OR 97214",
+        "city": "Portland",
+        "latitude": 45.518101,
+        "longitude": -122.659527,
+        "name": "The Get Down"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:20182364@2026-10-16T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/R9ocAmeg8kGaELNQTUPrfA.large.png",
       "is_all_day": false,
@@ -14802,37 +14833,6 @@
         "latitude": 45.395589,
         "longitude": -122.742871,
         "name": "The Headliners Club"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:19430792@2026-10-16T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XwXK4A1fY0GI47owtfPJ6Q.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.tixr.com/e/198494",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 25.01,
-        "min": 25.01
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-16T20:00:00-07:00",
-      "summary": "City of the Sun’s new album, Under the Moon marks a return and feels like stepping out of the shadows and into new sunlight. Produced with the legendary Phil Ek (Fleet Foxes, Father John Misty, Built to Spill), the record bends through moods and geogra-phies: the rolling surf of “Angeles,” the spaghetti-western hush of “Bajo la Luna,” the desert rock pulse of \"Ciudad del Sol,” the Mediterranean sway of “Hotel Alma.” Formed by guitarist John Pita, joined by drummer Zach Para, the band later introduced bassists Matt Fasano and guitarist Marco Bolfelli. City of the Sun creates music that feels at once intimate and cinematic–like a film you can step inside. Since their debut in 2016 with To The Sun and All the Cities in Between, to their 2020 self-titled, and 2022’s Segunda Alma, the band has built a cult-following around the globe.",
-      "ticket_url": "https://www.tixr.com/e/198494",
-      "title": "City of the Sun",
-      "venue": {
-        "address": "680 SE 6th Ave, Portland, OR 97214",
-        "city": "Portland",
-        "latitude": 45.519235,
-        "longitude": -122.677975,
-        "name": "The Get Down"
       }
     },
     {
@@ -28831,6 +28831,37 @@
     },
     {
       "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-10-18T12:00:00-07:00",
+      "id": "willamette_week:20194966@2026-10-18T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tchM72v-706z8B_hAh4ujA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandinsight.org/weeklygroups",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-18T10:00:00-07:00",
+      "summary": "Finding peace in the tumult of life is a process that can be supported tremendously by a community-centered meditation practice. Portland Insight Meditation Center invites us to ground ourselves in the company of like-minded locals, practice silent meditation, engage in a dharma talk or reflection, and share your experience with the community. Both newbies and varsity players are welcome, and each meditation is led by PIMC’s residents or expert guests, or organized in peer-led formats.",
+      "title": "Sunday Morning Meditation and Mindfulness Practice",
+      "venue": {
+        "address": "6536 SE Duke St.",
+        "city": "Portland",
+        "latitude": 45.475621,
+        "longitude": -122.595409,
+        "name": "Portland Insight Meditation Center"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-10-18T17:00:00-07:00",
@@ -41323,6 +41354,10 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1783639563/event-17583030.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/10/20/the-moth-storyslam-frenemies-21-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "organizer": "The Moth Presents:",
       "price": {
         "currency": "USD",
@@ -41335,6 +41370,7 @@
       },
       "start_at": "2026-10-20T19:00:00-07:00",
       "summary": "The Moth StorySLAM is an open-mic storytelling competition in which anyone can share a true, personal, 5-minute story on the nights theme. Sign up for a chance to tell a story or sit back and enjoy the show! Tonights theme is FRENEMIES: Prepare a five-minute story about the razor-thin line between friend and foe. The relationships that drive you up the wall or the connections you cant quite quit. Besties turned competitors. Teammates who steal the spotlight. Siblings who keep the score. One-upping neighbors and too-cool colleagues. Love to hate, or hate to loveits complicated! Doors Open: 7:00 PM Show Starts: 8:00 PM Tickets for Portlands StorySLAMs go on sale 3 weeks prior to the show date at 3 PM ET. Seating is not guaranteed and is availa",
+      "ticket_url": "https://www.themoth.org/tickets/frenemies-3",
       "title": "The Moth StorySLAM: FRENEMIES – 21+",
       "venue": {
         "address": "1001 SE Morrison",
@@ -99965,6 +100001,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-30T20:00:00-07:00",
+      "id": "willamette_week:20195815@2026-10-30T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HMRSLXvQL0y-nE7UoxLV0w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2118287722155626",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-30T17:00:00-07:00",
+      "summary": "The Peculiar Pretzelmen and The Black Mariah Theater wrap up their fall tour in Portland, joined by Strange & the Familiars (FULL BAND) at Alberta Street Pub for a very special ALL AGES Happy Hour show from 5pm-8pm. Costumes are aggressively encouraged. A music show before you gear up (or settle in) for your Friday Halloween party (or pajama) plans.",
+      "title": "Strange & the Familiars, The Black Mariah Theater, The Peculiar Pretzelmen",
+      "venue": {
+        "address": "1036 NE Alberta St",
+        "city": "Portland",
+        "latitude": 45.558921814,
+        "longitude": -122.6548309326,
+        "name": "Alberta Street Pub - Venue"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-10-30T19:00:00-07:00",
@@ -101875,6 +101942,38 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Helium Comedy Club - Portland"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-30T21:00:00-07:00",
+      "id": "willamette_week:20195539@2026-10-30T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aq6kk2N1J0GNRQ_LivZC6Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.sparkplugtheatrecollective.org/spark-chaos-redux",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-30T19:30:00-07:00",
+      "summary": "SPARK CHAOS: The Redux: *Don’t Fear The Reaper* (Now with Less HVAC) \\*Working Title Join us for a night of — well, we’ll all just have to wait and see! Twelve actors will take their stage knowing the script, their role - and nothing else. FEATURING: Jeff Gardner, AJ Graham, Steve Holgate, Ian Leiner, Amelia Michaels, Angela Michtom, Kira Smolev, Gnayanesh Trivedi, Adam Williams, Anna Wong, Alex Woodard with live music & sound effects by Jason Paris All will be revealed as the production takes shape for the first time in front of a live audience, but they can’t get too comfortable….. Master of Chaos Les Ico can stop the action at any moment and have them improv backstories, inner thoughts, unseen moments, and more! NO rehearsals, NO director, and NO idea what’s going to happen...until it happens. Don’t miss this once-in-a-lifetime event on October 30! Your $25 donation gets you into the show and helps us raise money to pay our future rent. Reserve your spot here and let us know with your reservation if you’re going to join us at the afterparty in downtown Beaverton! *Don't Fear The Reaper* by Eddie Zipperer Follow a day in the life of the Grim Reaper—the day he gets fired. Steve's soul seems like a routine reaping at first, but ultimately presents a problem unseen for 40,000 years. In his mediocrity, Steve has reached a perfect balance on the scale of good and evil and must choose his own fate on The Fating Game, where God and Satan vie for his soul. Cornered by God, Satan, another reaper vying for his job, and his wife, the Reaper is forced to decide whether he should go quietly or take the world down with him. ONE NIGHT. TWELVE ACTORS. ONE AGENT OF CHAOS. PLENTY OF LAUGHS. ANYTHING CAN HAPPEN!",
+      "ticket_url": "https://www.sparkplugtheatrecollective.org/spark-chaos-redux",
+      "title": "Spark Chaos: The Redux",
+      "venue": {
+        "address": "4690 SW Watson Ave",
+        "city": "Beaverton",
+        "latitude": 45.485871,
+        "longitude": -122.806072,
+        "name": "Beaverton Masonic Lodge"
       }
     },
     {
@@ -134164,6 +134263,37 @@
       "title": "PDX Jazz Presents Live Jazz at The Hoxton: Chris Shuttleworth",
       "venue": {
         "name": "The Hoxton"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-06T19:00:00-08:00",
+      "id": "willamette_week:20194373@2026-11-06T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/X5xMxe8chU-FCb3yH5Lj3w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.sidestreetarts.com/next-month",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T17:00:00-08:00",
+      "summary": "Show title: “Come and Git it! The Annual Group Gift Show” Featured artists: All Members and represented artists Show runs: November 5 - Jan 2nd First Friday: November 6th, 5- 7 p.m., AND December 4th, 5-7 p.m., with artists at the opening. About the show: It’s that time of year for holiday festivities and glorious gift shopping! We have invited all our represented artists to join the members in filling up our walls with fabulous local wares, specifically featuring a lovingly curated collection of affordable, small things. We invite YOU to check out the new goods either in our brick-and-mortar gallery or online! We are extending our usual monthly timeframe to a two-month show this year, and everything is available while supplies last for immediate purchase and take-away. For more information, please visit: https://www.sidestreetarts.com/next-month or reach out to us: 503-327-8064 sidestreetartsPDX@gmail.com Hours: Thu-Sun, 12-5 pm www.sidestreetarts.com 140 SE 28th Ave Portland, OR 97214 https://www.instagram.com/sidestreetartspdx/?hl=en https://www.facebook.com/SidestreetArtsPDX/ https://www.sidestreetarts.com/next-month",
+      "title": "Come and Git it! The Annual Group Gift Show",
+      "venue": {
+        "address": "140 SE 28th Ave",
+        "city": "Portland",
+        "latitude": 45.521585,
+        "longitude": -122.637018,
+        "name": "Sidestreet Arts"
       }
     },
     {
@@ -198335,5 +198465,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-15T22:10:56+00:00"
+  "generated_at": "2026-10-15T22:25:37+00:00"
 }

@@ -1833,6 +1833,14 @@
       "venue": "Roseland Theater"
     },
     {
+      "dropped": "willamette_week:20195016@2026-10-20T19:00",
+      "kept": "dopdx:17583030",
+      "start_at": "2026-10-20T19:00:00-07:00",
+      "title_dropped": "The Moth StorySLAM: Frenemies",
+      "title_kept": "The Moth StorySLAM: FRENEMIES – 21+",
+      "venue": "Holocene"
+    },
+    {
       "dropped": "willamette_week:19736093@2026-10-20T19:30",
       "kept": "dopdx:17622546",
       "start_at": "2026-10-20T19:30:00-07:00",
@@ -6593,9 +6601,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6689,
-  "floor_check": "6689 events against a 6662-event baseline",
-  "generated_at": "2026-10-15T22:10:56+00:00",
+  "event_count": 6693,
+  "floor_check": "6693 events against a 6664-event baseline",
+  "generated_at": "2026-10-15T22:25:37+00:00",
   "problems": [],
   "sources": [
     "calagator",
