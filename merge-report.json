@@ -2369,6 +2369,14 @@
       "venue": "Alberta Abbey"
     },
     {
+      "dropped": "willamette_week:19979685@2026-10-24T17:30",
+      "kept": "dopdx:17959727",
+      "start_at": "2026-10-24T17:30:00-07:00",
+      "title_dropped": "Community Tarot Circle: Tending Your Inner Witch",
+      "title_kept": "Community Tarot Circle: Tending Your Inner Witch",
+      "venue": "Seagrape Apothecary"
+    },
+    {
       "dropped": "dopdx:17752114",
       "kept": "ticketmaster:rZ7HnEZ1A4ZUbd",
       "start_at": "2026-10-24T19:00:00-07:00",
@@ -2815,6 +2823,14 @@
       "title_dropped": "Special Event: Steve Furey",
       "title_kept": "Steve Furey",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19674752@2026-10-25T19:00",
+      "kept": "dopdx:17959716",
+      "start_at": "2026-10-25T19:00:00-07:00",
+      "title_dropped": "Colin Stough",
+      "title_kept": "Colin Stough",
+      "venue": "Ponderosa Lounge & Grill"
     },
     {
       "dropped": "willamette_week:18811215@2026-10-25T19:00",
@@ -4751,6 +4767,14 @@
       "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
       "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
       "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:18366991@2026-11-05T19:00",
+      "kept": "dopdx:17959732",
+      "start_at": "2026-11-05T19:00:00-08:00",
+      "title_dropped": "Chart House - Caymus Wine Dinner",
+      "title_kept": "Chart House - Caymus Wine Dinner - Portland",
+      "venue": "Chart House"
     },
     {
       "dropped": "dopdx:17754898",
@@ -6697,9 +6721,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6708,
-  "floor_check": "6708 events against a 6658-event baseline",
-  "generated_at": "2026-10-16T17:34:25+00:00",
+  "event_count": 6728,
+  "floor_check": "6728 events against a 6667-event baseline",
+  "generated_at": "2026-10-16T17:43:44+00:00",
   "problems": [],
   "sources": [
     "calagator",
