@@ -1343,34 +1343,6 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:Z7r9jZ1A70Ye7",
-      "image_url": "https://s1.ticketm.net/dam/a/7b6/0528adae-2345-47f9-832a-178405b2d7b6_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Ye7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-18T19:30:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Ye7",
-      "title": "SiM",
-      "venue": {
-        "address": "128 NE Russell St",
-        "city": "Portland",
-        "latitude": 45.543999,
-        "longitude": -122.643501,
-        "name": "Wonder Ballroom"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "id": "ticketmaster:rZ7HnEZ1A4Zt-S",
       "image_url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -5407,34 +5379,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A70tJ4",
-      "image_url": "https://s1.ticketm.net/dam/a/0fd/ddaac074-6725-42a9-93ea-c7bcea7400fd_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70tJ4",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-31T19:30:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70tJ4",
-      "title": "Caitlin Peluffo",
-      "venue": {
-        "address": "1510 SE 9th Ave",
-        "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "Helium Comedy Club - Portland"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "id": "ticketmaster:rZ7HnEZ1AfGA_f",
@@ -5608,34 +5552,6 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Hawthorne Theatre"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A70tJ9",
-      "image_url": "https://s1.ticketm.net/dam/a/0fd/ddaac074-6725-42a9-93ea-c7bcea7400fd_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70tJ9",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-31T22:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70tJ9",
-      "title": "Caitlin Peluffo",
-      "venue": {
-        "address": "1510 SE 9th Ave",
-        "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "Helium Comedy Club - Portland"
       }
     },
     {
@@ -6994,8 +6910,8 @@
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 51.78,
-        "min": 25.0
+        "max": 25.0,
+        "min": 23.56
       },
       "source": {
         "id": "ticketmaster",
@@ -10675,6 +10591,36 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "id": "ticketmaster:vvG1HZ_fB9yAQs",
+      "image_url": "https://s1.ticketm.net/dam/e/110/e4053a07-41b5-492b-a4cd-cb00cffe6110_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/northwest-elite-sports-west-coast-classic-portland-oregon-11-19-2026/event/0F00654E97E456B1",
+      "organizer": "PROMOTED BY VENUE",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-19T18:00:00-08:00",
+      "summary": "This event is Mobile Only. Bag Policy: Guests are permitted bags up to 14\" x 14\" x 6\" and will hold their bags throughout the security screening process unless they are sent to secondary screening for further inspection. Bag check will be available; however, we encourage guests to bring smaller bags for a faster and smoother experience. Please note checking prohibited items will be denied.",
+      "ticket_url": "https://www.ticketmaster.com/northwest-elite-sports-west-coast-classic-portland-oregon-11-19-2026/event/0F00654E97E456B1",
+      "title": "Northwest Elite Sports West Coast Classic",
+      "venue": {
+        "address": "One Center Court, Suite 100",
+        "city": "Portland",
+        "latitude": 45.53118896,
+        "longitude": -122.66645813,
+        "name": "Moda Center"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:rZ7HnEZ1Af0vFd",
@@ -13854,6 +13800,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7d_V",
+      "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7d_V",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-05T19:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7d_V",
+      "title": "Frankie and the Witch Fingers",
+      "venue": {
+        "address": "8 NW 6th Avenue",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:Z7r9jZ1AAZYv-",
@@ -15577,6 +15551,34 @@
         "latitude": 45.533299,
         "longitude": -122.667442,
         "name": "Veterans Memorial Coliseum"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7fJ6",
+      "image_url": "https://s1.ticketm.net/dam/c/093/c74cfd95-af21-4e64-9f85-47677b951093_105651_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fJ6",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-12T19:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fJ6",
+      "title": "Rumble At The Roseland",
+      "venue": {
+        "address": "8 NW 6th Avenue",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Roseland Theater"
       }
     },
     {
@@ -17543,6 +17545,34 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:Z7r9jZ1AA7fJF",
+      "image_url": "https://s1.ticketm.net/dam/a/8f7/55ee315e-aec5-4a7e-8e92-df03349b88f7_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fJF",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-30T19:50:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fJF",
+      "title": "High On Fire",
+      "venue": {
+        "address": "8 NW 6th Avenue",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1AAe98b",
       "image_url": "https://s1.ticketm.net/dam/a/9f3/4d12c2b9-a7ad-4b34-a12d-67e170aa09f3_1857981_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -17679,6 +17709,34 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7fJa",
+      "image_url": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fJa",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-31T21:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fJa",
+      "title": "The Bridge City Sinners w/ Riley Downing",
+      "venue": {
+        "address": "8 NW 6th Avenue",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Roseland Theater"
       }
     },
     {
@@ -19151,6 +19209,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7fJ4",
+      "image_url": "https://s1.ticketm.net/dam/a/067/43d71121-af67-4463-a2a3-6e179dcb1067_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fJ4",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-01-26T20:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fJ4",
+      "title": "Tesseract w/ Entheos",
+      "venue": {
+        "address": "8 NW 6th Avenue",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_83quzXd",
@@ -20128,6 +20214,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7fJp",
+      "image_url": "https://s1.ticketm.net/dam/a/6eb/5ab6ee4d-7c61-42ba-903d-2ccce61156eb_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fJp",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-02-04T19:30:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fJp",
+      "title": "Smith & Myers w/ Brian Dunne",
+      "venue": {
+        "address": "8 NW 6th Avenue",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_2mbE96f",
@@ -20498,6 +20612,34 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA73vg",
+      "image_url": "https://s1.ticketm.net/dam/a/032/2f7d6a93-83c6-463c-a0d4-f9f4cf536032_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA73vg",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-02-10T20:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA73vg",
+      "title": "Richard Thompson",
+      "venue": {
+        "address": "1300 SE Stark Street #110",
+        "city": "Portland",
+        "latitude": 45.513901,
+        "longitude": -122.642799,
+        "name": "Revolution Hall - Portland"
       }
     },
     {
@@ -23408,6 +23550,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7fJb",
+      "image_url": "https://s1.ticketm.net/dam/a/adc/81db10b0-f987-44e2-8e4e-e8f1ce30fadc_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fJb",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-03-18T19:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7fJb",
+      "title": "Northlane w/ Aviana",
+      "venue": {
+        "address": "8 NW 6th Avenue",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:Z7r9jZ1AA7A1o",
@@ -24871,6 +25041,36 @@
         "latitude": 45.5044355,
         "longitude": -122.6855578,
         "name": "Newmark Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:vvG1HZ_fUJy6d7",
+      "image_url": "https://s1.ticketm.net/dam/a/ce4/e8412d45-2480-4ebe-b181-2c7c34fe5ce4_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/iron-maiden-run-for-your-lives-portland-oregon-04-18-2027/event/0F00654DA6E470C4",
+      "organizer": "LIVE NATION MUSIC",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-04-18T18:30:00-07:00",
+      "summary": "All Ages Welcome!",
+      "ticket_url": "https://www.ticketmaster.com/iron-maiden-run-for-your-lives-portland-oregon-04-18-2027/event/0F00654DA6E470C4",
+      "title": "Iron Maiden: Run For Your Lives North American Tour 2027",
+      "venue": {
+        "address": "One Center Court, Suite 100",
+        "city": "Portland",
+        "latitude": 45.53118896,
+        "longitude": -122.66645813,
+        "name": "Moda Center"
       }
     },
     {
@@ -26800,7 +27000,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-16T11:17:14+00:00",
+  "generated_at": "2026-10-16T16:34:48+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
