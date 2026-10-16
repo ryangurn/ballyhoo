@@ -21412,6 +21412,36 @@
     },
     {
       "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-18T14:00:00-07:00",
+      "id": "neighborhood_markets:milwaukie@2026-10-18",
+      "is_all_day": false,
+      "listing_url": "https://milwaukiefarmersmarket.com/",
+      "organizer": "Milwaukie Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-18T09:30:00-07:00",
+      "title": "Milwaukie Farmers Market",
+      "venue": {
+        "address": "SE Main St & SE Harrison St, Milwaukie, OR 97222",
+        "city": "Milwaukie",
+        "latitude": 45.44552,
+        "longitude": -122.64166,
+        "name": "Milwaukie Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:mushroom-hike-2026-10-18",
@@ -65323,6 +65353,36 @@
       "title": "Hot Girl Walk® | Portland",
       "venue": {
         "name": "6820 SW 45th Ave"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
+      "end_at": "2026-10-25T14:00:00-07:00",
+      "id": "neighborhood_markets:milwaukie@2026-10-25",
+      "is_all_day": false,
+      "listing_url": "https://milwaukiefarmersmarket.com/",
+      "organizer": "Milwaukie Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "neighborhood_markets",
+        "name": "Neighborhood Farmers Markets"
+      },
+      "start_at": "2026-10-25T09:30:00-07:00",
+      "title": "Milwaukie Farmers Market",
+      "venue": {
+        "address": "SE Main St & SE Harrison St, Milwaukie, OR 97222",
+        "city": "Milwaukie",
+        "latitude": 45.44552,
+        "longitude": -122.64166,
+        "name": "Milwaukie Farmers Market"
       }
     },
     {
@@ -195869,5 +195929,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-16T04:25:02+00:00"
+  "generated_at": "2026-10-16T04:47:54+00:00"
 }
