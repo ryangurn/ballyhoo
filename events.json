@@ -178,36 +178,6 @@
     },
     {
       "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-15T17:00:00-07:00",
-      "id": "neighborhood_markets:south-waterfront@2026-10-15",
-      "is_all_day": false,
-      "listing_url": "https://www.southwaterfront.com/farmers-market-about",
-      "organizer": "South Waterfront Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-15T12:00:00-07:00",
-      "title": "South Waterfront Farmers Market",
-      "venue": {
-        "address": "Elizabeth Caruthers Park, 3508 S Moody Ave, Portland, OR 97239",
-        "city": "Portland",
-        "latitude": 45.49714,
-        "longitude": -122.67136,
-        "name": "South Waterfront Farmers Market"
-      }
-    },
-    {
-      "categories": [
         "civic"
       ],
       "id": "oregon_metro:committee-racial-equity-meeting-2026-10-15",
@@ -189668,6 +189638,38 @@
         "market",
         "food"
       ],
+      "end_at": "2027-02-13T13:00:00-08:00",
+      "id": "hollywood_farmers_market:market@2027-02-13",
+      "is_all_day": false,
+      "listing_url": "https://www.hollywoodfarmersmarket.org/",
+      "organizer": "Hollywood Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "hollywood_farmers_market",
+        "name": "Hollywood Farmers Market",
+        "url": "https://www.hollywoodfarmersmarket.org"
+      },
+      "start_at": "2027-02-13T09:00:00-08:00",
+      "summary": "Neighborhood farmers market on NE Hancock, with produce, prepared food and live music. Free to attend.",
+      "title": "Hollywood Farmers Market",
+      "venue": {
+        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
+        "city": "Portland",
+        "latitude": 45.53635,
+        "longitude": -122.61756,
+        "name": "Hollywood Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market",
+        "food"
+      ],
       "end_at": "2027-02-13T14:00:00-08:00",
       "id": "portland_farmers_market:psu-farmers-market-2026-2@2027-02-13",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/05/PSU-winter-2023.jpg",
@@ -197350,5 +197352,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-16T11:17:59+00:00"
+  "generated_at": "2026-10-16T11:45:13+00:00"
 }
