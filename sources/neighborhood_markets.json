@@ -5,36 +5,6 @@
         "market",
         "food"
       ],
-      "end_at": "2026-10-15T17:00:00-07:00",
-      "id": "neighborhood_markets:south-waterfront@2026-10-15",
-      "is_all_day": false,
-      "listing_url": "https://www.southwaterfront.com/farmers-market-about",
-      "organizer": "South Waterfront Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-10-15T12:00:00-07:00",
-      "title": "South Waterfront Farmers Market",
-      "venue": {
-        "address": "Elizabeth Caruthers Park, 3508 S Moody Ave, Portland, OR 97239",
-        "city": "Portland",
-        "latitude": 45.49714,
-        "longitude": -122.67136,
-        "name": "South Waterfront Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
       "end_at": "2026-10-16T19:00:00-07:00",
       "id": "neighborhood_markets:mount-hood@2026-10-16",
       "is_all_day": false,
@@ -2431,7 +2401,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-16T04:46:51+00:00",
+  "generated_at": "2026-10-16T11:42:45+00:00",
   "source_id": "neighborhood_markets",
   "status": "ok"
 }
