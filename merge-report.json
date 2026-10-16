@@ -1529,6 +1529,14 @@
       "venue": "Star Theater"
     },
     {
+      "dropped": "willamette_week:20197475@2026-10-19T12:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfuzFV",
+      "start_at": "2026-10-19T12:30:00-07:00",
+      "title_dropped": "JULIA WOLF - 94/7 ELYSIAN BREWING SPACE DUST SESSIONS",
+      "title_kept": "JULIA WOLF - 94/7 ELYSIAN BREWING SPACE DUST SESSIONS",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:18602723@2026-10-19T18:30",
       "kept": "dopdx:17130520",
       "start_at": "2026-10-19T18:30:00-07:00",
@@ -2022,6 +2030,14 @@
       "start_at": "2026-10-22T20:30:00-07:00",
       "title_dropped": "Jettizon with Rage Against The Regime (Ratm Tribute), & Bria Damage",
       "title_kept": "JETTIZON with Rage Against The Regime (RATM tribute), & Bria Damage",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:20197476@2026-10-22T20:30",
+      "kept": "dopdx:17957260",
+      "start_at": "2026-10-22T20:30:00-07:00",
+      "title_dropped": "JETTIZON with Rage Against The Regime (RATM tribute), & Bria Damage",
+      "title_kept": "Jettizon with Rage Against The Regime (Ratm Tribute), & Bria Damage",
       "venue": "Dante's"
     },
     {
@@ -5233,6 +5249,22 @@
       "venue": "Aladdin Theater"
     },
     {
+      "dropped": "willamette_week:20197492@2026-11-08T13:00",
+      "kept": "dopdx:17837687",
+      "start_at": "2026-11-08T13:00:00-08:00",
+      "title_dropped": "Warren Miller's Days Off",
+      "title_kept": "Warren Miller's \"Days Off\"",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "willamette_week:20197313@2026-11-08T13:00",
+      "kept": "dopdx:17945528",
+      "start_at": "2026-11-08T13:00:00-08:00",
+      "title_dropped": "Pay What You Can: Rainbow Exhale | EFT Meditation+Sound Journey w/Charlie",
+      "title_kept": "Pay What You Can: Rainbow Exhale | EFT Meditation + Sound Journey w/Charlie",
+      "venue": "Breathing Room Yoga + Wellness Studio"
+    },
+    {
       "dropped": "dopdx:17555760",
       "kept": "ticketmaster:Z7r9jZ1AAvzoK",
       "start_at": "2026-11-08T14:00:00-08:00",
@@ -5262,6 +5294,14 @@
       "start_at": "2026-11-08T16:00:00-08:00",
       "title_dropped": "Warren Miller's \"Days Off\"",
       "title_kept": "Warren Miller's Days Off",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "willamette_week:20197492@2026-11-08T16:00",
+      "kept": "dopdx:17837688",
+      "start_at": "2026-11-08T16:00:00-08:00",
+      "title_dropped": "Warren Miller's Days Off",
+      "title_kept": "Warren Miller's \"Days Off\"",
       "venue": "Aladdin Theater"
     },
     {
@@ -5310,6 +5350,14 @@
       "start_at": "2026-11-08T19:00:00-08:00",
       "title_dropped": "Warren Miller's \"Days Off\"",
       "title_kept": "Warren Miller's Days Off",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "willamette_week:20197492@2026-11-08T19:00",
+      "kept": "dopdx:17837689",
+      "start_at": "2026-11-08T19:00:00-08:00",
+      "title_dropped": "Warren Miller's Days Off",
+      "title_kept": "Warren Miller's \"Days Off\"",
       "venue": "Aladdin Theater"
     },
     {
@@ -5814,6 +5862,14 @@
       "start_at": "2026-11-12T20:00:00-08:00",
       "title_dropped": "Deathtape with Salt+ & Guests",
       "title_kept": "DEATHTAPE with Salt+ & Guests",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:20197477@2026-11-12T20:00",
+      "kept": "dopdx:17957263",
+      "start_at": "2026-11-12T20:00:00-08:00",
+      "title_dropped": "DEATHTAPE with Salt+ & Guests",
+      "title_kept": "Deathtape with Salt+ & Guests",
       "venue": "Dante's"
     },
     {
@@ -6601,9 +6657,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6595,
-  "floor_check": "6595 events against a 6618-event baseline",
-  "generated_at": "2026-10-16T07:04:24+00:00",
+  "event_count": 6649,
+  "floor_check": "6649 events against a 6618-event baseline",
+  "generated_at": "2026-10-16T07:17:08+00:00",
   "problems": [],
   "sources": [
     "calagator",
