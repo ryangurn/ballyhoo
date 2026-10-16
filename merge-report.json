@@ -449,6 +449,14 @@
       "venue": "Singacoustic"
     },
     {
+      "dropped": "willamette_week:19707055@2026-10-16T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfaM07",
+      "start_at": "2026-10-16T19:30:00-07:00",
+      "title_dropped": "NEKROMANTIX & Guests",
+      "title_kept": "NEKROMANTIX with D.R.I., Rezurex, & Scattered Guts",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "dopdx:17352814",
       "kept": "ticketmaster:Z7r9jZ1A70xGd",
       "start_at": "2026-10-16T20:00:00-07:00",
@@ -535,14 +543,6 @@
       "title_dropped": "ANALOG DOG",
       "title_kept": "Analog Dog",
       "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:19707055@2026-10-16T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfaM07",
-      "start_at": "2026-10-16T20:00:00-07:00",
-      "title_dropped": "NEKROMANTIX & Guests",
-      "title_kept": "NEKROMANTIX with D.R.I., Rezurex, & Scattered Guts",
-      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19700089@2026-10-16T20:00",
@@ -5369,14 +5369,6 @@
       "venue": "Roseland Theater"
     },
     {
-      "dropped": "willamette_week:19972301@2026-11-08T20:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfGYA7",
-      "start_at": "2026-11-08T20:30:00-08:00",
-      "title_dropped": "Tyler Hilton",
-      "title_kept": "Tyler Hilton",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "willamette_week:19469867@2026-11-08T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPs0S",
       "start_at": "2026-11-08T21:00:00-08:00",
@@ -6609,9 +6601,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6602,
-  "floor_check": "6602 events against a 6688-event baseline",
-  "generated_at": "2026-10-16T05:21:07+00:00",
+  "event_count": 6595,
+  "floor_check": "6595 events against a 6688-event baseline",
+  "generated_at": "2026-10-16T05:49:39+00:00",
   "problems": [],
   "sources": [
     "calagator",
