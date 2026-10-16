@@ -451,25 +451,6 @@
       "categories": [
         "civic"
       ],
-      "id": "oregon_metro:nature-education-and-outdoor-experiences-grants-workshop-2026-10-22",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/nature-education-and-outdoor-experiences-grants-workshop-2026-10-22",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-22T10:00:00-07:00",
-      "title": "Nature education and outdoor experiences grants workshop"
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "id": "oregon_metro:metro-council-meeting-2026-10-22",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-council-meeting-2026-10-22",
@@ -490,6 +471,25 @@
         "longitude": -122.66024,
         "name": "Metro Regional Center"
       }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:nature-education-and-outdoor-experiences-grants-workshop-2026-10-22",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/nature-education-and-outdoor-experiences-grants-workshop-2026-10-22",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-22T10:00:00-07:00",
+      "title": "Nature education and outdoor experiences grants workshop"
     },
     {
       "categories": [
@@ -1480,29 +1480,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "id": "oregon_metro:future-50-community-vision-tables-2026-11-14",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/future-50-community-vision-tables-2026-11-14",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-14T13:00:00-08:00",
-      "title": "Future 50 community vision tables",
-      "venue": {
-        "city": "Portland",
-        "name": "Beaverton City Library"
-      }
-    },
-    {
-      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:forest-bathing-walk-2026-11-14",
@@ -1522,6 +1499,29 @@
       "venue": {
         "city": "Portland",
         "name": "Smith and Bybee Wetlands Natural Area"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:future-50-community-vision-tables-2026-11-14",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/future-50-community-vision-tables-2026-11-14",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-14T13:00:00-08:00",
+      "title": "Future 50 community vision tables",
+      "venue": {
+        "city": "Portland",
+        "name": "Beaverton City Library"
       }
     },
     {
@@ -2899,7 +2899,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-15T23:10:05+00:00",
+  "generated_at": "2026-10-16T01:30:56+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
