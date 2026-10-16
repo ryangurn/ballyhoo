@@ -217,6 +217,14 @@
       "venue": "Hawthorne Theatre"
     },
     {
+      "dropped": "willamette_week:16833898@2026-10-29T18:00",
+      "kept": "dopdx:17863893",
+      "start_at": "2026-10-29T18:00:00-07:00",
+      "title_dropped": "Witchy Watercolor @ White Rabbit Book Cafe",
+      "title_kept": "Witchy Watercolor",
+      "venue": "White Rabbit Book Cafe"
+    },
+    {
       "dropped": "willamette_week:19872834@2026-10-29T18:30",
       "kept": "dopdx:17908907",
       "start_at": "2026-10-29T18:30:00-07:00",
@@ -1305,6 +1313,22 @@
       "venue": "Patricia Reser Center for the Arts"
     },
     {
+      "dropped": "willamette_week:19787119@2026-10-18T16:00",
+      "kept": "dopdx:17945496",
+      "start_at": "2026-10-18T16:00:00-07:00",
+      "title_dropped": "Aloka - Sound Lab w. Graham Slick, A Nervous System Sound Bath Journey",
+      "title_kept": "Aloka — Sound Lab w. Graham Slick, A Nervous System Sound Bath Journey",
+      "venue": "Bodha Yoga"
+    },
+    {
+      "dropped": "willamette_week:19666875@2026-10-18T17:00",
+      "kept": "dopdx:17945507",
+      "start_at": "2026-10-18T17:00:00-07:00",
+      "title_dropped": "Restorative Sound Bath",
+      "title_kept": "Restorative Sound Bath",
+      "venue": "All Heart Yoga"
+    },
+    {
       "dropped": "willamette_week:20097919@2026-10-18T17:00",
       "kept": "ticketmaster:Z7r9jZ1AAea0S",
       "start_at": "2026-10-18T17:00:00-07:00",
@@ -1591,6 +1615,14 @@
       "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
       "title_kept": "KARAOKE FROM HELL",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19108200@2026-10-20T17:30",
+      "kept": "dopdx:17890595",
+      "start_at": "2026-10-20T17:30:00-07:00",
+      "title_dropped": "Portland Wellness Practitioners Connect",
+      "title_kept": "Portland Wellness Practitioners Connect",
+      "venue": "House Nine Wellness & Tea"
     },
     {
       "dropped": "willamette_week:18697207@2026-10-20T19:00",
@@ -4820,7 +4852,7 @@
       "dropped": "willamette_week:19798659@2026-11-05T20:00",
       "kept": "ticketmaster:rZ7HnEZ1Af1fFf",
       "start_at": "2026-11-05T20:00:00-08:00",
-      "title_dropped": "The Suitcase Junket",
+      "title_dropped": "The Suitcase Junket with Rattlesnake Mama",
       "title_kept": "The Suitcase Junket with Rattlesnake Mama",
       "venue": "Showdown Saloon"
     },
@@ -5369,6 +5401,14 @@
       "venue": "Curious Comedy Theater"
     },
     {
+      "dropped": "willamette_week:19972301@2026-11-08T19:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfGYA7",
+      "start_at": "2026-11-08T19:30:00-08:00",
+      "title_dropped": "Tyler Hilton",
+      "title_kept": "Tyler Hilton",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "dopdx:17411334",
       "kept": "ticketmaster:Z7r9jZ1A70zog",
       "start_at": "2026-11-08T20:00:00-08:00",
@@ -5444,7 +5484,7 @@
       "dropped": "willamette_week:19442195@2026-11-09T19:00",
       "kept": "ticketmaster:rZ7HnEZ1AfGfxf",
       "start_at": "2026-11-09T19:00:00-08:00",
-      "title_dropped": "Square Dancing",
+      "title_dropped": "Square Dancing / KARAOKE @ 9:30",
       "title_kept": "Square Dancing with Caller Steph Noll / KARAOKE @ 9:30",
       "venue": "Showdown Saloon"
     },
@@ -5835,6 +5875,14 @@
     {
       "dropped": "dopdx:17881686",
       "kept": "ticketmaster:Z7r9jZ1AAekPs",
+      "start_at": "2026-11-12T20:00:00-08:00",
+      "title_dropped": "2slimey",
+      "title_kept": "2slimey",
+      "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "willamette_week:20200695@2026-11-12T20:00",
+      "kept": "dopdx:17881686",
       "start_at": "2026-11-12T20:00:00-08:00",
       "title_dropped": "2slimey",
       "title_kept": "2slimey",
@@ -6649,9 +6697,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6676,
-  "floor_check": "6676 events against a 6650-event baseline",
-  "generated_at": "2026-10-16T17:21:52+00:00",
+  "event_count": 6708,
+  "floor_check": "6708 events against a 6650-event baseline",
+  "generated_at": "2026-10-16T17:30:19+00:00",
   "problems": [],
   "sources": [
     "calagator",
