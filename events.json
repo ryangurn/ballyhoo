@@ -3517,6 +3517,41 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-10-18T02:00:00-07:00",
+      "id": "dopdx:17603707",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1783998132/event-17603707.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/17/jump-in-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "organizer": "Disney On Ice presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 63.0,
+        "min": 37.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-17T11:00:00-07:00",
+      "summary": "There is nothing more special than sharing Disney magic with loved ones. Whether it is the first time you watched Toy Story, sang along to Let It Go, or cheered for your favorite Disney Princess, Disney On Ice is the perfect place to revisit cherished memories and create new ones together. Mickey, Minnie, Donald, and Goofy will take you on a journey through these unforgettable moments, powered by a Magical MousePad. Discover thrilling adventures from Zootopia, Inside Out 2, and the all-new Moana 2. Relive the timeless tales of Toy Story, Frozen, and Encanto, and the dazzling Disney Princesses. And hold on tight as Stitch grabs the Magical MousePad and shakes things up! Feel the excitement in an enchanted celebration close to home, only at Di",
+      "ticket_url": "https://www.ticketmaster.com/disney-on-ice-presents-jump-in-tickets/artist/3502444?venueId=123041&camefrom=CFC_FELD_WEBSITE&_gl=19zzpu6_gcl_au*NzE3NTQ4MjY0LjE3ODYzODk0MDcuLS4tLjE3ODcwMDY0NjguODY4ODYzODExLjE3ODcwMDY0NjkuMTc4NzAwNjQ2OA..",
+      "title": "Jump In!",
+      "venue": {
+        "address": "300 N Ramsay Way",
+        "city": "Portland",
+        "name": "Veterans Memorial Coliseum"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-10-18T02:00:00-07:00",
@@ -3625,41 +3660,6 @@
         "address": "275 Strand St",
         "city": "St Helens",
         "name": "275 Strand St"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-18T02:00:00-07:00",
-      "id": "ticketmaster:vvG1HZ_G202dSj",
-      "image_url": "https://s1.ticketm.net/dam/a/abe/98126acc-e812-4b18-beff-d0c28f09babe_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/disney-on-ice-presents-jump-in-portland-oregon-10-17-2026/event/0F0064C3E43C3CDC",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "FELD ENTERTAINMENT DISNEY ON ICE",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-17T11:00:00-07:00",
-      "summary": "There is nothing more special than sharing Disney magic with loved ones. Whether it is the first time you watched Toy Story, sang along to Let It Go, or cheered for your favorite Disney Princess, Disney On Ice is the perfect place to revisit cherished memories and create new ones together. Mickey, Minnie, Donald, and Goofy will take you on a journey through these unforgettable moments, powered by a Magical MousePad. Discover thrilling adventures from Zootopia, Inside Out 2, and the all-new Moana 2. Relive the timeless tales of Toy Story, Frozen, and Encanto, and the dazzling Disney Princesses. And hold on tight as Stitch grabs the Magical MousePad and shakes things up! Feel the excitement in an enchanted celebration close to home, only at Disney On Ice! *Note: Costumes not permitted for guests 14 years & older.",
-      "ticket_url": "https://www.ticketmaster.com/disney-on-ice-presents-jump-in-portland-oregon-10-17-2026/event/0F0064C3E43C3CDC",
-      "title": "Disney On Ice presents Jump In!",
-      "venue": {
-        "address": "300 Winning Way",
-        "city": "Portland",
-        "latitude": 45.533299,
-        "longitude": -122.667442,
-        "name": "Veterans Memorial Coliseum"
       }
     },
     {
@@ -195196,5 +195196,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-17T17:34:46+00:00"
+  "generated_at": "2026-10-17T18:28:50+00:00"
 }
