@@ -5777,6 +5777,14 @@
       "venue": "The Den"
     },
     {
+      "dropped": "dopdx:17339151",
+      "kept": "ticketmaster:rZ7HnEZ1Af03bS",
+      "start_at": "2026-11-13T23:55:00-08:00",
+      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19225591@2026-11-13T23:55",
       "kept": "dopdx:17339151",
       "start_at": "2026-11-13T23:55:00-08:00",
@@ -6489,9 +6497,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6561,
-  "floor_check": "6561 events against a 6571-event baseline",
-  "generated_at": "2026-10-17T11:19:09+00:00",
+  "event_count": 6560,
+  "floor_check": "6560 events against a 6567-event baseline",
+  "generated_at": "2026-10-17T11:35:45+00:00",
   "problems": [],
   "sources": [
     "calagator",
