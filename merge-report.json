@@ -561,14 +561,6 @@
       "venue": "Arlene Schnitzer Concert Hall"
     },
     {
-      "dropped": "dopdx:17553044",
-      "kept": "ticketmaster:rZ7HnEZ1AfFbb0",
-      "start_at": "2026-10-17T19:30:00-07:00",
-      "title_dropped": "Fabio Frizzi Performing The Frizzi2fulci with Ethan Mccarthy",
-      "title_kept": "FABIO FRIZZI performing the FRIZZI2FULCI",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:19449669@2026-10-17T19:30",
       "kept": "dopdx:17553044",
       "start_at": "2026-10-17T19:30:00-07:00",
@@ -647,6 +639,14 @@
       "title_dropped": "SAW: The Musical",
       "title_kept": "SAW: The Musical (Touring)",
       "venue": "Alberta Abbey"
+    },
+    {
+      "dropped": "dopdx:17553044",
+      "kept": "ticketmaster:rZ7HnEZ1AfFbb0",
+      "start_at": "2026-10-17T20:00:00-07:00",
+      "title_dropped": "Fabio Frizzi Performing The Frizzi2fulci with Ethan Mccarthy",
+      "title_kept": "FABIO FRIZZI performing the FRIZZI2FULCI",
+      "venue": "Dante's"
     },
     {
       "dropped": "dopdx:17333782",
@@ -6585,9 +6585,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6715,
-  "floor_check": "6715 events against a 6733-event baseline",
-  "generated_at": "2026-10-17T00:47:58+00:00",
+  "event_count": 6716,
+  "floor_check": "6716 events against a 6733-event baseline",
+  "generated_at": "2026-10-17T01:18:27+00:00",
   "problems": [],
   "sources": [
     "calagator",
