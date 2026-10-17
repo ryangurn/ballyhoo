@@ -906,11 +906,13 @@
     },
     {
       "categories": [
-        "community"
+        "civic"
       ],
+      "end_at": "2026-10-17T13:00:00-07:00",
       "id": "willamette_week:19639254@2026-10-17T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/709254f8-e6d3-417a-b97f-a22de0cf10cd.large.png",
       "is_all_day": false,
-      "listing_url": "http://www.wilsonvillelibrary.org/Calendar.aspx?EID=1267&month=10&year=2026&day=14&calType=0",
+      "listing_url": "https://www.facebook.com/events/924020946665923/",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -921,14 +923,14 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-17T09:00:00-07:00",
-      "summary": "Saturday, October 17, 2026",
+      "summary": "Bulky Waste Day provides an opportunity for Wilsonville residents to dispose of large or unusual items that cannot be picked up curbside. Proof of Wilsonville residence is required to participate. There is no charge to dispose waste. Instead, the City asks participants to donate \\(cash, check or Venmo\\) to Wilsonville Community Sharing, which provides critical social services assistance to local families in need. Donations are collected on site. Upon arrival, vehicles are directed first to the donations area, then to the scales to be weighed, and then to disposal bays. Participants should only bring items that can be removed from vehicles without staff assistance. Bulky Waste Day accepts many items otherwise hard to dispose of, including dishwashers, televisions, refrigerators, computers, monitors, stoves, dryers, water heaters, couches, mattresses, scrap metal, tables and chairs, and clean, untreated wood. All fuel and oils must be emptied from lawn mowers and other gas-powered equipment. The program does not accept construction debris of any type, propane bottles or canisters, paint, batteries, solvents, thinners, household garbage, car tires, or yard debris.",
       "title": "Bulky Waste Day",
       "venue": {
-        "address": "8200 SW Wilsonville Rd",
+        "address": "10295 SW Ridder Rd",
         "city": "Wilsonville",
-        "latitude": 45.2978782654,
-        "longitude": -122.7577896118,
-        "name": "Wilsonville Library"
+        "latitude": 45.33287,
+        "longitude": -122.78245,
+        "name": "Republic Services"
       }
     },
     {
@@ -9994,6 +9996,95 @@
     },
     {
       "categories": [
+        "market"
+      ],
+      "end_at": "2026-10-18T15:00:00-07:00",
+      "id": "willamette_week:18521272@2026-10-18T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FU3fR0RvOE2Ml9Euat0Gdw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/lents-international-farmers-market/2026-10-18/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-18T10:00:00-07:00",
+      "summary": "Lents International Farmers Market provides fresh, local, and culturally relevant produce to the diverse community of Lents neighbors in southeast Portland.",
+      "title": "Lents International Farmers Market",
+      "venue": {
+        "address": "5718 SE 92nd Ave",
+        "city": "Portland",
+        "latitude": 45.480889,
+        "longitude": -122.568329,
+        "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-10-18T14:00:00-07:00",
+      "id": "willamette_week:18521269@2026-10-18T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yGg9F_sScUWRxeA0Fdv40Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/king-farmers-market-3/2026-10-18/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-18T10:00:00-07:00",
+      "summary": "King Farmers Market features about 30 farmers and food producers, offering fresh, local produce and food, plus a variety of breakfast and lunch options in a family-friendly setting.",
+      "title": "King Farmers Market",
+      "venue": {
+        "address": "NE Wygant St &, NE 7th Ave",
+        "city": "Portland",
+        "latitude": 45.55757,
+        "longitude": -122.65954,
+        "name": "King Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-10-18T12:00:00-07:00",
+      "id": "willamette_week:20194966@2026-10-18T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tchM72v-706z8B_hAh4ujA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandinsight.org/weeklygroups",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-18T10:00:00-07:00",
+      "summary": "Finding peace in the tumult of life is a process that can be supported tremendously by a community-centered meditation practice. Portland Insight Meditation Center invites us to ground ourselves in the company of like-minded locals, practice silent meditation, engage in a dharma talk or reflection, and share your experience with the community. Both newbies and varsity players are welcome, and each meditation is led by PIMC’s residents or expert guests, or organized in peer-led formats.",
+      "title": "Sunday Morning Meditation and Mindfulness Practice",
+      "venue": {
+        "address": "6536 SE Duke St.",
+        "city": "Portland",
+        "latitude": 45.475621,
+        "longitude": -122.595409,
+        "name": "Portland Insight Meditation Center"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-18T13:00:00-07:00",
@@ -10078,37 +10169,6 @@
         "latitude": 45.52289,
         "longitude": -122.98983,
         "name": "Hillsboro"
-      }
-    },
-    {
-      "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-10-18T12:00:00-07:00",
-      "id": "willamette_week:20194966@2026-10-18T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tchM72v-706z8B_hAh4ujA.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.portlandinsight.org/weeklygroups",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-18T10:00:00-07:00",
-      "summary": "Finding peace in the tumult of life is a process that can be supported tremendously by a community-centered meditation practice. Portland Insight Meditation Center invites us to ground ourselves in the company of like-minded locals, practice silent meditation, engage in a dharma talk or reflection, and share your experience with the community. Both newbies and varsity players are welcome, and each meditation is led by PIMC’s residents or expert guests, or organized in peer-led formats.",
-      "title": "Sunday Morning Meditation and Mindfulness Practice",
-      "venue": {
-        "address": "6536 SE Duke St.",
-        "city": "Portland",
-        "latitude": 45.475621,
-        "longitude": -122.595409,
-        "name": "Portland Insight Meditation Center"
       }
     },
     {
@@ -19564,6 +19624,36 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-20T22:00:00-07:00",
+      "id": "willamette_week:20195016@2026-10-20T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/krYJ3AsaUkWx_ZY8c8zNPQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.themoth.org/tickets/upcoming-events?location=portland-or",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-20T19:00:00-07:00",
+      "summary": "Ever had to ditch a pal who couldn’t stop using AI? Or break up with an acquaintance who never met a boundary they couldn’t overstep? Ever been a woman who had to befriend a cis man? If you answered yes to any of these, come commiserate in what is likely to be the pulpiest Moth of the year thus far, a StorySLAM with a theme focused on Frenemies. Come ready to either share your own harrowing tales of friendships gone sour, malignant rivalries, and hateration of the highest order, or prepare to ingest the lore of other brave souls’ wild friendships. Either way, you’ll come out with a new appreciation for your A1 day ones.",
+      "ticket_url": "https://www.themoth.org/tickets/frenemies-3",
+      "title": "The Moth StorySLAM: Frenemies",
+      "venue": {
+        "address": "1001 SE Morrison St",
+        "city": "Portland",
+        "latitude": 45.5175819397,
+        "longitude": -122.6553573608,
+        "name": "Holocene"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "willamette_week:20202760@2026-10-20T19:00",
@@ -19619,36 +19709,6 @@
         "latitude": 45.521359,
         "longitude": -122.661053,
         "name": "Glimmer Wellness Center"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-20T22:00:00-07:00",
-      "id": "willamette_week:20195016@2026-10-20T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/krYJ3AsaUkWx_ZY8c8zNPQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.themoth.org/tickets/upcoming-events?location=portland-or",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-20T19:00:00-07:00",
-      "summary": "Ever had to ditch a pal who couldn’t stop using AI? Or break up with an acquaintance who never met a boundary they couldn’t overstep? Ever been a woman who had to befriend a cis man? If you answered yes to any of these, come commiserate in what is likely to be the pulpiest Moth of the year thus far, a StorySLAM with a theme focused on Frenemies. Come ready to either share your own harrowing tales of friendships gone sour, malignant rivalries, and hateration of the highest order, or prepare to ingest the lore of other brave souls’ wild friendships. Either way, you’ll come out with a new appreciation for your A1 day ones.",
-      "ticket_url": "https://www.themoth.org/tickets/frenemies-3",
-      "title": "The Moth StorySLAM: Frenemies",
-      "venue": {
-        "address": "1001 SE Morrison St",
-        "city": "Portland",
-        "latitude": 45.5175819397,
-        "longitude": -122.6553573608,
-        "name": "Holocene"
       }
     },
     {
@@ -21103,6 +21163,35 @@
       "categories": [
         "market"
       ],
+      "end_at": "2026-10-21T14:00:00-07:00",
+      "id": "willamette_week:18521270@2026-10-21T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yeU45ZTOnEWM9NxeoYnMMA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/shemanski-park-farmers-market-2026/2026-10-21/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-21T10:00:00-07:00",
+      "summary": "A popular destination for downtown residents, office workers, tourists, and chefs, this market features over 30 vendor booths filled with farm-fresh and locally-made food.",
+      "title": "Shemanski Park Farmers Market",
+      "venue": {
+        "address": "SW Park & Main",
+        "city": "Portland",
+        "latitude": 45.517442,
+        "longitude": -122.681844,
+        "name": "Shemanski Park Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
       "end_at": "2026-10-21T20:00:00-07:00",
       "id": "willamette_week:20172219@2026-10-21T10:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/goY3KD9UsUK0R9CpEL2ELA.large.jpg",
@@ -22219,35 +22308,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "end_at": "2026-10-21T17:30:00-07:00",
-      "id": "willamette_week:19798605@2026-10-21T15:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SyOUVERiokWn7cd7s8sIjA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/personal-safety-workshop-presented-city-portland-16",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-21T15:30:00-07:00",
-      "summary": "Have concerns about your personal safety at home or in the community? Have a youth headed to college this fall? A teen beginning high school? A tween staying home by themselves for the first time? Come join us for an Introductory Personal Safety and Self-Defense workshop to learn the empowering skills to help keep yourself and your young ones safe and strong! Snacks provided for all attendees The class will cover assertive communication and de-escalation skills. Learn how to tap into intuition and options for escape and safety planning. This is open to all community members ages 11 and older. Community members ages 11-14 must be accompanied by an adult. Presented by The City of Portland Office of Violence Prevention Safe Blocks program and Rose City Self-Defense.",
-      "title": "Personal Safety Workshop presented by City of Portland",
-      "venue": {
-        "address": "7905 SE Holgate Boulevard",
-        "city": "Portland",
-        "latitude": 45.490504558338586,
-        "longitude": -122.58224808281963,
-        "name": "Holgate Library"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-10-21T17:00:00-07:00",
@@ -22598,6 +22658,67 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-10-21T19:30:00-07:00",
+      "id": "willamette_week:19798605@2026-10-21T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VXFe7vj0Kkaut-tTQTMH9Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/personal-safety-workshop-presented-city-portland-14",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-21T17:30:00-07:00",
+      "summary": "Have concerns about your personal safety at home or in the community? Have a youth headed to college this fall? A teen beginning high school? A tween staying home by themselves for the first time? Come join us for an Introductory Personal Safety and Self-Defense workshop to learn the empowering skills to help keep yourself and your young ones safe and strong! Snacks provided for all attendees The class will cover assertive communication and de-escalation skills. Learn how to tap into intuition and options for escape and safety planning. This is open to all community members ages 11 and older. Community members ages 11-14 must be accompanied by an adult. Presented by The City of Portland Office of Violence Prevention Safe Blocks program and Rose City Self-Defense.",
+      "title": "Personal Safety Workshop presented by City of Portland",
+      "venue": {
+        "address": "805 SE 122nd Avenue",
+        "city": "Portland",
+        "latitude": 45.516677291858464,
+        "longitude": -122.53848246502874,
+        "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-21T21:00:00-07:00",
+      "id": "willamette_week:20201534@2026-10-21T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tUzIOIhRX0CRfFgM6TjAoQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://resy.com/cities/portland-or/venues/kann/events/kann-x-hiyu-2026-10-21?seats=2&date=2026-10-16",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 325.0,
+        "min": 325.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-21T17:30:00-07:00",
+      "summary": "As the latest installment of the Kann Cellar Series, an ongoing series of intimate dinners & tastings, giving guests a closer look into the people, places & stories behind the wines served at Kann, the evening will spotlight Hiyu Wine Farm with a five-course tasting menu inspired by Oregon’s Columbia River Gorge. Guests will enjoy Hiyu’s biodynamic wines alongside Kann’s seasonal cooking, with the evening offering a deeper look at the people, land and winemaking philosophy behind a producer whose wines are poured at Kann regularly. Ticket price includes 5-course dinner with pairings, appetizer & welcome pour.",
+      "ticket_url": "https://resy.com/cities/portland-or/venues/kann/events/kann-x-hiyu-2026-10-21?seats=2&date=2026-10-16",
+      "title": "Kann x Hiyu Wine Farm Dinner",
+      "venue": {
+        "address": "548 SE Ash Street",
+        "city": "Portland",
+        "latitude": 45.521382,
+        "longitude": -122.659873,
+        "name": "Kann"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-21T19:30:00-07:00",
@@ -22623,6 +22744,37 @@
         "latitude": 45.53227095409817,
         "longitude": -122.43932211779094,
         "name": "Fairview-Columbia Library"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-21T21:00:00-07:00",
+      "id": "willamette_week:20183857@2026-10-21T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TxGc8F5LOkq9-T_fzepUyQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://wonderlovepdx.com/event-venue/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-21T18:00:00-07:00",
+      "summary": "Show up early to sign up! Bring your own instrument. House guitar + mic provided. FREE || ALL AGES || 6:00PM-9:00PM || LOUNGE || EVERY WEDNESDAY",
+      "title": "Open Mic Night at Wonderlove",
+      "venue": {
+        "address": "262 SE Main St",
+        "city": "Portland",
+        "latitude": 45.513423,
+        "longitude": -122.663157,
+        "name": "Wonderlove"
       }
     },
     {
@@ -22680,37 +22832,6 @@
         "latitude": 45.521175,
         "longitude": -123.113009,
         "name": "Forage Grove"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-21T21:00:00-07:00",
-      "id": "willamette_week:20183857@2026-10-21T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TxGc8F5LOkq9-T_fzepUyQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://wonderlovepdx.com/event-venue/",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-21T18:00:00-07:00",
-      "summary": "Show up early to sign up! Bring your own instrument. House guitar + mic provided. FREE || ALL AGES || 6:00PM-9:00PM || LOUNGE || EVERY WEDNESDAY",
-      "title": "Open Mic Night at Wonderlove",
-      "venue": {
-        "address": "262 SE Main St",
-        "city": "Portland",
-        "latitude": 45.513423,
-        "longitude": -122.663157,
-        "name": "Wonderlove"
       }
     },
     {
@@ -23007,6 +23128,37 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-21T19:30:00-07:00",
+      "id": "willamette_week:20183873@2026-10-21T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hN7FV_JLRkmEI5jLdSmOKg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://forestgrovecubscouts.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-21T18:30:00-07:00",
+      "summary": "75 years of Scouting with Pack 169! Start Scouting with a welcoming, family-focused pack. Scouts learn together thru adventures and community service projects, build core skills through fun activities. We welcome all youth. Pack 169 meets in Forest Grove at Holbrook Masonic Lodge \\#30, 2019 Main St, with hikes and outdoor activities on weekends. Webpage: forestgrovecubscouts.org Facebook: @fg.pack169 Instagram: @cubscoutspack169",
+      "title": "Cub Scouts Pack 169 Adventure Night",
+      "venue": {
+        "address": "2019 Main Street",
+        "city": "Forest Grove",
+        "latitude": 45.520255,
+        "longitude": -123.111797,
+        "name": "Holbrook Masonic Lodge #30"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-10-21T21:00:00-07:00",
@@ -23220,6 +23372,37 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "end_at": "2026-10-21T21:00:00-07:00",
+      "id": "willamette_week:20194874@2026-10-21T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OCSmArMvu0uD8ozn6KZXaw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.rhinestonepdx.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-21T19:00:00-07:00",
+      "summary": "Join Rhinestone for a glitter-filled night of Drag Bingo hosted by the one and only Pluto. Playing 6 fabulous games (three per card), with plenty of laughs, high-energy drag moments, and awesome prizes throughout the night. Your ticket includes 2 free bingo cards; additional cards are available for $5 each. Come hungry and thirsty, food and drinks will be available while you play, plus prizes like: Rhinestone T-shirts Fun surprise giveaways Two tickets to Darcell’s Get ready for a night full of sparkle, sass, and bingo wins.",
+      "title": "Rhinestone Presents: Drag Bingo with Pluto",
+      "venue": {
+        "address": "2100 SE Clinton St",
+        "city": "Portland",
+        "latitude": 45.503272,
+        "longitude": -122.644463,
+        "name": "Rhinestone"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "willamette_week:14778366@2026-10-21T19:00",
@@ -23394,37 +23577,6 @@
         "latitude": 45.518533,
         "longitude": -123.114245,
         "name": "Waltz Brewing"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-10-21T21:00:00-07:00",
-      "id": "willamette_week:20194874@2026-10-21T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OCSmArMvu0uD8ozn6KZXaw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.rhinestonepdx.com/",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-21T19:00:00-07:00",
-      "summary": "Join Rhinestone for a glitter-filled night of Drag Bingo hosted by the one and only Pluto. Playing 6 fabulous games (three per card), with plenty of laughs, high-energy drag moments, and awesome prizes throughout the night. Your ticket includes 2 free bingo cards; additional cards are available for $5 each. Come hungry and thirsty, food and drinks will be available while you play, plus prizes like: Rhinestone T-shirts Fun surprise giveaways Two tickets to Darcell’s Get ready for a night full of sparkle, sass, and bingo wins.",
-      "title": "Rhinestone Presents: Drag Bingo with Pluto",
-      "venue": {
-        "address": "2100 SE Clinton St",
-        "city": "Portland",
-        "latitude": 45.503272,
-        "longitude": -122.644463,
-        "name": "Rhinestone"
       }
     },
     {
@@ -25812,6 +25964,35 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-22T12:30:00-07:00",
+      "id": "willamette_week:20201171@2026-10-22T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rUYOJEhbikW9c6l1icnlbQ.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-22T12:00:00-07:00",
+      "title": "Silent Non-Partisan Prayer & Meditation For Our Country",
+      "venue": {
+        "address": "510 E First St (back entry by parking lot)",
+        "city": "Newberg",
+        "latitude": 45.300089,
+        "longitude": -122.974455,
+        "name": "Newberg Prayer Room"
       }
     },
     {
@@ -30766,35 +30947,6 @@
         "family"
       ],
       "end_at": "2026-10-23T12:00:00-07:00",
-      "id": "willamette_week:20131149@2026-10-23T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1170",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-23T11:15:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-23T12:00:00-07:00",
       "id": "willamette_week:20131153@2026-10-23T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
       "is_all_day": false,
@@ -30817,6 +30969,35 @@
         "latitude": 45.478934715870885,
         "longitude": -122.61206954232797,
         "name": "Woodstock Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-23T12:00:00-07:00",
+      "id": "willamette_week:20131149@2026-10-23T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1170",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T11:15:00-07:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -31800,35 +31981,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-23T21:00:00-07:00",
-      "id": "willamette_week:20028781@2026-10-23T17:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0GLtZLieCkSfjWD5HKGmhQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/2002397967138074/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-23T17:00:00-07:00",
-      "summary": "Spooky season is taking over Zesti Carts for one night! Friday, October 23 | 5–9 PM Zesti Carts | 2131 Yew St, Forest Grove Spend your Friday night browsing local vendors, grabbing dinner from the food carts, sipping something from the full bar, and enjoying live music by Vinyl Echos. Come dressed for the occasion or just come as you are. We’ll have plenty of spooky atmosphere, local finds, good food, drinks, and music to make a night of it. What to expect: • Local makers and small businesses • Live hits by Vinyl Echos • Food carts • Full bar • Costumes encouraged Shop, sip, and stay awhile. Admission is free and all are welcome! Want to be a vendor? Apply here: https://docs.google.com/forms/d/e/1FAIpQLSeJ\\_FJzkHYvVCkWajzUCf\\_C-U\\_jtABsS0nFmW0IWpsgQoEcAA/viewform",
-      "title": "SpooOooky Night Market at Zesti",
-      "venue": {
-        "address": "2131 Yew St",
-        "city": "Forest Grove",
-        "latitude": 45.521667,
-        "longitude": -123.07226,
-        "name": "Zesti Food Carts"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-23T20:00:00-07:00",
@@ -31856,6 +32008,35 @@
         "latitude": 45.514925,
         "longitude": -122.664131,
         "name": "CHEFAS PROJECTS"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-23T21:00:00-07:00",
+      "id": "willamette_week:20028781@2026-10-23T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0GLtZLieCkSfjWD5HKGmhQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2002397967138074/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T17:00:00-07:00",
+      "summary": "Spooky season is taking over Zesti Carts for one night! Friday, October 23 | 5–9 PM Zesti Carts | 2131 Yew St, Forest Grove Spend your Friday night browsing local vendors, grabbing dinner from the food carts, sipping something from the full bar, and enjoying live music by Vinyl Echos. Come dressed for the occasion or just come as you are. We’ll have plenty of spooky atmosphere, local finds, good food, drinks, and music to make a night of it. What to expect: • Local makers and small businesses • Live hits by Vinyl Echos • Food carts • Full bar • Costumes encouraged Shop, sip, and stay awhile. Admission is free and all are welcome! Want to be a vendor? Apply here: https://docs.google.com/forms/d/e/1FAIpQLSeJ\\_FJzkHYvVCkWajzUCf\\_C-U\\_jtABsS0nFmW0IWpsgQoEcAA/viewform",
+      "title": "SpooOooky Night Market at Zesti",
+      "venue": {
+        "address": "2131 Yew St",
+        "city": "Forest Grove",
+        "latitude": 45.521667,
+        "longitude": -123.07226,
+        "name": "Zesti Food Carts"
       }
     },
     {
@@ -36908,6 +37089,35 @@
     },
     {
       "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-10-24T14:00:00-07:00",
+      "id": "willamette_week:20201908@2026-10-24T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4e2ffe30-dc8d-4baf-87bd-60f6f6a9aeeb.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/27943354222032730/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T11:00:00-07:00",
+      "summary": "We rebranded as “The Farm Athletics” earlier this year, and we’re ecstatic to share all we have been up to! Come tour our space, meet the coaches and businesses that call \"The Farm\" home, enjoy food & samples, and see everything our community offers! Businesses that call The Farm Home will be ready to greet you and answer any questions you have about our facility: The Farm Athletics Functional Fitness The Farm Kids & Teens The Farm Legends Athletes \\(55\\+\\) Let Go in the Country Massage Iron Acres Barbell Club Sunset Jiu Jitsu The Thrive Continuum Tanning @ The Farm CI Lifestyle Meals - The Farm’s Meal Delivery Service Partner",
+      "title": "The Farm Fall Open House",
+      "venue": {
+        "address": "41745 NW Wilkesboro Rd",
+        "city": "Banks",
+        "latitude": 45.607627,
+        "longitude": -123.107247,
+        "name": "The Farm Athletics"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-24T13:30:00-07:00",
@@ -37448,36 +37658,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "id": "willamette_week:20202438@2026-10-24T12:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jlpG_hj-20W_QYvYcZO0hg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://rosecityrollers.com/schedule/juniors-lo-fi-rainbow-bites-vs-undead-avengers/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 6.0,
-        "min": 6.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-24T12:00:00-07:00",
-      "summary": "Juniors Lo-Fi Bout Undead Avengers vs. Rainbow Bites \\(Rosebuds: ages 7-17\\) Lo-Fi Bouts are a stripped-down, low-production roller derby experience! It's scrimmage-style vibes in a relaxed atmosphere, perfect for family and close friends. These games are more casual than our full production bouts, but they still count toward season rankings. The competition is real, even if the lights and spectacle are dialed back! Saturday, October 24th Doors at 12 PM | Game at 12:30 PM At the Hangar at Oaks Park PLEASE NOTE: Tickets are sold at the door only \\($6\\). No online tickets are available for Juniors Lo-Fi games.",
-      "title": "Juniors Lo-Fi: Rainbow Bites vs. Undead Avengers",
-      "venue": {
-        "address": "7805 SE Oaks Park Way",
-        "city": "Portland",
-        "latitude": 45.4734382,
-        "longitude": -122.6628867,
-        "name": "Rose City Rollers"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-10-24T16:00:00-07:00",
@@ -37510,6 +37690,37 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-10-24T14:00:00-07:00",
+      "id": "willamette_week:20194107@2026-10-24T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b871fa66-04f9-48f7-be48-35aec4f32d3f.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/4572824332988921",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T12:00:00-07:00",
+      "summary": "Join us for the last garden work party of the year! We will be planting cover crops, planning an indigenous garden bed, and collecting seeds. This is the last work party that Yamhill SWCD is co-hosting, so now's your chance to engage with the garden, learn what it's all about, and invest yourself in its continued success. We hope to see you there!",
+      "title": "PCC Learning Garden Work Party",
+      "venue": {
+        "address": "135 Werth Blvd.",
+        "city": "Newberg",
+        "latitude": 45.300448,
+        "longitude": -122.939678,
+        "name": "PCC Newberg Center"
+      }
+    },
+    {
+      "categories": [
         "market"
       ],
       "end_at": "2026-10-24T17:00:00-07:00",
@@ -37537,6 +37748,36 @@
         "latitude": 45.52835,
         "longitude": -122.642947,
         "name": "Rae Loft"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "willamette_week:20202438@2026-10-24T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jlpG_hj-20W_QYvYcZO0hg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://rosecityrollers.com/schedule/juniors-lo-fi-rainbow-bites-vs-undead-avengers/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 6.0,
+        "min": 6.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T12:00:00-07:00",
+      "summary": "Juniors Lo-Fi Bout Undead Avengers vs. Rainbow Bites \\(Rosebuds: ages 7-17\\) Lo-Fi Bouts are a stripped-down, low-production roller derby experience! It's scrimmage-style vibes in a relaxed atmosphere, perfect for family and close friends. These games are more casual than our full production bouts, but they still count toward season rankings. The competition is real, even if the lights and spectacle are dialed back! Saturday, October 24th Doors at 12 PM | Game at 12:30 PM At the Hangar at Oaks Park PLEASE NOTE: Tickets are sold at the door only \\($6\\). No online tickets are available for Juniors Lo-Fi games.",
+      "title": "Juniors Lo-Fi: Rainbow Bites vs. Undead Avengers",
+      "venue": {
+        "address": "7805 SE Oaks Park Way",
+        "city": "Portland",
+        "latitude": 45.4734382,
+        "longitude": -122.6628867,
+        "name": "Rose City Rollers"
       }
     },
     {
@@ -39312,6 +39553,37 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-10-24T19:00:00-07:00",
+      "id": "willamette_week:20183867@2026-10-24T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MI_9Y4ojCEOwFpi5ZHGq3w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://wonderlovepdx.com/event-venue/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T17:00:00-07:00",
+      "summary": "Chano Tizon Band live at Wonderlove! FREE || ALL AGES || 5PM-7PM || OUTDOOR || 10/24",
+      "title": "Chano Tizon Band @ Wonderlove",
+      "venue": {
+        "address": "262 SE Main St",
+        "city": "Portland",
+        "latitude": 45.513423,
+        "longitude": -122.663157,
+        "name": "Wonderlove"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-10-24T18:00:00-07:00",
       "id": "willamette_week:20196576@2026-10-24T17:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2CwV3bH2nEShsbNQQPb1YA.large.jpg",
@@ -39366,37 +39638,6 @@
         "latitude": 45.51053261034869,
         "longitude": -122.68625725650317,
         "name": "Viking Pavilion"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-24T19:00:00-07:00",
-      "id": "willamette_week:20183867@2026-10-24T17:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MI_9Y4ojCEOwFpi5ZHGq3w.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://wonderlovepdx.com/event-venue/",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-24T17:00:00-07:00",
-      "summary": "Chano Tizon Band live at Wonderlove! FREE || ALL AGES || 5PM-7PM || OUTDOOR || 10/24",
-      "title": "Chano Tizon Band @ Wonderlove",
-      "venue": {
-        "address": "262 SE Main St",
-        "city": "Portland",
-        "latitude": 45.513423,
-        "longitude": -122.663157,
-        "name": "Wonderlove"
       }
     },
     {
@@ -53856,6 +54097,32 @@
       "categories": [
         "community"
       ],
+      "id": "willamette_week:19406981@2026-10-28T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kVvzjIZsOEunQX-z7zIA1w.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.cityofvancouver.us/government/calendar/#tab2",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-28T00:00:00-07:00",
+      "title": "Wednesday Wanders",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "id": "willamette_week:19595762@2026-10-28T00:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KRzsaacRqUeRujVK3EyU6A.large.png",
       "is_all_day": true,
@@ -55596,6 +55863,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-28T21:00:00-07:00",
+      "id": "willamette_week:20183857@2026-10-28T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TxGc8F5LOkq9-T_fzepUyQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://wonderlovepdx.com/event-venue/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-28T18:00:00-07:00",
+      "summary": "Show up early to sign up! Bring your own instrument. House guitar + mic provided. FREE || ALL AGES || 6:00PM-9:00PM || LOUNGE || EVERY WEDNESDAY",
+      "title": "Open Mic Night at Wonderlove",
+      "venue": {
+        "address": "262 SE Main St",
+        "city": "Portland",
+        "latitude": 45.513423,
+        "longitude": -122.663157,
+        "name": "Wonderlove"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-10-28T21:00:00-07:00",
@@ -55680,37 +55978,6 @@
         "latitude": 45.521175,
         "longitude": -123.113009,
         "name": "Forage Grove"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-28T21:00:00-07:00",
-      "id": "willamette_week:20183857@2026-10-28T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TxGc8F5LOkq9-T_fzepUyQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://wonderlovepdx.com/event-venue/",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-28T18:00:00-07:00",
-      "summary": "Show up early to sign up! Bring your own instrument. House guitar + mic provided. FREE || ALL AGES || 6:00PM-9:00PM || LOUNGE || EVERY WEDNESDAY",
-      "title": "Open Mic Night at Wonderlove",
-      "venue": {
-        "address": "262 SE Main St",
-        "city": "Portland",
-        "latitude": 45.513423,
-        "longitude": -122.663157,
-        "name": "Wonderlove"
       }
     },
     {
@@ -56084,6 +56351,37 @@
         "latitude": 45.5232258886,
         "longitude": -122.676378116,
         "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-28T19:30:00-07:00",
+      "id": "willamette_week:20183873@2026-10-28T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hN7FV_JLRkmEI5jLdSmOKg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://forestgrovecubscouts.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-28T18:30:00-07:00",
+      "summary": "75 years of Scouting with Pack 169! Start Scouting with a welcoming, family-focused pack. Scouts learn together thru adventures and community service projects, build core skills through fun activities. We welcome all youth. Pack 169 meets in Forest Grove at Holbrook Masonic Lodge \\#30, 2019 Main St, with hikes and outdoor activities on weekends. Webpage: forestgrovecubscouts.org Facebook: @fg.pack169 Instagram: @cubscoutspack169",
+      "title": "Cub Scouts Pack 169 Adventure Night",
+      "venue": {
+        "address": "2019 Main Street",
+        "city": "Forest Grove",
+        "latitude": 45.520255,
+        "longitude": -123.111797,
+        "name": "Holbrook Masonic Lodge #30"
       }
     },
     {
@@ -58702,6 +59000,35 @@
         "latitude": 45.62507,
         "longitude": -122.67451,
         "name": "Hilton Vancouver Washington"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-10-29T12:30:00-07:00",
+      "id": "willamette_week:20201171@2026-10-29T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rUYOJEhbikW9c6l1icnlbQ.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-29T12:00:00-07:00",
+      "title": "Silent Non-Partisan Prayer & Meditation For Our Country",
+      "venue": {
+        "address": "510 E First St (back entry by parking lot)",
+        "city": "Newberg",
+        "latitude": 45.300089,
+        "longitude": -122.974455,
+        "name": "Newberg Prayer Room"
       }
     },
     {
@@ -63622,6 +63949,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-30T20:00:00-07:00",
+      "id": "willamette_week:20204023@2026-10-30T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I5SUQ_sseEeaccm_W9h38A.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.instagram.com/p/Deh7bX1gQq9/?img_index=1",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-30T11:00:00-07:00",
+      "summary": "The killer artists at Broadway Ink are offering some bloody sharp tattoos this Halloween Weekend! To find artist rates and availability, visit the @broadwayink Instagram to find them, then message them directly to get in!",
+      "title": "Halloween Flash Tattoo Weekend",
+      "venue": {
+        "address": "1605 NE Broadway St.",
+        "city": "Portland",
+        "latitude": 45.535235,
+        "longitude": -122.649266,
+        "name": "Broadway Ink"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-30T13:00:00-07:00",
@@ -63864,35 +64220,6 @@
         "family"
       ],
       "end_at": "2026-10-30T12:00:00-07:00",
-      "id": "willamette_week:20131149@2026-10-30T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1171",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-30T11:15:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-30T12:00:00-07:00",
       "id": "willamette_week:20131153@2026-10-30T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
       "is_all_day": false,
@@ -63915,6 +64242,35 @@
         "latitude": 45.478934715870885,
         "longitude": -122.61206954232797,
         "name": "Woodstock Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-30T12:00:00-07:00",
+      "id": "willamette_week:20131149@2026-10-30T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1171",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-30T11:15:00-07:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -69913,6 +70269,66 @@
       "categories": [
         "food"
       ],
+      "end_at": "2026-10-31T18:00:00-07:00",
+      "id": "willamette_week:20202245@2026-10-31T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xp91nxhm6Uq8IWy0tdNaHA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://sidereuswinery.com/event/joeys-birthday-sidereus-winerys-beloved-dog-wicked-treats/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-31T11:00:00-07:00",
+      "summary": "Treats for Fur Babies, Treats for Humans—Only Until They Last… On Oct. 31, Sidereus Winery celebrates Joey’s birthday, our beloved winery dog, which is also on the spooky day of Halloween. Come by for a glass and pick up a special treat for your fur baby that you can take home or have your dog enjoy on-site. Please note that dogs are welcome on our deck and lawn areas—\\[only Joey can come in the Sidereus Tasting House\\]. For adults, join in the spirit of Halloween in costume with your friends. We’ll have treats for you too, while supplies last. Joey’s Story: A 4-pound Puff, the Smartest Dog, Best Friends Sidereus winery owners Skip and Ruth Tarr picked up Joey on Dec. 26, 2019 from a breeder in Scappoose, when he weighed only 4 pound. Since then, we think that Joey is the BEST and smartest dog in the whole world. Why? Ruth says that Joey is the smartest dog because after he learned more than 60 words, she quit counting. She elaborates that when she and Skip went through training with Joey, the trainer said that he was really training her and Skip, which explains how Joey started out knowing only his name and ‘sit,’ but his knowledge and vocabulary increased significantly after Ruth and Skip’s training was complete. Melissa, Sidereus wine tasting associate, also perfected Joey’s dance moves by teaching him how to ‘twirl.’ Joeys favorite things are steak, cauliflower, and playing with the ball and the water hose. His most favorite person is our winemaker Jason, who has Joey as a helper in winery production. Joey became an instant celebrity, made famous earlier this year when he was on-camera with Andy Carson of Good Day Oregon in a special feature that Andy led at Sidereus Winery last July. Joey is a small dog in stature. With all the coyotes in our vineyard are, he isn’t able to be outside by himself, as he thinks he’s a giant—but it’s really his heart that is big. He hasn’t found a human yet whom hasn’t become a friend.",
+      "title": "Wicked Treats for Dogs & Humans, Joey's Birthday at Sidereus Winery",
+      "venue": {
+        "address": "5195 SW Hergert Rd",
+        "city": "Cornelius",
+        "latitude": 45.48309,
+        "longitude": -123.0776,
+        "name": "Sidereus Winery"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-31T20:00:00-07:00",
+      "id": "willamette_week:20204023@2026-10-31T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I5SUQ_sseEeaccm_W9h38A.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.instagram.com/p/Deh7bX1gQq9/?img_index=1",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-31T11:00:00-07:00",
+      "summary": "The killer artists at Broadway Ink are offering some bloody sharp tattoos this Halloween Weekend! To find artist rates and availability, visit the @broadwayink Instagram to find them, then message them directly to get in!",
+      "title": "Halloween Flash Tattoo Weekend",
+      "venue": {
+        "address": "1605 NE Broadway St.",
+        "city": "Portland",
+        "latitude": 45.535235,
+        "longitude": -122.649266,
+        "name": "Broadway Ink"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
       "end_at": "2026-10-31T13:00:00-07:00",
       "id": "willamette_week:20175512@2026-10-31T11:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9hW2vPMtzka0gQjgq0NpjQ.large.png",
@@ -71249,6 +71665,37 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-31T18:00:00-07:00",
+      "id": "willamette_week:20197713@2026-10-31T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HzIe5YMLmUSfu40fQG8Ydg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://woodstockpdx.org/spooktacular",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-31T15:00:00-07:00",
+      "summary": "The Woodstock Community Business Association and Woodstock Neighborhood Association invite the community to a free Spooktacular Halloween celebration from 3 to 6 p.m., with three hubs along Woodstock Blvd. The Woodstock Community Center \\(5905 SE 43rd Ave.\\) hosts the revival of its neighborhood Halloween party, featuring a Bubble Wizard performance, dog costume contest and parade, baking competition, live music, face painting, crafts, games, prizes, refreshments, and photo props. The Trunk-or-Treat hub at the Homestead Schoolhouse \\(4121 SE Woodstock Blvd.\\) features balloon animals by Olive Rootbeer, with more trick-or-treating at 40\\+ participating businesses along Woodstock Blvd. New this year, the Spooky Art Market in the Key Bank parking lot \\(4600 SE Woodstock Blvd.\\), presented by Woodstock Arts Collective \\(@WoodstockArtsCollective\\), features 25 local artists and crafters selling handmade goods. Neighborhood bakers can enter the baking competition by signing up online and dropping off a homemade Halloween treat at the community center between 2:30 and 3:15 p.m. Guest judge Mehri of Mehri’s Cafe & Bakery \\(mehris.com\\) will select the winner, announced at 3:30 p.m. Learn more, view the Halloween Trail map, and sign up to participate or volunteer at woodstockpdx.org/spooktacular. Questions? Email spooktacular@woodstockpdx.org.",
+      "title": "Woodstock Spooktacular",
+      "venue": {
+        "address": "5905 SE 43rd Ave",
+        "city": "Portland",
+        "latitude": 45.479752,
+        "longitude": -122.618793,
+        "name": "Woodstock Community Center"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "id": "willamette_week:20179583@2026-10-31T15:00",
@@ -72158,6 +72605,38 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-10-31T20:00:00-07:00",
+      "id": "willamette_week:20202579@2026-10-31T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0VIdP52d9ESZ1lLBDr-W2g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://buytickets.at/notthatlateshow/2479746",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-31T18:00:00-07:00",
+      "summary": "Start your Halloween party with us at Voysey for their speakeasy opening! Comedian Jewels Fields, musical guest Toño and we even interview the Devil (Jess Kapinaris)! Sponsored by New Deal Distillery with fabulous drinks available at Voysey's beautiful speakeasy bar. Costumes encouraged!!! Start your bar hopping night in SE with us first!!!",
+      "ticket_url": "https://buytickets.at/notthatlateshow/2479746",
+      "title": "Not That Late Show Halloween Special",
+      "venue": {
+        "address": "710 SE 6th",
+        "city": "Portland",
+        "latitude": 45.517785,
+        "longitude": -122.659493,
+        "name": "Voysey"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-10-31T23:00:00-07:00",
       "id": "willamette_week:19957035@2026-10-31T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/onQPqBDIGEqvTZrOMFAa4w.large.png",
@@ -72211,38 +72690,6 @@
         "latitude": 45.5033352971,
         "longitude": -122.640119344,
         "name": "Clinton Street Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-31T20:00:00-07:00",
-      "id": "willamette_week:20202579@2026-10-31T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0VIdP52d9ESZ1lLBDr-W2g.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://buytickets.at/notthatlateshow/2479746",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 20.0,
-        "min": 20.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-31T18:00:00-07:00",
-      "summary": "Start your Halloween party with us at Voysey for their speakeasy opening! Comedian Jewels Fields, musical guest Toño and we even interview the Devil (Jess Kapinaris)! Sponsored by New Deal Distillery with fabulous drinks available at Voysey's beautiful speakeasy bar. Costumes encouraged!!! Start your bar hopping night in SE with us first!!!",
-      "ticket_url": "https://buytickets.at/notthatlateshow/2479746",
-      "title": "Not That Late Show Halloween Special",
-      "venue": {
-        "address": "710 SE 6th",
-        "city": "Portland",
-        "latitude": 45.517785,
-        "longitude": -122.659493,
-        "name": "Voysey"
       }
     },
     {
@@ -75204,6 +75651,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-01T20:00:00-08:00",
+      "id": "willamette_week:20204023@2026-11-01T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I5SUQ_sseEeaccm_W9h38A.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.instagram.com/p/Deh7bX1gQq9/?img_index=1",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-01T11:00:00-08:00",
+      "summary": "The killer artists at Broadway Ink are offering some bloody sharp tattoos this Halloween Weekend! To find artist rates and availability, visit the @broadwayink Instagram to find them, then message them directly to get in!",
+      "title": "Halloween Flash Tattoo Weekend",
+      "venue": {
+        "address": "1605 NE Broadway St.",
+        "city": "Portland",
+        "latitude": 45.535235,
+        "longitude": -122.649266,
+        "name": "Broadway Ink"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-11-01T13:00:00-08:00",
@@ -76458,37 +76934,6 @@
       "categories": [
         "music"
       ],
-      "id": "willamette_week:20066618@2026-11-01T15:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uzAQ1maVj0SN8Do5UxSk5Q.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.pacificu.edu/calendar/fall-symphonic-band-concert-city-trees-urban-and-natural-landscapes",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 11.0,
-        "min": 8.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-01T15:00:00-08:00",
-      "summary": "Under the direction of Dr. Abbie Brown, the Pacific University Symphonic Band will present its fall concert program, “City Trees: Urban and Natural Landscapes.” This concert program allows the ensemble and audience members to be in conversation about the way natural and urban landscapes interact with one another and features music that speaks to these two themes. The concert is presented in collaboration with the Pacific University Art Department as students in Drawing and Painting classes depict one piece in particular, Planet B by Catherine Likhuta. Other pieces on this program include Flaxen Tresses by James M. David, Shenandoah by Omar Thomas, and Under Pines and Stars by local Washington composer Megan Vinther. Ticket Prices: $11 general admission, $8 for seniors, military and non-Pacific students. Free for Pacific students, faculty and staff. Online ticket sales only.",
-      "ticket_url": "https://www.pacificu.edu/musictickets",
-      "title": "Pacific University Fall Symphonic Band Concert",
-      "venue": {
-        "address": "2043 College Way",
-        "city": "Forest Grove",
-        "latitude": 45.52448406084487,
-        "longitude": -123.1102807801869,
-        "name": "Pacific University"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "end_at": "2026-11-01T17:00:00-08:00",
       "id": "willamette_week:20202076@2026-11-01T15:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/C0SanwrXD0mH868n7lHU-g.large.jpg",
@@ -76514,6 +76959,37 @@
         "latitude": 45.512204,
         "longitude": -122.554814,
         "name": "Sunnyside Seventh-day Adventist Church"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20066618@2026-11-01T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uzAQ1maVj0SN8Do5UxSk5Q.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.pacificu.edu/calendar/fall-symphonic-band-concert-city-trees-urban-and-natural-landscapes",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 11.0,
+        "min": 8.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-01T15:00:00-08:00",
+      "summary": "Under the direction of Dr. Abbie Brown, the Pacific University Symphonic Band will present its fall concert program, “City Trees: Urban and Natural Landscapes.” This concert program allows the ensemble and audience members to be in conversation about the way natural and urban landscapes interact with one another and features music that speaks to these two themes. The concert is presented in collaboration with the Pacific University Art Department as students in Drawing and Painting classes depict one piece in particular, Planet B by Catherine Likhuta. Other pieces on this program include Flaxen Tresses by James M. David, Shenandoah by Omar Thomas, and Under Pines and Stars by local Washington composer Megan Vinther. Ticket Prices: $11 general admission, $8 for seniors, military and non-Pacific students. Free for Pacific students, faculty and staff. Online ticket sales only.",
+      "ticket_url": "https://www.pacificu.edu/musictickets",
+      "title": "Pacific University Fall Symphonic Band Concert",
+      "venue": {
+        "address": "2043 College Way",
+        "city": "Forest Grove",
+        "latitude": 45.52448406084487,
+        "longitude": -123.1102807801869,
+        "name": "Pacific University"
       }
     },
     {
@@ -76634,6 +77110,37 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20204330@2026-11-01T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rDlQC9oxNkOtWMFmJe01ow.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://worldforestry.org/event/bora-yoon-witchs-castle-soundwalk-meet-up/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-01T16:00:00-08:00",
+      "summary": "Meet at 4:00PM, Walk at 4:15PM, the walk is 1.5 mile total out-and-back hike. Plan to meet at Lower Macleay Park - 2960 NW Upshur St, Portland, OR 97210. Join Third Angle and World Forestry Center for an immersive All-Saints Day soundwalk to Witch’s Castle, featuring a spooky, site-specific soundscape created by local composer Bora Yoon. Grab your headphones, download the soundwalk, and join us under the bridge at Lower Macleay Park as we excavate memory, and bring to life place-based storytelling along the wooded path. Register through our website!",
+      "ticket_url": "https://thirdangle.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F61926%2Fstorefront%2F266948",
+      "title": "Bora Yoon Witch's Castle Soundwalk Meet-up",
+      "venue": {
+        "address": "2960 NW Upshur St",
+        "city": "Portland",
+        "latitude": 45.53589,
+        "longitude": -122.712764,
+        "name": "Lower Macleay Park"
       }
     },
     {
@@ -83453,6 +83960,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-04T21:00:00-08:00",
+      "id": "willamette_week:20183857@2026-11-04T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TxGc8F5LOkq9-T_fzepUyQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://wonderlovepdx.com/event-venue/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-04T18:00:00-08:00",
+      "summary": "Show up early to sign up! Bring your own instrument. House guitar + mic provided. FREE || ALL AGES || 6:00PM-9:00PM || LOUNGE || EVERY WEDNESDAY",
+      "title": "Open Mic Night at Wonderlove",
+      "venue": {
+        "address": "262 SE Main St",
+        "city": "Portland",
+        "latitude": 45.513423,
+        "longitude": -122.663157,
+        "name": "Wonderlove"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-11-04T21:00:00-08:00",
@@ -83506,37 +84044,6 @@
         "latitude": 45.521175,
         "longitude": -123.113009,
         "name": "Forage Grove"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-04T21:00:00-08:00",
-      "id": "willamette_week:20183857@2026-11-04T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TxGc8F5LOkq9-T_fzepUyQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://wonderlovepdx.com/event-venue/",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-04T18:00:00-08:00",
-      "summary": "Show up early to sign up! Bring your own instrument. House guitar + mic provided. FREE || ALL AGES || 6:00PM-9:00PM || LOUNGE || EVERY WEDNESDAY",
-      "title": "Open Mic Night at Wonderlove",
-      "venue": {
-        "address": "262 SE Main St",
-        "city": "Portland",
-        "latitude": 45.513423,
-        "longitude": -122.663157,
-        "name": "Wonderlove"
       }
     },
     {
@@ -86101,6 +86608,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-05T12:30:00-08:00",
+      "id": "willamette_week:20201171@2026-11-05T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rUYOJEhbikW9c6l1icnlbQ.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-05T12:00:00-08:00",
+      "title": "Silent Non-Partisan Prayer & Meditation For Our Country",
+      "venue": {
+        "address": "510 E First St (back entry by parking lot)",
+        "city": "Newberg",
+        "latitude": 45.300089,
+        "longitude": -122.974455,
+        "name": "Newberg Prayer Room"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-11-05T14:00:00-08:00",
@@ -87326,7 +87862,7 @@
       "ticket_url": "https://bridge-city-improv.stageworks.com/events/112twm7bkj1rr926",
       "title": "Bridge City Improv: Thursday Night Special",
       "venue": {
-        "address": "1924 SE Monroe St.",
+        "address": "1924 SE Monroe St",
         "city": "Milwaukie",
         "latitude": 45.44368,
         "longitude": -122.64171,
@@ -87514,35 +88050,6 @@
     },
     {
       "categories": [
-        "film"
-      ],
-      "end_at": "2026-11-05T21:00:00-08:00",
-      "id": "willamette_week:20197449@2026-11-05T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/idX744qiB0C_qeTK4DXTqA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://cstpdx.com/event/silents-on-16mm/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-05T19:00:00-08:00",
-      "summary": "Experience a selection of surreal silent films from the Nyback Archive, with accompanying musical curation. Presented by Ross Tidwell, this show will be an audio-visual feast! It features Man Ray, Léger’s Ballet Mécanique, and Duchamp’s rotoreliefs among other stunning and strange pieces of lesser-known film history. This is a companion piece to The Cabinet of Dr. Caligari on Friday, Nov. 6—enjoy both nights for only $15!",
-      "title": "Silents on 16mm",
-      "venue": {
-        "address": "2522 SE Clinton St",
-        "city": "Portland",
-        "latitude": 45.5033352971,
-        "longitude": -122.640119344,
-        "name": "Clinton Street Theater"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-11-06T00:00:00-08:00",
@@ -87571,6 +88078,35 @@
         "latitude": 45.513423,
         "longitude": -122.663157,
         "name": "Wonderlove"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-11-05T21:00:00-08:00",
+      "id": "willamette_week:20197449@2026-11-05T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/idX744qiB0C_qeTK4DXTqA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://cstpdx.com/event/silents-on-16mm/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-05T19:00:00-08:00",
+      "summary": "Experience a selection of surreal silent films from the Nyback Archive, with accompanying musical curation. Presented by Ross Tidwell, this show will be an audio-visual feast! It features Man Ray, Léger’s Ballet Mécanique, and Duchamp’s rotoreliefs among other stunning and strange pieces of lesser-known film history. This is a companion piece to The Cabinet of Dr. Caligari on Friday, Nov. 6—enjoy both nights for only $15!",
+      "title": "Silents on 16mm",
+      "venue": {
+        "address": "2522 SE Clinton St",
+        "city": "Portland",
+        "latitude": 45.5033352971,
+        "longitude": -122.640119344,
+        "name": "Clinton Street Theater"
       }
     },
     {
@@ -89949,35 +90485,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-11-06T11:15:00-08:00",
-      "id": "willamette_week:20131151@2026-11-06T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1208",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T10:30:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "17917 SE Stark Street",
-        "city": "Portland",
-        "latitude": 45.51951806199975,
-        "longitude": -122.47906864110425,
-        "name": "Rockwood Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-11-06T11:00:00-08:00",
       "id": "willamette_week:20131150@2026-11-06T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
@@ -90001,6 +90508,35 @@
         "latitude": 45.582817572658264,
         "longitude": -122.68645335011975,
         "name": "Kenton Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-06T11:15:00-08:00",
+      "id": "willamette_week:20131151@2026-11-06T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1208",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T10:30:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "17917 SE Stark Street",
+        "city": "Portland",
+        "latitude": 45.51951806199975,
+        "longitude": -122.47906864110425,
+        "name": "Rockwood Library"
       }
     },
     {
@@ -91215,6 +91751,36 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "end_at": "2026-11-06T18:00:00-08:00",
+      "id": "willamette_week:20202225@2026-11-06T16:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/537c48ba-5167-4ada-a27b-e862c64eddd9.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T16:30:00-08:00",
+      "summary": "We will be collecting these non-curbside, hard-to-recycle plastics. Only CLEAN & DRY items, please! We can't accept dirty items as we are charged extra for them. We also appreciate plastics being pre-sorted. CLEAR \\#1 plastics \\(clamshells, salad boxes, some cold drink cups\\) Plastics with the \\#2, \\#4, \\#5, or \\#6 \\(including tub lids, hot drink lids, tupperware, pill bottles less than 3\" tall, takeout containers, plant pots & more.\\) Also accepted: Plastic straws, utensils, plastic screw-on caps & carton spouts, bread clips, tape containers, hard cd & cassette cases The cost is $4 per full paper grocery bag. For less than a full bag, donations are appreciated. Also, we can collect all forms of Styrofoam for a charge of $10 per 45 gal. bag, with packing peanuts bagged separately. Plastics collected will be delivered by our group to \\Zero Waste McMinnville/James Recycling Project for their event on November 7th, and to other recycling services, like Recology, P3, Green Century, and RecycleOn. \\Please visit https://www.zerowastemcminnville.com/about-3 for a great video to help you identify and sort your plastics, and for more information about Zero Waste McMinnville's partnership with The Plastics Project.",
+      "title": "Newberg Plastics Recycling Event",
+      "venue": {
+        "address": "1205 Deborah Rd",
+        "city": "Newberg",
+        "latitude": 45.309027,
+        "longitude": -122.950963,
+        "name": "Newberg First United Methodist Church -front porch"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-11-06T17:30:00-08:00",
@@ -91666,6 +92232,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-06T21:00:00-08:00",
+      "id": "willamette_week:20183833@2026-11-06T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rBteikAu0kSfZiOJMXiIbw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T19:00:00-08:00",
+      "summary": "Join us for a night of live music in the Beacock Music Recital Hall! 76 Trombones Help us celebrate our 50th year in the music business! Join us for a tour down memory lane as we uncover songs from our founding year... 1976! Songs and stories woven together for an evening of entertainment and fun! Come a little early and enjoy a glass of wine before the show (21 and over)- included with your ticket! Ticket sales will help fund the Daryle Rustvold MusicForLife Scholarship Foundation, which provides music lessons and instruments to those needing some assistance to pursue music! Our fabulous singers will be joined by a live band. Directed by Tony Bump Starring: Kristen Johnson Doug Zimmerman Demarie Day Kimberly Dewey Thomas Lindsley Janet Lindsley Band John Thomas- Drums Donald Nelson- Sax and Clarinet Lori Ritchey- Piano Fiona Rice- French Horn Caelan Chan- Clarinet Deb Blakewood- Bass Gayle Beacock- Flute Showtimes: Friday, November 6th at 7:00pm Saturday, November 7th at 7:00pm Sunday, November 8th at 2:00pm Friday, November 13th at 7:00pm Saturday, November 14th at 7:00pm Sunday, November 15th at 2:00pm Ticketing Information: Once you place your order, you will receive an email order confirmation. Our staff will then process the order and email you a receipt. Either your email confirmation or emailed invoice will serve as your ticket to the show. Tickets must be purchased online ahead of showtime Seats are general admission Doors open 60 minutes prior to showtime 76 Trombones will be held in the Recital Hall at Beacock Music in Vancouver",
+      "ticket_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
+      "title": "76, Trombones: The Beginning! A Live Show with Live Music",
+      "venue": {
+        "address": "1420 SE 163rd Ave",
+        "city": "Vancouver",
+        "latitude": 45.61119,
+        "longitude": -122.506,
+        "name": "Beacock Music"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-11-06T21:00:00-08:00",
@@ -91723,38 +92321,6 @@
         "latitude": 45.44368,
         "longitude": -122.64171,
         "name": "Bridge City Improv"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-11-06T21:00:00-08:00",
-      "id": "willamette_week:20183833@2026-11-06T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rBteikAu0kSfZiOJMXiIbw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 25.0,
-        "min": 25.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T19:00:00-08:00",
-      "summary": "Join us for a night of live music in the Beacock Music Recital Hall! 76 Trombones Help us celebrate our 50th year in the music business! Join us for a tour down memory lane as we uncover songs from our founding year... 1976! Songs and stories woven together for an evening of entertainment and fun! Come a little early and enjoy a glass of wine before the show (21 and over)- included with your ticket! Ticket sales will help fund the Daryle Rustvold MusicForLife Scholarship Foundation, which provides music lessons and instruments to those needing some assistance to pursue music! Our fabulous singers will be joined by a live band. Directed by Tony Bump Starring: Kristen Johnson Doug Zimmerman Demarie Day Kimberly Dewey Thomas Lindsley Janet Lindsley Band John Thomas- Drums Donald Nelson- Sax and Clarinet Lori Ritchey- Piano Fiona Rice- French Horn Caelan Chan- Clarinet Deb Blakewood- Bass Gayle Beacock- Flute Showtimes: Friday, November 6th at 7:00pm Saturday, November 7th at 7:00pm Sunday, November 8th at 2:00pm Friday, November 13th at 7:00pm Saturday, November 14th at 7:00pm Sunday, November 15th at 2:00pm Ticketing Information: Once you place your order, you will receive an email order confirmation. Our staff will then process the order and email you a receipt. Either your email confirmation or emailed invoice will serve as your ticket to the show. Tickets must be purchased online ahead of showtime Seats are general admission Doors open 60 minutes prior to showtime 76 Trombones will be held in the Recital Hall at Beacock Music in Vancouver",
-      "ticket_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
-      "title": "76, Trombones: The Beginning! A Live Show with Live Music",
-      "venue": {
-        "address": "1420 SE 163rd Ave",
-        "city": "Vancouver",
-        "latitude": 45.61119,
-        "longitude": -122.506,
-        "name": "Beacock Music"
       }
     },
     {
@@ -94441,6 +95007,37 @@
       "categories": [
         "market"
       ],
+      "end_at": "2026-11-07T18:00:00-08:00",
+      "id": "willamette_week:20195450@2026-11-07T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TciPAV0dZUO3Pb55VNiO3A.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://facebook.com/events/s/annual-holiday-open-house-at-p/1110107795321518/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-07T10:00:00-08:00",
+      "summary": "✨🎄 Annual Holiday Open House at Pulp & Circumstance 🎄✨ It's our favorite day of the year - the day we kick off the holiday season with YOU! Join us Saturday, November 7th for our Annual Holiday Open House! New arrivals, thoughtful gifts, cozy finds, and all the things that make holiday shopping actually fun. Grab your favorite people and make a day of it! What to expect 🎉 Free goodie bag with any $40 purchase for the first 50 customers 🎰 Enter to win an overnight stay at the P&C vacation rental 🎊 Raffles \\+ surprises all day long 🛍️ Brand-new holiday arrivals \\+ seasonal treasures 🎁 Thoughtful gifts for everyone on your list 🏠 Cozy holiday decor \\+ finds for your home Saturday, November 7 10:00 AM – 6:00 PM Pulp & Circumstance 117 S College Street Downtown Newberg, OR 97132",
+      "title": "Pulp & Circumstance Holiday Open House",
+      "venue": {
+        "address": "117 S College St",
+        "city": "Newberg",
+        "latitude": 45.29964,
+        "longitude": -122.973125,
+        "name": "Pulp & Circumstance"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
       "end_at": "2026-11-07T20:00:00-08:00",
       "id": "willamette_week:20172219@2026-11-07T10:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/goY3KD9UsUK0R9CpEL2ELA.large.jpg",
@@ -95002,35 +95599,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "end_at": "2026-11-07T12:15:00-08:00",
-      "id": "willamette_week:20199386@2026-11-07T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c862b92b-ecc5-46a2-8da9-f9bd38ee9dce.large.png",
-      "is_all_day": false,
-      "listing_url": "https://literary-arts.org/event/speculative-fiction-writing-workshop/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-07T11:00:00-08:00",
-      "summary": "Facilitated by Déy Rivers Wanna play in alternate worlds? It’s challenging but glorious here! Join us for an Intro to Spec-Fic. Learn what is considered Speculative Fiction. Get ideas down using artwork as inspiration to explore spec-fic lines of thinking: “What if..”, “If only…” and “If this goes on…” Walk away with writing to possibly expand or refine later. Portland Book Festival youth writing workshops are recommended for ages 14\\+. Workshops are free to attend but require a festival wristband \\(free for youth\\) and registration in advance. Please register by purchasing a free ticket below.",
-      "title": "Quick-n-Dirty Spec Fic",
-      "venue": {
-        "address": "1237 SW 10th Ave",
-        "city": "Portland",
-        "latitude": 45.516346,
-        "longitude": -122.684461,
-        "name": "Rental Sales Gallery"
-      }
-    },
-    {
-      "categories": [
         "wellness"
       ],
       "end_at": "2026-11-07T15:00:00-08:00",
@@ -95058,6 +95626,35 @@
         "latitude": 45.530759,
         "longitude": -122.655557,
         "name": "DoubleTree Hilton"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-07T12:15:00-08:00",
+      "id": "willamette_week:20199386@2026-11-07T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c862b92b-ecc5-46a2-8da9-f9bd38ee9dce.large.png",
+      "is_all_day": false,
+      "listing_url": "https://literary-arts.org/event/speculative-fiction-writing-workshop/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-07T11:00:00-08:00",
+      "summary": "Facilitated by Déy Rivers Wanna play in alternate worlds? It’s challenging but glorious here! Join us for an Intro to Spec-Fic. Learn what is considered Speculative Fiction. Get ideas down using artwork as inspiration to explore spec-fic lines of thinking: “What if..”, “If only…” and “If this goes on…” Walk away with writing to possibly expand or refine later. Portland Book Festival youth writing workshops are recommended for ages 14\\+. Workshops are free to attend but require a festival wristband \\(free for youth\\) and registration in advance. Please register by purchasing a free ticket below.",
+      "title": "Quick-n-Dirty Spec Fic",
+      "venue": {
+        "address": "1237 SW 10th Ave",
+        "city": "Portland",
+        "latitude": 45.516346,
+        "longitude": -122.684461,
+        "name": "Rental Sales Gallery"
       }
     },
     {
@@ -95603,37 +96200,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "end_at": "2026-11-07T14:30:00-08:00",
-      "id": "willamette_week:20197376@2026-11-07T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1Wu4fFNzeUubvDHC6plmmw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.ohs.org/events/house-history-workshop.cfm",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-07T13:00:00-08:00",
-      "summary": "Join OHS Reference Librarian James Scott for a workshop on doing a formal house history. When was your home built? Who constructed and/or designed it? How, if at all, has it changed over time? Who's lived there? These are just a few of the many questions to be explored during this free class. From Sanborn maps to newspapers to photographs \\(both ground and aerial\\), Scott will speak to the many tools that OHS and the web can provide in building a full dossier of your home. Workshop capacity is 25 so make sure to RSVP to libreference@ohs.org libreference@ohs.org. The event will be held in the Reading Room in OHS's research library; please check in with a visitor experience associate at the admissions desk to be directed to the library, located on the fourth floor. The workshop will begin promptly at 1pm, so please arrive early to ensure a good seat and the benefit of a full workshop.",
-      "title": "House History Workshop",
-      "venue": {
-        "address": "1200 SW Park Ave",
-        "city": "Portland",
-        "latitude": 45.515911,
-        "longitude": -122.6846207,
-        "name": "Oregon Historical Society"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-11-07T14:15:00-08:00",
@@ -95662,6 +96228,37 @@
         "latitude": 45.558918,
         "longitude": -122.635276,
         "name": "T. C. O’Leary’s Irish Pub"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-07T14:30:00-08:00",
+      "id": "willamette_week:20197376@2026-11-07T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1Wu4fFNzeUubvDHC6plmmw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.ohs.org/events/house-history-workshop.cfm",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-07T13:00:00-08:00",
+      "summary": "Join OHS Reference Librarian James Scott for a workshop on doing a formal house history. When was your home built? Who constructed and/or designed it? How, if at all, has it changed over time? Who's lived there? These are just a few of the many questions to be explored during this free class. From Sanborn maps to newspapers to photographs \\(both ground and aerial\\), Scott will speak to the many tools that OHS and the web can provide in building a full dossier of your home. Workshop capacity is 25 so make sure to RSVP to libreference@ohs.org libreference@ohs.org. The event will be held in the Reading Room in OHS's research library; please check in with a visitor experience associate at the admissions desk to be directed to the library, located on the fourth floor. The workshop will begin promptly at 1pm, so please arrive early to ensure a good seat and the benefit of a full workshop.",
+      "title": "House History Workshop",
+      "venue": {
+        "address": "1200 SW Park Ave",
+        "city": "Portland",
+        "latitude": 45.515911,
+        "longitude": -122.6846207,
+        "name": "Oregon Historical Society"
       }
     },
     {
@@ -97325,6 +97922,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-07T21:00:00-08:00",
+      "id": "willamette_week:20183833@2026-11-07T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rBteikAu0kSfZiOJMXiIbw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-07T19:00:00-08:00",
+      "summary": "Join us for a night of live music in the Beacock Music Recital Hall! 76 Trombones Help us celebrate our 50th year in the music business! Join us for a tour down memory lane as we uncover songs from our founding year... 1976! Songs and stories woven together for an evening of entertainment and fun! Come a little early and enjoy a glass of wine before the show (21 and over)- included with your ticket! Ticket sales will help fund the Daryle Rustvold MusicForLife Scholarship Foundation, which provides music lessons and instruments to those needing some assistance to pursue music! Our fabulous singers will be joined by a live band. Directed by Tony Bump Starring: Kristen Johnson Doug Zimmerman Demarie Day Kimberly Dewey Thomas Lindsley Janet Lindsley Band John Thomas- Drums Donald Nelson- Sax and Clarinet Lori Ritchey- Piano Fiona Rice- French Horn Caelan Chan- Clarinet Deb Blakewood- Bass Gayle Beacock- Flute Showtimes: Friday, November 6th at 7:00pm Saturday, November 7th at 7:00pm Sunday, November 8th at 2:00pm Friday, November 13th at 7:00pm Saturday, November 14th at 7:00pm Sunday, November 15th at 2:00pm Ticketing Information: Once you place your order, you will receive an email order confirmation. Our staff will then process the order and email you a receipt. Either your email confirmation or emailed invoice will serve as your ticket to the show. Tickets must be purchased online ahead of showtime Seats are general admission Doors open 60 minutes prior to showtime 76 Trombones will be held in the Recital Hall at Beacock Music in Vancouver",
+      "ticket_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
+      "title": "76, Trombones: The Beginning! A Live Show with Live Music",
+      "venue": {
+        "address": "1420 SE 163rd Ave",
+        "city": "Vancouver",
+        "latitude": 45.61119,
+        "longitude": -122.506,
+        "name": "Beacock Music"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "id": "willamette_week:19604555@2026-11-07T19:00",
@@ -97409,38 +98038,6 @@
         "latitude": 45.51315,
         "longitude": -122.68357,
         "name": "Lincoln Recital Hall"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-11-07T21:00:00-08:00",
-      "id": "willamette_week:20183833@2026-11-07T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rBteikAu0kSfZiOJMXiIbw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 25.0,
-        "min": 25.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-07T19:00:00-08:00",
-      "summary": "Join us for a night of live music in the Beacock Music Recital Hall! 76 Trombones Help us celebrate our 50th year in the music business! Join us for a tour down memory lane as we uncover songs from our founding year... 1976! Songs and stories woven together for an evening of entertainment and fun! Come a little early and enjoy a glass of wine before the show (21 and over)- included with your ticket! Ticket sales will help fund the Daryle Rustvold MusicForLife Scholarship Foundation, which provides music lessons and instruments to those needing some assistance to pursue music! Our fabulous singers will be joined by a live band. Directed by Tony Bump Starring: Kristen Johnson Doug Zimmerman Demarie Day Kimberly Dewey Thomas Lindsley Janet Lindsley Band John Thomas- Drums Donald Nelson- Sax and Clarinet Lori Ritchey- Piano Fiona Rice- French Horn Caelan Chan- Clarinet Deb Blakewood- Bass Gayle Beacock- Flute Showtimes: Friday, November 6th at 7:00pm Saturday, November 7th at 7:00pm Sunday, November 8th at 2:00pm Friday, November 13th at 7:00pm Saturday, November 14th at 7:00pm Sunday, November 15th at 2:00pm Ticketing Information: Once you place your order, you will receive an email order confirmation. Our staff will then process the order and email you a receipt. Either your email confirmation or emailed invoice will serve as your ticket to the show. Tickets must be purchased online ahead of showtime Seats are general admission Doors open 60 minutes prior to showtime 76 Trombones will be held in the Recital Hall at Beacock Music in Vancouver",
-      "ticket_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
-      "title": "76, Trombones: The Beginning! A Live Show with Live Music",
-      "venue": {
-        "address": "1420 SE 163rd Ave",
-        "city": "Vancouver",
-        "latitude": 45.61119,
-        "longitude": -122.506,
-        "name": "Beacock Music"
       }
     },
     {
@@ -100105,6 +100702,38 @@
     },
     {
       "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-11-08T14:30:00-08:00",
+      "id": "willamette_week:20197313@2026-11-08T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tJTlmyOaQEK_9wACTaEGGw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.breathingroomcollective.com/book#/course/buy/18121/r/1417/loc/1528",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 45.0,
+        "min": 20.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-08T13:00:00-08:00",
+      "summary": "Rainbow Exhale: A Queer & Trans Sound Journey There is something powerful about being able to exhale in a space where you know you are welcome. Rainbow Exhale is a queer and trans-centered sound journey created for LGBTQIA+ community members and allies. The experience begins with a guided EFT meditation, followed by progressive muscle relaxation to help release tension and settle into the present moment. From there, the session opens into a carefully composed sound bath using crystal singing bowls and other gentle acoustic instruments. Each sound and instrument is chosen intentionally, with the session unfolding through a progression of tones, textures, rhythms, and silence. The experience offers space for deep rest, reflection, and restoration, with time to slow down, listen, and notice what arises. No experience with EFT, meditation, or sound healing is necessary. Whether you're deeply familiar with these practices or trying them for the first time, you're invited to get comfortable and let yourself be guided through the experience. Led by Charlie Sebastian Short, a queer, BIPOC, and neurodivergent sound healing practitioner and professional musician, Rainbow Exhale is a trauma-aware space created with LGBTQIA+ community members in mind. Allies are warmly welcome. While many items are available to borrow, feel free to bring any comfort items, such as a favorite pillow, squishmallow, eye mask, or anything else that helps you get comfortable... then give yourself some room to breathe. This is a pay-what-you-can (PWYC)/sliding scale event. How to use PWYC discount codes: Choose the discount code that best supports you in your current circumstances and enter it during the registration process to receive the discount. If you have the means, you may choose to support the studio and your host at full price by not using a discount code. PWYC5 = $5 off PWYC10 = $10 off PWYC15 = $15 off PWYC20 = $20 off PWYC25 = $25 off",
+      "ticket_url": "https://www.breathingroomcollective.com/book#/course/buy/18121/r/1417/loc/1528",
+      "title": "Pay What You Can: Rainbow Exhale | EFT Meditation+Sound Journey w/Charlie",
+      "venue": {
+        "address": "5291 Northeast Elam Young Parkway #130",
+        "city": "Hillsboro",
+        "latitude": 45.527475,
+        "longitude": -122.931774,
+        "name": "Breathing Room Yoga + Wellness Studio"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-11-08T15:00:00-08:00",
@@ -100186,38 +100815,6 @@
         "latitude": 45.505419,
         "longitude": -122.615366,
         "name": "L'Echelle"
-      }
-    },
-    {
-      "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-11-08T14:30:00-08:00",
-      "id": "willamette_week:20197313@2026-11-08T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tJTlmyOaQEK_9wACTaEGGw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.breathingroomcollective.com/book#/course/buy/18121/r/1417/loc/1528",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 45.0,
-        "min": 20.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-08T13:00:00-08:00",
-      "summary": "Rainbow Exhale: A Queer & Trans Sound Journey There is something powerful about being able to exhale in a space where you know you are welcome. Rainbow Exhale is a queer and trans-centered sound journey created for LGBTQIA+ community members and allies. The experience begins with a guided EFT meditation, followed by progressive muscle relaxation to help release tension and settle into the present moment. From there, the session opens into a carefully composed sound bath using crystal singing bowls and other gentle acoustic instruments. Each sound and instrument is chosen intentionally, with the session unfolding through a progression of tones, textures, rhythms, and silence. The experience offers space for deep rest, reflection, and restoration, with time to slow down, listen, and notice what arises. No experience with EFT, meditation, or sound healing is necessary. Whether you're deeply familiar with these practices or trying them for the first time, you're invited to get comfortable and let yourself be guided through the experience. Led by Charlie Sebastian Short, a queer, BIPOC, and neurodivergent sound healing practitioner and professional musician, Rainbow Exhale is a trauma-aware space created with LGBTQIA+ community members in mind. Allies are warmly welcome. While many items are available to borrow, feel free to bring any comfort items, such as a favorite pillow, squishmallow, eye mask, or anything else that helps you get comfortable... then give yourself some room to breathe. This is a pay-what-you-can (PWYC)/sliding scale event. How to use PWYC discount codes: Choose the discount code that best supports you in your current circumstances and enter it during the registration process to receive the discount. If you have the means, you may choose to support the studio and your host at full price by not using a discount code. PWYC5 = $5 off PWYC10 = $10 off PWYC15 = $15 off PWYC20 = $20 off PWYC25 = $25 off",
-      "ticket_url": "https://www.breathingroomcollective.com/book#/course/buy/18121/r/1417/loc/1528",
-      "title": "Pay What You Can: Rainbow Exhale | EFT Meditation+Sound Journey w/Charlie",
-      "venue": {
-        "address": "5291 Northeast Elam Young Parkway #130",
-        "city": "Hillsboro",
-        "latitude": 45.527475,
-        "longitude": -122.931774,
-        "name": "Breathing Room Yoga + Wellness Studio"
       }
     },
     {
@@ -101463,6 +102060,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-08T19:00:00-08:00",
+      "id": "willamette_week:20183277@2026-11-08T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YXGBA3bCf02DGWddcUjO2A.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.jttrawick.com/back-porch-sessions-live-at-leisure",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-08T17:00:00-08:00",
+      "summary": "JT’s Back Porch Sessions at Leisure JT & the Mudbugs are getting together for three Sunday afternoons at Leisure Public House as they prepare to record a new batch of songs later this year. These aren’t quite concerts and they aren’t quite rehearsals. They’re a chance to hear the band try out new songs, experiment with arrangements of old favorites, and discover which songs have the magic to make the next record. And the audience gets a say. Come listen, respond, and help JT & the Mudbugs decide which five or six songs should make the recording. The core band features JT on guitar and vocals, Frankie Hernandez on drums, Ray Man on bass, and Andy Emmert on fiddle, with a different special guest joining the band each Sunday. November 8: special guest TBA November 15: featuring Pacific Northwest mandolin legend Spud Siegel November 22: special guest TBA Sundays, November 8, 15 & 22 5–7 PM Leisure Public House 8002 N Lombard St Portland, OR 97203 Suggested cover: $10. No one will be turned away for lack of funds. Come be part of the process and help us make the record.",
+      "title": "JT's Back Porch Sessions",
+      "venue": {
+        "address": "8002 N Lombard",
+        "city": "Portland",
+        "latitude": 45.58909,
+        "longitude": -122.748262,
+        "name": "Leisure Public House"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-11-08T19:00:00-08:00",
@@ -101517,37 +102145,6 @@
         "latitude": 45.5212202668,
         "longitude": -122.6807206124,
         "name": "Literary Arts"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-08T19:00:00-08:00",
-      "id": "willamette_week:20183277@2026-11-08T17:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YXGBA3bCf02DGWddcUjO2A.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.jttrawick.com/back-porch-sessions-live-at-leisure",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-08T17:00:00-08:00",
-      "summary": "JT’s Back Porch Sessions at Leisure JT & the Mudbugs are getting together for three Sunday afternoons at Leisure Public House as they prepare to record a new batch of songs later this year. These aren’t quite concerts and they aren’t quite rehearsals. They’re a chance to hear the band try out new songs, experiment with arrangements of old favorites, and discover which songs have the magic to make the next record. And the audience gets a say. Come listen, respond, and help JT & the Mudbugs decide which five or six songs should make the recording. The core band features JT on guitar and vocals, Frankie Hernandez on drums, Ray Man on bass, and Andy Emmert on fiddle, with a different special guest joining the band each Sunday. November 8: special guest TBA November 15: featuring Pacific Northwest mandolin legend Spud Siegel November 22: special guest TBA Sundays, November 8, 15 & 22 5–7 PM Leisure Public House 8002 N Lombard St Portland, OR 97203 Suggested cover: $10. No one will be turned away for lack of funds. Come be part of the process and help us make the record.",
-      "title": "JT's Back Porch Sessions",
-      "venue": {
-        "address": "8002 N Lombard",
-        "city": "Portland",
-        "latitude": 45.58909,
-        "longitude": -122.748262,
-        "name": "Leisure Public House"
       }
     },
     {
@@ -109055,6 +109652,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-11T21:00:00-08:00",
+      "id": "willamette_week:20183857@2026-11-11T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TxGc8F5LOkq9-T_fzepUyQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://wonderlovepdx.com/event-venue/",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-11T18:00:00-08:00",
+      "summary": "Show up early to sign up! Bring your own instrument. House guitar + mic provided. FREE || ALL AGES || 6:00PM-9:00PM || LOUNGE || EVERY WEDNESDAY",
+      "title": "Open Mic Night at Wonderlove",
+      "venue": {
+        "address": "262 SE Main St",
+        "city": "Portland",
+        "latitude": 45.513423,
+        "longitude": -122.663157,
+        "name": "Wonderlove"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-11-11T21:00:00-08:00",
@@ -109140,37 +109768,6 @@
         "latitude": 45.521175,
         "longitude": -123.113009,
         "name": "Forage Grove"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-11T21:00:00-08:00",
-      "id": "willamette_week:20183857@2026-11-11T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TxGc8F5LOkq9-T_fzepUyQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://wonderlovepdx.com/event-venue/",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-11T18:00:00-08:00",
-      "summary": "Show up early to sign up! Bring your own instrument. House guitar + mic provided. FREE || ALL AGES || 6:00PM-9:00PM || LOUNGE || EVERY WEDNESDAY",
-      "title": "Open Mic Night at Wonderlove",
-      "venue": {
-        "address": "262 SE Main St",
-        "city": "Portland",
-        "latitude": 45.513423,
-        "longitude": -122.663157,
-        "name": "Wonderlove"
       }
     },
     {
@@ -111477,6 +112074,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-12T12:30:00-08:00",
+      "id": "willamette_week:20201171@2026-11-12T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rUYOJEhbikW9c6l1icnlbQ.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-12T12:00:00-08:00",
+      "title": "Silent Non-Partisan Prayer & Meditation For Our Country",
+      "venue": {
+        "address": "510 E First St (back entry by parking lot)",
+        "city": "Newberg",
+        "latitude": 45.300089,
+        "longitude": -122.974455,
+        "name": "Newberg Prayer Room"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-11-12T14:00:00-08:00",
@@ -112883,7 +113509,7 @@
       "ticket_url": "https://bridge-city-improv.stageworks.com/events/112twm7bkj1rr926",
       "title": "Bridge City Improv: Thursday Night Special",
       "venue": {
-        "address": "1924 SE Monroe St.",
+        "address": "1924 SE Monroe St",
         "city": "Milwaukie",
         "latitude": 45.44368,
         "longitude": -122.64171,
@@ -113008,6 +113634,38 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "end_at": "2026-11-12T20:30:00-08:00",
+      "id": "willamette_week:20194693@2026-11-12T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/n7ly2aGF80msyDUMtO2mfQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://queernourish.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-12T19:00:00-08:00",
+      "summary": "We're getting into historic gay business! Join me for a talk that explores the lives, loves, and drama of our gay ancestors. No salacious stone will be left unturned. You’ll defend (or disparage) the reputation of gay men of yesteryear by voting KISS, MARRY, or DIVORCE. Be gay and have fun! See you there.",
+      "ticket_url": "https://buytickets.at/queernourish/2466740",
+      "title": "Gay Drama",
+      "venue": {
+        "address": "1400 SE Morrison St",
+        "city": "Portland",
+        "latitude": 45.517046,
+        "longitude": -122.651421,
+        "name": "Peacock PDX"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-11-12T21:00:00-08:00",
@@ -113090,38 +113748,6 @@
         "latitude": 45.50474058972204,
         "longitude": -122.6275816386394,
         "name": "PAM CUT's Tomorrow Theater"
-      }
-    },
-    {
-      "categories": [
-        "literary"
-      ],
-      "end_at": "2026-11-12T20:30:00-08:00",
-      "id": "willamette_week:20194693@2026-11-12T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/n7ly2aGF80msyDUMtO2mfQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://queernourish.com/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 10.0,
-        "min": 5.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-12T19:00:00-08:00",
-      "summary": "We're getting into historic gay business! Join me for a talk that explores the lives, loves, and drama of our gay ancestors. No salacious stone will be left unturned. You’ll defend (or disparage) the reputation of gay men of yesteryear by voting KISS, MARRY, or DIVORCE. Be gay and have fun! See you there.",
-      "ticket_url": "https://buytickets.at/queernourish/2466740",
-      "title": "Gay Drama",
-      "venue": {
-        "address": "1400 SE Morrison St",
-        "city": "Portland",
-        "latitude": 45.517046,
-        "longitude": -122.651421,
-        "name": "Peacock PDX"
       }
     },
     {
@@ -115073,35 +115699,6 @@
         "family"
       ],
       "end_at": "2026-11-13T11:00:00-08:00",
-      "id": "willamette_week:20131149@2026-11-13T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1094",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T10:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-13T11:00:00-08:00",
       "id": "willamette_week:20131148@2026-11-13T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
       "is_all_day": false,
@@ -115124,6 +115721,35 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-13T11:00:00-08:00",
+      "id": "willamette_week:20131149@2026-11-13T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1094",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T10:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -115188,35 +115814,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-11-13T11:00:00-08:00",
-      "id": "willamette_week:20131150@2026-11-13T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1041",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T10:30:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-11-13T11:15:00-08:00",
       "id": "willamette_week:20131151@2026-11-13T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
@@ -115240,6 +115837,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-13T11:00:00-08:00",
+      "id": "willamette_week:20131150@2026-11-13T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1041",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T10:30:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -115451,35 +116077,6 @@
         "family"
       ],
       "end_at": "2026-11-13T12:00:00-08:00",
-      "id": "willamette_week:20131153@2026-11-13T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1133",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "6008 SE 49th Avenue",
-        "city": "Portland",
-        "latitude": 45.478934715870885,
-        "longitude": -122.61206954232797,
-        "name": "Woodstock Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-13T12:00:00-08:00",
       "id": "willamette_week:20131149@2026-11-13T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -115502,6 +116099,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-13T12:00:00-08:00",
+      "id": "willamette_week:20131153@2026-11-13T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1133",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "6008 SE 49th Avenue",
+        "city": "Portland",
+        "latitude": 45.478934715870885,
+        "longitude": -122.61206954232797,
+        "name": "Woodstock Library"
       }
     },
     {
@@ -116717,6 +117343,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-13T21:00:00-08:00",
+      "id": "willamette_week:20183833@2026-11-13T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rBteikAu0kSfZiOJMXiIbw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T19:00:00-08:00",
+      "summary": "Join us for a night of live music in the Beacock Music Recital Hall! 76 Trombones Help us celebrate our 50th year in the music business! Join us for a tour down memory lane as we uncover songs from our founding year... 1976! Songs and stories woven together for an evening of entertainment and fun! Come a little early and enjoy a glass of wine before the show (21 and over)- included with your ticket! Ticket sales will help fund the Daryle Rustvold MusicForLife Scholarship Foundation, which provides music lessons and instruments to those needing some assistance to pursue music! Our fabulous singers will be joined by a live band. Directed by Tony Bump Starring: Kristen Johnson Doug Zimmerman Demarie Day Kimberly Dewey Thomas Lindsley Janet Lindsley Band John Thomas- Drums Donald Nelson- Sax and Clarinet Lori Ritchey- Piano Fiona Rice- French Horn Caelan Chan- Clarinet Deb Blakewood- Bass Gayle Beacock- Flute Showtimes: Friday, November 6th at 7:00pm Saturday, November 7th at 7:00pm Sunday, November 8th at 2:00pm Friday, November 13th at 7:00pm Saturday, November 14th at 7:00pm Sunday, November 15th at 2:00pm Ticketing Information: Once you place your order, you will receive an email order confirmation. Our staff will then process the order and email you a receipt. Either your email confirmation or emailed invoice will serve as your ticket to the show. Tickets must be purchased online ahead of showtime Seats are general admission Doors open 60 minutes prior to showtime 76 Trombones will be held in the Recital Hall at Beacock Music in Vancouver",
+      "ticket_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
+      "title": "76, Trombones: The Beginning! A Live Show with Live Music",
+      "venue": {
+        "address": "1420 SE 163rd Ave",
+        "city": "Vancouver",
+        "latitude": 45.61119,
+        "longitude": -122.506,
+        "name": "Beacock Music"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-11-13T23:00:00-08:00",
@@ -116805,38 +117463,6 @@
         "latitude": 45.44368,
         "longitude": -122.64171,
         "name": "Bridge City Improv"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-11-13T21:00:00-08:00",
-      "id": "willamette_week:20183833@2026-11-13T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rBteikAu0kSfZiOJMXiIbw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 25.0,
-        "min": 25.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T19:00:00-08:00",
-      "summary": "Join us for a night of live music in the Beacock Music Recital Hall! 76 Trombones Help us celebrate our 50th year in the music business! Join us for a tour down memory lane as we uncover songs from our founding year... 1976! Songs and stories woven together for an evening of entertainment and fun! Come a little early and enjoy a glass of wine before the show (21 and over)- included with your ticket! Ticket sales will help fund the Daryle Rustvold MusicForLife Scholarship Foundation, which provides music lessons and instruments to those needing some assistance to pursue music! Our fabulous singers will be joined by a live band. Directed by Tony Bump Starring: Kristen Johnson Doug Zimmerman Demarie Day Kimberly Dewey Thomas Lindsley Janet Lindsley Band John Thomas- Drums Donald Nelson- Sax and Clarinet Lori Ritchey- Piano Fiona Rice- French Horn Caelan Chan- Clarinet Deb Blakewood- Bass Gayle Beacock- Flute Showtimes: Friday, November 6th at 7:00pm Saturday, November 7th at 7:00pm Sunday, November 8th at 2:00pm Friday, November 13th at 7:00pm Saturday, November 14th at 7:00pm Sunday, November 15th at 2:00pm Ticketing Information: Once you place your order, you will receive an email order confirmation. Our staff will then process the order and email you a receipt. Either your email confirmation or emailed invoice will serve as your ticket to the show. Tickets must be purchased online ahead of showtime Seats are general admission Doors open 60 minutes prior to showtime 76 Trombones will be held in the Recital Hall at Beacock Music in Vancouver",
-      "ticket_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
-      "title": "76, Trombones: The Beginning! A Live Show with Live Music",
-      "venue": {
-        "address": "1420 SE 163rd Ave",
-        "city": "Vancouver",
-        "latitude": 45.61119,
-        "longitude": -122.506,
-        "name": "Beacock Music"
       }
     },
     {
@@ -120707,6 +121333,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-14T14:15:00-08:00",
+      "id": "willamette_week:20196428@2026-11-14T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LYpHPzOrekqJq8Mm6aq6Og.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://shanganatheatre.org/the-smuggler/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 38.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-14T13:00:00-08:00",
+      "summary": "Shangana Theatre and T. C. O’Leary’s Lunchtime Theatre present The Smuggler by Ronán Noone directed by Gemma Whelan ~ featuring Tom O’Leary at T. C. O’Leary’s Irish Pub Tom O'Leary: Tom O’Leary is well known to Irish TV audiences for his six-year portrayal of Dr Brendan Daly in Ireland’s award-winning series Fair City. Additional TV and film credits include Bitter Sweet, When the Sky Falls, and Killinaskully. Dublin theatre credits include Decadence (Michael MacLiamoir Award for outstanding achievement in performance), Proof, Accidental Death of an Anarchist, and Di Di’s Big Day. In New York City, Tom was nominated for the Best Actor award for his role in Ron Hutchinson’s play Rat in the Skull and also appeared in Steven Berkoff’s Lunch. In Los Angeles, he played Valene in Martin McDonagh’s Lonesome West.",
+      "ticket_url": "https://events.humanitix.com/the-smuggler",
+      "title": "The Smuggler",
+      "venue": {
+        "address": "2926 NE Alberta St",
+        "city": "Portland",
+        "latitude": 45.558918,
+        "longitude": -122.635276,
+        "name": "T. C. O’Leary’s Irish Pub"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-11-14T14:00:00-08:00",
@@ -120767,38 +121425,6 @@
         "latitude": 45.527475,
         "longitude": -122.931774,
         "name": "Breathing Room Yoga + Wellness Studio"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-11-14T14:15:00-08:00",
-      "id": "willamette_week:20196428@2026-11-14T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LYpHPzOrekqJq8Mm6aq6Og.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://shanganatheatre.org/the-smuggler/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 38.0,
-        "min": 5.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-14T13:00:00-08:00",
-      "summary": "Shangana Theatre and T. C. O’Leary’s Lunchtime Theatre present The Smuggler by Ronán Noone directed by Gemma Whelan ~ featuring Tom O’Leary at T. C. O’Leary’s Irish Pub Tom O'Leary: Tom O’Leary is well known to Irish TV audiences for his six-year portrayal of Dr Brendan Daly in Ireland’s award-winning series Fair City. Additional TV and film credits include Bitter Sweet, When the Sky Falls, and Killinaskully. Dublin theatre credits include Decadence (Michael MacLiamoir Award for outstanding achievement in performance), Proof, Accidental Death of an Anarchist, and Di Di’s Big Day. In New York City, Tom was nominated for the Best Actor award for his role in Ron Hutchinson’s play Rat in the Skull and also appeared in Steven Berkoff’s Lunch. In Los Angeles, he played Valene in Martin McDonagh’s Lonesome West.",
-      "ticket_url": "https://events.humanitix.com/the-smuggler",
-      "title": "The Smuggler",
-      "venue": {
-        "address": "2926 NE Alberta St",
-        "city": "Portland",
-        "latitude": 45.558918,
-        "longitude": -122.635276,
-        "name": "T. C. O’Leary’s Irish Pub"
       }
     },
     {
@@ -122287,6 +122913,38 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-14T23:00:00-08:00",
+      "id": "willamette_week:20197673@2026-11-14T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QXU23bLXhkOZfwOHV5hfXQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://umbraenoctisfestival.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 275.0,
+        "min": 35.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-14T19:00:00-08:00",
+      "summary": "Knowing that there is beauty to be found in the shadows of the night, Natasha Riot, the producer of the monthly show Burlynomicon, called the coven together to create a weekend long festival to celebrate all things dark and decadent and on the fringes...and thus the Umbrae Noctis Festival was born. Now in our 3rd year, you will find gloriously ghoulish drag and burlesque performances that will transfix your senses all weekend, all set to the feelings and sounds of darkwave, post-punk, goth, deathrock and punk. Artists from all walks of life and from all parts of the world will gather to share their beauty with you, including 2026 Saturday night headliner throb zombie with performances that will leave you breathless. This Darkly Decadent Burlesque Festival will be held over a 3 day span: - Friday and Saturday, November 13 & 14 at The Coffin \\(421 SE Grand Ave\\) - performances from 8pm-11pm each night \\(doors at 7\\), with after party and dancing TIL 2 AM.​ - Sunday, November 15 we will hold a Dark Market at THE COFFIN​ - Saturday & Sunday you will have the opportunity to take workshops with our special guests, including our headliner Throb Zombie! BEHOLD the Saturday night cast.... Arlo Arcana | Baby LeStrange | Chris Griandher | Guy Praxis | Kat Van Dayum | Lady Drew Blood | Lou Velvet | Maggie McMuffin | Morningstar Darkling | Rosa Robada | Sabina England | Sailor St. Claire | Halo as Hell - feature | Throb Zombie - headliner | Megz Madrone - co-producer | Obscura Fox - co-producer",
+      "ticket_url": "https://tickets.venuepilot.com/e/umbrae-noctis-festival-saturday-2026-11-14-the-coffin-portland-be0f25",
+      "title": "Umbrae Noctis Festival - SATURDAY THE 14TH",
+      "venue": {
+        "address": "421 SE Grand Ave",
+        "city": "Portland",
+        "latitude": 45.51996,
+        "longitude": -122.66093,
+        "name": "The Coffin"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-11-14T20:30:00-08:00",
@@ -122315,6 +122973,38 @@
         "latitude": 45.527475,
         "longitude": -122.931774,
         "name": "Breathing Room Yoga + Wellness Studio"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-14T21:00:00-08:00",
+      "id": "willamette_week:20183833@2026-11-14T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rBteikAu0kSfZiOJMXiIbw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-14T19:00:00-08:00",
+      "summary": "Join us for a night of live music in the Beacock Music Recital Hall! 76 Trombones Help us celebrate our 50th year in the music business! Join us for a tour down memory lane as we uncover songs from our founding year... 1976! Songs and stories woven together for an evening of entertainment and fun! Come a little early and enjoy a glass of wine before the show (21 and over)- included with your ticket! Ticket sales will help fund the Daryle Rustvold MusicForLife Scholarship Foundation, which provides music lessons and instruments to those needing some assistance to pursue music! Our fabulous singers will be joined by a live band. Directed by Tony Bump Starring: Kristen Johnson Doug Zimmerman Demarie Day Kimberly Dewey Thomas Lindsley Janet Lindsley Band John Thomas- Drums Donald Nelson- Sax and Clarinet Lori Ritchey- Piano Fiona Rice- French Horn Caelan Chan- Clarinet Deb Blakewood- Bass Gayle Beacock- Flute Showtimes: Friday, November 6th at 7:00pm Saturday, November 7th at 7:00pm Sunday, November 8th at 2:00pm Friday, November 13th at 7:00pm Saturday, November 14th at 7:00pm Sunday, November 15th at 2:00pm Ticketing Information: Once you place your order, you will receive an email order confirmation. Our staff will then process the order and email you a receipt. Either your email confirmation or emailed invoice will serve as your ticket to the show. Tickets must be purchased online ahead of showtime Seats are general admission Doors open 60 minutes prior to showtime 76 Trombones will be held in the Recital Hall at Beacock Music in Vancouver",
+      "ticket_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
+      "title": "76, Trombones: The Beginning! A Live Show with Live Music",
+      "venue": {
+        "address": "1420 SE 163rd Ave",
+        "city": "Vancouver",
+        "latitude": 45.61119,
+        "longitude": -122.506,
+        "name": "Beacock Music"
       }
     },
     {
@@ -122375,38 +123065,6 @@
         "latitude": 45.50474058972204,
         "longitude": -122.6275816386394,
         "name": "PAM CUT's Tomorrow Theater"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-11-14T21:00:00-08:00",
-      "id": "willamette_week:20183833@2026-11-14T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rBteikAu0kSfZiOJMXiIbw.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 25.0,
-        "min": 25.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-14T19:00:00-08:00",
-      "summary": "Join us for a night of live music in the Beacock Music Recital Hall! 76 Trombones Help us celebrate our 50th year in the music business! Join us for a tour down memory lane as we uncover songs from our founding year... 1976! Songs and stories woven together for an evening of entertainment and fun! Come a little early and enjoy a glass of wine before the show (21 and over)- included with your ticket! Ticket sales will help fund the Daryle Rustvold MusicForLife Scholarship Foundation, which provides music lessons and instruments to those needing some assistance to pursue music! Our fabulous singers will be joined by a live band. Directed by Tony Bump Starring: Kristen Johnson Doug Zimmerman Demarie Day Kimberly Dewey Thomas Lindsley Janet Lindsley Band John Thomas- Drums Donald Nelson- Sax and Clarinet Lori Ritchey- Piano Fiona Rice- French Horn Caelan Chan- Clarinet Deb Blakewood- Bass Gayle Beacock- Flute Showtimes: Friday, November 6th at 7:00pm Saturday, November 7th at 7:00pm Sunday, November 8th at 2:00pm Friday, November 13th at 7:00pm Saturday, November 14th at 7:00pm Sunday, November 15th at 2:00pm Ticketing Information: Once you place your order, you will receive an email order confirmation. Our staff will then process the order and email you a receipt. Either your email confirmation or emailed invoice will serve as your ticket to the show. Tickets must be purchased online ahead of showtime Seats are general admission Doors open 60 minutes prior to showtime 76 Trombones will be held in the Recital Hall at Beacock Music in Vancouver",
-      "ticket_url": "https://www.beacockmusic.com/p-76651-76-trombones-the-beginning-a-live-show-with-live-music.aspx",
-      "title": "76, Trombones: The Beginning! A Live Show with Live Music",
-      "venue": {
-        "address": "1420 SE 163rd Ave",
-        "city": "Vancouver",
-        "latitude": 45.61119,
-        "longitude": -122.506,
-        "name": "Beacock Music"
       }
     },
     {
@@ -128788,7 +129446,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-17T13:46:51+00:00",
+  "generated_at": "2026-10-17T17:16:06+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
