@@ -937,6 +937,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19736095@2026-10-21T19:00",
+      "kept": "dopdx:17611165",
+      "start_at": "2026-10-21T19:30:00-07:00",
+      "title_dropped": "The Neon Room at Helium: Giulio Gallarotti",
+      "title_kept": "Heather Shaw",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:19736094@2026-10-21T19:30",
       "kept": "dopdx:17611165",
       "start_at": "2026-10-21T19:30:00-07:00",
@@ -5169,6 +5177,14 @@
       "venue": "Kickstand Comedy"
     },
     {
+      "dropped": "willamette_week:19736094@2026-11-13T19:00",
+      "kept": "dopdx:17564698",
+      "start_at": "2026-11-13T19:30:00-08:00",
+      "title_dropped": "Special Event: Heather Shaw",
+      "title_kept": "The Neon Room at Helium: Lee Syatt",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "dopdx:17413671",
       "kept": "ticketmaster:rZ7HnEZ1Af0UaS",
       "start_at": "2026-11-13T19:30:00-08:00",
@@ -5407,6 +5423,14 @@
       "title_dropped": "Umbrae Noctis Festival - SATURDAY THE 14TH",
       "title_kept": "Umbrae Noctis Festival - SATURDAY THE 14TH",
       "venue": "The Coffin"
+    },
+    {
+      "dropped": "willamette_week:19736094@2026-11-14T19:00",
+      "kept": "dopdx:17564700",
+      "start_at": "2026-11-14T19:30:00-08:00",
+      "title_dropped": "Special Event: Heather Shaw",
+      "title_kept": "The Neon Room at Helium: Lee Syatt",
+      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "willamette_week:19586940@2026-11-14T19:00",
@@ -6113,9 +6137,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6301,
-  "floor_check": "6301 events against a 6306-event baseline",
-  "generated_at": "2026-10-18T14:31:54+00:00",
+  "event_count": 6306,
+  "floor_check": "6306 events against a 6304-event baseline",
+  "generated_at": "2026-10-18T14:39:41+00:00",
   "problems": [],
   "sources": [
     "calagator",
