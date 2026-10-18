@@ -600,96 +600,6 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:Z7r9jZ1A7J633",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J633",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-17T22:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J633",
-      "title": "Marie Vaunt - Ages 21+",
-      "venue": {
-        "address": "315 SE 3rd Ave",
-        "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "45 East"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfZ-q0",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021764",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 23.15,
-        "min": 23.15
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-17T22:30:00-07:00",
-      "summary": "Join us at the Jack London for the latest edition of our late-night cabaret spectacular, hosted by the Mad Marquis and featuring some of the finest dancers from the Rose City and beyond. Treat yourself to a sensational evening of sultry and exotic delights, liberally spiced with old-fashioned spontaneous fun! The show starts after the evenings musical performance.",
-      "ticket_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021764",
-      "title": "BURLY-Q REVUE",
-      "venue": {
-        "address": "529 SW 4th Ave.",
-        "city": "Portland",
-        "latitude": 45.519452,
-        "longitude": -122.676291,
-        "name": "Jack London Revue"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfvKZV",
-      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14053034",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 1.05,
-        "min": 1.05
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-17T23:30:00-07:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14053034",
-      "title": "SMASH disco~glam~metal~punk-hiphop",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "id": "willamette_week:19725144@2026-10-18T00:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HWmjcVJx1E2y-YaNui_3Lg.large.jpg",
       "is_all_day": false,
@@ -155198,6 +155108,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1Afv3P0",
+      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14052964",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.05,
+        "min": 1.05
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-14T23:30:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14052964",
+      "title": "SMASH disco~glam~metal~punk-hiphop",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "id": "willamette_week:20174464@2026-11-15T00:00",
@@ -187076,5 +187017,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-18T06:38:34+00:00"
+  "generated_at": "2026-10-18T09:33:37+00:00"
 }
