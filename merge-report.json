@@ -5161,6 +5161,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:20212698@2026-11-13T19:30",
+      "kept": "dopdx:17869530",
+      "start_at": "2026-11-13T19:30:00-08:00",
+      "title_dropped": "Love, Shakespeare",
+      "title_kept": "Love, Shakespeare at Echo Theater",
+      "venue": "Echo Theater"
+    },
+    {
       "dropped": "dopdx:17413671",
       "kept": "ticketmaster:rZ7HnEZ1Af0UaS",
       "start_at": "2026-11-13T19:30:00-08:00",
@@ -6113,9 +6121,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6307,
-  "floor_check": "6307 events against a 6306-event baseline",
-  "generated_at": "2026-10-18T20:38:17+00:00",
+  "event_count": 6309,
+  "floor_check": "6309 events against a 6307-event baseline",
+  "generated_at": "2026-10-18T20:51:38+00:00",
   "problems": [],
   "sources": [
     "calagator",
