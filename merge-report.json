@@ -2545,6 +2545,14 @@
       "venue": "Roseland Theater"
     },
     {
+      "dropped": "willamette_week:20210061@2026-10-29T19:00",
+      "kept": "dopdx:17544262",
+      "start_at": "2026-10-29T19:00:00-07:00",
+      "title_dropped": "Dapperlesque: Villain Era - A Gender Bending Burlesque Cabaret",
+      "title_kept": "Dapperlesque: Villain Era – a Gender-Bending Burlesque Cabaret",
+      "venue": "The Alberta Rose Theatre"
+    },
+    {
       "dropped": "dopdx:17724953",
       "kept": "ticketmaster:vvG1HZ_83jmFBA",
       "start_at": "2026-10-29T19:00:00-07:00",
@@ -6105,9 +6113,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6293,
-  "floor_check": "6293 events against a 6584-event baseline",
-  "generated_at": "2026-10-18T05:47:54+00:00",
+  "event_count": 6306,
+  "floor_check": "6306 events against a 6584-event baseline",
+  "generated_at": "2026-10-18T06:00:33+00:00",
   "problems": [],
   "sources": [
     "calagator",
