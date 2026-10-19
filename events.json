@@ -97,54 +97,6 @@
     },
     {
       "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:mushroom-hike-2026-10-18",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-10-18",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-18T09:30:00-07:00",
-      "title": "Mushroom hike",
-      "venue": {
-        "city": "Portland",
-        "name": "Chehalem Ridge Nature Park"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:reimagining-birding-waterfowl-2026-10-18",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/reimagining-birding-waterfowl-2026-10-18",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-18T10:00:00-07:00",
-      "title": "Reimagining birding: waterfowl",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.64373,
-        "longitude": -122.81564,
-        "name": "Howell Territorial Park"
-      }
-    },
-    {
-      "categories": [
         "market",
         "food"
       ],
@@ -269,29 +221,6 @@
         "latitude": 45.6261,
         "longitude": -122.67574,
         "name": "Vancouver Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:mushroom-hike-2026-10-18-0",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-10-18-0",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-18T12:30:00-07:00",
-      "title": "Mushroom hike",
-      "venue": {
-        "city": "Portland",
-        "name": "Chehalem Ridge Nature Park"
       }
     },
     {
@@ -21304,35 +21233,6 @@
         "family"
       ],
       "end_at": "2026-10-23T11:00:00-07:00",
-      "id": "willamette_week:20131149@2026-10-23T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1091",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-23T10:15:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-23T11:00:00-07:00",
       "id": "willamette_week:20131148@2026-10-23T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
       "is_all_day": false,
@@ -21355,6 +21255,35 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-23T11:00:00-07:00",
+      "id": "willamette_week:20131149@2026-10-23T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1091",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T10:15:00-07:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -21448,35 +21377,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-10-23T11:00:00-07:00",
-      "id": "willamette_week:20131150@2026-10-23T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1038",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-23T10:30:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-10-23T11:15:00-07:00",
       "id": "willamette_week:20131151@2026-10-23T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
@@ -21500,6 +21400,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-23T11:00:00-07:00",
+      "id": "willamette_week:20131150@2026-10-23T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1038",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T10:30:00-07:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -21858,35 +21787,6 @@
         "family"
       ],
       "end_at": "2026-10-23T12:00:00-07:00",
-      "id": "willamette_week:20131153@2026-10-23T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1130",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-23T11:15:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "6008 SE 49th Avenue",
-        "city": "Portland",
-        "latitude": 45.478934715870885,
-        "longitude": -122.61206954232797,
-        "name": "Woodstock Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-23T12:00:00-07:00",
       "id": "willamette_week:20131149@2026-10-23T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -21909,6 +21809,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-23T12:00:00-07:00",
+      "id": "willamette_week:20131153@2026-10-23T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1130",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T11:15:00-07:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "6008 SE 49th Avenue",
+        "city": "Portland",
+        "latitude": 45.478934715870885,
+        "longitude": -122.61206954232797,
+        "name": "Woodstock Library"
       }
     },
     {
@@ -65862,35 +65791,6 @@
         "family"
       ],
       "end_at": "2026-10-30T11:00:00-07:00",
-      "id": "willamette_week:19802123@2026-10-30T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LOPLVSPyQEeyOuHV1ekTVg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-costume-storytime-3",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-30T10:15:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) join us for a special Costume Toddler Storytime! Wear a costume and we'll enjoy a shortened storytime then a parade around the library. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Costume Storytime",
-      "venue": {
-        "address": "205 NE Russell Street",
-        "city": "Portland",
-        "latitude": 45.54121794278324,
-        "longitude": -122.66326099447758,
-        "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-30T11:00:00-07:00",
       "id": "willamette_week:20131149@2026-10-30T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -65913,6 +65813,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-30T11:00:00-07:00",
+      "id": "willamette_week:19802123@2026-10-30T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LOPLVSPyQEeyOuHV1ekTVg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-costume-storytime-3",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-30T10:15:00-07:00",
+      "summary": "Toddlers \\(with a favorite adult\\) join us for a special Costume Toddler Storytime! Wear a costume and we'll enjoy a shortened storytime then a parade around the library. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Costume Storytime",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -65977,35 +65906,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-10-30T11:15:00-07:00",
-      "id": "willamette_week:20131151@2026-10-30T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1207",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-30T10:30:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "17917 SE Stark Street",
-        "city": "Portland",
-        "latitude": 45.51951806199975,
-        "longitude": -122.47906864110425,
-        "name": "Rockwood Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-10-30T11:00:00-07:00",
       "id": "willamette_week:20131150@2026-10-30T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
@@ -66029,6 +65929,35 @@
         "latitude": 45.582817572658264,
         "longitude": -122.68645335011975,
         "name": "Kenton Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-30T11:15:00-07:00",
+      "id": "willamette_week:20131151@2026-10-30T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1207",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-30T10:30:00-07:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "17917 SE Stark Street",
+        "city": "Portland",
+        "latitude": 45.51951806199975,
+        "longitude": -122.47906864110425,
+        "name": "Rockwood Library"
       }
     },
     {
@@ -66361,35 +66290,6 @@
         "family"
       ],
       "end_at": "2026-10-30T12:00:00-07:00",
-      "id": "willamette_week:20131153@2026-10-30T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1131",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-30T11:15:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "6008 SE 49th Avenue",
-        "city": "Portland",
-        "latitude": 45.478934715870885,
-        "longitude": -122.61206954232797,
-        "name": "Woodstock Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-30T12:00:00-07:00",
       "id": "willamette_week:20131149@2026-10-30T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -66412,6 +66312,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-30T12:00:00-07:00",
+      "id": "willamette_week:20131153@2026-10-30T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1131",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-30T11:15:00-07:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "6008 SE 49th Avenue",
+        "city": "Portland",
+        "latitude": 45.478934715870885,
+        "longitude": -122.61206954232797,
+        "name": "Woodstock Library"
       }
     },
     {
@@ -94452,6 +94381,10 @@
       "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketweb.com/event/madam-coopers-country-cabaret-showdown-saloon-tickets/14330084",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -94838,6 +94771,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:17181175@2026-11-04T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mHopsR1QB0Co7_pggE_xQg.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fmadam-coopers-country-cabaret-showdown-saloon-tickets%252F14330084%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-04T21:00:00-08:00",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fmadam-coopers-country-cabaret-showdown-saloon-tickets%252F14330084%26utm_medium%3daffiliate",
+      "title": "Madam Cooper's Country Cabaret",
+      "venue": {
+        "address": "1223 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.501092,
+        "longitude": -122.652817,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-11-01T21:00:00-08:00",
@@ -94863,34 +94824,6 @@
         "latitude": 45.508437953549475,
         "longitude": -122.66602451429013,
         "name": "OMSI"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:17181175@2026-11-04T21:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mHopsR1QB0Co7_pggE_xQg.large.png",
-      "is_all_day": false,
-      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fmadam-coopers-country-cabaret-showdown-saloon-tickets%252F14330084%26utm_medium%3daffiliate",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-04T21:00:00-08:00",
-      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fmadam-coopers-country-cabaret-showdown-saloon-tickets%252F14330084%26utm_medium%3daffiliate",
-      "title": "Madam Cooper's Country Cabaret",
-      "venue": {
-        "address": "1223 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.501092,
-        "longitude": -122.652817,
-        "name": "Showdown Saloon"
       }
     },
     {
@@ -101651,35 +101584,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-11-06T11:00:00-08:00",
-      "id": "willamette_week:20131150@2026-11-06T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1040",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T10:30:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-11-06T11:15:00-08:00",
       "id": "willamette_week:20131151@2026-11-06T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
@@ -101703,6 +101607,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-06T11:00:00-08:00",
+      "id": "willamette_week:20131150@2026-11-06T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1040",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T10:30:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -103493,6 +103426,34 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20219404@2026-11-06T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UJF2KfKQ8E2JoH1AVkTNhQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://thereser.org/events/the-curio-artist-reception/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T18:00:00-08:00",
+      "summary": "The Curio | Exhibition & Sale, a collaboration between The Reser and City of Beaverton celebrates the creativity and diversity of regional Northwest artists and craftspeople. Whether looking for a gift or a unique work of art to adorn your home or office, The Curio features dozens of artists in this exhibition and sale. Forging connections between artists and the broader community, The Curio provides the perfect setting to discover creativity during the giving season. Join us as we celebrate the fourth year of our tradition at our Artist Reception Friday, November 6th from 6 - 9 pm. Spotlighting the creative works of nearly 40 local and regional artists, guests will have an opportunity to browse a collection of unique works of art, functional and decorative wares, and numerous wearable pieces. IMAGE: Justine Vanderpool",
+      "title": "The Curio Artist Reception",
+      "venue": {
+        "address": "12625 SW Crescent St",
+        "city": "Beaverton",
+        "latitude": 45.4913146584866,
+        "longitude": -122.8071339999992,
+        "name": "Patricia Reser Center for the Arts"
       }
     },
     {
@@ -135737,35 +135698,6 @@
         "family"
       ],
       "end_at": "2026-11-13T11:00:00-08:00",
-      "id": "willamette_week:20131149@2026-11-13T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1094",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T10:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-13T11:00:00-08:00",
       "id": "willamette_week:20131148@2026-11-13T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
       "is_all_day": false,
@@ -135788,6 +135720,35 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-13T11:00:00-08:00",
+      "id": "willamette_week:20131149@2026-11-13T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1094",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T10:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -136138,35 +136099,6 @@
         "family"
       ],
       "end_at": "2026-11-13T12:00:00-08:00",
-      "id": "willamette_week:20131153@2026-11-13T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1133",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "6008 SE 49th Avenue",
-        "city": "Portland",
-        "latitude": 45.478934715870885,
-        "longitude": -122.61206954232797,
-        "name": "Woodstock Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-13T12:00:00-08:00",
       "id": "willamette_week:20131149@2026-11-13T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -136189,6 +136121,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-13T12:00:00-08:00",
+      "id": "willamette_week:20131153@2026-11-13T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1133",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "6008 SE 49th Avenue",
+        "city": "Portland",
+        "latitude": 45.478934715870885,
+        "longitude": -122.61206954232797,
+        "name": "Woodstock Library"
       }
     },
     {
@@ -148147,6 +148108,10 @@
       "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14052964",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -183565,5 +183530,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-19T15:01:45+00:00"
+  "generated_at": "2026-10-19T15:51:16+00:00"
 }

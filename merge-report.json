@@ -3489,6 +3489,14 @@
       "venue": "Roseland Theater"
     },
     {
+      "dropped": "willamette_week:17181175@2026-11-04T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfGYe7",
+      "start_at": "2026-11-04T20:00:00-08:00",
+      "title_dropped": "Madam Cooper's Country Cabaret",
+      "title_kept": "Madam Cooper's Country Cabaret",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "dopdx:17830354",
       "kept": "ticketmaster:vvG1HZ_3JuYAJ0",
       "start_at": "2026-11-04T20:00:00-08:00",
@@ -5801,6 +5809,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:18893389@2026-11-14T23:30",
+      "kept": "ticketmaster:rZ7HnEZ1Afv3P0",
+      "start_at": "2026-11-14T23:30:00-08:00",
+      "title_dropped": "SMASH disco~glam~metal~punk-hiphop",
+      "title_kept": "SMASH disco~glam~metal~punk-hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19758609@2026-11-18T19:00",
       "kept": "ticketmaster:rZ7HnEZ1Af1aj0",
       "start_at": "2026-11-18T19:00:00-08:00",
@@ -5881,9 +5897,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6194,
-  "floor_check": "6194 events against a 6199-event baseline",
-  "generated_at": "2026-10-19T15:01:45+00:00",
+  "event_count": 6192,
+  "floor_check": "6192 events against a 6199-event baseline",
+  "generated_at": "2026-10-19T15:51:16+00:00",
   "problems": [],
   "sources": [
     "calagator",
