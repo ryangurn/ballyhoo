@@ -2425,6 +2425,14 @@
       "venue": "DoubleTree by Hilton Hotel Portland"
     },
     {
+      "dropped": "willamette_week:19412366@2026-10-30T14:00",
+      "kept": "dopdx:17968272",
+      "start_at": "2026-10-30T14:00:00-07:00",
+      "title_dropped": "Beaverton: IN PERSON Parkinson's Sing-Along",
+      "title_kept": "Beaverton: IN PERSON Parkinson's Sing-Along",
+      "venue": "Parkinson's Resources of Oregon"
+    },
+    {
       "dropped": "willamette_week:19638949@2026-10-30T16:00",
       "kept": "dopdx:17789310",
       "start_at": "2026-10-30T16:00:00-07:00",
@@ -2711,6 +2719,14 @@
       "title_dropped": "Tragic Circus",
       "title_kept": "Tragic Circus Presented by Monte and Marin & Rare Company. Featuring Hana the Clown",
       "venue": "Alberta Street Pub"
+    },
+    {
+      "dropped": "willamette_week:20089244@2026-10-30T21:30",
+      "kept": "dopdx:17968254",
+      "start_at": "2026-10-30T21:30:00-07:00",
+      "title_dropped": "For The Birds Sketch Show",
+      "title_kept": "Hilarious-ween! A Halloween Sketch Comedy Show",
+      "venue": "21ten Theatre"
     },
     {
       "dropped": "dopdx:17611174",
@@ -3833,12 +3849,28 @@
       "venue": "Funhouse Lounge"
     },
     {
+      "dropped": "willamette_week:18760049@2026-11-07T09:00",
+      "kept": "portland_farmers_market:psu-farmers-market-2026-2@2026-11-07",
+      "start_at": "2026-11-07T09:00:00-08:00",
+      "title_dropped": "PSU Farmers Market",
+      "title_kept": "PSU Farmers Market",
+      "venue": "PSU Farmers Market"
+    },
+    {
       "dropped": "willamette_week:20021393@2026-11-07T13:30",
       "kept": "dopdx:17888052",
       "start_at": "2026-11-07T13:30:00-08:00",
       "title_dropped": "Guide Dogs for the Blind Graduation Celebration",
       "title_kept": "Guide Dog Team Graduation Ceremonies Melt Hearts At Oregon Campus",
       "venue": "Guide Dogs for the Blind"
+    },
+    {
+      "dropped": "willamette_week:20097919@2026-11-07T16:00",
+      "kept": "ticketmaster:Z7r9jZ1AAeaQf",
+      "start_at": "2026-11-07T16:00:00-08:00",
+      "title_dropped": "SAW: The Musical",
+      "title_kept": "SAW: The Musical (Touring)",
+      "venue": "Alberta Abbey"
     },
     {
       "dropped": "dopdx:17612617",
@@ -5593,14 +5625,6 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
-      "dropped": "willamette_week:18760049@2026-11-07T09:00",
-      "kept": "portland_farmers_market:psu-farmers-market-2026-2@2026-11-07",
-      "start_at": "2026-11-07T09:00:00-08:00",
-      "title_dropped": "PSU Farmers Market",
-      "title_kept": "PSU Farmers Market",
-      "venue": "PSU Farmers Market"
-    },
-    {
       "dropped": "willamette_week:17670892@2026-11-08T09:00",
       "kept": "neighborhood_markets:hillsdale@2026-11-08",
       "start_at": "2026-11-08T09:00:00-08:00",
@@ -5793,14 +5817,6 @@
       "venue": "Dante's"
     },
     {
-      "dropped": "willamette_week:20097919@2026-11-07T16:00",
-      "kept": "ticketmaster:Z7r9jZ1AAeaQf",
-      "start_at": "2026-11-07T16:00:00-08:00",
-      "title_dropped": "SAW: The Musical",
-      "title_kept": "SAW: The Musical (Touring)",
-      "venue": "Alberta Abbey"
-    },
-    {
       "dropped": "willamette_week:18893389@2026-11-07T23:30",
       "kept": "ticketmaster:rZ7HnEZ1Afv3-V",
       "start_at": "2026-11-07T23:30:00-08:00",
@@ -5897,9 +5913,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6192,
-  "floor_check": "6192 events against a 6199-event baseline",
-  "generated_at": "2026-10-19T17:43:30+00:00",
+  "event_count": 6207,
+  "floor_check": "6207 events against a 6198-event baseline",
+  "generated_at": "2026-10-19T17:46:31+00:00",
   "problems": [],
   "sources": [
     "calagator",
