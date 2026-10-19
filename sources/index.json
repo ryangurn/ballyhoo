@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:48:02+00:00",
+  "generated_at": "2026-10-19T14:16:27+00:00",
   "sources": [
     {
       "event_count": 27,
@@ -45,16 +45,16 @@
     },
     {
       "event_count": 16,
-      "last_run_at": "2026-10-19T05:35:08+00:00",
+      "last_run_at": "2026-10-19T14:15:39+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
       "event_count": 118,
       "last_run_at": "2026-10-19T07:56:08+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
@@ -89,7 +89,7 @@
       "event_count": 4131,
       "last_run_at": "2026-10-19T07:52:01+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
