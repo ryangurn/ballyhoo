@@ -5553,6 +5553,22 @@
       "venue": "Revolution Hall"
     },
     {
+      "dropped": "willamette_week:20215301@2026-11-17T20:00",
+      "kept": "dopdx:17698012",
+      "start_at": "2026-11-17T20:15:00-08:00",
+      "title_dropped": "The Neon Room at Helium: Luis Juarez",
+      "title_kept": "MC Hammersmith",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:20215302@2026-11-17T20:15",
+      "kept": "dopdx:17698012",
+      "start_at": "2026-11-17T20:15:00-08:00",
+      "title_dropped": "Special Event: MC Hammersmith",
+      "title_kept": "MC Hammersmith",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:19449698@2026-11-17T20:00",
       "kept": "ticketmaster:rZ7HnEZ1Afa9b7",
       "start_at": "2026-11-17T20:00:00-08:00",
@@ -5865,9 +5881,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6191,
-  "floor_check": "6191 events against a 6243-event baseline",
-  "generated_at": "2026-10-19T07:41:20+00:00",
+  "event_count": 6200,
+  "floor_check": "6200 events against a 6202-event baseline",
+  "generated_at": "2026-10-19T07:53:24+00:00",
   "problems": [],
   "sources": [
     "calagator",
