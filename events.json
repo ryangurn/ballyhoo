@@ -1141,33 +1141,27 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:rZ7HnEZ1AfuzFV",
-      "image_url": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_LANDSCAPE_16_9.jpg",
+      "id": "willamette_week:20197475@2026-10-19T12:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2xUfPC_m4EiLMi36Uce98A.large.png",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/julia-wolf-947-star-theater-tickets/14378234",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fjulia-wolf-947-star-theater-tickets%252F14378234%26utm_medium%3daffiliate",
       "price": {
         "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
+        "is_free": false
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-19T12:30:00-07:00",
-      "ticket_url": "https://www.ticketweb.com/event/julia-wolf-947-star-theater-tickets/14378234",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fjulia-wolf-947-star-theater-tickets%252F14378234%26utm_medium%3daffiliate",
       "title": "JULIA WOLF - 94/7 ELYSIAN BREWING SPACE DUST SESSIONS",
       "venue": {
-        "address": "13 NW Sixth Avenue",
+        "address": "13 NW 6th Ave",
         "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
+        "latitude": 45.5233726501,
+        "longitude": -122.6767425537,
         "name": "Star Theater"
       }
     },
@@ -13052,6 +13046,40 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-10-22T02:00:00-07:00",
+      "id": "dopdx:17666116",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1785352031/event-17666116.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/21/stratos-with-brandonlee-cierley-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 237.39,
+        "min": 31.39
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-21T20:00:00-07:00",
+      "summary": "Stratøs with Brandonlee CierleySould Out Presents: Strats with Brandonlee CierleyDoors: 7:00pmShow: 8:00pmAges 21+https://www.facebook.com/thestratosensembleJLR Seating Map Notes: For this show, you may reserve individual tables on the map pictured. Note that some tables have limited sightlines as noted. General Admission ticket holders note that seating and sightlines are limted and may be standing room only. All table reservations include admission.Instructions: For Table Reservations: Note the relative location of the stage and bar on the map. Then click a table number to see prices, or click Show All Tickets. Click the + button to add a specific table to your cart. For General Admission tickets: click the GA Standing area. Click the + bu",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fstrats-with-brandonlee-cierley-jack-london-revue-tickets%252F14997423%26utm_medium%3daffiliate",
+      "title": "Stratøs with Brandonlee Cierley",
+      "venue": {
+        "address": "529 SW 4th Ave",
+        "city": "Portland",
+        "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-10-22T01:00:00-07:00",
       "id": "dopdx:17719175",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1786591534/event-17719175.jpg",
@@ -13077,42 +13105,6 @@
         "latitude": 45.5124236,
         "longitude": -122.6483752,
         "name": "No Fun"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-10-22T02:00:00-07:00",
-      "id": "ticketmaster:rZ7HnEZ1AfJ98N",
-      "image_url": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/strats-with-brandonlee-cierley-jack-london-revue-tickets/14997423",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 206.49,
-        "min": 26.24
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-21T20:00:00-07:00",
-      "summary": "Stratøs with Brandonlee CierleySoul'd Out Presents: Stratøs with Brandonlee Cierley Doors: 7:00pm Show: 8:00pm Ages 21+ https://www.facebook.com/stratosnolastname/ Michigan-born Stratøs is a saxophonist, composer, producer, photographer, and cinematographer whose presence in the Los Angeles scene is rapidly growing. Having embraced the melodies of the Cool School early in his development, Stratøs now leaves behind a unique sonic imprint as an artist. His affinity for analog textures is felt not only in his music, but his photography. By combining the two, he's created an entire ecosystem brimming with life. Stratøs is a three-time winner of the Herb Alpert Young Jazz Composer Award from 2019-2021. Additionally, he was awarded the ASCAP Foundation's Johnny Mandel Prize as well as being selected as a National Sawdust New Works Commission Contest winner. JLR Seating Map Notes: For this show, you may reserve individual tables on the map pictured. Note that some tables have limited sightlines as noted. General Admission ticket holders note that seating and sightlines are limted and may be standing room only. All table reservations include admission. Instructions: For Table Reservations: Note the relative location of the stage and bar on the map. Then click a table number to see prices, or click \"Show All Tickets\". Click the + button to add a specific table to your cart. For General Admission tickets: click the \"GA Standing\" area. Click the + button to add additional tickets. Click \"Agree & Checkout\"",
-      "ticket_url": "https://www.ticketweb.com/event/strats-with-brandonlee-cierley-jack-london-revue-tickets/14997423",
-      "title": "Stratøs with Brandonlee Cierley",
-      "venue": {
-        "address": "529 SW 4th Ave.",
-        "city": "Portland",
-        "latitude": 45.519452,
-        "longitude": -122.676291,
-        "name": "Jack London Revue"
       }
     },
     {
@@ -65084,7 +65076,7 @@
       ],
       "end_at": "2026-10-30T02:00:00-07:00",
       "id": "ticketmaster:rZ7HnEZ1AfuJQf",
-      "image_url": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_RETINA_LANDSCAPE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketweb.com/event/38-cramps-cramps-tribute-dantes-tickets/14366694",
       "merged_sources": [
@@ -65105,7 +65097,7 @@
       "start_at": "2026-10-29T21:00:00-07:00",
       "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
       "ticket_url": "https://www.ticketweb.com/event/38-cramps-cramps-tribute-dantes-tickets/14366694",
-      "title": "38 CRAMPS (Cramps Tribute) & Girls N' Roses (Guns & Roses tribute) & The Graceland Five",
+      "title": "38 CRAMPS (Cramps Tribute) & Girls N' Roses (Guns & Roses tribute) & Dan'z ID",
       "venue": {
         "address": "350 West Burnside Street",
         "city": "Portland",
@@ -80315,8 +80307,8 @@
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 57.14,
-        "min": 31.39
+        "max": 59.2,
+        "min": 36.54
       },
       "source": {
         "id": "ticketmaster",
@@ -80324,7 +80316,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-10-31T20:30:00-07:00",
-      "summary": "Bosco's Haus of Whorrors: Halloween Night Direct from TRANSylvania Host: Kharisma Featuring: Boujee Cherry + Harlow Quinze + Diva Dott + Hotboxx VIP Meet and Greet: 7:00 PM GA Doors: 8:00 PM Show: 8:30 PM",
+      "summary": "Bosco's Haus of Whorrors: Halloween Night Direct from TRANSylvania Host: Kharisma Featuring: Boujee Cherry + Harlow Quinze + Diva Dott + Hotboxx VIP Meet and Greet Doors: 6:30 VIP Meet and Greet: 7:00 PM GA Doors: 8:00 PM Show: 8:30 PM",
       "ticket_url": "https://www.ticketweb.com/event/boscos-haus-of-whorrors-halloween-star-theater-tickets/14315914",
       "title": "BOSCO’S HAUS OF WHORRORS: Halloween Night  Direct from TRANSylvania",
       "venue": {
@@ -106175,6 +106167,37 @@
         "address": "315 NW Davis",
         "city": "Portland",
         "name": "Siren Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1AfC3FV",
+      "image_url": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/spirits-dantes-tickets/14392234",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 22.12,
+        "min": 22.12
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-06T20:00:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/spirits-dantes-tickets/14392234",
+      "title": "SPIRITS",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
       }
     },
     {
@@ -170963,6 +170986,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1AfCoxf",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/honky-tonk-christmas-with-pati-showdown-saloon-tickets/14391894",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.16,
+        "min": 25.16
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-19T20:30:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/honky-tonk-christmas-with-pati-showdown-saloon-tickets/14391894",
+      "title": "Honky Tonk Christmas with Pati Rojas Band, William Surly and the Barroom Gospel Band, Keston Brouillette and the Pickled Hearts, and Jake and the Hill People",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1Afa9A7",
       "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -184646,5 +184700,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-19T22:45:40+00:00"
+  "generated_at": "2026-10-19T23:37:40+00:00"
 }
