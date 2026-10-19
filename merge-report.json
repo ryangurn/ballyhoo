@@ -1,14 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:20145393@2026-10-18T13:00",
-      "kept": "portland_farmers_market:rich-compton@2026-10-18",
-      "start_at": "2026-10-18T13:00:00-07:00",
-      "title_dropped": "Rich Compton",
-      "title_kept": "Rich Compton",
-      "venue": "Lents International Farmers Market"
-    },
-    {
       "dropped": "willamette_week:19957012@2026-10-19T19:00",
       "kept": "ticketmaster:rZ7HnEZ1AfGf-V",
       "start_at": "2026-10-19T19:00:00-07:00",
@@ -5769,6 +5761,14 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "willamette_week:20145393@2026-10-18T13:00",
+      "kept": "portland_farmers_market:rich-compton@2026-10-18",
+      "start_at": "2026-10-18T13:00:00-07:00",
+      "title_dropped": "Rich Compton",
+      "title_kept": "Rich Compton",
+      "venue": "Lents International Farmers Market"
+    },
+    {
       "dropped": "willamette_week:19571062@2026-11-04T13:00",
       "kept": "oregon_metro:metropolitan-exposition-recreation-commission-meeting-2026-11-04",
       "start_at": "2026-11-04T12:30:00-08:00",
@@ -5913,9 +5913,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6285,
-  "floor_check": "6285 events against a 6309-event baseline",
-  "generated_at": "2026-10-19T00:28:34+00:00",
+  "event_count": 6284,
+  "floor_check": "6284 events against a 6309-event baseline",
+  "generated_at": "2026-10-19T01:10:08+00:00",
   "problems": [],
   "sources": [
     "calagator",
