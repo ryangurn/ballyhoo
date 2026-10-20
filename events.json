@@ -71790,6 +71790,39 @@
     },
     {
       "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-10-31T14:00:00-07:00",
+      "id": "portland_farmers_market:das-de-los-muertos@2026-10-31",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2025/10/marigolds-11-25.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/das-de-los-muertos/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-10-31T08:30:00-07:00",
+      "summary": "Honor the tradition of Días de Los Muertos with this community-led celebration at PSU Farmers Market on Saturday, October 31, 2026.",
+      "title": "Días de Los Muertos",
+      "venue": {
+        "address": "SW Park & Montgomery",
+        "city": "Portland",
+        "latitude": 45.5128932,
+        "longitude": -122.6853859,
+        "name": "PSU Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -80139,6 +80172,72 @@
         "latitude": 45.51891,
         "longitude": -122.58458,
         "name": "Montavilla Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-01T15:00:00-08:00",
+      "id": "portland_farmers_market:das-de-los-muertos-2@2026-11-01",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2025/10/lents-marigold-2025.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/das-de-los-muertos-2/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-11-01T10:00:00-08:00",
+      "summary": "Honor the tradition of Días de Los Muertos with this community-led celebration at Lents International Farmers Market on Sunday, November 1, 2026.",
+      "title": "Días de Los Muertos @ Lents",
+      "venue": {
+        "address": "5718 SE 92nd Ave",
+        "city": "Portland",
+        "latitude": 45.48012,
+        "longitude": -122.56962,
+        "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-01T14:00:00-08:00",
+      "id": "portland_farmers_market:dias-de-los-muertos-king-copy@2026-11-01",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2025/10/marigold-king-2025.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/dias-de-los-muertos-king-copy/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-11-01T10:00:00-08:00",
+      "summary": "Honor the tradition of Días de Los Muertos with this community-led celebration at King Farmers Market on Sun, Nov 1, 2026.",
+      "title": "Días de Los Muertos",
+      "venue": {
+        "address": "NE Wygant St &, NE 7th Ave, Portland, OR 97211",
+        "city": "Portland",
+        "latitude": 45.5582344,
+        "longitude": -122.6590884,
+        "name": "King Farmers Market"
       }
     },
     {
@@ -167759,10 +167858,10 @@
         "food"
       ],
       "end_at": "2026-11-25T14:00:00-08:00",
-      "id": "portland_farmers_market:shemanski-park-farmers-market-2026@2026-11-25",
+      "id": "portland_farmers_market:shemanski-park-farmers-market-2@2026-11-25",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2022/10/Shemanski_P1030294-scaled.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.portlandfarmersmarket.org/event/shemanski-park-farmers-market-2026/2026-11-25/",
+      "listing_url": "https://www.portlandfarmersmarket.org/event/shemanski-park-farmers-market-2/",
       "organizer": "Portland Farmers Market",
       "price": {
         "currency": "USD",
@@ -188720,5 +188819,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-20T21:13:14+00:00"
+  "generated_at": "2026-10-20T21:34:11+00:00"
 }
