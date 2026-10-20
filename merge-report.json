@@ -197,7 +197,7 @@
       "kept": "ticketmaster:rZ7HnEZ1AfuNbf",
       "start_at": "2026-10-27T19:30:00-07:00",
       "title_dropped": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Peggy and Peter",
-      "title_kept": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Peggy and Peter",
+      "title_kept": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Robbie and Peter",
       "venue": "Showdown Saloon"
     },
     {
@@ -5433,6 +5433,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:17586570@2026-11-16T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPw8V",
+      "start_at": "2026-11-16T21:00:00-08:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19264410@2026-11-17T18:00",
       "kept": "dopdx:17489668",
       "start_at": "2026-11-17T18:00:00-08:00",
@@ -5969,9 +5977,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6279,
-  "floor_check": "6279 events against a 6230-event baseline",
-  "generated_at": "2026-10-20T04:42:57+00:00",
+  "event_count": 6274,
+  "floor_check": "6274 events against a 6230-event baseline",
+  "generated_at": "2026-10-20T04:44:26+00:00",
   "problems": [],
   "sources": [
     "calagator",
