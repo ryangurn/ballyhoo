@@ -1345,6 +1345,14 @@
       "venue": "45 East"
     },
     {
+      "dropped": "willamette_week:20230266@2026-10-24T22:00",
+      "kept": "dopdx:17872135",
+      "start_at": "2026-10-24T22:00:00-07:00",
+      "title_dropped": "Center of Attention",
+      "title_kept": "Center of Attention",
+      "venue": "Funhouse Lounge"
+    },
+    {
       "dropped": "willamette_week:18120037@2026-10-24T22:00",
       "kept": "dopdx:17872135",
       "start_at": "2026-10-24T22:00:00-07:00",
@@ -3729,6 +3737,14 @@
       "venue": "Hawthorne Theatre"
     },
     {
+      "dropped": "willamette_week:20226546@2026-11-06T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfC3FV",
+      "start_at": "2026-11-06T20:00:00-08:00",
+      "title_dropped": "SPIRITS with Hard Pill, Drawn By Knives, These Cursed Hands, & Pitch Black Mass",
+      "title_kept": "SPIRITS with Hard Pill, Drawn By Knives, These Cursed Hands, & Pitch Black Mass",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:20095174@2026-11-06T20:00",
       "kept": "ticketmaster:rZ7HnEZ1Afu077",
       "start_at": "2026-11-06T20:00:00-08:00",
@@ -5329,6 +5345,14 @@
       "venue": "Wonder Ballroom"
     },
     {
+      "dropped": "willamette_week:19469867@2026-11-15T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPwZd",
+      "start_at": "2026-11-15T21:00:00-08:00",
+      "title_dropped": "CHURCH OF HIVE",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-11-15T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPwZd",
       "start_at": "2026-11-15T21:00:00-08:00",
@@ -5977,9 +6001,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6295,
-  "floor_check": "6295 events against a 6286-event baseline",
-  "generated_at": "2026-10-20T16:56:01+00:00",
+  "event_count": 6326,
+  "floor_check": "6326 events against a 6286-event baseline",
+  "generated_at": "2026-10-20T17:16:12+00:00",
   "problems": [],
   "sources": [
     "calagator",
