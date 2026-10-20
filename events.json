@@ -100,72 +100,6 @@
         "market",
         "food"
       ],
-      "end_at": "2026-10-18T14:00:00-07:00",
-      "id": "portland_farmers_market:king-farmers-market-3@2026-10-18",
-      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/King-aug-22-image-close.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.portlandfarmersmarket.org/event/king-farmers-market-3/2026-10-18/",
-      "organizer": "Portland Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "portland_farmers_market",
-        "name": "Portland Farmers Market",
-        "url": "https://www.portlandfarmersmarket.org"
-      },
-      "start_at": "2026-10-18T10:00:00-07:00",
-      "summary": "King Farmers Market features about 30 farmers and food producers, offering fresh, local produce and food, plus a variety of breakfast and lunch options in a family-friendly setting.",
-      "title": "King Farmers Market",
-      "venue": {
-        "address": "NE Wygant St &, NE 7th Ave, Portland, OR 97211",
-        "city": "Portland",
-        "latitude": 45.5582344,
-        "longitude": -122.6590884,
-        "name": "King Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-10-18T15:00:00-07:00",
-      "id": "portland_farmers_market:lents-international-farmers-market@2026-10-18",
-      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2024/01/lents-110423-header-imagery.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.portlandfarmersmarket.org/event/lents-international-farmers-market/2026-10-18/",
-      "organizer": "Portland Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "portland_farmers_market",
-        "name": "Portland Farmers Market",
-        "url": "https://www.portlandfarmersmarket.org"
-      },
-      "start_at": "2026-10-18T10:00:00-07:00",
-      "summary": "Lents International Farmers Market provides fresh, local, and culturally relevant produce to the diverse community of Lents neighbors in southeast Portland.",
-      "title": "Lents International Farmers Market",
-      "venue": {
-        "address": "5718 SE 92nd Ave",
-        "city": "Portland",
-        "latitude": 45.48012,
-        "longitude": -122.56962,
-        "name": "Lents International Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
       "end_at": "2026-10-18T15:00:00-07:00",
       "id": "vancouver_farmers_market:downtown-vancouver-farmers-market-76@2026-10-18",
       "is_all_day": false,
@@ -221,39 +155,6 @@
         "latitude": 45.6261,
         "longitude": -122.67574,
         "name": "Vancouver Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "music",
-        "market"
-      ],
-      "end_at": "2026-10-18T15:00:00-07:00",
-      "id": "portland_farmers_market:rich-compton@2026-10-18",
-      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2025/06/wiley-coyote-071625.png",
-      "is_all_day": false,
-      "listing_url": "https://www.portlandfarmersmarket.org/event/rich-compton/",
-      "organizer": "Portland Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "portland_farmers_market",
-        "name": "Portland Farmers Market",
-        "url": "https://www.portlandfarmersmarket.org"
-      },
-      "start_at": "2026-10-18T13:00:00-07:00",
-      "summary": "Enjoy live music by Rich Compton at Lents International Farmers Market on Sunday, October 18, 2026 from 1 pm to 3 pm.",
-      "title": "Rich Compton",
-      "venue": {
-        "address": "5718 SE 92nd Ave",
-        "city": "Portland",
-        "latitude": 45.48012,
-        "longitude": -122.56962,
-        "name": "Lents International Farmers Market"
       }
     },
     {
@@ -38110,6 +38011,39 @@
         "latitude": 45.55596,
         "longitude": -122.45242,
         "name": "Blue Lake Regional Park"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-10-25T15:00:00-07:00",
+      "id": "portland_farmers_market:madhearts-harmonies@2026-10-25",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2026/10/Untitled-Design.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/madhearts-harmonies/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-10-25T13:00:00-07:00",
+      "summary": "Enjoy live music by MadHeart’s Harmonies at Lents International Farmers Market on Sunday, October 25, 2026 from 1 pm to 3 pm.",
+      "title": "MadHeart&#8217;s Harmonies",
+      "venue": {
+        "address": "5718 SE 92nd Ave",
+        "city": "Portland",
+        "latitude": 45.48012,
+        "longitude": -122.56962,
+        "name": "Lents International Farmers Market"
       }
     },
     {
@@ -113488,6 +113422,39 @@
     },
     {
       "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-08T15:00:00-08:00",
+      "id": "portland_farmers_market:ian-joe-bailey@2026-11-08",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2025/06/wiley-coyote-071625.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/ian-joe-bailey/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-11-08T13:00:00-08:00",
+      "summary": "Enjoy live music by Ian Joe Bailey at Lents International Farmers Market on Sunday, November 8, 2026 from 1 pm to 3 pm.",
+      "title": "Ian Joe Bailey",
+      "venue": {
+        "address": "5718 SE 92nd Ave",
+        "city": "Portland",
+        "latitude": 45.48012,
+        "longitude": -122.56962,
+        "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-11-09T02:00:00-08:00",
@@ -147477,6 +147444,39 @@
     },
     {
       "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-15T15:00:00-08:00",
+      "id": "portland_farmers_market:the-modern-folk@2026-11-15",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2025/06/wiley-coyote-071625.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/the-modern-folk/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-11-15T13:00:00-08:00",
+      "summary": "Enjoy live music by The Modern Folk at Lents International Farmers Market on Sunday, November 15, 2026 from 1 pm to 3 pm.",
+      "title": "The Modern Folk",
+      "venue": {
+        "address": "5718 SE 92nd Ave",
+        "city": "Portland",
+        "latitude": 45.48012,
+        "longitude": -122.56962,
+        "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-11-15T15:00:00-08:00",
@@ -164715,6 +164715,39 @@
       "start_at": "2026-11-22T10:00:00-08:00",
       "summary": "Lents International Farmers Market provides fresh, local, and culturally relevant produce to the diverse community of Lents neighbors in southeast Portland.",
       "title": "Lents International Farmers Market",
+      "venue": {
+        "address": "5718 SE 92nd Ave",
+        "city": "Portland",
+        "latitude": 45.48012,
+        "longitude": -122.56962,
+        "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-22T15:00:00-08:00",
+      "id": "portland_farmers_market:school-of-rock-portland@2026-11-22",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2026/10/SOR-PDX.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/school-of-rock-portland/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-11-22T13:00:00-08:00",
+      "summary": "Enjoy live music by School of Rock at Lents International Farmers Market on Sunday, November 22, 2026 from 1 pm to 3 pm.",
+      "title": "School of Rock Portland",
       "venue": {
         "address": "5718 SE 92nd Ave",
         "city": "Portland",
@@ -186091,5 +186124,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-20T02:04:11+00:00"
+  "generated_at": "2026-10-20T04:41:37+00:00"
 }
