@@ -4,31 +4,6 @@
       "categories": [
         "civic"
       ],
-      "id": "oregon_metro:metro-council-work-session-2026-10-20",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-10-20",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-20T10:00:00-07:00",
-      "title": "Metro Council work session",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "id": "oregon_metro:metro-technical-advisory-committee-meeting-2026-10-21",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-technical-advisory-committee-meeting-2026-10-21",
@@ -111,13 +86,7 @@
         "url": "https://www.oregonmetro.gov"
       },
       "start_at": "2026-10-22T14:00:00-07:00",
-      "title": "Regional Waste Advisory Committee meeting",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
+      "title": "Regional Waste Advisory Committee meeting"
     },
     {
       "categories": [
@@ -1374,25 +1343,6 @@
     },
     {
       "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:free-parking-day-metro-parks-2026-11-27",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/free-parking-day-metro-parks-2026-11-27",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-27T00:00:00-08:00",
-      "title": "Free parking day at Metro parks"
-    },
-    {
-      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metro-council-work-session-2026-12-01",
@@ -2578,7 +2528,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-20T17:21:38+00:00",
+  "generated_at": "2026-10-20T20:43:45+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
