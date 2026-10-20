@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:44:26+00:00",
+  "generated_at": "2026-10-20T05:05:28+00:00",
   "sources": [
     {
       "event_count": 25,
@@ -31,9 +31,9 @@
     },
     {
       "event_count": 67,
-      "last_run_at": "2026-10-19T22:31:37+00:00",
+      "last_run_at": "2026-10-20T05:04:22+00:00",
       "source_id": "neighborhood_markets",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/neighborhood_markets.json"
     },
     {
@@ -47,7 +47,7 @@
       "event_count": 16,
       "last_run_at": "2026-10-19T22:44:48+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
