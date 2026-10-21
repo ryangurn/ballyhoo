@@ -538,31 +538,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:metro-technical-advisory-committee-meeting-2026-10-21",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metro-technical-advisory-committee-meeting-2026-10-21",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-21T09:00:00-07:00",
-      "title": "Metro Technical Advisory Committee meeting",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-10-21T17:00:00-07:00",
@@ -6202,25 +6177,6 @@
       "categories": [
         "civic"
       ],
-      "id": "oregon_metro:nature-education-and-outdoor-experiences-grants-workshop-2026-10-22",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/nature-education-and-outdoor-experiences-grants-workshop-2026-10-22",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-22T10:00:00-07:00",
-      "title": "Nature education and outdoor experiences grants workshop"
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "id": "oregon_metro:metro-council-meeting-and-work-session-2026-10-22",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-council-meeting-and-work-session-2026-10-22",
@@ -6241,6 +6197,25 @@
         "longitude": -122.66024,
         "name": "Metro Regional Center"
       }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:nature-education-and-outdoor-experiences-grants-workshop-2026-10-22",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/nature-education-and-outdoor-experiences-grants-workshop-2026-10-22",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-22T10:00:00-07:00",
+      "title": "Nature education and outdoor experiences grants workshop"
     },
     {
       "categories": [
@@ -190793,5 +190768,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-21T19:24:03+00:00"
+  "generated_at": "2026-10-21T19:28:02+00:00"
 }
