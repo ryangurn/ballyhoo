@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-21T07:34:12+00:00",
+  "generated_at": "2026-10-21T10:03:14+00:00",
   "sources": [
     {
       "event_count": 28,
-      "last_run_at": "2026-10-21T04:33:13+00:00",
+      "last_run_at": "2026-10-21T10:02:36+00:00",
       "source_id": "calagator",
       "status": "ok",
       "url": "sources/calagator.json"
@@ -82,7 +82,7 @@
       "event_count": 48,
       "last_run_at": "2026-10-21T03:09:48+00:00",
       "source_id": "vancouver_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/vancouver_farmers_market.json"
     },
     {
