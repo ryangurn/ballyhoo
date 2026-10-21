@@ -3705,6 +3705,14 @@
       "venue": "Metropolitan Tavern"
     },
     {
+      "dropped": "willamette_week:20238535@2026-11-07T18:00",
+      "kept": "dopdx:17979324",
+      "start_at": "2026-11-07T18:00:00-08:00",
+      "title_dropped": "November Artist In Residence - Zan Lee DuRoy",
+      "title_kept": "November Artist In Residence",
+      "venue": "Fern & Wolf"
+    },
+    {
       "dropped": "willamette_week:19801682@2026-11-07T18:30",
       "kept": "dopdx:17975237",
       "start_at": "2026-11-07T18:30:00-08:00",
@@ -6049,9 +6057,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6466,
-  "floor_check": "6466 events against a 6435-event baseline",
-  "generated_at": "2026-10-21T23:15:47+00:00",
+  "event_count": 6476,
+  "floor_check": "6476 events against a 6438-event baseline",
+  "generated_at": "2026-10-21T23:26:02+00:00",
   "problems": [],
   "sources": [
     "calagator",
