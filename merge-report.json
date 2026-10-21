@@ -5953,46 +5953,6 @@
       "venue": "Shemanski Park Farmers Market"
     },
     {
-      "dropped": "willamette_week:20095169@2026-10-20T19:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfuNb7",
-      "start_at": "2026-10-20T19:30:00-07:00",
-      "title_dropped": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy and Peter",
-      "title_kept": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy and Peter",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:19863630@2026-10-20T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfGAe7",
-      "start_at": "2026-10-20T20:00:00-07:00",
-      "title_dropped": "THIEFS",
-      "title_kept": "THIEFS",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:18811214@2026-10-20T20:00",
-      "kept": "ticketmaster:vvG1HZ_apoDgUQ",
-      "start_at": "2026-10-20T20:00:00-07:00",
-      "title_dropped": "Shaboozey - Outlaws Never Die Tour",
-      "title_kept": "Shaboozey - Outlaws Never Die Tour",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "willamette_week:19114774@2026-10-20T20:00",
-      "kept": "ticketmaster:Z7r9jZ1A7PdZV",
-      "start_at": "2026-10-20T20:00:00-07:00",
-      "title_dropped": "Gary Clark Jr. w",
-      "title_kept": "Gary Clark Jr.",
-      "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "willamette_week:18738665@2026-10-20T20:00",
-      "kept": "ticketmaster:Z7r9jZ1A7x6Za",
-      "start_at": "2026-10-20T20:00:00-07:00",
-      "title_dropped": "Bee Blackwell & Julia Wolf",
-      "title_kept": "Julia Wolf",
-      "venue": "Wonder Ballroom"
-    },
-    {
       "dropped": "willamette_week:17586570@2026-10-26T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AKPw17",
       "start_at": "2026-10-26T21:00:00-07:00",
@@ -6017,6 +5977,46 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:20169134@2026-11-20T19:30",
+      "kept": "ticketmaster:Z7r9jZ1AAvbfd",
+      "start_at": "2026-11-20T19:30:00-08:00",
+      "title_dropped": "Little Shop of Horrors",
+      "title_kept": "Little Shop of Horrors",
+      "venue": "Portland Center Stage"
+    },
+    {
+      "dropped": "willamette_week:19449701@2026-11-20T19:30",
+      "kept": "ticketmaster:vvG1HZ_CE4hlB0",
+      "start_at": "2026-11-20T19:30:00-08:00",
+      "title_dropped": "Grief Sucks: A One Man Show By KevOnStage",
+      "title_kept": "Grief Sucks: A One Man Show By KevOnStage",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "willamette_week:20019932@2026-11-20T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfGVG7",
+      "start_at": "2026-11-20T20:00:00-08:00",
+      "title_dropped": "ERIC JOHN KAISER - ALBUM RELEASE",
+      "title_kept": "ERIC JOHN KAISER - ALBUM RELEASE",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:20200696@2026-11-20T20:30",
+      "kept": "ticketmaster:Z7r9jZ1AA7vGO",
+      "start_at": "2026-11-20T20:30:00-08:00",
+      "title_dropped": "House of Heavy (21 and Over Only w/ Valid Photo ID)",
+      "title_kept": "House of Heavy (21 and Over Only w/ Valid Photo ID)",
+      "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "willamette_week:19879839@2026-11-20T22:00",
+      "kept": "ticketmaster:Z7r9jZ1AAZM1v",
+      "start_at": "2026-11-20T22:00:00-08:00",
+      "title_dropped": "Space 92",
+      "title_kept": "Space 92 - Ages 21+",
+      "venue": "45 East"
+    },
+    {
       "dropped": "willamette_week:20169590@2026-11-12T18:30",
       "kept": "dopdx:17774002",
       "start_at": "2026-11-12T19:00:00-08:00",
@@ -6033,9 +6033,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6383,
-  "floor_check": "6383 events against a 6373-event baseline",
-  "generated_at": "2026-10-21T04:37:22+00:00",
+  "event_count": 6418,
+  "floor_check": "6418 events against a 6373-event baseline",
+  "generated_at": "2026-10-21T04:57:52+00:00",
   "problems": [],
   "sources": [
     "calagator",
