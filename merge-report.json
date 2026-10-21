@@ -3705,6 +3705,14 @@
       "venue": "Metropolitan Tavern"
     },
     {
+      "dropped": "willamette_week:19801682@2026-11-07T18:30",
+      "kept": "dopdx:17975237",
+      "start_at": "2026-11-07T18:30:00-08:00",
+      "title_dropped": "Can Can's Hitchcock Hotel",
+      "title_kept": "Can Can’s Hitchcock Hotel",
+      "venue": "Can Can's Paris Theatre"
+    },
+    {
       "dropped": "dopdx:17724954",
       "kept": "ticketmaster:vvG1HZ_83jYFBf",
       "start_at": "2026-11-07T19:00:00-08:00",
@@ -3873,6 +3881,14 @@
       "venue": "McMenamins Mission Theater"
     },
     {
+      "dropped": "willamette_week:19801682@2026-11-07T21:30",
+      "kept": "dopdx:17975238",
+      "start_at": "2026-11-07T21:30:00-08:00",
+      "title_dropped": "Can Can's Hitchcock Hotel",
+      "title_kept": "Can Can’s Hitchcock Hotel",
+      "venue": "Can Can's Paris Theatre"
+    },
+    {
       "dropped": "willamette_week:14445255@2026-11-07T22:30",
       "kept": "ticketmaster:rZ7HnEZ1AfZ-bf",
       "start_at": "2026-11-07T22:30:00-08:00",
@@ -3959,6 +3975,14 @@
       "title_dropped": "Special Event: Karen Rontowski",
       "title_kept": "Karen Rontowski",
       "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19801682@2026-11-08T18:30",
+      "kept": "dopdx:17975240",
+      "start_at": "2026-11-08T18:30:00-08:00",
+      "title_dropped": "Can Can's Hitchcock Hotel",
+      "title_kept": "Can Can’s Hitchcock Hotel",
+      "venue": "Can Can's Paris Theatre"
     },
     {
       "dropped": "dopdx:17228347",
@@ -5057,6 +5081,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:17670892@2026-11-15T09:00",
+      "kept": "neighborhood_markets:hillsdale@2026-11-15",
+      "start_at": "2026-11-15T09:00:00-08:00",
+      "title_dropped": "Hillsdale Farmers' Market",
+      "title_kept": "Hillsdale Farmers Market",
+      "venue": "Hillsdale Farmers Market"
+    },
+    {
       "dropped": "dopdx:17262342",
       "kept": "ticketmaster:Z7r9jZ1A7Jkax",
       "start_at": "2026-11-15T14:00:00-08:00",
@@ -5769,14 +5801,6 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
-      "dropped": "willamette_week:17670892@2026-11-15T09:00",
-      "kept": "neighborhood_markets:hillsdale@2026-11-15",
-      "start_at": "2026-11-15T09:00:00-08:00",
-      "title_dropped": "Hillsdale Farmers' Market",
-      "title_kept": "Hillsdale Farmers Market",
-      "venue": "Hillsdale Farmers Market"
-    },
-    {
       "dropped": "obt:866",
       "kept": "ticketmaster:Z7r9jZ1AAvzF8",
       "start_at": "2026-12-23T14:00:00-08:00",
@@ -6025,9 +6049,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6439,
-  "floor_check": "6439 events against a 6432-event baseline",
-  "generated_at": "2026-10-21T21:54:30+00:00",
+  "event_count": 6465,
+  "floor_check": "6465 events against a 6432-event baseline",
+  "generated_at": "2026-10-21T21:58:47+00:00",
   "problems": [],
   "sources": [
     "calagator",
