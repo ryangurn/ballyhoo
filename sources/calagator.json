@@ -4,62 +4,6 @@
       "categories": [
         "tech"
       ],
-      "end_at": "2026-10-20T10:30:00-07:00",
-      "id": "calagator:1250482759",
-      "is_all_day": false,
-      "listing_url": "https://luma.com/3n33trm8",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "calagator",
-        "name": "Calagator",
-        "url": "https://calagator.org"
-      },
-      "start_at": "2026-10-20T08:30:00-07:00",
-      "summary": "Join us for AI in the AM, a relaxed coffee hour where AI enthusiasts, professionals, and curious minds come together to share ideas, insights, and connections. This is the perfect opportunity to start your day with stimulating discussions and meet other members of the AI Portland community.\r\n\r\n​Whether you're an AI expert, a startup founder, or just curious about the potential of artificial intelligence, this event is for you. Our casual setting encourages open conversation, networking, and the exchange of innovative ideas.",
-      "title": "AI in the AM",
-      "venue": {
-        "address": "111 Southwest 5th Avenue",
-        "city": "Portland",
-        "latitude": 45.5227,
-        "longitude": -122.676,
-        "name": "Upstart Collective (in Big Pink)"
-      }
-    },
-    {
-      "categories": [
-        "tech"
-      ],
-      "end_at": "2026-10-20T15:30:00-07:00",
-      "id": "calagator:1250482755",
-      "is_all_day": false,
-      "listing_url": "https://betterfutures.club",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "calagator",
-        "name": "Calagator",
-        "url": "https://calagator.org"
-      },
-      "start_at": "2026-10-20T13:30:00-07:00",
-      "summary": "​Better Futures Club is a weekly event (alternating Tuesdays and Thursdays) focused on imagining and making better futures.\r\n\r\nImagine an artist community, a think tank, and a research center in the same building. People in all of those fields working alongside each other imagining and creating different futures together. Cross pollination and inspiration. Liberal Arts and STEM and R&D. Photographers, physicists, authors, astronomers, musicians, makers, mathematicians, designers, developers, fashionistas, climatologists and all manner of imaginative optimists.\r\n\r\nAll Better Futures Club events are covered by the Contributor Covenant Code of Conduct (https://www.contributor-covenant.org)",
-      "title": "Better Futures Club",
-      "venue": {
-        "address": "3286 NE Killingsworth St",
-        "city": "Portland",
-        "latitude": 45.5625,
-        "longitude": -122.6309,
-        "name": "Autumn Coffee Roasting"
-      }
-    },
-    {
-      "categories": [
-        "tech"
-      ],
       "end_at": "2026-10-22T11:30:00-07:00",
       "id": "calagator:1250482724",
       "is_all_day": false,
@@ -638,6 +582,34 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-11-16T19:00:00-08:00",
+      "id": "calagator:1250482764",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/rladies-pdx/events/317067329/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-16T17:00:00-08:00",
+      "summary": "Working with data that's too large, too slow, or too messy for regular CSVs? Join us for an introduction to the {arrow} package in R. We'll explore how Arrow and Parquet files can make large datasets faster to store, read, and analyze, all while using the familiar dplyr workflows you already know and love. Using Portland's Biketown data, we'll convert, query, and visualize millions of rides without breaking a sweat (or our laptops).\r\n\r\nBring your laptop if you want to follow along.\r\n\r\nNo need to RSVP via Meetup, but we might share info ahead of time in the event comments!",
+      "title": "Big Data? No Problem! An introduction to arrow for R",
+      "venue": {
+        "address": "915 SE Hawthorne Boulevard",
+        "city": "Portland",
+        "latitude": 45.5124,
+        "longitude": -122.6563,
+        "name": "Lucky Labrador Brew Pub"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-11-17T15:30:00-08:00",
       "id": "calagator:1250482762",
       "is_all_day": false,
@@ -766,7 +738,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-20T23:48:03+00:00",
+  "generated_at": "2026-10-21T04:33:13+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
