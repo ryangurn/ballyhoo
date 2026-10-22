@@ -5145,14 +5145,6 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
-      "dropped": "dopdx:17837518",
-      "kept": "ticketmaster:rZ7HnEZ1AfGeQf",
-      "start_at": "2026-11-16T19:30:00-08:00",
-      "title_dropped": "DEVIL MASTER with PILAU & Guest",
-      "title_kept": "DEVIL MASTER with PILAU & Cryr",
-      "venue": "Star Theater"
-    },
-    {
       "dropped": "willamette_week:19957025@2026-11-16T19:30",
       "kept": "dopdx:17837518",
       "start_at": "2026-11-16T19:00:00-08:00",
@@ -6105,9 +6097,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6553,
-  "floor_check": "6553 events against a 6476-event baseline",
-  "generated_at": "2026-10-22T06:34:42+00:00",
+  "event_count": 6548,
+  "floor_check": "6548 events against a 6476-event baseline",
+  "generated_at": "2026-10-22T07:31:46+00:00",
   "problems": [],
   "sources": [
     "calagator",
