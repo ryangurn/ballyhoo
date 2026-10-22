@@ -1,14 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:19743115@2026-10-22T18:00",
-      "kept": "dopdx:17775654",
-      "start_at": "2026-10-22T18:00:00-07:00",
-      "title_dropped": "Portland Spirit Brews Cruise",
-      "title_kept": "Brews Cruise",
-      "venue": "Salmon Springs Dock"
-    },
-    {
       "dropped": "willamette_week:20065426@2026-10-23T20:00",
       "kept": "calagator:1250482742",
       "start_at": "2026-10-23T20:00:00-07:00",
@@ -161,46 +153,6 @@
       "venue": "Roseland Theater"
     },
     {
-      "dropped": "willamette_week:19879730@2026-10-27T19:00",
-      "kept": "dopdx:17894455",
-      "start_at": "2026-10-27T19:00:00-07:00",
-      "title_dropped": "Megan Cronin",
-      "title_kept": "Local Roots Music NW Presents: Local Roots Live",
-      "venue": "Alberta Street Pub"
-    },
-    {
-      "dropped": "willamette_week:19029325@2026-10-27T19:00",
-      "kept": "ticketmaster:Z7r9jZ1AAvAo_",
-      "start_at": "2026-10-27T19:00:00-07:00",
-      "title_dropped": "Roseland Theater",
-      "title_kept": "Catch Your Breath",
-      "venue": "Roseland Theater"
-    },
-    {
-      "dropped": "willamette_week:19867860@2026-10-27T19:30",
-      "kept": "dopdx:17806220",
-      "start_at": "2026-10-27T19:30:00-07:00",
-      "title_dropped": "Special Event: IMHO",
-      "title_kept": "Imho",
-      "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:20082199@2026-10-27T19:30",
-      "kept": "dopdx:17936725",
-      "start_at": "2026-10-27T19:30:00-07:00",
-      "title_dropped": "Marsha Blovotnik and the Marvelous Magical Chicken Soup",
-      "title_kept": "Marsha Blovotnik and the Marvelous Magical Chicken Soup",
-      "venue": "Artists Repertory Theatre"
-    },
-    {
-      "dropped": "willamette_week:20095170@2026-10-27T19:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfuNbf",
-      "start_at": "2026-10-27T19:30:00-07:00",
-      "title_dropped": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Peggy and Peter",
-      "title_kept": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Robbie and Peter",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "willamette_week:20177204@2026-10-29T18:00",
       "kept": "dopdx:17813115",
       "start_at": "2026-10-29T18:00:00-07:00",
@@ -287,6 +239,14 @@
       "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
       "title_kept": "Intermediate Two-Step Lessons with Peggy and Dillon",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19743115@2026-10-22T18:00",
+      "kept": "dopdx:17775654",
+      "start_at": "2026-10-22T18:00:00-07:00",
+      "title_dropped": "Portland Spirit Brews Cruise",
+      "title_kept": "Brews Cruise",
+      "venue": "Salmon Springs Dock"
     },
     {
       "dropped": "willamette_week:19879697@2026-10-22T19:00",
@@ -1479,6 +1439,46 @@
       "title_dropped": "Faux Real (21 and Over)",
       "title_kept": "George Clanton",
       "venue": "Revolution Hall"
+    },
+    {
+      "dropped": "willamette_week:19879730@2026-10-27T19:00",
+      "kept": "dopdx:17894455",
+      "start_at": "2026-10-27T19:00:00-07:00",
+      "title_dropped": "Megan Cronin",
+      "title_kept": "Local Roots Music NW Presents: Local Roots Live",
+      "venue": "Alberta Street Pub"
+    },
+    {
+      "dropped": "willamette_week:19029325@2026-10-27T19:00",
+      "kept": "ticketmaster:Z7r9jZ1AAvAo_",
+      "start_at": "2026-10-27T19:00:00-07:00",
+      "title_dropped": "Roseland Theater",
+      "title_kept": "Catch Your Breath",
+      "venue": "Roseland Theater"
+    },
+    {
+      "dropped": "willamette_week:19867860@2026-10-27T19:30",
+      "kept": "dopdx:17806220",
+      "start_at": "2026-10-27T19:30:00-07:00",
+      "title_dropped": "Special Event: IMHO",
+      "title_kept": "Imho",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:20082199@2026-10-27T19:30",
+      "kept": "dopdx:17936725",
+      "start_at": "2026-10-27T19:30:00-07:00",
+      "title_dropped": "Marsha Blovotnik and the Marvelous Magical Chicken Soup",
+      "title_kept": "Marsha Blovotnik and the Marvelous Magical Chicken Soup",
+      "venue": "Artists Repertory Theatre"
+    },
+    {
+      "dropped": "willamette_week:20095170@2026-10-27T19:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfuNbf",
+      "start_at": "2026-10-27T19:30:00-07:00",
+      "title_dropped": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Peggy and Peter",
+      "title_kept": "Two-Step Tuesday with The Tom Armstrong Band and Dance Lessons with Robbie and Peter",
+      "venue": "Showdown Saloon"
     },
     {
       "dropped": "willamette_week:19867867@2026-10-27T20:00",
@@ -6081,9 +6081,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6493,
-  "floor_check": "6493 events against a 6438-event baseline",
-  "generated_at": "2026-10-22T01:30:18+00:00",
+  "event_count": 6486,
+  "floor_check": "6486 events against a 6438-event baseline",
+  "generated_at": "2026-10-22T04:32:49+00:00",
   "problems": [],
   "sources": [
     "calagator",
