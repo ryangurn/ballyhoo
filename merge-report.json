@@ -1505,6 +1505,14 @@
       "venue": "Helium Comedy Club"
     },
     {
+      "dropped": "willamette_week:20252352@2026-10-28T19:30",
+      "kept": "dopdx:17534530",
+      "start_at": "2026-10-28T19:30:00-07:00",
+      "title_dropped": "Special Event: JT Parr",
+      "title_kept": "JT Parr",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "dopdx:17576323",
       "kept": "ticketmaster:Z7r9jZ1A7J7aA",
       "start_at": "2026-10-28T19:30:00-07:00",
@@ -2431,6 +2439,14 @@
       "title_dropped": "Blade Rave",
       "title_kept": "Blade Rave",
       "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "willamette_week:20251926@2026-10-31T21:00",
+      "kept": "dopdx:17894461",
+      "start_at": "2026-10-31T21:00:00-07:00",
+      "title_dropped": "NEIL-O-WEEN! Jimmy Smith (The Gourds), Trisha Gene Brady (The Black Lillies) & Lazy Horse",
+      "title_kept": "Lazy Horse // Jimmy Smith // Trisha Gene Brady",
+      "venue": "Alberta Street Pub"
     },
     {
       "dropped": "willamette_week:19907063@2026-10-31T21:00",
@@ -6073,9 +6089,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6567,
-  "floor_check": "6567 events against a 6566-event baseline",
-  "generated_at": "2026-10-23T19:07:32+00:00",
+  "event_count": 6578,
+  "floor_check": "6578 events against a 6567-event baseline",
+  "generated_at": "2026-10-23T19:21:01+00:00",
   "problems": [],
   "sources": [
     "calagator",
