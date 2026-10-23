@@ -22705,6 +22705,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA74aE",
+      "image_url": "https://s1.ticketm.net/dam/a/8e4/d554c869-559e-4fb4-84fd-fd30ab9948e4_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA74aE",
+      "organizer": "LIVE NATION MUSIC",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-03-26T20:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA74aE",
+      "title": "Daniel Donato's Cosmic Country",
+      "venue": {
+        "address": "1300 SE Stark Street #110",
+        "city": "Portland",
+        "latitude": 45.513901,
+        "longitude": -122.642799,
+        "name": "Revolution Hall - Portland"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:Z7r9jZ1AA7A1p",
@@ -27626,7 +27655,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-23T13:22:09+00:00",
+  "generated_at": "2026-10-23T18:17:18+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
