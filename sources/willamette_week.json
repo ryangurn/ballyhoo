@@ -63,6 +63,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "id": "willamette_week:20255140@2026-10-23T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wo7h_QQCv0m_tl32BZcbww.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.visitvancouverwa.com/event/starbird-theatre-presents-leaving-iowa/30432/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T00:00:00-07:00",
+      "summary": "This heartfelt comedy is a toast to the classic family road trip. More specifically, it is the story of Don Browning, a middle-aged writer, who returns home and decides to finally take his father's ashes to his childhood home, as requested. But when Don discovers Grandma's house is now a grocery store, he begins traveling across Iowa searching for a proper resting place for his father. This father-and-son road trip shifts smoothly from the present to Don's memories of the annual, torturous vacations of his childhood. Don's existential journey leads him to reconcile his past and present at the center of the United States. Leaving Iowa is a postcard to anyone who has ever found himself or herself driving alone on a road, revisiting fond memories of his or her youth.",
+      "title": "Starbird Theatre Presents \"Leaving Iowa\"",
+      "venue": {
+        "address": "1501 E Evergreen Blvd",
+        "city": "Vancouver",
+        "latitude": 45.709656,
+        "longitude": -122.576651,
+        "name": "Bi-Zi Farms"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:20238351@2026-10-23T00:00",
@@ -1158,35 +1186,6 @@
         "family"
       ],
       "end_at": "2026-10-23T11:00:00-07:00",
-      "id": "willamette_week:20131148@2026-10-23T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1071",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-23T10:15:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "205 NE Russell Street",
-        "city": "Portland",
-        "latitude": 45.54121794278324,
-        "longitude": -122.66326099447758,
-        "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-23T11:00:00-07:00",
       "id": "willamette_week:20131149@2026-10-23T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -1209,6 +1208,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-23T11:00:00-07:00",
+      "id": "willamette_week:20131148@2026-10-23T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1071",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T10:15:00-07:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -2478,37 +2506,6 @@
     },
     {
       "categories": [
-        "food"
-      ],
-      "end_at": "2026-10-23T18:00:00-07:00",
-      "id": "willamette_week:17665301@2026-10-23T15:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sty5Op15B0-Z9pHym7MgFA.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.willakenzie.com/events.html",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-23T15:00:00-07:00",
-      "summary": "Join Us for Social Hour! In the spirit of how wine tasting used to be, we’re opening our doors for a complimentary Social Hour every Friday from 3 p.m. to 6 p.m. Gather your friends or come by yourself and enjoy world-class wines, including exclusive pours you can only taste here. Take in breathtaking vineyard views on our heated patio or relax by the fire in our cozy tasting room. While reservations are welcome, they are not required. Feel free to simply arrive and unwind with us. We can’t wait to see you!",
-      "title": "Social Hour",
-      "venue": {
-        "address": "19143 NE Laughlin Rd",
-        "city": "Yamhill",
-        "latitude": 45.360959,
-        "longitude": -123.137949,
-        "name": "WillaKenzie Estate"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-10-23T16:15:00-07:00",
@@ -3236,6 +3233,34 @@
         "latitude": 45.529598,
         "longitude": -122.63672,
         "name": "Seagrape Apothecary"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-23T20:00:00-07:00",
+      "id": "willamette_week:20255520@2026-10-23T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g7tTmbnv5Umv3UteqhR4mQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsboroumc.org/events-1/game-night",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-23T18:00:00-07:00",
+      "summary": "Whether you are an avid gamer or just want to try something new, all are welcome to join us! From board games to video games, to hanging out with church friends, we've got something for everyone! We meet on the 4th Friday of every month, hope to see you there!",
+      "title": "Game Night",
+      "venue": {
+        "city": "Hillsboro",
+        "latitude": 45.52289,
+        "longitude": -122.98983,
+        "name": "Hillsboro"
       }
     },
     {
@@ -6675,6 +6700,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "id": "willamette_week:20255140@2026-10-24T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wo7h_QQCv0m_tl32BZcbww.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.visitvancouverwa.com/event/starbird-theatre-presents-leaving-iowa/30432/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T00:00:00-07:00",
+      "summary": "This heartfelt comedy is a toast to the classic family road trip. More specifically, it is the story of Don Browning, a middle-aged writer, who returns home and decides to finally take his father's ashes to his childhood home, as requested. But when Don discovers Grandma's house is now a grocery store, he begins traveling across Iowa searching for a proper resting place for his father. This father-and-son road trip shifts smoothly from the present to Don's memories of the annual, torturous vacations of his childhood. Don's existential journey leads him to reconcile his past and present at the center of the United States. Leaving Iowa is a postcard to anyone who has ever found himself or herself driving alone on a road, revisiting fond memories of his or her youth.",
+      "title": "Starbird Theatre Presents \"Leaving Iowa\"",
+      "venue": {
+        "address": "1501 E Evergreen Blvd",
+        "city": "Vancouver",
+        "latitude": 45.709656,
+        "longitude": -122.576651,
+        "name": "Bi-Zi Farms"
+      }
+    },
+    {
+      "categories": [
         "market"
       ],
       "id": "willamette_week:20238352@2026-10-24T00:00",
@@ -8572,6 +8625,34 @@
         "latitude": 45.317554,
         "longitude": -122.70586,
         "name": "Frog Pond Farm"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20254881@2026-10-24T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VtSq3X-I90ugnWtW9ud_Bw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2377063176445891/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-24T11:00:00-07:00",
+      "summary": "All day -All ages welcome before 7:30pm -21\\+ & tickets required after 7:30pm Celebrate with us! Stop by for food & drink specials, cupcakes and a Passport stamp. Then, stick around for The Hip Replacements at 8pm!",
+      "title": "White Eagle's 121st birthday!",
+      "venue": {
+        "address": "836 N Russell St",
+        "city": "Portland",
+        "latitude": 45.5407905579,
+        "longitude": -122.6754455566,
+        "name": "The White Eagle"
       }
     },
     {
@@ -15144,6 +15225,34 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "id": "willamette_week:20255140@2026-10-25T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wo7h_QQCv0m_tl32BZcbww.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.visitvancouverwa.com/event/starbird-theatre-presents-leaving-iowa/30432/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-25T00:00:00-07:00",
+      "summary": "This heartfelt comedy is a toast to the classic family road trip. More specifically, it is the story of Don Browning, a middle-aged writer, who returns home and decides to finally take his father's ashes to his childhood home, as requested. But when Don discovers Grandma's house is now a grocery store, he begins traveling across Iowa searching for a proper resting place for his father. This father-and-son road trip shifts smoothly from the present to Don's memories of the annual, torturous vacations of his childhood. Don's existential journey leads him to reconcile his past and present at the center of the United States. Leaving Iowa is a postcard to anyone who has ever found himself or herself driving alone on a road, revisiting fond memories of his or her youth.",
+      "title": "Starbird Theatre Presents \"Leaving Iowa\"",
+      "venue": {
+        "address": "1501 E Evergreen Blvd",
+        "city": "Vancouver",
+        "latitude": 45.709656,
+        "longitude": -122.576651,
+        "name": "Bi-Zi Farms"
+      }
+    },
+    {
+      "categories": [
         "market"
       ],
       "id": "willamette_week:20238352@2026-10-25T00:00",
@@ -18834,6 +18943,37 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-25T18:30:00-07:00",
+      "id": "willamette_week:20257125@2026-10-25T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1o2bTVKLqEmgsorylg_wFw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.pcs.org/events/pcs-presents-the-pride-prejudice-halloween-tea-dance",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-25T17:00:00-07:00",
+      "summary": "We are throwing a Halloween themed Tea Dance! Pride & Prejudice is closing and being taken over by zombies looking to whet their appetite before Halloween. Part costume party - Part Halloween Celebration, Part Regency era courting ritual, All afternoon discotheque tea dance vibes. End your weekend on a spooky note with a somewhat civilized if not undead costume dance party. Hosted by the fabulous Mona Chrome, music from the amazing Lyta Blunt. All ages!",
+      "title": "PCS Presents: The Pride & Prejudice Halloween Tea Dance",
+      "venue": {
+        "address": "128 NW 11th Ave",
+        "city": "Portland",
+        "latitude": 45.5241737366,
+        "longitude": -122.6816558838,
+        "name": "Portland Center Stage"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "willamette_week:20097919@2026-10-25T17:00",
@@ -22196,6 +22336,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-10-26T19:00:00-07:00",
+      "summary": "7PM Square Dancing 9:30 Karaoke",
       "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fsquare-dancing-with-bex-bee-showdown-saloon-tickets%252F14395494%26utm_medium%3daffiliate",
       "title": "Square Dancing with Bex Bee and the Old Time String Band",
       "venue": {
@@ -27768,6 +27909,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-28T11:30:00-07:00",
+      "id": "willamette_week:20257126@2026-10-28T09:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LYnsPmMG5k2LUCL8UrdJnw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://community.portlandmetrochamber.com/chamber-events/Details/chamber-membership-101-1917742?sourceTypeId=Website",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-28T09:30:00-07:00",
+      "summary": "Description This free, open-to-all event is a great opportunity to connect with fellow Chamber members and meet the teams behind the work. You'll hear brief presentations from the Chamber, Downtown Portland Clean & Safe, and Partners in Diversity highlighting ways to get involved and make the most of your membership. The event will wrap up with time for questions and casual networking. Join us for a fun, get-to-know-your-new-neighbor gathering, donuts and coffee included!",
+      "title": "Chamber Membership 101",
+      "venue": {
+        "address": "121 SW Salmon St",
+        "city": "Portland",
+        "latitude": 45.516249,
+        "longitude": -122.674809,
+        "name": "World Trade Center Theatre"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-10-28T14:30:00-07:00",
@@ -29385,6 +29555,34 @@
         "latitude": 45.619046,
         "longitude": -122.547103,
         "name": "Vault 31 Bar"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "willamette_week:20256653@2026-10-28T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/h7E5nX_B-0eDZ23dA3e1Ag.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsborodowntownstation.com/live-events",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-28T18:00:00-07:00",
+      "summary": "The projector will be showing..Wild Robot! We'll be handing out free popcorn to enjoy. Movie Night is every other Wednesday. Next Movie Night: 11/11",
+      "title": "Movie Night",
+      "venue": {
+        "address": "320 SE Baseline St",
+        "city": "Hillsboro",
+        "latitude": 45.519739362023536,
+        "longitude": -122.98561036441757,
+        "name": "Hillsboro Downtown Station"
       }
     },
     {
@@ -33848,6 +34046,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20256654@2026-10-29T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Yp4xq1AO7E-7VrQldFVv_Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsborodowntownstation.com/live-events",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-29T17:00:00-07:00",
+      "summary": "from 5-8pm for Board Game Night! Bring your own or dive into our stash of games. Round up your friends or make new ones and let the fun begin! Next Board Game Night 11/12",
+      "title": "Board Game Night",
+      "venue": {
+        "address": "320 SE Baseline St",
+        "city": "Hillsboro",
+        "latitude": 45.519739362023536,
+        "longitude": -122.98561036441757,
+        "name": "Hillsboro Downtown Station"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-10-29T19:00:00-07:00",
@@ -34170,6 +34396,35 @@
         "latitude": 45.519953,
         "longitude": -123.114365,
         "name": "The Growler Garage"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-10-29T20:00:00-07:00",
+      "id": "willamette_week:20257697@2026-10-29T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8be997ff-8573-4d9f-9415-f3673a9d9c3b.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.uptownbeer.co/events/2026/10/13/duality-brewing-tasting-thursday-october-22-68pm",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-29T18:00:00-07:00",
+      "summary": "Duality Brewing started as a DIY nano operation, Mike Lockwood hand packaging tiny batches out of a shipping container and self distributing to local spots around Portland. Co-owner Alyssa LeCompte built the look and together they built a cult following before opening their Kerns neighborhood taproom in 2023. The beer matches the story. Expect market fresh produce and herbs, oak fermented Hefeweizen with Chardonnay juice, pale ales blended with shiro plum wine, complex saisons, and barrel aged imperial stouts. Nothing ordinary, nothing boring. Come taste it for yourself. See you soon!",
+      "title": "DUALITY BREWING TASTING",
+      "venue": {
+        "address": "6620 SW Scholls Ferry Rd",
+        "city": "Portland",
+        "latitude": 45.4724724591,
+        "longitude": -122.7715140581,
+        "name": "Uptown Market"
       }
     },
     {
@@ -36989,6 +37244,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-10-29T23:55:00-07:00",
+      "id": "willamette_week:20256575@2026-10-29T22:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c4a70182-53a7-493c-9b66-ebdd0e2e4b3a.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.funhouselounge.com/calendar/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-29T22:00:00-07:00",
+      "title": "Roast Battle PDX",
+      "venue": {
+        "address": "2432 SE 11th Ave",
+        "city": "Portland",
+        "latitude": 45.5052337646,
+        "longitude": -122.6544265747,
+        "name": "Funhouse Lounge"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-29T23:30:00-07:00",
@@ -39148,37 +39431,6 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-10-30T18:00:00-07:00",
-      "id": "willamette_week:17665301@2026-10-30T15:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sty5Op15B0-Z9pHym7MgFA.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.willakenzie.com/events.html",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-30T15:00:00-07:00",
-      "summary": "Join Us for Social Hour! In the spirit of how wine tasting used to be, we’re opening our doors for a complimentary Social Hour every Friday from 3 p.m. to 6 p.m. Gather your friends or come by yourself and enjoy world-class wines, including exclusive pours you can only taste here. Take in breathtaking vineyard views on our heated patio or relax by the fire in our cozy tasting room. While reservations are welcome, they are not required. Feel free to simply arrive and unwind with us. We can’t wait to see you!",
-      "title": "Social Hour",
-      "venue": {
-        "address": "19143 NE Laughlin Rd",
-        "city": "Yamhill",
-        "latitude": 45.360959,
-        "longitude": -123.137949,
-        "name": "WillaKenzie Estate"
       }
     },
     {
@@ -44440,35 +44692,6 @@
         "family"
       ],
       "end_at": "2026-10-31T11:00:00-07:00",
-      "id": "willamette_week:19634275@2026-10-31T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/family-storytime-1089",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-31T10:15:00-07:00",
-      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
-      "title": "Family Storytime",
-      "venue": {
-        "address": "6008 SE 49th Avenue",
-        "city": "Portland",
-        "latitude": 45.478934715870885,
-        "longitude": -122.61206954232797,
-        "name": "Woodstock Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-31T11:00:00-07:00",
       "id": "willamette_week:20051440@2026-10-31T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LOPLVSPyQEeyOuHV1ekTVg.large.png",
       "is_all_day": false,
@@ -44491,6 +44714,35 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-31T11:00:00-07:00",
+      "id": "willamette_week:19634275@2026-10-31T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/family-storytime-1089",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-31T10:15:00-07:00",
+      "summary": "Children from birth to age 6 \\(with a favorite adult\\) enjoy books, songs, rhymes and movement activities while building language and literacy skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation.",
+      "title": "Family Storytime",
+      "venue": {
+        "address": "6008 SE 49th Avenue",
+        "city": "Portland",
+        "latitude": 45.478934715870885,
+        "longitude": -122.61206954232797,
+        "name": "Woodstock Library"
       }
     },
     {
@@ -53344,6 +53596,34 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:20258452@2026-11-01T20:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VP2ftvEdx0C-DJZNNNeoLA.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fde-la-flor-followed-by-dantes-tickets%252F15052543%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-01T20:30:00-08:00",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fde-la-flor-followed-by-dantes-tickets%252F15052543%26utm_medium%3daffiliate",
+      "title": "DE LA FLOR followed by Sinferno Cabaret",
+      "venue": {
+        "address": "350 West Burnside",
+        "city": "Portland",
+        "latitude": 45.5230448395,
+        "longitude": -122.6738762856,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:19469867@2026-11-01T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vuAXMbbHhUuCeQDOg7dL5A.large.png",
       "is_all_day": false,
@@ -58314,6 +58594,37 @@
         "latitude": 45.5197386178146,
         "longitude": -123.05865727043835,
         "name": "Cornelius Public Library"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-04T17:00:00-08:00",
+      "id": "willamette_week:20258352@2026-11-04T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_tHpZLqhbEq9ivl3rhwkow.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://pdxcontemporaryart.com/photorealism",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-04T10:00:00-08:00",
+      "summary": "PDX CONTEMPORARY ART is pleased to present Photorealism, an exhibition of new, large-scale paintings and intimate drawings by Seattle based artist Joe Rudko. A few years ago, Joe Rudko might have wondered when or where a photograph was taken. Now, he asks: is it real? Changes in technology and culture have altered our perception of photography as a reliable record of reality. If photographs are fragmented, altered, and generated, then what does it mean to make a photorealistic painting? The works in this show began from the idea that if anything can be a photograph, anything can be photorealistic. Rudko’s paintings begin with fragmented pieces of found photography. Collaged snippets of flowers, skies, hands, and snapshots of friends are continued with oil pigment sticks, extending their edges so they cross over one another creating new, geometric images in the center. These works seek to merge the factual, functional purpose of photography with the more tactile, cerebral qualities of drawing and painting. Also included in the exhibition is a series of drawings made on pages of a book of Henri Matisse’s travels in Morocco. These colored pencil and pastel drawings were made while the artist was in Paris and became a framework for his own travel drawings.",
+      "title": "Joe Rudko",
+      "venue": {
+        "address": "1881 NW Vaughn Street",
+        "city": "Portland",
+        "latitude": 45.537255,
+        "longitude": -122.690525,
+        "name": "PDX CONTEMPORARY ART"
       }
     },
     {
@@ -66472,35 +66783,6 @@
         "family"
       ],
       "end_at": "2026-11-06T11:00:00-08:00",
-      "id": "willamette_week:20131149@2026-11-06T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1093",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T10:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-06T11:00:00-08:00",
       "id": "willamette_week:20131148@2026-11-06T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
       "is_all_day": false,
@@ -66523,6 +66805,35 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-06T11:00:00-08:00",
+      "id": "willamette_week:20131149@2026-11-06T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1093",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T10:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -66941,35 +67252,6 @@
         "family"
       ],
       "end_at": "2026-11-06T12:00:00-08:00",
-      "id": "willamette_week:20131153@2026-11-06T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1132",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "6008 SE 49th Avenue",
-        "city": "Portland",
-        "latitude": 45.478934715870885,
-        "longitude": -122.61206954232797,
-        "name": "Woodstock Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-06T12:00:00-08:00",
       "id": "willamette_week:20131149@2026-11-06T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -66992,6 +67274,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-06T12:00:00-08:00",
+      "id": "willamette_week:20131153@2026-11-06T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1132",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "6008 SE 49th Avenue",
+        "city": "Portland",
+        "latitude": 45.478934715870885,
+        "longitude": -122.61206954232797,
+        "name": "Woodstock Library"
       }
     },
     {
@@ -67677,37 +67988,6 @@
         "latitude": 45.607122,
         "longitude": -122.689815,
         "name": "Portland Expo Center"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-11-06T18:00:00-08:00",
-      "id": "willamette_week:17665301@2026-11-06T15:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sty5Op15B0-Z9pHym7MgFA.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.willakenzie.com/events.html",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T15:00:00-08:00",
-      "summary": "Join Us for Social Hour! In the spirit of how wine tasting used to be, we’re opening our doors for a complimentary Social Hour every Friday from 3 p.m. to 6 p.m. Gather your friends or come by yourself and enjoy world-class wines, including exclusive pours you can only taste here. Take in breathtaking vineyard views on our heated patio or relax by the fire in our cozy tasting room. While reservations are welcome, they are not required. Feel free to simply arrive and unwind with us. We can’t wait to see you!",
-      "title": "Social Hour",
-      "venue": {
-        "address": "19143 NE Laughlin Rd",
-        "city": "Yamhill",
-        "latitude": 45.360959,
-        "longitude": -123.137949,
-        "name": "WillaKenzie Estate"
       }
     },
     {
@@ -93550,35 +93830,6 @@
         "family"
       ],
       "end_at": "2026-11-13T11:00:00-08:00",
-      "id": "willamette_week:20131148@2026-11-13T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1074",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T10:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "205 NE Russell Street",
-        "city": "Portland",
-        "latitude": 45.54121794278324,
-        "longitude": -122.66326099447758,
-        "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-13T11:00:00-08:00",
       "id": "willamette_week:20131149@2026-11-13T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -93601,6 +93852,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-13T11:00:00-08:00",
+      "id": "willamette_week:20131148@2026-11-13T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1074",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T10:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -93665,35 +93945,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-11-13T11:00:00-08:00",
-      "id": "willamette_week:20131150@2026-11-13T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1041",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T10:30:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-11-13T11:15:00-08:00",
       "id": "willamette_week:20131151@2026-11-13T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
@@ -93717,6 +93968,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-13T11:00:00-08:00",
+      "id": "willamette_week:20131150@2026-11-13T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1041",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T10:30:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -93990,35 +94270,6 @@
         "family"
       ],
       "end_at": "2026-11-13T12:00:00-08:00",
-      "id": "willamette_week:20131149@2026-11-13T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1173",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-13T12:00:00-08:00",
       "id": "willamette_week:20131153@2026-11-13T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
       "is_all_day": false,
@@ -94041,6 +94292,35 @@
         "latitude": 45.478934715870885,
         "longitude": -122.61206954232797,
         "name": "Woodstock Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-13T12:00:00-08:00",
+      "id": "willamette_week:20131149@2026-11-13T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1173",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -94663,37 +94943,6 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-11-13T18:00:00-08:00",
-      "id": "willamette_week:17665301@2026-11-13T15:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sty5Op15B0-Z9pHym7MgFA.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.willakenzie.com/events.html",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T15:00:00-08:00",
-      "summary": "Join Us for Social Hour! In the spirit of how wine tasting used to be, we’re opening our doors for a complimentary Social Hour every Friday from 3 p.m. to 6 p.m. Gather your friends or come by yourself and enjoy world-class wines, including exclusive pours you can only taste here. Take in breathtaking vineyard views on our heated patio or relax by the fire in our cozy tasting room. While reservations are welcome, they are not required. Feel free to simply arrive and unwind with us. We can’t wait to see you!",
-      "title": "Social Hour",
-      "venue": {
-        "address": "19143 NE Laughlin Rd",
-        "city": "Yamhill",
-        "latitude": 45.360959,
-        "longitude": -123.137949,
-        "name": "WillaKenzie Estate"
       }
     },
     {
@@ -112471,6 +112720,36 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-11-18T19:30:00-08:00",
+      "id": "willamette_week:19798605@2026-11-18T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VXFe7vj0Kkaut-tTQTMH9Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/personal-safety-workshop-presented-city-portland-17",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-18T17:30:00-08:00",
+      "summary": "Have concerns about your personal safety at home or in the community? Have a youth headed to college this fall? A teen beginning high school? A tween staying home by themselves for the first time? Come join us for an Introductory Personal Safety and Self-Defense workshop to learn the empowering skills to help keep yourself and your young ones safe and strong! Snacks provided for all attendees The class will cover assertive communication and de-escalation skills. Learn how to tap into intuition and options for escape and safety planning. This is open to all community members ages 11 and older. Community members ages 11-14 must be accompanied by an adult. Presented by The City of Portland Office of Violence Prevention Safe Blocks program and Rose City Self-Defense.",
+      "ticket_url": "https://events.multcolib.org/event/17186483&registration=true",
+      "title": "Personal Safety Workshop presented by City of Portland",
+      "venue": {
+        "address": "805 SE 122nd Avenue",
+        "city": "Portland",
+        "latitude": 45.516677291858464,
+        "longitude": -122.53848246502874,
+        "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-11-18T19:30:00-08:00",
@@ -116092,6 +116371,34 @@
         "latitude": 45.519953,
         "longitude": -123.114365,
         "name": "The Growler Garage"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "willamette_week:20258454@2026-11-19T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XJ__wgvCckajb4L9zBDCIg.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketmaster.com%252Fnorthwest-elite-sports-west-coast-classic-portland-oregon-11-19-2026%252Fevent%252F0F00654E97E456B1%253Futm_content%253Dhotevent%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-19T18:00:00-08:00",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketmaster.com%252Fnorthwest-elite-sports-west-coast-classic-portland-oregon-11-19-2026%252Fevent%252F0F00654E97E456B1%253Futm_content%253Dhotevent%26utm_medium%3daffiliate",
+      "title": "Northwest Elite Sports West Coast Classic",
+      "venue": {
+        "address": "1 N Center Court St",
+        "city": "Portland",
+        "latitude": 45.5312576294,
+        "longitude": -122.6684036255,
+        "name": "Moda Center"
       }
     },
     {
@@ -119865,37 +120172,6 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-11-20T18:00:00-08:00",
-      "id": "willamette_week:17665301@2026-11-20T15:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sty5Op15B0-Z9pHym7MgFA.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.willakenzie.com/events.html",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-20T15:00:00-08:00",
-      "summary": "Join Us for Social Hour! In the spirit of how wine tasting used to be, we’re opening our doors for a complimentary Social Hour every Friday from 3 p.m. to 6 p.m. Gather your friends or come by yourself and enjoy world-class wines, including exclusive pours you can only taste here. Take in breathtaking vineyard views on our heated patio or relax by the fire in our cozy tasting room. While reservations are welcome, they are not required. Feel free to simply arrive and unwind with us. We can’t wait to see you!",
-      "title": "Social Hour",
-      "venue": {
-        "address": "19143 NE Laughlin Rd",
-        "city": "Yamhill",
-        "latitude": 45.360959,
-        "longitude": -123.137949,
-        "name": "WillaKenzie Estate"
       }
     },
     {
@@ -129583,7 +129859,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-23T19:19:08+00:00",
+  "generated_at": "2026-10-23T22:21:52+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
