@@ -832,29 +832,6 @@
       "categories": [
         "outdoors"
       ],
-      "id": "oregon_metro:cemetery-tending-multnomah-park-cemetery-2026-11-13",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/cemetery-tending-multnomah-park-cemetery-2026-11-13",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-13T10:30:00-08:00",
-      "title": "Cemetery tending at Multnomah Park Cemetery",
-      "venue": {
-        "city": "Portland",
-        "name": "Multnomah Park Cemetery"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
       "id": "oregon_metro:mushroom-hike-2026-11-13",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-11-13",
@@ -1072,6 +1049,25 @@
       },
       "start_at": "2026-11-18T17:00:00-08:00",
       "title": "Metro Policy Advisory Committee meeting"
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:free-parking-day-metro-parks-2026-11-19",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/free-parking-day-metro-parks-2026-11-19",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-19T00:00:00-08:00",
+      "title": "Free parking day at Metro parks"
     },
     {
       "categories": [
@@ -1569,6 +1565,31 @@
       },
       "start_at": "2026-12-10T16:00:00-08:00",
       "title": "Future Vision Commission meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:metro-council-work-session-2026-12-15",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-12-15",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-12-15T10:00:00-08:00",
+      "title": "Metro Council work session",
       "venue": {
         "city": "Portland",
         "latitude": 45.527,
@@ -2757,7 +2778,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-23T18:30:29+00:00",
+  "generated_at": "2026-10-23T22:23:32+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
