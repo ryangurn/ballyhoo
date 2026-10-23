@@ -137,6 +137,30 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-10-28T11:00:00-07:00",
+      "id": "calagator:1250482767",
+      "is_all_day": false,
+      "listing_url": "https://meet.google.com/yew-uwyc-guj",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-28T10:00:00-07:00",
+      "summary": "Join folks from the Portland Startup Slack for an open discussion about AI, findings, experiences, new tools, and use cases.",
+      "title": "AI Chat",
+      "venue": {
+        "name": "Online via Google Meet"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-10-29T21:00:00-07:00",
       "id": "calagator:1250482758",
       "is_all_day": false,
@@ -550,9 +574,37 @@
         "longitude": -122.6553,
         "name": "Hawthorne Asylum Food Cart Pod"
       }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2027-05-06T17:00:00-07:00",
+      "id": "calagator:1250482766",
+      "is_all_day": false,
+      "listing_url": "https://events.itrevolution.com/2027-portland/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2027-05-05T09:00:00-07:00",
+      "summary": "Two days of talks from the technology leaders shipping AI in production in large enterprises: experience reports on what changes when agents write most of the code, how teams and code review change, securing services built at AI speed, measuring developer productivity, and modernizing legacy codebases.\r\n\r\nHosted by Gene Kim (The Phoenix Project, The DevOps Handbook, Vibe Coding) and produced by IT Revolution, the team behind the DevOps Enterprise Summit. Recent editions featured speakers from Vanguard, Northrop Grumman, M&T Bank, Red Hat, OpenAI and GitLab.\r\n\r\nTickets and details: https://events.itrevolution.com/2027-portland/",
+      "title": "Enterprise AI Summit 2027",
+      "venue": {
+        "address": "1432 NW Johnson Street",
+        "city": "Portland",
+        "latitude": 45.5285,
+        "longitude": -122.6857,
+        "name": "Porsche Studio Portland"
+      }
     }
   ],
-  "generated_at": "2026-10-23T19:06:39+00:00",
+  "generated_at": "2026-10-23T23:04:34+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
