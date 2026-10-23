@@ -1873,6 +1873,14 @@
       "venue": "Star Theater"
     },
     {
+      "dropped": "willamette_week:20256575@2026-10-29T22:00",
+      "kept": "dopdx:17953316",
+      "start_at": "2026-10-29T22:00:00-07:00",
+      "title_dropped": "Roast Battle PDX",
+      "title_kept": "Roast Battle PDX",
+      "venue": "Funhouse Lounge"
+    },
+    {
       "dropped": "willamette_week:19907062@2026-10-30T14:00",
       "kept": "dopdx:17890605",
       "start_at": "2026-10-30T14:00:00-07:00",
@@ -2671,6 +2679,14 @@
       "title_dropped": "Casual Eddie with Special Guest Dominic Robison",
       "title_kept": "Casual Eddie",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:20258452@2026-11-01T20:30",
+      "kept": "ticketmaster:rZ7HnEZ1A4v34d",
+      "start_at": "2026-11-01T20:30:00-08:00",
+      "title_dropped": "DE LA FLOR followed by Sinferno Cabaret",
+      "title_kept": "DE LA FLOR followed by Sinferno Cabaret",
+      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19469867@2026-11-01T21:00",
@@ -5313,6 +5329,14 @@
       "venue": "Moda Center"
     },
     {
+      "dropped": "willamette_week:20258454@2026-11-19T18:00",
+      "kept": "dopdx:17965902",
+      "start_at": "2026-11-19T18:00:00-08:00",
+      "title_dropped": "Northwest Elite Sports West Coast Classic",
+      "title_kept": "Oregon vs Oregon State",
+      "venue": "Moda Center"
+    },
+    {
       "dropped": "dopdx:17873840",
       "kept": "ticketmaster:rZ7HnEZ1Af0vFd",
       "start_at": "2026-11-19T19:00:00-08:00",
@@ -6097,9 +6121,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6610,
-  "floor_check": "6610 events against a 6570-event baseline",
-  "generated_at": "2026-10-23T22:07:36+00:00",
+  "event_count": 6617,
+  "floor_check": "6617 events against a 6570-event baseline",
+  "generated_at": "2026-10-23T22:23:23+00:00",
   "problems": [],
   "sources": [
     "calagator",
