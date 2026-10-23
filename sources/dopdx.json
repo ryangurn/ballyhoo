@@ -859,6 +859,33 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-24T02:00:00-07:00",
+      "id": "dopdx:16552140",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1792332851/event-16552140.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/23/naughty-bits-new-year-s-party-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-23T19:00:00-07:00",
+      "summary": "Ring in the New Year with Naughty Bits! The party starts at 10pm with Naughty Bits, your favorite CSz comedians in a silly, sexy show, where your wildest and most outrageous suggestions are the inspriation. It's the goofiest, most ADULTS-ONLY show you've ever seen. After the show, stick around for the party! Free pizza and a free champagne toast (with more drinks available at the bar,) a New Year's countdown, and a dance floor round out the night. Come join the party at Portland Comedy Theater, and enter 2027 with laughter and fun. This event is for audiences 21 and over.",
+      "title": "Naughty Bits New Year's Party!",
+      "venue": {
+        "address": "535 NW 16th Ave",
+        "city": "Portland",
+        "name": "Portland Comedy Theater"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-23T21:00:00-07:00",
@@ -26754,36 +26781,6 @@
         "music"
       ],
       "end_at": "2026-11-08T02:00:00-08:00",
-      "id": "dopdx:17466756",
-      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1781123539/event-17466756.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/7/sienna-spiro-my-house-tour-tickets",
-      "organizer": "Monqui Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-07T20:00:00-08:00",
-      "summary": "London-born singer and songwriter SIENNA SPIRO announces the “My House” tour, including an extensive North American fall run followed by dates in Asia, Australia, New Zealand, UK and Europe. Just last week, SIENNA released the official music video for her enthralling single “The Visitor.” Written and produced by SIENNA with Omer Fedi (SZA, Lil Nas X) and Michael Pollack (Justin Bieber, Miley Cyrus), the song draws its power from a spellbinding vocal recorded in one take, lyrics that cut to the bone, and a 20-piece string orchestra led and arranged by Academy Award-winner Peter Rotter (Oppenheimer, The Last Repair Shop). While SIENNA’s poetry and the video nod to matters of the heart, by the song’s end, we sense that she’s singing about somet",
-      "title": "Sienna Spiro - My House Tour",
-      "venue": {
-        "address": "1332 W. Burnside",
-        "city": "Portland",
-        "latitude": 45.5227528,
-        "longitude": -122.6851261,
-        "name": "McMenamins Crystal Ballroom"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-08T02:00:00-08:00",
       "id": "dopdx:17755813",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1792412288/event-17755813.png",
       "is_all_day": false,
@@ -26808,6 +26805,36 @@
         "latitude": 45.511828,
         "longitude": -122.6229056,
         "name": "Hawthorne Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-08T02:00:00-08:00",
+      "id": "dopdx:17466756",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1781123539/event-17466756.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/7/sienna-spiro-my-house-tour-tickets",
+      "organizer": "Monqui Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-07T20:00:00-08:00",
+      "summary": "London-born singer and songwriter SIENNA SPIRO announces the “My House” tour, including an extensive North American fall run followed by dates in Asia, Australia, New Zealand, UK and Europe. Just last week, SIENNA released the official music video for her enthralling single “The Visitor.” Written and produced by SIENNA with Omer Fedi (SZA, Lil Nas X) and Michael Pollack (Justin Bieber, Miley Cyrus), the song draws its power from a spellbinding vocal recorded in one take, lyrics that cut to the bone, and a 20-piece string orchestra led and arranged by Academy Award-winner Peter Rotter (Oppenheimer, The Last Repair Shop). While SIENNA’s poetry and the video nod to matters of the heart, by the song’s end, we sense that she’s singing about somet",
+      "title": "Sienna Spiro - My House Tour",
+      "venue": {
+        "address": "1332 W. Burnside",
+        "city": "Portland",
+        "latitude": 45.5227528,
+        "longitude": -122.6851261,
+        "name": "McMenamins Crystal Ballroom"
       }
     },
     {
@@ -45861,7 +45888,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-23T05:16:07+00:00",
+  "generated_at": "2026-10-23T10:27:19+00:00",
   "source_id": "dopdx",
   "status": "ok"
 }
