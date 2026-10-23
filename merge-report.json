@@ -5825,6 +5825,14 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
+      "dropped": "willamette_week:17670892@2026-11-22T09:00",
+      "kept": "neighborhood_markets:hillsdale@2026-11-22",
+      "start_at": "2026-11-22T09:00:00-08:00",
+      "title_dropped": "Hillsdale Farmers' Market",
+      "title_kept": "Hillsdale Farmers Market",
+      "venue": "Hillsdale Farmers Market"
+    },
+    {
       "dropped": "obt:866",
       "kept": "ticketmaster:Z7r9jZ1AAvzF8",
       "start_at": "2026-12-23T14:00:00-08:00",
@@ -5985,70 +5993,6 @@
       "venue": "Oregon Convention Center"
     },
     {
-      "dropped": "willamette_week:18893395@2026-10-22T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1Af0vkK",
-      "start_at": "2026-10-22T19:00:00-07:00",
-      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:18463210@2026-10-22T19:30",
-      "kept": "ticketmaster:vvG1HZ_kSyG5ch",
-      "start_at": "2026-10-22T19:30:00-07:00",
-      "title_dropped": "Laura Ramoso: The Calm Down Tour",
-      "title_kept": "Laura Ramoso: The Calm Down Tour",
-      "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
-      "dropped": "willamette_week:19571210@2026-10-22T19:30",
-      "kept": "ticketmaster:Z7r9jZ1AAZ7G8",
-      "start_at": "2026-10-22T19:30:00-07:00",
-      "title_dropped": "Demon Hunter - Storm the Gates of Hell 20th Anniversary Tour",
-      "title_kept": "Demon Hunter",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "willamette_week:20097919@2026-10-22T19:30",
-      "kept": "ticketmaster:Z7r9jZ1AA7vro",
-      "start_at": "2026-10-22T19:30:00-07:00",
-      "title_dropped": "SAW: The Musical",
-      "title_kept": "SAW: The Musical (Touring)",
-      "venue": "Alberta Abbey"
-    },
-    {
-      "dropped": "willamette_week:20048034@2026-10-22T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1Afuk7V",
-      "start_at": "2026-10-22T20:00:00-07:00",
-      "title_dropped": "ETANA",
-      "title_kept": "ETANA with COLOSO",
-      "venue": "Star Theater"
-    },
-    {
-      "dropped": "willamette_week:19866241@2026-10-22T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfGF_f",
-      "start_at": "2026-10-22T20:00:00-07:00",
-      "title_dropped": "India Ramey and The Waymores with Pati Rojas Band",
-      "title_kept": "India Ramey and The Waymores with Pati Rojas Band",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:19570808@2026-10-22T20:00",
-      "kept": "ticketmaster:Z7r9jZ1A7PU-M",
-      "start_at": "2026-10-22T20:00:00-07:00",
-      "title_dropped": "Dinosaur Jr. - Fall Tour 2026 w/ Stef Chura",
-      "title_kept": "Dinosaur Jr w/ Stef Chura",
-      "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "willamette_week:20197476@2026-10-22T20:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfCv_7",
-      "start_at": "2026-10-22T20:30:00-07:00",
-      "title_dropped": "JETTIZON with Rage Against The Regime (RATM tribute), & Bria Damage",
-      "title_kept": "JETTIZON with Rage Against The Regime (RATM tribute), & Bria Damage",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:17586570@2026-10-26T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AKPw17",
       "start_at": "2026-10-26T21:00:00-07:00",
@@ -6073,6 +6017,54 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:18235585@2026-11-22T14:00",
+      "kept": "ticketmaster:Z7r9jZ1A7Jku3",
+      "start_at": "2026-11-22T14:00:00-08:00",
+      "title_dropped": "Mahler's Symphony No. 6",
+      "title_kept": "Oregon Symphony presents Mahler???s Symphony No 6",
+      "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "willamette_week:20169134@2026-11-22T14:00",
+      "kept": "ticketmaster:Z7r9jZ1AAvbff",
+      "start_at": "2026-11-22T14:00:00-08:00",
+      "title_dropped": "Little Shop of Horrors",
+      "title_kept": "Little Shop of Horrors",
+      "venue": "Portland Center Stage"
+    },
+    {
+      "dropped": "willamette_week:19484142@2026-11-22T18:00",
+      "kept": "ticketmaster:rZ7HnEZ1Afatbf",
+      "start_at": "2026-11-22T18:00:00-08:00",
+      "title_dropped": "PSYCROPTIC with Inferi, Cognitive, & Summoning The Lich",
+      "title_kept": "PSYCROPTIC with Inferi, Cognitive, & Summoning The Lich",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:20169134@2026-11-22T19:30",
+      "kept": "ticketmaster:Z7r9jZ1AAvbog",
+      "start_at": "2026-11-22T19:30:00-08:00",
+      "title_dropped": "Little Shop of Horrors",
+      "title_kept": "Little Shop of Horrors",
+      "venue": "Portland Center Stage"
+    },
+    {
+      "dropped": "willamette_week:19957053@2026-11-22T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfGfO7",
+      "start_at": "2026-11-22T20:00:00-08:00",
+      "title_dropped": "Casual Eddie with Special Guest Dominic Robison",
+      "title_kept": "Casual Eddie",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:20197478@2026-11-22T20:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfCZG0",
+      "start_at": "2026-11-22T20:30:00-08:00",
+      "title_dropped": "TV VIKING followed by Sinferno Cabaret",
+      "title_kept": "TV VIKING followed by Sinferno Cabaret",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:20169590@2026-11-12T18:30",
       "kept": "dopdx:17774002",
       "start_at": "2026-11-12T19:00:00-08:00",
@@ -6089,9 +6081,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6637,
-  "floor_check": "6637 events against a 6606-event baseline",
-  "generated_at": "2026-10-23T04:41:10+00:00",
+  "event_count": 6566,
+  "floor_check": "6566 events against a 6635-event baseline",
+  "generated_at": "2026-10-23T05:00:03+00:00",
   "problems": [],
   "sources": [
     "calagator",
