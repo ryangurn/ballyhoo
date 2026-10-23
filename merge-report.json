@@ -1545,6 +1545,14 @@
       "venue": "Arlene Schnitzer Concert Hall"
     },
     {
+      "dropped": "willamette_week:19674753@2026-10-28T19:30",
+      "kept": "dopdx:17985185",
+      "start_at": "2026-10-28T19:30:00-07:00",
+      "title_dropped": "Nathan Stanley: A Tribute to Dr. Ralph Stanley",
+      "title_kept": "Nathan Stanley: A Tribute to Dr. Ralph Stanley",
+      "venue": "Singacoustic"
+    },
+    {
       "dropped": "dopdx:17372805",
       "kept": "ticketmaster:Z7r9jZ1A70IrK",
       "start_at": "2026-10-28T20:00:00-07:00",
@@ -6089,9 +6097,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6578,
-  "floor_check": "6578 events against a 6567-event baseline",
-  "generated_at": "2026-10-23T19:31:16+00:00",
+  "event_count": 6609,
+  "floor_check": "6609 events against a 6567-event baseline",
+  "generated_at": "2026-10-23T19:34:49+00:00",
   "problems": [],
   "sources": [
     "calagator",
