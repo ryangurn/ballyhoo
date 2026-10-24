@@ -117945,7 +117945,7 @@
       ],
       "end_at": "2026-11-13T22:00:00-08:00",
       "id": "willamette_week:20058803@2026-11-13T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SHI6RTEP8ESuLAtzWvUmeQ.large.jpg",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/NcrpuS0ktUO6BejSY99KXA.large.jpg",
       "is_all_day": false,
       "listing_url": "http://www.instagram.com/surrealistcabaret",
       "price": {
@@ -117961,13 +117961,13 @@
       },
       "start_at": "2026-11-13T18:00:00-08:00",
       "summary": "The Surrealist Cabaret is a Portland based performance art collective showcasing queer, outsider art with an emphasis on Femme identifying Artists. Step out of reality and into the dream. An evening of sensational and surreal performance art. Music, Magic and Mayhem! Come early to play, explore interactive art and immerse yourself in the strange and absurd. Stick around after the second show for a dada dance party!",
-      "ticket_url": "http://www.instagram.com/surrealistcabaret",
+      "ticket_url": "https://tixfox.co/e/VWjDtbwNsM",
       "title": "SURREALIST CABARET",
       "venue": {
-        "address": "2516 NW 25th",
+        "address": "2516 NW 29th",
         "city": "Portland",
-        "latitude": 45.536989,
-        "longitude": -122.702906,
+        "latitude": 45.540625,
+        "longitude": -122.710872,
         "name": "BUILDING FIVE"
       }
     },
@@ -125686,6 +125686,38 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-11-14T22:00:00-08:00",
+      "id": "willamette_week:20058803@2026-11-14T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/NcrpuS0ktUO6BejSY99KXA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://www.instagram.com/surrealistcabaret",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-14T18:00:00-08:00",
+      "summary": "The Surrealist Cabaret is a Portland based performance art collective showcasing queer, outsider art with an emphasis on Femme identifying Artists. Step out of reality and into the dream. An evening of sensational and surreal performance art. Music, Magic and Mayhem! Come early to play, explore interactive art and immerse yourself in the strange and absurd. Stick around after the second show for a dada dance party!",
+      "ticket_url": "https://tixfox.co/e/VWjDtbwNsM",
+      "title": "SURREALIST CABARET",
+      "venue": {
+        "address": "2516 NW 29th",
+        "city": "Portland",
+        "latitude": 45.540625,
+        "longitude": -122.710872,
+        "name": "BUILDING FIVE"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:20194207@2026-11-14T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yry16rVUdkG2NAfwgoPrxQ.large.jpg",
       "is_all_day": false,
@@ -125740,38 +125772,6 @@
         "latitude": 45.511821,
         "longitude": -122.623214,
         "name": "Hawthorne Theatre"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-14T22:00:00-08:00",
-      "id": "willamette_week:20058803@2026-11-14T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SHI6RTEP8ESuLAtzWvUmeQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "http://www.instagram.com/surrealistcabaret",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 25.0,
-        "min": 15.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-14T18:00:00-08:00",
-      "summary": "The Surrealist Cabaret is a Portland based performance art collective showcasing queer, outsider art with an emphasis on Femme identifying Artists. Step out of reality and into the dream. An evening of sensational and surreal performance art. Music, Magic and Mayhem! Come early to play, explore interactive art and immerse yourself in the strange and absurd. Stick around after the second show for a dada dance party!",
-      "ticket_url": "http://www.instagram.com/surrealistcabaret",
-      "title": "SURREALIST CABARET",
-      "venue": {
-        "address": "2516 NW 25th",
-        "city": "Portland",
-        "latitude": 45.536989,
-        "longitude": -122.702906,
-        "name": "BUILDING FIVE"
       }
     },
     {
@@ -125929,6 +125929,10 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1792865844/event-17992396.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/11/14/comedee-show-coffee-beer-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "organizer": "Fluid Comedy Presents:",
       "price": {
         "currency": "USD",
@@ -125943,6 +125947,7 @@
       },
       "start_at": "2026-11-14T18:30:00-08:00",
       "summary": "Adorable comedy is returning to COFFEE BEER (4142 SE 42nd Ave) on Saturday, November 14th. Join us for an adorable night of adorable laughter with our certified adorable lineup: • Ronnie Macaroni • Daisy Claire • Umi Om • Kiki Hosted by Joe John Sanchez III, the show kicks off at 6:30PM with doors open at 6:00PM. Tickets are $10 with early bird and sliding scale options available! All are welcome to attend as long as space permits, but it’s a cozy space and RSVPS are *greatly* appreciated.",
+      "ticket_url": "https://www.eventbrite.com/e/comedee-show-coffee-beer-tickets-2003857288091",
       "title": "COMEDEE SHOW @ COFFEE BEER",
       "venue": {
         "address": "4142 SE 42nd",
@@ -190695,5 +190700,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-24T19:27:03+00:00"
+  "generated_at": "2026-10-24T19:33:21+00:00"
 }
