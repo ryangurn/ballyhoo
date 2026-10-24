@@ -193,6 +193,14 @@
       "venue": "Alberta Abbey"
     },
     {
+      "dropped": "willamette_week:20265147@2026-10-24T17:00",
+      "kept": "dopdx:17927212",
+      "start_at": "2026-10-24T17:00:00-07:00",
+      "title_dropped": "Dia de Los Muertos Paint & Sip",
+      "title_kept": "Dia de Los Muertos Paint & Sip",
+      "venue": "23609 NE Halsey St suite 300"
+    },
+    {
       "dropped": "willamette_week:19979685@2026-10-24T17:30",
       "kept": "dopdx:17959727",
       "start_at": "2026-10-24T17:30:00-07:00",
@@ -5889,9 +5897,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6441,
-  "floor_check": "6441 events against a 6441-event baseline",
-  "generated_at": "2026-10-24T22:26:01+00:00",
+  "event_count": 6446,
+  "floor_check": "6446 events against a 6441-event baseline",
+  "generated_at": "2026-10-24T22:33:35+00:00",
   "problems": [],
   "sources": [
     "calagator",
