@@ -2,39 +2,6 @@
   "events": [
     {
       "categories": [
-        "music",
-        "market"
-      ],
-      "end_at": "2026-10-17T12:30:00-07:00",
-      "id": "hollywood_farmers_market:music-schedule/dumpster-joe-2026-2",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/655cf5921a68bb4e7476c71f/1759343957587-VR7PPNE1ZW9WT9VNJ9PK/548192449_1393337392797804_118944888841809619_n.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.hollywoodfarmersmarket.org/music-schedule/dumpster-joe-2026-2",
-      "organizer": "Hollywood Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "hollywood_farmers_market",
-        "name": "Hollywood Farmers Market",
-        "url": "https://www.hollywoodfarmersmarket.org"
-      },
-      "start_at": "2026-10-17T10:00:00-07:00",
-      "summary": "We play 1920s and 30s country blues, hill billy and jazz tunes(also a few originals). The tunes we play were learned by listening fanatically to old 78 rpm records and reissues of 78s. We will totally rock your socks off.",
-      "title": "Dumpster Joe",
-      "venue": {
-        "address": "NE Hancock St between NE 44th and NE 45th Ave, Portland, OR 97213",
-        "city": "Portland",
-        "latitude": 45.53635,
-        "longitude": -122.61756,
-        "name": "Hollywood Farmers Market"
-      }
-    },
-    {
-      "categories": [
         "market",
         "food"
       ],
@@ -451,7 +418,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-24T16:09:41+00:00",
+  "generated_at": "2026-10-24T21:03:34+00:00",
   "source_id": "hollywood_farmers_market",
   "status": "ok"
 }
