@@ -1585,6 +1585,10 @@
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/King-aug-22-image-close.jpg",
       "is_all_day": false,
       "listing_url": "https://www.portlandfarmersmarket.org/event/king-farmers-market-3/2026-10-25/",
+      "merged_sources": [
+        "portland_farmers_market",
+        "willamette_week"
+      ],
       "organizer": "Portland Farmers Market",
       "price": {
         "currency": "USD",
@@ -1618,6 +1622,10 @@
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2024/01/lents-110423-header-imagery.jpg",
       "is_all_day": false,
       "listing_url": "https://www.portlandfarmersmarket.org/event/lents-international-farmers-market/2026-10-25/",
+      "merged_sources": [
+        "portland_farmers_market",
+        "willamette_week"
+      ],
       "organizer": "Portland Farmers Market",
       "price": {
         "currency": "USD",
@@ -5333,6 +5341,37 @@
       "venue": {
         "address": "616 NW 21st Ave, Portland, Oregon 97209",
         "name": "Cinema 21 Theater"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-10-25T17:30:00-07:00",
+      "id": "willamette_week:19787119@2026-10-25T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Hl6gsnYkGkiR76qPQHjxSA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/aloka-sound-lab-w-graham-slick-a-nervous-system-sound-bath-journey-tickets-1999934985378",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 44.52,
+        "min": 28.52
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-25T16:00:00-07:00",
+      "summary": "Body, Breath, Bowls, Bliss. Join Graham at Sound Lab as he guides you through a nervous system sound and breath journey.",
+      "title": "Aloka - Sound Lab w. Graham Slick, A Nervous System Sound Bath Journey",
+      "venue": {
+        "address": "124 Southwest Yamhill Street, #200",
+        "city": "Portland",
+        "latitude": 45.51709,
+        "longitude": -122.674575,
+        "name": "Bodha Yoga"
       }
     },
     {
@@ -17762,6 +17801,10 @@
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2022/10/Shemanski_P1030294-scaled.jpg",
       "is_all_day": false,
       "listing_url": "https://www.portlandfarmersmarket.org/event/shemanski-park-farmers-market-2026/2026-10-28/",
+      "merged_sources": [
+        "portland_farmers_market",
+        "willamette_week"
+      ],
       "organizer": "Portland Farmers Market",
       "price": {
         "currency": "USD",
@@ -20906,6 +20949,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-28T21:00:00-07:00",
+      "id": "willamette_week:19669021@2026-10-28T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/580EIXqYx0-CFEgPHFjYFg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/queer-open-mic-tickets-1999194813504",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 54.83,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-28T19:00:00-07:00",
+      "summary": "Join us for Queer Open Mic! All are welcome.",
+      "title": "Queer Open Mic",
+      "venue": {
+        "address": "2007 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.49979,
+        "longitude": -122.64544,
+        "name": "Artichoke Community Music"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:20222819@2026-10-28T19:00",
@@ -21077,37 +21151,6 @@
         "latitude": 45.50474058972204,
         "longitude": -122.6275816386394,
         "name": "PAM CUT's Tomorrow Theater"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-28T21:00:00-07:00",
-      "id": "willamette_week:19669021@2026-10-28T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/580EIXqYx0-CFEgPHFjYFg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/queer-open-mic-tickets-1999194813504",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 54.83,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-28T19:00:00-07:00",
-      "summary": "Join us for Queer Open Mic! All are welcome.",
-      "title": "Queer Open Mic",
-      "venue": {
-        "address": "2007 Southeast Powell Boulevard",
-        "city": "Portland",
-        "latitude": 45.49979,
-        "longitude": -122.64544,
-        "name": "Artichoke Community Music"
       }
     },
     {
@@ -30780,35 +30823,6 @@
         "family"
       ],
       "end_at": "2026-10-30T11:00:00-07:00",
-      "id": "willamette_week:20131149@2026-10-30T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1092",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-30T10:15:00-07:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-30T11:00:00-07:00",
       "id": "willamette_week:19802123@2026-10-30T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LOPLVSPyQEeyOuHV1ekTVg.large.png",
       "is_all_day": false,
@@ -30831,6 +30845,35 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-30T11:00:00-07:00",
+      "id": "willamette_week:20131149@2026-10-30T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1092",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-30T10:15:00-07:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -34026,6 +34069,36 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-10-30T22:00:00-07:00",
+      "id": "willamette_week:19787108@2026-10-30T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CzUXaqpHuEiNKXyErfYTQg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/paint-a-portrait-of-your-pet-paint-and-sip-in-portland-classpoptm-tickets-2003279375539",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 140.55,
+        "min": 140.55
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-30T19:00:00-07:00",
+      "title": "Paint a Portrait of Your Pet - Paint and Sip in Portland | Classpop!™",
+      "venue": {
+        "address": "626 NE 3rd Ave",
+        "city": "Hillsboro",
+        "latitude": 45.52873,
+        "longitude": -122.98563,
+        "name": "Clay and Vintage Studio"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-10-30T21:00:00-07:00",
@@ -34108,36 +34181,6 @@
         "latitude": 45.627651,
         "longitude": -122.671327,
         "name": "813 Main St"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-10-30T22:00:00-07:00",
-      "id": "willamette_week:19787108@2026-10-30T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CzUXaqpHuEiNKXyErfYTQg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.eventbrite.com/e/paint-a-portrait-of-your-pet-paint-and-sip-in-portland-classpoptm-tickets-2003279375539",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 140.55,
-        "min": 140.55
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-30T19:00:00-07:00",
-      "title": "Paint a Portrait of Your Pet - Paint and Sip in Portland | Classpop!™",
-      "venue": {
-        "address": "626 NE 3rd Ave",
-        "city": "Hillsboro",
-        "latitude": 45.52873,
-        "longitude": -122.98563,
-        "name": "Clay and Vintage Studio"
       }
     },
     {
@@ -39582,35 +39625,6 @@
         "family"
       ],
       "end_at": "2026-10-31T11:00:00-07:00",
-      "id": "willamette_week:20051440@2026-10-31T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LOPLVSPyQEeyOuHV1ekTVg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/rainbow-family-costume-storytime",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-10-31T10:15:00-07:00",
-      "summary": "Children from birth to age 6 \\(with a favorite adult\\) join us for a special Costume Rainbow Family Storytime! Wear a costume and we'll enjoy a shortened storytime highlighting LGBTQ\\+ families then a parade around the library. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Rainbow Family Costume Storytime",
-      "venue": {
-        "address": "205 NE Russell Street",
-        "city": "Portland",
-        "latitude": 45.54121794278324,
-        "longitude": -122.66326099447758,
-        "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-10-31T11:00:00-07:00",
       "id": "willamette_week:19634275@2026-10-31T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
       "is_all_day": false,
@@ -39633,6 +39647,35 @@
         "latitude": 45.478934715870885,
         "longitude": -122.61206954232797,
         "name": "Woodstock Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-10-31T11:00:00-07:00",
+      "id": "willamette_week:20051440@2026-10-31T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LOPLVSPyQEeyOuHV1ekTVg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/rainbow-family-costume-storytime",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-31T10:15:00-07:00",
+      "summary": "Children from birth to age 6 \\(with a favorite adult\\) join us for a special Costume Rainbow Family Storytime! Wear a costume and we'll enjoy a shortened storytime highlighting LGBTQ\\+ families then a parade around the library. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Rainbow Family Costume Storytime",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -50439,6 +50482,37 @@
     },
     {
       "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-11-01T18:00:00-08:00",
+      "id": "willamette_week:19666875@2026-11-01T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/am94gUgSqUCAVxyYYhkcMQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/restorative-sound-bath-tickets-2003675897547",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 39.19,
+        "min": 39.19
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-01T17:00:00-08:00",
+      "summary": "A restorative crystal bowl sound bath designed to help your body settle, reset, and come back into balance.",
+      "title": "Restorative Sound Bath",
+      "venue": {
+        "address": "1901 Northwest 26th Avenue",
+        "city": "Portland",
+        "latitude": 45.536255,
+        "longitude": -122.70512,
+        "name": "All Heart Yoga"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-11-01T20:00:00-08:00",
@@ -53871,6 +53945,36 @@
         "latitude": 45.50122605,
         "longitude": -122.65284748,
         "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-02T22:00:00-08:00",
+      "id": "willamette_week:19787108@2026-11-02T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CzUXaqpHuEiNKXyErfYTQg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/paint-a-portrait-of-your-pet-paint-and-sip-in-portland-classpoptm-tickets-2003279353473",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 140.55,
+        "min": 140.55
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-02T19:00:00-08:00",
+      "title": "Paint a Portrait of Your Pet - Paint and Sip in Portland | Classpop!™",
+      "venue": {
+        "address": "626 NE 3rd Ave",
+        "city": "Hillsboro",
+        "latitude": 45.52873,
+        "longitude": -122.98563,
+        "name": "Clay and Vintage Studio"
       }
     },
     {
@@ -105517,6 +105621,35 @@
       "categories": [
         "family"
       ],
+      "end_at": "2026-11-13T11:00:00-08:00",
+      "id": "willamette_week:20131150@2026-11-13T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1041",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T10:30:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
       "end_at": "2026-11-13T11:15:00-08:00",
       "id": "willamette_week:20131151@2026-11-13T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
@@ -105546,11 +105679,11 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-11-13T11:00:00-08:00",
-      "id": "willamette_week:20131150@2026-11-13T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "end_at": "2026-11-13T12:00:00-08:00",
+      "id": "willamette_week:20131152@2026-11-13T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
       "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1041",
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1151",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -105560,15 +105693,15 @@
         "name": "Willamette Week",
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
-      "start_at": "2026-11-13T10:30:00-08:00",
+      "start_at": "2026-11-13T11:00:00-08:00",
       "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
       "title": "Toddler Storytime",
       "venue": {
-        "address": "8226 N Denver Avenue",
+        "address": "801 SW 10th Ave",
         "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
+        "latitude": 45.5192273855,
+        "longitude": -122.6826296747,
+        "name": "Multnomah County Central Library"
       }
     },
     {
@@ -105600,35 +105733,6 @@
         "latitude": 45.504645,
         "longitude": -122.62583,
         "name": "Artifact Creative Recycle"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-13T12:00:00-08:00",
-      "id": "willamette_week:20131152@2026-11-13T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1151",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T11:00:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "801 SW 10th Ave",
-        "city": "Portland",
-        "latitude": 45.5192273855,
-        "longitude": -122.6826296747,
-        "name": "Multnomah County Central Library"
       }
     },
     {
@@ -105842,35 +105946,6 @@
         "family"
       ],
       "end_at": "2026-11-13T12:00:00-08:00",
-      "id": "willamette_week:20131153@2026-11-13T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1133",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "6008 SE 49th Avenue",
-        "city": "Portland",
-        "latitude": 45.478934715870885,
-        "longitude": -122.61206954232797,
-        "name": "Woodstock Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-13T12:00:00-08:00",
       "id": "willamette_week:20131149@2026-11-13T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -105893,6 +105968,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-13T12:00:00-08:00",
+      "id": "willamette_week:20131153@2026-11-13T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1133",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "6008 SE 49th Avenue",
+        "city": "Portland",
+        "latitude": 45.478934715870885,
+        "longitude": -122.61206954232797,
+        "name": "Woodstock Library"
       }
     },
     {
@@ -111357,6 +111461,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-14T15:00:00-08:00",
+      "id": "willamette_week:20267127@2026-11-14T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/B-RBZFseOkCBqUncc6Ybdw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonbuddhisttemple.com/craft-fair",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-14T09:00:00-08:00",
+      "summary": "It is that time of year again! The 11th Annual OBT Holiday Craft Fair is just around the corner. We will have a variety of skilled artists participating again this year, some returning and some joining us for the very first time. Handmade clothing, intricately beaded and silver inlay jewelry, miso products, felted and 3D ornaments, paintings, ceramics, hand-woven baskets, unique greeting cards, and fun stocking stuffers are just some of the amazing creations you will find at the fair. There will be something for everyone—and all budgets! Bring the kids and plan to shop the day away at Oregon Buddhist Temple: 3720 SE 34th, Portland, OR 97202 on Saturday, November 14th, 2026, from 9am-3pm. The first 30 people through the door will receive a discount coupon from the kitchen, where tasty dishes will be served all day long. There will also be a bake sale booth, run by our very own Dharma School. Please come out and support these wonderful artists. All are welcome. We’ll see you at the fair!",
+      "title": "11th Annual Holiday Craft Fair at Oregon Buddhist Temple",
+      "venue": {
+        "address": "3720 SE 34th Ave.",
+        "city": "Portland",
+        "latitude": 45.495736,
+        "longitude": -122.628914,
+        "name": "Oregon Buddhist Temple"
+      }
+    },
+    {
+      "categories": [
         "market"
       ],
       "end_at": "2026-11-14T16:00:00-08:00",
@@ -113309,6 +113444,37 @@
       "venue": {
         "city": "Portland",
         "name": "Beaverton City Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-14T15:00:00-08:00",
+      "id": "willamette_week:19787151@2026-11-14T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/it-pP9npnkuCK9fijP8dQQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/holiday-crushed-glass-suncatcher-workshop-tickets-1994630177555",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 40.0,
+        "min": 40.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-14T13:00:00-08:00",
+      "summary": "Brighten your window with one of these beauties!",
+      "title": "Holiday Crushed Glass Suncatcher Workshop",
+      "venue": {
+        "address": "27215 S Gribble Rd",
+        "city": "Canby",
+        "latitude": 45.2126864,
+        "longitude": -122.7023652,
+        "name": "Red Chair Farm"
       }
     },
     {
@@ -119362,6 +119528,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-15T13:00:00-08:00",
+      "id": "willamette_week:19108146@2026-11-15T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Ga69PUv0pEOq53ssvzaxCg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/sashiko-mending-workshop-november-tickets-2000664641800",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 71.21,
+        "min": 17.85
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-15T10:00:00-08:00",
+      "summary": "Learn to mend your clothing using the traditional Japanese visible mending art of sashiko embroidery!",
+      "title": "Sashiko Mending Workshop",
+      "venue": {
+        "address": "5431 NE 20th Ave",
+        "city": "Portland",
+        "latitude": 45.562345,
+        "longitude": -122.645126,
+        "name": "Leaven Community Center"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-11-15T16:30:00-08:00",
@@ -121437,6 +121634,35 @@
         "latitude": 45.52448406084487,
         "longitude": -123.1102807801869,
         "name": "Pacific University"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-15T17:30:00-08:00",
+      "id": "willamette_week:19798602@2026-11-15T15:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QiUpzvh6-U-Vdq8EHzWI1w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/soulful-sundays-and-albina-bingo-night",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-15T15:30:00-08:00",
+      "summary": "Come play Bingo with the Black Cultural Library Advocates \\(BCLA\\) Team at Albina Library! Happening every 3rd Sunday of the month through November!",
+      "title": "Soulful Sundays and Albina: Bingo Night",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -127548,6 +127774,37 @@
       },
       "start_at": "2026-11-17T17:30:00-08:00",
       "title": "Smith and Bybee Wetlands Advisory Committee meeting"
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-11-17T19:00:00-08:00",
+      "id": "willamette_week:19108200@2026-11-17T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uQiPLsnmWEi4s8AvtUiXkw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/portland-wellness-practitioners-connect-tickets-2001247620505",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 18.0,
+        "min": 18.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-17T17:30:00-08:00",
+      "summary": "Are you a wellness & healthcare practitioner in Portland? This is a space to learn, connect, and support each other.",
+      "title": "Portland Wellness Practitioners Connect",
+      "venue": {
+        "address": "1413 Southeast Hawthorne Boulevard",
+        "city": "Portland",
+        "latitude": 45.51243,
+        "longitude": -122.65095,
+        "name": "House Nine Wellness & Tea"
+      }
     },
     {
       "categories": [
@@ -136704,6 +136961,34 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "willamette_week:19705356@2026-11-19T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.oregoncc.org/attend/events/2026/11/ace-awards-2025",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-19T19:00:00-08:00",
+      "summary": "The ACE Awards celebrate the front-line professionals who proudly create thriving apartment communities that are role models for others to strive to emulate. The Multifamily NW ACE Awards are back for another year of recognizing and celebrating outstanding achievements in the rental housing industry. These prestigious awards highlight the exceptional professionals, teams, and properties that demonstrate excellence across various categories, contributing to the overall advancement and success of the industry. Private Event - Registration Required",
+      "title": "ACE Awards 2025",
+      "venue": {
+        "address": "777 NE Martin Luther King, Jr Blvd",
+        "city": "Portland",
+        "latitude": 45.5283737183,
+        "longitude": -122.6631393433,
+        "name": "Oregon Convention Center"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "id": "willamette_week:20173356@2026-11-19T19:00",
@@ -136759,34 +137044,6 @@
         "latitude": 45.50474058972204,
         "longitude": -122.6275816386394,
         "name": "PAM CUT's Tomorrow Theater"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "id": "willamette_week:19705356@2026-11-19T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.oregoncc.org/attend/events/2026/11/ace-awards-2025",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-19T19:00:00-08:00",
-      "summary": "The ACE Awards celebrate the front-line professionals who proudly create thriving apartment communities that are role models for others to strive to emulate. The Multifamily NW ACE Awards are back for another year of recognizing and celebrating outstanding achievements in the rental housing industry. These prestigious awards highlight the exceptional professionals, teams, and properties that demonstrate excellence across various categories, contributing to the overall advancement and success of the industry. Private Event - Registration Required",
-      "title": "ACE Awards 2025",
-      "venue": {
-        "address": "777 NE Martin Luther King, Jr Blvd",
-        "city": "Portland",
-        "latitude": 45.5283737183,
-        "longitude": -122.6631393433,
-        "name": "Oregon Convention Center"
       }
     },
     {
@@ -138670,6 +138927,34 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "willamette_week:19705356@2026-11-20T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.oregoncc.org/attend/events/2026/11/ace-awards-2026",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T00:00:00-08:00",
+      "summary": "The ACE Awards celebrate the front-line professionals who proudly create thriving apartment communities that are role models for others to strive to emulate. The Multifamily NW ACE Awards are back for another year of recognizing and celebrating outstanding achievements in the rental housing industry. These prestigious awards highlight the exceptional professionals, teams, and properties that demonstrate excellence across various categories, contributing to the overall advancement and success of the industry. Private Event - Registration Required",
+      "title": "ACE Awards 2025",
+      "venue": {
+        "address": "777 NE Martin Luther King, Jr Blvd",
+        "city": "Portland",
+        "latitude": 45.5283737183,
+        "longitude": -122.6631393433,
+        "name": "Oregon Convention Center"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "willamette_week:20206723@2026-11-20T00:00",
@@ -139418,35 +139703,6 @@
         "family"
       ],
       "end_at": "2026-11-20T11:00:00-08:00",
-      "id": "willamette_week:20131148@2026-11-20T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1075",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-20T10:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "205 NE Russell Street",
-        "city": "Portland",
-        "latitude": 45.54121794278324,
-        "longitude": -122.66326099447758,
-        "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-20T11:00:00-08:00",
       "id": "willamette_week:20131149@2026-11-20T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -139469,6 +139725,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-20T11:00:00-08:00",
+      "id": "willamette_week:20131148@2026-11-20T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1075",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T10:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -139558,35 +139843,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-11-20T11:00:00-08:00",
-      "id": "willamette_week:20131150@2026-11-20T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1042",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-20T10:30:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-11-20T11:15:00-08:00",
       "id": "willamette_week:20131151@2026-11-20T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
@@ -139610,6 +139866,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-20T11:00:00-08:00",
+      "id": "willamette_week:20131150@2026-11-20T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1042",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T10:30:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -139911,35 +140196,6 @@
         "family"
       ],
       "end_at": "2026-11-20T12:00:00-08:00",
-      "id": "willamette_week:20131149@2026-11-20T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1174",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-20T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-20T12:00:00-08:00",
       "id": "willamette_week:20131153@2026-11-20T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
       "is_all_day": false,
@@ -139962,6 +140218,35 @@
         "latitude": 45.478934715870885,
         "longitude": -122.61206954232797,
         "name": "Woodstock Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-20T12:00:00-08:00",
+      "id": "willamette_week:20131149@2026-11-20T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1174",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -141839,6 +142124,34 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "willamette_week:19705356@2026-11-20T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.oregoncc.org/attend/events/2026/11/ace-awards-2025",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T19:00:00-08:00",
+      "summary": "The ACE Awards celebrate the front-line professionals who proudly create thriving apartment communities that are role models for others to strive to emulate. The Multifamily NW ACE Awards are back for another year of recognizing and celebrating outstanding achievements in the rental housing industry. These prestigious awards highlight the exceptional professionals, teams, and properties that demonstrate excellence across various categories, contributing to the overall advancement and success of the industry. Private Event - Registration Required",
+      "title": "ACE Awards 2025",
+      "venue": {
+        "address": "777 NE Martin Luther King, Jr Blvd",
+        "city": "Portland",
+        "latitude": 45.5283737183,
+        "longitude": -122.6631393433,
+        "name": "Oregon Convention Center"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-11-20T21:00:00-08:00",
@@ -141893,34 +142206,6 @@
         "latitude": 45.50474058972204,
         "longitude": -122.6275816386394,
         "name": "PAM CUT's Tomorrow Theater"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "id": "willamette_week:19705356@2026-11-20T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.oregoncc.org/attend/events/2026/11/ace-awards-2025",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-20T19:00:00-08:00",
-      "summary": "The ACE Awards celebrate the front-line professionals who proudly create thriving apartment communities that are role models for others to strive to emulate. The Multifamily NW ACE Awards are back for another year of recognizing and celebrating outstanding achievements in the rental housing industry. These prestigious awards highlight the exceptional professionals, teams, and properties that demonstrate excellence across various categories, contributing to the overall advancement and success of the industry. Private Event - Registration Required",
-      "title": "ACE Awards 2025",
-      "venue": {
-        "address": "777 NE Martin Luther King, Jr Blvd",
-        "city": "Portland",
-        "latitude": 45.5283737183,
-        "longitude": -122.6631393433,
-        "name": "Oregon Convention Center"
       }
     },
     {
@@ -144705,6 +144990,36 @@
         "latitude": 45.484095,
         "longitude": -122.804067,
         "name": "Beaverton City Park"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-11-21T13:00:00-08:00",
+      "id": "willamette_week:20267110@2026-11-21T08:45",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/df439e3b-d03f-4140-9cd3-9645be0abe3d.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.tfaforms.com/4840511?tfa_26=a0TPa00001iyx59&tfa_2189=Gresham%20neighborhood%20planting&tfa_31=a0VPa00000MKS0P&tfa_45=Tree%20Planter%2C%20%20at%20November%2021%2C%202026%20at%208:45%20am&tfa_2190=2026-11-21&tfa_49=4.25&tfa_886=Standard%20FOT&tfa_51=offsite",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-21T08:45:00-08:00",
+      "summary": "Let's plant trees together in Gresham! Interested in receiving a tree? Click HERE to purchase a tree for your household. Dozens of large \\(6-10' tall\\) trees will be ready for planting in their new homes, and your help is what makes this community planting possible! Please arrive by 8:45am to sign-in and be assigned a planting crew. The planting starts at 9:00am. We provide gloves, tools, and guidance, as well as light breakfast snacks and coffee/tea/hot chocolate. We ask that all volunteers dress for the weather, wear sturdy shoes/boots you don't mind getting dirty, and be ready to have fun! How do I register? Register by filling out this quick form . Groups, families, and individuals welcome! If your group is more than 5 people, please know you will be assigned to different planting crews. Have a pickup truck? We need your help getting these young trees to their planting sites a few blocks away from the central staging site. Please sign up if you're able to help out in this key role. Under age 18? We request that youth 15 and under volunteer with a parent/guardian. Youth 16 and older can volunteer on their own and will need to hand us a youth waiver form signed by their parent/guardian. Private transportation: You will travel from the meeting location to a few planting sites in the nearby neighborhood \\(up to several miles\\). We recommend private transportation \\(bike or vehicle\\), but there may be an option to carpool if others in your small planting crew are also comfortable with this. Where will these trees be planted? In the following neighborhoods: Wilkes-East, Rockwood, Centennial, and North Gresham. Questions? Please check out our Volunteer FAQ webpage . Our team is also happy to assist! Volunteer@friendsoftrees.org volunteer@friendsoftrees.org / 503-595-0213 We look forward to planting together soon! This event in partnership with the City of Gresham and made possible through a grant from the USDA Forest Service. This institution is an equal opportunity provider.",
+      "ticket_url": "https://friendsoftrees.org/get-a-tree/",
+      "title": "Gresham neighborhood planting (Gresham",
+      "venue": {
+        "address": "18600 SE Stark St",
+        "city": "Portland",
+        "latitude": 45.51862,
+        "longitude": -122.47185,
+        "name": "Rockwood Common Tool Library"
       }
     },
     {
@@ -152055,8 +152370,8 @@
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 75.0,
-        "min": 65.0
+        "max": 60.0,
+        "min": 50.0
       },
       "source": {
         "id": "willamette_week",
@@ -152064,7 +152379,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-11-22T13:00:00-08:00",
-      "summary": "Get ready for Thanksgiving hosting. Learn how to build your own Thanksgiving/autumn flower centerpiece, how to care for it, and make it last. Marti from Flowers by Burkhardts will be here on Nov. 22 to provide the flowers, materials and session where you will make your own beautiful flower arrangement. It will be perfect as a table centerpiece, on a fireplace mantel, or even as a host gift. Please sign up early—by Nov. 15 so there is enough time to order fresh flowers to bring for the number of friends and participants coming. Feel free to bring a friend, flowers always pair great with wine and fun! A complimentary glass of wine will be provided. Date: Sunday, Nov. 22, 2026 Time: 1:00-3:30 p.m. Cost: $75 non-members / $65 for members—Includes all flowers and materials, base holder, and a complimentary glass of wine! Deadline: Please purchase your ticket for the class by Nov. 15, so we have time to get the proper amount of fresh flowers.",
+      "summary": "Get ready for Thanksgiving hosting. Learn how to build your own Thanksgiving flower centerpiece, how to care for it, and transition it for the December/New Year holidays. Marti from Flowers by Burkhardts will be here on Nov. 22 to provide the flowers, materials and session where you will make your own beautiful flower arrangement. It will be perfect as a table centerpiece, on a fireplace mantel, or even as a host gift. Please sign up early—by Nov. 15 so there is enough time to order fresh flowers to bring for the number of friends and participants coming. Feel free to bring a friend, flowers always pair great with wine and fun! A complimentary glass of wine will be provided. Date: Sunday, Nov. 22, 2026 Time: 1:00-3:30 p.m. Cost: $60 non-members / $50 for members—Includes all flowers and materials, base holder, and a complimentary glass of wine! Deadline: Please purchase your ticket for the class by Nov. 15, so we have time to get the proper amount of fresh flowers.",
       "title": "Thanksgiving Flower Centerpiece Class",
       "venue": {
         "address": "5195 SW Hergert Rd",
@@ -182869,5 +183184,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-25T06:04:16+00:00"
+  "generated_at": "2026-10-25T06:14:10+00:00"
 }

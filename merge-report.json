@@ -17,6 +17,14 @@
       "venue": "Roseland Theater"
     },
     {
+      "dropped": "willamette_week:18521270@2026-10-28T10:00",
+      "kept": "portland_farmers_market:shemanski-park-farmers-market-2026@2026-10-28",
+      "start_at": "2026-10-28T10:00:00-07:00",
+      "title_dropped": "Shemanski Park Farmers Market",
+      "title_kept": "Shemanski Park Farmers Market",
+      "venue": "Shemanski Park Farmers Market"
+    },
+    {
       "dropped": "willamette_week:20177204@2026-10-29T18:00",
       "kept": "dopdx:17813115",
       "start_at": "2026-10-29T18:00:00-07:00",
@@ -119,6 +127,22 @@
       "title_dropped": "Hillsdale Farmers' Market",
       "title_kept": "Hillsdale Farmers Market",
       "venue": "Hillsdale Farmers Market"
+    },
+    {
+      "dropped": "willamette_week:18521269@2026-10-25T10:00",
+      "kept": "portland_farmers_market:king-farmers-market-3@2026-10-25",
+      "start_at": "2026-10-25T10:00:00-07:00",
+      "title_dropped": "King Farmers Market",
+      "title_kept": "King Farmers Market",
+      "venue": "King Farmers Market"
+    },
+    {
+      "dropped": "willamette_week:18521272@2026-10-25T10:00",
+      "kept": "portland_farmers_market:lents-international-farmers-market@2026-10-25",
+      "start_at": "2026-10-25T10:00:00-07:00",
+      "title_dropped": "Lents International Farmers Market",
+      "title_kept": "Lents International Farmers Market",
+      "venue": "Lents International Farmers Market"
     },
     {
       "dropped": "willamette_week:20266473@2026-10-25T11:00",
@@ -5537,9 +5561,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6181,
-  "floor_check": "6181 events against a 6441-event baseline",
-  "generated_at": "2026-10-25T06:04:16+00:00",
+  "event_count": 6191,
+  "floor_check": "6191 events against a 6441-event baseline",
+  "generated_at": "2026-10-25T06:14:10+00:00",
   "problems": [],
   "sources": [
     "calagator",
