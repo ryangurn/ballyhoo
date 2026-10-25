@@ -2,62 +2,6 @@
   "events": [
     {
       "categories": [
-        "arts"
-      ],
-      "id": "ticketmaster:Z7r9jZ1AAZYvo",
-      "image_url": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZYvo",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-25T14:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZYvo",
-      "title": "Guys & Dolls",
-      "venue": {
-        "address": "1111 SW. Broadway",
-        "city": "Portland",
-        "latitude": 45.518398,
-        "longitude": -122.674301,
-        "name": "Winningstad Theatre"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A7JAxd",
-      "image_url": "https://s1.ticketm.net/dam/c/f7b/ef64d601-8740-43cd-86ea-ed9b392e4f7b_105961_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JAxd",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-25T14:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JAxd",
-      "title": "Oregon Symphony presents Kahane, Still & Copland",
-      "venue": {
-        "address": "1037 SW Broadway Dr",
-        "city": "Portland",
-        "latitude": 45.5201,
-        "longitude": -122.6884,
-        "name": "Arlene Schnitzer Concert Hall"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "id": "ticketmaster:Z7r9jZ1AAea0s",
@@ -26850,7 +26794,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-25T19:00:38+00:00",
+  "generated_at": "2026-10-25T21:44:17+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
