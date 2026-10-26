@@ -2593,6 +2593,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "dopdx:17893992",
+      "kept": "ticketmaster:Z7r9jZ1AA7Kbv",
+      "start_at": "2026-11-08T10:00:00-08:00",
+      "title_dropped": "Crystal Ballroom History & Art Tour",
+      "title_kept": "Crystal Ballroom History & Art Tour",
+      "venue": "McMenamins Crystal Ballroom"
+    },
+    {
       "dropped": "dopdx:17837687",
       "kept": "ticketmaster:Z7r9jZ1AA7obP",
       "start_at": "2026-11-08T13:00:00-08:00",
@@ -4953,6 +4961,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:16902271@2026-11-22T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPsrd",
+      "start_at": "2026-11-22T21:00:00-08:00",
+      "title_dropped": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "dopdx:17918386",
       "kept": "ticketmaster:rZ7HnEZ1AfFYOV",
       "start_at": "2026-11-22T22:00:00-08:00",
@@ -5329,9 +5345,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6029,
-  "floor_check": "6029 events against a 6036-event baseline",
-  "generated_at": "2026-10-26T19:12:09+00:00",
+  "event_count": 6037,
+  "floor_check": "6037 events against a 6036-event baseline",
+  "generated_at": "2026-10-26T19:15:54+00:00",
   "problems": [],
   "sources": [
     "calagator",
