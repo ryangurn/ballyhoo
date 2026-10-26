@@ -174292,6 +174292,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:vvG1HZ_4l4iBHe",
+      "image_url": "https://s1.ticketm.net/dam/a/44c/3bb3a020-5ca3-4808-ae57-331efc51b44c_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=JJAMOR&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "organizer": "LIVE NATION MUSIC",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-04-14T20:00:00-07:00",
+      "ticket_url": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=JJAMOR&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "title": "Jesse & Joy - El Amor De Mexico",
+      "venue": {
+        "address": "222 SW Clay",
+        "city": "Portland",
+        "latitude": 45.512731,
+        "longitude": -122.679117,
+        "name": "Keller Auditorium"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:Z7r9jZ1AA70GU",
@@ -178845,5 +178874,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-26T22:59:40+00:00"
+  "generated_at": "2026-10-26T23:09:22+00:00"
 }
