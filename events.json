@@ -5653,38 +5653,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1AAea0s",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAea0s",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-25T17:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAea0s",
-      "title": "SAW: The Musical (Touring)",
-      "venue": {
-        "address": "126 Northeast Alberta Street",
-        "city": "Portland",
-        "latitude": 45.575298,
-        "longitude": -122.6436,
-        "name": "Alberta Abbey"
-      }
-    },
-    {
-      "categories": [
         "food"
       ],
       "end_at": "2026-10-25T18:30:00-07:00",
@@ -5712,6 +5680,32 @@
         "latitude": 45.5241737366,
         "longitude": -122.6816558838,
         "name": "Portland Center Stage"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20097919@2026-10-25T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2171e4d0-6a70-4b73-8624-ff8fa76560b3.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-25T17:00:00-07:00",
+      "title": "SAW: The Musical",
+      "venue": {
+        "address": "126 NE Alberta St",
+        "city": "Portland",
+        "latitude": 45.5588951111,
+        "longitude": -122.6639022827,
+        "name": "Alberta Abbey"
       }
     },
     {
@@ -183245,5 +183239,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-26T00:11:32+00:00"
+  "generated_at": "2026-10-26T00:19:39+00:00"
 }
