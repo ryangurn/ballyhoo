@@ -3932,31 +3932,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:metro-council-work-session-2026-10-27",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-10-27",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-27T10:00:00-07:00",
-      "title": "Metro Council work session",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "end_at": "2026-10-27T11:00:00-07:00",
@@ -4222,6 +4197,31 @@
         "latitude": 45.301412,
         "longitude": -122.9773179,
         "name": "Newberg Public Library"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:metro-council-work-session-2026-10-27",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/metro-council-work-session-2026-10-27",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-10-27T10:30:00-07:00",
+      "title": "Metro Council work session",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
       }
     },
     {
@@ -179207,5 +179207,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-26T23:57:05+00:00"
+  "generated_at": "2026-10-26T23:58:36+00:00"
 }
