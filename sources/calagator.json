@@ -161,6 +161,30 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-10-29T20:00:00-07:00",
+      "id": "calagator:1250482769",
+      "is_all_day": false,
+      "listing_url": "https://luma.com/dvyr8ne9",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-29T19:00:00-07:00",
+      "summary": "A monthly meetup for Portland business owners who want AI to take real work off their plate. Practical, plain English, no sales pitch.\r\n\r\n​The talk is built by you. When you RSVP, tell us what's eating your team's hours. We'll build a short talk around what registrants are struggling with.\r\n\r\n​What to expect\r\n\r\n​7:00 -- arrive, meet a few people\r\n\r\n​7:15 -- a 15-20 minute talk built from your signup answers\r\n\r\n​7:30 -- Q&A. Bring the specific problem\r\n\r\n​7:50 -- networking, wrapping up by 8:30\r\n\r\n​Who it's for: owners and operators of small and mid-sized businesses. No technical background needed. If your business runs on a spreadsheets only one person understands, you're in the right room.\r\n\r\n​Free.",
+      "title": "AI for Portland Business Owners",
+      "venue": {
+        "name": "Tenpod"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-11-03T15:30:00-08:00",
       "id": "calagator:1250482760",
       "is_all_day": false,
@@ -608,7 +632,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-26T12:50:15+00:00",
+  "generated_at": "2026-10-26T19:11:34+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
