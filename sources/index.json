@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:54:09+00:00",
+  "generated_at": "2026-10-26T13:20:42+00:00",
   "sources": [
     {
       "event_count": 23,
@@ -40,7 +40,7 @@
       "event_count": 53,
       "last_run_at": "2026-10-26T07:02:07+00:00",
       "source_id": "obt",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/obt.json"
     },
     {
@@ -68,7 +68,7 @@
       "event_count": 0,
       "last_run_at": "2026-10-26T06:59:22+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
@@ -87,9 +87,9 @@
     },
     {
       "event_count": 3968,
-      "last_run_at": "2026-10-26T06:20:20+00:00",
+      "last_run_at": "2026-10-26T13:19:25+00:00",
       "source_id": "willamette_week",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/willamette_week.json"
     }
   ]
