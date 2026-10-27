@@ -241,46 +241,6 @@
       "venue": "Showdown Saloon"
     },
     {
-      "dropped": "dopdx:16851856",
-      "kept": "ticketmaster:Z7r9jZ1AAvFkk",
-      "start_at": "2026-10-26T19:30:00-07:00",
-      "title_dropped": "You Should Be Dancing – A Tribute to the Bee Gees",
-      "title_kept": "You Should Be Dancing ??? A Tribute to the Bee Gees",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "dopdx:17587124",
-      "kept": "ticketmaster:Z7r9jZ1A7JfPw",
-      "start_at": "2026-10-26T20:00:00-07:00",
-      "title_dropped": "KOTA The Friend",
-      "title_kept": "Kota the Friend w/ Landon Wordswell",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "dopdx:17435783",
-      "kept": "ticketmaster:Z7r9jZ1A7PdvM",
-      "start_at": "2026-10-26T20:00:00-07:00",
-      "title_dropped": "JULIA JACKLIN - North America Tour 2026",
-      "title_kept": "Julia Jacklin w/ Jordan Patterson",
-      "venue": "McMenamins Crystal Ballroom"
-    },
-    {
-      "dropped": "dopdx:17701095",
-      "kept": "ticketmaster:Z7r9jZ1AAv0Q_",
-      "start_at": "2026-10-26T20:00:00-07:00",
-      "title_dropped": "George Clanton",
-      "title_kept": "Faux Real (21 and Over)",
-      "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "dopdx:17701095",
-      "kept": "ticketmaster:Z7r9jZ1AAvN0K",
-      "start_at": "2026-10-26T20:00:00-07:00",
-      "title_dropped": "George Clanton",
-      "title_kept": "George Clanton w/ ideasforconversations",
-      "venue": "Revolution Hall - Portland"
-    },
-    {
       "dropped": "willamette_week:19879730@2026-10-27T19:00",
       "kept": "dopdx:17894455",
       "start_at": "2026-10-27T19:00:00-07:00",
@@ -4961,6 +4921,14 @@
       "venue": "Aladdin Theater"
     },
     {
+      "dropped": "willamette_week:17586570@2026-11-23T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPw80",
+      "start_at": "2026-11-23T21:00:00-08:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "dopdx:17744126",
       "kept": "ticketmaster:Z7r9jZ1A7-z--",
       "start_at": "2026-11-24T13:00:00-08:00",
@@ -5265,9 +5233,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6021,
-  "floor_check": "6021 events against a 6050-event baseline",
-  "generated_at": "2026-10-27T05:52:26+00:00",
+  "event_count": 6019,
+  "floor_check": "6019 events against a 6050-event baseline",
+  "generated_at": "2026-10-27T07:47:20+00:00",
   "problems": [],
   "sources": [
     "calagator",
