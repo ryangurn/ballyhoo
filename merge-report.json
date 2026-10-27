@@ -1105,6 +1105,14 @@
       "venue": "Westmoreland Park Sports Fields"
     },
     {
+      "dropped": "willamette_week:17924502@2026-10-31T13:00",
+      "kept": "ticketmaster:Z7r9jZ1A7-OqK",
+      "start_at": "2026-10-31T13:00:00-07:00",
+      "title_dropped": "Portland State University Football vs Idaho",
+      "title_kept": "Portland State Vikings Football vs. Idaho Vandals Football",
+      "venue": "Hillsboro Stadium"
+    },
+    {
       "dropped": "dopdx:17612614",
       "kept": "ticketmaster:vvG1HZ_2mbBE1H",
       "start_at": "2026-10-31T15:00:00-07:00",
@@ -5233,9 +5241,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6021,
-  "floor_check": "6021 events against a 6021-event baseline",
-  "generated_at": "2026-10-27T12:55:37+00:00",
+  "event_count": 6024,
+  "floor_check": "6024 events against a 6021-event baseline",
+  "generated_at": "2026-10-27T14:26:04+00:00",
   "problems": [],
   "sources": [
     "calagator",
