@@ -241,51 +241,11 @@
       "venue": "Showdown Saloon"
     },
     {
-      "dropped": "willamette_week:19651609@2026-10-26T18:00",
-      "kept": "dopdx:17641014",
-      "start_at": "2026-10-26T18:00:00-07:00",
-      "title_dropped": "Katsura Sunshine's Rakugo",
-      "title_kept": "Katsura Sunshine’S Rakugo",
-      "venue": "The Alberta Rose Theatre"
-    },
-    {
-      "dropped": "willamette_week:20142791@2026-10-26T19:00",
-      "kept": "dopdx:17523920",
-      "start_at": "2026-10-26T19:00:00-07:00",
-      "title_dropped": "PrettyUgly",
-      "title_kept": "Stanley Simmons – All Ages!",
-      "venue": "Holocene"
-    },
-    {
-      "dropped": "willamette_week:19879729@2026-10-26T19:00",
-      "kept": "dopdx:17620602",
-      "start_at": "2026-10-26T19:00:00-07:00",
-      "title_dropped": "Witches Exist & She's green & smush",
-      "title_kept": "She’s Green - Witches Exist - Starling",
-      "venue": "The High Limit Room"
-    },
-    {
-      "dropped": "willamette_week:19720851@2026-10-26T19:00",
-      "kept": "dopdx:17746625",
-      "start_at": "2026-10-26T19:00:00-07:00",
-      "title_dropped": "KELLY'S OLYMPIAN and VLVT HEART RECORDS PRESENTS OPEN MIC NIGHT! GUEST HOST MAMA SAM",
-      "title_kept": "KELLY’S OLYMPIAN and VLVT HEART RECORDS PRESENTS OPEN MIC NIGHT!, GUEST HOST MAMA SAM",
-      "venue": "Kelly's Olympian"
-    },
-    {
       "dropped": "dopdx:16851856",
       "kept": "ticketmaster:Z7r9jZ1AAvFkk",
       "start_at": "2026-10-26T19:30:00-07:00",
       "title_dropped": "You Should Be Dancing – A Tribute to the Bee Gees",
       "title_kept": "You Should Be Dancing ??? A Tribute to the Bee Gees",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "willamette_week:19759857@2026-10-26T19:30",
-      "kept": "dopdx:16851856",
-      "start_at": "2026-10-26T19:30:00-07:00",
-      "title_dropped": "You Should Be Dancing ??? A Tribute to the Bee Gees",
-      "title_kept": "You Should Be Dancing – A Tribute to the Bee Gees",
       "venue": "Aladdin Theater"
     },
     {
@@ -297,28 +257,12 @@
       "venue": "Hawthorne Theatre"
     },
     {
-      "dropped": "willamette_week:19570879@2026-10-26T20:00",
-      "kept": "dopdx:17587124",
-      "start_at": "2026-10-26T20:00:00-07:00",
-      "title_dropped": "KOTA The Friend",
-      "title_kept": "KOTA The Friend",
-      "venue": "Hawthorne Theatre"
-    },
-    {
       "dropped": "dopdx:17435783",
       "kept": "ticketmaster:Z7r9jZ1A7PdvM",
       "start_at": "2026-10-26T20:00:00-07:00",
       "title_dropped": "JULIA JACKLIN - North America Tour 2026",
       "title_kept": "Julia Jacklin w/ Jordan Patterson",
       "venue": "McMenamins Crystal Ballroom"
-    },
-    {
-      "dropped": "willamette_week:19538845@2026-10-26T20:00",
-      "kept": "dopdx:17507239",
-      "start_at": "2026-10-26T20:00:00-07:00",
-      "title_dropped": "We Are Scientists - Celebrating 20 years of 'With Love and Squalor",
-      "title_kept": "Twenty years of We Are Scientists - Celebrating the 20th Anniversary of 'With Love and Squalor'",
-      "venue": "Mississippi Studios"
     },
     {
       "dropped": "dopdx:17701095",
@@ -335,14 +279,6 @@
       "title_dropped": "George Clanton",
       "title_kept": "George Clanton w/ ideasforconversations",
       "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "willamette_week:19957014@2026-10-26T20:00",
-      "kept": "dopdx:17701095",
-      "start_at": "2026-10-26T20:00:00-07:00",
-      "title_dropped": "Faux Real (21 and Over)",
-      "title_kept": "George Clanton",
-      "venue": "Revolution Hall"
     },
     {
       "dropped": "willamette_week:19879730@2026-10-27T19:00",
@@ -5257,14 +5193,6 @@
       "venue": "Oregon Convention Center"
     },
     {
-      "dropped": "willamette_week:17586570@2026-10-26T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPw17",
-      "start_at": "2026-10-26T21:00:00-07:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:18893389@2026-11-07T23:30",
       "kept": "ticketmaster:rZ7HnEZ1Afv3-V",
       "start_at": "2026-11-07T23:30:00-08:00",
@@ -5337,9 +5265,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6059,
-  "floor_check": "6059 events against a 6050-event baseline",
-  "generated_at": "2026-10-27T04:56:38+00:00",
+  "event_count": 6021,
+  "floor_check": "6021 events against a 6050-event baseline",
+  "generated_at": "2026-10-27T05:13:42+00:00",
   "problems": [],
   "sources": [
     "calagator",
