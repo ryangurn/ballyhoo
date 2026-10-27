@@ -55521,6 +55521,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-05T21:00:00-08:00",
+      "id": "calagator:1250482770",
+      "is_all_day": false,
+      "listing_url": "https://pdxlinux.org/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-05T19:00:00-08:00",
+      "summary": "Summary:\r\n\r\n Let's talk about the use (and abuse) of tmux! We'll cover the basics of how it works, how I use it for both good and evil, and the terrible things other people have done with it (hint: tmux is turing complete).\r\n\r\nThis will be a helpful session for people who are just getting started, and (hopefully) amusing for people who have been using tmux for years. \r\n\r\nBio:\r\n\r\nTBA",
+      "title": "Portland Linux/Unix Group General Monthly Meeting: Tmux, with Peat Bakke",
+      "venue": {
+        "address": "1900 Southwest 4th Avenue",
+        "city": "Portland",
+        "latitude": 45.5095,
+        "longitude": -122.6811,
+        "name": "Portland State University Fourth Avenue Building (FAB) Room FAB 86-01"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-11-06T02:00:00-08:00",
@@ -178094,5 +178122,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-27T14:26:04+00:00"
+  "generated_at": "2026-10-27T16:30:15+00:00"
 }
