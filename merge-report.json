@@ -297,14 +297,6 @@
       "venue": "The High Limit Room"
     },
     {
-      "dropped": "willamette_week:19348739@2026-11-11T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfuNP0",
-      "start_at": "2026-11-11T19:00:00-08:00",
-      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "title_kept": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "willamette_week:19879730@2026-10-27T19:00",
       "kept": "dopdx:17894455",
       "start_at": "2026-10-27T19:00:00-07:00",
@@ -538,10 +530,10 @@
     },
     {
       "dropped": "willamette_week:19348739@2026-10-28T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfuNqV",
+      "kept": "ticketmaster:rZ7HnEZ1AfuNq0",
       "start_at": "2026-10-28T19:00:00-07:00",
       "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "title_kept": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "title_kept": "Whiskey Wednesday and Intermediate Two-Step Lessons with Brookyln Del and the Revelators and Temple Grandin",
       "venue": "Showdown Saloon"
     },
     {
@@ -623,14 +615,6 @@
       "title_dropped": "Team Dresch (Record Release Show)",
       "title_kept": "Team Dresch w/ heavens to betsy",
       "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "willamette_week:20095187@2026-10-28T20:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfuNq0",
-      "start_at": "2026-10-28T20:30:00-07:00",
-      "title_dropped": "Whiskey Wednesday with Brooklyn Del and the Revelators",
-      "title_kept": "Whiskey Wednesday with Brookyln Del and the Revelators and Temple Grandin",
-      "venue": "Showdown Saloon"
     },
     {
       "dropped": "willamette_week:19906884@2026-10-28T21:00",
@@ -2897,6 +2881,14 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
+      "dropped": "willamette_week:19348739@2026-11-11T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfuNPf",
+      "start_at": "2026-11-11T19:30:00-08:00",
+      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "title_kept": "Whiskey Wednesday and Intermediate Two-Step Lessons with The Spare Parts",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "dopdx:17262340",
       "kept": "ticketmaster:Z7r9jZ1A7JAqA",
       "start_at": "2026-11-11T19:30:00-08:00",
@@ -2975,14 +2967,6 @@
       "title_dropped": "BIEBER & A BEAT - PORTLAND (21+)",
       "title_kept": "Bieber And A Beat: A Justin Bieber Night – 21+",
       "venue": "Holocene"
-    },
-    {
-      "dropped": "willamette_week:19442191@2026-11-11T20:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfuNPf",
-      "start_at": "2026-11-11T20:30:00-08:00",
-      "title_dropped": "Whiskey Wednesday with Special Guests",
-      "title_kept": "Whiskey Wednesday with Special Guests",
-      "venue": "Showdown Saloon"
     },
     {
       "dropped": "willamette_week:19108254@2026-11-12T08:00",
@@ -4217,14 +4201,6 @@
       "venue": "Revolution Hall - Portland"
     },
     {
-      "dropped": "willamette_week:19415513@2026-11-18T20:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfuNPV",
-      "start_at": "2026-11-18T20:30:00-08:00",
-      "title_dropped": "Whiskey Wednesday with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
-      "title_kept": "Whiskey Wednesday with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "dopdx:17965902",
       "kept": "ticketmaster:vvG1HZ_fB9yAQs",
       "start_at": "2026-11-19T18:00:00-08:00",
@@ -5225,14 +5201,6 @@
       "venue": "Jack London Revue"
     },
     {
-      "dropped": "willamette_week:20095187@2026-11-25T20:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfuNJf",
-      "start_at": "2026-11-25T20:30:00-08:00",
-      "title_dropped": "Whiskey Wednesday with Brooklyn Del and the Revelators",
-      "title_kept": "Whiskey Wednesday with Brooklyn Del and the Revelators",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "willamette_week:20169590@2026-11-12T18:30",
       "kept": "dopdx:17774002",
       "start_at": "2026-11-12T19:00:00-08:00",
@@ -5249,9 +5217,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6077,
-  "floor_check": "6077 events against a 6026-event baseline",
-  "generated_at": "2026-10-27T22:49:13+00:00",
+  "event_count": 6083,
+  "floor_check": "6083 events against a 6026-event baseline",
+  "generated_at": "2026-10-27T23:45:53+00:00",
   "problems": [],
   "sources": [
     "calagator",
