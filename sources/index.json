@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:46:18+00:00",
+  "generated_at": "2026-10-28T13:19:51+00:00",
   "sources": [
     {
       "event_count": 22,
@@ -31,9 +31,9 @@
     },
     {
       "event_count": 55,
-      "last_run_at": "2026-10-28T05:59:14+00:00",
+      "last_run_at": "2026-10-28T13:18:26+00:00",
       "source_id": "neighborhood_markets",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/neighborhood_markets.json"
     },
     {
@@ -54,7 +54,7 @@
       "event_count": 140,
       "last_run_at": "2026-10-28T06:55:57+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
