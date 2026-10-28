@@ -5449,6 +5449,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-10-28T20:00:00-07:00",
+      "id": "calagator:1250482771",
+      "is_all_day": false,
+      "listing_url": "https://pdxosgeo.org/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-10-28T18:30:00-07:00",
+      "summary": "Happy October PDXOSGeo! \r\n\r\nJoin us fourth Wednesday October 28th for more of your favorite open source geo-goodness. Tonight we'll feature a roundtable of various open source projects. Have you seen something recently that the group would enjoy? Or have something you are working on that you want to share? Drop by to learn / share / enjoy the company of your fellow geo-nerds!\r\n\r\nAs always there will be pizza, and BYOB is available from across the hall at HotLips.\r\n\r\nTime / Space Coordinates:\r\nWednesday October 28th, 6:30–8pm  \r\nHot Lips Pizza @ the Natural Capital Center: 721 NW 9th Ave, Portland OR \r\n\r\nSee you there!\r\n\r\nOur mailing list is a google group: drop us a line with any questions: http://groups.google.com/group/pdx-osgeo",
+      "title": "PDXOSGeo October Meetup - Show & Tell!",
+      "venue": {
+        "address": "721 Northwest 9th Avenue",
+        "city": "Portland",
+        "latitude": 45.5282,
+        "longitude": -122.6806,
+        "name": "Ecotrust Building"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-10-29T02:00:00-07:00",
@@ -180019,5 +180047,5 @@
       }
     }
   ],
-  "generated_at": "2026-10-28T07:18:33+00:00"
+  "generated_at": "2026-10-28T08:20:25+00:00"
 }
