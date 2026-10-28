@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:32:06+00:00",
+  "generated_at": "2026-10-28T22:45:32+00:00",
   "sources": [
     {
       "event_count": 22,
@@ -24,16 +24,16 @@
     },
     {
       "event_count": 12,
-      "last_run_at": "2026-10-28T13:20:15+00:00",
+      "last_run_at": "2026-10-28T22:44:46+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
       "event_count": 55,
-      "last_run_at": "2026-10-28T13:18:26+00:00",
+      "last_run_at": "2026-10-28T22:44:39+00:00",
       "source_id": "neighborhood_markets",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/neighborhood_markets.json"
     },
     {
