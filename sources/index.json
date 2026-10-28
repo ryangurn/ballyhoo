@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T14:24:20+00:00",
+  "generated_at": "2026-10-28T15:58:07+00:00",
   "sources": [
     {
       "event_count": 22,
-      "last_run_at": "2026-10-28T08:19:45+00:00",
+      "last_run_at": "2026-10-28T15:56:35+00:00",
       "source_id": "calagator",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/calagator.json"
     },
     {
@@ -89,7 +89,7 @@
       "event_count": 4005,
       "last_run_at": "2026-10-28T08:39:01+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
