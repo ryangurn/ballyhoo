@@ -59160,6 +59160,43 @@
     },
     {
       "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-07T14:00:00-08:00",
+      "id": "portland_farmers_market:acre-knife@2026-11-07",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2026/10/acre-knife-demo-110726-e1793301070815.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/acre-knife/",
+      "merged_sources": [
+        "portland_farmers_market",
+        "willamette_week"
+      ],
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-11-07T09:00:00-08:00",
+      "summary": "Acre Knife will demonstrate their new line of everyday hand-finished culinary knives for shoppers at PSU Farmers Market on Sat, Nov 7, 2026.",
+      "title": "Exhibitor: Acre Knife",
+      "venue": {
+        "address": "SW Park & Montgomery",
+        "city": "Portland",
+        "latitude": 45.5128932,
+        "longitude": -122.6853859,
+        "name": "PSU Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -59168,10 +59205,6 @@
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/05/PSU-winter-2023.jpg",
       "is_all_day": false,
       "listing_url": "https://www.portlandfarmersmarket.org/event/psu-farmers-market-2026-2/2026-11-07/",
-      "merged_sources": [
-        "portland_farmers_market",
-        "willamette_week"
-      ],
       "organizer": "Portland Farmers Market",
       "price": {
         "currency": "USD",
@@ -183077,5 +183110,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-10-29T22:24:36+00:00"
+  "generated_at": "2026-10-29T22:42:53+00:00"
 }
