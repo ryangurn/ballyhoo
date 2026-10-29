@@ -1033,6 +1033,14 @@
       "venue": "Mississippi Studios"
     },
     {
+      "dropped": "willamette_week:19586908@2026-10-31T21:00",
+      "kept": "dopdx:17681334",
+      "start_at": "2026-10-31T21:00:00-07:00",
+      "title_dropped": "The Funk Hunters",
+      "title_kept": "The Funk Hunters",
+      "venue": "The Get Down"
+    },
+    {
       "dropped": "dopdx:17728841",
       "kept": "ticketmaster:Z7r9jZ1AAvZ-Y",
       "start_at": "2026-10-31T21:00:00-07:00",
@@ -5057,9 +5065,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6176,
-  "floor_check": "6176 events against a 6177-event baseline",
-  "generated_at": "2026-10-29T06:59:00+00:00",
+  "event_count": 6177,
+  "floor_check": "6177 events against a 6177-event baseline",
+  "generated_at": "2026-10-29T07:12:01+00:00",
   "problems": [],
   "sources": [
     "calagator",
