@@ -873,6 +873,14 @@
       "venue": "Advice Booth"
     },
     {
+      "dropped": "willamette_week:20292317@2026-10-31T19:00",
+      "kept": "dopdx:17726076",
+      "start_at": "2026-10-31T19:00:00-07:00",
+      "title_dropped": "Sin Filtro \"Dia de los Muertos\"",
+      "title_kept": "Sin Filtro",
+      "venue": "Kickstand Comedy"
+    },
+    {
       "dropped": "willamette_week:19679529@2026-10-31T19:30",
       "kept": "dopdx:17611170",
       "start_at": "2026-10-31T19:00:00-07:00",
@@ -5033,9 +5041,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6177,
-  "floor_check": "6177 events against a 6177-event baseline",
-  "generated_at": "2026-10-29T20:13:51+00:00",
+  "event_count": 6194,
+  "floor_check": "6194 events against a 6177-event baseline",
+  "generated_at": "2026-10-29T20:22:06+00:00",
   "problems": [],
   "sources": [
     "calagator",
