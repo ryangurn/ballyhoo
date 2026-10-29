@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T12:57:18+00:00",
+  "generated_at": "2026-10-29T13:23:54+00:00",
   "sources": [
     {
       "event_count": 20,
       "last_run_at": "2026-10-29T06:58:16+00:00",
       "source_id": "calagator",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/calagator.json"
     },
     {
@@ -52,9 +52,9 @@
     },
     {
       "event_count": 160,
-      "last_run_at": "2026-10-29T06:02:16+00:00",
+      "last_run_at": "2026-10-29T13:21:54+00:00",
       "source_id": "oregon_metro",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/oregon_metro.json"
     },
     {
@@ -89,7 +89,7 @@
       "event_count": 4043,
       "last_run_at": "2026-10-29T07:10:46+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
