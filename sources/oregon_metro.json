@@ -4,25 +4,6 @@
       "categories": [
         "civic"
       ],
-      "id": "oregon_metro:metro-policy-advisory-committee-meeting-2026-10-28",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metro-policy-advisory-committee-meeting-2026-10-28",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-28T17:00:00-07:00",
-      "title": "Metro Policy Advisory Committee meeting"
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "id": "oregon_metro:metro-council-meeting-2026-10-29",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-council-meeting-2026-10-29",
@@ -2372,6 +2353,31 @@
       "categories": [
         "civic"
       ],
+      "id": "oregon_metro:oregon-zoo-bond-oversight-committee-meeting-2027-04-21",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-committee-meeting-2027-04-21",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-04-21T15:00:00-07:00",
+      "title": "Oregon Zoo Bond Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.50981,
+        "longitude": -122.71269,
+        "name": "Oregon Zoo"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
       "id": "oregon_metro:transit-oriented-development-steering-committee-meeting-2027-05-11",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/transit-oriented-development-steering-committee-meeting-2027-05-11",
@@ -3489,7 +3495,7 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-10-29T06:02:16+00:00",
+  "generated_at": "2026-10-29T13:21:54+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
