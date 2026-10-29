@@ -21545,6 +21545,37 @@
     },
     {
       "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-10-31T13:00:00-07:00",
+      "id": "vancouver_farmers_market:jim-marcotte-music-at-the-vancouver-farmers-market-3@2026-10-31",
+      "is_all_day": false,
+      "listing_url": "https://vancouverfarmersmarket.org/event/jim-marcotte-music-at-the-vancouver-farmers-market-3/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2026-10-31T11:00:00-07:00",
+      "title": "Jim Marcotte Music at the Vancouver Farmers Market",
+      "venue": {
+        "address": "605 Esther St, Vancouver, WA 98660",
+        "city": "Vancouver",
+        "latitude": 45.6261,
+        "longitude": -122.67574,
+        "name": "Vancouver Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-10-31T19:00:00-07:00",
@@ -182274,5 +182305,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-10-29T02:55:50+00:00"
+  "generated_at": "2026-10-29T04:12:08+00:00"
 }
