@@ -2,34 +2,6 @@
   "events": [
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1AAvt7d",
-      "image_url": "https://s1.ticketm.net/dam/c/8cf/a6653880-7899-4f67-8067-1f95f4d158cf_124761_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvt7d",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-29T10:00:00-07:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvt7d",
-      "title": "Crystal Ballroom Tours",
-      "venue": {
-        "address": "1332  West Burnside St",
-        "city": "Portland",
-        "latitude": 45.5303,
-        "longitude": -122.684799,
-        "name": "McMenamins Crystal Ballroom"
-      }
-    },
-    {
-      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_83jmFBA",
@@ -2437,12 +2409,12 @@
       "id": "ticketmaster:rZ7HnEZ1AfFwjV",
       "image_url": "https://s1.ticketm.net/dam/a/4c3/4430feaa-b434-48af-bb72-4948b7b544c3_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/tauren-wells-air1-worship-now-rolling-hills-community-church-tickets/14232734",
+      "listing_url": "https://www.ticketweb.com/event/sold-out-tauren-wells-air1-rolling-hills-community-church-tickets/14232734",
       "price": {
         "currency": "USD",
-        "is_free": false,
-        "max": 25.0,
-        "min": 25.0
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
       },
       "source": {
         "id": "ticketmaster",
@@ -2451,8 +2423,8 @@
       },
       "start_at": "2026-11-06T19:00:00-08:00",
       "summary": "The Air1 Worship Now Tour returns this fall, bringing an unforgettable night of worship to 21 cities nationwide! Featuring Tauren Wells, Seph Schlueter, Gateway Worship, Roosevelt Stewart, and Sarai Rivera, this year's tour offers an inspiring evening of worship, powerful music, and meaningful community. Don't miss this opportunity to experience one of this fall's most anticipated nights of worship. SCHEDULE (subject to change): 4:45pm - VIP doors open 5:45pm - Early Entry doors open 6:00pm - General Admission doors open 7:00pm - Show begins IMPORTANT INFORMATION: If you need assistance with your order or have questions regarding this event, please reach out to tickets@tprlive.co and our team will be happy to assist you. Attendees over the age of 2 will be required to have their own ticket. If attendee arrives after specified ticket type door time, participation in ticket type benefits can not be guaranteed. In addition, It is not guaranteed that attendee's entire party will be seated together. Ticket prices are subject to change based on demand and/or when purchased at the door. All purchases are non-refundable. By purchasing a ticket and voluntarily entering and being present at this event, you (and each person in your party) acknowledge and agree to accept complete and sole responsibility for the inherent risk of possible exposure to communicable diseases such as COVID-19. Please consider that there is an inherent risk of exposure to COVID-19 or other infectious diseases in any place where people are present. We cannot ensure or be held liable that the premises are free from contagions. For the protection of our ticket buyers and event participants, third party selling of tickets will not be permitted for any TPR. event pages. There has been an increase in fraudulent and unlawful scams around concert ticket sales online. To ensure everyone has an official ticket to the event through proper channels, we recommend you purchase your tickets through the official ticketing outlet for your event. Any purchases through 3rd parties or 3rd party ticketing sites are not guaranteed by TPR. and limits your ability to receive up to date information for the event and any necessary assistance.",
-      "ticket_url": "https://www.ticketweb.com/event/tauren-wells-air1-worship-now-rolling-hills-community-church-tickets/14232734",
-      "title": "Tauren Wells: Air1 Worship Now Tour - Tualatin, OR",
+      "ticket_url": "https://www.ticketweb.com/event/sold-out-tauren-wells-air1-rolling-hills-community-church-tickets/14232734",
+      "title": "SOLD OUT! Tauren Wells: Air1 Worship Now Tour - Tualatin, OR",
       "venue": {
         "address": "3550 SW Borland Rd.",
         "city": "Tualatin",
@@ -11109,6 +11081,34 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:Z7r9jZ1AAep04",
+      "image_url": "https://s1.ticketm.net/dam/a/87b/3b235960-4e25-464a-9e84-ed7177e5e87b_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAep04",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-10T20:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAep04",
+      "title": "Temper City",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.5303,
+        "longitude": -122.684799,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1Af8AbV",
       "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -15397,6 +15397,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1Af8AOV",
+      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/dominique-the-diamonds-with-dantes-tickets/14405834",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 21.09,
+        "min": 21.09
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-01-19T20:30:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/dominique-the-diamonds-with-dantes-tickets/14405834",
+      "title": "DOMINIQUE & THE DIAMONDS with Satán Es Real",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:vvG1HZ_4mtQyNt",
@@ -18274,6 +18305,34 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7SoJ",
+      "image_url": "https://s1.ticketm.net/dam/a/04d/da8b7bf9-599c-45f8-8253-401e5cd5504d_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7SoJ",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-02-20T14:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7SoJ",
+      "title": "Portland Timbers vs. San Jose Earthquakes",
+      "venue": {
+        "address": "1844 SW Morrison St.",
+        "city": "Portland",
+        "latitude": 45.5201,
+        "longitude": -122.6884,
+        "name": "Providence Park"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:rZ7HnEZ1AfuvGV",
@@ -19058,6 +19117,34 @@
         "latitude": 45.53118896,
         "longitude": -122.66645813,
         "name": "Moda Center"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7SoE",
+      "image_url": "https://s1.ticketm.net/dam/a/04d/da8b7bf9-599c-45f8-8253-401e5cd5504d_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7SoE",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-03-03T19:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7SoE",
+      "title": "Portland Timbers vs. St. Louis City SC",
+      "venue": {
+        "address": "1844 SW Morrison St.",
+        "city": "Portland",
+        "latitude": 45.5201,
+        "longitude": -122.6884,
+        "name": "Providence Park"
       }
     },
     {
@@ -20274,6 +20361,34 @@
         "latitude": 45.5201,
         "longitude": -122.6884,
         "name": "Brunish Theatre"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7SoI",
+      "image_url": "https://s1.ticketm.net/dam/a/04d/da8b7bf9-599c-45f8-8253-401e5cd5504d_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7SoI",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-03-13T19:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7SoI",
+      "title": "Portland Timbers vs. Austin FC",
+      "venue": {
+        "address": "1844 SW Morrison St.",
+        "city": "Portland",
+        "latitude": 45.5201,
+        "longitude": -122.6884,
+        "name": "Providence Park"
       }
     },
     {
@@ -21523,6 +21638,34 @@
         "latitude": 45.5201,
         "longitude": -122.6884,
         "name": "Brunish Theatre"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7Sot",
+      "image_url": "https://s1.ticketm.net/dam/a/04d/da8b7bf9-599c-45f8-8253-401e5cd5504d_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Sot",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-03-27T19:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Sot",
+      "title": "Portland Timbers vs. Houston Dynamo",
+      "venue": {
+        "address": "1844 SW Morrison St.",
+        "city": "Portland",
+        "latitude": 45.5201,
+        "longitude": -122.6884,
+        "name": "Providence Park"
       }
     },
     {
@@ -22839,6 +22982,34 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7SoY",
+      "image_url": "https://s1.ticketm.net/dam/a/04d/da8b7bf9-599c-45f8-8253-401e5cd5504d_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7SoY",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-04-17T19:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7SoY",
+      "title": "Portland Timbers vs. Vancouver Whitecaps FC",
+      "venue": {
+        "address": "1844 SW Morrison St.",
+        "city": "Portland",
+        "latitude": 45.5201,
+        "longitude": -122.6884,
+        "name": "Providence Park"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "ticketmaster:vvG1HZ_fpgFFOD",
@@ -23008,6 +23179,34 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "McMenamins Crystal Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7Sos",
+      "image_url": "https://s1.ticketm.net/dam/a/04d/da8b7bf9-599c-45f8-8253-401e5cd5504d_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Sos",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-04-21T19:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Sos",
+      "title": "Portland Timbers vs. Colorado Rapids",
+      "venue": {
+        "address": "1844 SW Morrison St.",
+        "city": "Portland",
+        "latitude": 45.5201,
+        "longitude": -122.6884,
+        "name": "Providence Park"
       }
     },
     {
@@ -23710,6 +23909,34 @@
         "latitude": 45.518398,
         "longitude": -122.674301,
         "name": "Winningstad Theatre"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "ticketmaster:Z7r9jZ1AA7Sow",
+      "image_url": "https://s1.ticketm.net/dam/a/04d/da8b7bf9-599c-45f8-8253-401e5cd5504d_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Sow",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-05-08T17:00:00-07:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Sow",
+      "title": "Portland Timbers vs. Los Angeles Football Club",
+      "venue": {
+        "address": "1844 SW Morrison St.",
+        "city": "Portland",
+        "latitude": 45.5201,
+        "longitude": -122.6884,
+        "name": "Providence Park"
       }
     },
     {
@@ -26591,7 +26818,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-29T16:54:21+00:00",
+  "generated_at": "2026-10-29T21:46:20+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
