@@ -1,62 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:18521270@2026-10-28T10:00",
-      "kept": "portland_farmers_market:shemanski-park-farmers-market-2026@2026-10-28",
-      "start_at": "2026-10-28T10:00:00-07:00",
-      "title_dropped": "Shemanski Park Farmers Market",
-      "title_kept": "Shemanski Park Farmers Market",
-      "venue": "Shemanski Park Farmers Market"
-    },
-    {
-      "dropped": "dopdx:17712049",
-      "kept": "ticketmaster:Z7r9jZ1AAvFk6",
-      "start_at": "2026-10-28T19:00:00-07:00",
-      "title_dropped": "Reel Rock 20",
-      "title_kept": "REEL ROCK 20",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "willamette_week:19758602@2026-10-28T19:00",
-      "kept": "dopdx:17712049",
-      "start_at": "2026-10-28T19:00:00-07:00",
-      "title_dropped": "REEL ROCK 20",
-      "title_kept": "Reel Rock 20",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "dopdx:17612612",
-      "kept": "ticketmaster:vvG1HZ_2mby91p",
-      "start_at": "2026-10-28T19:00:00-07:00",
-      "title_dropped": "Winterhawks vs. Vancouver Giants",
-      "title_kept": "Portland Winterhawks vs Vancouver Giants",
-      "venue": "Veterans Memorial Coliseum"
-    },
-    {
-      "dropped": "willamette_week:19570968@2026-10-28T19:00",
-      "kept": "dopdx:17612612",
-      "start_at": "2026-10-28T19:00:00-07:00",
-      "title_dropped": "Portland Winterhawks vs Penticton Vees",
-      "title_kept": "Winterhawks vs. Vancouver Giants",
-      "venue": "Veterans Memorial Coliseum"
-    },
-    {
-      "dropped": "willamette_week:19029325@2026-10-28T19:00",
-      "kept": "ticketmaster:Z7r9jZ1A70bot",
-      "start_at": "2026-10-28T19:00:00-07:00",
-      "title_dropped": "Roseland Theater",
-      "title_kept": "Basement w/ High Vis",
-      "venue": "Roseland Theater"
-    },
-    {
-      "dropped": "willamette_week:19348739@2026-10-28T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfuNq0",
-      "start_at": "2026-10-28T19:00:00-07:00",
-      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "title_kept": "Whiskey Wednesday and Intermediate Two-Step Lessons with Brookyln Del and the Revelators and Temple Grandin",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "willamette_week:20177204@2026-10-29T18:00",
       "kept": "dopdx:17813115",
       "start_at": "2026-10-29T18:00:00-07:00",
@@ -335,6 +279,54 @@
       "title_dropped": "Basement w/ High Vis",
       "title_kept": "Basement",
       "venue": "Roseland Theater"
+    },
+    {
+      "dropped": "dopdx:17712049",
+      "kept": "ticketmaster:Z7r9jZ1AAvFk6",
+      "start_at": "2026-10-28T19:00:00-07:00",
+      "title_dropped": "Reel Rock 20",
+      "title_kept": "REEL ROCK 20",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "willamette_week:19758602@2026-10-28T19:00",
+      "kept": "dopdx:17712049",
+      "start_at": "2026-10-28T19:00:00-07:00",
+      "title_dropped": "REEL ROCK 20",
+      "title_kept": "Reel Rock 20",
+      "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "dopdx:17612612",
+      "kept": "ticketmaster:vvG1HZ_2mby91p",
+      "start_at": "2026-10-28T19:00:00-07:00",
+      "title_dropped": "Winterhawks vs. Vancouver Giants",
+      "title_kept": "Portland Winterhawks vs Vancouver Giants",
+      "venue": "Veterans Memorial Coliseum"
+    },
+    {
+      "dropped": "willamette_week:19570968@2026-10-28T19:00",
+      "kept": "dopdx:17612612",
+      "start_at": "2026-10-28T19:00:00-07:00",
+      "title_dropped": "Portland Winterhawks vs Penticton Vees",
+      "title_kept": "Winterhawks vs. Vancouver Giants",
+      "venue": "Veterans Memorial Coliseum"
+    },
+    {
+      "dropped": "willamette_week:19029325@2026-10-28T19:00",
+      "kept": "ticketmaster:Z7r9jZ1A70bot",
+      "start_at": "2026-10-28T19:00:00-07:00",
+      "title_dropped": "Roseland Theater",
+      "title_kept": "Basement w/ High Vis",
+      "venue": "Roseland Theater"
+    },
+    {
+      "dropped": "willamette_week:19348739@2026-10-28T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfuNq0",
+      "start_at": "2026-10-28T19:00:00-07:00",
+      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "title_kept": "Whiskey Wednesday and Intermediate Two-Step Lessons with Brookyln Del and the Revelators and Temple Grandin",
+      "venue": "Showdown Saloon"
     },
     {
       "dropped": "willamette_week:19679528@2026-10-28T19:00",
@@ -4969,6 +4961,14 @@
       "venue": "Oregon Convention Center"
     },
     {
+      "dropped": "willamette_week:18521270@2026-10-28T10:00",
+      "kept": "portland_farmers_market:shemanski-park-farmers-market-2026@2026-10-28",
+      "start_at": "2026-10-28T10:00:00-07:00",
+      "title_dropped": "Shemanski Park Farmers Market",
+      "title_kept": "Shemanski Park Farmers Market",
+      "venue": "Shemanski Park Farmers Market"
+    },
+    {
       "dropped": "willamette_week:18893389@2026-11-07T23:30",
       "kept": "ticketmaster:rZ7HnEZ1Afv3-V",
       "start_at": "2026-11-07T23:30:00-08:00",
@@ -5089,9 +5089,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6199,
-  "floor_check": "6199 events against a 6130-event baseline",
-  "generated_at": "2026-10-29T00:19:58+00:00",
+  "event_count": 6197,
+  "floor_check": "6197 events against a 6141-event baseline",
+  "generated_at": "2026-10-29T00:49:43+00:00",
   "problems": [],
   "sources": [
     "calagator",
