@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:38:13+00:00",
+  "generated_at": "2026-10-30T05:39:29+00:00",
   "sources": [
     {
       "event_count": 18,
@@ -16,10 +16,10 @@
       "url": "sources/dopdx.json"
     },
     {
-      "event_count": 4,
-      "last_run_at": "2026-10-29T22:42:43+00:00",
+      "event_count": 3,
+      "last_run_at": "2026-10-30T05:38:40+00:00",
       "source_id": "hillsboro_farmers_markets",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/hillsboro_farmers_markets.json"
     },
     {
