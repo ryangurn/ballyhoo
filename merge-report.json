@@ -313,6 +313,14 @@
       "venue": "Star Bar"
     },
     {
+      "dropped": "willamette_week:20298205@2026-10-30T20:00",
+      "kept": "dopdx:17850979",
+      "start_at": "2026-10-30T20:00:00-07:00",
+      "title_dropped": "Mysterium",
+      "title_kept": "Mysterium Halloween",
+      "venue": "NOVA PDX"
+    },
+    {
       "dropped": "willamette_week:20142819@2026-10-30T20:00",
       "kept": "dopdx:17850979",
       "start_at": "2026-10-30T20:00:00-07:00",
@@ -583,6 +591,14 @@
       "title_dropped": "Sin Filtro \"Dia de los Muertos\"",
       "title_kept": "Sin Filtro",
       "venue": "Kickstand Comedy"
+    },
+    {
+      "dropped": "willamette_week:20297119@2026-10-31T19:00",
+      "kept": "dopdx:17900799",
+      "start_at": "2026-10-31T19:00:00-07:00",
+      "title_dropped": "Murder Mystery Machine",
+      "title_kept": "Murder Mystery Machine",
+      "venue": "Funhouse Lounge"
     },
     {
       "dropped": "willamette_week:19679529@2026-10-31T19:30",
@@ -2857,6 +2873,14 @@
       "venue": "Kickstand Comedy"
     },
     {
+      "dropped": "willamette_week:20297119@2026-11-14T19:00",
+      "kept": "dopdx:17900805",
+      "start_at": "2026-11-14T19:00:00-08:00",
+      "title_dropped": "Murder Mystery Machine",
+      "title_kept": "Murder Mystery Machine",
+      "venue": "Funhouse Lounge"
+    },
+    {
       "dropped": "willamette_week:20197673@2026-11-14T19:00",
       "kept": "dopdx:17960689",
       "start_at": "2026-11-14T19:00:00-08:00",
@@ -4337,6 +4361,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:20297502@2026-10-31T08:30",
+      "kept": "portland_farmers_market:das-de-los-muertos@2026-10-31",
+      "start_at": "2026-10-31T08:30:00-07:00",
+      "title_dropped": "Dias de Los Muertos",
+      "title_kept": "Días de Los Muertos",
+      "venue": "PSU Farmers Market"
+    },
+    {
       "dropped": "willamette_week:17670892@2026-11-01T09:00",
       "kept": "neighborhood_markets:hillsdale@2026-11-01",
       "start_at": "2026-11-01T09:00:00-08:00",
@@ -4551,6 +4583,14 @@
       "title_dropped": "Portland Trail Blazers vs. San Antonio Spurs",
       "title_kept": "Portland Trail Blazers vs. San Antonio Spurs",
       "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:20095187@2026-11-25T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Afu0Z7",
+      "start_at": "2026-11-25T19:00:00-08:00",
+      "title_dropped": "Whiskey Wednesday with Brooklyn Del and the Revelators",
+      "title_kept": "Intermediate Two-Step Lessons with Peggy and Dillon",
+      "venue": "Showdown Saloon"
     },
     {
       "dropped": "willamette_week:19348739@2026-11-25T19:00",
@@ -4793,9 +4833,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6120,
-  "floor_check": "6120 events against a 6120-event baseline",
-  "generated_at": "2026-10-30T14:03:00+00:00",
+  "event_count": 6150,
+  "floor_check": "6150 events against a 6120-event baseline",
+  "generated_at": "2026-10-30T14:17:30+00:00",
   "problems": [],
   "sources": [
     "calagator",
