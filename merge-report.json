@@ -1289,6 +1289,14 @@
       "venue": "Aladdin Theater"
     },
     {
+      "dropped": "willamette_week:20303658@2026-11-04T20:00",
+      "kept": "dopdx:17945525",
+      "start_at": "2026-11-04T20:00:00-08:00",
+      "title_dropped": "Keep Portland Singin' Halloween Karaoke Crawl",
+      "title_kept": "Keep Portland Singin' Halloween Karaoke Crawl",
+      "venue": "Ground Kontrol Classic Arcade and Bar"
+    },
+    {
       "dropped": "willamette_week:19029325@2026-11-04T20:00",
       "kept": "ticketmaster:Z7r9jZ1A70Sq4",
       "start_at": "2026-11-04T20:00:00-08:00",
@@ -4921,9 +4929,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6167,
-  "floor_check": "6167 events against a 6151-event baseline",
-  "generated_at": "2026-10-30T23:40:09+00:00",
+  "event_count": 6173,
+  "floor_check": "6173 events against a 6151-event baseline",
+  "generated_at": "2026-10-30T23:53:41+00:00",
   "problems": [],
   "sources": [
     "calagator",
