@@ -905,6 +905,14 @@
       "venue": "Roseland Theater"
     },
     {
+      "dropped": "willamette_week:20301379@2026-11-01T19:00",
+      "kept": "ticketmaster:Z7r9jZ1A70tJ3",
+      "start_at": "2026-11-01T19:30:00-08:00",
+      "title_dropped": "The Neon Room at Helium: Tokyo Kanpai Boys (SHOW PERFORMED IN ENGLISH)",
+      "title_kept": "Caitlin Peluffo",
+      "venue": "Helium Comedy Club - Portland"
+    },
+    {
       "dropped": "willamette_week:18548784@2026-11-01T19:00",
       "kept": "ticketmaster:Z7r9jZ1A70tJ3",
       "start_at": "2026-11-01T19:30:00-08:00",
@@ -3705,6 +3713,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:20302384@2026-11-19T20:00",
+      "kept": "dopdx:17854307",
+      "start_at": "2026-11-19T20:00:00-08:00",
+      "title_dropped": "2DEAD BOYZ x The Underachievers: NO1LIVESFOREVER Tour",
+      "title_kept": "2Dead Boyz x The Underachievers",
+      "venue": "Hawthorne Theatre"
+    },
+    {
       "dropped": "willamette_week:19879833@2026-11-19T20:00",
       "kept": "dopdx:17670282",
       "start_at": "2026-11-19T20:00:00-08:00",
@@ -4215,6 +4231,14 @@
       "title_dropped": "Haley Heynderickx",
       "title_kept": "Haley Heynderickx",
       "venue": "Aladdin Theater"
+    },
+    {
+      "dropped": "willamette_week:20302385@2026-11-22T20:00",
+      "kept": "dopdx:17854308",
+      "start_at": "2026-11-22T20:00:00-08:00",
+      "title_dropped": "1Umbrella",
+      "title_kept": "1 Umbrella",
+      "venue": "Hawthorne Theatre"
     },
     {
       "dropped": "willamette_week:19957053@2026-11-22T20:00",
@@ -4833,9 +4857,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6151,
-  "floor_check": "6151 events against a 6120-event baseline",
-  "generated_at": "2026-10-30T19:16:40+00:00",
+  "event_count": 6156,
+  "floor_check": "6156 events against a 6120-event baseline",
+  "generated_at": "2026-10-30T19:28:36+00:00",
   "problems": [],
   "sources": [
     "calagator",
