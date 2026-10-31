@@ -11386,40 +11386,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "end_at": "2026-10-31T16:00:00-07:00",
-      "id": "ticketmaster:Z7r9jZ1A7-OqK",
-      "image_url": "https://s1.ticketm.net/dam/a/98b/16b892d1-f65b-4b45-a6cf-c7737de8298b_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-OqK",
-      "merged_sources": [
-        "ticketmaster",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-31T13:00:00-07:00",
-      "summary": "Portland State University Football vs Idaho TV: Rose City SportsNet \\(Ch 49.1 w/ Antenna; 13/713 w/ Cable\\) Streaming Video: https://www.espn.com/watch/ Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3359",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-OqK",
-      "title": "Portland State Vikings Football vs. Idaho Vandals Football",
-      "venue": {
-        "address": "4450 NE Century Blvd",
-        "city": "Hillsboro",
-        "latitude": 45.616501,
-        "longitude": -122.954498,
-        "name": "Hillsboro Stadium"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "end_at": "2026-10-31T15:00:00-07:00",
@@ -11504,6 +11470,35 @@
         "latitude": 45.522007,
         "longitude": -123.108985,
         "name": "Hanson Stadium"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-10-31T16:00:00-07:00",
+      "id": "willamette_week:17924502@2026-10-31T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eb79c50c-f2f9-4f15-ad39-fc8ba4d56022.large.PNG",
+      "is_all_day": false,
+      "listing_url": "https://goviks.com/calendar.aspx?game_id=5659&amp;sport_id=1",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-10-31T13:00:00-07:00",
+      "summary": "Portland State University Football vs Idaho TV: Rose City SportsNet \\(Ch 49.1 w/ Antenna; 13/713 w/ Cable\\) Streaming Video: https://www.espn.com/watch/ Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3359",
+      "title": "Portland State University Football vs Idaho",
+      "venue": {
+        "address": "4450 Northwest 229th Avenue",
+        "city": "Hillsboro",
+        "latitude": 45.554001,
+        "longitude": -122.907657,
+        "name": "Hillsboro Stadium"
       }
     },
     {
@@ -12225,6 +12220,38 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-01T02:00:00-08:00",
+      "id": "dopdx:17612614",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1784164761/event-17612614.svg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/10/31/winterhawks-vs-kelowna-rockets-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-10-31T15:00:00-07:00",
+      "summary": "Bags and full-length umbrellas are not allowed in the arena. Exclusions apply for medical bags, children's bags and clutches 5X8\" or smaller. Bag check is available.",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketmaster.com%252Fportland-winterhawks-vs-kelowna-rockets-portland-oregon-10-31-2026%252Fevent%252F0F0064FB98EA72BC%26utm_medium%3daffiliate",
+      "title": "Winterhawks vs. Kelowna Rockets",
+      "venue": {
+        "address": "300 N Ramsay Way",
+        "city": "Portland",
+        "name": "Veterans Memorial Coliseum"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "end_at": "2026-10-31T22:00:00-07:00",
@@ -12252,41 +12279,6 @@
       "title": "Portland OR Halloween Bar Crawl 2026",
       "venue": {
         "name": "McMenamins Blue Moon Tavern & Grill"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-11-01T02:00:00-08:00",
-      "id": "ticketmaster:vvG1HZ_2mbBE1H",
-      "image_url": "https://s1.ticketm.net/dam/a/81b/474adaa2-4ca6-466a-9b89-ea1680cc881b_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/portland-winterhawks-vs-kelowna-rockets-portland-oregon-10-31-2026/event/0F0064FB98EA72BC",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "PROMOTED BY VENUE",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-10-31T15:00:00-07:00",
-      "summary": "Bags and full-length umbrellas are not allowed in the arena. Exclusions apply for medical bags, children's bags and clutches 5X8\" or smaller. Bag check is available.",
-      "ticket_url": "https://www.ticketmaster.com/portland-winterhawks-vs-kelowna-rockets-portland-oregon-10-31-2026/event/0F0064FB98EA72BC",
-      "title": "Portland Winterhawks vs Kelowna Rockets",
-      "venue": {
-        "address": "300 Winning Way",
-        "city": "Portland",
-        "latitude": 45.533299,
-        "longitude": -122.667442,
-        "name": "Veterans Memorial Coliseum"
       }
     },
     {
@@ -15445,8 +15437,8 @@
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 32.42,
-        "min": 32.42
+        "max": 35.51,
+        "min": 35.51
       },
       "source": {
         "id": "ticketmaster",
@@ -178391,5 +178383,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-10-31T22:08:21+00:00"
+  "generated_at": "2026-10-31T22:27:38+00:00"
 }
