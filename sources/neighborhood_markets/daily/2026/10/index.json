@@ -672,6 +672,17 @@
       "recent": "sources/neighborhood_markets/recent/2026-10-30/131622Z.json.gz",
       "sha256": "c92717202b9ddb3a23d0932305bd816dee47a8fad24ff2cdcf04f8a7af534289",
       "unchanged": false
+    },
+    {
+      "bytes": 45401,
+      "captured_at": "2026-10-31T06:02:03+00:00",
+      "content_sha256": "2872bd705b7193972b2839bb46aeedb1e92f124ef6058da896e362a085fc5a1c",
+      "daily": "sources/neighborhood_markets/daily/2026/10/31.json.gz",
+      "event_count": 52,
+      "gzip_bytes": 1888,
+      "recent": "sources/neighborhood_markets/recent/2026-10-31/060203Z.json.gz",
+      "sha256": "dc098545f9c37750fbf2c3871b62383e5a775dd0fba68772244c23a4635ac1b8",
+      "unchanged": true
     }
   ]
 }
