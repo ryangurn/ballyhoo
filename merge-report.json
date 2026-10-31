@@ -121,78 +121,6 @@
       "venue": "The High Limit Room"
     },
     {
-      "dropped": "dopdx:17033293",
-      "kept": "ticketmaster:vvG1HZ_AnwQDFp",
-      "start_at": "2026-10-30T19:00:00-07:00",
-      "title_dropped": "Gorillaz with special guest: Little Simz & Deltron 3030",
-      "title_kept": "Gorillaz - The Mountain Tour",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "dopdx:17693028",
-      "kept": "ticketmaster:Z7r9jZ1AAZbxp",
-      "start_at": "2026-10-30T19:00:00-07:00",
-      "title_dropped": "Pain Of Truth",
-      "title_kept": "Pain Of Truth w/ Missing Link",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "dopdx:17611168",
-      "kept": "ticketmaster:Z7r9jZ1A70tJf",
-      "start_at": "2026-10-30T19:30:00-07:00",
-      "title_dropped": "Marlon Wayans",
-      "title_kept": "Caitlin Peluffo",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "dopdx:17611173",
-      "kept": "ticketmaster:Z7r9jZ1A70tJf",
-      "start_at": "2026-10-30T19:30:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Zac Townsend",
-      "title_kept": "Caitlin Peluffo",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "dopdx:17372832",
-      "kept": "ticketmaster:Z7r9jZ1A7Jd-s",
-      "start_at": "2026-10-30T20:00:00-07:00",
-      "title_dropped": "Ax and the Hatchetmen: The Late Checkout Tour 2026",
-      "title_kept": "Ax and the Hatchetmen",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "dopdx:17752864",
-      "kept": "ticketmaster:Z7r9jZ1AAvN0-",
-      "start_at": "2026-10-30T20:00:00-07:00",
-      "title_dropped": "Glitterfox - The Resurrection",
-      "title_kept": "Glitterfox",
-      "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "dopdx:17830505",
-      "kept": "ticketmaster:rZ7HnEZ1AfGou0",
-      "start_at": "2026-10-30T20:00:00-07:00",
-      "title_dropped": "DOCKIN' YACHTS: A Tribute to Michael McDonald",
-      "title_kept": "DOCKIN' YACHTS: A Tribute to Michael McDonald",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "dopdx:17611169",
-      "kept": "ticketmaster:Z7r9jZ1A70tJp",
-      "start_at": "2026-10-30T21:45:00-07:00",
-      "title_dropped": "Marlon Wayans",
-      "title_kept": "Caitlin Peluffo",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
-      "dropped": "dopdx:17611174",
-      "kept": "ticketmaster:Z7r9jZ1A70tJp",
-      "start_at": "2026-10-30T21:45:00-07:00",
-      "title_dropped": "The Neon Room at Helium: Zac Townsend",
-      "title_kept": "Caitlin Peluffo",
-      "venue": "Helium Comedy Club - Portland"
-    },
-    {
       "dropped": "dopdx:17339149",
       "kept": "ticketmaster:rZ7HnEZ1Af034S",
       "start_at": "2026-10-30T23:55:00-07:00",
@@ -4481,6 +4409,14 @@
       "venue": "Veterans Memorial Coliseum"
     },
     {
+      "dropped": "willamette_week:19225591@2026-11-27T23:55",
+      "kept": "ticketmaster:rZ7HnEZ1Af03qK",
+      "start_at": "2026-11-27T23:55:00-08:00",
+      "title_dropped": "HOTWAX disco~glam~metal~punk~hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19736231@2026-11-28T14:00",
       "kept": "ticketmaster:Z7r9jZ1AAZYvx",
       "start_at": "2026-11-28T14:00:00-08:00",
@@ -4665,9 +4601,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6037,
-  "floor_check": "6037 events against a 6167-event baseline",
-  "generated_at": "2026-10-31T06:33:58+00:00",
+  "event_count": 6035,
+  "floor_check": "6035 events against a 6167-event baseline",
+  "generated_at": "2026-10-31T06:58:05+00:00",
   "problems": [],
   "sources": [
     "calagator",
