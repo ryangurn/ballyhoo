@@ -513,6 +513,14 @@
       "venue": "Revolution Hall"
     },
     {
+      "dropped": "willamette_week:20318857@2026-11-03T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af88vf",
+      "start_at": "2026-11-03T20:00:00-08:00",
+      "title_dropped": "Daley - US Tour",
+      "title_kept": "Daley - US Tour",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "willamette_week:18603209@2026-11-04T18:30",
       "kept": "dopdx:17096947",
       "start_at": "2026-11-04T18:30:00-08:00",
@@ -2969,6 +2977,14 @@
       "venue": "Portland Center Stage"
     },
     {
+      "dropped": "willamette_week:20318580@2026-11-19T19:30",
+      "kept": "dopdx:17892429",
+      "start_at": "2026-11-19T20:00:00-08:00",
+      "title_dropped": "Nico Avery Album Release Show",
+      "title_kept": "Nico Avery Album Release",
+      "venue": "Kelly's Olympian"
+    },
+    {
       "dropped": "dopdx:17609858",
       "kept": "ticketmaster:Z7r9jZ1A7J3_6",
       "start_at": "2026-11-19T20:00:00-08:00",
@@ -4257,9 +4273,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 5906,
-  "floor_check": "5906 events against a 5892-event baseline",
-  "generated_at": "2026-11-01T23:31:38+00:00",
+  "event_count": 5908,
+  "floor_check": "5908 events against a 5892-event baseline",
+  "generated_at": "2026-11-01T23:41:14+00:00",
   "problems": [],
   "sources": [
     "calagator",
