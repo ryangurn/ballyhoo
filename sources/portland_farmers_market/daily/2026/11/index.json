@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/portland_farmers_market",
+  "month": "2026-11",
+  "snapshots": [
+    {
+      "bytes": 46654,
+      "captured_at": "2026-11-01T05:53:31+00:00",
+      "content_sha256": "60ed7d662ddc6f9021a282edd3fddef66d308d673ddd9b77b5b6d344e5a79aa4",
+      "daily": "sources/portland_farmers_market/daily/2026/11/01.json.gz",
+      "event_count": 38,
+      "gzip_bytes": 2605,
+      "recent": "sources/portland_farmers_market/recent/2026-11-01/055331Z.json.gz",
+      "sha256": "50c65f6c2deb91307538c022bfab2a7740d9d21dffb333d0b9d3ec9a44c5a59c",
+      "unchanged": true
+    }
+  ]
+}
