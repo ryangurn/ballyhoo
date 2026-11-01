@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T08:09:27+00:00",
+  "generated_at": "2026-11-01T08:12:41+00:00",
   "sources": [
     {
       "event_count": 26,
@@ -38,9 +38,9 @@
     },
     {
       "event_count": 53,
-      "last_run_at": "2026-11-01T01:29:54+00:00",
+      "last_run_at": "2026-11-01T08:11:53+00:00",
       "source_id": "obt",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/obt.json"
     },
     {
@@ -75,7 +75,7 @@
       "event_count": 922,
       "last_run_at": "2026-11-01T02:10:17+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
