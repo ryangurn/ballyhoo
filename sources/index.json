@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-01T13:14:17+00:00",
+  "generated_at": "2026-11-01T14:24:23+00:00",
   "sources": [
     {
       "event_count": 26,
       "last_run_at": "2026-11-01T07:26:08+00:00",
       "source_id": "calagator",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/calagator.json"
     },
     {
@@ -40,7 +40,7 @@
       "event_count": 53,
       "last_run_at": "2026-11-01T08:11:53+00:00",
       "source_id": "obt",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/obt.json"
     },
     {
@@ -52,9 +52,9 @@
     },
     {
       "event_count": 157,
-      "last_run_at": "2026-11-01T06:26:51+00:00",
+      "last_run_at": "2026-11-01T14:23:04+00:00",
       "source_id": "oregon_metro",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/oregon_metro.json"
     },
     {
@@ -68,7 +68,7 @@
       "event_count": 0,
       "last_run_at": "2026-11-01T08:08:44+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
@@ -89,7 +89,7 @@
       "event_count": 3666,
       "last_run_at": "2026-11-01T07:37:08+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
