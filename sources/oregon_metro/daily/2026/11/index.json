@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/oregon_metro",
+  "month": "2026-11",
+  "snapshots": [
+    {
+      "bytes": 106357,
+      "captured_at": "2026-11-01T06:26:51+00:00",
+      "content_sha256": "dc5d3d81bf92b944dd327e226532a7530062e0ef5d61b4dbb0249412850db4bf",
+      "daily": "sources/oregon_metro/daily/2026/11/01.json.gz",
+      "event_count": 157,
+      "gzip_bytes": 4063,
+      "recent": "sources/oregon_metro/recent/2026-11-01/062651Z.json.gz",
+      "sha256": "0f0622f9c0dd38bb2a2ca29fefbb6fda375cebd4a647a46bb36c1e7960bac9e4",
+      "unchanged": false
+    }
+  ]
+}
