@@ -1,0 +1,17 @@
+{
+  "artifact": "sources/vancouver_farmers_market",
+  "month": "2026-11",
+  "snapshots": [
+    {
+      "bytes": 43926,
+      "captured_at": "2026-11-01T04:06:42+00:00",
+      "content_sha256": "f30828a47ad3b70f5f47d4bd261c82802bac822a7603bf5f4097ba4a95aeedd7",
+      "daily": "sources/vancouver_farmers_market/daily/2026/11/01.json.gz",
+      "event_count": 45,
+      "gzip_bytes": 1859,
+      "recent": "sources/vancouver_farmers_market/recent/2026-11-01/040642Z.json.gz",
+      "sha256": "45412353dde78a530679dcacec15d51de44e83945f40668e39522ba66c208a17",
+      "unchanged": true
+    }
+  ]
+}
