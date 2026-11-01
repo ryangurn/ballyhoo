@@ -2,54 +2,6 @@
   "events": [
     {
       "categories": [
-        "community"
-      ],
-      "id": "oregon_metro:2026-10-31",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/2026-10-31",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-31T09:00:00-07:00",
-      "title": "Household hazardous waste neighborhood collection event",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.32208,
-        "longitude": -122.57526,
-        "name": "Clackamas Community College - Wilsonville campus"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "id": "oregon_metro:cemetery-tending-2026-10-31",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/cemetery-tending-2026-10-31",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-10-31T10:30:00-07:00",
-      "title": "Cemetery tending",
-      "venue": {
-        "city": "Portland",
-        "name": "Columbia Pioneer Cemetery"
-      }
-    },
-    {
-      "categories": [
         "civic"
       ],
       "id": "oregon_metro:metro-council-work-session-2026-11-03",
@@ -3470,7 +3422,7 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-10-31T23:29:05+00:00",
+  "generated_at": "2026-11-01T06:26:51+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
