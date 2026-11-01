@@ -121,6 +121,54 @@
       "venue": "The High Limit Room"
     },
     {
+      "dropped": "willamette_week:19863583@2026-11-17T19:00",
+      "kept": "dopdx:17763065",
+      "start_at": "2026-11-17T19:00:00-08:00",
+      "title_dropped": "The 2026 Calvin and Mayho Tanabe Address: Robert Wachter, M.D.",
+      "title_kept": "The 2026 Calvin and Mayho Tanabe Address: Robert Wachter, M.D.",
+      "venue": "Newmark Theatre"
+    },
+    {
+      "dropped": "dopdx:17744119",
+      "kept": "ticketmaster:Z7r9jZ1A7-z-o",
+      "start_at": "2026-11-17T19:30:00-08:00",
+      "title_dropped": "The Outsiders",
+      "title_kept": "The Outsiders (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17276999",
+      "kept": "ticketmaster:rZ7HnEZ1Afx77d",
+      "start_at": "2026-11-17T19:30:00-08:00",
+      "title_dropped": "OZ NOY TRIO w/ Brian Charette & Dave Weckl",
+      "title_kept": "OZ NOY TRIO w/ Brian Charette & Dave Weckl",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:18811218@2026-11-17T19:30",
+      "kept": "dopdx:17276999",
+      "start_at": "2026-11-17T19:30:00-08:00",
+      "title_dropped": "OZ NOY TRIO w/ Brian Charette & Dave Weckl",
+      "title_kept": "OZ NOY TRIO w/ Brian Charette & Dave Weckl",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:20169134@2026-11-17T19:30",
+      "kept": "ticketmaster:Z7r9jZ1AAvb3e",
+      "start_at": "2026-11-17T19:30:00-08:00",
+      "title_dropped": "Little Shop of Horrors",
+      "title_kept": "Little Shop of Horrors",
+      "venue": "Portland Center Stage"
+    },
+    {
+      "dropped": "willamette_week:20095188@2026-11-17T19:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfuN_f",
+      "start_at": "2026-11-17T19:30:00-08:00",
+      "title_dropped": "Two-Step Tuesday",
+      "title_kept": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "dopdx:17262337",
       "kept": "ticketmaster:Z7r9jZ1A7JAvy",
       "start_at": "2026-11-01T14:00:00-08:00",
@@ -2673,54 +2721,6 @@
       "venue": "The Alberta Rose Theatre"
     },
     {
-      "dropped": "willamette_week:19863583@2026-11-17T19:00",
-      "kept": "dopdx:17763065",
-      "start_at": "2026-11-17T19:00:00-08:00",
-      "title_dropped": "The 2026 Calvin and Mayho Tanabe Address: Robert Wachter, M.D.",
-      "title_kept": "The 2026 Calvin and Mayho Tanabe Address: Robert Wachter, M.D.",
-      "venue": "Newmark Theatre"
-    },
-    {
-      "dropped": "dopdx:17744119",
-      "kept": "ticketmaster:Z7r9jZ1A7-z-o",
-      "start_at": "2026-11-17T19:30:00-08:00",
-      "title_dropped": "The Outsiders",
-      "title_kept": "The Outsiders (Touring)",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "dopdx:17276999",
-      "kept": "ticketmaster:rZ7HnEZ1Afx77d",
-      "start_at": "2026-11-17T19:30:00-08:00",
-      "title_dropped": "OZ NOY TRIO w/ Brian Charette & Dave Weckl",
-      "title_kept": "OZ NOY TRIO w/ Brian Charette & Dave Weckl",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:18811218@2026-11-17T19:30",
-      "kept": "dopdx:17276999",
-      "start_at": "2026-11-17T19:30:00-08:00",
-      "title_dropped": "OZ NOY TRIO w/ Brian Charette & Dave Weckl",
-      "title_kept": "OZ NOY TRIO w/ Brian Charette & Dave Weckl",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:20169134@2026-11-17T19:30",
-      "kept": "ticketmaster:Z7r9jZ1AAvb3e",
-      "start_at": "2026-11-17T19:30:00-08:00",
-      "title_dropped": "Little Shop of Horrors",
-      "title_kept": "Little Shop of Horrors",
-      "venue": "Portland Center Stage"
-    },
-    {
-      "dropped": "willamette_week:20095188@2026-11-17T19:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfuN_f",
-      "start_at": "2026-11-17T19:30:00-08:00",
-      "title_dropped": "Two-Step Tuesday",
-      "title_kept": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "dopdx:17486070",
       "kept": "ticketmaster:Z7r9jZ1A7P0fI",
       "start_at": "2026-11-17T20:00:00-08:00",
@@ -4257,9 +4257,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 5886,
-  "floor_check": "5886 events against a 5896-event baseline",
-  "generated_at": "2026-11-01T19:02:36+00:00",
+  "event_count": 5887,
+  "floor_check": "5887 events against a 5894-event baseline",
+  "generated_at": "2026-11-01T19:33:55+00:00",
   "problems": [],
   "sources": [
     "calagator",

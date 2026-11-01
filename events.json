@@ -98346,6 +98346,33 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-17T21:00:00-08:00",
+      "id": "calagator:1250482781",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-17T19:00:00-08:00",
+      "summary": "Join us for the Snap SPECS PDX Meetup. The group focuses on the wearable AR glasses, SPECS 27 (https://www.specs.com), being released by Snap in Q4 2026. The group is open to all - developers, designers, enthusiasts. All are welcome!\r\n\r\nNovember agenda to be announced later.\r\n\r\nThis event is hosted by the Oregon Reality Lab at the University of Oregon Portland Campus. The intent is to meet monthly.",
+      "title": "Snap SPECS PDX Meetup [Spatial Computing, AR, VR, XR]",
+      "venue": {
+        "address": "2811 NE Holman St,",
+        "city": "Portland",
+        "latitude": 45.5687,
+        "longitude": -122.6369,
+        "name": "Oregon Reality Lab at the University of Oregon, Portland Campus,"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-11-18T02:00:00-08:00",
@@ -173252,5 +173279,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-01T19:02:36+00:00"
+  "generated_at": "2026-11-01T19:33:55+00:00"
 }
