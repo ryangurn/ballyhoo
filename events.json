@@ -11352,6 +11352,34 @@
       "categories": [
         "community"
       ],
+      "end_at": "2026-11-01T11:00:00-08:00",
+      "id": "willamette_week:18845499@2026-11-01T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v4ynkEVN4E2iwuchT_2XLg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsboroumc.org/events-1/sunday-morning-gathering",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-01T10:00:00-08:00",
+      "summary": "Join us before worship for a relaxed, all-ages gathering where we can connect, reflect, and share in meaningful conversation. This informal time offers space to explore questions of faith, life, and community in a welcoming environment-whether you come to listen, speak, or simply be present. Everyone is invited as we grow together in understanding and connection.",
+      "title": "The Gathering Table",
+      "venue": {
+        "city": "Hillsboro",
+        "latitude": 45.52289,
+        "longitude": -122.98983,
+        "name": "Hillsboro"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "id": "willamette_week:19045851@2026-11-01T10:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e5ba084a-65fa-43dc-98d5-a11a41c70352.large.png",
       "is_all_day": false,
@@ -12445,6 +12473,64 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-11-01T15:00:00-08:00",
+      "id": "willamette_week:19484021@2026-11-01T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goviks.com/calendar.aspx?game_id=5875&amp;sport_id=11",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-01T13:00:00-08:00",
+      "summary": "Portland State University Women's Soccer vs Eastern Washington Streaming Video: https://www.espn.com/watch/espnplus/?om-navmethod=topnav",
+      "title": "Portland State University Women's Soccer vs Eastern Washington",
+      "venue": {
+        "address": "Hillsboro Stadium",
+        "city": "Hillsboro",
+        "latitude": 45.52289,
+        "longitude": -122.98983,
+        "name": "Hillsboro"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-11-01T15:00:00-08:00",
+      "id": "willamette_week:19179665@2026-11-01T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portlandpilots.com/calendar.aspx?game_id=13285&amp;sport_id=12",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-01T13:00:00-08:00",
+      "summary": "University of Portland Women's Soccer vs Loyola Marymount Streaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference Tickets: https://portlandpilots.evenue.net/list/TIX",
+      "title": "University of Portland Women's Soccer vs Loyola Marymount",
+      "venue": {
+        "address": "Merlo Field at the Clive Charles Soccer Complex",
+        "city": "Portland",
+        "latitude": 45.515197,
+        "longitude": -122.678367,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-11-01T15:00:00-08:00",
@@ -12471,35 +12557,6 @@
         "latitude": 45.519484,
         "longitude": -122.582634,
         "name": "Threshold Brewing"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-11-01T15:00:00-08:00",
-      "id": "willamette_week:19484021@2026-11-01T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.large.png",
-      "is_all_day": false,
-      "listing_url": "https://goviks.com/calendar.aspx?game_id=5875&amp;sport_id=11",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-01T13:00:00-08:00",
-      "summary": "Portland State University Women's Soccer vs Eastern Washington Streaming Video: https://www.espn.com/watch/espnplus/?om-navmethod=topnav",
-      "title": "Portland State University Women's Soccer vs Eastern Washington",
-      "venue": {
-        "address": "4450 Northwest 229th Avenue",
-        "city": "Hillsboro",
-        "latitude": 45.554001,
-        "longitude": -122.907657,
-        "name": "Hillsboro Stadium"
       }
     },
     {
@@ -12705,34 +12762,6 @@
         "latitude": 45.5256321,
         "longitude": -122.6751842,
         "name": "Lan Su Chinese Garden"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-11-01T15:00:00-08:00",
-      "id": "willamette_week:19179665@2026-11-01T13:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.large.png",
-      "is_all_day": false,
-      "listing_url": "https://portlandpilots.com/calendar.aspx?game_id=13285&amp;sport_id=12",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-01T13:00:00-08:00",
-      "summary": "University of Portland Women's Soccer vs Loyola Marymount Streaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference",
-      "title": "University of Portland Women's Soccer vs Loyola Marymount",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.52345,
-        "longitude": -122.67621,
-        "name": "Merlo Field at the Clive Charles Soccer Complex"
       }
     },
     {
@@ -18644,6 +18673,34 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20138101@2026-11-02T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qFNhrdOS4UCcHKcYGzEBdA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/109102052?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-02T20:00:00-08:00",
+      "summary": "Lloyd Jones is a consummate guitarist/singer/songwriter/arranger/performer/ bandleader. One of the most original artists on the modern day blues scene, Jones is, in the words of Blues Revue, &quot;certainly worthy of greater recognition.&quot; The release of his first recording for Blind Pig Records, Love Gotcha, should bring him the national and international acclamation he deserves. Jones was born in Seattle into a musical family, which moved to Portland soon afterward. &quot;I remember music was everywhere in our house growing up. My dad was playing Dixieland jazz records and trying to teach me to play trumpet when I was only five years old. My older brother played drums and showed me how. Then he took me to his band rehearsals and had me playing gigs when I was just 13. He took me to see James Brown in '64. You've got to imagine James in '64 - ouch! Then B.B. King, Buddy Guy, even Sonny Terry and Brownie McGhee - all this before I was out of high school. I was underage and totally mesmerized&quot; Jones got deep into the blues and was the leader of Portland's most popular blues bands, Brown Sugar, in the early 70's. &quot;We got to work with touring musicians in those days, like Charlie Musselwhite, George &quot;Harmonica&quot; Smith, the Johnny Otis show, Big Mama Thornton and Big Walter Horton. That's how we learned, and that's really when I first picked up the guitar. A lot of times these people would stay at our homes and teach us music and history. Some of them have passed now, so I cherish those memories. S.P. Leary, who was in Muddy Waters band and was playing drums with Big Walter at the time, leaned over to me as he was leaving town and said, &quot;Man, I'm getting old. You gotta keep it alive. It's a struggle sometimes, but if you love it, you keep on struggling.&quot;' Through the years Jones would continue to hone his craft by performing with the likes of Albert Collins, Robert Cray, Bonnie Raitt, Taj Mahal, B.B. King, Dr. John, John Hammond, Etta James, Junior Wells and Buddy Guy, and many more music legends. In the 80's Jones joined forces with ex-Robert Cray singer/harp player Curtis Salgado in a band called In Yo' Face. &quot;That was one fun band! Seemed like we all had the same record collection. Curtis really pushed me as a guitar player, and when he left in '85 to join Roomful of Blues I knew it was time to play my music.&quot; Jones knew what he wanted to say and how he wanted to say it. The Lloyd Jones Struggle started in 1985 as a vehicle for his songwriting. &quot;I love a good story. Most of the traditional blues stayed with a shuffle or slow blues. Being a drummer I keep hearing the rhythm of the words all broke down funky and swamp-afied; nice and relaxed but kind of turned inside out.&quot; Jones made two recordings in the late 80's for Criminal Records: The Lloyd Jones Struggle \\(1987\\) and Small Potatoes \\(1989\\). They won over a dozen local music awards, as well as acclaim from national music publications such as Down Beat and Guitar Player, which in turn led to some extensive touring for the band on the Miller Beer Sponsorship Program. In 1993 Jones released his third album, Lloyd \\`Have Mercy' Jones - Live! on the Burnside Records label. In 1995 Lloyd Jones recorded a highly acclaimed album for the Audio Quest label, entitled Trouble Monkey. Blues Revue named it, &quot;not only one of the best albums of 1995, it is one of the best albums of the 1990's,&quot; while Robert Cray called it &quot;the best damn record I've heard in a long time!&quot; Vintage Guitar Magazine said, &quot;Jones offers vocals that would make Sam and Dave smile and guitar work Steve Cropper would be proud of&quot; and referred to his affecting vocals as &quot;gritty as a dirt road and smooth as melting butter.&quot; Lloyd's songwriting was starting to be noticed as well, with Joe Louis Walker and Gatemouth Brown covering two of his compositions. Jones and his band have become a mainstay on the West Coast circuit, and have brought their tasteful, crowd-pleasing brand of music from New Orleans to Canada to the Caribbean, where Delbert McClinton witnessed a performance and remarked, &quot;When I heard Lloyd Jones live for the first time in January 1999, it was like exhaling after holding my breath for fifteen years.&quot; It was such a typically memorable set at the Santa Cruz Blues Festival that led to Jones' signing by Blind Pig Records. Jones describes his soulful and intelligent fusion of funk, blues, and R&amp;B as &quot;storytelling with a Memphis groove.&quot; His latest CD, Love Gotcha, presents Lloyd's writing at its trenchant best. His songs have the quality that makes them sound as if they have been around as blues standards for years or they seem to have fallen out of some time warp from the golden days of R&amp;B. His approach to the guitar is both economical and rhythmically sophisticated, with a style that can be as delicate as it is devastating. And Jones' accomplished guitar and vocal work are complemented throughout the recording by some of the funkiest horn-rhythm-organ arrangements around. Blues lovers everywhere are about to discover what Lloyd Jones' fans already know - one taste of his beguiling music and you're captivated. Lloyd's gotcha! Blind Pig Records A division of Whole Hog, Inc. PO. Box 2344, San Francisco, CA 94126",
+      "title": "Lloyd Jones \"Blue Monday\"",
+      "venue": {
+        "address": "8105 SE 7th Ave",
+        "city": "Portland",
+        "latitude": 45.4641791,
+        "longitude": -122.6592179,
+        "name": "The Muddy Rudder Public House"
       }
     },
     {
@@ -26843,6 +26900,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19957021@2026-11-04T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/es40_Jpg_0yJxKzHb61M8Q.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttp%253A%252F%252Fetix.com%252Fticket%252Fp%252F91748539%252Fisaiah-rashadlil-sunnys-awful-road-trip-portland-mcmenamins-crystal-ballroom%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-04T20:00:00-08:00",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttp%253A%252F%252Fetix.com%252Fticket%252Fp%252F91748539%252Fisaiah-rashadlil-sunnys-awful-road-trip-portland-mcmenamins-crystal-ballroom%26utm_medium%3daffiliate",
+      "title": "ISAIAH RASHAD: Lil Sunny's Awful Road Trip",
+      "venue": {
+        "address": "1332 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.522891283,
+        "longitude": -122.6847714186,
+        "name": "Crystal Ballroom"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "id": "willamette_week:20197493@2026-11-04T20:00",
@@ -26896,34 +26981,6 @@
         "latitude": 45.5514335632,
         "longitude": -122.6758499146,
         "name": "Mississippi Studios"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:19957021@2026-11-04T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/es40_Jpg_0yJxKzHb61M8Q.large.png",
-      "is_all_day": false,
-      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttp%253A%252F%252Fetix.com%252Fticket%252Fp%252F91748539%252Fisaiah-rashadlil-sunnys-awful-road-trip-portland-mcmenamins-crystal-ballroom%26utm_medium%3daffiliate",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-04T20:00:00-08:00",
-      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttp%253A%252F%252Fetix.com%252Fticket%252Fp%252F91748539%252Fisaiah-rashadlil-sunnys-awful-road-trip-portland-mcmenamins-crystal-ballroom%26utm_medium%3daffiliate",
-      "title": "ISAIAH RASHAD: Lil Sunny's Awful Road Trip",
-      "venue": {
-        "address": "1332 W Burnside St",
-        "city": "Portland",
-        "latitude": 45.522891283,
-        "longitude": -122.6847714186,
-        "name": "Crystal Ballroom"
       }
     },
     {
@@ -30846,6 +30903,34 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "end_at": "2026-11-05T20:00:00-08:00",
+      "id": "willamette_week:20063168@2026-11-05T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Wff9sO4kl0yqsw-I8W5yHw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsboroumc.org/events-1/open-tables",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-05T18:30:00-08:00",
+      "summary": "Join us for Open Tables, a monthly community conversation where we gather around the table to listen, learn, share, and engage respectfully with one another. This month's topic is Housing - A Place to Call Home. What does it mean to have a place to call home? Join us for this month's Open Tables as we explore housing in our community, including affordability, availability, homelessness, and the challenges facing our neighbors. We'll hear from a guest speaker and share in meaningful conversation about how housing shapes our lives and the communities we share. Open Tables is a welcoming space for curiosity, listening, and respectful dialogue. Everyone is welcome, and no special knowledge or experience is needed. Come ready to listen, learn, and connect! You don't need to have all the answers-or any answers-to join the conversation. Come ready to share your experiences, listen to others, and perhaps see friendship from a new perspective. Drinks will be provided, and you're invited to bring a dish to share if you're able. No pressure, no prerequisites-just pull up a chair and join us. Every voice matters. Every conversation has the potential to make a difference.",
+      "title": "Open Tables",
+      "venue": {
+        "city": "Hillsboro",
+        "latitude": 45.52289,
+        "longitude": -122.98983,
+        "name": "Hillsboro"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "end_at": "2026-11-05T19:30:00-08:00",
@@ -34628,35 +34713,6 @@
         "family"
       ],
       "end_at": "2026-11-06T11:00:00-08:00",
-      "id": "willamette_week:20131148@2026-11-06T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1073",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T10:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "205 NE Russell Street",
-        "city": "Portland",
-        "latitude": 45.54121794278324,
-        "longitude": -122.66326099447758,
-        "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-06T11:00:00-08:00",
       "id": "willamette_week:20131149@2026-11-06T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -34679,6 +34735,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-06T11:00:00-08:00",
+      "id": "willamette_week:20131148@2026-11-06T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1073",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T10:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -34797,35 +34882,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-11-06T11:00:00-08:00",
-      "id": "willamette_week:20131150@2026-11-06T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1040",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T10:30:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-11-06T11:15:00-08:00",
       "id": "willamette_week:20131151@2026-11-06T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
@@ -34849,6 +34905,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-06T11:00:00-08:00",
+      "id": "willamette_week:20131150@2026-11-06T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1040",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T10:30:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -34877,6 +34962,34 @@
         "latitude": 45.516956,
         "longitude": -122.554302,
         "name": "Police Bureau East Precinct"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-06T16:00:00-08:00",
+      "id": "willamette_week:16719446@2026-11-06T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T11:00:00-08:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
       }
     },
     {
@@ -34970,34 +35083,6 @@
         "latitude": 45.559268,
         "longitude": -122.646073,
         "name": "Alberta Street Gallery"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-11-06T16:00:00-08:00",
-      "id": "willamette_week:16719446@2026-11-06T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T11:00:00-08:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -35213,35 +35298,6 @@
         "family"
       ],
       "end_at": "2026-11-06T12:00:00-08:00",
-      "id": "willamette_week:20131149@2026-11-06T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1172",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-06T12:00:00-08:00",
       "id": "willamette_week:20131153@2026-11-06T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
       "is_all_day": false,
@@ -35264,6 +35320,35 @@
         "latitude": 45.478934715870885,
         "longitude": -122.61206954232797,
         "name": "Woodstock Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-06T12:00:00-08:00",
+      "id": "willamette_week:20131149@2026-11-06T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1172",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -35504,6 +35589,34 @@
         "latitude": 45.5624530442023,
         "longitude": -122.67152133558135,
         "name": "North Portland Library"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-11-06T14:00:00-08:00",
+      "id": "willamette_week:20063169@2026-11-06T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Wff9sO4kl0yqsw-I8W5yHw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.hillsboroumc.org/events-1/ice-cream-treaters",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T13:00:00-08:00",
+      "summary": "Our dedicated ice cream lovers meet at 1:00 pm the first Friday of every month \\(with some exceptions\\). They meet at different homes each month. Grab your favorite ice cream treat and join the conversation. For more information contact the .",
+      "title": "Ice Cream Treaters",
+      "venue": {
+        "city": "Hillsboro",
+        "latitude": 45.52289,
+        "longitude": -122.98983,
+        "name": "Hillsboro"
       }
     },
     {
@@ -37001,6 +37114,34 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-11-06T21:00:00-08:00",
+      "id": "willamette_week:20317720@2026-11-06T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/G4aqRZyJe0Wdr6Dx430l4Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.traveldundeeoregon.com/events/2026/10/27/dinner",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T18:00:00-08:00",
+      "summary": "An unforgettable evening featuring a four-course dinner expertly paired with Hyland Estates wines and hosted alongside Winemaker Anne Sery. James Beard-nominated Chef Greg McPhee will showcase his favorite post-harvest dishes, inspired by the flavors of the season.",
+      "title": "Winemaker Harvest Dinner",
+      "venue": {
+        "city": "Dundee",
+        "latitude": 45.27817,
+        "longitude": -123.01094,
+        "name": "The Valley Room"
       }
     },
     {
@@ -47982,6 +48123,32 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19758606@2026-11-07T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6fXmpPlr50i60lAK6QjqoQ.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-07T20:00:00-08:00",
+      "title": "Sienna Spiro: My House Tour",
+      "venue": {
+        "address": "1332 W Burnside St",
+        "city": "Portland",
+        "latitude": 45.522891283,
+        "longitude": -122.6847714186,
+        "name": "Crystal Ballroom"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-11-08T00:00:00-08:00",
@@ -48098,32 +48265,6 @@
         "latitude": 45.395589,
         "longitude": -122.742871,
         "name": "The Headliners Club"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:19758606@2026-11-07T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6fXmpPlr50i60lAK6QjqoQ.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-07T20:00:00-08:00",
-      "title": "Sienna Spiro: My House Tour",
-      "venue": {
-        "address": "1332 W Burnside St",
-        "city": "Portland",
-        "latitude": 45.522891283,
-        "longitude": -122.6847714186,
-        "name": "Crystal Ballroom"
       }
     },
     {
@@ -56626,6 +56767,37 @@
       "categories": [
         "literary"
       ],
+      "end_at": "2026-11-09T19:00:00-08:00",
+      "id": "willamette_week:20169835@2026-11-09T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/InVwhhLKX0aj36-Bj6QO_w.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.georgefox.edu/academics/undergrad/departments/visual-art/art-talk.html",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-09T18:00:00-08:00",
+      "summary": "Art Talk is a weekly visiting artist series held as a collaboration between the George Fox University's Department of Art & Design and the Chehalem Cultural Center. Each week between 6 and 7 p.m. guests from a broad range of art and design practices present their work. This week's guest is local artist Anita Magaña, a print designer and art director based in Portland, Oregon, working primarily in gaming, comics, and pop culture.",
+      "title": "Art Talk",
+      "venue": {
+        "address": "415 E Sheridan St",
+        "city": "Newberg",
+        "latitude": 45.3023347,
+        "longitude": -122.9777072,
+        "name": "Chehalem Cultural Center - Grand Ballroom"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
       "end_at": "2026-11-09T20:00:00-08:00",
       "id": "willamette_week:20199395@2026-11-09T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LkK9hIzt2k6dukB7w4C_vw.large.png",
@@ -57039,6 +57211,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20142841@2026-11-09T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/F2p0DVUY_U60nViJ5HH2sA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108891325?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-09T19:00:00-08:00",
+      "ticket_url": "https://www.bandsintown.com/t/108891325?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "James Ivy & Harry Teardrop",
+      "venue": {
+        "address": "635 N Killingsworth Ct",
+        "city": "Portland",
+        "latitude": 45.56200620371245,
+        "longitude": -122.6737595545233,
+        "name": "Polaris Hall"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "willamette_week:20281176@2026-11-09T19:00",
@@ -57154,34 +57354,6 @@
         "latitude": 45.51221,
         "longitude": -122.64298,
         "name": "Hawthorne Hideaway"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:20142841@2026-11-09T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/F2p0DVUY_U60nViJ5HH2sA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/108891325?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-09T19:00:00-08:00",
-      "ticket_url": "https://www.bandsintown.com/t/108891325?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
-      "title": "James Ivy",
-      "venue": {
-        "address": "635 N Killingsworth Ct",
-        "city": "Portland",
-        "latitude": 45.56200620371245,
-        "longitude": -122.6737595545233,
-        "name": "Polaris Hall"
       }
     },
     {
@@ -57487,6 +57659,62 @@
         "latitude": 45.4818,
         "longitude": -122.640198,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20138101@2026-11-09T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qFNhrdOS4UCcHKcYGzEBdA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/109102054?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-09T20:00:00-08:00",
+      "summary": "Lloyd Jones is a consummate guitarist/singer/songwriter/arranger/performer/ bandleader. One of the most original artists on the modern day blues scene, Jones is, in the words of Blues Revue, &quot;certainly worthy of greater recognition.&quot; The release of his first recording for Blind Pig Records, Love Gotcha, should bring him the national and international acclamation he deserves. Jones was born in Seattle into a musical family, which moved to Portland soon afterward. &quot;I remember music was everywhere in our house growing up. My dad was playing Dixieland jazz records and trying to teach me to play trumpet when I was only five years old. My older brother played drums and showed me how. Then he took me to his band rehearsals and had me playing gigs when I was just 13. He took me to see James Brown in '64. You've got to imagine James in '64 - ouch! Then B.B. King, Buddy Guy, even Sonny Terry and Brownie McGhee - all this before I was out of high school. I was underage and totally mesmerized&quot; Jones got deep into the blues and was the leader of Portland's most popular blues bands, Brown Sugar, in the early 70's. &quot;We got to work with touring musicians in those days, like Charlie Musselwhite, George &quot;Harmonica&quot; Smith, the Johnny Otis show, Big Mama Thornton and Big Walter Horton. That's how we learned, and that's really when I first picked up the guitar. A lot of times these people would stay at our homes and teach us music and history. Some of them have passed now, so I cherish those memories. S.P. Leary, who was in Muddy Waters band and was playing drums with Big Walter at the time, leaned over to me as he was leaving town and said, &quot;Man, I'm getting old. You gotta keep it alive. It's a struggle sometimes, but if you love it, you keep on struggling.&quot;' Through the years Jones would continue to hone his craft by performing with the likes of Albert Collins, Robert Cray, Bonnie Raitt, Taj Mahal, B.B. King, Dr. John, John Hammond, Etta James, Junior Wells and Buddy Guy, and many more music legends. In the 80's Jones joined forces with ex-Robert Cray singer/harp player Curtis Salgado in a band called In Yo' Face. &quot;That was one fun band! Seemed like we all had the same record collection. Curtis really pushed me as a guitar player, and when he left in '85 to join Roomful of Blues I knew it was time to play my music.&quot; Jones knew what he wanted to say and how he wanted to say it. The Lloyd Jones Struggle started in 1985 as a vehicle for his songwriting. &quot;I love a good story. Most of the traditional blues stayed with a shuffle or slow blues. Being a drummer I keep hearing the rhythm of the words all broke down funky and swamp-afied; nice and relaxed but kind of turned inside out.&quot; Jones made two recordings in the late 80's for Criminal Records: The Lloyd Jones Struggle \\(1987\\) and Small Potatoes \\(1989\\). They won over a dozen local music awards, as well as acclaim from national music publications such as Down Beat and Guitar Player, which in turn led to some extensive touring for the band on the Miller Beer Sponsorship Program. In 1993 Jones released his third album, Lloyd \\`Have Mercy' Jones - Live! on the Burnside Records label. In 1995 Lloyd Jones recorded a highly acclaimed album for the Audio Quest label, entitled Trouble Monkey. Blues Revue named it, &quot;not only one of the best albums of 1995, it is one of the best albums of the 1990's,&quot; while Robert Cray called it &quot;the best damn record I've heard in a long time!&quot; Vintage Guitar Magazine said, &quot;Jones offers vocals that would make Sam and Dave smile and guitar work Steve Cropper would be proud of&quot; and referred to his affecting vocals as &quot;gritty as a dirt road and smooth as melting butter.&quot; Lloyd's songwriting was starting to be noticed as well, with Joe Louis Walker and Gatemouth Brown covering two of his compositions. Jones and his band have become a mainstay on the West Coast circuit, and have brought their tasteful, crowd-pleasing brand of music from New Orleans to Canada to the Caribbean, where Delbert McClinton witnessed a performance and remarked, &quot;When I heard Lloyd Jones live for the first time in January 1999, it was like exhaling after holding my breath for fifteen years.&quot; It was such a typically memorable set at the Santa Cruz Blues Festival that led to Jones' signing by Blind Pig Records. Jones describes his soulful and intelligent fusion of funk, blues, and R&amp;B as &quot;storytelling with a Memphis groove.&quot; His latest CD, Love Gotcha, presents Lloyd's writing at its trenchant best. His songs have the quality that makes them sound as if they have been around as blues standards for years or they seem to have fallen out of some time warp from the golden days of R&amp;B. His approach to the guitar is both economical and rhythmically sophisticated, with a style that can be as delicate as it is devastating. And Jones' accomplished guitar and vocal work are complemented throughout the recording by some of the funkiest horn-rhythm-organ arrangements around. Blues lovers everywhere are about to discover what Lloyd Jones' fans already know - one taste of his beguiling music and you're captivated. Lloyd's gotcha! Blind Pig Records A division of Whole Hog, Inc. PO. Box 2344, San Francisco, CA 94126",
+      "title": "Lloyd Jones \"Blue Monday\"",
+      "venue": {
+        "address": "8105 SE 7th Ave",
+        "city": "Portland",
+        "latitude": 45.4641791,
+        "longitude": -122.6592179,
+        "name": "The Muddy Rudder Public House"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20142841@2026-11-09T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/F2p0DVUY_U60nViJ5HH2sA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/1040629838?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-09T20:00:00-08:00",
+      "ticket_url": "https://www.bandsintown.com/t/1040629838?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "James Ivy & Harry Teardrop",
+      "venue": {
+        "address": "635 N Killingsworth Ct",
+        "city": "Portland",
+        "latitude": 45.56200620371245,
+        "longitude": -122.6737595545233,
+        "name": "Polaris Hall"
       }
     },
     {
@@ -62208,6 +62436,33 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "id": "willamette_week:20256653@2026-11-11T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/h7E5nX_B-0eDZ23dA3e1Ag.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.hillsborodowntownstation.com/live-events",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-11T00:00:00-08:00",
+      "title": "Movie Night",
+      "venue": {
+        "address": "320 SE Baseline St",
+        "city": "Hillsboro",
+        "latitude": 45.519739362023536,
+        "longitude": -122.98561036441757,
+        "name": "Hillsboro Downtown Station"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "willamette_week:20215434@2026-11-11T00:00",
@@ -66823,6 +67078,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20256654@2026-11-12T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Yp4xq1AO7E-7VrQldFVv_Q.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.hillsborodowntownstation.com/live-events",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-12T00:00:00-08:00",
+      "title": "Board Game Night",
+      "venue": {
+        "address": "320 SE Baseline St",
+        "city": "Hillsboro",
+        "latitude": 45.519739362023536,
+        "longitude": -122.98561036441757,
+        "name": "Hillsboro Downtown Station"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "id": "willamette_week:20304369@2026-11-12T00:00",
@@ -70697,6 +70979,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20169594@2026-11-12T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nT0t_IRijEq6pX0Nfk44gA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/109098100?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-12T19:00:00-08:00",
+      "summary": "Shoot The Moon Festival returns to PDX",
+      "ticket_url": "https://www.bandsintown.com/t/109098100?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "1876 & Altar Girl & kids on fire & Last Thread",
+      "venue": {
+        "address": "832 SE Grand Ave",
+        "city": "Portland",
+        "latitude": 45.51661499999999,
+        "longitude": -122.6605015,
+        "name": "Twilight Cafe and Bar"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-11-12T21:00:00-08:00",
@@ -71839,10 +72150,6 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1789141729/event-17833559.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/11/12/shoot-the-moon-fest-night-1-w-1876-w-last-thread-altar-girl-kids-on-fire-tickets",
-      "merged_sources": [
-        "dopdx",
-        "willamette_week"
-      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -71856,7 +72163,6 @@
       },
       "start_at": "2026-11-12T20:00:00-08:00",
       "summary": "Time: 8:00pm Day: Thursday Doors: 7:30pm Ages: 21+ Ages Price: $20",
-      "ticket_url": "https://www.bandsintown.com/t/108978302?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
       "title": "Shoot The Moon Fest-Night 1-w/ 1876 w/ Last Thread, Altar Girl, Kids on Fire",
       "venue": {
         "address": "832 SE Grand Ave",
@@ -73714,6 +74020,35 @@
       "categories": [
         "family"
       ],
+      "end_at": "2026-11-13T11:15:00-08:00",
+      "id": "willamette_week:20131151@2026-11-13T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1209",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T10:30:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "17917 SE Stark Street",
+        "city": "Portland",
+        "latitude": 45.51951806199975,
+        "longitude": -122.47906864110425,
+        "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
       "end_at": "2026-11-13T11:00:00-08:00",
       "id": "willamette_week:20131150@2026-11-13T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
@@ -73741,13 +74076,13 @@
     },
     {
       "categories": [
-        "family"
+        "community"
       ],
-      "end_at": "2026-11-13T11:15:00-08:00",
-      "id": "willamette_week:20131151@2026-11-13T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
+      "end_at": "2026-11-13T16:00:00-08:00",
+      "id": "willamette_week:16719446@2026-11-13T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
       "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1209",
+      "listing_url": "https://www.vault31bar.com/calendar",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -73757,15 +74092,14 @@
         "name": "Willamette Week",
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
-      "start_at": "2026-11-13T10:30:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
+      "start_at": "2026-11-13T11:00:00-08:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
       "venue": {
-        "address": "17917 SE Stark Street",
-        "city": "Portland",
-        "latitude": 45.51951806199975,
-        "longitude": -122.47906864110425,
-        "name": "Rockwood Library"
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
       }
     },
     {
@@ -73857,34 +74191,6 @@
         "latitude": 45.559268,
         "longitude": -122.646073,
         "name": "Alberta Street Gallery"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-11-13T16:00:00-08:00",
-      "id": "willamette_week:16719446@2026-11-13T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T11:00:00-08:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -75583,6 +75889,33 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20317768@2026-11-13T18:00",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/4563566140522404/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T18:00:00-08:00",
+      "summary": "Learn more and register! https://www.bates.edu/alumni/events/bates-in-portland-an-evening-at-steeplejack",
+      "title": "Bates in Portland: An Evening at Steeplejack",
+      "venue": {
+        "address": "2400 NE Broadway",
+        "city": "Portland",
+        "latitude": 45.534942,
+        "longitude": -122.640792,
+        "name": "Portland"
       }
     },
     {
@@ -77866,34 +78199,6 @@
       "categories": [
         "music"
       ],
-      "id": "willamette_week:20307557@2026-11-13T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0e8491a0-6d97-40a0-919f-ebb82c44d931.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1148469551025676/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T20:00:00-08:00",
-      "summary": "Jar of Lies - Alice In Chains tribute has been grinding authentic sonic dirt into the faces of AIC fans since 2009, all the crushing riffs and haunting vocal harmonies of the real thing. www.jaroflies.com/ Plush - Stone Temple Pilots tribute brings it all. Bullhorns, boas, guitars…just part of the formula for re-creating the sights & sounds of grunge icons. They deliver a high-energy performance, complete with the unique lead vocals, guitar tones, lush vocal harmonies and intense rhythms that catapulted Stone Temple Pilots to alternative rock royalty. https://j-fell.com/plush/ Friday, Nov. 13 - Billy Blues Bar & Grill 21 & over | 8pm music | $15 Cover \\(no advance ticket sales\\) https://billybluesbarandgrill.com",
-      "title": "Jar Of Lies [Alice In Chains tribute] • Plush [Stone Temple Pilots",
-      "venue": {
-        "address": "7115 NE Hazel Dell Ave",
-        "city": "Vancouver",
-        "latitude": 45.674286,
-        "longitude": -122.668017,
-        "name": "Billy Blues Bar and Grill"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "end_at": "2026-11-14T02:00:00-08:00",
       "id": "willamette_week:20233639@2026-11-13T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XplSInQOGkGt8rFO8brIPw.large.png",
@@ -77916,9 +78221,37 @@
       "venue": {
         "address": "600 Southeast Belmont Street",
         "city": "Portland",
-        "latitude": 45.516297,
-        "longitude": -122.659434,
+        "latitude": 45.5162716,
+        "longitude": -122.6594251,
         "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20307557@2026-11-13T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0e8491a0-6d97-40a0-919f-ebb82c44d931.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1148469551025676/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T20:00:00-08:00",
+      "summary": "Jar of Lies - Alice In Chains tribute has been grinding authentic sonic dirt into the faces of AIC fans since 2009, all the crushing riffs and haunting vocal harmonies of the real thing. www.jaroflies.com/ Plush - Stone Temple Pilots tribute brings it all. Bullhorns, boas, guitars…just part of the formula for re-creating the sights & sounds of grunge icons. They deliver a high-energy performance, complete with the unique lead vocals, guitar tones, lush vocal harmonies and intense rhythms that catapulted Stone Temple Pilots to alternative rock royalty. https://j-fell.com/plush/ Friday, Nov. 13 - Billy Blues Bar & Grill 21 & over | 8pm music | $15 Cover \\(no advance ticket sales\\) https://billybluesbarandgrill.com",
+      "title": "Jar Of Lies [Alice In Chains tribute] • Plush [Stone Temple Pilots",
+      "venue": {
+        "address": "7115 NE Hazel Dell Ave",
+        "city": "Vancouver",
+        "latitude": 45.674286,
+        "longitude": -122.668017,
+        "name": "Billy Blues Bar and Grill"
       }
     },
     {
@@ -85160,6 +85493,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20169612@2026-11-14T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xkIEwnNd30W2oRMvF22gLQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108971825?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-14T19:00:00-08:00",
+      "summary": "The Bylines are a Portland based band created by Reece Marshburn and Marianna Thielen who write and perform sophisticated, jazz-inspired, story-driven pop music. They tour the Northwest regularly as a duo, and put on theatrical shows with their full ensemble. They are alumni of the Johnny Mercer Songwriters Project and have played before Randy Newman. Portland's The Bylines exists in a unique musical plane, one at once grounded in the big-band past of glamorous pop performances and rooted in a present realm of intricate and highly addictive songwriting. With a focus on grand live spectacle--a facet of music often lost in the digital age--the group is equally at home in velvet-curtained jazz halls, large rooms and intimate venues. That sound is the product of a marriage both sonic and literal. The Bylines is made up of two songwriters whose styles and influences converge to bring The Bylines' catchy, addictive sounds to vibrant life. Frontwoman Marianna Thielen, the glamorous face of the group, brings to the fore a background in composition, classical vocal work and, most obviously, musical theater, illuminating the stage with endlessly watchable bravado backed up by her powerful -- yet playful -- vocal prowess. Meanwhile, gliding his fingers across the keys is Reece Marshburn, letting loose a symphony of intricate melodies rooted in a combination of classical, jazz and pop music. The resulting combination is a unique pop confection drawing on decades of influences, as if Cole Porter, Carole King, Dusty Springfield, Freddie Mercury, Paul Simon, Rufus Wainwright and Regina Spektor combined forces and filtered their unique compositions through classical maestros and film composers, then sprinkled it with a keen pop sensibility and a commitment to putting on the most involving, charismatic and personalized live shows this side of the Copacabana. The Bylines have used their unique-yet-familiar sound to play to audiences large and small throughout the country, and have released both a studio\\(self titled, recorded by Bob Stark at Kung Fu Bakery\\) and a live album\\(The Bylines Live, recorded at the Alberta Rose Theatre in Portland, OR\\). The Bylines are proud alumni of the Johnny Mercer Songwriting Project, and have had support from the Regional Arts and Culture Council. Whether performing as a Thielen/Marshburn duo or with a larger band, the result is a blend of butter-smooth melodies, densely layered songwriting and powerful vocals. Most importantly, though, The Bylines musical cocktail goes down easy, and emphasizes something that is so often forgotten when such prolific songwriters present their craft: listening to music is, above all, supposed to be an experience… and a fun one.",
+      "ticket_url": "https://www.bandsintown.com/t/108971825?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "The Bylines",
+      "venue": {
+        "address": "812 SW Washington St Suite 550",
+        "city": "Portland",
+        "latitude": 45.5209256,
+        "longitude": -122.6802879,
+        "name": "Ritz Carlton Portland Residences"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-11-14T21:30:00-08:00",
@@ -85338,35 +85700,6 @@
         "latitude": 45.50474058972204,
         "longitude": -122.6275816386394,
         "name": "PAM CUT's Tomorrow Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:20169612@2026-11-14T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xkIEwnNd30W2oRMvF22gLQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/108971825?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-14T19:00:00-08:00",
-      "summary": "The Bylines are a Portland based band created by Reece Marshburn and Marianna Thielen who write and perform sophisticated, jazz-inspired, story-driven pop music. They tour the Northwest regularly as a duo, and put on theatrical shows with their full ensemble. They are alumni of the Johnny Mercer Songwriters Project and have played before Randy Newman. Portland's The Bylines exists in a unique musical plane, one at once grounded in the big-band past of glamorous pop performances and rooted in a present realm of intricate and highly addictive songwriting. With a focus on grand live spectacle--a facet of music often lost in the digital age--the group is equally at home in velvet-curtained jazz halls, large rooms and intimate venues. That sound is the product of a marriage both sonic and literal. The Bylines is made up of two songwriters whose styles and influences converge to bring The Bylines' catchy, addictive sounds to vibrant life. Frontwoman Marianna Thielen, the glamorous face of the group, brings to the fore a background in composition, classical vocal work and, most obviously, musical theater, illuminating the stage with endlessly watchable bravado backed up by her powerful -- yet playful -- vocal prowess. Meanwhile, gliding his fingers across the keys is Reece Marshburn, letting loose a symphony of intricate melodies rooted in a combination of classical, jazz and pop music. The resulting combination is a unique pop confection drawing on decades of influences, as if Cole Porter, Carole King, Dusty Springfield, Freddie Mercury, Paul Simon, Rufus Wainwright and Regina Spektor combined forces and filtered their unique compositions through classical maestros and film composers, then sprinkled it with a keen pop sensibility and a commitment to putting on the most involving, charismatic and personalized live shows this side of the Copacabana. The Bylines have used their unique-yet-familiar sound to play to audiences large and small throughout the country, and have released both a studio\\(self titled, recorded by Bob Stark at Kung Fu Bakery\\) and a live album\\(The Bylines Live, recorded at the Alberta Rose Theatre in Portland, OR\\). The Bylines are proud alumni of the Johnny Mercer Songwriting Project, and have had support from the Regional Arts and Culture Council. Whether performing as a Thielen/Marshburn duo or with a larger band, the result is a blend of butter-smooth melodies, densely layered songwriting and powerful vocals. Most importantly, though, The Bylines musical cocktail goes down easy, and emphasizes something that is so often forgotten when such prolific songwriters present their craft: listening to music is, above all, supposed to be an experience… and a fun one.",
-      "ticket_url": "https://www.bandsintown.com/t/108971825?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
-      "title": "The Bylines",
-      "venue": {
-        "address": "812 SW Washington St Suite 550",
-        "city": "Portland",
-        "latitude": 45.5209256,
-        "longitude": -122.6802879,
-        "name": "Ritz Carlton Portland Residences"
       }
     },
     {
@@ -86768,6 +87101,33 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:20169617@2026-11-14T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gOx0_imH3EGbzUtAjOjVhQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108805665?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-14T20:00:00-08:00",
+      "title": "Three for Silver",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:20302383@2026-11-14T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f0275f03-9917-4ecc-9e40-3e2199b80fc5.large.png",
       "is_all_day": false,
@@ -86908,33 +87268,6 @@
         "latitude": 45.5519962,
         "longitude": -122.67516749999999,
         "name": "The 1905"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:20169617@2026-11-14T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gOx0_imH3EGbzUtAjOjVhQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/108805665?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-14T20:00:00-08:00",
-      "title": "Three for Silver",
-      "venue": {
-        "address": "3552 N Mississippi Ave",
-        "city": "Portland",
-        "latitude": 45.5483541638,
-        "longitude": -122.675479576,
-        "name": "Mississippi Pizza Pub"
       }
     },
     {
@@ -97644,6 +97977,35 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "end_at": "2026-11-17T19:30:00-08:00",
+      "id": "willamette_week:20317788@2026-11-17T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rZ6teRdOk0GrBRLCp3YTOA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://literary-arts.org/event/november-write-in-ancestors/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-17T17:30:00-08:00",
+      "summary": "Come on down to the Literary Arts Bookstore & Cafe for our monthly write-in. This month’s theme is Ancestors! This month’s specialty drink is called Grandma’s Favorite. This drink has all the comfort of a London fog with none of the caffeine. Notes of bergamot, lavender, and vanilla create comfort in a cup! Stay up to date with the Literary Bookstore news! Sign up for our newsletter and get updates for upcoming write-ins. About write-ins: Write-ins are community gatherings where writers come together to share space, write, and make connections. Whether you’re here to hit word count or make a new friend, we’re here to support you!",
+      "title": "November Write-In: Ancestors",
+      "venue": {
+        "address": "925 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5212202668,
+        "longitude": -122.6807206124,
+        "name": "Literary Arts"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-11-17T19:30:00-08:00",
@@ -99808,6 +100170,33 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "id": "willamette_week:19595757@2026-11-18T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-7d5gNbEp0mJqhBz9PfJ4w.large.png",
+      "is_all_day": true,
+      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-18T00:00:00-08:00",
+      "title": "Banks Public Library Homestead Series: Needle Felting",
+      "venue": {
+        "address": "42461 NW Market St",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
         "market"
       ],
       "id": "willamette_week:20174465@2026-11-18T00:00",
@@ -99831,33 +100220,6 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "Portland"
-      }
-    },
-    {
-      "categories": [
-        "literary"
-      ],
-      "id": "willamette_week:19595757@2026-11-18T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-7d5gNbEp0mJqhBz9PfJ4w.large.png",
-      "is_all_day": true,
-      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-18T00:00:00-08:00",
-      "title": "Banks Public Library Homestead Series: Needle Felting",
-      "venue": {
-        "address": "42461 NW Market Street",
-        "city": "Banks",
-        "latitude": 45.619839,
-        "longitude": -123.113832,
-        "name": "Banks Public Library"
       }
     },
     {
@@ -107511,6 +107873,34 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19879628@2026-11-19T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/60YQO6MFB0GoWYuliTfxKw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108848379?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-19T19:00:00-08:00",
+      "summary": "This begins our regular 3rd Thursdays at Hopworks. Looking forward to trying out some new songs. $10 at the door and it all goes to the band. 2944 SE Powell Blvd. Portland, OR 97202",
+      "title": "Jesse Cunningham",
+      "venue": {
+        "address": "2932 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.4969091,
+        "longitude": -122.6348353,
+        "name": "Hopworks Urban Brewery"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-11-19T21:00:00-08:00",
@@ -110437,35 +110827,6 @@
         "family"
       ],
       "end_at": "2026-11-20T11:00:00-08:00",
-      "id": "willamette_week:20131148@2026-11-20T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1075",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-20T10:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "205 NE Russell Street",
-        "city": "Portland",
-        "latitude": 45.54121794278324,
-        "longitude": -122.66326099447758,
-        "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-20T11:00:00-08:00",
       "id": "willamette_week:20131149@2026-11-20T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -110488,6 +110849,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-20T11:00:00-08:00",
+      "id": "willamette_week:20131148@2026-11-20T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1075",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T10:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -110690,6 +111080,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-20T16:00:00-08:00",
+      "id": "willamette_week:16719446@2026-11-20T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T11:00:00-08:00",
+      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
+      "title": "FREE PLAY FRIDAY - With purchase",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-11-20T19:00:00-08:00",
@@ -110748,34 +111166,6 @@
         "latitude": 45.559268,
         "longitude": -122.646073,
         "name": "Alberta Street Gallery"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-11-20T16:00:00-08:00",
-      "id": "willamette_week:16719446@2026-11-20T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/168bb78d-9428-4948-ba7a-08386d0da180.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-20T11:00:00-08:00",
-      "summary": "FREE PLAY FRIDAY! PC's and consoles. Free to play with purchase. 11am-4pm every Friday.",
-      "title": "FREE PLAY FRIDAY - With purchase",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
       }
     },
     {
@@ -111021,35 +111411,6 @@
         "family"
       ],
       "end_at": "2026-11-20T12:00:00-08:00",
-      "id": "willamette_week:20131149@2026-11-20T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1174",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-20T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-20T12:00:00-08:00",
       "id": "willamette_week:20131153@2026-11-20T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
       "is_all_day": false,
@@ -111072,6 +111433,35 @@
         "latitude": 45.478934715870885,
         "longitude": -122.61206954232797,
         "name": "Woodstock Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-20T12:00:00-08:00",
+      "id": "willamette_week:20131149@2026-11-20T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1174",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -119552,6 +119942,34 @@
         "latitude": 45.507883,
         "longitude": -122.71324,
         "name": "Oregon Zoo"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:19879571@2026-11-21T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hvH6xN-I3k2x5L4nfvvnyw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108842254?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-21T17:00:00-08:00",
+      "summary": "5pm-7pm. Free & All Ages. Hosting and playing originals for the Local Roots NW Inspiring Artists Songwriting Series with special guest Joe Sanchez. Happens 3rd Saturday of each month at Ross Island Grocery & Cafe.",
+      "title": "Megan Cronin",
+      "venue": {
+        "address": "3502 S Corbett Avenue",
+        "city": "Portland",
+        "latitude": 45.49781400000001,
+        "longitude": -122.6757371,
+        "name": "Ross Island Grocery & Cafe"
       }
     },
     {
@@ -128818,6 +129236,34 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:20138101@2026-11-23T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qFNhrdOS4UCcHKcYGzEBdA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/109102057?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-23T20:00:00-08:00",
+      "summary": "Lloyd Jones is a consummate guitarist/singer/songwriter/arranger/performer/ bandleader. One of the most original artists on the modern day blues scene, Jones is, in the words of Blues Revue, &quot;certainly worthy of greater recognition.&quot; The release of his first recording for Blind Pig Records, Love Gotcha, should bring him the national and international acclamation he deserves. Jones was born in Seattle into a musical family, which moved to Portland soon afterward. &quot;I remember music was everywhere in our house growing up. My dad was playing Dixieland jazz records and trying to teach me to play trumpet when I was only five years old. My older brother played drums and showed me how. Then he took me to his band rehearsals and had me playing gigs when I was just 13. He took me to see James Brown in '64. You've got to imagine James in '64 - ouch! Then B.B. King, Buddy Guy, even Sonny Terry and Brownie McGhee - all this before I was out of high school. I was underage and totally mesmerized&quot; Jones got deep into the blues and was the leader of Portland's most popular blues bands, Brown Sugar, in the early 70's. &quot;We got to work with touring musicians in those days, like Charlie Musselwhite, George &quot;Harmonica&quot; Smith, the Johnny Otis show, Big Mama Thornton and Big Walter Horton. That's how we learned, and that's really when I first picked up the guitar. A lot of times these people would stay at our homes and teach us music and history. Some of them have passed now, so I cherish those memories. S.P. Leary, who was in Muddy Waters band and was playing drums with Big Walter at the time, leaned over to me as he was leaving town and said, &quot;Man, I'm getting old. You gotta keep it alive. It's a struggle sometimes, but if you love it, you keep on struggling.&quot;' Through the years Jones would continue to hone his craft by performing with the likes of Albert Collins, Robert Cray, Bonnie Raitt, Taj Mahal, B.B. King, Dr. John, John Hammond, Etta James, Junior Wells and Buddy Guy, and many more music legends. In the 80's Jones joined forces with ex-Robert Cray singer/harp player Curtis Salgado in a band called In Yo' Face. &quot;That was one fun band! Seemed like we all had the same record collection. Curtis really pushed me as a guitar player, and when he left in '85 to join Roomful of Blues I knew it was time to play my music.&quot; Jones knew what he wanted to say and how he wanted to say it. The Lloyd Jones Struggle started in 1985 as a vehicle for his songwriting. &quot;I love a good story. Most of the traditional blues stayed with a shuffle or slow blues. Being a drummer I keep hearing the rhythm of the words all broke down funky and swamp-afied; nice and relaxed but kind of turned inside out.&quot; Jones made two recordings in the late 80's for Criminal Records: The Lloyd Jones Struggle \\(1987\\) and Small Potatoes \\(1989\\). They won over a dozen local music awards, as well as acclaim from national music publications such as Down Beat and Guitar Player, which in turn led to some extensive touring for the band on the Miller Beer Sponsorship Program. In 1993 Jones released his third album, Lloyd \\`Have Mercy' Jones - Live! on the Burnside Records label. In 1995 Lloyd Jones recorded a highly acclaimed album for the Audio Quest label, entitled Trouble Monkey. Blues Revue named it, &quot;not only one of the best albums of 1995, it is one of the best albums of the 1990's,&quot; while Robert Cray called it &quot;the best damn record I've heard in a long time!&quot; Vintage Guitar Magazine said, &quot;Jones offers vocals that would make Sam and Dave smile and guitar work Steve Cropper would be proud of&quot; and referred to his affecting vocals as &quot;gritty as a dirt road and smooth as melting butter.&quot; Lloyd's songwriting was starting to be noticed as well, with Joe Louis Walker and Gatemouth Brown covering two of his compositions. Jones and his band have become a mainstay on the West Coast circuit, and have brought their tasteful, crowd-pleasing brand of music from New Orleans to Canada to the Caribbean, where Delbert McClinton witnessed a performance and remarked, &quot;When I heard Lloyd Jones live for the first time in January 1999, it was like exhaling after holding my breath for fifteen years.&quot; It was such a typically memorable set at the Santa Cruz Blues Festival that led to Jones' signing by Blind Pig Records. Jones describes his soulful and intelligent fusion of funk, blues, and R&amp;B as &quot;storytelling with a Memphis groove.&quot; His latest CD, Love Gotcha, presents Lloyd's writing at its trenchant best. His songs have the quality that makes them sound as if they have been around as blues standards for years or they seem to have fallen out of some time warp from the golden days of R&amp;B. His approach to the guitar is both economical and rhythmically sophisticated, with a style that can be as delicate as it is devastating. And Jones' accomplished guitar and vocal work are complemented throughout the recording by some of the funkiest horn-rhythm-organ arrangements around. Blues lovers everywhere are about to discover what Lloyd Jones' fans already know - one taste of his beguiling music and you're captivated. Lloyd's gotcha! Blind Pig Records A division of Whole Hog, Inc. PO. Box 2344, San Francisco, CA 94126",
+      "title": "Lloyd Jones \"Blue Monday\"",
+      "venue": {
+        "address": "8105 SE 7th Ave",
+        "city": "Portland",
+        "latitude": 45.4641791,
+        "longitude": -122.6592179,
+        "name": "The Muddy Rudder Public House"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:20043138@2026-11-23T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mOKSZVLi_EGoSzd7AQuK3g.large.png",
       "is_all_day": false,
@@ -130893,6 +131339,35 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "end_at": "2026-11-24T19:30:00-08:00",
+      "id": "willamette_week:20317789@2026-11-24T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MMGO-3WEuEadifIsakwO4Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://literary-arts.org/event/rebecca-handler-in-conversation-with-selina-fillinger/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-24T18:30:00-08:00",
+      "summary": "The Literary Arts Bookstore is pleased to welcome author Rebecca Handler to celebrate her new novel, In the Round. Handler will be joined in conversation by Selina Fillinger. About the book: Have you ever been dead certain that you’re being observed, that maybe your very existence is predicated on how others see you? A few minutes after she’s become convinced she’s the victim of a home invasion, In the Round’s brilliant and intimate narrator plunges us into a feminist Kafkaesque literary mystery that unfolds over the course of one weird—and dare we say, dramatic—night in San Francisco. Nothing is missing from her family’s home, but everything feels wrong. So begins a sleepless night of questioning, and a novel packed with the kind of astonishing twists that leave readers wondering: Is all the world a stage, after all? Over the course of the evening, theatrical elements creep in: a cast list, a prop list, an intermission. At once an avant-garde thriller, a meditation on motherhood and mortality, a full-throated endorsement of gut-level intuition, and a tribute to the rapture of live theater in a post-pandemic world, In the Round is a lively, inventive, and completely singular story.",
+      "title": "Rebecca Handler in conversation with Selina Fillinger",
+      "venue": {
+        "address": "925 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5212202668,
+        "longitude": -122.6807206124,
+        "name": "Literary Arts"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-11-24T20:00:00-08:00",
@@ -132237,6 +132712,33 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "id": "willamette_week:19595758@2026-11-25T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/U_5t0q-oWEG4jd7hDiUjkw.large.png",
+      "is_all_day": true,
+      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-25T00:00:00-08:00",
+      "title": "Banks Public Library: Family Drop In Game Day",
+      "venue": {
+        "address": "42461 NW Market St",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "id": "willamette_week:20245380@2026-11-25T00:00",
@@ -132286,33 +132788,6 @@
         "latitude": 45.63873,
         "longitude": -122.66149,
         "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "id": "willamette_week:19595758@2026-11-25T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/U_5t0q-oWEG4jd7hDiUjkw.large.png",
-      "is_all_day": true,
-      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-25T00:00:00-08:00",
-      "title": "Banks Public Library: Family Drop In Game Day",
-      "venue": {
-        "address": "42461 NW Market Street",
-        "city": "Banks",
-        "latitude": 45.619839,
-        "longitude": -123.113832,
-        "name": "Banks Public Library"
       }
     },
     {
@@ -133814,6 +134289,35 @@
         "latitude": 45.5197386178146,
         "longitude": -123.05865727043835,
         "name": "Cornelius Public Library"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-11-25T20:00:00-08:00",
+      "id": "willamette_week:18641436@2026-11-25T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6RIkPtOoz0KdwD0lJbK92g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://literary-arts.org/event/bipoc-reading-series-november/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-25T18:30:00-08:00",
+      "summary": "This monthly reading series is intended to prioritize the safety, creativity, and stories of Black people, Indigenous people, and People of Color. Come listen to our featured readers, or sign up to share your work in our open mic. Readings will be followed by a short community discussion. Hosted by Kyle Yoshioka and Jessica Meza-Torres. The featured reader for November will be announced soon. This event is open to everyone, but only people who identify as Black, Indigenous, and/or People of Color will be invited to read. If you have any questions, please contact Jessica Meza-Torres at jmezatorres24@gmail.com or Kyle Yoshioka at kyle.yoshioka@gmail.com.",
+      "title": "BIPOC Reading Series",
+      "venue": {
+        "address": "925 SW Washington St",
+        "city": "Portland",
+        "latitude": 45.5212202668,
+        "longitude": -122.6807206124,
+        "name": "Literary Arts"
       }
     },
     {
@@ -136662,35 +137166,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-11-27T11:00:00-08:00",
-      "id": "willamette_week:20131150@2026-11-27T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1043",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-27T10:30:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-11-27T11:15:00-08:00",
       "id": "willamette_week:20131151@2026-11-27T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
@@ -136720,11 +137195,11 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-11-27T12:00:00-08:00",
-      "id": "willamette_week:20131152@2026-11-27T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
+      "end_at": "2026-11-27T11:00:00-08:00",
+      "id": "willamette_week:20131150@2026-11-27T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
       "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1152",
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1043",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -136734,15 +137209,15 @@
         "name": "Willamette Week",
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
-      "start_at": "2026-11-27T11:00:00-08:00",
+      "start_at": "2026-11-27T10:30:00-08:00",
       "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
       "title": "Toddler Storytime",
       "venue": {
-        "address": "801 SW 10th Ave",
+        "address": "8226 N Denver Avenue",
         "city": "Portland",
-        "latitude": 45.5192273855,
-        "longitude": -122.6826296747,
-        "name": "Multnomah County Central Library"
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -136771,6 +137246,35 @@
         "latitude": 45.63873,
         "longitude": -122.66149,
         "name": "Vancouver"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-27T12:00:00-08:00",
+      "id": "willamette_week:20131152@2026-11-27T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bBBdmzEgUUSzsaaeJe5jPw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1152",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-27T11:00:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "801 SW 10th Ave",
+        "city": "Portland",
+        "latitude": 45.5192273855,
+        "longitude": -122.6826296747,
+        "name": "Multnomah County Central Library"
       }
     },
     {
@@ -137897,6 +138401,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20169612@2026-11-27T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xkIEwnNd30W2oRMvF22gLQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108971838?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-27T19:00:00-08:00",
+      "summary": "The Bylines are a Portland based band created by Reece Marshburn and Marianna Thielen who write and perform sophisticated, jazz-inspired, story-driven pop music. They tour the Northwest regularly as a duo, and put on theatrical shows with their full ensemble. They are alumni of the Johnny Mercer Songwriters Project and have played before Randy Newman. Portland's The Bylines exists in a unique musical plane, one at once grounded in the big-band past of glamorous pop performances and rooted in a present realm of intricate and highly addictive songwriting. With a focus on grand live spectacle--a facet of music often lost in the digital age--the group is equally at home in velvet-curtained jazz halls, large rooms and intimate venues. That sound is the product of a marriage both sonic and literal. The Bylines is made up of two songwriters whose styles and influences converge to bring The Bylines' catchy, addictive sounds to vibrant life. Frontwoman Marianna Thielen, the glamorous face of the group, brings to the fore a background in composition, classical vocal work and, most obviously, musical theater, illuminating the stage with endlessly watchable bravado backed up by her powerful -- yet playful -- vocal prowess. Meanwhile, gliding his fingers across the keys is Reece Marshburn, letting loose a symphony of intricate melodies rooted in a combination of classical, jazz and pop music. The resulting combination is a unique pop confection drawing on decades of influences, as if Cole Porter, Carole King, Dusty Springfield, Freddie Mercury, Paul Simon, Rufus Wainwright and Regina Spektor combined forces and filtered their unique compositions through classical maestros and film composers, then sprinkled it with a keen pop sensibility and a commitment to putting on the most involving, charismatic and personalized live shows this side of the Copacabana. The Bylines have used their unique-yet-familiar sound to play to audiences large and small throughout the country, and have released both a studio\\(self titled, recorded by Bob Stark at Kung Fu Bakery\\) and a live album\\(The Bylines Live, recorded at the Alberta Rose Theatre in Portland, OR\\). The Bylines are proud alumni of the Johnny Mercer Songwriting Project, and have had support from the Regional Arts and Culture Council. Whether performing as a Thielen/Marshburn duo or with a larger band, the result is a blend of butter-smooth melodies, densely layered songwriting and powerful vocals. Most importantly, though, The Bylines musical cocktail goes down easy, and emphasizes something that is so often forgotten when such prolific songwriters present their craft: listening to music is, above all, supposed to be an experience… and a fun one.",
+      "ticket_url": "https://www.bandsintown.com/t/108971838?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "The Bylines",
+      "venue": {
+        "address": "812 SW Washington St Suite 550",
+        "city": "Portland",
+        "latitude": 45.5209256,
+        "longitude": -122.6802879,
+        "name": "Ritz Carlton Portland Residences"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-11-27T21:00:00-08:00",
@@ -138529,6 +139062,10 @@
       "image_url": "https://s1.ticketm.net/dam/c/48b/2352e3b5-8496-496b-97a3-e605177e848b_105851_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketweb.com/event/black-friday-neo-soul-jack-london-revue-tickets/14410934",
+      "merged_sources": [
+        "ticketmaster",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -145685,6 +146222,37 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "end_at": "2026-11-30T15:30:00-08:00",
+      "id": "willamette_week:20291058@2026-11-30T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4027207f-4151-43b8-a40c-d086b625f086.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.redcrossblood.org/give.html/drive-results?order=DATE&range=10&zipSponsor=97116",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-30T10:30:00-08:00",
+      "summary": "The American Red Cross is holding a blood drive at Forest Grove Senior & Community Center, 2037 Douglas St, Forest Grove, on Monday, Nov. 30, from 10:30 a.m. to 3:30 p.m. Appointments can be scheduled at redcrossblood.org or by calling 1-800-733-2767. Red Cross note: Come 11/23-12/6 = Red Cross x Wheel of Fortune mug ltd qty \\+ chance @ LA trip for 2! rcblood.org/WOF",
+      "title": "Red Cross Blood Drive: Forest Grove Senior & Community Center",
+      "venue": {
+        "address": "2037 Douglas St.",
+        "city": "Forest Grove",
+        "latitude": 45.520433,
+        "longitude": -123.104291,
+        "name": "Forest Grove Senior & Community Center"
       }
     },
     {
@@ -173279,5 +173847,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-01T19:33:55+00:00"
+  "generated_at": "2026-11-01T19:45:18+00:00"
 }

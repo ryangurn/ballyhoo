@@ -1793,14 +1793,6 @@
       "venue": "Helium Comedy Club"
     },
     {
-      "dropped": "willamette_week:20169594@2026-11-12T19:30",
-      "kept": "dopdx:17833559",
-      "start_at": "2026-11-12T20:00:00-08:00",
-      "title_dropped": "1876 & Altar Girl & kids on fire & Last Thread",
-      "title_kept": "Shoot The Moon Fest-Night 1-w/ 1876 w/ Last Thread, Altar Girl, Kids on Fire",
-      "venue": "Twilight Cafe And Bar"
-    },
-    {
       "dropped": "willamette_week:18833823@2026-11-12T19:30",
       "kept": "dopdx:17282110",
       "start_at": "2026-11-12T20:00:00-08:00",
@@ -4041,6 +4033,14 @@
       "venue": "The Get Down Music Venue"
     },
     {
+      "dropped": "willamette_week:20317805@2026-11-27T20:30",
+      "kept": "ticketmaster:rZ7HnEZ1Af880V",
+      "start_at": "2026-11-27T20:30:00-08:00",
+      "title_dropped": "Black Friday Neo Soul Supper Club",
+      "title_kept": "Black Friday  Neo Soul Supper Club",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "willamette_week:18811219@2026-11-27T20:30",
       "kept": "ticketmaster:vvG1HZ_6J3cJET",
       "start_at": "2026-11-27T20:30:00-08:00",
@@ -4257,9 +4257,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 5887,
-  "floor_check": "5887 events against a 5894-event baseline",
-  "generated_at": "2026-11-01T19:33:55+00:00",
+  "event_count": 5907,
+  "floor_check": "5907 events against a 5892-event baseline",
+  "generated_at": "2026-11-01T19:45:18+00:00",
   "problems": [],
   "sources": [
     "calagator",
