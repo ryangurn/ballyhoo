@@ -11584,34 +11584,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1AA7vr_",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7vr_",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-01T17:00:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7vr_",
-      "title": "SAW: The Musical (Touring)",
-      "venue": {
-        "address": "126 Northeast Alberta Street",
-        "city": "Portland",
-        "latitude": 45.575298,
-        "longitude": -122.6436,
-        "name": "Alberta Abbey"
-      }
-    },
-    {
-      "categories": [
         "film"
       ],
       "end_at": "2026-11-02T02:00:00-08:00",
@@ -11698,6 +11670,34 @@
         "latitude": 45.561001,
         "longitude": -122.6617039,
         "name": "Curious Comedy Theater"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "end_at": "2026-11-02T02:00:00-08:00",
+      "id": "dopdx:16657673",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1763947850/event-16657673.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/1/houston-dynamo-fc-at-portland-timbers-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-01T18:00:00-08:00",
+      "title": "Houston Dynamo FC at Portland Timbers",
+      "venue": {
+        "address": "1844 SW Morrison St",
+        "city": "Portland",
+        "latitude": 45.5222918,
+        "longitude": -122.6920696,
+        "name": "Providence Park"
       }
     },
     {
@@ -11789,39 +11789,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "end_at": "2026-11-02T02:00:00-08:00",
-      "id": "ticketmaster:Z7r9jZ1A7roZP",
-      "image_url": "https://s1.ticketm.net/dam/a/04d/da8b7bf9-599c-45f8-8253-401e5cd5504d_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7roZP",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-01T18:00:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7roZP",
-      "title": "Portland Timbers vs. Houston Dynamo",
-      "venue": {
-        "address": "1844 SW Morrison St.",
-        "city": "Portland",
-        "latitude": 45.5201,
-        "longitude": -122.6884,
-        "name": "Providence Park"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-11-02T02:00:00-08:00",
@@ -11845,6 +11812,38 @@
         "address": "6 SW 3rd Ave",
         "city": "Portland",
         "name": "Can Can's Paris Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-02T02:00:00-08:00",
+      "id": "dopdx:17434215",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1780421182/event-17434215.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/1/plini-an-unnameable-desire-north-american-tour-tickets",
+      "organizer": "Revolution Hall Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 34.41,
+        "min": 34.41
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-01T19:00:00-08:00",
+      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance. w/ Night Verses & Portraits Plini Plini is an Australian progressive instrumental guitarist, composer, and producer internationally recognized for his fluid guitar work, cinematic compositions, and genre-defying approach to modern instrumental music. Since emerging with his acclaimed Handmade Cities debut and subsequent releases, Plini has built a global following through his technically masterful yet deeply melodic sound, earning praise from artists and fans across the progressive and metal communities. In 2026, Plini returns with his highly anticipated third full-length album, An Unnameab",
+      "title": "Plini - An Unnameable Desire North American Tour",
+      "venue": {
+        "address": "1300 SE STARK ST",
+        "city": "Portland",
+        "latitude": 45.5189728,
+        "longitude": -122.6520951,
+        "name": "Revolution Hall"
       }
     },
     {
@@ -12054,43 +12053,6 @@
         "music"
       ],
       "end_at": "2026-11-02T02:00:00-08:00",
-      "id": "ticketmaster:Z7r9jZ1AAvN0N",
-      "image_url": "https://s1.ticketm.net/dam/a/6d2/64cfb21b-5033-4e19-a0fd-bf2e287736d2_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvN0N",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "Revolution Hall Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 34.41,
-        "min": 34.41
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-01T19:00:00-08:00",
-      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance. w/ Night Verses & Portraits Plini Plini is an Australian progressive instrumental guitarist, composer, and producer internationally recognized for his fluid guitar work, cinematic compositions, and genre-defying approach to modern instrumental music. Since emerging with his acclaimed Handmade Cities debut and subsequent releases, Plini has built a global following through his technically masterful yet deeply melodic sound, earning praise from artists and fans across the progressive and metal communities. In 2026, Plini returns with his highly anticipated third full-length album, An Unnameab",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvN0N",
-      "title": "Plini w/ Night Verses",
-      "venue": {
-        "address": "1300 SE Stark Street #110",
-        "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "Revolution Hall - Portland"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-02T02:00:00-08:00",
       "id": "dopdx:17910375",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1790876759/event-17910375.jpg",
       "is_all_day": false,
@@ -12173,30 +12135,62 @@
     },
     {
       "categories": [
-        "arts"
+        "music"
       ],
-      "id": "ticketmaster:Z7r9jZ1A70tJ3",
-      "image_url": "https://s1.ticketm.net/dam/a/0fd/ddaac074-6725-42a9-93ea-c7bcea7400fd_RETINA_LANDSCAPE_16_9.jpg",
+      "end_at": "2026-11-02T02:00:00-08:00",
+      "id": "dopdx:17369907",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1779134173/event-17369907.avif",
       "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70tJ3",
+      "listing_url": "https://dopdx.com/events/2026/11/1/the-smashing-pumpkins-tickets",
       "price": {
         "currency": "USD",
         "is_free": false
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
       },
-      "start_at": "2026-11-01T19:30:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70tJ3",
-      "title": "Caitlin Peluffo",
+      "start_at": "2026-11-01T20:00:00-08:00",
+      "title": "The Smashing Pumpkins",
       "venue": {
-        "address": "1510 SE 9th Ave",
+        "address": "1 N Center Court St",
         "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "Helium Comedy Club - Portland"
+        "latitude": 45.53149690000001,
+        "longitude": -122.6667829,
+        "name": "Moda Center"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-02T02:00:00-08:00",
+      "id": "dopdx:17320566",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1778185590/event-17320566.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/1/buena-vista-orchestra-tickets",
+      "organizer": "True West Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 97.51,
+        "min": 50.04
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-01T20:00:00-08:00",
+      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance THE BUENA VISTA ORCHESTRA (sometimes referred to as The Buena Vista Social Orchestra, Orquesta Buena Vista, etc) is the world's foremost Cuban music repertory ensemble - featuring a lineup of musicians from groups like The Buena Vista Social Club, AfroCuban All Stars, the bands of Celia Cruz, Omara Portuondo, Chucho Valdés, Willie Colon & more! Virtuoso Cuban violinist Rolando Morejón Reyes (who joined the 2024 tour across several dates) leads an exciting set of musicians pulled from the original Buena Vista Social Club performances, Celia Cruz, AfroCuban All Stars, and more. His credits inc",
+      "title": "Buena Vista Orchestra",
+      "venue": {
+        "address": "3017 SE Milwaukie Ave.",
+        "city": "Portland",
+        "latitude": 45.5008089,
+        "longitude": -122.654546,
+        "name": "Aladdin Theater"
       }
     },
     {
@@ -12313,137 +12307,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A7PsfI",
-      "image_url": "https://s1.ticketm.net/dam/a/c56/187bca83-9e8f-44d7-8d46-ecc0f9c06c56_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PsfI",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-01T20:00:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PsfI",
-      "title": "Rival Sons w/ The Blue Stones",
-      "venue": {
-        "address": "8 NW 6th Avenue",
-        "city": "Portland",
-        "latitude": 45.5303,
-        "longitude": -122.684799,
-        "name": "Roseland Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-02T02:00:00-08:00",
-      "id": "ticketmaster:vvG1HZ_1MEeSxH",
-      "image_url": "https://s1.ticketm.net/dam/a/d28/6579aedc-208c-4bb2-a5b1-f67387aa4d28_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-portland-oregon-11-01-2026/event/0F0064ADE70B38BC",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "LIVE NATION MUSIC",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-01T20:00:00-08:00",
-      "summary": "Guests are permitted bags up to 14? x 14? x 6? and will hold their bags throughout the security screening process unless they are sent to secondary screening for further inspection. Bag check will be available; however, we encourage guests to bring smaller bags for a faster and smoother experience. Please note checking prohibited items will be denied.",
-      "ticket_url": "https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-portland-oregon-11-01-2026/event/0F0064ADE70B38BC",
-      "title": "The Smashing Pumpkins: The Rats In A Cage Tour",
-      "venue": {
-        "address": "One Center Court, Suite 100",
-        "city": "Portland",
-        "latitude": 45.53118896,
-        "longitude": -122.66645813,
-        "name": "Moda Center"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfGfrf",
-      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/casual-eddie-showdown-saloon-tickets/14314794",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 15.92,
-        "min": 15.92
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-01T20:00:00-08:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/casual-eddie-showdown-saloon-tickets/14314794",
-      "title": "Casual Eddie",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
-        "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-02T02:00:00-08:00",
-      "id": "ticketmaster:Z7r9jZ1A7044x",
-      "image_url": "https://s1.ticketm.net/dam/a/fd6/a4a8431d-f2a0-4756-8ff7-adbeee16bfd6_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7044x",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "True West Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 97.51,
-        "min": 50.04
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-01T20:00:00-08:00",
-      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance THE BUENA VISTA ORCHESTRA (sometimes referred to as The Buena Vista Social Orchestra, Orquesta Buena Vista, etc) is the world's foremost Cuban music repertory ensemble - featuring a lineup of musicians from groups like The Buena Vista Social Club, AfroCuban All Stars, the bands of Celia Cruz, Omara Portuondo, Chucho Valdés, Willie Colon & more! Virtuoso Cuban violinist Rolando Morejón Reyes (who joined the 2024 tour across several dates) leads an exciting set of musicians pulled from the original Buena Vista Social Club performances, Celia Cruz, AfroCuban All Stars, and more. His credits inc",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7044x",
-      "title": "Buena Vista Orchestra",
-      "venue": {
-        "address": "3017 SE Milwaukie Ave",
-        "city": "Portland",
-        "latitude": 45.4818,
-        "longitude": -122.640198,
-        "name": "Aladdin Theater"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-11-02T02:00:00-08:00",
@@ -12471,37 +12334,6 @@
         "latitude": 45.561001,
         "longitude": -122.6617039,
         "name": "Curious Comedy Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1A4v34d",
-      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/de-la-flor-followed-by-dantes-tickets/15052543",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 21.09,
-        "min": 21.09
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-01T20:30:00-08:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/de-la-flor-followed-by-dantes-tickets/15052543",
-      "title": "DE LA FLOR followed by Sinferno Cabaret",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
       }
     },
     {
@@ -12559,37 +12391,6 @@
         "address": "421 SE Grand Ave",
         "city": "Portland",
         "name": "The Coffin Club"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfPs_S",
-      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971673",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 11.85,
-        "min": 11.85
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-01T21:00:00-08:00",
-      "summary": "HUNTER : PRESENTS HIVE HALLOWEEN DANCE PARTY SKULLY : MR WHITE BOBBY LUGOSI HIVE - A - GO - GO - DANCERS COSTUME CONTEST CASH & MEAT PRIZES & SO MUCH MORE ! SEE DEAN NAKED 9pm : $10 adv : 21+",
-      "ticket_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971673",
-      "title": "CHURCH OF HIVE",
-      "venue": {
-        "address": "13 NW Sixth Avenue",
-        "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
-        "name": "Star Theater"
       }
     },
     {
@@ -23352,7 +23153,7 @@
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 113.74,
+        "max": 62.24,
         "min": 25.16
       },
       "source": {
@@ -50090,6 +49891,41 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-11-09T02:00:00-08:00",
+      "id": "dopdx:17918383",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1791009010/event-17918383.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/8/the-hollow-winter-burn-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 129.24,
+        "min": 31.39
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-08T19:00:00-08:00",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fthe-hollow-winter-burn-dantes-tickets%252F14356594%26utm_medium%3daffiliate",
+      "title": "The Hollow: Winter Burn",
+      "venue": {
+        "address": "350 West Burnside",
+        "city": "Portland",
+        "latitude": 45.5229642,
+        "longitude": -122.6737152,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-11-08T23:00:00-08:00",
       "id": "dopdx:17843933",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1789494902/event-17843933.jpg",
@@ -50199,42 +50035,6 @@
         "address": "3530 SE Division St, Portland, OR 97202",
         "city": "Portland",
         "name": "Tomorrow Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-09T02:00:00-08:00",
-      "id": "ticketmaster:rZ7HnEZ1Afuppf",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/the-hollow-winter-burn-dantes-tickets/14356594",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 129.24,
-        "min": 31.39
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T19:00:00-08:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/the-hollow-winter-burn-dantes-tickets/14356594",
-      "title": "THE HOLLOW: WINTER BURN",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
       }
     },
     {
@@ -118992,7 +118792,7 @@
         "currency": "USD",
         "is_free": false,
         "max": 263.14,
-        "min": 14.94
+        "min": 21.09
       },
       "source": {
         "id": "ticketmaster",
@@ -173054,5 +172854,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-02T07:03:58+00:00"
+  "generated_at": "2026-11-02T07:39:02+00:00"
 }
