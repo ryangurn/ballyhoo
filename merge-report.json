@@ -169,14 +169,6 @@
       "venue": "Showdown Saloon"
     },
     {
-      "dropped": "dopdx:17262337",
-      "kept": "ticketmaster:Z7r9jZ1A7JAvy",
-      "start_at": "2026-11-01T14:00:00-08:00",
-      "title_dropped": "Stravinsky & Beethoven",
-      "title_kept": "Oregon Symphony presents Stravinsky & Beethoven",
-      "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
       "dropped": "willamette_week:18235584@2026-11-01T14:00",
       "kept": "dopdx:17262337",
       "start_at": "2026-11-01T14:00:00-08:00",
@@ -4274,8 +4266,8 @@
     }
   ],
   "event_count": 5908,
-  "floor_check": "5908 events against a 5892-event baseline",
-  "generated_at": "2026-11-01T23:56:13+00:00",
+  "floor_check": "5908 events against a 5899-event baseline",
+  "generated_at": "2026-11-02T00:40:18+00:00",
   "problems": [],
   "sources": [
     "calagator",
