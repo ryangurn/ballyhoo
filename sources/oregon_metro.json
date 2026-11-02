@@ -292,29 +292,6 @@
       "categories": [
         "outdoors"
       ],
-      "id": "oregon_metro:natural-pigments-corn-and-mexican-marigold-2026-11-08-0",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/natural-pigments-corn-and-mexican-marigold-2026-11-08-0",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-08T13:00:00-08:00",
-      "title": "Natural pigments: Corn and Mexican marigold",
-      "venue": {
-        "city": "Portland",
-        "name": "Chehalem Ridge Nature Park"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
       "id": "oregon_metro:fly-fishing-beyond-basics-2026-11-08-0",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/fly-fishing-beyond-basics-2026-11-08-0",
@@ -334,6 +311,29 @@
         "latitude": 45.55596,
         "longitude": -122.45242,
         "name": "Blue Lake Regional Park"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:natural-pigments-corn-and-mexican-marigold-2026-11-08-0",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/natural-pigments-corn-and-mexican-marigold-2026-11-08-0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-08T13:00:00-08:00",
+      "title": "Natural pigments: Corn and Mexican marigold",
+      "venue": {
+        "city": "Portland",
+        "name": "Chehalem Ridge Nature Park"
       }
     },
     {
@@ -3422,7 +3422,7 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-02T11:27:46+00:00",
+  "generated_at": "2026-11-02T21:48:52+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
