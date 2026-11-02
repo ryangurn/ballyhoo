@@ -169,14 +169,6 @@
       "venue": "Showdown Saloon"
     },
     {
-      "dropped": "dopdx:17918381",
-      "kept": "ticketmaster:rZ7HnEZ1AfFY00",
-      "start_at": "2026-11-01T22:00:00-08:00",
-      "title_dropped": "Sinferno Cabaret",
-      "title_kept": "SINFERNO CABARET",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:20124196@2026-11-02T18:00",
       "kept": "dopdx:17918324",
       "start_at": "2026-11-02T18:00:00-08:00",
@@ -4025,6 +4017,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:16902271@2026-11-29T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPsPd",
+      "start_at": "2026-11-29T21:00:00-08:00",
+      "title_dropped": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:20170020@2026-11-30T19:00",
       "kept": "ticketmaster:Z7r9jZ1AAeKqs",
       "start_at": "2026-11-30T19:00:00-08:00",
@@ -4105,9 +4105,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 5877,
-  "floor_check": "5877 events against a 5894-event baseline",
-  "generated_at": "2026-11-02T17:28:12+00:00",
+  "event_count": 5880,
+  "floor_check": "5880 events against a 5884-event baseline",
+  "generated_at": "2026-11-02T18:18:00+00:00",
   "problems": [],
   "sources": [
     "calagator",
