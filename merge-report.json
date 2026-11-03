@@ -169,35 +169,11 @@
       "venue": "Showdown Saloon"
     },
     {
-      "dropped": "willamette_week:20124196@2026-11-02T18:00",
-      "kept": "dopdx:17918324",
-      "start_at": "2026-11-02T18:00:00-08:00",
-      "title_dropped": "WorldOregon presents Dr. Katharine Hayhoe: Climate Action & Conversation Across Divides",
-      "title_kept": "Worldoregon Presents Dr. Katharine Hayhoe: Climate Action & Conversation Across Divides",
-      "venue": "The Alberta Rose Theatre"
-    },
-    {
-      "dropped": "willamette_week:19957019@2026-11-02T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfGfx7",
-      "start_at": "2026-11-02T19:00:00-08:00",
-      "title_dropped": "Square Dancing with Old Time Highway and Caller Amy Hofer",
-      "title_kept": "Square Dancing with Old Time Highway and Caller Amy Hofer / KARAOKE @ 9:30",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "dopdx:17372834",
       "kept": "ticketmaster:Z7r9jZ1A70Yvw",
       "start_at": "2026-11-02T20:00:00-08:00",
       "title_dropped": "King Buffalo",
       "title_kept": "King Buffalo w/ L.A. Witch",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "willamette_week:19053289@2026-11-02T20:00",
-      "kept": "dopdx:17372834",
-      "start_at": "2026-11-02T20:00:00-08:00",
-      "title_dropped": "King Buffalo w/ L.A. Witch",
-      "title_kept": "King Buffalo",
       "venue": "Aladdin Theater"
     },
     {
@@ -207,22 +183,6 @@
       "title_dropped": "Slothrust: The Dystopian Theatre Tour",
       "title_kept": "Slothrust w/ Um, Jennifer?",
       "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "willamette_week:19957020@2026-11-02T20:00",
-      "kept": "dopdx:17522872",
-      "start_at": "2026-11-02T20:00:00-08:00",
-      "title_dropped": "Slothrust w/ Um, Jennifer?",
-      "title_kept": "Slothrust: The Dystopian Theatre Tour",
-      "venue": "Revolution Hall"
-    },
-    {
-      "dropped": "willamette_week:17586570@2026-11-02T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPwF7",
-      "start_at": "2026-11-02T21:00:00-08:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19669298@2026-11-03T17:00",
@@ -4265,6 +4225,54 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19013731@2026-12-03T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af-xGd",
+      "start_at": "2026-12-03T19:00:00-08:00",
+      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19679614@2026-12-03T19:00",
+      "kept": "ticketmaster:vvG1HZ_83jDIDz",
+      "start_at": "2026-12-03T19:00:00-08:00",
+      "title_dropped": "Portland Trail Blazers vs. Utah Jazz",
+      "title_kept": "Portland Trail Blazers vs. Utah Jazz",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:20169134@2026-12-03T19:30",
+      "kept": "ticketmaster:Z7r9jZ1AAvbow",
+      "start_at": "2026-12-03T19:30:00-08:00",
+      "title_dropped": "Little Shop of Horrors",
+      "title_kept": "Little Shop of Horrors",
+      "venue": "Portland Center Stage"
+    },
+    {
+      "dropped": "willamette_week:20077308@2026-12-03T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfupfV",
+      "start_at": "2026-12-03T20:00:00-08:00",
+      "title_dropped": "SMELLS LIKE NIRVANA - Tribute To Nirvana with Dead Original",
+      "title_kept": "SMELLS LIKE NIRVANA - Tribute To Nirvana with Dead Original",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:20197479@2026-12-03T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfCd77",
+      "start_at": "2026-12-03T20:00:00-08:00",
+      "title_dropped": "Nug, How Strange It Is, and Bonus Room",
+      "title_kept": "Nug, How Strange It Is, and Bonus Room",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19119963@2026-12-03T20:00",
+      "kept": "ticketmaster:Z7r9jZ1A70Uf6",
+      "start_at": "2026-12-03T20:00:00-08:00",
+      "title_dropped": "Matt Hansen - Hawthorne Theatre - Portland",
+      "title_kept": "Matt Hansen",
+      "venue": "Hawthorne Theatre"
+    },
+    {
       "dropped": "willamette_week:20322707@2026-11-05T15:30",
       "kept": "dopdx:17943207",
       "start_at": "2026-11-05T16:00:00-08:00",
@@ -4289,9 +4297,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6010,
-  "floor_check": "6010 events against a 5880-event baseline",
-  "generated_at": "2026-11-03T06:36:18+00:00",
+  "event_count": 6034,
+  "floor_check": "6034 events against a 5880-event baseline",
+  "generated_at": "2026-11-03T06:56:05+00:00",
   "problems": [],
   "sources": [
     "calagator",
