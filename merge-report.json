@@ -817,6 +817,14 @@
       "venue": "Guide Dogs for the Blind"
     },
     {
+      "dropped": "willamette_week:19626345@2026-11-07T16:00",
+      "kept": "dopdx:17968243",
+      "start_at": "2026-11-07T16:00:00-08:00",
+      "title_dropped": "Paint Nite",
+      "title_kept": "Paint Nite Double Barrel Taphouse VANCOUVER",
+      "venue": "Double Barrel Taphouse"
+    },
+    {
       "dropped": "willamette_week:20097919@2026-11-07T16:00",
       "kept": "ticketmaster:Z7r9jZ1AAeaQf",
       "start_at": "2026-11-07T16:00:00-08:00",
@@ -4289,9 +4297,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6026,
-  "floor_check": "6026 events against a 6010-event baseline",
-  "generated_at": "2026-11-03T15:01:28+00:00",
+  "event_count": 6027,
+  "floor_check": "6027 events against a 6010-event baseline",
+  "generated_at": "2026-11-03T15:17:39+00:00",
   "problems": [],
   "sources": [
     "calagator",

@@ -39759,6 +39759,10 @@
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1792307592/event-17968243.png",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/11/7/paint-nite-double-barrel-taphouse-vancouver-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -74389,6 +74393,38 @@
         "latitude": 45.523588,
         "longitude": -122.676857,
         "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-13T22:15:00-08:00",
+      "id": "willamette_week:20328023@2026-11-13T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UQGAIEoFt0Kr14eNHswvvA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://bridgecityimprov.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.0,
+        "min": 15.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T21:00:00-08:00",
+      "summary": "Two great improv sets this night: Small Batch is Tim Hunt, Catherine Olson, Thomas Magee, Allie Rivenbark, Lisa & Beau Brousseau. They will open for DEATH HAMMER\\--Portland's first and only purveyor of HEAVY METAL IMPROV. What is heavy metal improv? There's only one way to find out. They have sowed chaos and ruin at over a dozen comedy festivals including Out of Bounds Fest in Austin, TX, and San Francisco's Sketchfest.",
+      "ticket_url": "https://bridge-city-improv.stageworks.com/events/rnqha8yc34df6gn8",
+      "title": "Small Batch & Death Hammer",
+      "venue": {
+        "address": "1924 SE Monroe St",
+        "city": "Milwaukie",
+        "latitude": 45.44368,
+        "longitude": -122.64171,
+        "name": "Bridge City Improv"
       }
     },
     {
@@ -177289,5 +177325,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-03T15:01:28+00:00"
+  "generated_at": "2026-11-03T15:17:39+00:00"
 }
