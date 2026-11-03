@@ -1695,6 +1695,25 @@
       "categories": [
         "civic"
       ],
+      "id": "oregon_metro:supportive-housing-services-regional-policy-and-oversight-committee-annual-regional-report-0",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/supportive-housing-services-regional-policy-and-oversight-committee-annual-regional-report-0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-01-20T09:00:00-08:00",
+      "title": "Supportive Housing Services Regional Policy and Oversight Committee annual regional report subcommittee meeting"
+    },
+    {
+      "categories": [
+        "civic"
+      ],
       "id": "oregon_metro:metro-technical-advisory-committee-meeting-2027-01-20",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-technical-advisory-committee-meeting-2027-01-20",
@@ -1715,25 +1734,6 @@
         "longitude": -122.66024,
         "name": "Metro Regional Center"
       }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:supportive-housing-services-regional-policy-and-oversight-committee-annual-regional-report-0",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/supportive-housing-services-regional-policy-and-oversight-committee-annual-regional-report-0",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2027-01-20T09:00:00-08:00",
-      "title": "Supportive Housing Services Regional Policy and Oversight Committee annual regional report subcommittee meeting"
     },
     {
       "categories": [
@@ -3422,7 +3422,7 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-02T21:48:52+00:00",
+  "generated_at": "2026-11-03T03:30:39+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
