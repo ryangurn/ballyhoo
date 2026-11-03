@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T12:06:46+00:00",
+  "generated_at": "2026-11-03T13:34:45+00:00",
   "sources": [
     {
       "event_count": 27,
       "last_run_at": "2026-11-03T06:35:42+00:00",
       "source_id": "calagator",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/calagator.json"
     },
     {
@@ -26,28 +26,28 @@
       "event_count": 12,
       "last_run_at": "2026-11-03T07:05:32+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
       "event_count": 40,
       "last_run_at": "2026-11-03T07:02:47+00:00",
       "source_id": "neighborhood_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/neighborhood_markets.json"
     },
     {
       "event_count": 53,
       "last_run_at": "2026-11-03T07:16:27+00:00",
       "source_id": "obt",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/obt.json"
     },
     {
       "event_count": 14,
       "last_run_at": "2026-11-03T07:27:38+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
@@ -68,7 +68,7 @@
       "event_count": 0,
       "last_run_at": "2026-11-03T07:14:15+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
@@ -79,17 +79,17 @@
       "url": "sources/ticketmaster.json"
     },
     {
-      "event_count": 42,
-      "last_run_at": "2026-11-03T00:27:01+00:00",
+      "event_count": 40,
+      "last_run_at": "2026-11-03T13:34:07+00:00",
       "source_id": "vancouver_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/vancouver_farmers_market.json"
     },
     {
       "event_count": 3830,
       "last_run_at": "2026-11-03T06:54:58+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
