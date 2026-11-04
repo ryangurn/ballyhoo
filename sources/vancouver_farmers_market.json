@@ -818,6 +818,50 @@
     },
     {
       "categories": [
+        "community",
+        "market"
+      ],
+      "end_at": "2026-12-26T23:59:59-08:00",
+      "id": "vancouver_farmers_market:closed-downtown-vancouver-farmers-market@2026-12-26",
+      "is_all_day": true,
+      "listing_url": "https://vancouverfarmersmarket.org/event/closed-downtown-vancouver-farmers-market/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2026-12-26T00:00:00-08:00",
+      "title": "CLOSED Downtown Vancouver Farmers Market"
+    },
+    {
+      "categories": [
+        "community",
+        "market"
+      ],
+      "end_at": "2027-01-02T23:59:59-08:00",
+      "id": "vancouver_farmers_market:closed-downtown-vancouver-farmers-market-2@2027-01-02",
+      "is_all_day": true,
+      "listing_url": "https://vancouverfarmersmarket.org/event/closed-downtown-vancouver-farmers-market-2/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2027-01-02T00:00:00-08:00",
+      "title": "CLOSED Downtown Vancouver Farmers Market"
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -1189,7 +1233,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-04T04:41:29+00:00",
+  "generated_at": "2026-11-04T13:44:08+00:00",
   "source_id": "vancouver_farmers_market",
   "status": "ok"
 }
