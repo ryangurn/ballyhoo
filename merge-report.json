@@ -977,6 +977,22 @@
       "venue": "McMenamins Crystal Ballroom"
     },
     {
+      "dropped": "willamette_week:18521269@2026-11-08T10:00",
+      "kept": "portland_farmers_market:king-farmers-market-3@2026-11-08",
+      "start_at": "2026-11-08T10:00:00-08:00",
+      "title_dropped": "King Farmers Market",
+      "title_kept": "King Farmers Market",
+      "venue": "King Farmers Market"
+    },
+    {
+      "dropped": "willamette_week:18521272@2026-11-08T10:00",
+      "kept": "portland_farmers_market:lents-international-farmers-market@2026-11-08",
+      "start_at": "2026-11-08T10:00:00-08:00",
+      "title_dropped": "Lents International Farmers Market",
+      "title_kept": "Lents International Farmers Market",
+      "venue": "Lents International Farmers Market"
+    },
+    {
       "dropped": "dopdx:17837687",
       "kept": "ticketmaster:Z7r9jZ1AA7obP",
       "start_at": "2026-11-08T13:00:00-08:00",
@@ -3745,6 +3761,14 @@
       "venue": "Oregon Convention Center"
     },
     {
+      "dropped": "willamette_week:18521270@2026-11-25T10:00",
+      "kept": "portland_farmers_market:shemanski-park-farmers-market-2@2026-11-25",
+      "start_at": "2026-11-25T10:00:00-08:00",
+      "title_dropped": "Shemanski Park Farmers Market",
+      "title_kept": "Shemanski Park Farmers Market",
+      "venue": "Shemanski Park Farmers Market"
+    },
+    {
       "dropped": "willamette_week:18893389@2026-11-07T23:30",
       "kept": "ticketmaster:rZ7HnEZ1Afv3-V",
       "start_at": "2026-11-07T23:30:00-08:00",
@@ -4281,9 +4305,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6089,
-  "floor_check": "6089 events against a 6088-event baseline",
-  "generated_at": "2026-11-04T17:08:16+00:00",
+  "event_count": 6143,
+  "floor_check": "6143 events against a 6089-event baseline",
+  "generated_at": "2026-11-04T18:04:18+00:00",
   "problems": [],
   "sources": [
     "calagator",
