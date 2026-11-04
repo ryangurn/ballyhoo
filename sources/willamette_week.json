@@ -87,6 +87,34 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "id": "willamette_week:20335263@2026-11-04T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8ffef52b-21a2-4124-80b5-ca7efe843d8b.large.png",
+      "is_all_day": true,
+      "listing_url": "https://pdxparent.com/event-single/wildwood-at-omsis-empirical-theater/2026-11-04/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-04T00:00:00-08:00",
+      "summary": "Wildwood is a handcrafted epic fantasy that transports audiences into a secret, dangerously alive world. A girl’s desperate quest to save her baby brother unfolds into a spectacular, high-stakes adventure through a forbidden forest full of enchanted creatures, endearing allies, and formidable adversaries — where an entire hidden realm hangs in the balance. In an era of automation, LAIKA delivers its most ambitious and globally accessible film yet — a bold fusion of human-crafted artistry and cinematic storytelling from the makers of Coraline. Duration: 2h 19m | Rating: PG-13 | CC and AD Available | Accessible Entrance Available Tickets $9 Adults, $8 Seniors, $7 Youth | OMSI Members receive 50% admission for this screening Member Empirical vouchers are not applicable.",
+      "title": "Wildwood at OMSI's Empirical Theater",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "id": "willamette_week:20334126@2026-11-04T00:00",
@@ -137,34 +165,6 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "O"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "id": "willamette_week:20335263@2026-11-04T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8ffef52b-21a2-4124-80b5-ca7efe843d8b.large.png",
-      "is_all_day": true,
-      "listing_url": "https://pdxparent.com/event-single/wildwood-at-omsis-empirical-theater/2026-11-04/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-04T00:00:00-08:00",
-      "summary": "Wildwood is a handcrafted epic fantasy that transports audiences into a secret, dangerously alive world. A girl’s desperate quest to save her baby brother unfolds into a spectacular, high-stakes adventure through a forbidden forest full of enchanted creatures, endearing allies, and formidable adversaries — where an entire hidden realm hangs in the balance. In an era of automation, LAIKA delivers its most ambitious and globally accessible film yet — a bold fusion of human-crafted artistry and cinematic storytelling from the makers of Coraline. Duration: 2h 19m | Rating: PG-13 | CC and AD Available | Accessible Entrance Available Tickets $9 Adults, $8 Seniors, $7 Youth | OMSI Members receive 50% admission for this screening Member Empirical vouchers are not applicable.",
-      "title": "Wildwood at OMSI's Empirical Theater",
-      "venue": {
-        "address": "1945 SE Water Ave",
-        "city": "Portland",
-        "latitude": 45.508437953549475,
-        "longitude": -122.66602451429013,
-        "name": "OMSI"
       }
     },
     {
@@ -2841,6 +2841,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-04T21:45:00-08:00",
+      "id": "willamette_week:20337312@2026-11-04T18:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-04T18:15:00-08:00",
+      "title": "Angie's Self-Taping Class",
+      "venue": {
+        "address": "2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507610321,
+        "longitude": -122.6554260254,
+        "name": "Shoebox Theatre"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-11-04T20:00:00-08:00",
@@ -3075,6 +3102,37 @@
         "latitude": 45.5588302612,
         "longitude": -122.634552002,
         "name": "Alberta Rose Theatre"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-04T21:00:00-08:00",
+      "id": "willamette_week:20335398@2026-11-04T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/829a3082-a9fc-4380-9f47-f2c59537aa8d.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.zesticarts.com/events",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 5.0,
+        "min": 5.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-04T19:00:00-08:00",
+      "summary": "Zesti Food Carts hosts line dancing lessons Wednesday, Nov. 4, from 7 to 9 p.m. All ages are welcome; there is a $5 cover.",
+      "title": "Line Dancing Lessons at Zesti",
+      "venue": {
+        "address": "2131 Yew St",
+        "city": "Forest Grove",
+        "latitude": 45.521667,
+        "longitude": -123.07226,
+        "name": "Zesti Food Carts"
       }
     },
     {
@@ -11022,35 +11080,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-11-06T11:15:00-08:00",
-      "id": "willamette_week:20131151@2026-11-06T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1208",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T10:30:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "17917 SE Stark Street",
-        "city": "Portland",
-        "latitude": 45.51951806199975,
-        "longitude": -122.47906864110425,
-        "name": "Rockwood Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-11-06T11:00:00-08:00",
       "id": "willamette_week:20131150@2026-11-06T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
@@ -11074,6 +11103,35 @@
         "latitude": 45.582817572658264,
         "longitude": -122.68645335011975,
         "name": "Kenton Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-06T11:15:00-08:00",
+      "id": "willamette_week:20131151@2026-11-06T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1208",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T10:30:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "17917 SE Stark Street",
+        "city": "Portland",
+        "latitude": 45.51951806199975,
+        "longitude": -122.47906864110425,
+        "name": "Rockwood Library"
       }
     },
     {
@@ -11438,35 +11496,6 @@
         "family"
       ],
       "end_at": "2026-11-06T12:00:00-08:00",
-      "id": "willamette_week:20131149@2026-11-06T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1172",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-06T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-06T12:00:00-08:00",
       "id": "willamette_week:20131153@2026-11-06T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
       "is_all_day": false,
@@ -11489,6 +11518,35 @@
         "latitude": 45.478934715870885,
         "longitude": -122.61206954232797,
         "name": "Woodstock Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-06T12:00:00-08:00",
+      "id": "willamette_week:20131149@2026-11-06T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1172",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-06T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -16629,6 +16687,35 @@
         "outdoors"
       ],
       "end_at": "2026-11-07T13:00:00-08:00",
+      "id": "willamette_week:19747011@2026-11-07T08:45",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/05279b70-3309-4955-ba50-64e46560ff02.large.png",
+      "is_all_day": false,
+      "listing_url": "http://friendsoftrees.org/youthwaiver",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-07T08:45:00-08:00",
+      "summary": "======= Due to popular support, this event is full and closed. Please consider signing-up for any other open event -- we hope to plant with you soon! ======= Join Friends of Trees for some planting fun with the City of Tualatin. We'll be planting hundreds of native trees and shrubs along Saum Creek at Atfalati Park to enhance habitat and support a healthy Tualatin River Watershed! Your support is crucial to the success of this project! Please arrive by 8:45am to sign-in and be assigned a planting crew. The planting starts at 9:00am. We provide gloves, tools, and planting guidance, as well as breakfast snacks and coffee/tea/hot chocolate -- all you need to do is show up dressed for the weather wearing sturdy shoes or boots, and be ready to have fun! Under age 18? We request that youth 15 and under volunteer with a parent/guardian. Youth 16 and older can volunteer on their own and will need to hand us a youth waiver form signed by their parent/guardian. Questions? Please check out our Volunteer FAQ webpage . Our team is also happy to assist! Reach us at volunteer@friendsoftrees.org volunteer@friendsoftrees.org or 503-595-0213. We look forward to planting together soon! This event is in partnership with the City of Tualatin.",
+      "title": "FULL - Atfalati Park planting",
+      "venue": {
+        "address": "6600 SW Sagert St",
+        "city": "Tualatin",
+        "latitude": 45.373972,
+        "longitude": -122.745633,
+        "name": "Tualatin"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-11-07T13:00:00-08:00",
       "id": "willamette_week:19747035@2026-11-07T08:45",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/288da7f4-a0a9-48c8-96f9-4b2c39a6ef09.large.png",
       "is_all_day": false,
@@ -16651,35 +16738,6 @@
         "latitude": 45.501427,
         "longitude": -122.990207,
         "name": "Hillsboro"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "end_at": "2026-11-07T13:00:00-08:00",
-      "id": "willamette_week:19747011@2026-11-07T08:45",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/05279b70-3309-4955-ba50-64e46560ff02.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.tfaforms.com/4840511?tfa_26=a0TPa00001m5iqs&tfa_2189=Atfalati%20Park%20planting&tfa_31=a0VPa00000Mg9fF&tfa_45=Tree%20Planter%2C%20%20at%20November%207%2C%202026%20at%208:45%20am&tfa_2190=2026-11-07&tfa_49=4.25&tfa_886=Standard%20FOT&tfa_51=offsite",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-07T08:45:00-08:00",
-      "summary": "Join Friends of Trees for some planting fun with the City of Tualatin. We'll be planting hundreds of native trees and shrubs along Saum Creek at Atfalati Park to enhance habitat and support a healthy Tualatin River Watershed! Your support is crucial to the success of this project! Please arrive by 8:45am to sign-in and be assigned a planting crew. The planting starts at 9:00am. We provide gloves, tools, and planting guidance, as well as breakfast snacks and coffee/tea/hot chocolate -- all you need to do is show up dressed for the weather wearing sturdy shoes or boots, and be ready to have fun! How do I register? Register by filling out this quick form . Groups, families, and individuals welcome! Under age 18? We request that youth 15 and under volunteer with a parent/guardian. Youth 16 and older can volunteer on their own and will need to hand us a youth waiver form signed by their parent/guardian. Questions? Please check out our Volunteer FAQ webpage . Our team is also happy to assist! Reach us at volunteer@friendsoftrees.org volunteer@friendsoftrees.org or 503-595-0213. We look forward to planting together soon! This event is in partnership with the City of Tualatin.",
-      "title": "Atfalati Park planting",
-      "venue": {
-        "address": "6600 SW Sagert St",
-        "city": "Tualatin",
-        "latitude": 45.373972,
-        "longitude": -122.745633,
-        "name": "Tualatin"
       }
     },
     {
@@ -20181,7 +20239,7 @@
       },
       "start_at": "2026-11-07T18:00:00-08:00",
       "summary": "Sunset Speedway Park's 2026 awards banquet takes place at 6 p.m. at Schlegel Hall in Banks, per the track's event listing.",
-      "title": "2026 Awards Banquet",
+      "title": "Sunset Speedway Awards Banquet",
       "venue": {
         "address": "12765 NW Main Street",
         "city": "Banks",
@@ -22144,6 +22202,35 @@
         "latitude": 45.521071,
         "longitude": -123.112495,
         "name": "Bullets, Burgers and Brews"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20336853@2026-11-07T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3TMmX7GQY06i6QnK8f60Cg.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-07T20:00:00-08:00",
+      "summary": "Flame Presents: the Danciversary of the uninhibited records of 1956! A vintage vinyl dance party!",
+      "title": "DJ ACTION SLACKS",
+      "venue": {
+        "address": "2025 N Kilpatrick St",
+        "city": "Portland",
+        "latitude": 45.582611084,
+        "longitude": -122.6875534058,
+        "name": "Kenton Club"
       }
     },
     {
@@ -29252,6 +29339,35 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-09T21:30:00-08:00",
+      "id": "willamette_week:20337310@2026-11-09T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
+      "is_all_day": false,
+      "listing_url": "https://21ten.stageworks.com/programs/return-to-truth&sa=D&source=calendar&ust=1794182251320784&usg=AOvVaw32sY7qSVoBgvvHAFBWgmqD",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-09T18:30:00-08:00",
+      "summary": "SIGNUPS",
+      "title": "Chris Harder's Mesiner Tech Class",
+      "venue": {
+        "address": "2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507610321,
+        "longitude": -122.6554260254,
+        "name": "Shoebox Theatre"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-11-09T19:30:00-08:00",
@@ -32384,6 +32500,33 @@
         "latitude": 45.519739362023536,
         "longitude": -122.98561036441757,
         "name": "Hillsboro Downtown Station"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-10T21:45:00-08:00",
+      "id": "willamette_week:20337311@2026-11-10T18:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-10T18:15:00-08:00",
+      "title": "Ted's OCIII",
+      "venue": {
+        "address": "2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507610321,
+        "longitude": -122.6554260254,
+        "name": "Shoebox Theatre"
       }
     },
     {
@@ -35972,6 +36115,33 @@
         "latitude": 45.519786,
         "longitude": -123.1123,
         "name": "The Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-11T21:45:00-08:00",
+      "id": "willamette_week:20337312@2026-11-11T18:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-11T18:15:00-08:00",
+      "title": "Angie's Self-Taping Class",
+      "venue": {
+        "address": "2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507610321,
+        "longitude": -122.6554260254,
+        "name": "Shoebox Theatre"
       }
     },
     {
@@ -43236,35 +43406,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-11-13T11:00:00-08:00",
-      "id": "willamette_week:20131150@2026-11-13T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1041",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T10:30:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-11-13T11:15:00-08:00",
       "id": "willamette_week:20131151@2026-11-13T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
@@ -43288,6 +43429,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-13T11:00:00-08:00",
+      "id": "willamette_week:20131150@2026-11-13T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1041",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T10:30:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -43623,35 +43793,6 @@
         "family"
       ],
       "end_at": "2026-11-13T12:00:00-08:00",
-      "id": "willamette_week:20131153@2026-11-13T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1133",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-13T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "6008 SE 49th Avenue",
-        "city": "Portland",
-        "latitude": 45.478934715870885,
-        "longitude": -122.61206954232797,
-        "name": "Woodstock Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-13T12:00:00-08:00",
       "id": "willamette_week:20131149@2026-11-13T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -43674,6 +43815,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-13T12:00:00-08:00",
+      "id": "willamette_week:20131153@2026-11-13T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1133",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-13T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "6008 SE 49th Avenue",
+        "city": "Portland",
+        "latitude": 45.478934715870885,
+        "longitude": -122.61206954232797,
+        "name": "Woodstock Library"
       }
     },
     {
@@ -51371,6 +51541,38 @@
         "latitude": 45.490504558338586,
         "longitude": -122.58224808281963,
         "name": "Holgate Library"
+      }
+    },
+    {
+      "categories": [
+        "market"
+      ],
+      "end_at": "2026-11-14T18:00:00-08:00",
+      "id": "willamette_week:20339305@2026-11-14T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xj0l5OgbF0agMuB5kEG0iA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/division-street-fall-wine-walk-tickets-2003685811199?aff=oddtdtcreator",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 71.0,
+        "min": 45.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-14T15:00:00-08:00",
+      "summary": "Join us for an evening of shopping and sipping on SE Division! Ticket includes tastings from 9 wineries, a wine tote & glass. Taste wine from local wineries at retail shops between 34th & 39th Avenues on SE Division. Registration and tasting will start at Modhaus, the brand new food cart pod, bar and coffee shop, located at 3829 SE Division. Sip local, shop small, build community!",
+      "ticket_url": "https://www.eventbrite.com/e/division-street-fall-wine-walk-tickets-2003685811199?aff=oddtdtcreator",
+      "title": "Division Street Fall Wine Walk",
+      "venue": {
+        "address": "3829 SE Division St",
+        "city": "Portland",
+        "latitude": 45.504978,
+        "longitude": -122.623593,
+        "name": "Modhaus"
       }
     },
     {
@@ -60056,6 +60258,35 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-16T21:30:00-08:00",
+      "id": "willamette_week:20337310@2026-11-16T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
+      "is_all_day": false,
+      "listing_url": "https://21ten.stageworks.com/programs/return-to-truth&sa=D&source=calendar&ust=1794182251320784&usg=AOvVaw32sY7qSVoBgvvHAFBWgmqD",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-16T18:30:00-08:00",
+      "summary": "SIGNUPS",
+      "title": "Chris Harder's Mesiner Tech Class",
+      "venue": {
+        "address": "2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507610321,
+        "longitude": -122.6554260254,
+        "name": "Shoebox Theatre"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:20169629@2026-11-16T18:30",
@@ -62438,6 +62669,37 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "end_at": "2026-11-17T18:30:00-08:00",
+      "id": "willamette_week:20339431@2026-11-17T17:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5Y21__8u_E2ksQMx0pexrw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://boldcoffeeandbooks.com/events",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-17T17:30:00-08:00",
+      "summary": "Join us for an in-person Q&A about the publishing process, the business of writing, and the book world in general. If you have questions about how to start your publishing journey, or about how to get past a road block on your path to publication, bring them!",
+      "title": "Book Publishing Q&A with Ali Shaw",
+      "venue": {
+        "address": "1755 SW Jefferson St",
+        "city": "Portland",
+        "latitude": 45.518075888976746,
+        "longitude": -122.69239821935362,
+        "name": "Bold Coffee & Books"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-11-17T19:30:00-08:00",
@@ -62983,6 +63245,33 @@
         "latitude": 45.519739362023536,
         "longitude": -122.98561036441757,
         "name": "Hillsboro Downtown Station"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-17T21:45:00-08:00",
+      "id": "willamette_week:20337309@2026-11-17T18:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-17T18:15:00-08:00",
+      "title": "Kate's Laban Class",
+      "venue": {
+        "address": "2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507610321,
+        "longitude": -122.6554260254,
+        "name": "Shoebox Theatre"
       }
     },
     {
@@ -65936,6 +66225,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-18T21:45:00-08:00",
+      "id": "willamette_week:20337312@2026-11-18T18:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-18T18:15:00-08:00",
+      "title": "Angie's Self-Taping Class",
+      "venue": {
+        "address": "2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507610321,
+        "longitude": -122.6554260254,
+        "name": "Shoebox Theatre"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-11-18T19:30:00-08:00",
@@ -66058,6 +66374,33 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:14778366@2026-11-18T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M_PNmTXsB0uZoPrZWydJ_g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.dundeecity.org/index.asp?SEC=5B5C4FDE-4FE7-4347-879F-139084E743F8&DE=FF520FFB-EF2C-4934-9BA0-9018FFA3D9A8",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-18T19:00:00-08:00",
+      "summary": "City of Dundee",
+      "title": "Planning Commission Meeting",
+      "venue": {
+        "city": "Dundee",
+        "latitude": 45.27817,
+        "longitude": -123.01094,
+        "name": "Dundee"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-11-18T20:00:00-08:00",
@@ -66086,33 +66429,6 @@
         "latitude": 45.301707,
         "longitude": -122.955573,
         "name": "Rebuilt Fitness"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "willamette_week:14778366@2026-11-18T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M_PNmTXsB0uZoPrZWydJ_g.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.dundeecity.org/index.asp?SEC=5B5C4FDE-4FE7-4347-879F-139084E743F8&DE=FF520FFB-EF2C-4934-9BA0-9018FFA3D9A8",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-18T19:00:00-08:00",
-      "summary": "City of Dundee",
-      "title": "Planning Commission Meeting",
-      "venue": {
-        "city": "Dundee",
-        "latitude": 45.27817,
-        "longitude": -123.01094,
-        "name": "Dundee"
       }
     },
     {
@@ -72941,35 +73257,6 @@
         "family"
       ],
       "end_at": "2026-11-20T11:00:00-08:00",
-      "id": "willamette_week:20131149@2026-11-20T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1095",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-20T10:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-20T11:00:00-08:00",
       "id": "willamette_week:20131148@2026-11-20T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
       "is_all_day": false,
@@ -72992,6 +73279,35 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-20T11:00:00-08:00",
+      "id": "willamette_week:20131149@2026-11-20T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1095",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T10:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -73530,35 +73846,6 @@
         "family"
       ],
       "end_at": "2026-11-20T12:00:00-08:00",
-      "id": "willamette_week:20131149@2026-11-20T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1174",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-20T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-20T12:00:00-08:00",
       "id": "willamette_week:20131153@2026-11-20T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
       "is_all_day": false,
@@ -73581,6 +73868,35 @@
         "latitude": 45.478934715870885,
         "longitude": -122.61206954232797,
         "name": "Woodstock Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-20T12:00:00-08:00",
+      "id": "willamette_week:20131149@2026-11-20T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1174",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -74739,6 +75055,7 @@
       "id": "willamette_week:20272281@2026-11-20T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/58ff68ef-da8d-4e28-979f-f622b4582c8d.large.png",
       "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/10-first-dates-award-winning-play-tickets-2004047359600",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -74749,7 +75066,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-11-20T18:00:00-08:00",
-      "summary": "After 25 years of marriage, Maggie Callahan finds herself newly single and thrown into the chaotic world of modern dating. Armed with nothing but a martini and a sense of humor, she endures 10 wildly different first dates, from a narcissistic influencer to a spiritual guru who won't stop trying to balance her chakras. As Maggie faces the absurd realities of dating apps, mismatched personalities, and midlife crises, she begins to realize that love is more complicated-and hilarious-than she ever imagined. 10 First Dates is a comedic exploration of relationships, self-discovery, and the unexpected joys of being single. CW: Please note that the script contains profanity, sexual misconduct, and vague reference to sexual violence. Runtime: approx 60-75 min Tickets on sale November 1st",
+      "summary": "BOOK TICKETS HERE After 25 years of marriage, Maggie Callahan finds herself newly single and thrown into the chaotic world of modern dating. Armed with nothing but a martini and a sense of humor, she endures 10 wildly different first dates, from a narcissistic influencer to a spiritual guru who won't stop trying to balance her chakras. As Maggie faces the absurd realities of dating apps, mismatched personalities, and midlife crises, she begins to realize that love is more complicated-and hilarious-than she ever imagined. 10 First Dates is a comedic exploration of relationships, self-discovery, and the unexpected joys of being single. CW: Please note that the script contains profanity, sexual misconduct, and vague reference to sexual violence. Runtime: approx 60-75 min",
       "title": "10 First Dates, a new play by Christine Rose",
       "venue": {
         "address": "21ten Theatre, 2110 SE 10th Ave",
@@ -80950,6 +81267,35 @@
       "categories": [
         "food"
       ],
+      "end_at": "2026-11-21T21:30:00-08:00",
+      "id": "willamette_week:20272281@2026-11-21T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/58ff68ef-da8d-4e28-979f-f622b4582c8d.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/10-first-dates-award-winning-play-tickets-2004047359600",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-21T18:00:00-08:00",
+      "summary": "BOOK TICKETS HERE After 25 years of marriage, Maggie Callahan finds herself newly single and thrown into the chaotic world of modern dating. Armed with nothing but a martini and a sense of humor, she endures 10 wildly different first dates, from a narcissistic influencer to a spiritual guru who won't stop trying to balance her chakras. As Maggie faces the absurd realities of dating apps, mismatched personalities, and midlife crises, she begins to realize that love is more complicated-and hilarious-than she ever imagined. 10 First Dates is a comedic exploration of relationships, self-discovery, and the unexpected joys of being single. CW: Please note that the script contains profanity, sexual misconduct, and vague reference to sexual violence. Runtime: approx 60-75 min",
+      "title": "10 First Dates, a new play by Christine Rose",
+      "venue": {
+        "address": "21ten Theatre, 2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507608,
+        "longitude": -122.655396,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
       "end_at": "2026-11-21T21:00:00-08:00",
       "id": "willamette_week:20327524@2026-11-21T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nXXUmMQd80u-Q8iruteo_Q.large.jpg",
@@ -80976,34 +81322,6 @@
         "latitude": 45.581145,
         "longitude": -122.719953,
         "name": "Triple Afriq Restaurant"
-      }
-    },
-    {
-      "categories": [
-        "food"
-      ],
-      "end_at": "2026-11-21T21:30:00-08:00",
-      "id": "willamette_week:20272281@2026-11-21T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/58ff68ef-da8d-4e28-979f-f622b4582c8d.large.png",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-21T18:00:00-08:00",
-      "summary": "After 25 years of marriage, Maggie Callahan finds herself newly single and thrown into the chaotic world of modern dating. Armed with nothing but a martini and a sense of humor, she endures 10 wildly different first dates, from a narcissistic influencer to a spiritual guru who won't stop trying to balance her chakras. As Maggie faces the absurd realities of dating apps, mismatched personalities, and midlife crises, she begins to realize that love is more complicated-and hilarious-than she ever imagined. 10 First Dates is a comedic exploration of relationships, self-discovery, and the unexpected joys of being single. CW: Please note that the script contains profanity, sexual misconduct, and vague reference to sexual violence. Runtime: approx 60-75 min Tickets on sale November 1st",
-      "title": "10 First Dates, a new play by Christine Rose",
-      "venue": {
-        "address": "21ten Theatre, 2110 SE 10th Ave",
-        "city": "Portland",
-        "latitude": 45.507608,
-        "longitude": -122.655396,
-        "name": "Portland"
       }
     },
     {
@@ -84306,6 +84624,7 @@
       "id": "willamette_week:20272281@2026-11-22T12:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/58ff68ef-da8d-4e28-979f-f622b4582c8d.large.png",
       "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/10-first-dates-award-winning-play-tickets-2004047359600",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -84316,7 +84635,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-11-22T12:30:00-08:00",
-      "summary": "After 25 years of marriage, Maggie Callahan finds herself newly single and thrown into the chaotic world of modern dating. Armed with nothing but a martini and a sense of humor, she endures 10 wildly different first dates, from a narcissistic influencer to a spiritual guru who won't stop trying to balance her chakras. As Maggie faces the absurd realities of dating apps, mismatched personalities, and midlife crises, she begins to realize that love is more complicated-and hilarious-than she ever imagined. 10 First Dates is a comedic exploration of relationships, self-discovery, and the unexpected joys of being single. CW: Please note that the script contains profanity, sexual misconduct, and vague reference to sexual violence. Runtime: approx 60-75 min Tickets on sale November 1st",
+      "summary": "BOOK TICKETS HERE After 25 years of marriage, Maggie Callahan finds herself newly single and thrown into the chaotic world of modern dating. Armed with nothing but a martini and a sense of humor, she endures 10 wildly different first dates, from a narcissistic influencer to a spiritual guru who won't stop trying to balance her chakras. As Maggie faces the absurd realities of dating apps, mismatched personalities, and midlife crises, she begins to realize that love is more complicated-and hilarious-than she ever imagined. 10 First Dates is a comedic exploration of relationships, self-discovery, and the unexpected joys of being single. CW: Please note that the script contains profanity, sexual misconduct, and vague reference to sexual violence. Runtime: approx 60-75 min",
       "title": "10 First Dates, a new play by Christine Rose",
       "venue": {
         "address": "21ten Theatre, 2110 SE 10th Ave",
@@ -85478,6 +85797,7 @@
       "id": "willamette_week:20272281@2026-11-22T18:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/58ff68ef-da8d-4e28-979f-f622b4582c8d.large.png",
       "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/10-first-dates-award-winning-play-tickets-2004047359600",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -85489,6 +85809,7 @@
       },
       "start_at": "2026-11-22T18:00:00-08:00",
       "summary": "After 25 years of marriage, Maggie Callahan finds herself newly single and thrown into the chaotic world of modern dating. Armed with nothing but a martini and a sense of humor, she endures 10 wildly different first dates, from a narcissistic influencer to a spiritual guru who won't stop trying to balance her chakras. As Maggie faces the absurd realities of dating apps, mismatched personalities, and midlife crises, she begins to realize that love is more complicated-and hilarious-than she ever imagined. 10 First Dates is a comedic exploration of relationships, self-discovery, and the unexpected joys of being single. CW: Please note that the script contains profanity, sexual misconduct, and vague reference to sexual violence. Runtime: approx 60-75 min Tickets on sale November 1st",
+      "ticket_url": "https://www.eventbrite.com/e/10-first-dates-award-winning-play-tickets-2004047359600",
       "title": "10 First Dates, a new play by Christine Rose",
       "venue": {
         "address": "21ten Theatre, 2110 SE 10th Ave",
@@ -89749,6 +90070,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-24T21:45:00-08:00",
+      "id": "willamette_week:20337311@2026-11-24T18:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-24T18:15:00-08:00",
+      "title": "Ted's OCIII",
+      "venue": {
+        "address": "2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507610321,
+        "longitude": -122.6554260254,
+        "name": "Shoebox Theatre"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-11-24T19:00:00-08:00",
@@ -92258,6 +92606,33 @@
         "latitude": 45.5197386178146,
         "longitude": -123.05865727043835,
         "name": "Cornelius Public Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-25T21:45:00-08:00",
+      "id": "willamette_week:20337312@2026-11-25T18:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-25T18:15:00-08:00",
+      "title": "Angie's Self-Taping Class",
+      "venue": {
+        "address": "2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507610321,
+        "longitude": -122.6554260254,
+        "name": "Shoebox Theatre"
       }
     },
     {
@@ -106725,6 +107100,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-12-01T21:45:00-08:00",
+      "id": "willamette_week:20337311@2026-12-01T18:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-01T18:15:00-08:00",
+      "title": "Ted's OCIII",
+      "venue": {
+        "address": "2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507610321,
+        "longitude": -122.6554260254,
+        "name": "Shoebox Theatre"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-12-01T19:00:00-08:00",
@@ -109019,6 +109421,33 @@
         "latitude": 45.518793,
         "longitude": -123.110071,
         "name": "Forest Grove Fire & Rescue"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-12-02T21:45:00-08:00",
+      "id": "willamette_week:20337312@2026-12-02T18:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-02T18:15:00-08:00",
+      "title": "Angie's Self-Taping Class",
+      "venue": {
+        "address": "2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507610321,
+        "longitude": -122.6554260254,
+        "name": "Shoebox Theatre"
       }
     },
     {
@@ -111582,6 +112011,35 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-12-03T21:30:00-08:00",
+      "id": "willamette_week:20272281@2026-12-03T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/58ff68ef-da8d-4e28-979f-f622b4582c8d.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/10-first-dates-award-winning-play-tickets-2004047359600",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-03T18:00:00-08:00",
+      "summary": "BOOK TICKETS HERE After 25 years of marriage, Maggie Callahan finds herself newly single and thrown into the chaotic world of modern dating. Armed with nothing but a martini and a sense of humor, she endures 10 wildly different first dates, from a narcissistic influencer to a spiritual guru who won't stop trying to balance her chakras. As Maggie faces the absurd realities of dating apps, mismatched personalities, and midlife crises, she begins to realize that love is more complicated-and hilarious-than she ever imagined. 10 First Dates is a comedic exploration of relationships, self-discovery, and the unexpected joys of being single. CW: Please note that the script contains profanity, sexual misconduct, and vague reference to sexual violence. Runtime: approx 60-75 min",
+      "title": "10 First Dates, a new play by Christine Rose",
+      "venue": {
+        "address": "21ten Theatre, 2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507608,
+        "longitude": -122.655396,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "id": "willamette_week:20247006@2026-12-03T18:00",
@@ -114039,35 +114497,6 @@
         "family"
       ],
       "end_at": "2026-12-04T12:00:00-08:00",
-      "id": "willamette_week:20131149@2026-12-04T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1176",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-04T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-12-04T12:00:00-08:00",
       "id": "willamette_week:20131153@2026-12-04T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
       "is_all_day": false,
@@ -114090,6 +114519,35 @@
         "latitude": 45.478934715870885,
         "longitude": -122.61206954232797,
         "name": "Woodstock Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-12-04T12:00:00-08:00",
+      "id": "willamette_week:20131149@2026-12-04T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1176",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-04T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -114974,6 +115432,35 @@
         "latitude": 45.30012,
         "longitude": -122.97316,
         "name": "Tacoma, Wash"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "end_at": "2026-12-04T21:30:00-08:00",
+      "id": "willamette_week:20272281@2026-12-04T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/58ff68ef-da8d-4e28-979f-f622b4582c8d.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/10-first-dates-award-winning-play-tickets-2004047359600",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-04T18:00:00-08:00",
+      "summary": "BOOK TICKETS HERE After 25 years of marriage, Maggie Callahan finds herself newly single and thrown into the chaotic world of modern dating. Armed with nothing but a martini and a sense of humor, she endures 10 wildly different first dates, from a narcissistic influencer to a spiritual guru who won't stop trying to balance her chakras. As Maggie faces the absurd realities of dating apps, mismatched personalities, and midlife crises, she begins to realize that love is more complicated-and hilarious-than she ever imagined. 10 First Dates is a comedic exploration of relationships, self-discovery, and the unexpected joys of being single. CW: Please note that the script contains profanity, sexual misconduct, and vague reference to sexual violence. Runtime: approx 60-75 min",
+      "title": "10 First Dates, a new play by Christine Rose",
+      "venue": {
+        "address": "21ten Theatre, 2110 SE 10th Ave",
+        "city": "Portland",
+        "latitude": 45.507608,
+        "longitude": -122.655396,
+        "name": "Portland"
       }
     },
     {
@@ -116612,7 +117099,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-04T18:01:49+00:00",
+  "generated_at": "2026-11-04T23:44:19+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
