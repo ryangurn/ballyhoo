@@ -3521,22 +3521,6 @@
       "venue": "Hillsdale Farmers Market"
     },
     {
-      "dropped": "willamette_week:20169134@2026-11-25T14:00",
-      "kept": "ticketmaster:Z7r9jZ1AAvbfv",
-      "start_at": "2026-11-25T14:00:00-08:00",
-      "title_dropped": "Little Shop of Horrors",
-      "title_kept": "Little Shop of Horrors",
-      "venue": "Portland Center Stage"
-    },
-    {
-      "dropped": "obt:866",
-      "kept": "ticketmaster:Z7r9jZ1AAvzF8",
-      "start_at": "2026-12-23T14:00:00-08:00",
-      "title_dropped": "George Balanchine's The Nutcracker",
-      "title_kept": "George Balanchine's The Nutcracker w/ Oregon Ballet Theatre Orchestra",
-      "venue": "Keller Auditorium"
-    },
-    {
       "dropped": "obt:830",
       "kept": "ticketmaster:Z7r9jZ1AAvzk3",
       "start_at": "2026-12-05T14:00:00-08:00",
@@ -3665,6 +3649,14 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "obt:866",
+      "kept": "ticketmaster:Z7r9jZ1AAvzF8",
+      "start_at": "2026-12-23T14:00:00-08:00",
+      "title_dropped": "George Balanchine's The Nutcracker",
+      "title_kept": "George Balanchine's The Nutcracker w/ Oregon Ballet Theatre Orchestra",
+      "venue": "Keller Auditorium"
+    },
+    {
       "dropped": "obt:867",
       "kept": "ticketmaster:Z7r9jZ1AAvzFo",
       "start_at": "2026-12-23T19:30:00-08:00",
@@ -3775,6 +3767,14 @@
       "title_dropped": "SMASH disco~glam~metal~punk-hiphop",
       "title_kept": "SMASH disco~glam~metal~punk-hiphop",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:20169134@2026-11-25T14:00",
+      "kept": "ticketmaster:Z7r9jZ1AAvbfv",
+      "start_at": "2026-11-25T14:00:00-08:00",
+      "title_dropped": "Little Shop of Horrors",
+      "title_kept": "Little Shop of Horrors",
+      "venue": "Portland Center Stage"
     },
     {
       "dropped": "willamette_week:19679609@2026-11-25T19:00",
@@ -4281,9 +4281,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6095,
-  "floor_check": "6095 events against a 6060-event baseline",
-  "generated_at": "2026-11-04T06:10:20+00:00",
+  "event_count": 6077,
+  "floor_check": "6077 events against a 6061-event baseline",
+  "generated_at": "2026-11-04T06:47:27+00:00",
   "problems": [],
   "sources": [
     "calagator",
