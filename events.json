@@ -15414,38 +15414,6 @@
       "categories": [
         "civic"
       ],
-      "end_at": "2026-11-04T14:59:00-08:00",
-      "id": "oregon_metro:metropolitan-exposition-recreation-commission-meeting-2026-11-04",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metropolitan-exposition-recreation-commission-meeting-2026-11-04",
-      "merged_sources": [
-        "oregon_metro",
-        "willamette_week"
-      ],
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-04T12:30:00-08:00",
-      "summary": "CANVAS 2026 is the premier gathering for those whose passion lies in the science of our planet. From the chemistry of the soil to the resilience of our crops, we bring together a diverse ecosystem of researchers, academics, students, and professionals. Engage in vibrant plenary sessions, find your next collaborator in a specialized workshop, or discover a mentor who will change your career trajectory. Between the rigorous scientific exchange and the celebration of our community at the annual award banquets, you’ll find an environment where every conversation is an opportunity for success. Registration Required",
-      "title": "Metropolitan Exposition Recreation Commission meeting",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.52832,
-        "longitude": -122.66311,
-        "name": "Oregon Convention Center"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "end_at": "2026-11-04T14:30:00-08:00",
       "id": "willamette_week:20131154@2026-11-04T12:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Lz40pcMqE0G5tCf3_cAMkQ.large.png",
@@ -15498,6 +15466,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-04T14:59:00-08:00",
+      "id": "willamette_week:19571062@2026-11-04T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iTMuY-SGXEeb5x71qE1-zg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.oregoncc.org/attend/events/2026/10/canvas-2026",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-04T13:00:00-08:00",
+      "summary": "CANVAS 2026 is the premier gathering for those whose passion lies in the science of our planet. From the chemistry of the soil to the resilience of our crops, we bring together a diverse ecosystem of researchers, academics, students, and professionals. Engage in vibrant plenary sessions, find your next collaborator in a specialized workshop, or discover a mentor who will change your career trajectory. Between the rigorous scientific exchange and the celebration of our community at the annual award banquets, you’ll find an environment where every conversation is an opportunity for success. Registration Required",
+      "title": "CANVAS 2026",
+      "venue": {
+        "address": "777 NE Martin Luther King, Jr Blvd",
+        "city": "Portland",
+        "latitude": 45.5283737183,
+        "longitude": -122.6631393433,
+        "name": "Oregon Convention Center"
       }
     },
     {
@@ -180881,5 +180878,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-04T22:15:13+00:00"
+  "generated_at": "2026-11-04T22:43:52+00:00"
 }
