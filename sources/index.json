@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T20:13:46+00:00",
+  "generated_at": "2026-11-04T21:17:07+00:00",
   "sources": [
     {
       "event_count": 27,
@@ -19,7 +19,7 @@
       "event_count": 6,
       "last_run_at": "2026-11-04T14:23:41+00:00",
       "source_id": "hillsboro_farmers_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hillsboro_farmers_markets.json"
     },
     {
@@ -61,7 +61,7 @@
       "event_count": 32,
       "last_run_at": "2026-11-04T14:22:44+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
@@ -72,8 +72,8 @@
       "url": "sources/portland_parks.json"
     },
     {
-      "event_count": 906,
-      "last_run_at": "2026-11-04T14:25:28+00:00",
+      "event_count": 909,
+      "last_run_at": "2026-11-04T21:16:30+00:00",
       "source_id": "ticketmaster",
       "status": "ok",
       "url": "sources/ticketmaster.json"
