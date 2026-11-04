@@ -161649,6 +161649,28 @@
     },
     {
       "categories": [
+        "community",
+        "market"
+      ],
+      "end_at": "2026-12-26T23:59:59-08:00",
+      "id": "vancouver_farmers_market:closed-downtown-vancouver-farmers-market@2026-12-26",
+      "is_all_day": true,
+      "listing_url": "https://vancouverfarmersmarket.org/event/closed-downtown-vancouver-farmers-market/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2026-12-26T00:00:00-08:00",
+      "title": "CLOSED Downtown Vancouver Farmers Market"
+    },
+    {
+      "categories": [
         "sports"
       ],
       "id": "ticketmaster:vvG1HZ_2m_aECm",
@@ -162221,6 +162243,28 @@
         "longitude": -122.642799,
         "name": "Revolution Hall - Portland"
       }
+    },
+    {
+      "categories": [
+        "community",
+        "market"
+      ],
+      "end_at": "2027-01-02T23:59:59-08:00",
+      "id": "vancouver_farmers_market:closed-downtown-vancouver-farmers-market-2@2027-01-02",
+      "is_all_day": true,
+      "listing_url": "https://vancouverfarmersmarket.org/event/closed-downtown-vancouver-farmers-market-2/",
+      "organizer": "Vancouver Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "vancouver_farmers_market",
+        "name": "Vancouver Farmers Market",
+        "url": "https://vancouverfarmersmarket.org"
+      },
+      "start_at": "2027-01-02T00:00:00-08:00",
+      "title": "CLOSED Downtown Vancouver Farmers Market"
     },
     {
       "categories": [
@@ -179159,5 +179203,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-04T11:29:14+00:00"
+  "generated_at": "2026-11-04T13:44:56+00:00"
 }
