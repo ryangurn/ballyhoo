@@ -70995,6 +70995,29 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:mushroom-hike-2026-11-14-0",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/mushroom-hike-2026-11-14-0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-14T09:30:00-08:00",
+      "title": "Mushroom hike",
+      "venue": {
+        "city": "Portland",
+        "name": "Mount Talbert Nature Park"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-11-15T02:00:00-08:00",
@@ -181785,5 +181808,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-05T11:30:10+00:00"
+  "generated_at": "2026-11-05T12:35:18+00:00"
 }
