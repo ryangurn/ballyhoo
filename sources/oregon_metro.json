@@ -347,25 +347,6 @@
       "categories": [
         "civic"
       ],
-      "id": "oregon_metro:transport-meeting-2026-11-11",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/transport-meeting-2026-11-11",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-11T13:00:00-08:00",
-      "title": "TransPort meeting"
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "id": "oregon_metro:metro-council-meeting-2026-11-12",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/metro-council-meeting-2026-11-12",
@@ -671,6 +652,25 @@
       },
       "start_at": "2026-11-17T17:30:00-08:00",
       "title": "Smith and Bybee Wetlands Advisory Committee meeting"
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:transport-meeting-2026-11-18",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/transport-meeting-2026-11-18",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-18T13:00:00-08:00",
+      "title": "TransPort meeting"
     },
     {
       "categories": [
@@ -3574,7 +3574,7 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-05T12:33:10+00:00",
+  "generated_at": "2026-11-05T20:43:30+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
