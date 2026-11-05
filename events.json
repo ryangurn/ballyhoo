@@ -53411,25 +53411,6 @@
     },
     {
       "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:transport-meeting-2026-11-11",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/transport-meeting-2026-11-11",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-11T13:00:00-08:00",
-      "title": "TransPort meeting"
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-11-11T15:00:00-08:00",
@@ -92589,6 +92570,25 @@
         "longitude": -122.6826296747,
         "name": "Multnomah County Central Library"
       }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:transport-meeting-2026-11-18",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/transport-meeting-2026-11-18",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-18T13:00:00-08:00",
+      "title": "TransPort meeting"
     },
     {
       "categories": [
@@ -181930,5 +181930,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-05T20:27:07+00:00"
+  "generated_at": "2026-11-05T20:45:40+00:00"
 }
