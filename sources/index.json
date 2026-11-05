@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:54:01+00:00",
+  "generated_at": "2026-11-05T20:10:45+00:00",
   "sources": [
     {
       "event_count": 26,
@@ -31,9 +31,9 @@
     },
     {
       "event_count": 28,
-      "last_run_at": "2026-11-05T07:06:45+00:00",
+      "last_run_at": "2026-11-05T20:09:48+00:00",
       "source_id": "neighborhood_markets",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/neighborhood_markets.json"
     },
     {
@@ -82,7 +82,7 @@
       "event_count": 42,
       "last_run_at": "2026-11-05T13:56:01+00:00",
       "source_id": "vancouver_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/vancouver_farmers_market.json"
     },
     {
