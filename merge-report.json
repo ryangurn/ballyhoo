@@ -681,6 +681,14 @@
       "venue": "Can Can's Paris Theatre"
     },
     {
+      "dropped": "dopdx:17909758",
+      "kept": "ticketmaster:Z7r9jZ1AAe94Y",
+      "start_at": "2026-11-07T22:00:00-08:00",
+      "title_dropped": "GABRIEL & DRESDEN (OxC)",
+      "title_kept": "Gabriel & Dresden - Ages 21+",
+      "venue": "45 East"
+    },
+    {
       "dropped": "willamette_week:20322753@2026-11-07T22:00",
       "kept": "dopdx:17909758",
       "start_at": "2026-11-07T22:00:00-08:00",
@@ -1529,6 +1537,14 @@
       "venue": "Revolution Hall"
     },
     {
+      "dropped": "dopdx:17727470",
+      "kept": "ticketmaster:Z7r9jZ1AA79Ff",
+      "start_at": "2026-11-13T20:00:00-08:00",
+      "title_dropped": "Johnny Franco & His Real Brother Dom",
+      "title_kept": "Johnny Franco & His Real Brother Dom",
+      "venue": "Aladdin Theater"
+    },
+    {
       "dropped": "willamette_week:20169604@2026-11-13T20:00",
       "kept": "dopdx:17727470",
       "start_at": "2026-11-13T20:00:00-08:00",
@@ -2007,14 +2023,6 @@
       "title_dropped": "IRON CHIC with special guests",
       "title_kept": "Church Of Hive",
       "venue": "Star Theater"
-    },
-    {
-      "dropped": "willamette_week:20095177@2026-11-15T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1Afub-7",
-      "start_at": "2026-11-15T19:00:00-08:00",
-      "title_dropped": "LOUIE THE SINGER",
-      "title_kept": "LOUIE THESINGER",
-      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19736094@2026-11-15T19:30",
@@ -2835,7 +2843,7 @@
     {
       "dropped": "dopdx:17132430",
       "kept": "ticketmaster:Z7r9jZ1A7-VGd",
-      "start_at": "2026-11-21T20:01:00-08:00",
+      "start_at": "2026-11-21T20:00:00-08:00",
       "title_dropped": "Phoebe Robinson: Feral & Fired Up!",
       "title_kept": "Phoebe Robinson",
       "venue": "Revolution Hall - Portland"
@@ -3905,6 +3913,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19879856@2026-12-01T20:00",
+      "kept": "ticketmaster:Z7r9jZ1AA7U16",
+      "start_at": "2026-12-01T20:00:00-08:00",
+      "title_dropped": "A John Waters Christmas",
+      "title_kept": "A John Waters Christmas",
+      "venue": "Aladdin Theater"
+    },
+    {
       "dropped": "willamette_week:18195664@2026-12-02T19:30",
       "kept": "ticketmaster:Z7r9jZ1A7J38N",
       "start_at": "2026-12-02T19:30:00-08:00",
@@ -4201,9 +4217,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6166,
-  "floor_check": "6166 events against a 6160-event baseline",
-  "generated_at": "2026-11-06T19:49:19+00:00",
+  "event_count": 6175,
+  "floor_check": "6175 events against a 6160-event baseline",
+  "generated_at": "2026-11-06T20:52:12+00:00",
   "problems": [],
   "sources": [
     "calagator",
