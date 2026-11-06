@@ -169,6 +169,14 @@
       "venue": "Portland Center Stage"
     },
     {
+      "dropped": "willamette_week:20367101@2026-11-17T19:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfuN_f",
+      "start_at": "2026-11-17T19:30:00-08:00",
+      "title_dropped": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy",
+      "title_kept": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:20095188@2026-11-17T19:30",
       "kept": "ticketmaster:rZ7HnEZ1AfuN_f",
       "start_at": "2026-11-17T19:30:00-08:00",
@@ -3193,6 +3201,14 @@
       "venue": "Hawthorne Theatre"
     },
     {
+      "dropped": "willamette_week:20367107@2026-11-24T19:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfuNr7",
+      "start_at": "2026-11-24T19:30:00-08:00",
+      "title_dropped": "Two-Step Tuesday with Best Intentions and Dance Lessons with Robbie",
+      "title_kept": "Two-Step Tuesday with Best Intentions and Dance Lessons with Robbie",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:20095188@2026-11-24T19:30",
       "kept": "ticketmaster:rZ7HnEZ1AfuNr7",
       "start_at": "2026-11-24T19:30:00-08:00",
@@ -4217,9 +4233,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6175,
-  "floor_check": "6175 events against a 6160-event baseline",
-  "generated_at": "2026-11-06T23:01:25+00:00",
+  "event_count": 6185,
+  "floor_check": "6185 events against a 6160-event baseline",
+  "generated_at": "2026-11-06T23:15:07+00:00",
   "problems": [],
   "sources": [
     "calagator",
