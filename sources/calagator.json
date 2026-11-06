@@ -183,6 +183,32 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-11-14T11:00:00-08:00",
+      "id": "calagator:1250482786",
+      "is_all_day": false,
+      "listing_url": "https://luma.com/ge1nf0br",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-14T09:00:00-08:00",
+      "summary": "Whether you're a seasoned marketer or just getting started, this is a relaxed spot to swap ideas, meet new friends, and build professional relationships that last. We'll be at Insomnia coffee in Cedar Mill.\r\n\r\nGrab a drink and meet us at the table (upstairs?) to network and chat all things marketing. We will have \"Westside Marketer\" table signs. Come find us!",
+      "title": "Westside Marketers Meetup for Coffee + Network at Insomnia Coffee Cedar Mill",
+      "venue": {
+        "address": "12535 NW Cornell Rd",
+        "city": "Portland",
+        "name": "Insomnia Coffee Cedar Mill"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-11-14T17:30:00-08:00",
       "id": "calagator:1250482772",
       "is_all_day": false,
@@ -668,7 +694,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-06T02:17:00+00:00",
+  "generated_at": "2026-11-06T10:43:02+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
