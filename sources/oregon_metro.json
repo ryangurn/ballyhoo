@@ -4,31 +4,6 @@
       "categories": [
         "civic"
       ],
-      "id": "oregon_metro:metro-council-meeting-2026-11-05",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/metro-council-meeting-2026-11-05",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-05T10:00:00-08:00",
-      "title": "Metro Council meeting",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.527,
-        "longitude": -122.66024,
-        "name": "Metro Regional Center"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
       "id": "oregon_metro:transportation-policy-alternatives-committee-meeting-2026-11-06",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/transportation-policy-alternatives-committee-meeting-2026-11-06",
@@ -1807,6 +1782,31 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "oregon_metro:small-business-open-house-2027-02-10",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/small-business-open-house-2027-02-10",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-02-10T09:30:00-08:00",
+      "title": "Small business open house",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52832,
+        "longitude": -122.66311,
+        "name": "Oregon Convention Center"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "id": "oregon_metro:transport-subcommittee-meeting-transportation-policy-alternatives-committee-2027-02-10",
@@ -3574,7 +3574,7 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-05T20:43:30+00:00",
+  "generated_at": "2026-11-06T01:39:41+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
