@@ -41518,6 +41518,34 @@
         "tech"
       ],
       "end_at": "2026-11-09T21:30:00-08:00",
+      "id": "calagator:1250482787",
+      "is_all_day": false,
+      "listing_url": "https://dorkbotpdx.org",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-09T18:30:00-08:00",
+      "summary": "People doing strange things with electricity (and code)!\r\n\r\nDorkbotPDX is a laid-back meetup and show-and-tell for those who make, modify and use technical tools to weird and imaginative ends. You might run into creative coders, electronic artists, circuit designers, retro computing archaeologists, video game devs, modular synth gearheads and cyberpunk DIYers.\r\n\r\nBring your electronic wonders, monsters, and works-in-progress to show off, or come see what others have been working on! Code or circuits, electronic creativity of all sorts is welcome here.\r\n\r\nTable space with power will be available for project show-and-tell; we have a table for drinks and snacks, feel free to contribute to the communal cache/BYOB.\r\n\r\nNote: The free pile has been discontinued, since so many things get left behind that it's become a storage issue. If you have things looking for a new home, we have an offer/ask channel on the Dorkbot Discord!\r\n\r\nWe do this every month, usually on the second Monday night (check the site for upcoming dates to be sure)\r\n\r\nYou can subscribe to our calendar and mailing list, join the Discord and find our social links on https://dorkbotpdx.org (It also has our Code of Conduct, which we'd like you to check out while you're there)",
+      "title": "Dorkbot: November Edition",
+      "venue": {
+        "address": "7608 N Interstate Ave.",
+        "city": "Portland",
+        "latitude": 45.5782,
+        "longitude": -122.682,
+        "name": "CTRL-H"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-09T21:30:00-08:00",
       "id": "willamette_week:20337310@2026-11-09T18:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd08bb52-1ca0-4cb6-b4f7-a6ece90fb7f9.large.png",
       "is_all_day": false,
@@ -181356,5 +181384,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-06T17:37:09+00:00"
+  "generated_at": "2026-11-06T17:54:59+00:00"
 }

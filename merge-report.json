@@ -1,6 +1,22 @@
 {
   "duplicates_merged": [
     {
+      "dropped": "willamette_week:20142840@2026-11-09T19:00",
+      "kept": "dopdx:17583031",
+      "start_at": "2026-11-09T19:00:00-08:00",
+      "title_dropped": "jake minch",
+      "title_kept": "Jake Minch – Getting Big Tour w/Alix Page – All Ages",
+      "venue": "Holocene"
+    },
+    {
+      "dropped": "willamette_week:19442195@2026-11-09T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfGfxf",
+      "start_at": "2026-11-09T19:00:00-08:00",
+      "title_dropped": "Square Dancing / KARAOKE @ 9:30",
+      "title_kept": "Square Dancing with Caller Steph Noll / KARAOKE @ 9:30",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "dopdx:17466757",
       "kept": "ticketmaster:vvG1HZ_GNy4-Oj",
       "start_at": "2026-11-11T19:00:00-08:00",
@@ -919,22 +935,6 @@
       "title_dropped": "Psychedelics and the Reimagining of Aging",
       "title_kept": "Psychedelics and The Reimagining of Aging",
       "venue": "The Alberta Rose Theatre"
-    },
-    {
-      "dropped": "willamette_week:20142840@2026-11-09T19:00",
-      "kept": "dopdx:17583031",
-      "start_at": "2026-11-09T19:00:00-08:00",
-      "title_dropped": "jake minch",
-      "title_kept": "Jake Minch – Getting Big Tour w/Alix Page – All Ages",
-      "venue": "Holocene"
-    },
-    {
-      "dropped": "willamette_week:19442195@2026-11-09T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfGfxf",
-      "start_at": "2026-11-09T19:00:00-08:00",
-      "title_dropped": "Square Dancing / KARAOKE @ 9:30",
-      "title_kept": "Square Dancing with Caller Steph Noll / KARAOKE @ 9:30",
-      "venue": "Showdown Saloon"
     },
     {
       "dropped": "dopdx:17662502",
@@ -4185,9 +4185,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6160,
-  "floor_check": "6160 events against a 6162-event baseline",
-  "generated_at": "2026-11-06T17:37:09+00:00",
+  "event_count": 6161,
+  "floor_check": "6161 events against a 6161-event baseline",
+  "generated_at": "2026-11-06T17:54:59+00:00",
   "problems": [],
   "sources": [
     "calagator",
