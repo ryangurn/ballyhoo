@@ -905,6 +905,14 @@
       "venue": "Roseland Theater"
     },
     {
+      "dropped": "willamette_week:20367098@2026-11-08T20:30",
+      "kept": "ticketmaster:rZ7HnEZ1Af8JOf",
+      "start_at": "2026-11-08T20:30:00-08:00",
+      "title_dropped": "THE WAILS followed by Sinferno Cabaret",
+      "title_kept": "THE WAILS followed by Sinferno Cabaret",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19469867@2026-11-08T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPs0S",
       "start_at": "2026-11-08T21:00:00-08:00",
@@ -3881,6 +3889,14 @@
       "venue": "Moda Center"
     },
     {
+      "dropped": "willamette_week:20095173@2026-12-01T19:30",
+      "kept": "ticketmaster:rZ7HnEZ1Af8P-0",
+      "start_at": "2026-12-01T19:30:00-08:00",
+      "title_dropped": "Two-Step Tuesday with Countryside Ride and Dance Lessons with Robbie",
+      "title_kept": "Two-Step Tuesday with Countryside Ride and Dance Lessons with Robbie",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:20219407@2026-12-01T20:00",
       "kept": "ticketmaster:rZ7HnEZ1AfCk-V",
       "start_at": "2026-12-01T20:00:00-08:00",
@@ -4185,9 +4201,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6161,
-  "floor_check": "6161 events against a 6161-event baseline",
-  "generated_at": "2026-11-06T17:54:59+00:00",
+  "event_count": 6165,
+  "floor_check": "6165 events against a 6160-event baseline",
+  "generated_at": "2026-11-06T18:03:01+00:00",
   "problems": [],
   "sources": [
     "calagator",
