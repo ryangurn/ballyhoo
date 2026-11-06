@@ -1,78 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:19029328@2026-11-05T17:30",
-      "kept": "dopdx:17404662",
-      "start_at": "2026-11-05T17:30:00-08:00",
-      "title_dropped": "Periphery - A Pale White Dot US Tour",
-      "title_kept": "Periphery – a Pale White Dot Us Tour",
-      "venue": "Roseland Theater"
-    },
-    {
-      "dropped": "dopdx:17754898",
-      "kept": "ticketmaster:rZ7HnEZ1AfaMF7",
-      "start_at": "2026-11-05T19:30:00-08:00",
-      "title_dropped": "Nahko And Medicine For The People – Hoka 10 Th Anniversary Tour",
-      "title_kept": "NAHKO AND MEDICINE FOR THE PEOPLE – HOKA 10TH ANNIVERSARY TOUR",
-      "venue": "Star Theater"
-    },
-    {
-      "dropped": "willamette_week:19449685@2026-11-05T19:30",
-      "kept": "dopdx:17754898",
-      "start_at": "2026-11-05T19:00:00-08:00",
-      "title_dropped": "NAHKO AND MEDICINE FOR THE PEOPLE - HOKA 10TH ANNIVERSARY TOUR",
-      "title_kept": "Nahko And Medicine For The People – Hoka 10 Th Anniversary Tour",
-      "venue": "Star Theater"
-    },
-    {
-      "dropped": "dopdx:17762136",
-      "kept": "ticketmaster:rZ7HnEZ1AfaMF7",
-      "start_at": "2026-11-05T19:30:00-08:00",
-      "title_dropped": "Nahko And Medicine For The People Hoka 10 Th Anniversary Tour",
-      "title_kept": "NAHKO AND MEDICINE FOR THE PEOPLE – HOKA 10TH ANNIVERSARY TOUR",
-      "venue": "Star Theater"
-    },
-    {
-      "dropped": "dopdx:17804834",
-      "kept": "ticketmaster:rZ7HnEZ1Af0vad",
-      "start_at": "2026-11-05T19:00:00-08:00",
-      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:18893395@2026-11-05T19:00",
-      "kept": "dopdx:17804834",
-      "start_at": "2026-11-05T19:00:00-08:00",
-      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:18366991@2026-11-05T19:00",
-      "kept": "dopdx:17959732",
-      "start_at": "2026-11-05T19:00:00-08:00",
-      "title_dropped": "Chart House - Caymus Wine Dinner",
-      "title_kept": "Chart House - Caymus Wine Dinner - Portland",
-      "venue": "Chart House"
-    },
-    {
-      "dropped": "willamette_week:19066967@2026-11-05T19:30",
-      "kept": "dopdx:17453790",
-      "start_at": "2026-11-05T19:30:00-08:00",
-      "title_dropped": "White Bird Presents: Hung Dance",
-      "title_kept": "Hung Dance",
-      "venue": "Patricia Reser Center for the Arts"
-    },
-    {
-      "dropped": "willamette_week:20097919@2026-11-05T19:30",
-      "kept": "ticketmaster:Z7r9jZ1AAeaQK",
-      "start_at": "2026-11-05T19:30:00-08:00",
-      "title_dropped": "SAW: The Musical",
-      "title_kept": "SAW: The Musical (Touring)",
-      "venue": "Alberta Abbey"
-    },
-    {
       "dropped": "dopdx:17466757",
       "kept": "ticketmaster:vvG1HZ_GNy4-Oj",
       "start_at": "2026-11-11T19:00:00-08:00",
@@ -249,12 +177,84 @@
       "venue": "Moda Center"
     },
     {
+      "dropped": "willamette_week:19029328@2026-11-05T17:30",
+      "kept": "dopdx:17404662",
+      "start_at": "2026-11-05T17:30:00-08:00",
+      "title_dropped": "Periphery - A Pale White Dot US Tour",
+      "title_kept": "Periphery – a Pale White Dot Us Tour",
+      "venue": "Roseland Theater"
+    },
+    {
       "dropped": "willamette_week:18783422@2026-11-05T18:30",
       "kept": "dopdx:17304601",
       "start_at": "2026-11-05T18:30:00-08:00",
       "title_dropped": "Fan Halen",
       "title_kept": "Fan Halen",
       "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "dopdx:17804834",
+      "kept": "ticketmaster:rZ7HnEZ1Af0vad",
+      "start_at": "2026-11-05T19:00:00-08:00",
+      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:18893395@2026-11-05T19:00",
+      "kept": "dopdx:17804834",
+      "start_at": "2026-11-05T19:00:00-08:00",
+      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:18366991@2026-11-05T19:00",
+      "kept": "dopdx:17959732",
+      "start_at": "2026-11-05T19:00:00-08:00",
+      "title_dropped": "Chart House - Caymus Wine Dinner",
+      "title_kept": "Chart House - Caymus Wine Dinner - Portland",
+      "venue": "Chart House"
+    },
+    {
+      "dropped": "dopdx:17754898",
+      "kept": "ticketmaster:rZ7HnEZ1AfaMF7",
+      "start_at": "2026-11-05T19:30:00-08:00",
+      "title_dropped": "Nahko And Medicine For The People – Hoka 10 Th Anniversary Tour",
+      "title_kept": "NAHKO AND MEDICINE FOR THE PEOPLE – HOKA 10TH ANNIVERSARY TOUR",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:19449685@2026-11-05T19:30",
+      "kept": "dopdx:17754898",
+      "start_at": "2026-11-05T19:00:00-08:00",
+      "title_dropped": "NAHKO AND MEDICINE FOR THE PEOPLE - HOKA 10TH ANNIVERSARY TOUR",
+      "title_kept": "Nahko And Medicine For The People – Hoka 10 Th Anniversary Tour",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "dopdx:17762136",
+      "kept": "ticketmaster:rZ7HnEZ1AfaMF7",
+      "start_at": "2026-11-05T19:30:00-08:00",
+      "title_dropped": "Nahko And Medicine For The People Hoka 10 Th Anniversary Tour",
+      "title_kept": "NAHKO AND MEDICINE FOR THE PEOPLE – HOKA 10TH ANNIVERSARY TOUR",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:19066967@2026-11-05T19:30",
+      "kept": "dopdx:17453790",
+      "start_at": "2026-11-05T19:30:00-08:00",
+      "title_dropped": "White Bird Presents: Hung Dance",
+      "title_kept": "Hung Dance",
+      "venue": "Patricia Reser Center for the Arts"
+    },
+    {
+      "dropped": "willamette_week:20097919@2026-11-05T19:30",
+      "kept": "ticketmaster:Z7r9jZ1AAeaQK",
+      "start_at": "2026-11-05T19:30:00-08:00",
+      "title_dropped": "SAW: The Musical",
+      "title_kept": "SAW: The Musical (Touring)",
+      "venue": "Alberta Abbey"
     },
     {
       "dropped": "dopdx:17896957",
@@ -4305,9 +4305,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6233,
-  "floor_check": "6233 events against a 6181-event baseline",
-  "generated_at": "2026-11-06T01:41:19+00:00",
+  "event_count": 6231,
+  "floor_check": "6231 events against a 6183-event baseline",
+  "generated_at": "2026-11-06T02:17:35+00:00",
   "problems": [],
   "sources": [
     "calagator",
