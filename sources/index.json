@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:20:43+00:00",
+  "generated_at": "2026-11-07T16:36:33+00:00",
   "sources": [
     {
       "event_count": 27,
@@ -54,7 +54,7 @@
       "event_count": 163,
       "last_run_at": "2026-11-07T10:28:47+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
@@ -89,7 +89,7 @@
       "event_count": 3833,
       "last_run_at": "2026-11-07T10:20:49+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
