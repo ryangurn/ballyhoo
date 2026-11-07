@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:53:53+00:00",
+  "generated_at": "2026-11-07T13:23:51+00:00",
   "sources": [
     {
       "event_count": 27,
@@ -30,10 +30,10 @@
       "url": "sources/hollywood_farmers_market.json"
     },
     {
-      "event_count": 29,
-      "last_run_at": "2026-11-07T06:18:49+00:00",
+      "event_count": 30,
+      "last_run_at": "2026-11-07T13:22:36+00:00",
       "source_id": "neighborhood_markets",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/neighborhood_markets.json"
     },
     {
@@ -75,7 +75,7 @@
       "event_count": 916,
       "last_run_at": "2026-11-07T07:04:00+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
