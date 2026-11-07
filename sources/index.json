@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-07T01:16:25+00:00",
+  "generated_at": "2026-11-07T02:44:09+00:00",
   "sources": [
     {
       "event_count": 27,
-      "last_run_at": "2026-11-06T23:00:49+00:00",
+      "last_run_at": "2026-11-07T02:43:19+00:00",
       "source_id": "calagator",
       "status": "ok",
       "url": "sources/calagator.json"
@@ -19,21 +19,21 @@
       "event_count": 6,
       "last_run_at": "2026-11-06T19:18:27+00:00",
       "source_id": "hillsboro_farmers_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hillsboro_farmers_markets.json"
     },
     {
       "event_count": 12,
       "last_run_at": "2026-11-06T19:37:12+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
       "event_count": 29,
       "last_run_at": "2026-11-06T19:36:10+00:00",
       "source_id": "neighborhood_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/neighborhood_markets.json"
     },
     {
@@ -47,7 +47,7 @@
       "event_count": 14,
       "last_run_at": "2026-11-06T19:48:45+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
@@ -61,7 +61,7 @@
       "event_count": 33,
       "last_run_at": "2026-11-06T19:17:35+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
