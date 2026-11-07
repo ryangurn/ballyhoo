@@ -506,6 +506,30 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-11-21T11:30:00-08:00",
+      "id": "calagator:1250482788",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/pdx-women-coders/events/317302402/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-11-21T10:00:00-08:00",
+      "summary": "Join PDX Women Coders for a back-end study session, where we read and discuss Designing Data-Intensive Applications (2nd edition) by Martin Kleppmann. We plan to go over one chapter (or so) each session, and we will be meeting every two weeks for 7-8 months to finish the book. Each session, we'll go over that we learned in that chapter, and explore key concepts in distributed systems, data storage, and scalable architecture. We hope this will be a good opportunity to learn and connect with fellow engineers.\r\n\r\nBefore the event, please read Chapter 2: Defining Nonfunctional Requirements.\r\n\r\nSome additional details:\r\n- We are meeting every two weeks @ 10AM PT on Zoom\r\n- Anyone can attend, regardless of gender, as long as you support our mission\r\n- Reading is not required for attendance (but you'll get more out of this session if you read along 😉)\r\n- The event photo comes from Martin Kleppmann's blog post: Drawing a map of distributed data systems",
+      "title": "Backend & Systems Guild: Designing Data-Intensive Applications [Ch. 2]",
+      "venue": {
+        "name": "Zoom"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-11-23T12:00:00-08:00",
       "id": "calagator:1250482776",
       "is_all_day": false,
@@ -722,7 +746,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-07T16:20:03+00:00",
+  "generated_at": "2026-11-07T20:49:23+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
