@@ -8147,6 +8147,34 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:Z7r9jZ1AA7pQK",
+      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7pQK",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-05T22:00:00-08:00",
+      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7pQK",
+      "title": "Alyssa Jolee",
+      "venue": {
+        "address": "315 SE 3rd Ave",
+        "city": "Portland",
+        "latitude": 45.513901,
+        "longitude": -122.642799,
+        "name": "45 East"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:rZ7HnEZ1AfZ-jV",
       "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -26748,7 +26776,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-06T20:51:29+00:00",
+  "generated_at": "2026-11-07T00:53:36+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
