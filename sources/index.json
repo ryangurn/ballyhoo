@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:21:59+00:00",
+  "generated_at": "2026-11-07T10:30:28+00:00",
   "sources": [
     {
       "event_count": 27,
@@ -52,9 +52,9 @@
     },
     {
       "event_count": 163,
-      "last_run_at": "2026-11-07T02:56:36+00:00",
+      "last_run_at": "2026-11-07T10:28:47+00:00",
       "source_id": "oregon_metro",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/oregon_metro.json"
     },
     {
@@ -82,7 +82,7 @@
       "event_count": 42,
       "last_run_at": "2026-11-07T04:27:54+00:00",
       "source_id": "vancouver_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/vancouver_farmers_market.json"
     },
     {
