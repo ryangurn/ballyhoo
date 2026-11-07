@@ -201,14 +201,6 @@
       "venue": "Moda Center"
     },
     {
-      "dropped": "dopdx:17339150",
-      "kept": "ticketmaster:rZ7HnEZ1Af03qd",
-      "start_at": "2026-11-06T23:55:00-08:00",
-      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
-      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:18760049@2026-11-07T09:00",
       "kept": "portland_farmers_market:acre-knife@2026-11-07",
       "start_at": "2026-11-07T09:00:00-08:00",
@@ -3889,6 +3881,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19225591@2026-12-04T23:55",
+      "kept": "ticketmaster:rZ7HnEZ1Af03QK",
+      "start_at": "2026-12-04T23:55:00-08:00",
+      "title_dropped": "HOTWAX disco~glam~metal~punk~hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19679615@2026-12-05T18:00",
       "kept": "ticketmaster:vvG1HZ_2m_eMuT",
       "start_at": "2026-12-05T18:00:00-08:00",
@@ -4043,7 +4043,7 @@
   ],
   "event_count": 6066,
   "floor_check": "6066 events against a 6065-event baseline",
-  "generated_at": "2026-11-07T13:43:01+00:00",
+  "generated_at": "2026-11-07T13:58:05+00:00",
   "problems": [],
   "sources": [
     "calagator",
