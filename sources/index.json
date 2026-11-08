@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:16:00+00:00",
+  "generated_at": "2026-11-08T13:45:08+00:00",
   "sources": [
     {
       "event_count": 26,
@@ -30,10 +30,10 @@
       "url": "sources/hollywood_farmers_market.json"
     },
     {
-      "event_count": 30,
-      "last_run_at": "2026-11-08T06:24:55+00:00",
+      "event_count": 28,
+      "last_run_at": "2026-11-08T13:44:09+00:00",
       "source_id": "neighborhood_markets",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/neighborhood_markets.json"
     },
     {
@@ -54,7 +54,7 @@
       "event_count": 163,
       "last_run_at": "2026-11-08T07:31:31+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
@@ -89,7 +89,7 @@
       "event_count": 3694,
       "last_run_at": "2026-11-08T07:27:14+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
