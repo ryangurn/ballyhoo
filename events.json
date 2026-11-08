@@ -161985,6 +161985,25 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "oregon_metro:free-parking-day-metro-parks-2027-02-15",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/free-parking-day-metro-parks-2027-02-15",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-02-15T00:00:00-08:00",
+      "title": "Free parking day at Metro parks"
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:Z7r9jZ1AAea40",
@@ -174395,5 +174414,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-08T00:43:42+00:00"
+  "generated_at": "2026-11-08T00:48:30+00:00"
 }
