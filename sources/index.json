@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T12:01:37+00:00",
+  "generated_at": "2026-11-09T15:04:00+00:00",
   "sources": [
     {
       "event_count": 28,
       "last_run_at": "2026-11-09T06:06:32+00:00",
       "source_id": "calagator",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/calagator.json"
     },
     {
@@ -19,77 +19,77 @@
       "event_count": 5,
       "last_run_at": "2026-11-09T06:12:08+00:00",
       "source_id": "hillsboro_farmers_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hillsboro_farmers_markets.json"
     },
     {
       "event_count": 10,
       "last_run_at": "2026-11-09T06:59:28+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
       "event_count": 28,
       "last_run_at": "2026-11-09T06:57:27+00:00",
       "source_id": "neighborhood_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/neighborhood_markets.json"
     },
     {
       "event_count": 53,
       "last_run_at": "2026-11-09T07:14:28+00:00",
       "source_id": "obt",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/obt.json"
     },
     {
       "event_count": 13,
       "last_run_at": "2026-11-09T07:32:05+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
       "event_count": 159,
       "last_run_at": "2026-11-09T06:54:25+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
       "event_count": 33,
       "last_run_at": "2026-11-09T06:10:20+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
       "event_count": 0,
       "last_run_at": "2026-11-09T08:40:00+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
       "event_count": 885,
       "last_run_at": "2026-11-09T07:55:03+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
       "event_count": 41,
-      "last_run_at": "2026-11-09T04:27:35+00:00",
+      "last_run_at": "2026-11-09T15:03:13+00:00",
       "source_id": "vancouver_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/vancouver_farmers_market.json"
     },
     {
       "event_count": 3622,
       "last_run_at": "2026-11-09T06:44:27+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
