@@ -201,6 +201,62 @@
       "venue": "Moda Center"
     },
     {
+      "dropped": "dopdx:17873840",
+      "kept": "ticketmaster:rZ7HnEZ1Af0vFd",
+      "start_at": "2026-11-19T19:00:00-08:00",
+      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:18893395@2026-11-19T19:00",
+      "kept": "dopdx:17873840",
+      "start_at": "2026-11-19T19:00:00-08:00",
+      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17744121",
+      "kept": "ticketmaster:Z7r9jZ1A7-z-K",
+      "start_at": "2026-11-19T19:30:00-08:00",
+      "title_dropped": "The Outsiders",
+      "title_kept": "The Outsiders (Touring)",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "willamette_week:18548786@2026-11-19T19:30",
+      "kept": "dopdx:17886499",
+      "start_at": "2026-11-19T19:30:00-08:00",
+      "title_dropped": "Special Event: Craig Conant",
+      "title_kept": "K Trevor Wilson",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19066986@2026-11-19T19:30",
+      "kept": "dopdx:17618934",
+      "start_at": "2026-11-19T19:30:00-08:00",
+      "title_dropped": "White Bird Presents: Trinity Irish Dance Company",
+      "title_kept": "Trinity Irish Dance Company",
+      "venue": "Newmark Theatre"
+    },
+    {
+      "dropped": "willamette_week:19786969@2026-11-19T19:30",
+      "kept": "dopdx:17683930",
+      "start_at": "2026-11-19T19:30:00-08:00",
+      "title_dropped": "With Her Own Wings",
+      "title_kept": "With Her Own Wings",
+      "venue": "Patricia Reser Center for the Arts"
+    },
+    {
+      "dropped": "willamette_week:20169134@2026-11-19T19:30",
+      "kept": "ticketmaster:Z7r9jZ1AAvbfk",
+      "start_at": "2026-11-19T19:30:00-08:00",
+      "title_dropped": "Little Shop of Horrors",
+      "title_kept": "Little Shop of Horrors",
+      "venue": "Portland Center Stage"
+    },
+    {
       "dropped": "willamette_week:18521269@2026-11-08T10:00",
       "kept": "portland_farmers_market:king-farmers-market-3@2026-11-08",
       "start_at": "2026-11-08T10:00:00-08:00",
@@ -1815,62 +1871,6 @@
       "title_dropped": "PileUp",
       "title_kept": "Babehoven (21 and Over)",
       "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "dopdx:17873840",
-      "kept": "ticketmaster:rZ7HnEZ1Af0vFd",
-      "start_at": "2026-11-19T19:00:00-08:00",
-      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:18893395@2026-11-19T19:00",
-      "kept": "dopdx:17873840",
-      "start_at": "2026-11-19T19:00:00-08:00",
-      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "dopdx:17744121",
-      "kept": "ticketmaster:Z7r9jZ1A7-z-K",
-      "start_at": "2026-11-19T19:30:00-08:00",
-      "title_dropped": "The Outsiders",
-      "title_kept": "The Outsiders (Touring)",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "willamette_week:18548786@2026-11-19T19:30",
-      "kept": "dopdx:17886499",
-      "start_at": "2026-11-19T19:30:00-08:00",
-      "title_dropped": "Special Event: Craig Conant",
-      "title_kept": "K Trevor Wilson",
-      "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:19066986@2026-11-19T19:30",
-      "kept": "dopdx:17618934",
-      "start_at": "2026-11-19T19:30:00-08:00",
-      "title_dropped": "White Bird Presents: Trinity Irish Dance Company",
-      "title_kept": "Trinity Irish Dance Company",
-      "venue": "Newmark Theatre"
-    },
-    {
-      "dropped": "willamette_week:19786969@2026-11-19T19:30",
-      "kept": "dopdx:17683930",
-      "start_at": "2026-11-19T19:30:00-08:00",
-      "title_dropped": "With Her Own Wings",
-      "title_kept": "With Her Own Wings",
-      "venue": "Patricia Reser Center for the Arts"
-    },
-    {
-      "dropped": "willamette_week:20169134@2026-11-19T19:30",
-      "kept": "ticketmaster:Z7r9jZ1AAvbfk",
-      "start_at": "2026-11-19T19:30:00-08:00",
-      "title_dropped": "Little Shop of Horrors",
-      "title_kept": "Little Shop of Horrors",
-      "venue": "Portland Center Stage"
     },
     {
       "dropped": "willamette_week:20318580@2026-11-19T19:30",
@@ -3761,9 +3761,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 5931,
-  "floor_check": "5931 events against a 5932-event baseline",
-  "generated_at": "2026-11-09T04:28:14+00:00",
+  "event_count": 5933,
+  "floor_check": "5933 events against a 5932-event baseline",
+  "generated_at": "2026-11-09T06:07:29+00:00",
   "problems": [],
   "sources": [
     "calagator",
