@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T02:55:55+00:00",
+  "generated_at": "2026-11-09T04:28:14+00:00",
   "sources": [
     {
       "event_count": 26,
@@ -19,21 +19,21 @@
       "event_count": 5,
       "last_run_at": "2026-11-08T21:58:26+00:00",
       "source_id": "hillsboro_farmers_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hillsboro_farmers_markets.json"
     },
     {
       "event_count": 10,
       "last_run_at": "2026-11-08T22:19:48+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
       "event_count": 28,
       "last_run_at": "2026-11-08T22:18:48+00:00",
       "source_id": "neighborhood_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/neighborhood_markets.json"
     },
     {
@@ -61,7 +61,7 @@
       "event_count": 33,
       "last_run_at": "2026-11-08T21:58:05+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
@@ -79,8 +79,8 @@
       "url": "sources/ticketmaster.json"
     },
     {
-      "event_count": 42,
-      "last_run_at": "2026-11-08T21:38:43+00:00",
+      "event_count": 41,
+      "last_run_at": "2026-11-09T04:27:35+00:00",
       "source_id": "vancouver_farmers_market",
       "status": "ok",
       "url": "sources/vancouver_farmers_market.json"
