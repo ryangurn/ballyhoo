@@ -257,14 +257,6 @@
       "venue": "Portland Center Stage"
     },
     {
-      "dropped": "dopdx:17918384",
-      "kept": "ticketmaster:rZ7HnEZ1AfFYO0",
-      "start_at": "2026-11-08T22:00:00-08:00",
-      "title_dropped": "Sinferno Cabaret",
-      "title_kept": "SINFERNO CABARET",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:19956945@2026-11-09T18:00",
       "kept": "dopdx:17850238",
       "start_at": "2026-11-09T18:00:00-08:00",
@@ -3489,6 +3481,14 @@
       "venue": "Revolution Hall - Portland"
     },
     {
+      "dropped": "willamette_week:16902271@2026-12-06T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPsbd",
+      "start_at": "2026-12-06T21:00:00-08:00",
+      "title_dropped": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:19867868@2026-12-07T18:30",
       "kept": "ticketmaster:Z7r9jZ1AAvE-z",
       "start_at": "2026-12-07T18:30:00-08:00",
@@ -3577,9 +3577,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 5896,
-  "floor_check": "5896 events against a 5915-event baseline",
-  "generated_at": "2026-11-09T17:50:56+00:00",
+  "event_count": 5902,
+  "floor_check": "5902 events against a 5898-event baseline",
+  "generated_at": "2026-11-09T18:44:39+00:00",
   "problems": [],
   "sources": [
     "calagator",
