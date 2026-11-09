@@ -257,38 +257,6 @@
       "venue": "Portland Center Stage"
     },
     {
-      "dropped": "dopdx:17228347",
-      "kept": "ticketmaster:vvG1HZ_FBoDkR9",
-      "start_at": "2026-11-08T19:00:00-08:00",
-      "title_dropped": "Teddy Swims with Allen Stone & MarcLo",
-      "title_kept": "Teddy Swims: The UGLY Tour",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "dopdx:17837689",
-      "kept": "ticketmaster:Z7r9jZ1AAvYGo",
-      "start_at": "2026-11-08T19:00:00-08:00",
-      "title_dropped": "Warren Miller's \"Days Off\"",
-      "title_kept": "Warren Miller's Days Off",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "dopdx:17411334",
-      "kept": "ticketmaster:Z7r9jZ1A70zog",
-      "start_at": "2026-11-08T20:00:00-08:00",
-      "title_dropped": "The Tallest Man on Earth",
-      "title_kept": "The Tallest Man on Earth",
-      "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "dopdx:17633659",
-      "kept": "ticketmaster:Z7r9jZ1AAv-_y",
-      "start_at": "2026-11-08T20:00:00-08:00",
-      "title_dropped": "Derek Hough Dance for the Holidays",
-      "title_kept": "Derek Hough Dance for the Holidays",
-      "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
       "dropped": "dopdx:17918384",
       "kept": "ticketmaster:rZ7HnEZ1AfFYO0",
       "start_at": "2026-11-08T22:00:00-08:00",
@@ -3609,9 +3577,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 5879,
-  "floor_check": "5879 events against a 5932-event baseline",
-  "generated_at": "2026-11-09T07:32:58+00:00",
+  "event_count": 5872,
+  "floor_check": "5872 events against a 5932-event baseline",
+  "generated_at": "2026-11-09T07:55:55+00:00",
   "problems": [],
   "sources": [
     "calagator",

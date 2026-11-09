@@ -21449,6 +21449,34 @@
         "music"
       ],
       "end_at": "2026-11-09T02:00:00-08:00",
+      "id": "dopdx:17228347",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1776360197/event-17228347.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/8/teddy-swims-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-08T19:00:00-08:00",
+      "title": "Teddy Swims with Allen Stone & MarcLo",
+      "venue": {
+        "address": "1 N Center Court St",
+        "city": "Portland",
+        "latitude": 45.53149690000001,
+        "longitude": -122.6667829,
+        "name": "Moda Center"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-09T02:00:00-08:00",
       "id": "dopdx:17373840",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1781218764/event-17373840.jpg",
       "is_all_day": false,
@@ -21534,6 +21562,38 @@
         "latitude": 45.523487,
         "longitude": -122.676751,
         "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-09T02:00:00-08:00",
+      "id": "dopdx:17837689",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1789213277/event-17837689.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/8/warren-miller-s-days-off-tickets-3eaoam3",
+      "organizer": "True West Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.41,
+        "min": 29.05
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-08T19:00:00-08:00",
+      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance. Posted ticket limits are strictly enforced. We reserve the right to cancel any or all orders and tickets if you exceed the posted limits, including orders associated with the same name, e-mail address, billing address, credit card number or other information. Drop in on Warren Miller’s 77th film, Days Off. Join host Katie Burrell as she pulls back the curtain on what the pros do on their days off. Go skijoring in Banff, join Craig McMorris and friends in Whistler, and explore Alaska’s spines with Sam Kuch and Craig Murray. Watch Jess Kimura push snowboarding forward and inspire the next gen",
+      "title": "Warren Miller's \"Days Off\"",
+      "venue": {
+        "address": "3017 SE Milwaukie Ave.",
+        "city": "Portland",
+        "latitude": 45.5008089,
+        "longitude": -122.654546,
+        "name": "Aladdin Theater"
       }
     },
     {
@@ -21741,78 +21801,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-09T02:00:00-08:00",
-      "id": "ticketmaster:vvG1HZ_FBoDkR9",
-      "image_url": "https://s1.ticketm.net/dam/a/746/1541d4c3-9c17-400f-84f1-3017d9c9d746_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/teddy-swims-the-ugly-tour-portland-oregon-11-08-2026/event/0F00648E91EC6BD7",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "AEG LIVE",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T19:00:00-08:00",
-      "summary": "Bag Policy: Guests are permitted bags up to 14\" x 14\" x 6\" and will hold their bags throughout the security screening process unless they are sent to secondary screening for further inspection. Bag check will be available; however, we encourage guests to bring smaller bags for a faster and smoother experience. Please note checking prohibited items will be denied.",
-      "ticket_url": "https://www.ticketmaster.com/teddy-swims-the-ugly-tour-portland-oregon-11-08-2026/event/0F00648E91EC6BD7",
-      "title": "Teddy Swims: The UGLY Tour",
-      "venue": {
-        "address": "One Center Court, Suite 100",
-        "city": "Portland",
-        "latitude": 45.53118896,
-        "longitude": -122.66645813,
-        "name": "Moda Center"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-11-09T02:00:00-08:00",
-      "id": "ticketmaster:Z7r9jZ1AAvYGo",
-      "image_url": "https://s1.ticketm.net/dam/a/009/87f46e3e-75f2-4e30-ba80-2bc11a930009_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvYGo",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "True West Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 35.41,
-        "min": 29.05
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T19:00:00-08:00",
-      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance. Posted ticket limits are strictly enforced. We reserve the right to cancel any or all orders and tickets if you exceed the posted limits, including orders associated with the same name, e-mail address, billing address, credit card number or other information. Drop in on Warren Miller’s 77th film, Days Off. Join host Katie Burrell as she pulls back the curtain on what the pros do on their days off. Go skijoring in Banff, join Craig McMorris and friends in Whistler, and explore Alaska’s spines with Sam Kuch and Craig Murray. Watch Jess Kimura push snowboarding forward and inspire the next gen",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvYGo",
-      "title": "Warren Miller's Days Off",
-      "venue": {
-        "address": "3017 SE Milwaukie Ave",
-        "city": "Portland",
-        "latitude": 45.4818,
-        "longitude": -122.640198,
-        "name": "Aladdin Theater"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-11-09T02:00:00-08:00",
@@ -21904,31 +21892,64 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:rZ7HnEZ1AfGYA7",
-      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "end_at": "2026-11-09T02:00:00-08:00",
+      "id": "dopdx:17411334",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1780010297/event-17411334.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/tyler-hilton-showdown-saloon-tickets/14330144",
+      "listing_url": "https://dopdx.com/events/2026/11/8/the-tallest-man-on-earth-tickets",
+      "organizer": "Revolution Hall Presents",
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 102.41,
-        "min": 35.46
+        "max": 52.37,
+        "min": 52.37
       },
       "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
       },
-      "start_at": "2026-11-08T19:30:00-08:00",
-      "summary": "General Admission doors at 7 PM VIP Meet & Greet Doors at 6 PM Soundcheck Party + Meet & Greet w/ Tyler Hilton ⁃ Earliest venue access ⁃ Earliest access to merchandise ⁃ Attend soundcheck & an intimate hang w/ Tyler ⁃ A pre-show op with Tyler (taken by our designated tour photographer) ⁃ Soundcheck VIP group photo uploaded to Tyler's Instagram",
-      "ticket_url": "https://www.ticketweb.com/event/tyler-hilton-showdown-saloon-tickets/14330144",
-      "title": "Tyler Hilton",
+      "start_at": "2026-11-08T20:00:00-08:00",
+      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 3 days prior to the performance. Tickets purchased in excess of the stated ticket limit are subject to cancellation. The Tallest Man On Earth has captivated audiences using “every inch of his long guitar cord to roam the stage: darting around, crouching, stretching, hip-twitching, perching briefly and jittering away” (The New York Times). Critics often draw comparisons between The Tallest Man on Earth and Bob Dylan, citing similarities in both songwriting and vocal style. Matsson himself has acknowledged Dylan's influence, revealing that he started listening to him at the age of fifteen. Fascinated by Dylan's covers, he del",
+      "title": "The Tallest Man on Earth",
       "venue": {
-        "address": "1195 SE Powell Blvd",
+        "address": "1300 SE STARK ST",
         "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
-        "name": "Showdown Saloon"
+        "latitude": 45.5189728,
+        "longitude": -122.6520951,
+        "name": "Revolution Hall"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-09T02:00:00-08:00",
+      "id": "dopdx:17633659",
+      "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1784789667/event-17633659.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/8/derek-hough-dance-for-the-holidays-tickets",
+      "organizer": "Showbox Presents",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 66.44,
+        "min": 66.44
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-08T20:00:00-08:00",
+      "summary": "Derek Hough Dance for the Holidays is a joyous celebration of the most festive time of the year! With jingle bells and sleigh bells, holiday carols and cheer, Hough’s latest dance spectacular is a show stopping event for the whole family. Fans will be thrilled and delighted as Hough and his cast of phenomenal dancers bring your favorite holiday tunes to life through dance, from the well sung classics to modern pop hits with all of the incredible choreography, exciting stage production and dance mastery that audiences have come to expect. Creative team and EMMY® winners, Napoleon and Tabitha Dumo, also known as NappyTabs (Jennifer Lopez’s ‘All I Have’, Michael Jackson: The Immortal World Tour, GRAMMYs®), co-create, direct and supervise choreo",
+      "title": "Derek Hough Dance for the Holidays",
+      "venue": {
+        "address": "1037 Southwest Broadway",
+        "city": "Portland",
+        "latitude": 45.5172295,
+        "longitude": -122.6814325,
+        "name": "Arlene Schnitzer Concert Hall"
       }
     },
     {
@@ -22048,195 +22069,6 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:vvG1HZ_3z9bqHX",
-      "image_url": "https://s1.ticketm.net/dam/a/ac1/e85e5dcb-7c13-403a-90a8-a32cfff1cac1_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.etix.com/ticket/p/81998178/sydbeard-tour-portland-roseland-theater",
-      "organizer": "LIVE NATION MUSIC",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T20:00:00-08:00",
-      "ticket_url": "https://www.etix.com/ticket/p/81998178/sydbeard-tour-portland-roseland-theater",
-      "title": "Syd: Beard Tour",
-      "venue": {
-        "address": "8 NW 6th Ave",
-        "city": "Portland",
-        "latitude": 45.5232796,
-        "longitude": -122.6764252,
-        "name": "Roseland Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:vvG1HZ_K6HnMAr",
-      "image_url": "https://s1.ticketm.net/dam/a/ac1/e85e5dcb-7c13-403a-90a8-a32cfff1cac1_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.vipnation.com/tour_date/syd-portland-or-11-08-2026",
-      "organizer": "LIVE NATION MUSIC",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T20:00:00-08:00",
-      "ticket_url": "https://www.vipnation.com/tour_date/syd-portland-or-11-08-2026",
-      "title": "Syd - Early Entry VIP Upgrade",
-      "venue": {
-        "address": "8 NW 6th Ave",
-        "city": "Portland",
-        "latitude": 45.5232796,
-        "longitude": -122.6764252,
-        "name": "Roseland Theater"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-11-09T02:00:00-08:00",
-      "id": "ticketmaster:Z7r9jZ1AAv-_y",
-      "image_url": "https://s1.ticketm.net/dam/a/ebe/eeecd753-f647-4379-853f-cc21bdee9ebe_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv-_y",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "Showbox Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 66.44,
-        "min": 66.44
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T20:00:00-08:00",
-      "summary": "Derek Hough Dance for the Holidays is a joyous celebration of the most festive time of the year! With jingle bells and sleigh bells, holiday carols and cheer, Hough’s latest dance spectacular is a show stopping event for the whole family. Fans will be thrilled and delighted as Hough and his cast of phenomenal dancers bring your favorite holiday tunes to life through dance, from the well sung classics to modern pop hits with all of the incredible choreography, exciting stage production and dance mastery that audiences have come to expect. Creative team and EMMY® winners, Napoleon and Tabitha Dumo, also known as NappyTabs (Jennifer Lopez’s ‘All I Have’, Michael Jackson: The Immortal World Tour, GRAMMYs®), co-create, direct and supervise choreo",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAv-_y",
-      "title": "Derek Hough Dance for the Holidays",
-      "venue": {
-        "address": "1037 SW Broadway Dr",
-        "city": "Portland",
-        "latitude": 45.5201,
-        "longitude": -122.6884,
-        "name": "Arlene Schnitzer Concert Hall"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1AAvseo",
-      "image_url": "https://s1.ticketm.net/dam/a/ac1/e85e5dcb-7c13-403a-90a8-a32cfff1cac1_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvseo",
-      "organizer": "LIVE NATION MUSIC",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T20:00:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvseo",
-      "title": "Syd: Beard Tour",
-      "venue": {
-        "address": "8 NW 6th Avenue",
-        "city": "Portland",
-        "latitude": 45.5303,
-        "longitude": -122.684799,
-        "name": "Roseland Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-09T02:00:00-08:00",
-      "id": "ticketmaster:Z7r9jZ1A70zog",
-      "image_url": "https://s1.ticketm.net/dam/a/f3f/60b51953-3814-4d47-be0e-6724bc570f3f_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70zog",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "Revolution Hall Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 52.37,
-        "min": 52.37
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T20:00:00-08:00",
-      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 3 days prior to the performance. Tickets purchased in excess of the stated ticket limit are subject to cancellation. The Tallest Man On Earth has captivated audiences using “every inch of his long guitar cord to roam the stage: darting around, crouching, stretching, hip-twitching, perching briefly and jittering away” (The New York Times). Critics often draw comparisons between The Tallest Man on Earth and Bob Dylan, citing similarities in both songwriting and vocal style. Matsson himself has acknowledged Dylan's influence, revealing that he started listening to him at the age of fifteen. Fascinated by Dylan's covers, he del",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70zog",
-      "title": "The Tallest Man on Earth",
-      "venue": {
-        "address": "1300 SE Stark Street #110",
-        "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "Revolution Hall - Portland"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A70YeA",
-      "image_url": "https://s1.ticketm.net/dam/a/c8c/8457ddc4-3cbb-436f-9d74-57989ff3cc8c_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70YeA",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T20:00:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70YeA",
-      "title": "Dax",
-      "venue": {
-        "address": "128 NE Russell St",
-        "city": "Portland",
-        "latitude": 45.543999,
-        "longitude": -122.643501,
-        "name": "Wonder Ballroom"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "end_at": "2026-11-09T02:00:00-08:00",
       "id": "dopdx:17861794",
       "image_url": "https://res.cloudinary.com/dostuff-media/image/upload/w_1136,c_fill,q_auto,f_auto/v1610385111/metro-bkg_1-19.jpg",
@@ -22260,37 +22092,6 @@
         "address": "1195 SE Powell Dr",
         "city": "Portland",
         "name": "The Showdown"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1Af8JOf",
-      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/the-wails-followed-by-sinferno-dantes-tickets/14426814",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 21.09,
-        "min": 21.09
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T20:30:00-08:00",
-      "summary": "The Wails is a stripped-down offshoot of Portland's The Exploding Whales, featuring Carl Arden Hinds, Heather Knopf, and Quinn Mock. The trio takes Exploding Whales songs and gives them a completely different setting and sound, keeping the arrangements simple and leaving more room to play with space and dynamics. They also mix in other originals and songs by some of their favorite artists. It's a chance for the three of them to stretch out together and find new ways to play music they love.",
-      "ticket_url": "https://www.ticketweb.com/event/the-wails-followed-by-sinferno-dantes-tickets/14426814",
-      "title": "THE WAILS followed by Sinferno Cabaret",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
       }
     },
     {
@@ -22437,37 +22238,6 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfPs0S",
-      "image_url": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971933",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 6.2,
-        "min": 6.2
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T21:00:00-08:00",
-      "summary": "CHURCH OF HIVE gothic - industrial - darkwave - dance party SKULLY : LORD NOCTIS 9pm : $5 : 21+",
-      "ticket_url": "https://www.ticketweb.com/event/church-of-hive-star-theater-tickets/14971933",
-      "title": "CHURCH OF HIVE",
-      "venue": {
-        "address": "13 NW Sixth Avenue",
-        "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
-        "name": "Star Theater"
       }
     },
     {
@@ -172685,5 +172455,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-09T07:32:58+00:00"
+  "generated_at": "2026-11-09T07:55:55+00:00"
 }
