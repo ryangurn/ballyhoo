@@ -2,90 +2,6 @@
   "events": [
     {
       "categories": [
-        "arts"
-      ],
-      "id": "ticketmaster:Z7r9jZ1AAvzoK",
-      "image_url": "https://s1.ticketm.net/dam/a/58b/a161f100-eb6a-404a-a5ea-92d975ecf58b_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvzoK",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T14:00:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvzoK",
-      "title": "La Traviata",
-      "venue": {
-        "address": "222 SW Clay St",
-        "city": "Portland",
-        "latitude": 45.497799,
-        "longitude": -122.693703,
-        "name": "Keller Auditorium"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1AA7vrb",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7vrb",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T15:00:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7vrb",
-      "title": "SAW: The Musical (Touring)",
-      "venue": {
-        "address": "126 Northeast Alberta Street",
-        "city": "Portland",
-        "latitude": 45.575298,
-        "longitude": -122.6436,
-        "name": "Alberta Abbey"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "id": "ticketmaster:Z7r9jZ1AAvYG3",
-      "image_url": "https://s1.ticketm.net/dam/a/009/87f46e3e-75f2-4e30-ba80-2bc11a930009_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvYG3",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-08T16:00:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvYG3",
-      "title": "Warren Miller's Days Off",
-      "venue": {
-        "address": "3017 SE Milwaukie Ave",
-        "city": "Portland",
-        "latitude": 45.4818,
-        "longitude": -122.640198,
-        "name": "Aladdin Theater"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "id": "ticketmaster:vvG1HZ_FBoDkR9",
@@ -25986,7 +25902,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-08T21:07:01+00:00",
+  "generated_at": "2026-11-09T00:49:32+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
