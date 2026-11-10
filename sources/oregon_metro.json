@@ -595,6 +595,25 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:oregon-zoo-bond-oversight-subcommittee-meeting-2026-11-20",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-subcommittee-meeting-2026-11-20",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-20T11:00:00-08:00",
+      "title": "Oregon Zoo Bond Oversight Subcommittee meeting"
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "id": "oregon_metro:free-parking-day-metro-parks-2026-11-27",
@@ -968,7 +987,7 @@
         "name": "Oregon Metro",
         "url": "https://www.oregonmetro.gov"
       },
-      "start_at": "2026-12-10T16:00:00-08:00",
+      "start_at": "2026-12-10T17:00:00-08:00",
       "title": "Future Vision Commission meeting",
       "venue": {
         "city": "Portland",
@@ -3338,7 +3357,7 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-09T17:40:53+00:00",
+  "generated_at": "2026-11-10T01:40:16+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
