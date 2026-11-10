@@ -241,14 +241,6 @@
       "venue": "Portland Center Stage"
     },
     {
-      "dropped": "dopdx:17662502",
-      "kept": "ticketmaster:Z7r9jZ1AAZ3up",
-      "start_at": "2026-11-09T20:00:00-08:00",
-      "title_dropped": "Aterciopelados: La Pipa De La Paz 30 Años Tour",
-      "title_kept": "Aterciopelados",
-      "venue": "Aladdin Theater"
-    },
-    {
       "dropped": "willamette_week:18783423@2026-11-10T17:50",
       "kept": "dopdx:17262818",
       "start_at": "2026-11-10T17:50:00-08:00",
@@ -3473,6 +3465,14 @@
       "venue": "Wonder Ballroom"
     },
     {
+      "dropped": "willamette_week:17586570@2026-12-07T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPw8f",
+      "start_at": "2026-12-07T21:00:00-08:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19867868@2026-12-08T18:30",
       "kept": "ticketmaster:Z7r9jZ1AAvE0Z",
       "start_at": "2026-12-08T18:30:00-08:00",
@@ -3593,9 +3593,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 5960,
-  "floor_check": "5960 events against a 5900-event baseline",
-  "generated_at": "2026-11-10T09:40:14+00:00",
+  "event_count": 5958,
+  "floor_check": "5958 events against a 5900-event baseline",
+  "generated_at": "2026-11-10T09:44:33+00:00",
   "problems": [],
   "sources": [
     "calagator",
