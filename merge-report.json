@@ -633,14 +633,6 @@
       "venue": "Holocene"
     },
     {
-      "dropped": "dopdx:17957263",
-      "kept": "ticketmaster:rZ7HnEZ1AfusOf",
-      "start_at": "2026-11-12T20:00:00-08:00",
-      "title_dropped": "Deathtape with Salt+ & Guests",
-      "title_kept": "DEATHTAPE with Salt+ & Gored",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:20197477@2026-11-12T20:00",
       "kept": "dopdx:17957263",
       "start_at": "2026-11-12T20:00:00-08:00",
@@ -655,6 +647,14 @@
       "title_dropped": "Clay Street Unit with Brad Parsons",
       "title_kept": "Clay Street Unit with Brad Parsons",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "dopdx:17957263",
+      "kept": "ticketmaster:rZ7HnEZ1AfusOf",
+      "start_at": "2026-11-12T20:30:00-08:00",
+      "title_dropped": "Deathtape with Salt+ & Guests",
+      "title_kept": "DEATHTAPE with Salt+ & Gored",
+      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19859205@2026-11-12T20:30",
@@ -3549,7 +3549,7 @@
       "kept": "ticketmaster:rZ7HnEZ1Afufbf",
       "start_at": "2026-12-10T20:00:00-08:00",
       "title_dropped": "TEMPER CITY ~ 94/7fm December 2 Remember",
-      "title_kept": "DECEMBER TO REMEMBER: TEMPER CITY",
+      "title_kept": "DECEMBER TO REMEMBER: TEMPER CITY with Pretty Deadly",
       "venue": "Dante's"
     },
     {
@@ -3593,9 +3593,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 5958,
-  "floor_check": "5958 events against a 5896-event baseline",
-  "generated_at": "2026-11-10T01:42:06+00:00",
+  "event_count": 5960,
+  "floor_check": "5960 events against a 5896-event baseline",
+  "generated_at": "2026-11-10T02:02:58+00:00",
   "problems": [],
   "sources": [
     "calagator",
