@@ -2617,6 +2617,38 @@
       "venue": "Portland Center Stage"
     },
     {
+      "dropped": "willamette_week:18798133@2026-12-06T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Afx6ZS",
+      "start_at": "2026-12-06T19:00:00-08:00",
+      "title_dropped": "PIANO QUEEN",
+      "title_kept": "PIANO QUEEN",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:19679616@2026-12-06T19:00",
+      "kept": "ticketmaster:vvG1HZ_2B6GkFr",
+      "start_at": "2026-12-06T19:00:00-08:00",
+      "title_dropped": "The Wolf's Nice Christmas Show",
+      "title_kept": "The Wolf's Nice Christmas Show",
+      "venue": "Veterans Memorial Coliseum"
+    },
+    {
+      "dropped": "willamette_week:20200698@2026-12-06T19:00",
+      "kept": "ticketmaster:Z7r9jZ1AAvUo-",
+      "start_at": "2026-12-06T19:00:00-08:00",
+      "title_dropped": "Emo Orchestra with The Spill Canvas (21 and Over Only w/ Valid Photo ID)",
+      "title_kept": "Emo Orchestra with The Spill Canvas (21 and Over Only w/ Valid Photo ID)",
+      "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "willamette_week:20170046@2026-12-06T19:00",
+      "kept": "ticketmaster:Z7r9jZ1AAvUo-",
+      "start_at": "2026-12-06T19:00:00-08:00",
+      "title_dropped": "Greywind",
+      "title_kept": "Emo Orchestra with The Spill Canvas (21 and Over Only w/ Valid Photo ID)",
+      "venue": "Hawthorne Theatre"
+    },
+    {
       "dropped": "obt:855",
       "kept": "ticketmaster:Z7r9jZ1AAvzkp",
       "start_at": "2026-12-11T19:30:00-08:00",
@@ -3425,38 +3457,6 @@
       "venue": "Dante's"
     },
     {
-      "dropped": "willamette_week:18798133@2026-12-06T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1Afx6ZS",
-      "start_at": "2026-12-06T19:00:00-08:00",
-      "title_dropped": "PIANO QUEEN",
-      "title_kept": "PIANO QUEEN",
-      "venue": "Star Theater"
-    },
-    {
-      "dropped": "willamette_week:19679616@2026-12-06T19:00",
-      "kept": "ticketmaster:vvG1HZ_2B6GkFr",
-      "start_at": "2026-12-06T19:00:00-08:00",
-      "title_dropped": "The Wolf's Nice Christmas Show",
-      "title_kept": "The Wolf's Nice Christmas Show",
-      "venue": "Veterans Memorial Coliseum"
-    },
-    {
-      "dropped": "willamette_week:20200698@2026-12-06T19:00",
-      "kept": "ticketmaster:Z7r9jZ1AAvUo-",
-      "start_at": "2026-12-06T19:00:00-08:00",
-      "title_dropped": "Emo Orchestra with The Spill Canvas (21 and Over Only w/ Valid Photo ID)",
-      "title_kept": "Emo Orchestra with The Spill Canvas (21 and Over Only w/ Valid Photo ID)",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "willamette_week:20170046@2026-12-06T19:00",
-      "kept": "ticketmaster:Z7r9jZ1AAvUo-",
-      "start_at": "2026-12-06T19:00:00-08:00",
-      "title_dropped": "Greywind",
-      "title_kept": "Emo Orchestra with The Spill Canvas (21 and Over Only w/ Valid Photo ID)",
-      "venue": "Hawthorne Theatre"
-    },
-    {
       "dropped": "willamette_week:19579502@2026-12-06T20:00",
       "kept": "ticketmaster:rZ7HnEZ1AfJ3vK",
       "start_at": "2026-12-06T20:00:00-08:00",
@@ -3577,9 +3577,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 5900,
-  "floor_check": "5900 events against a 5898-event baseline",
-  "generated_at": "2026-11-09T22:51:07+00:00",
+  "event_count": 5902,
+  "floor_check": "5902 events against a 5898-event baseline",
+  "generated_at": "2026-11-10T00:53:10+00:00",
   "problems": [],
   "sources": [
     "calagator",
