@@ -393,6 +393,14 @@
       "venue": "Arlene Schnitzer Concert Hall"
     },
     {
+      "dropped": "willamette_week:20410460@2026-11-11T19:30",
+      "kept": "dopdx:17564694",
+      "start_at": "2026-11-11T19:30:00-08:00",
+      "title_dropped": "Special Event: Perfect Person Live: The Grey Area Tour",
+      "title_kept": "Perfect Person Live: The Grey Area Tour",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:19736102@2026-11-11T20:00",
       "kept": "dopdx:17564694",
       "start_at": "2026-11-11T19:30:00-08:00",
@@ -447,6 +455,22 @@
       "title_dropped": "A STRANGE BIRD with Vega Black, Zane Thomas & Bikehouse",
       "title_kept": "A Strange Bird with Vega Black, Zane Thomas & Bikehouse",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:20346641@2026-11-11T20:00",
+      "kept": "dopdx:17579496",
+      "start_at": "2026-11-11T20:00:00-08:00",
+      "title_dropped": "Leah Bonnema: The Evolution of a People Pleaser (If That's Okay With You)",
+      "title_kept": "Leah Bonnema - The Evolution of a People Pleaser (If That’s Okay with You)",
+      "venue": "Siren Theater"
+    },
+    {
+      "dropped": "willamette_week:20346652@2026-11-11T20:00",
+      "kept": "dopdx:17579496",
+      "start_at": "2026-11-11T20:00:00-08:00",
+      "title_dropped": "The Evolution of a People Pleaser with Leah Bonnema",
+      "title_kept": "Leah Bonnema - The Evolution of a People Pleaser (If That’s Okay with You)",
+      "venue": "Siren Theater"
     },
     {
       "dropped": "willamette_week:20346676@2026-11-11T20:00",
@@ -511,6 +535,14 @@
       "title_dropped": "Gay Drama",
       "title_kept": "Gay Drama",
       "venue": "Peacock PDX"
+    },
+    {
+      "dropped": "willamette_week:20411692@2026-11-12T19:00",
+      "kept": "dopdx:17564695",
+      "start_at": "2026-11-12T19:30:00-08:00",
+      "title_dropped": "Special Event: Joel McHale",
+      "title_kept": "Mark Paul",
+      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "dopdx:17262341",
@@ -3545,6 +3577,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:18893389@2026-12-05T23:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfvK77",
+      "start_at": "2026-12-05T23:30:00-08:00",
+      "title_dropped": "SMASH disco~glam~metal~punk-hiphop",
+      "title_kept": "SMASH disco~glam~metal~punk-hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:18235587@2026-12-06T16:00",
       "kept": "ticketmaster:Z7r9jZ1A7Jk8p",
       "start_at": "2026-12-06T16:00:00-08:00",
@@ -3745,9 +3785,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 5982,
-  "floor_check": "5982 events against a 5960-event baseline",
-  "generated_at": "2026-11-10T17:46:53+00:00",
+  "event_count": 6096,
+  "floor_check": "6096 events against a 5960-event baseline",
+  "generated_at": "2026-11-10T17:57:13+00:00",
   "problems": [],
   "sources": [
     "calagator",
