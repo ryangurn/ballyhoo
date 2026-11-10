@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T04:17:42+00:00",
+  "generated_at": "2026-11-10T07:35:21+00:00",
   "sources": [
     {
       "event_count": 28,
       "last_run_at": "2026-11-10T01:27:05+00:00",
       "source_id": "calagator",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/calagator.json"
     },
     {
@@ -19,19 +19,19 @@
       "event_count": 5,
       "last_run_at": "2026-11-10T01:28:23+00:00",
       "source_id": "hillsboro_farmers_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hillsboro_farmers_markets.json"
     },
     {
       "event_count": 10,
       "last_run_at": "2026-11-09T22:37:17+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
       "event_count": 26,
-      "last_run_at": "2026-11-09T22:35:38+00:00",
+      "last_run_at": "2026-11-10T07:34:09+00:00",
       "source_id": "neighborhood_markets",
       "status": "ok",
       "url": "sources/neighborhood_markets.json"
@@ -40,14 +40,14 @@
       "event_count": 55,
       "last_run_at": "2026-11-10T00:52:11+00:00",
       "source_id": "obt",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/obt.json"
     },
     {
       "event_count": 13,
       "last_run_at": "2026-11-09T22:50:25+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
@@ -61,7 +61,7 @@
       "event_count": 27,
       "last_run_at": "2026-11-10T01:28:07+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
@@ -82,7 +82,7 @@
       "event_count": 41,
       "last_run_at": "2026-11-10T01:08:33+00:00",
       "source_id": "vancouver_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/vancouver_farmers_market.json"
     },
     {
