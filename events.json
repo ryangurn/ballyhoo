@@ -56173,6 +56173,39 @@
     },
     {
       "categories": [
+        "music",
+        "market"
+      ],
+      "end_at": "2026-11-15T15:00:00-08:00",
+      "id": "portland_farmers_market:apple-cider-press-day@2026-11-15",
+      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2026/11/apple-cider-press-lents-111526-e1794275941307.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portlandfarmersmarket.org/event/apple-cider-press-day/",
+      "organizer": "Portland Farmers Market",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "portland_farmers_market",
+        "name": "Portland Farmers Market",
+        "url": "https://www.portlandfarmersmarket.org"
+      },
+      "start_at": "2026-11-15T10:00:00-08:00",
+      "summary": "Make your own apple cider with us at Lents International Farmers Market on Sunday, November 15, 2026 from 10 am to 3 pm.",
+      "title": "Apple Cider Press Day",
+      "venue": {
+        "address": "5718 SE 92nd Ave",
+        "city": "Portland",
+        "latitude": 45.48012,
+        "longitude": -122.56962,
+        "name": "Lents International Farmers Market"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -175058,5 +175091,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-10T14:15:43+00:00"
+  "generated_at": "2026-11-10T14:47:12+00:00"
 }
