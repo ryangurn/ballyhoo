@@ -44227,16 +44227,16 @@
       "id": "ticketmaster:rZ7HnEZ1Af0UaS",
       "image_url": "https://s1.ticketm.net/dam/a/492/4bea4871-990c-4a3b-86af-90d06b9b4492_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/metal-church-armored-saint-dantes-tickets/14936273",
+      "listing_url": "https://www.ticketweb.com/event/sold-out-metal-church-dantes-tickets/14936273",
       "merged_sources": [
         "dopdx",
         "ticketmaster"
       ],
       "price": {
         "currency": "USD",
-        "is_free": false,
-        "max": 42.72,
-        "min": 42.72
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
       },
       "source": {
         "id": "ticketmaster",
@@ -44245,8 +44245,8 @@
       },
       "start_at": "2026-11-13T19:30:00-08:00",
       "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/metal-church-armored-saint-dantes-tickets/14936273",
-      "title": "METAL CHURCH / ARMORED SAINT with Livekill",
+      "ticket_url": "https://www.ticketweb.com/event/sold-out-metal-church-dantes-tickets/14936273",
+      "title": "SOLD OUT! METAL CHURCH / ARMORED SAINT with Livekill",
       "venue": {
         "address": "350 West Burnside Street",
         "city": "Portland",
@@ -61984,6 +61984,37 @@
         "latitude": 45.561001,
         "longitude": -122.6617039,
         "name": "Curious Comedy Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1Af8yF0",
+      "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/ezra-meredith-the-deer-dantes-tickets/14439224",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 21.09,
+        "min": 21.09
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-11-15T20:30:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/ezra-meredith-the-deer-dantes-tickets/14439224",
+      "title": "EZRA MEREDITH & THE DEER LODGE ALL STARS followed by Sinferno Cabaret",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
       }
     },
     {
@@ -141474,37 +141505,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1A4ZMZd",
-      "image_url": "https://s1.ticketm.net/dam/a/5d6/405c4746-ce83-4a42-a382-788bb6bdd5d6_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/isaiah-sharkey-star-theater-tickets/15037003",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 32.42,
-        "min": 32.42
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-12-05T20:00:00-08:00",
-      "summary": "Isaiah SharkeyIsaiah Sharkey stands at the confluence of modern soul, jazz, R&B, and Black American guitar tradition, carrying forward a lineage that links George Benson, Curtis Mayfield, Wes Montgomery, and Jimi Hendrix while forging a vocabulary entirely his own. A Grammy Award--winning guitarist, vocalist, composer, and producer, Sharkey has become one of the most respected musicians of his generation---celebrated for his sophisticated harmonic sensibility, unmistakable tone, and ability to shape-shift effortlessly between musical worlds. Born and raised on Chicago's North Side in a deeply musical family, Sharkey was immersed from childhood in gospel, jazz, and classic R&B. His father, a working musician, recognized early his son's extraordinary ear and feel, guiding him through professional-level repertoire before most children his age would form basic chords. By the time he was 14, Sharkey was touring nationally; by his late teens, he had already become a first-call session player in Chicago's tight-knit recording community.",
-      "ticket_url": "https://www.ticketweb.com/event/isaiah-sharkey-star-theater-tickets/15037003",
-      "title": "ISAIAH SHARKEY",
-      "venue": {
-        "address": "13 NW Sixth Avenue",
-        "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
-        "name": "Star Theater"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "id": "ticketmaster:vvG1HZ_3kJ5tS-",
@@ -179580,5 +179580,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-11T02:17:28+00:00"
+  "generated_at": "2026-11-11T02:49:33+00:00"
 }
