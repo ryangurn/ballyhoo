@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T09:53:10+00:00",
+  "generated_at": "2026-11-11T10:49:42+00:00",
   "sources": [
     {
       "event_count": 27,
@@ -72,17 +72,17 @@
       "url": "sources/portland_parks.json"
     },
     {
-      "event_count": 914,
-      "last_run_at": "2026-11-11T02:48:47+00:00",
+      "event_count": 907,
+      "last_run_at": "2026-11-11T10:48:50+00:00",
       "source_id": "ticketmaster",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/ticketmaster.json"
     },
     {
       "event_count": 41,
       "last_run_at": "2026-11-11T04:30:46+00:00",
       "source_id": "vancouver_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/vancouver_farmers_market.json"
     },
     {
