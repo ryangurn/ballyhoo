@@ -56503,7 +56503,9 @@
       "listing_url": "https://downtownbeaverton.org/event/beaverton-symphony-orchestra-chamber-music-concert/",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 50.0,
+        "min": 0.0
       },
       "source": {
         "id": "willamette_week",
@@ -56512,6 +56514,7 @@
       },
       "start_at": "2026-11-22T15:00:00-08:00",
       "summary": "Enjoy an intimate afternoon of live classical music with the Beaverton Symphony Orchestra Chamber Music Concert on Sunday, November 22 at 3:00 p.m. at Village Church in Beaverton. Small ensembles formed by members of the Beaverton Symphony Orchestra and friends will perform chamber music in a setting that brings audiences closer to the musicians and the music. Chamber performances offer a different experience from a full orchestra concert, highlighting the interaction between individual instruments and performers in a more personal setting. beavertonsymphony.org The concert will be held at Village Church, 330 SW Murray Blvd., Beaverton, OR 97005. The complete program of music is expected to be announced by the orchestra. beavertonsymphony.org Whether you’re a longtime classical music fan or simply looking for a relaxing Sunday afternoon experience, this chamber concert is a great opportunity to hear local musicians from the Beaverton Symphony Orchestra perform in a more intimate format.",
+      "ticket_url": "https://patron.beavertonsymphony.org/ticketing/beaverton/catalog/events",
       "title": "Beaverton Symphony Orchestra Chamber Music Concert",
       "venue": {
         "address": "330 Sw Murray Blvd",
@@ -113472,7 +113475,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-11T06:35:04+00:00",
+  "generated_at": "2026-11-11T15:18:48+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
