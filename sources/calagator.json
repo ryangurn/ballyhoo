@@ -31,30 +31,6 @@
       "categories": [
         "tech"
       ],
-      "end_at": "2026-11-12T19:30:00-08:00",
-      "id": "calagator:1250482706",
-      "is_all_day": false,
-      "listing_url": "http://communitybroadbandpdx.org",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "calagator",
-        "name": "Calagator",
-        "url": "https://calagator.org"
-      },
-      "start_at": "2026-11-12T17:30:00-08:00",
-      "summary": "Monthly community campaign meeting to coordinate actions toward building a public broadband option in the City of Portland. Open to all.\r\nThis meeting is open to everyone interested in campaigning for a public broadband option for the City of Portland!  Bringing community-owned internet infrastructure to Portland is a community effort!  We need your help! No technical skills necessary.\r\n\r\nThis is a recurring community meeting happening every 2nd Thursday of the month.  \r\n\r\nWe are gathering in the CETI Lab located on the 4th floor at 111 SW Columbia Street in downtown Portland.  The Lab is easily acessible by public transporation.  There is parking in the building garage on the 4th floor for $5. \r\n\r\nThank you to the CETI Institute for hosting Community Broadband PDX monthly meetings!\r\n\r\n<a href=\"https://cbbpdx.civicrm.org/civicrm/event/register?id=15&reset=1\">RSVP</a>",
-      "title": "Community Broadband PDX Campaign Meeting",
-      "venue": {
-        "name": "CETI Institute Lab"
-      }
-    },
-    {
-      "categories": [
-        "tech"
-      ],
       "end_at": "2026-11-14T20:30:00-08:00",
       "id": "calagator:1250482747",
       "is_all_day": false,
@@ -588,6 +564,34 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-12-03T20:00:00-08:00",
+      "id": "calagator:1250482793",
+      "is_all_day": false,
+      "listing_url": "https://etix.com/ticket/p/31863486/demoliciouschampion-of-champions-portland-mcmenamins-mission-theater",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-12-03T17:30:00-08:00",
+      "summary": "After its epic relaunch in 2024, Demolicious has quickly become the stage for early-stage founders to show off their boldest ideas and biggest dreams. Every month at the UpStart Collective, these fearless founders have pitched in front of a packed, supportive crowd—honing their storytelling skills, building buzz, and giving us all a glimpse at the next wave of job-creating, game-changing companies.\r\n\r\nNow it all comes down to this: the Championship Showdown!\r\n\r\nWe’re bringing back all the monthly winners for a high-energy, founder-versus-founder battle. You’ll hear the pitches, cheer them on, and—most importantly—you’ll decide who takes home the belt, the bragging rights, and cold, hard (non-dilutive!) prize money.\r\n\r\nBe part of the celebration.\r\n\r\nBe part of the energy.\r\n\r\nBe part of the story before these startups take off.\r\n\r\nJoin us for a night of competition, community, and future-shaping innovation at Demolicious 2026!\r\n\r\nhttps://etix.com/ticket/p/31863486/demoliciouschampion-of-champions-portland-mcmenamins-mission-theater",
+      "title": "Demolicious Champion of Champions 2026",
+      "venue": {
+        "address": "1624 Nw Glisan St",
+        "city": "Portland",
+        "latitude": 45.5264,
+        "longitude": -122.6882,
+        "name": "McMenamins Mission Theater & Pub"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-12-05T13:00:00-08:00",
       "id": "calagator:1250482292",
       "is_all_day": false,
@@ -720,7 +724,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-11T14:04:08+00:00",
+  "generated_at": "2026-11-11T21:20:58+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
