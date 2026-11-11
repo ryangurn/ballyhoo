@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T08:17:58+00:00",
+  "generated_at": "2026-11-11T09:53:10+00:00",
   "sources": [
     {
       "event_count": 27,
@@ -38,9 +38,9 @@
     },
     {
       "event_count": 55,
-      "last_run_at": "2026-11-11T02:16:38+00:00",
+      "last_run_at": "2026-11-11T09:52:23+00:00",
       "source_id": "obt",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/obt.json"
     },
     {
@@ -68,14 +68,14 @@
       "event_count": 0,
       "last_run_at": "2026-11-11T03:03:40+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
       "event_count": 914,
       "last_run_at": "2026-11-11T02:48:47+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
