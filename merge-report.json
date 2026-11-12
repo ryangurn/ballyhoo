@@ -689,6 +689,14 @@
       "venue": "Coffee Beer"
     },
     {
+      "dropped": "willamette_week:20425696@2026-11-14T18:45",
+      "kept": "dopdx:17900805",
+      "start_at": "2026-11-14T19:00:00-08:00",
+      "title_dropped": "Die Hard the Musical Parody - Foster Theater",
+      "title_kept": "Murder Mystery Machine",
+      "venue": "Funhouse Lounge"
+    },
+    {
       "dropped": "willamette_week:19879763@2026-11-14T19:00",
       "kept": "dopdx:17569202",
       "start_at": "2026-11-14T19:00:00-08:00",
@@ -3001,6 +3009,14 @@
       "venue": "Veterans Memorial Coliseum"
     },
     {
+      "dropped": "willamette_week:20425675@2026-11-27T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af8Ykf",
+      "start_at": "2026-11-27T21:00:00-08:00",
+      "title_dropped": "MISS EXOTIC OREGON 2027 FINALS",
+      "title_kept": "MISS EXOTIC OREGON 2027 FINALS",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:20374027@2026-11-27T22:00",
       "kept": "ticketmaster:Z7r9jZ1AAep0-",
       "start_at": "2026-11-27T22:00:00-08:00",
@@ -3063,6 +3079,14 @@
       "title_dropped": "Music of Hans Zimmer",
       "title_kept": "Oregon Symphony presents Music of Hans Zimmer",
       "venue": "Arlene Schnitzer Concert Hall"
+    },
+    {
+      "dropped": "willamette_week:20425676@2026-11-28T19:30",
+      "kept": "ticketmaster:Z7r9jZ1AA7M1b",
+      "start_at": "2026-11-28T19:30:00-08:00",
+      "title_dropped": "FC Dallas at Portland Timbers: Western Conference Round One (Home Game 1)",
+      "title_kept": "FC Dallas at Portland Timbers: Western Conference Round One (Home Game 1)",
+      "venue": "Providence Park"
     },
     {
       "dropped": "willamette_week:20169134@2026-11-28T19:30",
@@ -3729,6 +3753,14 @@
       "venue": "Helium Comedy Club - Portland"
     },
     {
+      "dropped": "willamette_week:14445255@2026-12-12T22:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfZ-Q7",
+      "start_at": "2026-12-12T22:30:00-08:00",
+      "title_dropped": "BURLY-Q REVUE",
+      "title_kept": "BURLY-Q REVUE",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "willamette_week:20169590@2026-11-12T18:30",
       "kept": "dopdx:17774002",
       "start_at": "2026-11-12T19:00:00-08:00",
@@ -3745,9 +3777,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6175,
-  "floor_check": "6175 events against a 6108-event baseline",
-  "generated_at": "2026-11-12T10:55:59+00:00",
+  "event_count": 6219,
+  "floor_check": "6219 events against a 6108-event baseline",
+  "generated_at": "2026-11-12T11:25:49+00:00",
   "problems": [],
   "sources": [
     "calagator",
