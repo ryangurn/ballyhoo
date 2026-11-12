@@ -745,6 +745,14 @@
       "venue": "Newmark Theatre"
     },
     {
+      "dropped": "willamette_week:20429047@2026-11-14T19:00",
+      "kept": "dopdx:17797571",
+      "start_at": "2026-11-14T19:00:00-08:00",
+      "title_dropped": "Take Me To Your Leader: The Seoul of a Clown",
+      "title_kept": "Take Me To Your Leader: The Seoul of a Clown",
+      "venue": "Kickstand Comedy"
+    },
+    {
       "dropped": "willamette_week:19858298@2026-11-14T19:00",
       "kept": "dopdx:17797571",
       "start_at": "2026-11-14T19:00:00-08:00",
@@ -3777,9 +3785,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6221,
-  "floor_check": "6221 events against a 6168-event baseline",
-  "generated_at": "2026-11-12T19:30:47+00:00",
+  "event_count": 6296,
+  "floor_check": "6296 events against a 6168-event baseline",
+  "generated_at": "2026-11-12T20:01:17+00:00",
   "problems": [],
   "sources": [
     "calagator",
