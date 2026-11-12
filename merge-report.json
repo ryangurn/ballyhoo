@@ -1,54 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "dopdx:17466757",
-      "kept": "ticketmaster:vvG1HZ_GNy4-Oj",
-      "start_at": "2026-11-11T19:00:00-08:00",
-      "title_dropped": "20 Years of Nekrogoblikon with Special Guests Aborted",
-      "title_kept": "20 Years of Nekrogoblikon with Special Guests Aborted",
-      "venue": "McMenamins Crystal Ballroom"
-    },
-    {
-      "dropped": "dopdx:17466757",
-      "kept": "ticketmaster:Z7r9jZ1A7P3fy",
-      "start_at": "2026-11-11T19:00:00-08:00",
-      "title_dropped": "20 Years of Nekrogoblikon with Special Guests Aborted",
-      "title_kept": "20 Years of Nekrogoblikon with Special Guests Aborted",
-      "venue": "McMenamins Crystal Ballroom"
-    },
-    {
-      "dropped": "willamette_week:20142851@2026-11-11T19:00",
-      "kept": "dopdx:17745476",
-      "start_at": "2026-11-11T19:00:00-08:00",
-      "title_dropped": "Lucy Bedroque & pinponpanpon",
-      "title_kept": "Lucy Bedroque",
-      "venue": "Wonder Ballroom"
-    },
-    {
-      "dropped": "dopdx:17734954",
-      "kept": "ticketmaster:vvG1HZ_83jwzB0",
-      "start_at": "2026-11-11T19:00:00-08:00",
-      "title_dropped": "Trail blazers vs. Oklahoma City Thunder",
-      "title_kept": "Portland Trail Blazers vs. Oklahoma City Thunder",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "willamette_week:19679606@2026-11-11T19:00",
-      "kept": "dopdx:17734954",
-      "start_at": "2026-11-11T19:00:00-08:00",
-      "title_dropped": "Portland Trail Blazers vs. Oklahoma City Thunder",
-      "title_kept": "Trail blazers vs. Oklahoma City Thunder",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "willamette_week:20142852@2026-11-11T19:00",
-      "kept": "dopdx:17758126",
-      "start_at": "2026-11-11T19:00:00-08:00",
-      "title_dropped": "Oso Oso & Bugsy & Liquid Mike",
-      "title_kept": "An Exchange of Information: OSO OSO + Guests",
-      "venue": "The High Limit Room"
-    },
-    {
       "dropped": "willamette_week:19957025@2026-11-16T19:30",
       "kept": "dopdx:17837518",
       "start_at": "2026-11-16T19:00:00-08:00",
@@ -255,6 +207,54 @@
       "title_dropped": "John McCutcheon",
       "title_kept": "John Mccutcheon",
       "venue": "The Alberta Rose Theatre"
+    },
+    {
+      "dropped": "dopdx:17466757",
+      "kept": "ticketmaster:vvG1HZ_GNy4-Oj",
+      "start_at": "2026-11-11T19:00:00-08:00",
+      "title_dropped": "20 Years of Nekrogoblikon with Special Guests Aborted",
+      "title_kept": "20 Years of Nekrogoblikon with Special Guests Aborted",
+      "venue": "McMenamins Crystal Ballroom"
+    },
+    {
+      "dropped": "dopdx:17466757",
+      "kept": "ticketmaster:Z7r9jZ1A7P3fy",
+      "start_at": "2026-11-11T19:00:00-08:00",
+      "title_dropped": "20 Years of Nekrogoblikon with Special Guests Aborted",
+      "title_kept": "20 Years of Nekrogoblikon with Special Guests Aborted",
+      "venue": "McMenamins Crystal Ballroom"
+    },
+    {
+      "dropped": "willamette_week:20142851@2026-11-11T19:00",
+      "kept": "dopdx:17745476",
+      "start_at": "2026-11-11T19:00:00-08:00",
+      "title_dropped": "Lucy Bedroque & pinponpanpon",
+      "title_kept": "Lucy Bedroque",
+      "venue": "Wonder Ballroom"
+    },
+    {
+      "dropped": "dopdx:17734954",
+      "kept": "ticketmaster:vvG1HZ_83jwzB0",
+      "start_at": "2026-11-11T19:00:00-08:00",
+      "title_dropped": "Trail blazers vs. Oklahoma City Thunder",
+      "title_kept": "Portland Trail Blazers vs. Oklahoma City Thunder",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:19679606@2026-11-11T19:00",
+      "kept": "dopdx:17734954",
+      "start_at": "2026-11-11T19:00:00-08:00",
+      "title_dropped": "Portland Trail Blazers vs. Oklahoma City Thunder",
+      "title_kept": "Trail blazers vs. Oklahoma City Thunder",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:20142852@2026-11-11T19:00",
+      "kept": "dopdx:17758126",
+      "start_at": "2026-11-11T19:00:00-08:00",
+      "title_dropped": "Oso Oso & Bugsy & Liquid Mike",
+      "title_kept": "An Exchange of Information: OSO OSO + Guests",
+      "venue": "The High Limit Room"
     },
     {
       "dropped": "willamette_week:19348739@2026-11-11T19:00",
@@ -3745,9 +3745,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6105,
-  "floor_check": "6105 events against a 6108-event baseline",
-  "generated_at": "2026-11-12T01:40:52+00:00",
+  "event_count": 6104,
+  "floor_check": "6104 events against a 6108-event baseline",
+  "generated_at": "2026-11-12T02:53:21+00:00",
   "problems": [],
   "sources": [
     "calagator",
