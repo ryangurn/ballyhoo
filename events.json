@@ -30890,8 +30890,8 @@
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 25.16,
-        "min": 25.16
+        "max": 30.31,
+        "min": 30.31
       },
       "source": {
         "id": "ticketmaster",
@@ -132094,9 +132094,9 @@
       ],
       "price": {
         "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
+        "is_free": false,
+        "max": 27.27,
+        "min": 27.27
       },
       "source": {
         "id": "ticketmaster",
@@ -132104,9 +132104,9 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-12-04T20:00:00-08:00",
-      "summary": "L'RainSould Out Presents: LRain with special guests TBADoors: 7:00pmShow: 8:00pmAges: 21+Open Floor / Seating not guaranteed Notes on Seating: Open seating, may be limited or standing room only. First come, first seated. Open dance floor may obscure sightlines.",
+      "summary": "L'Rain with zayALLCAPSSoul'd Out Presents: L'Rain with special guests zayALLCAPS Doors: 7:00pm Show: 8:00pm Ages: 21+ Open Floor / Seating not guaranteed L'Rain has partnered with PLUS1 so that $1 from every ticket sold goes to Sounds of Saving and their work designing and providing tools, content, resources, and curriculum to young people on how to discover and utilize music to support their mental health and wellness! Notes on Seating: Open seating, may be limited or standing room only. First come, first seated. Open dance floor may obscure sightlines.",
       "ticket_url": "https://www.ticketweb.com/event/lrain-jack-london-revue-tickets/14240254",
-      "title": "L'Rain",
+      "title": "L'RAIN",
       "venue": {
         "address": "529 SW 4th Ave.",
         "city": "Portland",
@@ -166506,37 +166506,6 @@
       "categories": [
         "music"
       ],
-      "id": "ticketmaster:rZ7HnEZ1Af8tvV",
-      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/tropical-latin-goth-club-nye-showdown-saloon-tickets/14429074",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 35.46,
-        "min": 35.46
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-12-31T20:00:00-08:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/tropical-latin-goth-club-nye-showdown-saloon-tickets/14429074",
-      "title": "Tropical Latin Goth Club NYE Pari",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
-        "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
       "id": "ticketmaster:Z7r9jZ1AAvN89",
       "image_url": "https://s1.ticketm.net/dam/a/fab/7c51d249-e6ff-407d-a1ec-4462e031dfab_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -166646,6 +166615,37 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "Roseland Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1Af8tvV",
+      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/tropical-latin-goth-club-nye-showdown-saloon-tickets/14429074",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 35.46,
+        "min": 35.46
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-31T21:00:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/tropical-latin-goth-club-nye-showdown-saloon-tickets/14429074",
+      "title": "Tropical Latin Goth Club NYE Pari",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.50122605,
+        "longitude": -122.65284748,
+        "name": "Showdown Saloon"
       }
     },
     {
@@ -174621,9 +174621,9 @@
       "listing_url": "https://www.ticketweb.com/event/kneebody-early-show-jack-london-revue-tickets/14369614",
       "price": {
         "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
+        "is_free": false,
+        "max": 291.47,
+        "min": 40.4
       },
       "source": {
         "id": "ticketmaster",
@@ -174708,9 +174708,9 @@
       "listing_url": "https://www.ticketweb.com/event/kneebody-late-show-jack-london-revue-tickets/14373194",
       "price": {
         "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
+        "is_free": false,
+        "max": 291.47,
+        "min": 40.4
       },
       "source": {
         "id": "ticketmaster",
@@ -185170,5 +185170,5 @@
       "title": "Free parking day at Metro parks"
     }
   ],
-  "generated_at": "2026-11-12T23:33:02+00:00"
+  "generated_at": "2026-11-12T23:40:10+00:00"
 }
