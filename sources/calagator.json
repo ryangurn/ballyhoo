@@ -589,6 +589,34 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-12-03T21:00:00-08:00",
+      "id": "calagator:1250482795",
+      "is_all_day": false,
+      "listing_url": "https://pdxlinux.org/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-12-03T19:00:00-08:00",
+      "summary": "Summary:\r\n\r\nClear Linux OS is dead. For a lot of people who knew what Clear Linux OS was, that is sad. For a few people who worked on it, it's a giant loss of everything that we built, and everything we accomplished. Most of it was never made public - all the secret sauce.\r\n\r\nI'm going to present why this was such a loss for everyone, and not just the users. The main thought is that we didn't just start a cool Linux distro. Because what we had to do was to appease the corporate lawyers, the Security guys, the product guys, and the management of the company, that doing Clear Linux OS was not a risk. And that it was a good idea to begin with.\r\n\r\nAnd this means specifically that Compliance was important. And that we had a well oiled machine to keep producing updates, securely, and deliver speed and excellence to our users. And we did so - twice a day - for almost a decade.\r\n\r\nThis talk is going to be specifically about what I'm doing today to build a new OSS Linux Distribution factory. A machine that builds the distribution, that does all these things. And it does it with compliance at heart. And I'll tell you why I'm doing it like this. So that you can understand what is going to come out of it in the future, and what the value of that will be.\r\n\r\nFollow the project at https://ur.foo-projects.org/ and come listen to my talk!\r\n\r\nBio:\r\n\r\nAuke (pronunciation provided on request) Kok is a Dutch person living in Oregon since 2005, when he decided to quit a perfectly good job and move there, assuming it would be a good place to work on Linux stuff (and get paid). Before that period, he already studied CS in Amsterdam under Andrew Tanenbaum of Minix fame, and was a project lead for a Source-Based Linux Distribution. After the move to Oregon he worked for Intel for 17 years doing a little kernel work, and a lot of Linux Distribution Engineering. Auke founded the Clear Linux project with a few others, and built the distribution from scratch, and it was pretty neat. Nowadays he's no longer at Intel, and has figured out that Linux Kernel work isn't what he likes to do. So he decided to start a new Linux Distro project again, but this time, it's serious. Aside being obsessed about Linux Distributions and how they should work, Auke tries to stay in shape by rock climbing, and taking care of his own little piece of Oregon Forest up somewhere in the hills, together with his wife and three kids. To keep the house heated, he provides his experience and skills to Verge.IO where he is building the future Linux OS product that this company will offer as a product for those that wish to move away from VMWare and hosting their own private Cloud Infrastructure. Auke's blog posts can be found at ur.foo-projects.org.",
+      "title": "Portland Linux/Unix Group General Monthly Meeting: a new OSS Linux Distribution factory, with Auke Kok",
+      "venue": {
+        "address": "1900 Southwest 4th Avenue",
+        "city": "Portland",
+        "latitude": 45.5095,
+        "longitude": -122.6811,
+        "name": "Portland State University Fourth Avenue Building (FAB) Room FAB 86-01"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2026-12-05T13:00:00-08:00",
       "id": "calagator:1250482292",
       "is_all_day": false,
@@ -721,7 +749,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-13T07:50:04+00:00",
+  "generated_at": "2026-11-13T16:10:34+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
