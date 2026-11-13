@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T15:21:11+00:00",
+  "generated_at": "2026-11-13T16:11:18+00:00",
   "sources": [
     {
-      "event_count": 27,
-      "last_run_at": "2026-11-13T07:50:04+00:00",
+      "event_count": 28,
+      "last_run_at": "2026-11-13T16:10:34+00:00",
       "source_id": "calagator",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/calagator.json"
     },
     {
@@ -54,7 +54,7 @@
       "event_count": 149,
       "last_run_at": "2026-11-13T09:45:36+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {

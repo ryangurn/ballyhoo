@@ -225,6 +225,30 @@
       "venue": "Portland Center Stage"
     },
     {
+      "dropped": "willamette_week:19013731@2026-12-03T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af-xGd",
+      "start_at": "2026-12-03T19:00:00-08:00",
+      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19679614@2026-12-03T19:00",
+      "kept": "ticketmaster:vvG1HZ_83jDIDz",
+      "start_at": "2026-12-03T19:00:00-08:00",
+      "title_dropped": "Portland Trail Blazers vs. Utah Jazz",
+      "title_kept": "Portland Trail Blazers vs. Utah Jazz",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:20169134@2026-12-03T19:30",
+      "kept": "ticketmaster:Z7r9jZ1AAvbow",
+      "start_at": "2026-12-03T19:30:00-08:00",
+      "title_dropped": "Little Shop of Horrors",
+      "title_kept": "Little Shop of Horrors",
+      "venue": "Portland Center Stage"
+    },
+    {
       "dropped": "willamette_week:19579472@2026-11-13T17:00",
       "kept": "dopdx:17690396",
       "start_at": "2026-11-13T17:00:00-08:00",
@@ -3137,30 +3161,6 @@
       "venue": "Showdown Saloon"
     },
     {
-      "dropped": "willamette_week:19013731@2026-12-03T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1Af-xGd",
-      "start_at": "2026-12-03T19:00:00-08:00",
-      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:19679614@2026-12-03T19:00",
-      "kept": "ticketmaster:vvG1HZ_83jDIDz",
-      "start_at": "2026-12-03T19:00:00-08:00",
-      "title_dropped": "Portland Trail Blazers vs. Utah Jazz",
-      "title_kept": "Portland Trail Blazers vs. Utah Jazz",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "willamette_week:20169134@2026-12-03T19:30",
-      "kept": "ticketmaster:Z7r9jZ1AAvbow",
-      "start_at": "2026-12-03T19:30:00-08:00",
-      "title_dropped": "Little Shop of Horrors",
-      "title_kept": "Little Shop of Horrors",
-      "venue": "Portland Center Stage"
-    },
-    {
       "dropped": "willamette_week:20077308@2026-12-03T20:00",
       "kept": "ticketmaster:rZ7HnEZ1AfupfV",
       "start_at": "2026-12-03T20:00:00-08:00",
@@ -3657,9 +3657,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6245,
-  "floor_check": "6245 events against a 6245-event baseline",
-  "generated_at": "2026-11-13T15:21:11+00:00",
+  "event_count": 6246,
+  "floor_check": "6246 events against a 6245-event baseline",
+  "generated_at": "2026-11-13T16:11:18+00:00",
   "problems": [],
   "sources": [
     "calagator",
