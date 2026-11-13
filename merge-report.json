@@ -193,70 +193,6 @@
       "venue": "Portland Center Stage"
     },
     {
-      "dropped": "dopdx:17845713",
-      "kept": "ticketmaster:Z7r9jZ1AAvtFo",
-      "start_at": "2026-11-12T19:00:00-08:00",
-      "title_dropped": "Fred Armisen: Comedy for Musicians But Everyone is Welcome",
-      "title_kept": "Fred Armisen",
-      "venue": "Newmark Theatre"
-    },
-    {
-      "dropped": "dopdx:17804835",
-      "kept": "ticketmaster:rZ7HnEZ1Af-xoK",
-      "start_at": "2026-11-12T19:00:00-08:00",
-      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "dopdx:17262341",
-      "kept": "ticketmaster:Z7r9jZ1A7JAqk",
-      "start_at": "2026-11-12T19:30:00-08:00",
-      "title_dropped": "Portugal. The Man with the Oregon Symphony",
-      "title_kept": "Oregon Symphony presents Portugal the Man",
-      "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
-      "dropped": "dopdx:17732476",
-      "kept": "ticketmaster:Z7r9jZ1AAZJxb",
-      "start_at": "2026-11-12T19:30:00-08:00",
-      "title_dropped": "Allison Russell",
-      "title_kept": "Allison Russell",
-      "venue": "McMenamins Crystal Ballroom"
-    },
-    {
-      "dropped": "dopdx:16941219",
-      "kept": "ticketmaster:Z7r9jZ1AAvP4x",
-      "start_at": "2026-11-12T20:00:00-08:00",
-      "title_dropped": "DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 1)",
-      "title_kept": "Drive By Truckers w/ The Minus 5",
-      "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "dopdx:17282110",
-      "kept": "ticketmaster:Z7r9jZ1A706r_",
-      "start_at": "2026-11-12T20:00:00-08:00",
-      "title_dropped": "Penn & Teller",
-      "title_kept": "Penn And Teller",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "dopdx:17881686",
-      "kept": "ticketmaster:Z7r9jZ1AAekPs",
-      "start_at": "2026-11-12T20:00:00-08:00",
-      "title_dropped": "2slimey",
-      "title_kept": "2slimey",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "dopdx:17957263",
-      "kept": "ticketmaster:rZ7HnEZ1AfusOf",
-      "start_at": "2026-11-12T20:30:00-08:00",
-      "title_dropped": "Deathtape with Salt+ & Guests",
-      "title_kept": "DEATHTAPE with Salt+ & Gored",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:19579472@2026-11-13T17:00",
       "kept": "dopdx:17690396",
       "start_at": "2026-11-13T17:00:00-08:00",
@@ -3721,9 +3657,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6243,
-  "floor_check": "6243 events against a 6243-event baseline",
-  "generated_at": "2026-11-13T06:33:04+00:00",
+  "event_count": 6242,
+  "floor_check": "6242 events against a 6243-event baseline",
+  "generated_at": "2026-11-13T06:35:41+00:00",
   "problems": [],
   "sources": [
     "calagator",
