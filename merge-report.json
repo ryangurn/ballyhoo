@@ -3353,6 +3353,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:20438118@2026-12-06T18:00",
+      "kept": "ticketmaster:rZ7HnEZ1Afoeof",
+      "start_at": "2026-12-06T18:00:00-08:00",
+      "title_dropped": "Katy Sue & the Holiness and Nina Yates & the Heartaches",
+      "title_kept": "Katy Sue & the Holiness and Nina Yates & the Heartaches",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:19579502@2026-12-06T20:00",
       "kept": "ticketmaster:rZ7HnEZ1AfJ3vK",
       "start_at": "2026-12-06T20:00:00-08:00",
@@ -3455,6 +3463,14 @@
       "title_dropped": "Little Shop of Horrors",
       "title_kept": "Little Shop of Horrors",
       "venue": "Portland Center Stage"
+    },
+    {
+      "dropped": "willamette_week:20438124@2026-12-09T20:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfoeuV",
+      "start_at": "2026-12-09T20:30:00-08:00",
+      "title_dropped": "Whiskey Wednesday with Intermediate Two-Step Lessons and The Spare Parts",
+      "title_kept": "Whiskey Wednesday with Intermediate Two-Step Lessons and The Spare Parts",
+      "venue": "Showdown Saloon"
     },
     {
       "dropped": "willamette_week:19013731@2026-12-10T19:00",
@@ -3657,9 +3673,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6286,
-  "floor_check": "6286 events against a 6245-event baseline",
-  "generated_at": "2026-11-13T22:32:17+00:00",
+  "event_count": 6332,
+  "floor_check": "6332 events against a 6245-event baseline",
+  "generated_at": "2026-11-13T22:42:35+00:00",
   "problems": [],
   "sources": [
     "calagator",
