@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T11:38:22+00:00",
+  "generated_at": "2026-11-13T13:53:24+00:00",
   "sources": [
     {
       "event_count": 27,
       "last_run_at": "2026-11-13T07:50:04+00:00",
       "source_id": "calagator",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/calagator.json"
     },
     {
@@ -19,21 +19,21 @@
       "event_count": 5,
       "last_run_at": "2026-11-13T06:32:21+00:00",
       "source_id": "hillsboro_farmers_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hillsboro_farmers_markets.json"
     },
     {
       "event_count": 10,
       "last_run_at": "2026-11-13T07:01:41+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
       "event_count": 26,
       "last_run_at": "2026-11-13T06:59:48+00:00",
       "source_id": "neighborhood_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/neighborhood_markets.json"
     },
     {
@@ -47,7 +47,7 @@
       "event_count": 13,
       "last_run_at": "2026-11-13T07:32:16+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
@@ -61,7 +61,7 @@
       "event_count": 28,
       "last_run_at": "2026-11-13T06:30:10+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
@@ -75,14 +75,14 @@
       "event_count": 898,
       "last_run_at": "2026-11-13T06:34:54+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
       "event_count": 41,
-      "last_run_at": "2026-11-13T04:53:41+00:00",
+      "last_run_at": "2026-11-13T13:52:45+00:00",
       "source_id": "vancouver_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/vancouver_farmers_market.json"
     },
     {
