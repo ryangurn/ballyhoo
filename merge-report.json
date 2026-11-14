@@ -1,38 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:19879758@2026-11-13T21:00",
-      "kept": "dopdx:17701924",
-      "start_at": "2026-11-13T21:00:00-08:00",
-      "title_dropped": "BEAUZ",
-      "title_kept": "Beauz",
-      "venue": "REALM PDX"
-    },
-    {
-      "dropped": "willamette_week:19858277@2026-11-13T21:00",
-      "kept": "dopdx:17797570",
-      "start_at": "2026-11-13T21:00:00-08:00",
-      "title_dropped": "X-Prov: Improvised X-Files",
-      "title_kept": "X-Prov: Improvised X-Files",
-      "venue": "Kickstand Comedy"
-    },
-    {
-      "dropped": "willamette_week:19700093@2026-11-13T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1A4vv7d",
-      "start_at": "2026-11-13T21:00:00-08:00",
-      "title_dropped": "SUZY SHEER with Patch +",
-      "title_kept": "SUZY SHEER with Patch +",
-      "venue": "Star Theater"
-    },
-    {
-      "dropped": "willamette_week:19972328@2026-11-13T21:30",
-      "kept": "ticketmaster:vvG1HZ_3MSbDYd",
-      "start_at": "2026-11-13T21:30:00-08:00",
-      "title_dropped": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
-      "title_kept": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
-      "venue": "Newmark Theatre"
-    },
-    {
       "dropped": "willamette_week:19957025@2026-11-16T19:30",
       "kept": "dopdx:17837518",
       "start_at": "2026-11-16T19:00:00-08:00",
@@ -439,6 +407,38 @@
       "title_dropped": "strongboi",
       "title_kept": "Strongboi w/ Salami Rose Joe Louis",
       "venue": "Wonder Ballroom"
+    },
+    {
+      "dropped": "willamette_week:19879758@2026-11-13T21:00",
+      "kept": "dopdx:17701924",
+      "start_at": "2026-11-13T21:00:00-08:00",
+      "title_dropped": "BEAUZ",
+      "title_kept": "Beauz",
+      "venue": "REALM PDX"
+    },
+    {
+      "dropped": "willamette_week:19858277@2026-11-13T21:00",
+      "kept": "dopdx:17797570",
+      "start_at": "2026-11-13T21:00:00-08:00",
+      "title_dropped": "X-Prov: Improvised X-Files",
+      "title_kept": "X-Prov: Improvised X-Files",
+      "venue": "Kickstand Comedy"
+    },
+    {
+      "dropped": "willamette_week:19700093@2026-11-13T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4vv7d",
+      "start_at": "2026-11-13T21:00:00-08:00",
+      "title_dropped": "SUZY SHEER with Patch +",
+      "title_kept": "SUZY SHEER with Patch +",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:19972328@2026-11-13T21:30",
+      "kept": "ticketmaster:vvG1HZ_3MSbDYd",
+      "start_at": "2026-11-13T21:30:00-08:00",
+      "title_dropped": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
+      "title_kept": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
+      "venue": "Newmark Theatre"
     },
     {
       "dropped": "willamette_week:20169606@2026-11-13T22:00",
@@ -3673,9 +3673,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6329,
-  "floor_check": "6329 events against a 6272-event baseline",
-  "generated_at": "2026-11-14T02:23:46+00:00",
+  "event_count": 6328,
+  "floor_check": "6328 events against a 6272-event baseline",
+  "generated_at": "2026-11-14T03:05:55+00:00",
   "problems": [],
   "sources": [
     "calagator",
