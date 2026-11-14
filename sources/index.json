@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:26:01+00:00",
+  "generated_at": "2026-11-14T19:28:52+00:00",
   "sources": [
     {
       "event_count": 28,
@@ -19,7 +19,7 @@
       "event_count": 5,
       "last_run_at": "2026-11-14T13:26:20+00:00",
       "source_id": "hillsboro_farmers_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hillsboro_farmers_markets.json"
     },
     {
@@ -61,12 +61,12 @@
       "event_count": 28,
       "last_run_at": "2026-11-14T13:26:36+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
       "event_count": 0,
-      "last_run_at": "2026-11-14T14:30:31+00:00",
+      "last_run_at": "2026-11-14T19:28:20+00:00",
       "source_id": "portland_parks",
       "status": "ok",
       "url": "sources/portland_parks.json"
