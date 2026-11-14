@@ -217,62 +217,6 @@
       "venue": "Portland Center Stage"
     },
     {
-      "dropped": "dopdx:17845714",
-      "kept": "ticketmaster:vvG1HZ_3T2sQO9",
-      "start_at": "2026-11-13T19:00:00-08:00",
-      "title_dropped": "Fred Armisen: Comedy for Musicians But Everyone is Welcome",
-      "title_kept": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
-      "venue": "Newmark Theatre"
-    },
-    {
-      "dropped": "dopdx:17746090",
-      "kept": "ticketmaster:Z7r9jZ1AAZUq9",
-      "start_at": "2026-11-13T19:00:00-08:00",
-      "title_dropped": "Static Dress",
-      "title_kept": "Static Dress w/ I Promised The World",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "dopdx:17413671",
-      "kept": "ticketmaster:rZ7HnEZ1Af0UaS",
-      "start_at": "2026-11-13T19:30:00-08:00",
-      "title_dropped": "Metal Church / Armored Saint with Livekill",
-      "title_kept": "SOLD OUT! METAL CHURCH / ARMORED SAINT with Livekill",
-      "venue": "Dante's"
-    },
-    {
-      "dropped": "dopdx:16941220",
-      "kept": "ticketmaster:Z7r9jZ1AAvP40",
-      "start_at": "2026-11-13T20:00:00-08:00",
-      "title_dropped": "DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 2)",
-      "title_kept": "Drive By Truckers",
-      "venue": "Revolution Hall - Portland"
-    },
-    {
-      "dropped": "dopdx:17727470",
-      "kept": "ticketmaster:Z7r9jZ1AA79Ff",
-      "start_at": "2026-11-13T20:00:00-08:00",
-      "title_dropped": "Johnny Franco & His Real Brother Dom",
-      "title_kept": "Johnny Franco & His Real Brother Dom",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "dopdx:17873839",
-      "kept": "ticketmaster:rZ7HnEZ1AfGs0f",
-      "start_at": "2026-11-13T20:00:00-08:00",
-      "title_dropped": "Shelly Rudolph",
-      "title_kept": "SHELLY RUDOLPH",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "dopdx:17339151",
-      "kept": "ticketmaster:rZ7HnEZ1Af03bS",
-      "start_at": "2026-11-13T23:55:00-08:00",
-      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
-      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:19432059@2026-11-14T12:00",
       "kept": "dopdx:17763361",
       "start_at": "2026-11-14T12:00:00-08:00",
@@ -3385,6 +3329,14 @@
       "venue": "45 East"
     },
     {
+      "dropped": "willamette_week:19225591@2026-12-11T23:55",
+      "kept": "ticketmaster:rZ7HnEZ1Af03_S",
+      "start_at": "2026-12-11T23:55:00-08:00",
+      "title_dropped": "HOTWAX disco~glam~metal~punk~hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19570968@2026-12-12T18:00",
       "kept": "ticketmaster:vvG1HZ_2m_76CF",
       "start_at": "2026-12-12T18:00:00-08:00",
@@ -3505,9 +3457,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6217,
-  "floor_check": "6217 events against a 6272-event baseline",
-  "generated_at": "2026-11-14T07:17:18+00:00",
+  "event_count": 6212,
+  "floor_check": "6212 events against a 6272-event baseline",
+  "generated_at": "2026-11-14T10:16:56+00:00",
   "problems": [],
   "sources": [
     "calagator",
