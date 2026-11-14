@@ -1,6 +1,14 @@
 {
   "duplicates_merged": [
     {
+      "dropped": "willamette_week:18760049@2026-11-14T09:00",
+      "kept": "portland_farmers_market:psu-farmers-market-2026-2@2026-11-14",
+      "start_at": "2026-11-14T09:00:00-08:00",
+      "title_dropped": "PSU Farmers Market",
+      "title_kept": "PSU Farmers Market",
+      "venue": "PSU Farmers Market"
+    },
+    {
       "dropped": "willamette_week:19957025@2026-11-16T19:30",
       "kept": "dopdx:17837518",
       "start_at": "2026-11-16T19:00:00-08:00",
@@ -527,6 +535,22 @@
       "title_dropped": "Hillsdale Farmers' Market",
       "title_kept": "Hillsdale Farmers Market",
       "venue": "Hillsdale Farmers Market"
+    },
+    {
+      "dropped": "willamette_week:18521272@2026-11-15T10:00",
+      "kept": "portland_farmers_market:apple-cider-press-day@2026-11-15",
+      "start_at": "2026-11-15T10:00:00-08:00",
+      "title_dropped": "Lents International Farmers Market",
+      "title_kept": "Apple Cider Press Day",
+      "venue": "Lents International Farmers Market"
+    },
+    {
+      "dropped": "willamette_week:18521269@2026-11-15T10:00",
+      "kept": "portland_farmers_market:king-farmers-market-3@2026-11-15",
+      "start_at": "2026-11-15T10:00:00-08:00",
+      "title_dropped": "King Farmers Market",
+      "title_kept": "King Farmers Market",
+      "venue": "King Farmers Market"
     },
     {
       "dropped": "dopdx:17262342",
@@ -3483,7 +3507,7 @@
   ],
   "event_count": 6232,
   "floor_check": "6232 events against a 6232-event baseline",
-  "generated_at": "2026-11-14T17:02:29+00:00",
+  "generated_at": "2026-11-14T18:12:51+00:00",
   "problems": [],
   "sources": [
     "calagator",
