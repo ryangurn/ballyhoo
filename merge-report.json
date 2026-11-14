@@ -1657,6 +1657,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:19469867@2026-11-22T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPsrd",
+      "start_at": "2026-11-22T21:00:00-08:00",
+      "title_dropped": "CHURCH OF HIVE",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-11-22T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPsrd",
       "start_at": "2026-11-22T21:00:00-08:00",
@@ -2841,6 +2849,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19469867@2026-11-29T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPsPd",
+      "start_at": "2026-11-29T21:00:00-08:00",
+      "title_dropped": "CHURCH OF HIVE",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-11-29T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPsPd",
       "start_at": "2026-11-29T21:00:00-08:00",
@@ -3143,6 +3159,14 @@
       "title_dropped": "Choir! Choir! Choir!",
       "title_kept": "Choir! Choir! Choir!",
       "venue": "Revolution Hall - Portland"
+    },
+    {
+      "dropped": "willamette_week:19469867@2026-12-06T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPsbd",
+      "start_at": "2026-12-06T21:00:00-08:00",
+      "title_dropped": "CHURCH OF HIVE",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
     },
     {
       "dropped": "willamette_week:16902271@2026-12-06T21:00",
@@ -3457,9 +3481,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6212,
-  "floor_check": "6212 events against a 6272-event baseline",
-  "generated_at": "2026-11-14T10:16:56+00:00",
+  "event_count": 6232,
+  "floor_check": "6232 events against a 6272-event baseline",
+  "generated_at": "2026-11-14T11:34:30+00:00",
   "problems": [],
   "sources": [
     "calagator",
