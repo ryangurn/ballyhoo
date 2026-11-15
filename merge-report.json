@@ -1,14 +1,6 @@
 {
   "duplicates_merged": [
     {
-      "dropped": "willamette_week:18760049@2026-11-14T09:00",
-      "kept": "portland_farmers_market:psu-farmers-market-2026-2@2026-11-14",
-      "start_at": "2026-11-14T09:00:00-08:00",
-      "title_dropped": "PSU Farmers Market",
-      "title_kept": "PSU Farmers Market",
-      "venue": "PSU Farmers Market"
-    },
-    {
       "dropped": "willamette_week:19957025@2026-11-16T19:30",
       "kept": "dopdx:17837518",
       "start_at": "2026-11-16T19:00:00-08:00",
@@ -1833,6 +1825,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:18760049@2026-11-14T09:00",
+      "kept": "portland_farmers_market:psu-farmers-market-2026-2@2026-11-14",
+      "start_at": "2026-11-14T09:00:00-08:00",
+      "title_dropped": "PSU Farmers Market",
+      "title_kept": "PSU Farmers Market",
+      "venue": "PSU Farmers Market"
+    },
+    {
       "dropped": "willamette_week:17670892@2026-12-06T09:00",
       "kept": "neighborhood_markets:hillsdale@2026-12-06",
       "start_at": "2026-12-06T09:00:00-08:00",
@@ -3505,9 +3505,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6234,
-  "floor_check": "6234 events against a 6232-event baseline",
-  "generated_at": "2026-11-14T23:25:45+00:00",
+  "event_count": 6231,
+  "floor_check": "6231 events against a 6232-event baseline",
+  "generated_at": "2026-11-15T01:48:03+00:00",
   "problems": [],
   "sources": [
     "calagator",
