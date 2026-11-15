@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T17:00:06+00:00",
+  "generated_at": "2026-11-15T17:04:11+00:00",
   "sources": [
     {
       "event_count": 25,
@@ -73,9 +73,9 @@
     },
     {
       "event_count": 890,
-      "last_run_at": "2026-11-15T09:16:46+00:00",
+      "last_run_at": "2026-11-15T17:03:34+00:00",
       "source_id": "ticketmaster",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/ticketmaster.json"
     },
     {
@@ -89,7 +89,7 @@
       "event_count": 3746,
       "last_run_at": "2026-11-15T11:04:06+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
