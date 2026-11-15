@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15T11:32:32+00:00",
+  "generated_at": "2026-11-15T17:00:06+00:00",
   "sources": [
     {
       "event_count": 25,
-      "last_run_at": "2026-11-15T09:13:13+00:00",
+      "last_run_at": "2026-11-15T16:59:33+00:00",
       "source_id": "calagator",
       "status": "ok",
       "url": "sources/calagator.json"
@@ -19,21 +19,21 @@
       "event_count": 5,
       "last_run_at": "2026-11-15T06:17:58+00:00",
       "source_id": "hillsboro_farmers_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hillsboro_farmers_markets.json"
     },
     {
       "event_count": 11,
       "last_run_at": "2026-11-15T06:56:21+00:00",
       "source_id": "hollywood_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/hollywood_farmers_market.json"
     },
     {
       "event_count": 26,
       "last_run_at": "2026-11-15T06:53:29+00:00",
       "source_id": "neighborhood_markets",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/neighborhood_markets.json"
     },
     {
@@ -47,7 +47,7 @@
       "event_count": 13,
       "last_run_at": "2026-11-15T07:26:12+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
@@ -61,7 +61,7 @@
       "event_count": 28,
       "last_run_at": "2026-11-15T06:16:21+00:00",
       "source_id": "portland_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_farmers_market.json"
     },
     {
@@ -75,7 +75,7 @@
       "event_count": 890,
       "last_run_at": "2026-11-15T09:16:46+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
