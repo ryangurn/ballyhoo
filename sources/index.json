@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15T07:26:59+00:00",
+  "generated_at": "2026-11-15T09:13:51+00:00",
   "sources": [
     {
       "event_count": 25,
-      "last_run_at": "2026-11-15T01:47:23+00:00",
+      "last_run_at": "2026-11-15T09:13:13+00:00",
       "source_id": "calagator",
       "status": "ok",
       "url": "sources/calagator.json"
@@ -40,7 +40,7 @@
       "event_count": 55,
       "last_run_at": "2026-11-15T03:07:48+00:00",
       "source_id": "obt",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/obt.json"
     },
     {
@@ -54,7 +54,7 @@
       "event_count": 156,
       "last_run_at": "2026-11-15T02:51:32+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
@@ -68,14 +68,14 @@
       "event_count": 0,
       "last_run_at": "2026-11-15T03:04:01+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
       "event_count": 902,
       "last_run_at": "2026-11-15T01:51:09+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
@@ -89,7 +89,7 @@
       "event_count": 3741,
       "last_run_at": "2026-11-15T02:44:47+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
