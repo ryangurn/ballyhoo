@@ -2329,6 +2329,14 @@
       "venue": "Portland Center Stage"
     },
     {
+      "dropped": "willamette_week:20450914@2026-11-27T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1Afo6v0",
+      "start_at": "2026-11-27T20:00:00-08:00",
+      "title_dropped": "Black Friday Boot Scoot with Silk & Steel and Dance Lessons with Peggy and Jared",
+      "title_kept": "Black Friday Boot Scoot with Silk & Steel and Dance Lessons with Peggy and Jared",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:20120086@2026-11-27T20:00",
       "kept": "ticketmaster:Z7r9jZ1AAe98_",
       "start_at": "2026-11-27T20:00:00-08:00",
@@ -2551,6 +2559,14 @@
       "title_dropped": "Casual Eddie with Special Guest Dominic Robison",
       "title_kept": "Casual Eddie",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:20450915@2026-11-29T20:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfoFZV",
+      "start_at": "2026-11-29T20:30:00-08:00",
+      "title_dropped": "TRISTAN DAMRON followed by Sinferno Cabaret",
+      "title_kept": "TRISTAN DAMRON followed by Sinferno Cabaret",
+      "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:19469867@2026-11-29T21:00",
@@ -3113,6 +3129,14 @@
       "venue": "Helium Comedy Club - Portland"
     },
     {
+      "dropped": "willamette_week:20450916@2026-12-12T20:30",
+      "kept": "ticketmaster:rZ7HnEZ1Afo600",
+      "start_at": "2026-12-12T20:30:00-08:00",
+      "title_dropped": "UGLY SWEATER SHOW! with Old Cross, Carden, Stab In The Dark, & STOP!",
+      "title_kept": "UGLY SWEATER SHOW! with Old Cross, Carden, Stab In The Dark, & STOP!",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:14445255@2026-12-12T22:30",
       "kept": "ticketmaster:rZ7HnEZ1AfZ-Q7",
       "start_at": "2026-12-12T22:30:00-08:00",
@@ -3209,9 +3233,9 @@
       "venue": "The High Limit Room"
     }
   ],
-  "event_count": 6048,
-  "floor_check": "6048 events against a 6052-event baseline",
-  "generated_at": "2026-11-15T17:04:11+00:00",
+  "event_count": 6053,
+  "floor_check": "6053 events against a 6052-event baseline",
+  "generated_at": "2026-11-15T17:48:14+00:00",
   "problems": [],
   "sources": [
     "calagator",
