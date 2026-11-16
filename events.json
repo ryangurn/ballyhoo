@@ -30323,36 +30323,6 @@
     },
     {
       "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-11-15T13:00:00-08:00",
-      "id": "neighborhood_markets:hillsdale@2026-11-15",
-      "is_all_day": false,
-      "listing_url": "https://www.hillsdalefarmersmarket.com/",
-      "organizer": "Hillsdale Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-11-15T09:00:00-08:00",
-      "title": "Hillsdale Farmers Market",
-      "venue": {
-        "address": "Rieke Elementary School, 1405 SW Vermont St, Portland, OR 97219",
-        "city": "Portland",
-        "latitude": 45.47712,
-        "longitude": -122.69539,
-        "name": "Hillsdale Farmers Market"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-11-16T02:00:00-08:00",
@@ -30408,36 +30378,6 @@
         "address": "300 N Ramsay Way",
         "city": "Portland",
         "name": "Veterans Memorial Coliseum"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
-      "end_at": "2026-11-15T14:00:00-08:00",
-      "id": "neighborhood_markets:montavilla@2026-11-15",
-      "is_all_day": false,
-      "listing_url": "https://www.montavillamarket.org/",
-      "organizer": "Montavilla Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "neighborhood_markets",
-        "name": "Neighborhood Farmers Markets"
-      },
-      "start_at": "2026-11-15T10:00:00-08:00",
-      "title": "Montavilla Farmers Market",
-      "venue": {
-        "address": "7700 SE Stark St, Portland, OR 97215",
-        "city": "Portland",
-        "latitude": 45.51891,
-        "longitude": -122.58458,
-        "name": "Montavilla Farmers Market"
       }
     },
     {
@@ -179568,5 +179508,5 @@
       "title": "Committee on Racial Equity meeting"
     }
   ],
-  "generated_at": "2026-11-16T22:23:25+00:00"
+  "generated_at": "2026-11-16T22:25:37+00:00"
 }
