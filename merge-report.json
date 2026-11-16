@@ -473,6 +473,14 @@
       "venue": "Aladdin Theater"
     },
     {
+      "dropped": "willamette_week:20322778@2026-11-19T20:00",
+      "kept": "dopdx:17906673",
+      "start_at": "2026-11-19T20:00:00-08:00",
+      "title_dropped": "Never Come Down & Jim Lauderdale",
+      "title_kept": "Jim Lauderdale and Never Come Down",
+      "venue": "The Showdown"
+    },
+    {
       "dropped": "dopdx:17842259",
       "kept": "ticketmaster:rZ7HnEZ1AfG9OV",
       "start_at": "2026-11-19T20:00:00-08:00",
@@ -3017,9 +3025,9 @@
       "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 6002,
-  "floor_check": "6002 events against a 6052-event baseline",
-  "generated_at": "2026-11-16T09:34:25+00:00",
+  "event_count": 6014,
+  "floor_check": "6014 events against a 6050-event baseline",
+  "generated_at": "2026-11-16T11:34:53+00:00",
   "problems": [],
   "sources": [
     "calagator",
