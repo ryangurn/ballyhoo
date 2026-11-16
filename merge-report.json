@@ -241,14 +241,6 @@
       "venue": "King Farmers Market"
     },
     {
-      "dropped": "dopdx:17262342",
-      "kept": "ticketmaster:Z7r9jZ1A7Jkax",
-      "start_at": "2026-11-15T14:00:00-08:00",
-      "title_dropped": "The Mountain That Loved a Bird",
-      "title_kept": "Oregon Symphony presents The Mountain That Loved a Bird",
-      "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
       "dropped": "willamette_week:18235579@2026-11-15T14:00",
       "kept": "dopdx:17262342",
       "start_at": "2026-11-15T14:00:00-08:00",
@@ -3234,8 +3226,8 @@
     }
   ],
   "event_count": 6061,
-  "floor_check": "6061 events against a 6052-event baseline",
-  "generated_at": "2026-11-16T01:55:04+00:00",
+  "floor_check": "6061 events against a 6053-event baseline",
+  "generated_at": "2026-11-16T02:00:03+00:00",
   "problems": [],
   "sources": [
     "calagator",
