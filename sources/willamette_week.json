@@ -869,7 +869,7 @@
       ],
       "id": "willamette_week:20383956@2026-11-16T13:00",
       "is_all_day": false,
-      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2950&month=11&year=2026&day=6&calType=0",
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2950&month=11&year=2026&day=15&calType=0",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -12428,6 +12428,34 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:20383959@2026-11-19T16:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fb9f020f-bb0f-4a7c-a820-c2321693dc90.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=3432&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-19T16:00:00-08:00",
+      "summary": "Thursday, November 19, 2026",
+      "title": "Diversity, Equity and Inclusion (DEI) Las Posadas Subcommittee",
+      "venue": {
+        "address": "Wilsonville City Hall 29799 SW Town Center Loop E",
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Event Location"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-11-19T18:00:00-08:00",
@@ -13966,6 +13994,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20322778@2026-11-19T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YPvVfJhghkOPpvW_J2Pp5g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108972004?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-19T19:00:00-08:00",
+      "summary": "Weaving together modern and traditional styles of American music, Never Come Down is a Portland, Oregon based band composed of Joe Suskind \\(guitar\\), Crystal Lariza \\(vocals\\), Lillian Sawyer \\(fiddle\\), and Kaden Hurst \\(mandolin\\). Their dedication to thoughtful songwriting and dynamic arrangements highlight polished technical skills and a commitment to listening to each other. Formed in 2018, the band began touring extensively- steadily cultivating a passionate fan base at home in the Pacific Northwest, and eventually around the country. NCD released their first studio album “Better Late Than Never” in 2021 and their second LP “Greener Pastures” is slated for release late 2023. They’ve toured internationally and have found acclaim at festivals such as Hardly Strictly Bluegrass, Iceland Airwaves, John Hartford Memorial Fest, Americanafest, FreshGrass and RockyGrass.",
+      "ticket_url": "https://www.bandsintown.com/t/108972004?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "Never Come Down & Jim Lauderdale",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.501077,
+        "longitude": -122.652814,
+        "name": "The Showdown"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-11-19T21:00:00-08:00",
@@ -14193,35 +14250,6 @@
         "latitude": 45.558921814,
         "longitude": -122.6548309326,
         "name": "Alberta Street Pub"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:20322778@2026-11-19T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YPvVfJhghkOPpvW_J2Pp5g.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/108972004?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-19T19:00:00-08:00",
-      "summary": "Weaving together modern and traditional styles of American music, Never Come Down is a Portland, Oregon based band composed of Joe Suskind \\(guitar\\), Crystal Lariza \\(vocals\\), Lillian Sawyer \\(fiddle\\), and Kaden Hurst \\(mandolin\\). Their dedication to thoughtful songwriting and dynamic arrangements highlight polished technical skills and a commitment to listening to each other. Formed in 2018, the band began touring extensively- steadily cultivating a passionate fan base at home in the Pacific Northwest, and eventually around the country. NCD released their first studio album “Better Late Than Never” in 2021 and their second LP “Greener Pastures” is slated for release late 2023. They’ve toured internationally and have found acclaim at festivals such as Hardly Strictly Bluegrass, Iceland Airwaves, John Hartford Memorial Fest, Americanafest, FreshGrass and RockyGrass.",
-      "ticket_url": "https://www.bandsintown.com/t/108972004?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
-      "title": "Never Come Down & Jim Lauderdale",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.5010531,
-        "longitude": -122.6528153,
-        "name": "The Showdown"
       }
     },
     {
@@ -14809,6 +14837,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20322780@2026-11-19T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XFdJgBNHH02aR8hrlKuOQg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108796369?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-19T19:30:00-08:00",
+      "summary": "WAAX returns with the Angel's Mess Album Tour, a ferocious new chapter for the LA based rock powerhouse. Led by bombastic single Hands, a twisted crowd-participation anthem that transforms pain into power, this is WAAX at their most raw, unapologetic, and cathartic. Expect sweat-soaked intensity, unrelenting energy, and the kind of high-octane performance that has already established WAAX as a vital live force in Australia while introducing U.S. audiences to one of rock’s most electrifying new arrivals.",
+      "ticket_url": "https://www.bandsintown.com/t/108796369?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "Angel's Mess Tour",
+      "venue": {
+        "address": "1300 SE Stark St #101",
+        "city": "Portland",
+        "latitude": 45.51905500749822,
+        "longitude": -122.65214632802947,
+        "name": "Show Bar"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-11-19T21:00:00-08:00",
@@ -14959,35 +15016,6 @@
         "latitude": 45.5199093372,
         "longitude": -122.6762111485,
         "name": "Kelly's Olympian"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:20322780@2026-11-19T19:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XFdJgBNHH02aR8hrlKuOQg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/108796369?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-19T19:30:00-08:00",
-      "summary": "WAAX returns with the Angel's Mess Album Tour, a ferocious new chapter for the LA based rock powerhouse. Led by bombastic single Hands, a twisted crowd-participation anthem that transforms pain into power, this is WAAX at their most raw, unapologetic, and cathartic. Expect sweat-soaked intensity, unrelenting energy, and the kind of high-octane performance that has already established WAAX as a vital live force in Australia while introducing U.S. audiences to one of rock’s most electrifying new arrivals.",
-      "ticket_url": "https://www.bandsintown.com/t/108796369?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
-      "title": "Angel's Mess Tour",
-      "venue": {
-        "address": "1300 SE Stark St #101",
-        "city": "Portland",
-        "latitude": 45.51905500749822,
-        "longitude": -122.65214632802947,
-        "name": "Show Bar"
       }
     },
     {
@@ -15256,6 +15284,35 @@
         "latitude": 45.5227928162,
         "longitude": -122.6834030151,
         "name": "McMenamins Al's Den"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20322778@2026-11-19T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YPvVfJhghkOPpvW_J2Pp5g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108969562?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-19T20:00:00-08:00",
+      "summary": "The Showdown - Jim Lauderdale & Never Come Down",
+      "ticket_url": "https://www.bandsintown.com/t/108969562?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "Never Come Down & Jim Lauderdale",
+      "venue": {
+        "address": "1195 SE Powell Blvd",
+        "city": "Portland",
+        "latitude": 45.501077,
+        "longitude": -122.652814,
+        "name": "The Showdown"
       }
     },
     {
@@ -16858,35 +16915,6 @@
         "family"
       ],
       "end_at": "2026-11-20T11:00:00-08:00",
-      "id": "willamette_week:20131148@2026-11-20T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1075",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-20T10:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "205 NE Russell Street",
-        "city": "Portland",
-        "latitude": 45.54121794278324,
-        "longitude": -122.66326099447758,
-        "name": "Albina Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-11-20T11:00:00-08:00",
       "id": "willamette_week:20131149@2026-11-20T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -16909,6 +16937,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-20T11:00:00-08:00",
+      "id": "willamette_week:20131148@2026-11-20T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1075",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T10:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "205 NE Russell Street",
+        "city": "Portland",
+        "latitude": 45.54121794278324,
+        "longitude": -122.66326099447758,
+        "name": "Albina Library"
       }
     },
     {
@@ -17002,35 +17059,6 @@
       "categories": [
         "family"
       ],
-      "end_at": "2026-11-20T11:00:00-08:00",
-      "id": "willamette_week:20131150@2026-11-20T10:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1042",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-20T10:30:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "8226 N Denver Avenue",
-        "city": "Portland",
-        "latitude": 45.582817572658264,
-        "longitude": -122.68645335011975,
-        "name": "Kenton Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
       "end_at": "2026-11-20T11:15:00-08:00",
       "id": "willamette_week:20131151@2026-11-20T10:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
@@ -17054,6 +17082,35 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-20T11:00:00-08:00",
+      "id": "willamette_week:20131150@2026-11-20T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1042",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T10:30:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "8226 N Denver Avenue",
+        "city": "Portland",
+        "latitude": 45.582817572658264,
+        "longitude": -122.68645335011975,
+        "name": "Kenton Library"
       }
     },
     {
@@ -20502,6 +20559,33 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20322687@2026-11-20T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/304f74b9-4a91-4bb5-a4f7-7c385cb4436b.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/109140915?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-20T20:00:00-08:00",
+      "title": "Cary Novotny",
+      "venue": {
+        "address": "112 SW 2nd Ave",
+        "city": "Portland",
+        "latitude": 45.5216508,
+        "longitude": -122.6722152,
+        "name": "Kells Irish Restaurant & Pub"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "end_at": "2026-11-21T03:00:00-08:00",
@@ -22136,6 +22220,34 @@
     },
     {
       "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-11-21T12:00:00-08:00",
+      "id": "willamette_week:17982060@2026-11-21T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aRy2kCOzpUqs9IYSkqASOg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.jcwc.org/events/land-tending-at-errol-heights-16/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-21T09:00:00-08:00",
+      "summary": "Join the Friends of Errol Heights, Portland Parks & Recreation, and Johnson Creek Watershed Council as we gather at Errol Heights Park for a morning of Land Tending! Revegetation, selective plant removal, and trash pick-up encourages plant and species diversity and builds habitats for a healthy watershed. CLICK HERE TO RSVP When: Saturday, November 21st, 9:00 am-12:00 pm Where: Errol Heights City Park \\(directions emailed after registration\\) What: Native plantings, litter pickup, and invasive weed removal. Tasks may shift as needs change at the site. How to prepare: This event will happen rain or shine, so dress for the weather! Wear long thick pants, a long-sleeved shirt, and sturdy shoes you don’t mind getting muddy. Bring a raincoat or a hat and sunscreen, as appropriate. Bring a filled water bottle and snacks! You’re welcome to bring gloves and tools, if you want to use your own. What we provide: Gloves and all necessary tools, and instruction on how to safely use tools and remove invasive weeds. We can also provide bus fare to and from the event. Please contact info@jcwc.org to arrange bus fare. Health and Safety: We will follow current Oregon Health Authority guidelines. Masks are not required, but encouraged in indoor spaces where social distancing is not possible. Stay home if you are experiencing symptoms of any contagious illness or have had recent contact with someone exhibiting symptoms of any illness. Children are welcome: Children must be accompanied by an attentive adult. This work is around and near sharp prickly plants and can be challenging for young children. We recommend children ages 12 and up for this type of event. Accessibility: This event may require standing or squatting/kneeling for long periods of time, walking over uneven ground, bending and lifting heavy objects. Bathrooms are available for this event. CLICK HERE TO RSVP Thank you to our funders and partners for supporting watershed health. The Mintkeski Family Fund of Oregon Community Foundation, Portland General Electric, The City of Portland’s Bureau of Environmental Services, Friends of Errol Heights, and Portland Parks and Recreation.",
+      "title": "Land Tending at Errol Heights",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "market"
       ],
       "end_at": "2026-11-21T15:00:00-08:00",
@@ -22331,34 +22443,6 @@
       "start_at": "2026-11-21T09:00:00-08:00",
       "summary": "Join Portland Parks & Recreation and Friends of Terwilliger to remove invasively growing ivy and blackberry along the historic Terwilliger Parkway!",
       "title": "Terwilliger Parkway Stewardship Event",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.52345,
-        "longitude": -122.67621,
-        "name": "Portland"
-      }
-    },
-    {
-      "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-11-21T12:00:00-08:00",
-      "id": "willamette_week:17982060@2026-11-21T09:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aRy2kCOzpUqs9IYSkqASOg.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.jcwc.org/events/land-tending-at-errol-heights-16/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-21T09:00:00-08:00",
-      "summary": "Join the Friends of Errol Heights, Portland Parks & Recreation, and Johnson Creek Watershed Council as we gather at Errol Heights Park for a morning of Land Tending! Revegetation, selective plant removal, and trash pick-up encourages plant and species diversity and builds habitats for a healthy watershed. CLICK HERE TO RSVP When: Saturday, November 21st, 9:00 am-12:00 pm Where: Errol Heights City Park \\(directions emailed after registration\\) What: Native plantings, litter pickup, and invasive weed removal. Tasks may shift as needs change at the site. How to prepare: This event will happen rain or shine, so dress for the weather! Wear long thick pants, a long-sleeved shirt, and sturdy shoes you don’t mind getting muddy. Bring a raincoat or a hat and sunscreen, as appropriate. Bring a filled water bottle and snacks! You’re welcome to bring gloves and tools, if you want to use your own. What we provide: Gloves and all necessary tools, and instruction on how to safely use tools and remove invasive weeds. We can also provide bus fare to and from the event. Please contact info@jcwc.org to arrange bus fare. Health and Safety: We will follow current Oregon Health Authority guidelines. Masks are not required, but encouraged in indoor spaces where social distancing is not possible. Stay home if you are experiencing symptoms of any contagious illness or have had recent contact with someone exhibiting symptoms of any illness. Children are welcome: Children must be accompanied by an attentive adult. This work is around and near sharp prickly plants and can be challenging for young children. We recommend children ages 12 and up for this type of event. Accessibility: This event may require standing or squatting/kneeling for long periods of time, walking over uneven ground, bending and lifting heavy objects. Bathrooms are available for this event. CLICK HERE TO RSVP Thank you to our funders and partners for supporting watershed health. The Mintkeski Family Fund of Oregon Community Foundation, Portland General Electric, The City of Portland’s Bureau of Environmental Services, Friends of Errol Heights, and Portland Parks and Recreation.",
-      "title": "Land Tending at Errol Heights",
       "venue": {
         "city": "Portland",
         "latitude": 45.52345,
@@ -27699,6 +27783,33 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20322687@2026-11-21T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/304f74b9-4a91-4bb5-a4f7-7c385cb4436b.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/109140917?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-21T20:00:00-08:00",
+      "title": "Cary Novotny",
+      "venue": {
+        "address": "112 SW 2nd Ave",
+        "city": "Portland",
+        "latitude": 45.5216508,
+        "longitude": -122.6722152,
+        "name": "Kells Irish Restaurant & Pub"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-11-21T22:00:00-08:00",
@@ -28318,6 +28429,33 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:19879843@2026-11-21T20:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tPAVNKF2cEi3PD0sdOZchQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108671868?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-21T20:30:00-08:00",
+      "title": "Thee Honeybuds",
+      "venue": {
+        "address": "7827 SW 35th Ave",
+        "city": "Portland",
+        "latitude": 45.4677307,
+        "longitude": -122.7130127,
+        "name": "The Ship Tavern"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:20322791@2026-11-21T20:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a6yLKlrEGEGHI3CZyZmSSg.large.png",
       "is_all_day": false,
@@ -28407,12 +28545,13 @@
     },
     {
       "categories": [
-        "music"
+        "nightlife"
       ],
-      "id": "willamette_week:19879843@2026-11-21T20:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tPAVNKF2cEi3PD0sdOZchQ.large.png",
+      "end_at": "2026-11-22T02:00:00-08:00",
+      "id": "willamette_week:19695940@2026-11-21T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9oSpQcs7xUGV_XeSa3g14A.large.png",
       "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/108671868?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "listing_url": "https://www.sickening.events/e/lumberpride-14?aff=cityspark",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -28422,14 +28561,16 @@
         "name": "Willamette Week",
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
-      "start_at": "2026-11-21T20:30:00-08:00",
-      "title": "Thee Honeybuds",
+      "start_at": "2026-11-21T21:00:00-08:00",
+      "summary": "Join the Lumbertwink Group here:https://www.facebook.com/groups/435018999943262 웃웃 LUMBERTWINK 웃웃14 YEAR ANNIVERSARY",
+      "ticket_url": "https://www.sickening.events/e/lumberpride-14/tickets?aff=cityspark",
+      "title": "Lumbertwink 14 Year Anniversary: The Flannel FINALE",
       "venue": {
-        "address": "7827 SW 35th Ave",
+        "address": "4830 NE 42nd",
         "city": "Portland",
-        "latitude": 45.4677307,
-        "longitude": -122.7130127,
-        "name": "The Ship Tavern"
+        "latitude": 45.557951,
+        "longitude": -122.620027,
+        "name": "Spare Room"
       }
     },
     {
@@ -28462,36 +28603,6 @@
         "latitude": 45.514609,
         "longitude": -122.664543,
         "name": "Statera Cellars"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-11-22T02:00:00-08:00",
-      "id": "willamette_week:19695940@2026-11-21T21:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9oSpQcs7xUGV_XeSa3g14A.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.sickening.events/e/lumberpride-14?aff=cityspark",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-21T21:00:00-08:00",
-      "summary": "Join the Lumbertwink Group here:https://www.facebook.com/groups/435018999943262 웃웃 LUMBERTWINK 웃웃14 YEAR ANNIVERSARY",
-      "ticket_url": "https://www.sickening.events/e/lumberpride-14/tickets?aff=cityspark",
-      "title": "Lumbertwink 14 Year Anniversary: The Flannel FINALE",
-      "venue": {
-        "address": "4830 NE 42nd",
-        "city": "Portland",
-        "latitude": 45.557951,
-        "longitude": -122.620027,
-        "name": "Spare Room"
       }
     },
     {
@@ -33437,7 +33548,7 @@
       ],
       "id": "willamette_week:20383956@2026-11-23T13:00",
       "is_all_day": false,
-      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2951&month=11&year=2026&day=6&calType=0",
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2951&month=11&year=2026&day=15&calType=0",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -44111,6 +44222,35 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:20322824@2026-11-27T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pvlOBeaYmkiW5wEh5GcXfA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/1040280118?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-27T19:00:00-08:00",
+      "summary": "Salgado is famed for his powerhouse live shows and eleven previous albums! Come see him live at Artichoke Community Music.",
+      "ticket_url": "https://www.bandsintown.com/t/1040280118?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "Curtis Salgado",
+      "venue": {
+        "address": "2007 Southeast Powell Blvd.",
+        "city": "Portland",
+        "latitude": 45.49979,
+        "longitude": -122.64544,
+        "name": "Artichoke Music"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-11-27T21:00:00-08:00",
       "id": "willamette_week:20345786@2026-11-27T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VlpwWS9_oEu27tU23J24Ww.large.jpg",
@@ -44200,35 +44340,6 @@
         "latitude": 45.5233726501,
         "longitude": -122.6767425537,
         "name": "Star Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:20322824@2026-11-27T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pvlOBeaYmkiW5wEh5GcXfA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/1040280118?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-27T19:00:00-08:00",
-      "summary": "Salgado is famed for his powerhouse live shows and eleven previous albums! Come see him live at Artichoke Community Music.",
-      "ticket_url": "https://www.bandsintown.com/t/1040280118?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
-      "title": "Curtis Salgado",
-      "venue": {
-        "address": "2007 Southeast Powell Blvd.",
-        "city": "Portland",
-        "latitude": 45.49979,
-        "longitude": -122.64544,
-        "name": "Artichoke Music"
       }
     },
     {
@@ -45076,6 +45187,67 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20322826@2026-11-27T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fN8ASIwNFUWzfKiybOFlTA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/1040213342?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-27T21:00:00-08:00",
+      "summary": "Gravagerz makes his first-ever Portland appearance at REALM PDX on November 27. From the bedroom to stages around the world, Portland is next. Expect a high-energy night built around the sounds that have defined Gravagerz across streaming and live shows. Portland, let’s make the first one count.",
+      "ticket_url": "https://www.bandsintown.com/t/1040213342?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "GRAVAGERZ",
+      "venue": {
+        "address": "615 SE Alder St",
+        "city": "Portland",
+        "latitude": 45.51819099999999,
+        "longitude": -122.6593335,
+        "name": "REALM PDX"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "end_at": "2026-11-27T22:15:00-08:00",
+      "id": "willamette_week:20453410@2026-11-27T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LGTnyLZk2ke7Q9O3tsSMtg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/2004607197089?aff=oddtdtcreator",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 20.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-27T21:00:00-08:00",
+      "summary": "Hookah Royale - Friday 11/27/26 @007hookah at 9 pm. Come see stand up comedy in the beautiful 007 Hookah Lounge on Black Friday. This lineup is filled with a variety of comedians from out of town and locally based in Portland, OR. Host: Umi Om @umi\\_om Lineup: Amir Kat @ohamirkat Genevieve Church @genegoofs Eren Şenel @ernsnl Samhita Reddy Yogi Paliwal @yogipaliwal Rohini Jayanthi @boop.my.boob Comedians with ancestors from Iran, Lebanon, India, Pakistan, Turkey, and Romania will help you unwind and find joy in life during this holiday season. 🇮🇷 🇱🇧 🇹🇷 🇮🇳 🇵🇰 🇷🇴 Cost: $10 for the comedy show (separate $35 hookah purchase required with 007 Hookah Lounge) $20 for the comedy show (no hookah purchase required) Poster Artist Jane Malone @flickingjane #comedy #standupcomedy #pdx #portland #giggleconsistently",
+      "ticket_url": "https://www.eventbrite.com/e/2004607197089?aff=oddtdtcreator",
+      "title": "Hookah Royale",
+      "venue": {
+        "address": "2524 SE Division St",
+        "city": "Portland",
+        "latitude": 45.504561,
+        "longitude": -122.639861,
+        "name": "007 Hookah Lounge"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:20425675@2026-11-27T21:00",
@@ -45130,35 +45302,6 @@
         "latitude": 45.5514335632,
         "longitude": -122.6758499146,
         "name": "Mississippi Studios"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:20322826@2026-11-27T21:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fN8ASIwNFUWzfKiybOFlTA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/1040213342?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-27T21:00:00-08:00",
-      "summary": "Gravagerz makes his first-ever Portland appearance at REALM PDX on November 27. From the bedroom to stages around the world, Portland is next. Expect a high-energy night built around the sounds that have defined Gravagerz across streaming and live shows. Portland, let’s make the first one count.",
-      "ticket_url": "https://www.bandsintown.com/t/1040213342?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
-      "title": "GRAVAGERZ",
-      "venue": {
-        "address": "615 SE Alder St",
-        "city": "Portland",
-        "latitude": 45.51819099999999,
-        "longitude": -122.6593335,
-        "name": "REALM PDX"
       }
     },
     {
@@ -45254,6 +45397,35 @@
         "latitude": 45.522875,
         "longitude": -122.673009,
         "name": "Can Can's Paris Theatre"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20322826@2026-11-27T22:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fN8ASIwNFUWzfKiybOFlTA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/1040213342?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-27T22:00:00-08:00",
+      "summary": "Gravagerz makes his first-ever Portland appearance at REALM PDX on November 27. From the bedroom to stages around the world, Portland is next. Expect a high-energy night built around the sounds that have defined Gravagerz across streaming and live shows. Portland, let’s make the first one count.",
+      "ticket_url": "https://www.bandsintown.com/t/1040213342?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "GRAVAGERZ",
+      "venue": {
+        "address": "615 SE Alder St",
+        "city": "Portland",
+        "latitude": 45.51819099999999,
+        "longitude": -122.6593335,
+        "name": "REALM PDX"
       }
     },
     {
@@ -48629,6 +48801,35 @@
         "latitude": 45.5052337646,
         "longitude": -122.6544265747,
         "name": "Funhouse Lounge"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20322824@2026-11-28T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pvlOBeaYmkiW5wEh5GcXfA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/1040280092?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-28T19:00:00-08:00",
+      "summary": "Salgado is famed for his powerhouse live shows and eleven previous albums! Come see him live at Artichoke Community Music.",
+      "ticket_url": "https://www.bandsintown.com/t/1040280092?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "Curtis Salgado",
+      "venue": {
+        "address": "2007 Southeast Powell Blvd.",
+        "city": "Portland",
+        "latitude": 45.49979,
+        "longitude": -122.64544,
+        "name": "Artichoke Music"
       }
     },
     {
@@ -54136,7 +54337,7 @@
       ],
       "id": "willamette_week:20383956@2026-11-30T13:00",
       "is_all_day": false,
-      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2952&month=11&year=2026&day=6&calType=0",
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2952&month=11&year=2026&day=15&calType=0",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -65639,35 +65840,6 @@
         "family"
       ],
       "end_at": "2026-12-04T11:00:00-08:00",
-      "id": "willamette_week:20131149@2026-12-04T10:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1097",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-04T10:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "10723 SW Capitol Highway",
-        "city": "Portland",
-        "latitude": 45.44804770699075,
-        "longitude": -122.72542730613375,
-        "name": "Capitol Hill Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-12-04T11:00:00-08:00",
       "id": "willamette_week:20131148@2026-12-04T10:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RoYSkG8U6U-2Y7rbfCvemw.large.png",
       "is_all_day": false,
@@ -65690,6 +65862,35 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-12-04T11:00:00-08:00",
+      "id": "willamette_week:20131149@2026-12-04T10:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1097",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-04T10:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "10723 SW Capitol Highway",
+        "city": "Portland",
+        "latitude": 45.44804770699075,
+        "longitude": -122.72542730613375,
+        "name": "Capitol Hill Library"
       }
     },
     {
@@ -66078,35 +66279,6 @@
         "family"
       ],
       "end_at": "2026-12-04T12:00:00-08:00",
-      "id": "willamette_week:20131153@2026-12-04T11:15",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
-      "is_all_day": false,
-      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1232",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-04T11:15:00-08:00",
-      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
-      "title": "Toddler Storytime",
-      "venue": {
-        "address": "6008 SE 49th Avenue",
-        "city": "Portland",
-        "latitude": 45.478934715870885,
-        "longitude": -122.61206954232797,
-        "name": "Woodstock Library"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-12-04T12:00:00-08:00",
       "id": "willamette_week:20131149@2026-12-04T11:15",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T6xNHPhE0EeqrzsCOZ6A-Q.large.png",
       "is_all_day": false,
@@ -66129,6 +66301,35 @@
         "latitude": 45.44804770699075,
         "longitude": -122.72542730613375,
         "name": "Capitol Hill Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-12-04T12:00:00-08:00",
+      "id": "willamette_week:20131153@2026-12-04T11:15",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1PV8HLRxuUm0lIgXRwVPCA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://multcolib.org/events-classes/toddler-storytime-1232",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-04T11:15:00-08:00",
+      "summary": "Toddlers \\(with a favorite adult\\) enjoy interactive stories, songs and games that encourage their emerging language skills. Attendance is limited and available on a first come, first served basis. Multnomah County Library storytimes are supported by gifts made to The Library Foundation .",
+      "title": "Toddler Storytime",
+      "venue": {
+        "address": "6008 SE 49th Avenue",
+        "city": "Portland",
+        "latitude": 45.478934715870885,
+        "longitude": -122.61206954232797,
+        "name": "Woodstock Library"
       }
     },
     {
@@ -69715,6 +69916,34 @@
       "categories": [
         "wellness"
       ],
+      "end_at": "2026-12-05T12:00:00-08:00",
+      "id": "willamette_week:17982063@2026-12-05T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4qihq2QzxESR9LunVzw33Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.jcwc.org/events/land-tending-at-tideman-johnson-13/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-05T09:00:00-08:00",
+      "summary": "Join the Friends of Tideman Johnson Park, Portland Parks & Rec, and the Johnson Creek Watershed Council for a morning of land tending! Tideman Johnson is a small but sweet park along Johnson Creek and the Springwater Corridor Trail in SE Portland. No experience necessary! CLICK HERE TO RSVP When: Saturday, December 5th, 9:00 am-12:00 pm Where: Tideman Johnson City Park \\(directions below\\) What: Native plantings, litter pickup, and invasive weed removal. Tasks may shift as needs change at the site. How to prepare: This event will happen rain or shine, so dress for the weather! Wear long thick pants, a long-sleeved shirt, and sturdy shoes you don’t mind getting muddy. Bring a raincoat or a hat and sunscreen, as appropriate. Bring a filled water bottle and snacks! You’re welcome to bring gloves and tools, if you want to use your own. What we provide: Gloves and all necessary tools, and instruction on how to safely use tools and remove invasive weeds. We can also provide bus fare to and from the event. Please contact info@jcwc.org to arrange bus fare. Health and Safety: We will follow current Oregon Health Authority guidelines. Masks are not required, but encouraged in indoor spaces where social distancing is not possible. Stay home if you are experiencing symptoms of any contagious illness or have had recent contact with someone exhibiting symptoms of any illness. Children are welcome: Children must be accompanied by an attentive adult. This work is around and near sharp prickly plants and can be challenging for young children. We recommend children ages 12 and up for this type of event. Accessibility: This event may require standing or squatting/kneeling for long periods of time, walking over uneven ground, bending and lifting heavy objects. Bathrooms are available for this event. CLICK HERE TO RSVP Directions to site: By transit: Take Bus \\#75 to SE 45th/Nehalem, then walk about half a mile west on SE Crystal Springs Blvd. Turn south \\(left\\) onto 37th Street and go down a steep hill to the junction of the Springwater Corridor Trail and the Johnson Creek boardwalk Or take the MAX Orange Line to SE Tacoma/Johnson Creek and walk south along the Park & Ride lot to the Springwater Corridor Trail. Walk east on the Trail for a little under a mile to reach the junction with the Johnson Creek boardwalk. By bike: follow the Springwater Corridor Trail to the junction with the Johnson Creek boardwalk. By car: park near the intersection of 37th and Tenino Streets \\(please be respectful of our neighbors and do not block driveways or mailboxes\\). Take the trailhead at the end of 37th Street and go down a steep hill to the junction with the Johnson Creek boardwalk. Thank you to our funders and partners for supporting watershed health. The Mintkeski Family Fund of the Oregon Community Foundation, Portland General Electric, The City of Portland’s Bureau of Environmental Services, East Multnomah Soil and Water Conservation District and Portland Parks & Recreation, and Friends of Tideman Johnson.",
+      "title": "Land Tending at Tideman Johnson",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
       "end_at": "2026-12-05T15:00:00-08:00",
       "id": "willamette_week:20417761@2026-12-05T09:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1d20d70f-2721-4f59-baf2-eea116df6af1.large.png",
@@ -69990,6 +70219,33 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "willamette_week:20370384@2026-12-05T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/72536cc9-5c19-4dd6-a2e4-f591662cf5ad.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/events/2026/12/5/oaks-bottom-wildlife-refuge-planting-event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-05T10:00:00-08:00",
+      "summary": "Help keep Oaks Bottom Wildlife Refuge healthy with Portland Parks & Recreation and the Friends of Oaks Bottom . We will be planting and mulching native shrubs to benefit the health of this ecosystem and provide more habitat for local wildlife. If there's time, we will remove non-native plants. Gloves, tools, and instruction will be provided. Registration is required. To register, please fill out the registration form Register here Meeting Location Park at and enter the part at the North Parking Lot & Trailhead. Enter the trail which will be marked with a white A-frame sign on the south side of the parking lot. There will be about a -10 minute walk downhill on a paved path to our meeting site. Follow the event signs and look for the green canopy. Oaks Bottom Wildlife Refuge - North Parking Lot map Location Descriptions Our group will be working mostly on flat but uneven terrain. Parking There is a small lot at the Oaks Bottom Wildlife Refuge North Parking Lot. If the parking lot is full, there is additional parking along SE Milwaukie Avenue. Questions For more information, please contact Anne Marie Santos 503-729-0318 or annemarie.santos@portlandoregon.gov annemarie.santos@portlandoregon.gov. Thank you for helping to keep Portland parks healthy and beautiful! Here are a few tips to get you ready for your stewardship event. In order to ensure your comfort and safety, please remember to dress for the weather, wear close-toed shoes, bring a water bottle, and be ready to get dirty! Registration is required for all stewardship events, unless otherwise noted. Stay home if you are experiencing symptoms of any contagious illness. All tools, gloves and training to do the task is provided. While groups are welcome to join many of our regularly scheduled stewardship events, please contact the event coordinator listed in the description before arriving with a large group. This will ensure that there are enough gloves and tools for everyone to work. We are also available to schedule special service events at your group's convenience during the week or on weekends. Learn more about programs for groups . If you are looking for community service to fulfill court requirements, please call 503-823-5121. You must be registered with our program before undertaking any community service",
+      "title": "Oaks Bottom Wildlife Refuge Planting Event",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-12-05T16:00:00-08:00",
@@ -70227,33 +70483,6 @@
         "latitude": 45.468137,
         "longitude": -122.709946,
         "name": "Multnomah Arts Center"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "id": "willamette_week:20370384@2026-12-05T10:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/72536cc9-5c19-4dd6-a2e4-f591662cf5ad.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.portland.gov/parks/events/2026/12/5/oaks-bottom-wildlife-refuge-planting-event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-05T10:00:00-08:00",
-      "summary": "Help keep Oaks Bottom Wildlife Refuge healthy with Portland Parks & Recreation and the Friends of Oaks Bottom . We will be planting and mulching native shrubs to benefit the health of this ecosystem and provide more habitat for local wildlife. If there's time, we will remove non-native plants. Gloves, tools, and instruction will be provided. Registration is required. To register, please fill out the registration form Meeting Location Park at and enter the part at the North Parking Lot & Trailhead. Enter the trail which will be marked with a white A-frame sign on the south side of the parking lot. There will be about a -10 minute walk downhill on a paved path to our meeting site. Follow the event signs and look for the green canopy. Oaks Bottom Wildlife Refuge - North Parking Lot map Location Descriptions Our group will be working mostly on flat but uneven terrain. Parking There is a small lot at the Oaks Bottom Wildlife Refuge North Parking Lot. If the parking lot is full, there is additional parking along SE Milwaukie Avenue. Questions For more information, please contact Anne Marie Santos 503-729-0318 or annemarie.santos@portlandoregon.gov annemarie.santos@portlandoregon.gov. Thank you for helping to keep Portland parks healthy and beautiful! Here are a few tips to get you ready for your stewardship event. In order to ensure your comfort and safety, please remember to dress for the weather, wear close-toed shoes, bring a water bottle, and be ready to get dirty! Registration is required for all stewardship events, unless otherwise noted. Stay home if you are experiencing symptoms of any contagious illness. All tools, gloves and training to do the task is provided. While groups are welcome to join many of our regularly scheduled stewardship events, please contact the event coordinator listed in the description before arriving with a large group. This will ensure that there are enough gloves and tools for everyone to work. We are also available to schedule special service events at your group's convenience during the week or on weekends. Learn more about programs for groups . If you are looking for community service to fulfill court requirements, please call 503-823-5121. You must be registered with our program before undertaking any community service",
-      "title": "Oaks Bottom Wildlife Refuge Planting Event",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.52345,
-        "longitude": -122.67621,
-        "name": "Portland"
       }
     },
     {
@@ -72897,6 +73126,38 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-12-05T18:30:00-08:00",
+      "id": "willamette_week:20453424@2026-12-05T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2LLja5LSeUSvA85B8pmacw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/12526-traumamatized-comedy-show-fundraiser-tickets-2003938986453?aff=oddtdtcreator",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 100.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-05T17:00:00-08:00",
+      "summary": "TrauMaMatized is on Saturday 12/5/26 at 5 pm with a new line up of talented comedians in Portland, OR at Covert Café PDX off 82nd and Morrison. Hear comedians heal us and themselves with laughter. Mama trauma can happen, what’s next? Love and life. This is a fundraising show for the Abu Shanab family to evacuate G@🙏🙏 $10 donation. In-person preferred to avoid processing fees. Logan Laughmiller Ronnie Macaroni Aimee Sinclair Jess Kapinaris Havana Aladro Brenden Creecy Poster art Jessica Miralrio #portland #pdx #standupcomedy #comedy #fundraiser",
+      "ticket_url": "https://www.eventbrite.com/e/12526-traumamatized-comedy-show-fundraiser-tickets-2003938986453?aff=oddtdtcreator",
+      "title": "TrauMaMatized",
+      "venue": {
+        "address": "803 SE 82nd Ave",
+        "city": "Portland",
+        "latitude": 45.516757,
+        "longitude": -122.57931,
+        "name": "Covert Café"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:20033134@2026-12-05T17:00",
@@ -74407,6 +74668,38 @@
         "latitude": 45.500705719,
         "longitude": -122.6545333862,
         "name": "Aladdin Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-12-05T23:00:00-08:00",
+      "id": "willamette_week:20453362@2026-12-05T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jeyZu2l8G0ePTnJXzNmU7g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://tickets.holdmyticket.com/tickets/466900",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 12.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-05T20:00:00-08:00",
+      "summary": "Abraham Racquetball is a new art-pop, fun and highly danceable music project based in Portland led by local musician Dave Shur (Crosswalks, Future Historians, Emily & the Squeamish). Their new album is out December 1st. Listening to Abraham Racquetball's music feels a little bit like playing a game of Pong: bouncy, electronic, and enjoyable. The band makes synth-filled, keyboard-forward art pop that bops around your brain and comes out through your feet in the form of dancing. --EverOut Portland Joined by Lucia Luna, Latinum Lucia Luna (they/them) is darkwave musician from Portland, OR. Luna’s range traverses a journey from dreamscape to dancewave. They channel ethereal melodies and spellbinding synthesis through voice, keys and creative sound manipulation Instagram: https://www.instagram.com/lucia.luna.pdx/ Bandcamp: occultists.bandcamp.com/album/hunting-midnight Latinum is a galactic psychedelic glam-punk trio from Portland Oregon. Instagram: we\\_are\\_latinum Bandcamp: latinum.bandcamp.com/album/into-the-flux",
+      "ticket_url": "https://tickets.holdmyticket.com/tickets/466900",
+      "title": "Abraham Racquetball Album Release Show",
+      "venue": {
+        "address": "832 SE Grand",
+        "city": "Portland",
+        "latitude": 45.516659,
+        "longitude": -122.6605,
+        "name": "Twilight Cafe & Bar"
       }
     },
     {
@@ -79428,7 +79721,7 @@
       ],
       "id": "willamette_week:20383956@2026-12-07T13:00",
       "is_all_day": false,
-      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2953&month=11&year=2026&day=6&calType=0",
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2953&month=11&year=2026&day=15&calType=0",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -89343,6 +89636,35 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-12-10T23:30:00-08:00",
+      "id": "willamette_week:20077309@2026-12-10T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MimU4xBcr0GFksVp6DMv9Q.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Ftemper-city-947fm-december-dantes-tickets%252F14354614%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-10T20:00:00-08:00",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Ftemper-city-947fm-december-dantes-tickets%252F14354614%26utm_medium%3daffiliate",
+      "title": "TEMPER CITY ~ 94/7fm December 2 Remember",
+      "venue": {
+        "address": "350 West Burnside",
+        "city": "Portland",
+        "latitude": 45.5230448395,
+        "longitude": -122.6738762856,
+        "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:20322835@2026-12-10T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MWUTb6eLXECbgRVvJEiFtA.large.png",
       "is_all_day": false,
@@ -89395,35 +89717,6 @@
         "latitude": 45.5407905579,
         "longitude": -122.6754455566,
         "name": "The White Eagle"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-12-10T23:30:00-08:00",
-      "id": "willamette_week:20077309@2026-12-10T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MimU4xBcr0GFksVp6DMv9Q.large.png",
-      "is_all_day": false,
-      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Ftemper-city-947fm-december-dantes-tickets%252F14354614%26utm_medium%3daffiliate",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-10T20:00:00-08:00",
-      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Ftemper-city-947fm-december-dantes-tickets%252F14354614%26utm_medium%3daffiliate",
-      "title": "TEMPER CITY ~ 94/7fm December 2 Remember",
-      "venue": {
-        "address": "350 West Burnside",
-        "city": "Portland",
-        "latitude": 45.5230448395,
-        "longitude": -122.6738762856,
-        "name": "Dante's"
       }
     },
     {
@@ -95461,6 +95754,33 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20077380@2026-12-12T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/k1Dv-oecvE6HYdLostlmgA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/bps/sustainability/resourcefulpdx/events/2026/12/12/repair-cafe-leaven-community-hosted-repair-pdx",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T12:00:00-08:00",
+      "summary": "Repair PDX volunteers will be fixing broken small appliances, repairing bikes, and mending clothing.",
+      "title": "Repair Café at Leaven Community, hosted by Repair PDX",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-12T14:00:00-08:00",
@@ -97312,6 +97632,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20322846@2026-12-12T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uK69b5z4H02Oga_93Wpn7w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108899042?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T18:30:00-08:00",
+      "summary": "Trio Subtonic is a groove heavy power trio out of Portland, Oregon that blends genre bending funk with slow burning underground soul jazz. Led by keyboardist Galen Clark, Subtonic explores a coalescence of rock, soul, funk and jazz that simultaneously draws in listeners and pushes boundaries. Trio Subtonic releases their 7th full-length album and first vinyl print, The Space Around You, on December 8, 2026. This is the group's first studio release in nearly ten years. On this album, the trio explores a more experimental and introspective side while retaining the groove heavy sound and dynamic arrangements that distinguish their earlier discography. Imagined as a collection of soundscape stories spanning the last decade, these songs evoke existential disquiet and the moodiness of attachment in a time of change. The Space Around You is an uncompromising exploration of weird sounds, infectious grooves, and the playful interaction of the trio instrumentation. Featured artists include West Coast VIPs such as LA's Nicole McCabe \\(alto sax\\), Seattle's Andy Coe \\(guitar\\) and Portland's Cyrus Nabipoor \\(trumpet\\).",
+      "ticket_url": "https://www.bandsintown.com/t/108899042?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "Trio Subtonic",
+      "venue": {
+        "address": "830 N Shaver St",
+        "city": "Portland",
+        "latitude": 45.5519962,
+        "longitude": -122.67516749999999,
+        "name": "The 1905"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-12T20:30:00-08:00",
@@ -97340,35 +97689,6 @@
         "latitude": 45.522875,
         "longitude": -122.673009,
         "name": "Can Can's Paris Theatre"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "willamette_week:20322846@2026-12-12T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uK69b5z4H02Oga_93Wpn7w.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.bandsintown.com/e/108899042?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-12T18:30:00-08:00",
-      "summary": "Trio Subtonic is a groove heavy power trio out of Portland, Oregon that blends genre bending funk with slow burning underground soul jazz. Led by keyboardist Galen Clark, Subtonic explores a coalescence of rock, soul, funk and jazz that simultaneously draws in listeners and pushes boundaries. Trio Subtonic releases their 7th full-length album and first vinyl print, The Space Around You, on December 8, 2026. This is the group's first studio release in nearly ten years. On this album, the trio explores a more experimental and introspective side while retaining the groove heavy sound and dynamic arrangements that distinguish their earlier discography. Imagined as a collection of soundscape stories spanning the last decade, these songs evoke existential disquiet and the moodiness of attachment in a time of change. The Space Around You is an uncompromising exploration of weird sounds, infectious grooves, and the playful interaction of the trio instrumentation. Featured artists include West Coast VIPs such as LA's Nicole McCabe \\(alto sax\\), Seattle's Andy Coe \\(guitar\\) and Portland's Cyrus Nabipoor \\(trumpet\\).",
-      "ticket_url": "https://www.bandsintown.com/t/108899042?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
-      "title": "Trio Subtonic",
-      "venue": {
-        "address": "830 N Shaver St",
-        "city": "Portland",
-        "latitude": 45.5519962,
-        "longitude": -122.67516749999999,
-        "name": "The 1905"
       }
     },
     {
@@ -98288,6 +98608,35 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:20062142@2026-12-12T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TWTO0JNFQUelK6MHluloEg.large.png",
+      "is_all_day": false,
+      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fthe-royal-we-jack-london-revue-tickets%252F14347494%26utm_medium%3daffiliate",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T20:00:00-08:00",
+      "summary": "The Royal WeSoul'd Out Presents: The Royal We featuring Skerik, Andy Coe, Wayne Horvitz, Geoff Harper, D'Vonne Lewis. Doors: 7:00pm Show: 8:00pm Ages 21\\+. The Royal We began informally playing the late night set at the Royal Room in Seattle every Wednesday night. The music is highly improvised, working from motifs and compositions by Wayne Horvitz, with an emphasis on grooves influenced by African pop music, 60's modal jazz and open improvisations. The music ranges from almost experimental to almost folkish, but with a singular sound. Over the years members have included Alex Guy, Ivan Galvez, Hans Teuber, Evan Flory-Barnes, Keith Lowe, Andy Roth, Tim Young, and Thione Diop. -------------------------------------------- JLR Seating Map Notes: For this show, you may reserve individual tables on the map pictured. Note that some tables have limited sightlines as noted. General Admission ticket holders note that seating and sightlines are limted and may be standing room only. All table reservations include admission. Instructions: For Table Reservations: Note the relative location of the stage and bar on the map. Then click a table number to see prices, or click \"Show All Tickets\". Click the \\+ button to add a specific table to your cart. For General Admission tickets: click the \"GA Standing\" area. Click the \\+ button to add additional tickets. Click \"Agree & Checkout\"",
+      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fthe-royal-we-jack-london-revue-tickets%252F14347494%26utm_medium%3daffiliate",
+      "title": "THE ROYAL WE",
+      "venue": {
+        "address": "529 SW 4th Ave",
+        "city": "Portland",
+        "latitude": 45.51954213114126,
+        "longitude": -122.67727468051187,
+        "name": "The Jack London Revue"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:20408775@2026-12-12T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nDmPkidar0G0QmH2RlKF3A.large.png",
       "is_all_day": false,
@@ -98461,35 +98810,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "willamette_week:20062142@2026-12-12T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TWTO0JNFQUelK6MHluloEg.large.png",
-      "is_all_day": false,
-      "listing_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fthe-royal-we-jack-london-revue-tickets%252F14347494%26utm_medium%3daffiliate",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-12T20:00:00-08:00",
-      "summary": "The Royal WeSoul'd Out Presents: The Royal We featuring Skerik, Andy Coe, Wayne Horvitz, Geoff Harper, D'Vonne Lewis. Doors: 7:00pm Show: 8:00pm Ages 21\\+. The Royal We began informally playing the late night set at the Royal Room in Seattle every Wednesday night. The music is highly improvised, working from motifs and compositions by Wayne Horvitz, with an emphasis on grooves influenced by African pop music, 60's modal jazz and open improvisations. The music ranges from almost experimental to almost folkish, but with a singular sound. Over the years members have included Alex Guy, Ivan Galvez, Hans Teuber, Evan Flory-Barnes, Keith Lowe, Andy Roth, Tim Young, and Thione Diop. -------------------------------------------- JLR Seating Map Notes: For this show, you may reserve individual tables on the map pictured. Note that some tables have limited sightlines as noted. General Admission ticket holders note that seating and sightlines are limted and may be standing room only. All table reservations include admission. Instructions: For Table Reservations: Note the relative location of the stage and bar on the map. Then click a table number to see prices, or click \"Show All Tickets\". Click the \\+ button to add a specific table to your cart. For General Admission tickets: click the \"GA Standing\" area. Click the \\+ button to add additional tickets. Click \"Agree & Checkout\"",
-      "ticket_url": "http://ticketmaster.evyy.net/c/253158/264167/4272?u=https%3a%2f%2fticketmaster.evyy.net%2fc%2f258147%2f271177%2f4272%3fu%3dhttps%253A%252F%252Fwww.ticketweb.com%252Fevent%252Fthe-royal-we-jack-london-revue-tickets%252F14347494%26utm_medium%3daffiliate",
-      "title": "THE ROYAL WE",
-      "venue": {
-        "address": "529 SW 4th Ave",
-        "city": "Portland",
-        "latitude": 45.51954213114126,
-        "longitude": -122.67727468051187,
-        "name": "The Jack London Revue"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-12-13T00:00:00-08:00",
@@ -98610,6 +98930,33 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:19879843@2026-12-12T20:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tPAVNKF2cEi3PD0sdOZchQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108671868?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T20:30:00-08:00",
+      "title": "Thee Honeybuds",
+      "venue": {
+        "address": "7827 SW 35th Ave",
+        "city": "Portland",
+        "latitude": 45.4677307,
+        "longitude": -122.7130127,
+        "name": "The Ship Tavern"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:20450916@2026-12-12T20:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QQx72gVo_U60r5-qmp455w.large.png",
       "is_all_day": false,
@@ -98632,6 +98979,35 @@
         "latitude": 45.5230448395,
         "longitude": -122.6738762856,
         "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20322846@2026-12-12T20:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uK69b5z4H02Oga_93Wpn7w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.bandsintown.com/e/108999630?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T20:30:00-08:00",
+      "summary": "Trio Subtonic is a groove heavy power trio out of Portland, Oregon that blends genre bending funk with slow burning underground soul jazz. Led by keyboardist Galen Clark, Subtonic explores a coalescence of rock, soul, funk and jazz that simultaneously draws in listeners and pushes boundaries. Trio Subtonic releases their 7th full-length album and first vinyl print, The Space Around You, on December 8, 2026. This is the group's first studio release in nearly ten years. On this album, the trio explores a more experimental and introspective side while retaining the groove heavy sound and dynamic arrangements that distinguish their earlier discography. Imagined as a collection of soundscape stories spanning the last decade, these songs evoke existential disquiet and the moodiness of attachment in a time of change. The Space Around You is an uncompromising exploration of weird sounds, infectious grooves, and the playful interaction of the trio instrumentation. Featured artists include West Coast VIPs such as LA's Nicole McCabe \\(alto sax\\), Seattle's Andy Coe \\(guitar\\) and Portland's Cyrus Nabipoor \\(trumpet\\).",
+      "ticket_url": "https://www.bandsintown.com/t/108999630?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=ticket",
+      "title": "Trio Subtonic",
+      "venue": {
+        "address": "830 N Shaver St",
+        "city": "Portland",
+        "latitude": 45.5519962,
+        "longitude": -122.67516749999999,
+        "name": "The 1905"
       }
     },
     {
@@ -102700,7 +103076,7 @@
       ],
       "id": "willamette_week:20383956@2026-12-14T13:00",
       "is_all_day": false,
-      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2954&month=11&year=2026&day=6&calType=0",
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2954&month=11&year=2026&day=15&calType=0",
       "price": {
         "currency": "USD",
         "is_free": false
@@ -108688,7 +109064,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-16T02:47:59+00:00",
+  "generated_at": "2026-11-16T11:33:27+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
