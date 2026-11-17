@@ -153,54 +153,6 @@
       "venue": "Portland Center Stage"
     },
     {
-      "dropped": "willamette_week:18916740@2026-11-16T18:00",
-      "kept": "dopdx:17348487",
-      "start_at": "2026-11-16T18:00:00-08:00",
-      "title_dropped": "Jenny Tian",
-      "title_kept": "Jenny Tian",
-      "venue": "The Alberta Rose Theatre"
-    },
-    {
-      "dropped": "willamette_week:19957025@2026-11-16T19:30",
-      "kept": "dopdx:17837518",
-      "start_at": "2026-11-16T19:00:00-08:00",
-      "title_dropped": "DEVIL MASTER with PILAU & Guest",
-      "title_kept": "DEVIL MASTER with PILAU & Guest",
-      "venue": "Star Theater"
-    },
-    {
-      "dropped": "willamette_week:19879770@2026-11-16T19:00",
-      "kept": "dopdx:17754907",
-      "start_at": "2026-11-16T19:00:00-08:00",
-      "title_dropped": "Vocalocity",
-      "title_kept": "Vocalocity: We’re Halfway There",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "willamette_week:20169630@2026-11-16T19:00",
-      "kept": "dopdx:17944912",
-      "start_at": "2026-11-16T19:00:00-08:00",
-      "title_dropped": "Glass Generation",
-      "title_kept": "Glass Generation at The High Limit Room",
-      "venue": "The High Limit Room"
-    },
-    {
-      "dropped": "willamette_week:19736195@2026-11-16T19:30",
-      "kept": "dopdx:17774546",
-      "start_at": "2026-11-16T19:30:00-08:00",
-      "title_dropped": "OZ NOY TRIO w/ Brian Charette & Dave Weckl - Second Night Added!",
-      "title_kept": "OZ NOY TRIO w/ Brian Charette & Dave Weckl - Second Night Added!",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:17586570@2026-11-16T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPw8V",
-      "start_at": "2026-11-16T21:00:00-08:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:19264410@2026-11-17T18:00",
       "kept": "dopdx:17489668",
       "start_at": "2026-11-17T18:00:00-08:00",
@@ -1985,6 +1937,14 @@
       "venue": "Portland Center Stage"
     },
     {
+      "dropped": "willamette_week:20169134@2026-12-17T14:00",
+      "kept": "ticketmaster:Z7r9jZ1AAvb3d",
+      "start_at": "2026-12-17T14:00:00-08:00",
+      "title_dropped": "Little Shop of Horrors",
+      "title_kept": "Little Shop of Horrors",
+      "venue": "Portland Center Stage"
+    },
+    {
       "dropped": "willamette_week:18521270@2026-11-25T10:00",
       "kept": "portland_farmers_market:shemanski-park-farmers-market-2@2026-11-25",
       "start_at": "2026-11-25T10:00:00-08:00",
@@ -2999,11 +2959,43 @@
       "title_dropped": "Whiskey Wednesday with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
       "title_kept": "Whiskey Wednesday with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19013731@2026-12-17T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af-xFS",
+      "start_at": "2026-12-17T19:00:00-08:00",
+      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:20322888@2026-12-17T19:00",
+      "kept": "ticketmaster:Z7r9jZ1AAeAv_",
+      "start_at": "2026-12-17T19:00:00-08:00",
+      "title_dropped": "Hunny",
+      "title_kept": "Honey Revenge w/ Dead Poet Society",
+      "venue": "Roseland Theater"
+    },
+    {
+      "dropped": "willamette_week:20169134@2026-12-17T19:30",
+      "kept": "ticketmaster:Z7r9jZ1AAvb36",
+      "start_at": "2026-12-17T19:30:00-08:00",
+      "title_dropped": "Little Shop of Horrors",
+      "title_kept": "Little Shop of Horrors",
+      "venue": "Portland Center Stage"
+    },
+    {
+      "dropped": "willamette_week:20200699@2026-12-17T20:00",
+      "kept": "ticketmaster:Z7r9jZ1AAvY4Y",
+      "start_at": "2026-12-17T20:00:00-08:00",
+      "title_dropped": "Eelke Kleijn",
+      "title_kept": "Eelke Kleijn",
+      "venue": "Hawthorne Theatre"
     }
   ],
-  "event_count": 6113,
-  "floor_check": "6113 events against a 6014-event baseline",
-  "generated_at": "2026-11-17T03:48:04+00:00",
+  "event_count": 6136,
+  "floor_check": "6136 events against a 6014-event baseline",
+  "generated_at": "2026-11-17T04:34:39+00:00",
   "problems": [],
   "sources": [
     "calagator",
