@@ -2857,6 +2857,14 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:18893389@2026-12-12T23:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfvKvV",
+      "start_at": "2026-12-12T23:30:00-08:00",
+      "title_dropped": "SMASH disco~glam~metal~punk-hiphop",
+      "title_kept": "SMASH disco~glam~metal~punk-hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19570968@2026-12-13T16:00",
       "kept": "ticketmaster:vvG1HZ_2m_AECb",
       "start_at": "2026-12-13T16:00:00-08:00",
@@ -3001,9 +3009,9 @@
       "venue": "Hawthorne Theatre"
     }
   ],
-  "event_count": 6133,
-  "floor_check": "6133 events against a 6116-event baseline",
-  "generated_at": "2026-11-17T13:55:36+00:00",
+  "event_count": 6169,
+  "floor_check": "6169 events against a 6116-event baseline",
+  "generated_at": "2026-11-17T14:33:07+00:00",
   "problems": [],
   "sources": [
     "calagator",
