@@ -121,60 +121,12 @@
       "venue": "Newmark Theatre"
     },
     {
-      "dropped": "dopdx:17744119",
-      "kept": "ticketmaster:Z7r9jZ1A7-z-o",
-      "start_at": "2026-11-17T19:30:00-08:00",
-      "title_dropped": "The Outsiders",
-      "title_kept": "The Outsiders (Touring)",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "dopdx:17276999",
-      "kept": "ticketmaster:rZ7HnEZ1Afx77d",
-      "start_at": "2026-11-17T19:30:00-08:00",
-      "title_dropped": "OZ NOY TRIO w/ Brian Charette & Dave Weckl",
-      "title_kept": "OZ NOY TRIO w/ Brian Charette & Dave Weckl",
-      "venue": "Jack London Revue"
-    },
-    {
       "dropped": "willamette_week:18811218@2026-11-17T19:30",
       "kept": "dopdx:17276999",
       "start_at": "2026-11-17T19:30:00-08:00",
       "title_dropped": "OZ NOY TRIO w/ Brian Charette & Dave Weckl",
       "title_kept": "OZ NOY TRIO w/ Brian Charette & Dave Weckl",
       "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:20169134@2026-11-17T19:30",
-      "kept": "ticketmaster:Z7r9jZ1AAvb3e",
-      "start_at": "2026-11-17T19:30:00-08:00",
-      "title_dropped": "Little Shop of Horrors",
-      "title_kept": "Little Shop of Horrors",
-      "venue": "Portland Center Stage"
-    },
-    {
-      "dropped": "willamette_week:20367101@2026-11-17T19:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfuN_f",
-      "start_at": "2026-11-17T19:30:00-08:00",
-      "title_dropped": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy",
-      "title_kept": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:20095188@2026-11-17T19:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfuN_f",
-      "start_at": "2026-11-17T19:30:00-08:00",
-      "title_dropped": "Two-Step Tuesday",
-      "title_kept": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "dopdx:17486070",
-      "kept": "ticketmaster:Z7r9jZ1A7P0fI",
-      "start_at": "2026-11-17T20:00:00-08:00",
-      "title_dropped": "Jervis Campbell",
-      "title_kept": "Jervis Campbell",
-      "venue": "Revolution Hall - Portland"
     },
     {
       "dropped": "willamette_week:20026068@2026-11-17T20:00",
@@ -207,14 +159,6 @@
       "title_dropped": "Special Event: MC Hammersmith",
       "title_kept": "MC Hammersmith",
       "venue": "Helium Comedy Club"
-    },
-    {
-      "dropped": "willamette_week:19449698@2026-11-17T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1Afa9b7",
-      "start_at": "2026-11-17T20:00:00-08:00",
-      "title_dropped": "CLARION",
-      "title_kept": "CLARION",
-      "venue": "Star Theater"
     },
     {
       "dropped": "willamette_week:18602727@2026-11-18T18:00",
@@ -2993,9 +2937,9 @@
       "venue": "Hawthorne Theatre"
     }
   ],
-  "event_count": 6202,
-  "floor_check": "6202 events against a 6165-event baseline",
-  "generated_at": "2026-11-18T04:10:50+00:00",
+  "event_count": 6203,
+  "floor_check": "6203 events against a 6165-event baseline",
+  "generated_at": "2026-11-18T04:14:50+00:00",
   "problems": [],
   "sources": [
     "calagator",
