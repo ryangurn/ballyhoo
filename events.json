@@ -33809,34 +33809,6 @@
     },
     {
       "categories": [
-        "tech"
-      ],
-      "end_at": "2026-11-17T15:30:00-08:00",
-      "id": "calagator:1250482762",
-      "is_all_day": false,
-      "listing_url": "https://betterfutures.club",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "calagator",
-        "name": "Calagator",
-        "url": "https://calagator.org"
-      },
-      "start_at": "2026-11-17T13:30:00-08:00",
-      "summary": "​Better Futures Club is a weekly event (alternating Tuesdays and Thursdays) focused on imagining and making better futures.\r\n\r\nImagine an artist community, a think tank, and a research center in the same building. People in all of those fields working alongside each other imagining and creating different futures together. Cross pollination and inspiration. Liberal Arts and STEM and R&D. Photographers, physicists, authors, astronomers, musicians, makers, mathematicians, designers, developers, fashionistas, climatologists and all manner of imaginative optimists.\r\n\r\nAll Better Futures Club events are covered by the Contributor Covenant Code of Conduct (https://www.contributor-covenant.org)",
-      "title": "Better Futures Club",
-      "venue": {
-        "address": "3286 NE Killingsworth St",
-        "city": "Portland",
-        "latitude": 45.5625,
-        "longitude": -122.6309,
-        "name": "Autumn Coffee Roasting"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "id": "willamette_week:19514571@2026-11-17T13:30",
@@ -35590,33 +35562,6 @@
         "latitude": 45.509318,
         "longitude": -122.662657,
         "name": "21ten's Teaching Space"
-      }
-    },
-    {
-      "categories": [
-        "tech"
-      ],
-      "end_at": "2026-11-17T21:00:00-08:00",
-      "id": "calagator:1250482781",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "calagator",
-        "name": "Calagator",
-        "url": "https://calagator.org"
-      },
-      "start_at": "2026-11-17T19:00:00-08:00",
-      "summary": "Join us for the Snap SPECS PDX Meetup. The group focuses on the wearable AR glasses, SPECS 27 (https://www.specs.com), being released by Snap in Q4 2026. The group is open to all - developers, designers, enthusiasts. All are welcome!\r\n\r\nNovember agenda to be announced later.\r\n\r\nThis event is hosted by the Oregon Reality Lab at the University of Oregon Portland Campus. The intent is to meet monthly.",
-      "title": "Snap SPECS PDX Meetup [Spatial Computing, AR, VR, XR]",
-      "venue": {
-        "address": "2811 NE Holman St,",
-        "city": "Portland",
-        "latitude": 45.5687,
-        "longitude": -122.6369,
-        "name": "Oregon Reality Lab at the University of Oregon, Portland Campus,"
       }
     },
     {
@@ -149900,6 +149845,34 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "end_at": "2026-12-14T19:00:00-08:00",
+      "id": "calagator:1250482808",
+      "is_all_day": false,
+      "listing_url": "https://www.meetup.com/rladies-pdx/events/317475568/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-12-14T17:00:00-08:00",
+      "summary": "We'll be sharing our solutions to Advent of Code https://adventofcode.com this year - you are welcome to do one or more of the puzzles and share your solution or attempt at the event or hang out and see how others have solved things!\r\n\r\nMany of us have never participated in Advent of Code before, so some things to know:\r\n- they start Dec 1\r\n- the puzzles increase in difficulty each day\r\n- they are designed to be solved in the programming language of your choice - we suggest R of course, but would love to see other solutions if that's what you want to do!\r\n\r\nyou do not have to rsvp on meetup to join us!",
+      "title": "R-Ladies PDX: Advent of Code Sharing Session",
+      "venue": {
+        "address": "7675 SW CAPITOL HWY",
+        "city": "PORTLAND",
+        "latitude": 45.4689,
+        "longitude": -122.7096,
+        "name": "Lucky Labrador  Public House Multnomah Village"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-12-14T20:00:00-08:00",
@@ -181997,5 +181970,5 @@
       }
     }
   ],
-  "generated_at": "2026-11-18T03:54:15+00:00"
+  "generated_at": "2026-11-18T04:10:50+00:00"
 }
