@@ -17,6 +17,14 @@
       "venue": "Moda Center"
     },
     {
+      "dropped": "willamette_week:20194251@2026-11-19T19:00",
+      "kept": "dopdx:17797564",
+      "start_at": "2026-11-19T19:00:00-08:00",
+      "title_dropped": "Velodrome Indie Improv",
+      "title_kept": "Velodrome Indie Improv",
+      "venue": "Kickstand Comedy"
+    },
+    {
       "dropped": "dopdx:17873840",
       "kept": "ticketmaster:rZ7HnEZ1Af0vFd",
       "start_at": "2026-11-19T19:00:00-08:00",
@@ -55,14 +63,6 @@
       "title_dropped": "White Bird Presents: Trinity Irish Dance Company",
       "title_kept": "Trinity Irish Dance Company",
       "venue": "Newmark Theatre"
-    },
-    {
-      "dropped": "willamette_week:19786969@2026-11-19T19:30",
-      "kept": "dopdx:17683930",
-      "start_at": "2026-11-19T19:30:00-08:00",
-      "title_dropped": "With Her Own Wings",
-      "title_kept": "With Her Own Wings",
-      "venue": "Patricia Reser Center for the Arts"
     },
     {
       "dropped": "willamette_week:20169134@2026-11-19T19:30",
@@ -273,14 +273,6 @@
       "venue": "McMenamins Crystal Ballroom"
     },
     {
-      "dropped": "willamette_week:19533149@2026-11-19T20:00",
-      "kept": "dopdx:17585941",
-      "start_at": "2026-11-19T20:00:00-08:00",
-      "title_dropped": "Todd Rundgren: DAMNED IF I DO TOUR",
-      "title_kept": "Todd Rundgren: DAMNED IF I DO TOUR",
-      "venue": "Aladdin Theater"
-    },
-    {
       "dropped": "willamette_week:20322778@2026-11-19T20:00",
       "kept": "dopdx:17906673",
       "start_at": "2026-11-19T20:00:00-08:00",
@@ -340,7 +332,7 @@
       "dropped": "willamette_week:19302288@2026-11-19T20:00",
       "kept": "dopdx:17768648",
       "start_at": "2026-11-19T20:00:00-08:00",
-      "title_dropped": "Graham Barham",
+      "title_dropped": "Graham Barham & Fuller",
       "title_kept": "Graham Barham",
       "venue": "Ponderosa Lounge & Grill"
     },
@@ -359,14 +351,6 @@
       "title_dropped": "Jim Lauderdale and Never Come Down",
       "title_kept": "Jim Lauderdale and Never Come Down",
       "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:19957027@2026-11-19T20:00",
-      "kept": "ticketmaster:Z7r9jZ1AAv0je",
-      "start_at": "2026-11-19T20:00:00-08:00",
-      "title_dropped": "Waax (21 and Over)",
-      "title_kept": "Waax (21 and Over)",
-      "venue": "Revolution Hall - Portland"
     },
     {
       "dropped": "willamette_week:19852970@2026-11-19T20:30",
@@ -2601,14 +2585,6 @@
       "venue": "Showdown Saloon"
     },
     {
-      "dropped": "willamette_week:19484588@2026-12-10T20:00",
-      "kept": "ticketmaster:vvG1HZ_CxE4kcn",
-      "start_at": "2026-12-10T20:00:00-08:00",
-      "title_dropped": "Mannheim Steamroller Christmas",
-      "title_kept": "Mannheim Steamroller Christmas",
-      "venue": "Ilani Cowlitz Ballroom"
-    },
-    {
       "dropped": "willamette_week:19679617@2026-12-10T20:30",
       "kept": "ticketmaster:rZ7HnEZ1A4ZEed",
       "start_at": "2026-12-10T20:30:00-08:00",
@@ -2921,9 +2897,9 @@
       "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 6211,
-  "floor_check": "6211 events against a 6205-event baseline",
-  "generated_at": "2026-11-18T21:51:21+00:00",
+  "event_count": 6283,
+  "floor_check": "6283 events against a 6205-event baseline",
+  "generated_at": "2026-11-18T22:02:43+00:00",
   "problems": [],
   "sources": [
     "calagator",
