@@ -93449,6 +93449,25 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:audit-committee-meeting-2026-11-30",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/audit-committee-meeting-2026-11-30",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-11-30T13:00:00-08:00",
+      "title": "Audit Committee meeting"
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:20383956@2026-11-30T13:00",
@@ -184223,5 +184242,5 @@
       }
     }
   ],
-  "generated_at": "2026-11-18T22:02:43+00:00"
+  "generated_at": "2026-11-18T22:11:16+00:00"
 }
