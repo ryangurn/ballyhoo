@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T15:11:38+00:00",
+  "generated_at": "2026-11-19T19:12:12+00:00",
   "sources": [
     {
       "event_count": 30,
       "last_run_at": "2026-11-19T12:52:20+00:00",
       "source_id": "calagator",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/calagator.json"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "event_count": 55,
-      "last_run_at": "2026-11-19T10:47:39+00:00",
+      "last_run_at": "2026-11-19T19:11:22+00:00",
       "source_id": "obt",
       "status": "ok",
       "url": "sources/obt.json"
@@ -68,14 +68,14 @@
       "event_count": 0,
       "last_run_at": "2026-11-19T12:08:13+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
       "event_count": 874,
       "last_run_at": "2026-11-19T12:57:31+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
