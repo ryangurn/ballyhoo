@@ -105,30 +105,6 @@
       "venue": "Portland Center Stage"
     },
     {
-      "dropped": "dopdx:17744120",
-      "kept": "ticketmaster:Z7r9jZ1A7-z-3",
-      "start_at": "2026-11-18T19:30:00-08:00",
-      "title_dropped": "The Outsiders",
-      "title_kept": "The Outsiders (Touring)",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "dopdx:17471943",
-      "kept": "ticketmaster:Z7r9jZ1A7PKAZ",
-      "start_at": "2026-11-18T20:00:00-08:00",
-      "title_dropped": "MADDIE ZAHM - Everything All The Time Tour",
-      "title_kept": "Maddie Zahm w/ OSTON",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "dopdx:17513530",
-      "kept": "ticketmaster:rZ7HnEZ1AfFA4f",
-      "start_at": "2026-11-18T20:00:00-08:00",
-      "title_dropped": "Bombargo",
-      "title_kept": "BOMBARGO",
-      "venue": "Jack London Revue"
-    },
-    {
       "dropped": "willamette_week:20318580@2026-11-19T19:30",
       "kept": "dopdx:17892429",
       "start_at": "2026-11-19T20:00:00-08:00",
@@ -2873,9 +2849,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 6294,
-  "floor_check": "6294 events against a 6284-event baseline",
-  "generated_at": "2026-11-19T12:52:53+00:00",
+  "event_count": 6292,
+  "floor_check": "6292 events against a 6284-event baseline",
+  "generated_at": "2026-11-19T12:58:18+00:00",
   "problems": [],
   "sources": [
     "calagator",
