@@ -1921,6 +1921,14 @@
       "venue": "Portland Center Stage"
     },
     {
+      "dropped": "willamette_week:20478847@2026-11-28T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfuOkf",
+      "start_at": "2026-11-28T20:00:00-08:00",
+      "title_dropped": "One way Out PDX - Allman Brothers Tribute at The Jack London Review",
+      "title_kept": "ONE WAY OUT - ALLMAN BROTHERS BAND TRIBUTE",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "willamette_week:20077307@2026-11-28T20:00",
       "kept": "ticketmaster:rZ7HnEZ1AfuOkf",
       "start_at": "2026-11-28T20:00:00-08:00",
@@ -2851,7 +2859,7 @@
   ],
   "event_count": 6292,
   "floor_check": "6292 events against a 6284-event baseline",
-  "generated_at": "2026-11-19T12:58:18+00:00",
+  "generated_at": "2026-11-19T13:21:21+00:00",
   "problems": [],
   "sources": [
     "calagator",
