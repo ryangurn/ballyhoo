@@ -42128,6 +42128,38 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-28T23:00:00-08:00",
+      "id": "willamette_week:20478847@2026-11-28T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/olKfNr-bf0GTyJBOpxw6rg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.jacklondonrevue.com/tm-event/one-way-out-allman-brothers-band-tribute/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 26.24,
+        "min": 26.24
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-28T20:00:00-08:00",
+      "summary": "Portland's amazing 8-member Allman Brothers tribute band, One Way Out, brings the passion and virtuosity of one of the best live bands in rock history to the Jack London Revue in downtown Portland. One Way Out PDX performs throughout the Pacific NW, and captures the spirit and legendary flights of improvisation for which the Allman Brothers were famed. Portland blues musician Kevin Selfe opens the show with a 20 minute solo set.",
+      "ticket_url": "https://www.ticketweb.com/event/one-way-out-jack-london-revue-tickets/14360194?pl=jacklondon&REFID=clientsitewp",
+      "title": "One way Out PDX - Allman Brothers Tribute at The Jack London Review",
+      "venue": {
+        "address": "23707 1st St. NE",
+        "city": "Aurora",
+        "latitude": 45.262099,
+        "longitude": -122.843569,
+        "name": "The Jack London Revue"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-11-29T01:00:00-08:00",
@@ -116790,7 +116822,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-19T03:35:16+00:00",
+  "generated_at": "2026-11-19T13:19:57+00:00",
   "source_id": "willamette_week",
   "status": "ok"
 }
