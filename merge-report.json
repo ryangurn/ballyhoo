@@ -1,6 +1,30 @@
 {
   "duplicates_merged": [
     {
+      "dropped": "willamette_week:19013731@2026-12-03T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Af-xGd",
+      "start_at": "2026-12-03T19:00:00-08:00",
+      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:19679614@2026-12-03T19:00",
+      "kept": "ticketmaster:vvG1HZ_83jDIDz",
+      "start_at": "2026-12-03T19:00:00-08:00",
+      "title_dropped": "Portland Trail Blazers vs. Utah Jazz",
+      "title_kept": "Portland Trail Blazers vs. Utah Jazz",
+      "venue": "Moda Center"
+    },
+    {
+      "dropped": "willamette_week:20169134@2026-12-03T19:30",
+      "kept": "ticketmaster:Z7r9jZ1AAvbow",
+      "start_at": "2026-12-03T19:30:00-08:00",
+      "title_dropped": "Little Shop of Horrors",
+      "title_kept": "Little Shop of Horrors",
+      "venue": "Portland Center Stage"
+    },
+    {
       "dropped": "dopdx:17965902",
       "kept": "ticketmaster:vvG1HZ_fB9yAQs",
       "start_at": "2026-11-19T18:00:00-08:00",
@@ -76,30 +100,6 @@
       "dropped": "willamette_week:20169134@2026-11-19T19:30",
       "kept": "ticketmaster:Z7r9jZ1AAvbfk",
       "start_at": "2026-11-19T19:30:00-08:00",
-      "title_dropped": "Little Shop of Horrors",
-      "title_kept": "Little Shop of Horrors",
-      "venue": "Portland Center Stage"
-    },
-    {
-      "dropped": "willamette_week:19013731@2026-12-03T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1Af-xGd",
-      "start_at": "2026-12-03T19:00:00-08:00",
-      "title_dropped": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "title_kept": "MEL BROWN B3 ORGAN GROUP - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "willamette_week:19679614@2026-12-03T19:00",
-      "kept": "ticketmaster:vvG1HZ_83jDIDz",
-      "start_at": "2026-12-03T19:00:00-08:00",
-      "title_dropped": "Portland Trail Blazers vs. Utah Jazz",
-      "title_kept": "Portland Trail Blazers vs. Utah Jazz",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "willamette_week:20169134@2026-12-03T19:30",
-      "kept": "ticketmaster:Z7r9jZ1AAvbow",
-      "start_at": "2026-12-03T19:30:00-08:00",
       "title_dropped": "Little Shop of Horrors",
       "title_kept": "Little Shop of Horrors",
       "venue": "Portland Center Stage"
@@ -2857,9 +2857,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 6316,
-  "floor_check": "6316 events against a 6294-event baseline",
-  "generated_at": "2026-11-20T02:36:42+00:00",
+  "event_count": 6312,
+  "floor_check": "6312 events against a 6294-event baseline",
+  "generated_at": "2026-11-20T03:02:33+00:00",
   "problems": [],
   "sources": [
     "calagator",
