@@ -4,44 +4,6 @@
       "categories": [
         "outdoors"
       ],
-      "id": "oregon_metro:free-parking-day-metro-parks-2026-11-19",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/free-parking-day-metro-parks-2026-11-19",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-19T00:00:00-08:00",
-      "title": "Free parking day at Metro parks"
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:committee-racial-equity-meeting-2026-11-19",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/committee-racial-equity-meeting-2026-11-19",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-19T17:30:00-08:00",
-      "title": "Committee on Racial Equity meeting"
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
       "id": "oregon_metro:stewardship-day-glendoveer-2026-11-20",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/stewardship-day-glendoveer-2026-11-20",
@@ -245,6 +207,25 @@
       },
       "start_at": "2026-12-04T09:00:00-08:00",
       "title": "Transportation Policy Alternatives Committee meeting"
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:community-led-sponsorships-workshop-2026-12-08-0",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/community-led-sponsorships-workshop-2026-12-08-0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-12-08T09:00:00-08:00",
+      "title": "Community-led sponsorships workshop"
     },
     {
       "categories": [
@@ -994,6 +975,25 @@
         "longitude": -122.66024,
         "name": "Metro Regional Center"
       }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:transportation-policy-alternatives-committee-meeting-2027-02-05",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/transportation-policy-alternatives-committee-meeting-2027-02-05",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-02-05T09:00:00-08:00",
+      "title": "Transportation Policy Alternatives Committee meeting"
     },
     {
       "categories": [
@@ -3292,7 +3292,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-20T03:34:08+00:00",
+  "generated_at": "2026-11-20T13:15:40+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
