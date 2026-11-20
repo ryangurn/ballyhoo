@@ -25,14 +25,6 @@
       "venue": "Portland Center Stage"
     },
     {
-      "dropped": "dopdx:17965902",
-      "kept": "ticketmaster:vvG1HZ_fB9yAQs",
-      "start_at": "2026-11-19T18:00:00-08:00",
-      "title_dropped": "Oregon vs Oregon State",
-      "title_kept": "Northwest Elite Sports West Coast Classic",
-      "venue": "Moda Center"
-    },
-    {
       "dropped": "willamette_week:20258454@2026-11-19T18:00",
       "kept": "dopdx:17965902",
       "start_at": "2026-11-19T18:00:00-08:00",
@@ -47,14 +39,6 @@
       "title_dropped": "Velodrome Indie Improv",
       "title_kept": "Velodrome Indie Improv",
       "venue": "Kickstand Comedy"
-    },
-    {
-      "dropped": "dopdx:17873840",
-      "kept": "ticketmaster:rZ7HnEZ1Af0vFd",
-      "start_at": "2026-11-19T19:00:00-08:00",
-      "title_dropped": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "title_kept": "CHUCK ISRAELS JAZZ ORCH - Jazz Titan Thursdays",
-      "venue": "Jack London Revue"
     },
     {
       "dropped": "willamette_week:18893395@2026-11-19T19:00",
@@ -2077,7 +2061,7 @@
       "kept": "ticketmaster:rZ7HnEZ1AfGf00",
       "start_at": "2026-11-30T19:00:00-08:00",
       "title_dropped": "Square Dancing / KARAOKE @ 9:30",
-      "title_kept": "Square Dancing / KARAOKE @ 9:30",
+      "title_kept": "Square Dancing with Caller Bex Bee and Silverstar String Band / KARAOKE @ 9:30",
       "venue": "Showdown Saloon"
     },
     {
@@ -2221,7 +2205,7 @@
       "kept": "ticketmaster:rZ7HnEZ1AfFSu7",
       "start_at": "2026-12-04T20:00:00-08:00",
       "title_dropped": "THE BAD PLUS",
-      "title_kept": "THE BAD PLUS",
+      "title_kept": "THE BAD PLUS WITH HENRY IVIE-GARDNER",
       "venue": "Star Theater"
     },
     {
@@ -2857,9 +2841,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 6312,
-  "floor_check": "6312 events against a 6294-event baseline",
-  "generated_at": "2026-11-20T03:02:33+00:00",
+  "event_count": 6314,
+  "floor_check": "6314 events against a 6294-event baseline",
+  "generated_at": "2026-11-20T03:08:03+00:00",
   "problems": [],
   "sources": [
     "calagator",
