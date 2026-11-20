@@ -377,6 +377,14 @@
       "venue": "Revolution Hall - Portland"
     },
     {
+      "dropped": "willamette_week:20483708@2026-11-21T20:00",
+      "kept": "dopdx:17132430",
+      "start_at": "2026-11-21T20:00:00-08:00",
+      "title_dropped": "Video Dance Attack Presents: Studio 54",
+      "title_kept": "Phoebe Robinson: Feral & Fired Up!",
+      "venue": "Revolution Hall"
+    },
+    {
       "dropped": "willamette_week:18783846@2026-11-21T20:00",
       "kept": "dopdx:17132430",
       "start_at": "2026-11-21T20:00:00-08:00",
@@ -513,6 +521,22 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "willamette_week:20490336@2026-11-22T13:00",
+      "kept": "dopdx:17744124",
+      "start_at": "2026-11-22T13:00:00-08:00",
+      "title_dropped": "Parking The Outsiders",
+      "title_kept": "The Outsiders - Click for showtimes",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "willamette_week:20492495@2026-11-22T13:00",
+      "kept": "portland_farmers_market:school-of-rock-portland@2026-11-22",
+      "start_at": "2026-11-22T13:00:00-08:00",
+      "title_dropped": "School of Rock Portland",
+      "title_kept": "School of Rock Portland",
+      "venue": "Lents International Farmers Market"
+    },
+    {
       "dropped": "dopdx:17262344",
       "kept": "ticketmaster:Z7r9jZ1A7Jku3",
       "start_at": "2026-11-22T14:00:00-08:00",
@@ -559,6 +583,14 @@
       "title_dropped": "Can Can's 'Twas the Night Before Nutcracker",
       "title_kept": "Can Can’s Twas the Night Before Nutcracker",
       "venue": "Can Can's Paris Theatre"
+    },
+    {
+      "dropped": "willamette_week:20490336@2026-11-22T18:30",
+      "kept": "ticketmaster:Z7r9jZ1A7-z-b",
+      "start_at": "2026-11-22T18:30:00-08:00",
+      "title_dropped": "Parking The Outsiders",
+      "title_kept": "The Outsiders (Touring)",
+      "venue": "Keller Auditorium"
     },
     {
       "dropped": "willamette_week:19766480@2026-11-22T19:30",
@@ -681,6 +713,14 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "willamette_week:20490336@2026-11-24T13:00",
+      "kept": "dopdx:17744126",
+      "start_at": "2026-11-24T13:00:00-08:00",
+      "title_dropped": "Parking The Outsiders",
+      "title_kept": "The Outsiders - Click for showtimes",
+      "venue": "Keller Auditorium"
+    },
+    {
       "dropped": "willamette_week:19029329@2026-11-24T18:00",
       "kept": "dopdx:17404663",
       "start_at": "2026-11-24T18:00:00-08:00",
@@ -719,6 +759,14 @@
       "title_dropped": "Boston Manor - Hawthorne Theatre - Portland",
       "title_kept": "Boston Manor",
       "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "willamette_week:20490336@2026-11-24T19:30",
+      "kept": "ticketmaster:Z7r9jZ1A7-z-O",
+      "start_at": "2026-11-24T19:30:00-08:00",
+      "title_dropped": "Parking The Outsiders",
+      "title_kept": "The Outsiders (Touring)",
+      "venue": "Keller Auditorium"
     },
     {
       "dropped": "willamette_week:20367107@2026-11-24T19:30",
@@ -2713,9 +2761,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 6236,
-  "floor_check": "6236 events against a 6223-event baseline",
-  "generated_at": "2026-11-20T20:53:43+00:00",
+  "event_count": 6433,
+  "floor_check": "6433 events against a 6223-event baseline",
+  "generated_at": "2026-11-20T21:13:19+00:00",
   "problems": [],
   "sources": [
     "calagator",
