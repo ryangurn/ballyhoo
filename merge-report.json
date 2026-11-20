@@ -25,46 +25,6 @@
       "venue": "Portland Center Stage"
     },
     {
-      "dropped": "dopdx:17744121",
-      "kept": "ticketmaster:Z7r9jZ1A7-z-K",
-      "start_at": "2026-11-19T19:30:00-08:00",
-      "title_dropped": "The Outsiders",
-      "title_kept": "The Outsiders (Touring)",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "dopdx:17609858",
-      "kept": "ticketmaster:Z7r9jZ1A7J3_6",
-      "start_at": "2026-11-19T20:00:00-08:00",
-      "title_dropped": "Thundercat: Distracted AF Tour",
-      "title_kept": "Thundercat",
-      "venue": "McMenamins Crystal Ballroom"
-    },
-    {
-      "dropped": "dopdx:17842259",
-      "kept": "ticketmaster:rZ7HnEZ1AfG9OV",
-      "start_at": "2026-11-19T20:00:00-08:00",
-      "title_dropped": "Brokencyde with Dot Dot Curve & Auntie Boy",
-      "title_kept": "BROKENCYDE with Dot Dot Curve & Lord Lawrence",
-      "venue": "Dante's"
-    },
-    {
-      "dropped": "dopdx:17842259",
-      "kept": "ticketmaster:Z7r9jZ1AAvt7v",
-      "start_at": "2026-11-19T20:00:00-08:00",
-      "title_dropped": "Brokencyde with Dot Dot Curve & Auntie Boy",
-      "title_kept": "Brokencyde w/ Dot Dot Curve",
-      "venue": "Dante's"
-    },
-    {
-      "dropped": "dopdx:17854307",
-      "kept": "ticketmaster:Z7r9jZ1AA7_A3",
-      "start_at": "2026-11-19T20:00:00-08:00",
-      "title_dropped": "2Dead Boyz x The Underachievers",
-      "title_kept": "2DEAD BOYZ w/ The Underachievers",
-      "venue": "Hawthorne Theatre"
-    },
-    {
       "dropped": "willamette_week:20284197@2026-11-20T17:00",
       "kept": "dopdx:17775811",
       "start_at": "2026-11-20T17:00:00-08:00",
@@ -483,17 +443,17 @@
     {
       "dropped": "dopdx:17934255",
       "kept": "ticketmaster:rZ7HnEZ1AfuJOV",
-      "start_at": "2026-11-21T21:00:00-08:00",
+      "start_at": "2026-11-21T20:30:00-08:00",
       "title_dropped": "Sick: a Year In Our Bodies - Fundraiser Showcase",
       "title_kept": "SICK: A Year In Our Bodies - Fundraiser Showcase",
       "venue": "Dante's"
     },
     {
       "dropped": "willamette_week:20120470@2026-11-21T21:00",
-      "kept": "dopdx:17934255",
-      "start_at": "2026-11-21T21:00:00-08:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfuJOV",
+      "start_at": "2026-11-21T20:30:00-08:00",
       "title_dropped": "SICK: A Year In Our Bodies - Fundraiser Showcase",
-      "title_kept": "Sick: a Year In Our Bodies - Fundraiser Showcase",
+      "title_kept": "SICK: A Year In Our Bodies - Fundraiser Showcase",
       "venue": "Dante's"
     },
     {
@@ -639,14 +599,6 @@
       "title_dropped": "Casual Eddie with Special Guest Dominic Robison",
       "title_kept": "Casual Eddie",
       "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:20197478@2026-11-22T20:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfCZG0",
-      "start_at": "2026-11-22T20:30:00-08:00",
-      "title_dropped": "TV VIKING followed by Sinferno Cabaret",
-      "title_kept": "TV VIKING followed by Sinferno Cabaret",
-      "venue": "Dante's"
     },
     {
       "dropped": "dopdx:17918386",
@@ -2769,9 +2721,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 6207,
-  "floor_check": "6207 events against a 6292-event baseline",
-  "generated_at": "2026-11-20T11:25:36+00:00",
+  "event_count": 6202,
+  "floor_check": "6202 events against a 6292-event baseline",
+  "generated_at": "2026-11-20T11:28:42+00:00",
   "problems": [],
   "sources": [
     "calagator",
