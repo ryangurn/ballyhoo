@@ -25,70 +25,6 @@
       "venue": "Portland Center Stage"
     },
     {
-      "dropped": "dopdx:17744122",
-      "kept": "ticketmaster:Z7r9jZ1A7-z-f",
-      "start_at": "2026-11-20T19:30:00-08:00",
-      "title_dropped": "The Outsiders",
-      "title_kept": "The Outsiders (Touring)",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "dopdx:17616543",
-      "kept": "ticketmaster:vvG1HZ_CE4hlB0",
-      "start_at": "2026-11-20T19:30:00-08:00",
-      "title_dropped": "Grief Sucks: A One Man Show By KevOnStage",
-      "title_kept": "Grief Sucks: A One Man Show By KevOnStage",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "dopdx:17616543",
-      "kept": "ticketmaster:Z7r9jZ1A7Jk8k",
-      "start_at": "2026-11-20T19:30:00-08:00",
-      "title_dropped": "Grief Sucks: A One Man Show By KevOnStage",
-      "title_kept": "KevOnStage (16+ Event)",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "dopdx:17732477",
-      "kept": "ticketmaster:Z7r9jZ1AAvoOk",
-      "start_at": "2026-11-20T20:00:00-08:00",
-      "title_dropped": "Haley Johnsen",
-      "title_kept": "Haley Johnsen",
-      "venue": "McMenamins Crystal Ballroom"
-    },
-    {
-      "dropped": "dopdx:17894070",
-      "kept": "ticketmaster:rZ7HnEZ1AfGVG7",
-      "start_at": "2026-11-20T20:00:00-08:00",
-      "title_dropped": "Eric John Kaiser Album Release",
-      "title_kept": "ERIC JOHN KAISER - ALBUM RELEASE",
-      "venue": "Jack London Revue"
-    },
-    {
-      "dropped": "dopdx:17801327",
-      "kept": "ticketmaster:Z7r9jZ1AA7vGO",
-      "start_at": "2026-11-20T20:30:00-08:00",
-      "title_dropped": "House of Heavy",
-      "title_kept": "House of Heavy (21 and Over Only w/ Valid Photo ID)",
-      "venue": "Hawthorne Theatre"
-    },
-    {
-      "dropped": "dopdx:17745207",
-      "kept": "ticketmaster:Z7r9jZ1AAZM1v",
-      "start_at": "2026-11-20T22:00:00-08:00",
-      "title_dropped": "Space 92",
-      "title_kept": "Space 92 - Ages 21+",
-      "venue": "45 East"
-    },
-    {
-      "dropped": "dopdx:17339152",
-      "kept": "ticketmaster:rZ7HnEZ1Af03_K",
-      "start_at": "2026-11-20T23:55:00-08:00",
-      "title_dropped": "Hotwax Disco~Glam~Metal~Punk~Hiphop",
-      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:20021393@2026-11-21T13:30",
       "kept": "dopdx:17888020",
       "start_at": "2026-11-21T13:30:00-08:00",
@@ -2545,6 +2481,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19225591@2026-12-18T23:55",
+      "kept": "ticketmaster:rZ7HnEZ1Af03Qd",
+      "start_at": "2026-12-18T23:55:00-08:00",
+      "title_dropped": "HOTWAX disco~glam~metal~punk~hiphop",
+      "title_kept": "HOTWAX disco~glam~metal~punk~hiphop",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:19707535@2026-12-19T19:00",
       "kept": "ticketmaster:vvG1HZ_o2qzF_x",
       "start_at": "2026-12-19T19:00:00-08:00",
@@ -2577,9 +2521,9 @@
       "venue": "Jack London Revue"
     }
   ],
-  "event_count": 6295,
-  "floor_check": "6295 events against a 6295-event baseline",
-  "generated_at": "2026-11-21T09:39:03+00:00",
+  "event_count": 6293,
+  "floor_check": "6293 events against a 6295-event baseline",
+  "generated_at": "2026-11-21T09:43:25+00:00",
   "problems": [],
   "sources": [
     "calagator",
