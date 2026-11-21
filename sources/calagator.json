@@ -432,6 +432,34 @@
       "categories": [
         "tech"
       ],
+      "end_at": "2026-12-21T19:30:00-08:00",
+      "id": "calagator:1250482809",
+      "is_all_day": false,
+      "listing_url": "https://pdxa11yux.org/events/2026/12/21/year-end-accessibility-social.html",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "calagator",
+        "name": "Calagator",
+        "url": "https://calagator.org"
+      },
+      "start_at": "2026-12-21T17:30:00-08:00",
+      "summary": "Join us for a casual year-end accessibility social! Chat about your favorite accessibility topics, meet new people, and discuss what you'd like to learn at events in the new year. Drop in or leave any time!\r\n\r\n#### Location: The Zipper\r\n\r\nThe Zipper is a food court with multiple vendors providing different cuisines, including vegan and gluten-free options. Alcoholic and nonalcoholic beverages are available. See individual vendors for menus. This event is no-host (each participant pays for their own food/drinks), but there's no obligation to buy something to attend.\r\n\r\n#### Accessibility + COVID Safety\r\n\r\nThe location is wheelchair accessible, near public transit, and has street parking for bikes and cars. This event will be held outside in the covered patio space with outdoor ventilation and heaters.",
+      "title": "Portland Accessibility and User Experience Meetup (PDX A11Y UX) - Year-end accessibility social",
+      "venue": {
+        "address": "2705 Northeast Sandy Boulevard",
+        "city": "Portland",
+        "latitude": 45.5292,
+        "longitude": -122.6382,
+        "name": "The Zipper"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
       "end_at": "2027-01-09T12:00:00-08:00",
       "id": "calagator:1250482803",
       "is_all_day": false,
@@ -691,7 +719,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-21T17:23:07+00:00",
+  "generated_at": "2026-11-21T23:05:27+00:00",
   "source_id": "calagator",
   "status": "ok"
 }
