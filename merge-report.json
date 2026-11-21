@@ -201,6 +201,14 @@
       "venue": "NOVA PDX"
     },
     {
+      "dropped": "willamette_week:20496534@2026-11-21T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4vboK",
+      "start_at": "2026-11-21T21:00:00-08:00",
+      "title_dropped": "TWIRL - AUTUMN DISCO",
+      "title_kept": "TWIRL - AUTUMN DISCO",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:20423888@2026-11-21T21:30",
       "kept": "dopdx:17749557",
       "start_at": "2026-11-21T21:30:00-08:00",
@@ -367,6 +375,14 @@
       "title_dropped": "Sinferno Cabaret",
       "title_kept": "SINFERNO CABARET",
       "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19469867@2026-11-22T22:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfPsrd",
+      "start_at": "2026-11-22T22:30:00-08:00",
+      "title_dropped": "CHURCH OF HIVE",
+      "title_kept": "CHURCH OF HIVE :: SINEAD : LISSEX",
+      "venue": "Star Theater"
     },
     {
       "dropped": "dopdx:17520957",
@@ -1049,14 +1065,6 @@
       "venue": "Winningstad Theatre"
     },
     {
-      "dropped": "willamette_week:18235589@2026-12-19T19:30",
-      "kept": "ticketmaster:Z7r9jZ1A7J38-",
-      "start_at": "2026-12-19T19:30:00-08:00",
-      "title_dropped": "Home Alone in Concert",
-      "title_kept": "Oregon Symphony presents Home Alone in Concert",
-      "venue": "Arlene Schnitzer Concert Hall"
-    },
-    {
       "dropped": "willamette_week:20169134@2026-12-19T19:30",
       "kept": "ticketmaster:Z7r9jZ1AAvbfa",
       "start_at": "2026-12-19T19:30:00-08:00",
@@ -1151,6 +1159,14 @@
       "title_dropped": "Little Shop of Horrors",
       "title_kept": "Little Shop of Horrors",
       "venue": "Portland Center Stage"
+    },
+    {
+      "dropped": "willamette_week:20496536@2026-12-20T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4vbOK",
+      "start_at": "2026-12-20T20:00:00-08:00",
+      "title_dropped": "The Sam Harris Band Performing Charlie Brown's Christmas, and more",
+      "title_kept": "The Sam Harris Band Performing Charlie Brown Christmas, and more",
+      "venue": "Jack London Revue"
     },
     {
       "dropped": "willamette_week:19957053@2026-12-20T20:00",
@@ -1945,6 +1961,14 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:20496535@2026-12-05T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4v_AK",
+      "start_at": "2026-12-05T21:00:00-08:00",
+      "title_dropped": "greaterkind & Arietta Ward play Earth, Wind & Fire",
+      "title_kept": "greaterkind & Arietta Ward play Earth, Wind & Fire",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:20374028@2026-12-05T22:00",
       "kept": "ticketmaster:Z7r9jZ1AA7pQK",
       "start_at": "2026-12-05T22:00:00-08:00",
@@ -2511,11 +2535,19 @@
       "title_dropped": "BURLY-Q REVUE",
       "title_kept": "BURLY-Q REVUE",
       "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:20496537@2026-12-21T19:00",
+      "kept": "ticketmaster:rZ7HnEZ1Afo4kf",
+      "start_at": "2026-12-21T19:00:00-08:00",
+      "title_dropped": "Winter Solstice Celebration",
+      "title_kept": "Winter Solstice Celebration: Butterchurch/Smörkyrka with Scandi Dance Lessons and A Winter Song Circle",
+      "venue": "Showdown Saloon"
     }
   ],
-  "event_count": 6302,
-  "floor_check": "6302 events against a 6301-event baseline",
-  "generated_at": "2026-11-21T23:10:41+00:00",
+  "event_count": 6320,
+  "floor_check": "6320 events against a 6301-event baseline",
+  "generated_at": "2026-11-21T23:26:10+00:00",
   "problems": [],
   "sources": [
     "calagator",
