@@ -4,50 +4,6 @@
       "categories": [
         "outdoors"
       ],
-      "id": "oregon_metro:stewardship-day-glendoveer-2026-11-20",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/stewardship-day-glendoveer-2026-11-20",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-20T10:30:00-08:00",
-      "title": "Stewardship day at Glendoveer",
-      "venue": {
-        "city": "Portland",
-        "latitude": 45.53345,
-        "longitude": -122.51152,
-        "name": "Glendoveer Nature Trail"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "oregon_metro:oregon-zoo-bond-oversight-subcommittee-meeting-2026-11-20",
-      "is_all_day": false,
-      "listing_url": "https://www.oregonmetro.gov/events/oregon-zoo-bond-oversight-subcommittee-meeting-2026-11-20",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "oregon_metro",
-        "name": "Oregon Metro",
-        "url": "https://www.oregonmetro.gov"
-      },
-      "start_at": "2026-11-20T11:00:00-08:00",
-      "title": "Oregon Zoo Bond Oversight Subcommittee meeting"
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
       "id": "oregon_metro:free-parking-day-metro-parks-2026-11-27",
       "is_all_day": false,
       "listing_url": "https://www.oregonmetro.gov/events/free-parking-day-metro-parks-2026-11-27",
@@ -245,6 +201,31 @@
       },
       "start_at": "2026-12-08T10:00:00-08:00",
       "title": "Metro Council work session",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:transit-oriented-development-steering-committee-meeting-2026-12-08",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/transit-oriented-development-steering-committee-meeting-2026-12-08",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2026-12-08T15:00:00-08:00",
+      "title": "Transit-Oriented Development Steering Committee meeting",
       "venue": {
         "city": "Portland",
         "latitude": 45.527,
@@ -730,6 +711,31 @@
       },
       "start_at": "2027-01-13T14:30:00-08:00",
       "title": "Oregon Zoo Bond Oversight Subcommittee meeting"
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "oregon_metro:supportive-housing-services-regional-policy-and-oversight-committee-meeting-2027-01-13",
+      "is_all_day": false,
+      "listing_url": "https://www.oregonmetro.gov/events/supportive-housing-services-regional-policy-and-oversight-committee-meeting-2027-01-13",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "oregon_metro",
+        "name": "Oregon Metro",
+        "url": "https://www.oregonmetro.gov"
+      },
+      "start_at": "2027-01-13T15:00:00-08:00",
+      "title": "Supportive Housing Services Regional Policy and Oversight Committee meeting",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.527,
+        "longitude": -122.66024,
+        "name": "Metro Regional Center"
+      }
     },
     {
       "categories": [
@@ -3242,7 +3248,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-20T21:19:53+00:00",
+  "generated_at": "2026-11-21T02:33:43+00:00",
   "source_id": "oregon_metro",
   "status": "ok"
 }
