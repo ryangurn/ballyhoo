@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-21T14:08:52+00:00",
+  "generated_at": "2026-11-21T15:39:47+00:00",
   "sources": [
     {
       "event_count": 26,
       "last_run_at": "2026-11-21T09:38:30+00:00",
       "source_id": "calagator",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/calagator.json"
     },
     {
@@ -38,9 +38,9 @@
     },
     {
       "event_count": 55,
-      "last_run_at": "2026-11-21T07:44:08+00:00",
+      "last_run_at": "2026-11-21T15:38:58+00:00",
       "source_id": "obt",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/obt.json"
     },
     {
@@ -68,7 +68,7 @@
       "event_count": 0,
       "last_run_at": "2026-11-21T08:45:30+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
