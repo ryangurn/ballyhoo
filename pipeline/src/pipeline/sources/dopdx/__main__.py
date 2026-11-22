@@ -23,10 +23,6 @@ from .normalize import normalize, unmapped_categories
 
 log = logsetup.get_logger("pipeline.sources.dopdx")
 
-# Cloudinary base, served in the API payload but stable enough to hard-code as a
-# fallback when a run cannot read it.
-DEFAULT_PHOTOS_BASE = "https://res.cloudinary.com/dostuff-media/image/upload"
-
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="pipeline.sources.dopdx")
@@ -43,7 +39,7 @@ def main(argv: list[str] | None = None) -> int:
         log.error("fetch failed: %s", exc)
         return 1
 
-    events, counters = normalize(raw, now=now, photos_base=DEFAULT_PHOTOS_BASE)
+    events, counters = normalize(raw, now=now)
     feed = build_per_source_feed(config.SOURCE.id, events, generated_at=now)
 
     try:

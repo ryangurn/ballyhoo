@@ -1,7 +1,8 @@
 name: source-dopdx
 
 # DoPDX serves one calendar day per request, so a run walks the 30-day window
-# day by day. That is ~60 polite requests against a small publisher.
+# day by day, then fetches each event's detail page — ~1,500 polite requests
+# against a small publisher, paced to land near fifteen minutes.
 
 on:
   schedule:
@@ -25,7 +26,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 

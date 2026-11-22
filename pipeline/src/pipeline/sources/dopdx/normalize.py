@@ -1,13 +1,13 @@
 """Normalize DoPDX events into the shared model.
 
-Notes from the live payload:
-  - `tz_adjusted_begin_date` already carries the correct Portland offset. The plain
+Notes from the live payload (listing + detail merged by fetch.py):
+  - `tz_adjusted_begin_time` already carries the correct Portland offset. The plain
     `begin_time` field does not — it appeared as `-05:00` on an event that runs at
     `-07:00` — so only the tz_adjusted fields are trusted.
-  - `is_free` is an explicit boolean, which no other source provides. `ticket_info`
-    is free text like "$73 to $669, All Ages".
-  - Venue coordinates are present on roughly 40% of events.
-  - `description` contains HTML; `excerpt` is the same text already flattened.
+  - `free_event` is an explicit boolean, which no other source provides.
+    `ticket_info` is free text like "$73 to $669, All Ages".
+  - `description` contains HTML (`<br />`, links) and is stripped to text.
+  - `image_url` is a pre-rendered asset URL, so no resize transform is needed.
 """
 
 from __future__ import annotations
@@ -50,6 +50,13 @@ CATEGORY_MAP: dict[str, Category] = {
     "sports": Category.SPORTS,
     "game night": Category.NIGHTLIFE,
     "cannabis": Category.NIGHTLIFE,
+    # New vocabulary the doxyz platform added after the SvelteKit migration.
+    "literature": Category.LITERARY,
+    "food & dining": Category.FOOD,
+    "happy hours": Category.FOOD,
+    "karaoke": Category.NIGHTLIFE,
+    "drag": Category.NIGHTLIFE,
+    "parties": Category.NIGHTLIFE,
     # "Eugene" appears in the category vocabulary because DoStuff runs sibling city
     # guides. It says nothing about the event's nature; the distance filter is what
     # keeps out-of-metro events out.
@@ -133,7 +140,7 @@ def unmapped_categories() -> list[str]:
 
 
 def _build_price(raw: dict[str, Any]) -> Price:
-    if raw.get("is_free") is True:
+    if raw.get("free_event") is True:
         return Price.free()
 
     # "$73 to $669, All Ages" -> 73.0, 669.0
@@ -158,25 +165,16 @@ def _build_venue(raw: dict[str, Any]) -> Venue | None:
     )
 
 
-def _build_image(raw: dict[str, Any], photos_base: str | None) -> str | None:
-    """Ask Cloudinary for a card-sized render rather than the original."""
-    photo = ((raw.get("imagery") or {}).get("photo") or "").strip()
-    if not photo or not photos_base:
-        return None
-    return f"{photos_base.rstrip('/')}/{config.CLOUDINARY_TRANSFORM}/{photo.lstrip('/')}"
-
-
 def normalize(
     raw_events: list[dict[str, Any]],
     *,
     now: datetime,
-    photos_base: str | None = None,
 ) -> tuple[list[Event], NormalizationCounters]:
     counters = NormalizationCounters()
     events: list[Event] = []
 
     for raw in raw_events:
-        if raw.get("past") is True:
+        if raw.get("is_past") is True:
             counters.past += 1
             continue
 
@@ -186,7 +184,7 @@ def normalize(
             continue
 
         # Only the tz_adjusted fields carry a trustworthy offset.
-        start_raw = raw.get("tz_adjusted_begin_date")
+        start_raw = raw.get("tz_adjusted_begin_time")
         if not start_raw:
             counters.no_start += 1
             continue
@@ -199,9 +197,9 @@ def normalize(
             continue
 
         end_at = None
-        if raw.get("tz_adjusted_end_date"):
+        if raw.get("tz_adjusted_end_time"):
             try:
-                end_at = parse_datetime(raw["tz_adjusted_end_date"])
+                end_at = parse_datetime(raw["tz_adjusted_end_time"])
             except (ValueError, TypeError):
                 log.warning("event %s has an unparseable end", raw.get("id"))
 
@@ -216,11 +214,11 @@ def normalize(
             title=title,
             start_at=start_at,
             end_at=end_at,
-            summary=_clean(raw.get("excerpt")) or _clean(raw.get("description")),
+            summary=_clean(raw.get("description")),
             venue=venue,
             categories=infer_categories(raw.get("category")),
             price=_build_price(raw),
-            image_url=_build_image(raw, photos_base),
+            image_url=raw.get("image_url") or None,
             listing_url=f"{config.BASE_URL}{permalink}" if permalink.startswith("/") else (permalink or None),
             organizer=_clean(raw.get("presented_by")),
             source=config.SOURCE,
