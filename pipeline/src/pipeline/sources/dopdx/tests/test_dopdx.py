@@ -1,8 +1,9 @@
 """Tests for the DoPDX source.
 
-The fixture mirrors a real API payload. The important cases are the timestamp field
-choice — only `tz_adjusted_*` carries a correct offset — and the image transform,
-which exists so this source cannot repeat the memory exhaustion Ticketmaster caused.
+The fixture mirrors the merged record fetch.py produces: listing fields overlaid
+with the detail page's fields. The important cases are the timestamp field
+choice — only `tz_adjusted_*` carries a correct offset — and the venue merge,
+which is the only place city and coordinates still exist.
 """
 
 from __future__ import annotations
@@ -14,11 +15,12 @@ import pytest
 from pipeline.common.io import build_per_source_feed
 from pipeline.common.models import Category, Price
 from pipeline.common.validate import validate_per_source
-from pipeline.sources.dopdx import config
+from pipeline.sources.dopdx import fetch
 from pipeline.sources.dopdx.normalize import infer_categories, normalize
 
 NOW = datetime(2026, 7, 20, 12, 0, tzinfo=UTC)
-PHOTOS_BASE = "https://res.cloudinary.com/dostuff-media/image/upload"
+
+IMAGE = "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/1/abc.jpg"
 
 
 def raw_event(**overrides):
@@ -27,25 +29,23 @@ def raw_event(**overrides):
         "permalink": "/events/2026/7/26/young-the-giant-tickets",
         "title": "Young the Giant",
         "description": "Young the Giant<br><br>An ode to radical empathy.",
-        "excerpt": "Young the Giant, an ode to radical empathy.",
         "category": "Music",
-        # Deliberately wrong offset: the real API carries -05:00 here on events
+        # Deliberately wrong offset: the real payload carries -05:00 here on events
         # that actually run at -07:00, so this field must never be used.
         "begin_time": "2026-07-26T16:30:00-05:00",
-        "tz_adjusted_begin_date": "2026-07-26T16:30:00-07:00",
-        "tz_adjusted_end_date": "2026-07-27T02:00:00-07:00",
-        "past": False,
-        "is_free": False,
+        "tz_adjusted_begin_time": "2026-07-26T16:30:00-07:00",
+        "tz_adjusted_end_time": "2026-07-27T02:00:00-07:00",
+        "is_past": False,
+        "free_event": False,
         "ticket_info": "$73 to $669, All Ages",
         "presented_by": "Elsinore presents",
-        "imagery": {"photo": "v1771514171/event-16978458.jpg"},
+        "image_url": IMAGE,
         "venue": {
-            "id": 23673,
             "title": "McMenamins Edgefield",
-            "latitude": 45.537115,
-            "longitude": -122.4065816,
             "address": "2126 S.W. Halsey St.",
             "city": "Troutdale",
+            "latitude": 45.537115,
+            "longitude": -122.4065816,
         },
     }
     base.update(overrides)
@@ -53,7 +53,7 @@ def raw_event(**overrides):
 
 
 def one(**overrides):
-    events, counters = normalize([raw_event(**overrides)], now=NOW, photos_base=PHOTOS_BASE)
+    events, counters = normalize([raw_event(**overrides)], now=NOW)
     return (events[0] if events else None), counters
 
 
@@ -72,7 +72,7 @@ class TestNormalize:
         assert event.end_at.isoformat() == "2026-07-27T02:00:00-07:00"
 
     def test_past_events_are_dropped(self):
-        event, counters = one(past=True)
+        event, counters = one(is_past=True)
         assert event is None
         assert counters.past == 1
 
@@ -83,7 +83,7 @@ class TestNormalize:
         assert event.venue.city == "Troutdale"
 
     def test_html_is_stripped_from_the_summary(self):
-        event, _ = one(excerpt=None)
+        event, _ = one()
         assert "<br>" not in event.summary
         assert "radical empathy" in event.summary
 
@@ -93,9 +93,9 @@ class TestNormalize:
 
 
 class TestPricing:
-    def test_is_free_flag_is_honoured(self):
+    def test_free_event_flag_is_honoured(self):
         # No other source states this explicitly.
-        event, _ = one(is_free=True)
+        event, _ = one(free_event=True)
         assert event.price == Price.free()
 
     def test_a_price_range_is_parsed_from_ticket_info(self):
@@ -113,15 +113,13 @@ class TestPricing:
 
 
 class TestImages:
-    def test_requests_a_card_sized_render(self):
-        # Ticketmaster's full-resolution artwork decoded to ~13 MB each and
-        # exhausted the app's memory; Cloudinary lets us ask for the size we draw.
+    def test_the_pre_rendered_asset_url_is_used(self):
+        # doxyz serves already-rendered image assets; no resize transform applies.
         event, _ = one()
-        assert config.CLOUDINARY_TRANSFORM in event.image_url
-        assert event.image_url.endswith("v1771514171/event-16978458.jpg")
+        assert event.image_url == IMAGE
 
     def test_no_image_is_not_an_error(self):
-        event, _ = one(imagery={})
+        event, _ = one(image_url=None)
         assert event.image_url is None
 
 
@@ -194,6 +192,64 @@ class TestCategories:
         assert infer_categories(None) == (Category.COMMUNITY,)
 
 
+class TestDevalue:
+    """The devalue wire format: every dict/list value is an index into the flat
+    array. These tests pin the decoder so a payload change fails loudly."""
+
+    def payload(self, data: list) -> dict:
+        return {"type": "data", "nodes": [
+            {"type": "data", "data": [{"layout": 1}, {"name": 2}, "dopdx.com"], "uses": {}},
+            {"type": "data", "data": data, "uses": {"url": 1}},
+        ]}
+
+    def test_unflatten_reconstructs_nested_objects(self):
+        flat = [{"browse": 1}, {"data": 2, "_meta": 5}, [3], {"date": 4, "events": 6},
+                "2026-11-22", {"total_pages": 7}, [8, 11],
+                3, {"id": 9, "title": 10}, 42, "Gig",
+                {"id": 9, "title": 12}, "Other"]
+        node = fetch._node_data(self.payload(flat), "browse")
+        assert node["browse"]["_meta"]["total_pages"] == 3
+        assert node["browse"]["data"][0]["events"] == [
+            {"id": 42, "title": "Gig"}, {"id": 42, "title": "Other"},
+        ]
+
+    def test_negative_indices_decode_as_none(self):
+        # devalue sentinels (e.g. `void 0`) arrive as negative indices.
+        flat = [{"browse": 1}, {"total_dates": -1, "note": 2}, "x"]
+        node = fetch._node_data(self.payload(flat), "browse")
+        assert node["browse"]["total_dates"] is None
+        assert node["browse"]["note"] == "x"
+
+    def test_a_node_without_the_key_is_skipped(self):
+        flat = [{"event": 1}, {"title": 2}, "Gig"]
+        assert fetch._node_data(self.payload(flat), "browse") is None
+        assert fetch._node_data(self.payload(flat), "event")["event"]["title"] == "Gig"
+
+
+class TestVenueMerge:
+    def test_detail_geo_wins_over_listing(self):
+        detail = {
+            "venue": {"title": "Aladdin Theater", "address": "3017 SE Milwaukie Ave."},
+            "seo_source": {"venue": {"name": "Aladdin Theater", "city": "Portland",
+                                     "latitude": 45.5, "longitude": -122.65}},
+        }
+        merged = fetch._merge_venue(detail, {"title": "Aladdin Theater", "area_name": "Inner Southeast"})
+        assert merged == {"title": "Aladdin Theater", "address": "3017 SE Milwaukie Ave.",
+                          "city": "Portland", "latitude": 45.5, "longitude": -122.65}
+
+    def test_detail_address_beats_seo(self):
+        detail = {
+            "venue": {"title": "V", "address": "detail addr"},
+            "seo_source": {"venue": {"address": "seo addr"}},
+        }
+        assert fetch._merge_venue(detail, None)["address"] == "detail addr"
+
+    def test_no_seo_venue_leaves_geo_empty(self):
+        merged = fetch._merge_venue({"venue": {"title": "Mystery Hall"}}, None)
+        assert merged["title"] == "Mystery Hall"
+        assert merged["latitude"] is None
+
+
 def test_output_validates():
-    events, _ = normalize([raw_event()], now=NOW, photos_base=PHOTOS_BASE)
+    events, _ = normalize([raw_event()], now=NOW)
     validate_per_source(build_per_source_feed("dopdx", events, generated_at=NOW))
