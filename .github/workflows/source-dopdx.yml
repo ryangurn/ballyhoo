@@ -1,7 +1,9 @@
 name: source-dopdx
 
-# DoPDX serves one calendar day per request, so a run walks the 30-day window
-# day by day. That is ~60 polite requests against a small publisher.
+# DoPDX serves one calendar day per listing, so a run walks the 30-day window day
+# by day (~100 requests), then fetches up to 500 event pages for the details the
+# listing lacks. Those details are cached between runs below, so a warm run only
+# fetches new events and refreshes ones older than two days.
 
 on:
   schedule:
@@ -39,6 +41,14 @@ jobs:
           ref: archive
           path: .archive
 
+      # A fresh key every run so the updated cache is always saved; restore-keys
+      # picks up the most recent one.
+      - uses: actions/cache@v4
+        with:
+          path: .cache/dopdx-details.json
+          key: dopdx-details-${{ github.run_id }}
+          restore-keys: dopdx-details-
+
       - uses: astral-sh/setup-uv@v5
         with:
           enable-cache: true
@@ -56,6 +66,7 @@ jobs:
             --pages-dir "$GITHUB_WORKSPACE/.gh-pages" \
             --archive-dir "$GITHUB_WORKSPACE/.archive" \
             --output "$GITHUB_WORKSPACE/dist/dopdx.json" \
+            --detail-cache "$GITHUB_WORKSPACE/.cache/dopdx-details.json" \
             ${{ inputs.dry_run && '--dry-run' || '' }} \
             2>&1 | tee "$GITHUB_WORKSPACE/run.log"
 

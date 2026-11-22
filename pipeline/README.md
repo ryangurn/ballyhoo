@@ -220,19 +220,28 @@ Their terms require "Powered by Ticketmaster" attribution, satisfied by the mand
 
 ### DoPDX
 
-Portland edition of the DoStuff Media city guides. A real versioned JSON API with no
-authentication: `/events/YYYY/M/D.json?page=N`, one calendar day per request.
+Portland edition of the DoStuff Media city guides. In November 2026 the site became a
+SvelteKit app and its old `/events/YYYY/M/D.json` API disappeared. We now read the
+`__data.json` twin of each page, decoded from SvelteKit's `devalue` format in
+`sources/dopdx/sveltekit.py`:
 
-Best metadata of any source — venue coordinates and full addresses, an explicit
-`is_free` flag, and Cloudinary images we can request pre-sized.
+- `/events/YYYY/M/D/__data.json?page_size=50&page=N` — one day's listing: title,
+  times, category, a 1200x450 cover image and the venue name.
+- `<permalink>/__data.json` — one event's page: description, price text, an explicit
+  `free_event` flag, organizer, and the venue's address, city and coordinates.
+
+There are ~1,500 event pages in the window, so their details are cached between runs
+(an Actions cache) and each run fetches at most 500: new events first, then those
+last fetched more than two days ago. Events whose page has not been fetched yet still
+ship from listing data alone.
 
 Two things to know. It covers the wider Pacific Northwest, so events are filtered to
 within 40 miles of Portland; a single sampled day carried Seattle, Bend, and the
-Gorge. And their WAF rejects any User-Agent containing a URL scheme, which is why
+Gorge. Without page details, only the listing's "Eugene" area is dropped. And their WAF rejects any User-Agent containing a URL scheme, which is why
 `pipeline/common/http.py` identifies us with a bare domain.
 
-Only `/events` is used. Their robots.txt disallows `/features`, `/search`, `/latest`,
-`/locales`, `/assets/` and `view=map`.
+Only `/events` is used. Their robots.txt disallows `/locales`, `/features` and
+`view=map`.
 
 ### Portland Parks — Summer Free For All
 

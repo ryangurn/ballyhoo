@@ -2,8 +2,8 @@
 
     uv run python -m pipeline.sources.dopdx --output /tmp/dopdx.json
 
-Walks the fetch window a day at a time, since the API serves one calendar day per
-request.
+Walks the fetch window a day at a time, then fills in event-page details, cached
+between runs in --detail-cache.
 """
 
 from __future__ import annotations
@@ -23,14 +23,14 @@ from .normalize import normalize, unmapped_categories
 
 log = logsetup.get_logger("pipeline.sources.dopdx")
 
-# Cloudinary base, served in the API payload but stable enough to hard-code as a
-# fallback when a run cannot read it.
-DEFAULT_PHOTOS_BASE = "https://res.cloudinary.com/dostuff-media/image/upload"
-
-
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="pipeline.sources.dopdx")
     parser.add_argument("--output", type=Path, help="Write the per-source feed here. Defaults to stdout.")
+    parser.add_argument(
+        "--detail-cache",
+        type=Path,
+        help="JSON file of event-page details kept between runs. Without it every run starts cold.",
+    )
     add_publish_arguments(parser)
     args = parser.parse_args(argv)
 
@@ -38,12 +38,12 @@ def main(argv: list[str] | None = None) -> int:
     now = datetime.now(UTC)
 
     try:
-        raw, stats = fetch_raw(now=now)
+        raw, stats = fetch_raw(now=now, cache_path=args.detail_cache)
     except DoPDXFetchError as exc:
         log.error("fetch failed: %s", exc)
         return 1
 
-    events, counters = normalize(raw, now=now, photos_base=DEFAULT_PHOTOS_BASE)
+    events, counters = normalize(raw, now=now)
     feed = build_per_source_feed(config.SOURCE.id, events, generated_at=now)
 
     try:
