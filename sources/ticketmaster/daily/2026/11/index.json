@@ -705,6 +705,17 @@
       "recent": "sources/ticketmaster/recent/2026-11-21/230931Z.json.gz",
       "sha256": "e9978f957b147a9fcf3924a8ab18a690ea4502b8514f8852b583019292cd343d",
       "unchanged": false
+    },
+    {
+      "bytes": 1017992,
+      "captured_at": "2026-11-22T03:05:25+00:00",
+      "content_sha256": "9f078854be2dd6baf2338ca5f60bc0c806bb973c6ad25de2346e8c10ff4c4541",
+      "daily": "sources/ticketmaster/daily/2026/11/22.json.gz",
+      "event_count": 871,
+      "gzip_bytes": 117342,
+      "recent": "sources/ticketmaster/recent/2026-11-22/030525Z.json.gz",
+      "sha256": "9db684923b92257264c657ac2afb38640893c6685207bf318bafe35789590b93",
+      "unchanged": true
     }
   ]
 }
