@@ -2,304 +2,6 @@
   "events": [
     {
       "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A7Jkuo",
-      "image_url": "https://s1.ticketm.net/dam/c/f7b/ef64d601-8740-43cd-86ea-ed9b392e4f7b_105961_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jkuo",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-21T19:30:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jkuo",
-      "title": "Oregon Symphony presents Mahler???s Symphony No. 6",
-      "venue": {
-        "address": "1037 SW Broadway Dr",
-        "city": "Portland",
-        "latitude": 45.5201,
-        "longitude": -122.6884,
-        "name": "Arlene Schnitzer Concert Hall"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "ticketmaster:Z7r9jZ1AAvbf8",
-      "image_url": "https://s1.ticketm.net/dam/a/2c8/212bcfc5-dba6-4537-b62e-d63d6ceac2c8_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvbf8",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-21T19:30:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvbf8",
-      "title": "Little Shop of Horrors",
-      "venue": {
-        "address": "128 NW 11th Ave",
-        "city": "Portland",
-        "latitude": 45.5303,
-        "longitude": -122.684799,
-        "name": "Portland Center Stage"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A7-z-4",
-      "image_url": "https://s1.ticketm.net/dam/a/ee9/68bffb18-e2ba-49c2-bb45-954639b05ee9_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-z-4",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-21T19:30:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-z-4",
-      "title": "The Outsiders (Touring)",
-      "venue": {
-        "address": "222 SW Clay St",
-        "city": "Portland",
-        "latitude": 45.497799,
-        "longitude": -122.693703,
-        "name": "Keller Auditorium"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfG980",
-      "image_url": "https://s1.ticketm.net/dam/c/48b/2352e3b5-8496-496b-97a3-e605177e848b_105851_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/fox-walker-earl-gracious-band-jack-london-revue-tickets/14317424",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 26.24,
-        "min": 26.24
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-21T20:00:00-08:00",
-      "summary": "Fox Walker, Earl Gracious Ban, Liquid SunSoul'd Out Presents: Fox Walker, Earl Gracious Band, Liquid Sun Doors: 7:00pm Show: 8:00pm Ages 21+. https://www.instagram.com/foxwalkermusic https://www.instagram.com/earlgraciousband/ https://www.instagram.com/liquidsun.pdx/ Notes on Seating: Open seating, may be limited or standing room only. First come, first seated. Open dance floor may obscure sightlines.",
-      "ticket_url": "https://www.ticketweb.com/event/fox-walker-earl-gracious-band-jack-london-revue-tickets/14317424",
-      "title": "FOX WALKER, EARL GRACIOUS BAND, LIQUID SUN",
-      "venue": {
-        "address": "529 SW 4th Ave.",
-        "city": "Portland",
-        "latitude": 45.519452,
-        "longitude": -122.676291,
-        "name": "Jack London Revue"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1A4ZJOS",
-      "image_url": "https://s1.ticketm.net/dam/c/677/c58dd0af-cda8-49b2-bdaf-068540c3a677_106541_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/todd-day-wait-with-mac-showdown-saloon-tickets/15026833",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 25.16,
-        "min": 25.16
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-21T20:00:00-08:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/todd-day-wait-with-mac-showdown-saloon-tickets/15026833",
-      "title": "Todd Day Wait with Mac Cornish",
-      "venue": {
-        "address": "1195 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.50122605,
-        "longitude": -122.65284748,
-        "name": "Showdown Saloon"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:Z7r9jZ1A7-VGd",
-      "image_url": "https://s1.ticketm.net/dam/a/bfc/61fd0437-0953-4bfd-ba08-abc1aede0bfc_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-VGd",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-21T20:00:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-VGd",
-      "title": "Phoebe Robinson",
-      "venue": {
-        "address": "1300 SE Stark Street #110",
-        "city": "Portland",
-        "latitude": 45.513901,
-        "longitude": -122.642799,
-        "name": "Revolution Hall - Portland"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfuJOV",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/sick-a-year-in-our-dantes-tickets/14366834",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 160.14,
-        "min": 21.09
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-21T20:30:00-08:00",
-      "summary": "SICK: A Year in Our Bodies Our bodies may be sick. Our lives are not over. Our stories deserve to be seen. SICK: A Year in Our Bodies is a fundraising showcase centering Portland-area sex workers living with chronic illness and disability---and the ways we have learned to survive in a world that wasn't built in our favor. For many disabled and chronically ill people, traditional employment demands something our bodies cannot always promise: the same energy every day, rigid schedules, eight-hour shifts, limited rest, and the ability to simply push through. Sex work can offer something different---the ability to build work around our bodies instead of constantly punishing our bodies to fit the expectations of work. We are dancers. Performers. Artists. Providers. Mothers. Hustlers. Creators. Disabled people. Chronically ill people. Survivors. This night brings our community together for performances, vendors, entertainment, and unapologetic visibility while raising funds for Rose and Pistolita to create SICK: A Year in Our Bodies---a calendar featuring 12 iconic Portland-area sex workers living with chronic conditions. Each month will put a real body and a real story behind invisible illness. Not as tragedy. Not as inspiration porn. Not as bodies to pity. As bodies that adapted. Bodies that worked. Bodies that survived. Bodies that are still fucking here. This project is about what survival actually looks like when your body refuses to cooperate with the rules of an able-bodied world. It is about the ingenuity of people who found another way when conventional systems failed them. And it is about refusing the shame that so often surrounds both disability and sex work. We are taking the bodies society tells us to hide---and putting them on the fucking calendar. Twelve workers. Twelve bodies. Twelve stories of adaptation, resistance, sexuality, illness, labor and survival. Come celebrate the people who learned how to make a living on their own terms. Come support chronically ill and disabled sex workers telling their own stories. Sick people are strong people. Disabled bodies are worthy bodies. Sex workers are workers. And survival deserves to be seen. SICK: A Year in Our Bodies November 21 • 8 PM • Dante's • 21+",
-      "ticket_url": "https://www.ticketweb.com/event/sick-a-year-in-our-dantes-tickets/14366834",
-      "title": "SICK: A Year In Our Bodies - Fundraiser Showcase",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1A4vboK",
-      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/twirl-autumn-disco-star-theater-tickets/15058453",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 25.21,
-        "min": 25.21
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-21T21:00:00-08:00",
-      "summary": "TWIRL @ STAR THEATERJoin us this Saturday, 11/21 for Twirl: A PDX Queer Disco! The leaves may be changing and the air growing colder but nothing is shifting with us, in fact things are only getting hotter this month for our Autumn Disco! This one will be a touch bittersweet as our guest dj Meowhouse (Jacques Strappe) plays his final gig before moving to the sunnier pastures of Miami. We're gonna make sure to shower him with love and truly give him something to remember Portland by. With top-tier performances and this all landing at the entrance of Sagittarius season we'll have more than one reason to party down across the night! Sounds: Disco / House / Funk / Boogie Guest dj ~ Meowhouse Resident dj ~ LéMix With two special guest performances from a couple of Portland's most beloved entertainers; Jay Colby & Cody James! (don't forget cash for our performers!) Looks always encouraged! All the autumn flavors and colors are on the table. Whatever feels festive and fall to you:) This month we're raising funds for a fellow performer/producer and dj, One-Half Nelson. Seeking funds for permanent housing, we'll have our donation jar at the door and any amount will help! Let's get this talented queer creative safely housed so she can get back to doing what she does best. Sat. 11/21 ~ 9pm ~ $18* ~ 21+ Tickets available at the door via Venmo, Cash app, or cash money:) *no one turned away for lack of funds* This is a LGBTQIA+ event where these identities are centered and celebrated! Queer joy ftw! Consent is essential. Be friendly, be kind, leave the patriarchy behind! Bring a friend or just yourself, just don't forget the groove in your heart! Now let's Twirl girl! More info on IG @twirl.pdx",
-      "ticket_url": "https://www.ticketweb.com/event/twirl-autumn-disco-star-theater-tickets/15058453",
-      "title": "TWIRL - AUTUMN DISCO",
-      "venue": {
-        "address": "13 NW Sixth Avenue",
-        "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.676857,
-        "name": "Star Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1AfZ-r7",
-      "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021784",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 23.15,
-        "min": 23.15
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-21T22:30:00-08:00",
-      "summary": "Join us at the Jack London for the latest edition of our late-night cabaret spectacular, hosted by the Mad Marquis and featuring some of the finest dancers from the Rose City and beyond. Treat yourself to a sensational evening of sultry and exotic delights, liberally spiced with old-fashioned spontaneous fun! The show starts after the evenings musical performance.",
-      "ticket_url": "https://www.ticketweb.com/event/burly-q-revue-jack-london-revue-tickets/14021784",
-      "title": "BURLY-Q REVUE",
-      "venue": {
-        "address": "529 SW 4th Ave.",
-        "city": "Portland",
-        "latitude": 45.519452,
-        "longitude": -122.676291,
-        "name": "Jack London Revue"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1Afv3OV",
-      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14052834",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 1.05,
-        "min": 1.05
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-21T23:30:00-08:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14052834",
-      "title": "SMASH disco~glam~metal~punk-hiphop",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "id": "ticketmaster:Z7r9jZ1A7-z-9",
@@ -7597,6 +7299,37 @@
         "latitude": 45.519452,
         "longitude": -122.676291,
         "name": "Jack London Revue"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1Afv307",
+      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14052904",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.05,
+        "min": 1.05
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-19T23:30:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14052904",
+      "title": "SMASH disco~glam~metal~punk-hiphop",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
       }
     },
     {
@@ -25199,7 +24932,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-22T03:05:25+00:00",
+  "generated_at": "2026-11-22T11:13:12+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
