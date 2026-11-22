@@ -74282,10 +74282,6 @@
       "start_at": "2026-12-05T22:00:00-08:00",
       "title": "DomProv",
       "venue": {
-        "address": "2432 SE 11th Ave, Portland, Oregon 97214",
-        "city": "Portland",
-        "latitude": 45.505242,
-        "longitude": -122.654358,
         "name": "Funhouse Lounge"
       }
     },
@@ -74300,9 +74296,7 @@
       "listing_url": "https://dopdx.com/events/2026/12/5/sleaze-pleaze-saturdayz-music-video-dance-party-tickets",
       "price": {
         "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
+        "is_free": false
       },
       "source": {
         "id": "dopdx",
@@ -74310,13 +74304,8 @@
         "url": "https://dopdx.com"
       },
       "start_at": "2026-12-05T22:00:00-08:00",
-      "summary": "10PM-230AM NEW AND CLASSIC INDIE VIDEO DANCE PARTY EVERY SATURDAY NO COVER",
       "title": "Sleaze Pleaze Saturdayz Music Video Dance Party",
       "venue": {
-        "address": "727 SE Grand Ave",
-        "city": "Portland",
-        "latitude": 45.517495,
-        "longitude": -122.660993,
         "name": "Swan Dive"
       }
     },
@@ -173201,5 +173190,5 @@
       }
     }
   ],
-  "generated_at": "2026-11-22T22:49:53+00:00"
+  "generated_at": "2026-11-22T22:54:54+00:00"
 }
