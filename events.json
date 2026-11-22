@@ -5472,6 +5472,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-22T21:00:00-08:00",
+      "id": "willamette_week:20438114@2026-11-22T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/J2q3YbLOUU6VDRvk-iAbnQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portlandartmuseum.org/event/black-artists-of-oregon-jubilee-catalogue-launch/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-22T18:00:00-08:00",
+      "summary": "Celebrate the legacy, present, and future of Black artists in Oregon at the official catalogue launch and publication celebration for Black Artists of Oregon: Continuum. Event Schedule: 6 – 7 p.m. | Refreshments, Book Signing & Live PerformanceKick off the evening with refreshments catered by Kitchenkilla, a book signing with featured artists, and a special live performance by REJOICE 7 – 8 p.m. | Artist Panel ConversationA featured conversation moderated by curator and artist Jaleesa Johnston, featuring exhibition curator Intisar Abioto and Dr. Kiara Hill of Black Arts PDX. 8 – 9 p.m. | Gallery Viewing & MinglingExplore the open galleries to view the current exhibitions, purchase a publication while connecting with community and enjoying DJ performances. Copies of the newly released catalogue will be available for purchase on site.",
+      "title": "Black Artists of Oregon Jubilee & Catalogue Launch",
+      "venue": {
+        "address": "1219 SW Park Ave",
+        "city": "Portland",
+        "latitude": 45.516149999999996,
+        "longitude": -122.683357,
+        "name": "Portland Art Museum"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-11-22T21:00:00-08:00",
@@ -5499,35 +5528,6 @@
         "latitude": 45.513386,
         "longitude": -122.654108,
         "name": "Hoku on Madison"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "end_at": "2026-11-22T21:00:00-08:00",
-      "id": "willamette_week:20438114@2026-11-22T18:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/J2q3YbLOUU6VDRvk-iAbnQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://portlandartmuseum.org/event/black-artists-of-oregon-jubilee-catalogue-launch/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-22T18:00:00-08:00",
-      "summary": "Celebrate the legacy, present, and future of Black artists in Oregon at the official catalogue launch and publication celebration for Black Artists of Oregon: Continuum. Event Schedule: 6 – 7 p.m. | Refreshments, Book Signing & Live PerformanceKick off the evening with refreshments catered by Kitchenkilla, a book signing with featured artists, and a special live performance by REJOICE 7 – 8 p.m. | Artist Panel ConversationA featured conversation moderated by curator and artist Jaleesa Johnston, featuring exhibition curator Intisar Abioto and Dr. Kiara Hill of Black Arts PDX. 8 – 9 p.m. | Gallery Viewing & MinglingExplore the open galleries to view the current exhibitions, purchase a publication while connecting with community and enjoying DJ performances. Copies of the newly released catalogue will be available for purchase on site.",
-      "title": "Black Artists of Oregon Jubilee & Catalogue Launch",
-      "venue": {
-        "address": "1219 SW Park Ave",
-        "city": "Portland",
-        "latitude": 45.516149999999996,
-        "longitude": -122.683357,
-        "name": "Portland Art Museum"
       }
     },
     {
@@ -8068,6 +8068,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-11-23T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1609&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-23T11:00:00-08:00",
+      "summary": "Monday, November 23, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-11-23T22:00:00-08:00",
@@ -8246,6 +8274,35 @@
         "latitude": 45.559268,
         "longitude": -122.646073,
         "name": "Alberta Street Gallery"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-11-23T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1889&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-23T12:00:00-08:00",
+      "summary": "Monday, November 23, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -11403,6 +11460,62 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20504312@2026-11-24T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/607f2af6-c086-49dc-82f3-0baba78bda84.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/music-and-movement-2/2026-11-24",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-24T10:30:00-08:00",
+      "summary": "Sing! Dance! Play! Learn! Tuesdays, 10:30–11:30 AM. For children ages 0–5 with their caregivers.",
+      "title": "Music and Movement",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-11-24T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1610&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-24T11:00:00-08:00",
+      "summary": "Tuesday, November 24, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "sports"
       ],
       "end_at": "2026-11-24T22:00:00-08:00",
@@ -11675,6 +11788,35 @@
         "latitude": 45.3055847,
         "longitude": -122.9558587,
         "name": "Chehalem Valley Brewery"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-11-24T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1890&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-24T12:00:00-08:00",
+      "summary": "Tuesday, November 24, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -12400,6 +12542,34 @@
         "latitude": 45.30012,
         "longitude": -122.97316,
         "name": "Wheeler Sports Center"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "willamette_week:20504313@2026-11-24T15:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7db019ee-e0af-4900-ab07-63bbda315a89.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/teen-tween-drop-in/2026-11-24",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-24T15:30:00-08:00",
+      "summary": "Drop in, have a snack, and see what we are up to each week! Tuesdays, 3:30–4:30 PM. For grades 4–12.",
+      "title": "Teen & Tween Drop-In",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
       }
     },
     {
@@ -13158,6 +13328,34 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20504314@2026-11-24T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bd3a038a-7c16-4116-8ffd-2a210530e12a.large.PNG",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/fiber-friends-7/2026-11-24",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-24T18:00:00-08:00",
+      "summary": "Fiber Friends is a crafting group open to all! It meets every Tuesday at the Library, from 6 to 8 PM. Bring your current project to work on while you chat with other crafters!",
+      "title": "Fiber Friends",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
       }
     },
     {
@@ -15069,6 +15267,33 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20504740@2026-11-24T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2f3f8efe-7889-4f7f-9e86-0152408d00be.large.png",
+      "is_all_day": false,
+      "listing_url": "https://chamber.tualatinchamber.com/events/details/lunch-volunteer-day-in-honor-of-susan-noack-14172",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-24T19:30:00-08:00",
+      "summary": "Come have lunch with a senior at Juanita Pohl Center in honor of Susan Noack and share a Thanksgiving meal with a senior. Please RSVP here.",
+      "title": "Lunch Volunteer Day in Honor of Susan Noack",
+      "venue": {
+        "city": "Tualatin",
+        "latitude": 45.38401,
+        "longitude": -122.76399,
+        "name": "Juanita Pohl Center"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-11-24T21:30:00-08:00",
@@ -15744,6 +15969,33 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20503330@2026-11-25T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c4bab261-adda-4912-8c35-3875be2b07e5.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2293&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-25T10:00:00-08:00",
+      "summary": "Wednesday, November 25, 2026",
+      "title": "Digital Photography Club",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-11-25T13:00:00-08:00",
@@ -16132,6 +16384,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-11-25T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1611&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-25T11:00:00-08:00",
+      "summary": "Wednesday, November 25, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-11-25T22:00:00-08:00",
@@ -16398,6 +16678,35 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-11-25T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1891&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-25T12:00:00-08:00",
+      "summary": "Wednesday, November 25, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-11-25T13:30:00-08:00",
@@ -16586,6 +16895,33 @@
       "venue": {
         "address": "7818 SE Stark St, Portland, OR 97215",
         "name": "Academy Theater"
+      }
+    },
+    {
+      "categories": [
+        "literary"
+      ],
+      "id": "willamette_week:20503323@2026-11-25T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ddc94cda-52a6-4231-9e23-26d697a46974.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=3276&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-25T13:00:00-08:00",
+      "summary": "Wednesday, November 25, 2026",
+      "title": "Book Club @ the Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -20193,6 +20529,33 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20503327@2026-11-26T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e98b4359-6c38-4b5f-b43d-784f0d048f7f.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2465&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-26T10:00:00-08:00",
+      "summary": "Thursday, November 26, 2026",
+      "title": "I-5 Connection Chorus Group",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-11-26T17:00:00-08:00",
@@ -20930,6 +21293,33 @@
         "latitude": 45.5644833,
         "longitude": -122.6302851,
         "name": "Kennedy School"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503326@2026-11-26T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5fd5f171-0df8-46a2-8c02-200168db467d.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2604&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-26T13:00:00-08:00",
+      "summary": "Thursday, November 26, 2026",
+      "title": "Ladies Afternoon Out",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -23115,6 +23505,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503335@2026-11-27T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ce2c15b5-c7fa-452a-8249-b24a1348f7cd.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2674&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-27T10:30:00-08:00",
+      "summary": "Friday, November 27, 2026",
+      "title": "Conversational Spanish Group",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-11-27T11:00:00-08:00",
@@ -23739,6 +24156,33 @@
       "venue": {
         "address": "7818 SE Stark St, Portland, OR 97215",
         "name": "Academy Theater"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504357@2026-11-27T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/91e6d28b-0788-4696-ae3a-56c8be94b6a3.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2825&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-27T13:00:00-08:00",
+      "summary": "Friday, November 27, 2026",
+      "title": "Mexican Train Dominoes",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -34227,6 +34671,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-11-28T23:00:00-08:00",
+      "id": "willamette_week:20496372@2026-11-28T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T90_wbidqE6cz4hThyZMuQ.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-28T20:00:00-08:00",
+      "summary": "Creature Party, One Drink & Other Lies, Muscle Cats",
+      "title": "Creature Party, One Drink & Other Lies, Muscle Cats",
+      "venue": {
+        "address": "2025 N Kilpatrick St",
+        "city": "Portland",
+        "latitude": 45.582611084,
+        "longitude": -122.6875534058,
+        "name": "Kenton Club"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-11-29T01:00:00-08:00",
@@ -34254,36 +34728,6 @@
         "latitude": 45.519786,
         "longitude": -123.1123,
         "name": "Red Rooster Saloon"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-28T23:00:00-08:00",
-      "id": "willamette_week:20496372@2026-11-28T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/T90_wbidqE6cz4hThyZMuQ.large.jpg",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 10.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-28T20:00:00-08:00",
-      "summary": "Creature Party, One Drink & Other Lies, Muscle Cats",
-      "title": "Creature Party, One Drink & Other Lies, Muscle Cats",
-      "venue": {
-        "address": "2025 N Kilpatrick St",
-        "city": "Portland",
-        "latitude": 45.582611084,
-        "longitude": -122.6875534058,
-        "name": "Kenton Club"
       }
     },
     {
@@ -37722,10 +38166,6 @@
       "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33666125/55f8284b-4a13-4f70-b3e6-0e05dddd9a9a.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/11/29/the-amazing-bubble-man-tickets",
-      "merged_sources": [
-        "dopdx",
-        "willamette_week"
-      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -37999,6 +38439,35 @@
       "venue": {
         "city": "Vancouver",
         "name": "Discovery Ballroom, Hilton Vancouver Washington, 301 W 6th St, Vancouver, WA 98660"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "id": "willamette_week:19786970@2026-11-29T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/370ee21f-34f3-4a47-a6bc-58487ecb27e0.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1626299232174813/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-29T14:00:00-08:00",
+      "summary": "Louis Pearl has been thrilling audiences around the world for over 30 years with the art, magic, science and fun of bubbles. He is a favorite at the Edinburgh Fringe Festival, where he has enjoyed 14 years of sell-out success. Louis explores the breath-taking dynamics of bubbles, combining comedy and artistry with audience participation and enough spellbinding bubble tricks to keep everyone mesmerized. From square bubbles, bubbles inside bubbles, fog-filled bubbles, giant bubbles, bubble volcanoes, tornados and trampolines to people inside bubbles, the Amazing Bubble Man conjures shrieks of laughter and gasps of amazement from all ages. Most shows will also feature multi-instrumentalist Jet Black Pearl accompanying Louis with bubbly music to double your pleasure.",
+      "ticket_url": "https://thereser.org/events/the-amazing-bubble-man/",
+      "title": "The Amazing Bubble Man",
+      "venue": {
+        "address": "12695 SW Crescent ST Suite 140",
+        "city": "Beaverton",
+        "latitude": 45.491095,
+        "longitude": -122.807892,
+        "name": "Fabos Tacos"
       }
     },
     {
@@ -41453,6 +41922,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-11-30T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1613&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-30T11:00:00-08:00",
+      "summary": "Monday, November 30, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "market"
       ],
       "end_at": "2026-11-30T17:00:00-08:00",
@@ -41569,6 +42066,35 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-11-30T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1893&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-30T12:00:00-08:00",
+      "summary": "Monday, November 30, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -44044,6 +44570,34 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:20504312@2026-12-01T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/607f2af6-c086-49dc-82f3-0baba78bda84.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/music-and-movement-2/2026-12-01",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-01T10:30:00-08:00",
+      "summary": "Sing! Dance! Play! Learn! Tuesdays, 10:30–11:30 AM. For children ages 0–5 with their caregivers.",
+      "title": "Music and Movement",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-12-01T11:40:00-08:00",
       "id": "willamette_week:19483984@2026-12-01T10:50",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cecfa573-9fd1-430d-9517-87c0437b4fc5.large.png",
@@ -44067,6 +44621,34 @@
         "latitude": 45.3047,
         "longitude": -122.968355,
         "name": "Bauman Auditorium"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-12-01T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1614&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-01T11:00:00-08:00",
+      "summary": "Tuesday, December 1, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -44371,6 +44953,35 @@
         "latitude": 45.518595,
         "longitude": -122.679271,
         "name": "Pioneer Courthouse Square"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-01T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1894&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-01T12:00:00-08:00",
+      "summary": "Tuesday, December 1, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -44945,6 +45556,34 @@
         "latitude": 45.5624530442023,
         "longitude": -122.67152133558135,
         "name": "North Portland Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "willamette_week:20504313@2026-12-01T15:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7db019ee-e0af-4900-ab07-63bbda315a89.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/teen-tween-drop-in/2026-12-01",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-01T15:30:00-08:00",
+      "summary": "Drop in, have a snack, and see what we are up to each week! Tuesdays, 3:30–4:30 PM. For grades 4–12.",
+      "title": "Teen & Tween Drop-In",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
       }
     },
     {
@@ -45951,6 +46590,34 @@
         "latitude": 45.516667,
         "longitude": -122.660499,
         "name": "Twilight Cafe And Bar"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20504314@2026-12-01T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bd3a038a-7c16-4116-8ffd-2a210530e12a.large.PNG",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/fiber-friends-7/2026-12-01",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-01T18:00:00-08:00",
+      "summary": "Fiber Friends is a crafting group open to all! It meets every Tuesday at the Library, from 6 to 8 PM. Bring your current project to work on while you chat with other crafters!",
+      "title": "Fiber Friends",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
       }
     },
     {
@@ -47941,6 +48608,33 @@
       "categories": [
         "arts"
       ],
+      "id": "willamette_week:20503330@2026-12-02T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c4bab261-adda-4912-8c35-3875be2b07e5.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2294&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-02T10:00:00-08:00",
+      "summary": "Wednesday, December 2, 2026",
+      "title": "Digital Photography Club",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "end_at": "2026-12-02T17:00:00-08:00",
       "id": "willamette_week:20482000@2026-12-02T10:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/C3rYY0Dh0EevgimOOc9XVA.large.jpg",
@@ -48327,6 +49021,34 @@
       "categories": [
         "community"
       ],
+      "id": "willamette_week:20503334@2026-12-02T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1615&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-02T11:00:00-08:00",
+      "summary": "Wednesday, December 2, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-12-02T18:00:00-08:00",
       "id": "willamette_week:19957049@2026-12-02T11:00",
       "is_all_day": false,
@@ -48675,6 +49397,35 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-02T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1895&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-02T12:00:00-08:00",
+      "summary": "Wednesday, December 2, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "end_at": "2026-12-02T14:00:00-08:00",
@@ -48877,6 +49628,33 @@
       },
       "start_at": "2026-12-02T13:00:00-08:00",
       "title": "Oregon Zoo Bond Oversight Subcommittee meeting"
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503329@2026-12-02T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7Cwc_cat0R-0eZJpWNgBesqw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2424&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-02T13:00:00-08:00",
+      "summary": "Wednesday, December 2, 2026",
+      "title": "Bingo",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
     },
     {
       "categories": [
@@ -49083,6 +49861,33 @@
         "latitude": 45.51951806199975,
         "longitude": -122.47906864110425,
         "name": "Rockwood Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "willamette_week:20503328@2026-12-02T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d0aa70d4-7a76-45e4-ad01-9d7f789f3aa6.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=988&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-02T15:00:00-08:00",
+      "summary": "Wednesday, December 2, 2026",
+      "title": "Teen Afterschool Drop-In Activities",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -52529,6 +53334,33 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20503327@2026-12-03T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e98b4359-6c38-4b5f-b43d-784f0d048f7f.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2466&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-03T10:00:00-08:00",
+      "summary": "Thursday, December 3, 2026",
+      "title": "I-5 Connection Chorus Group",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-03T17:00:00-08:00",
@@ -53393,6 +54225,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503326@2026-12-03T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5fd5f171-0df8-46a2-8c02-200168db467d.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2605&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-03T13:00:00-08:00",
+      "summary": "Thursday, December 3, 2026",
+      "title": "Ladies Afternoon Out",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-12-05T15:00:00-08:00",
@@ -53565,6 +54424,35 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-12-03T19:00:00-08:00",
+      "id": "willamette_week:20503985@2026-12-03T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ErPvyNV-a0654tuk7bjAYw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portlandartmuseum.org/event/acting-like-women/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-03T15:00:00-08:00",
+      "summary": "Join us for a special Free First Thursday screening at the Whitsell auditorium of Acting Like Women, a compelling documentary film by Cheri Gaulke that explores performance art, feminist activism, and creative expression.",
+      "title": "Acting Like Women",
+      "venue": {
+        "address": "1219 SW Park Ave",
+        "city": "Portland",
+        "latitude": 45.516149999999996,
+        "longitude": -122.683357,
+        "name": "Portland Art Museum"
       }
     },
     {
@@ -58415,6 +59303,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503335@2026-12-04T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ce2c15b5-c7fa-452a-8249-b24a1348f7cd.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2675&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-04T10:30:00-08:00",
+      "summary": "Friday, December 4, 2026",
+      "title": "Conversational Spanish Group",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "id": "willamette_week:20435475@2026-12-04T10:30",
@@ -58496,6 +59411,34 @@
         "latitude": 45.516956,
         "longitude": -122.554302,
         "name": "Police Bureau East Precinct"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-12-04T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1616&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-04T11:00:00-08:00",
+      "summary": "Friday, December 4, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -58825,6 +59768,61 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503333@2026-12-04T11:30",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2745&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-04T11:30:00-08:00",
+      "summary": "Friday, December 4, 2026",
+      "title": "Bridge Group Play",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-04T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1896&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-04T12:00:00-08:00",
+      "summary": "Friday, December 4, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-12-04T21:00:00-08:00",
@@ -58911,6 +59909,33 @@
         "latitude": 45.5624530442023,
         "longitude": -122.67152133558135,
         "name": "North Portland Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504357@2026-12-04T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/91e6d28b-0788-4696-ae3a-56c8be94b6a3.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2827&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-04T13:00:00-08:00",
+      "summary": "Friday, December 4, 2026",
+      "title": "Mexican Train Dominoes",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -66196,6 +67221,34 @@
     },
     {
       "categories": [
+        "literary"
+      ],
+      "id": "willamette_week:20503322@2026-12-05T11:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b70000de-01b6-4c28-9c45-23c6d5721e96.large.PNG",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1259&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-05T11:00:00-08:00",
+      "title": "Space Talks",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "market"
       ],
       "end_at": "2026-12-05T18:00:00-08:00",
@@ -67673,6 +68726,35 @@
         "latitude": 45.497799,
         "longitude": -122.693703,
         "name": "Keller Auditorium"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-12-05T17:00:00-08:00",
+      "id": "willamette_week:20503986@2026-12-05T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ZxSRslBm_UCCB-yIGAhMhw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portlandartmuseum.org/event/eyes-wide-shut-1999-35mm/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-05T14:00:00-08:00",
+      "summary": "Eyes Wide Shut \\(1999\\) Directed by Stanley Kubrick. 2hr 39min. Rated R. 35mm. This December at PAM CUT @ The Whitsell, join us for our interpretation of COZY SEASON. Opening the month is Stanley Kubrick’s erotic Christmas-time opus Eyes Wide Shut \\(1999\\) in beautiful 35mm. The film takes a dreamlike look at marriage, jealousy, and desire set against the backdrop of flickering New York City. We do not generally provide advisories about subject matter or potentially triggering content in films, and films exhibited don’t necessarily reflect the views of PAM CUT or the Portland Art Museum. In addition to the synopses, trailers, and other links on our website, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media, IMDb, and DoesTheDogDie.com.",
+      "title": "Eyes Wide Shut (1999) 35mm",
+      "venue": {
+        "address": "1219 SW Park Ave",
+        "city": "Portland",
+        "latitude": 45.516149999999996,
+        "longitude": -122.683357,
+        "name": "Portland Art Museum"
       }
     },
     {
@@ -75790,6 +76872,35 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "end_at": "2026-12-06T15:30:00-08:00",
+      "id": "willamette_week:20503987@2026-12-06T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kEpXuJ1AWEuTM8f4ngcfrg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portlandartmuseum.org/event/harold-and-maude-1971/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-06T14:00:00-08:00",
+      "summary": "Harold and Maude \\(1971\\) Directed by Hal Ashby. 1hr 31min. Rated PG. This December at PAM CUT @ The Whitsell, join us for our interpretation of COZY SEASON, featuring the sweet, twisted, and nostalgic Harold and Maude \\(1971\\). Part cult classic, part romantic comedy, the film follows the relationship between a death-obsessed young man and an older woman who teaches him about “making the most of his time on earth.” We do not generally provide advisories about subject matter or potentially triggering content in films, and films exhibited don’t necessarily reflect the views of PAM CUT or the Portland Art Museum. In addition to the synopses, trailers, and other links on our website, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media, IMDb, and DoesTheDogDie.com.",
+      "title": "Harold and Maude (1971)",
+      "venue": {
+        "address": "1219 SW Park Ave",
+        "city": "Portland",
+        "latitude": 45.516149999999996,
+        "longitude": -122.683357,
+        "name": "Portland Art Museum"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-06T16:00:00-08:00",
@@ -79895,6 +81006,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-12-07T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1617&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-07T11:00:00-08:00",
+      "summary": "Monday, December 7, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-07T18:00:00-08:00",
@@ -80042,6 +81181,35 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-07T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1897&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-07T12:00:00-08:00",
+      "summary": "Monday, December 7, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -80745,6 +81913,32 @@
         "latitude": 45.558931,
         "longitude": -122.654833,
         "name": "Alberta Street Pub"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503321@2026-12-07T17:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=3414&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-07T17:00:00-08:00",
+      "summary": "Monday, December 7, 2026",
+      "title": "Urban Renewal Agency",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -82610,6 +83804,34 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:20504312@2026-12-08T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/607f2af6-c086-49dc-82f3-0baba78bda84.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/music-and-movement-2/2026-12-08",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-08T10:30:00-08:00",
+      "summary": "Sing! Dance! Play! Learn! Tuesdays, 10:30–11:30 AM. For children ages 0–5 with their caregivers.",
+      "title": "Music and Movement",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "end_at": "2026-12-08T11:40:00-08:00",
       "id": "willamette_week:19483984@2026-12-08T10:50",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cecfa573-9fd1-430d-9517-87c0437b4fc5.large.png",
@@ -82633,6 +83855,34 @@
         "latitude": 45.3047,
         "longitude": -122.968355,
         "name": "Bauman Auditorium"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-12-08T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1618&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-08T11:00:00-08:00",
+      "summary": "Tuesday, December 8, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -82880,6 +84130,35 @@
         "latitude": 45.3055847,
         "longitude": -122.9558587,
         "name": "Chehalem Valley Brewery"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-08T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1898&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-08T12:00:00-08:00",
+      "summary": "Tuesday, December 8, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -83399,6 +84678,34 @@
         "latitude": 45.54121794278324,
         "longitude": -122.66326099447758,
         "name": "Albina Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "willamette_week:20504313@2026-12-08T15:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7db019ee-e0af-4900-ab07-63bbda315a89.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/teen-tween-drop-in/2026-12-08",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-08T15:30:00-08:00",
+      "summary": "Drop in, have a snack, and see what we are up to each week! Tuesdays, 3:30–4:30 PM. For grades 4–12.",
+      "title": "Teen & Tween Drop-In",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
       }
     },
     {
@@ -84123,6 +85430,34 @@
         "latitude": 45.53543990000001,
         "longitude": -122.620608,
         "name": "Hollywood Theatre"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20504314@2026-12-08T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bd3a038a-7c16-4116-8ffd-2a210530e12a.large.PNG",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/fiber-friends-7/2026-12-08",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-08T18:00:00-08:00",
+      "summary": "Fiber Friends is a crafting group open to all! It meets every Tuesday at the Library, from 6 to 8 PM. Bring your current project to work on while you chat with other crafters!",
+      "title": "Fiber Friends",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
       }
     },
     {
@@ -85959,6 +87294,32 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504645@2026-12-09T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/mapping-the-unseen/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-09T00:00:00-08:00",
+      "summary": "Mapping the Unseen traces Afghanistan's past and imagines 2061. The participatory exhibit examines the histories leading up to the chaotic U.S./NATO withdrawal and the Taliban's return to power. In August 2021, as the Afghan government collapsed and the U.S./NATO withdrawal unfolded, Afghan American artist Gazelle Samizay was helping with evacuation efforts - almost exactly 40 years after her own family had left Afghanistan. Watching events change hour by hour left her with a question: How did they get here? That question became Mapping the Unseen,...",
+      "title": "Mapping the Unseen",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "id": "willamette_week:20484738@2026-12-09T00:00",
@@ -86425,6 +87786,33 @@
       "categories": [
         "arts"
       ],
+      "id": "willamette_week:20503330@2026-12-09T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c4bab261-adda-4912-8c35-3875be2b07e5.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2295&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-09T10:00:00-08:00",
+      "summary": "Wednesday, December 9, 2026",
+      "title": "Digital Photography Club",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "end_at": "2026-12-09T17:00:00-08:00",
       "id": "willamette_week:20482000@2026-12-09T10:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/C3rYY0Dh0EevgimOOc9XVA.large.jpg",
@@ -86725,6 +88113,34 @@
       "categories": [
         "community"
       ],
+      "id": "willamette_week:20503334@2026-12-09T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1619&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-09T11:00:00-08:00",
+      "summary": "Wednesday, December 9, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-12-09T18:00:00-08:00",
       "id": "willamette_week:19957049@2026-12-09T11:00",
       "is_all_day": false,
@@ -86955,6 +88371,35 @@
         "latitude": 45.51622,
         "longitude": -122.68437,
         "name": "Rental Sales Gallery at PAM"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-09T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1899&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-09T12:00:00-08:00",
+      "summary": "Wednesday, December 9, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -87322,6 +88767,33 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "willamette_week:20503328@2026-12-09T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d0aa70d4-7a76-45e4-ad01-9d7f789f3aa6.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=989&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-09T15:00:00-08:00",
+      "summary": "Wednesday, December 9, 2026",
+      "title": "Teen Afterschool Drop-In Activities",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -87736,6 +89208,33 @@
         "latitude": 45.558931,
         "longitude": -122.654833,
         "name": "Alberta Street Pub"
+      }
+    },
+    {
+      "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:20503319@2026-12-09T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0edbe94b-9b8a-4c74-a802-194eca9cdb07.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=3072&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-09T18:00:00-08:00",
+      "summary": "Wednesday, December 9, 2026",
+      "title": "Planning Commission",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -90059,6 +91558,32 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504645@2026-12-10T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/mapping-the-unseen/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-10T00:00:00-08:00",
+      "summary": "Mapping the Unseen traces Afghanistan's past and imagines 2061. The participatory exhibit examines the histories leading up to the chaotic U.S./NATO withdrawal and the Taliban's return to power. In August 2021, as the Afghan government collapsed and the U.S./NATO withdrawal unfolded, Afghan American artist Gazelle Samizay was helping with evacuation efforts - almost exactly 40 years after her own family had left Afghanistan. Watching events change hour by hour left her with a question: How did they get here? That question became Mapping the Unseen,...",
+      "title": "Mapping the Unseen",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "id": "willamette_week:20484738@2026-12-10T00:00",
@@ -90607,6 +92132,33 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20503327@2026-12-10T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e98b4359-6c38-4b5f-b43d-784f0d048f7f.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2467&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-10T10:00:00-08:00",
+      "summary": "Thursday, December 10, 2026",
+      "title": "I-5 Connection Chorus Group",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -91548,6 +93100,33 @@
         "latitude": 45.526193,
         "longitude": -122.688148,
         "name": "The Mission Theater"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503326@2026-12-10T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5fd5f171-0df8-46a2-8c02-200168db467d.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2606&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-10T13:00:00-08:00",
+      "summary": "Thursday, December 10, 2026",
+      "title": "Ladies Afternoon Out",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -92601,6 +94180,32 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503325@2026-12-10T18:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1263&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-10T18:00:00-08:00",
+      "summary": "Thursday, December 10, 2026",
+      "title": "Tabletop Game Night",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -95259,6 +96864,32 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504645@2026-12-11T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/mapping-the-unseen/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-11T00:00:00-08:00",
+      "summary": "Mapping the Unseen traces Afghanistan's past and imagines 2061. The participatory exhibit examines the histories leading up to the chaotic U.S./NATO withdrawal and the Taliban's return to power. In August 2021, as the Afghan government collapsed and the U.S./NATO withdrawal unfolded, Afghan American artist Gazelle Samizay was helping with evacuation efforts - almost exactly 40 years after her own family had left Afghanistan. Watching events change hour by hour left her with a question: How did they get here? That question became Mapping the Unseen,...",
+      "title": "Mapping the Unseen",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:20484739@2026-12-11T00:00",
@@ -95729,6 +97360,33 @@
         "latitude": 45.619834,
         "longitude": -123.113828,
         "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
+        "outdoors"
+      ],
+      "end_at": "2026-12-11T14:00:00-08:00",
+      "id": "willamette_week:20502868@2026-12-11T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41c3242c-ae71-4d9d-be4c-5fc43687efd9.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.tualatinhillsparks.org/calendar.aspx?EID=28152",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-11T09:00:00-08:00",
+      "title": "Elsie Stuhr Day!",
+      "venue": {
+        "city": "Beaverton",
+        "latitude": 45.48706,
+        "longitude": -122.80371,
+        "name": "Beaverton"
       }
     },
     {
@@ -96205,6 +97863,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503335@2026-12-11T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ce2c15b5-c7fa-452a-8249-b24a1348f7cd.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2676&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-11T10:30:00-08:00",
+      "summary": "Friday, December 11, 2026",
+      "title": "Conversational Spanish Group",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "id": "willamette_week:20435475@2026-12-11T10:30",
@@ -96258,6 +97943,34 @@
         "latitude": 45.2978782654,
         "longitude": -122.7577896118,
         "name": "Wilsonville Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-12-11T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1620&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-11T11:00:00-08:00",
+      "summary": "Friday, December 11, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -96616,6 +98329,61 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503333@2026-12-11T11:30",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2746&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-11T11:30:00-08:00",
+      "summary": "Friday, December 11, 2026",
+      "title": "Bridge Group Play",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-11T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1900&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-11T12:00:00-08:00",
+      "summary": "Friday, December 11, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-12-11T17:00:00-08:00",
@@ -96795,6 +98563,33 @@
         "latitude": 45.5624530442023,
         "longitude": -122.67152133558135,
         "name": "North Portland Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504357@2026-12-11T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/91e6d28b-0788-4696-ae3a-56c8be94b6a3.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2829&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-11T13:00:00-08:00",
+      "summary": "Friday, December 11, 2026",
+      "title": "Mexican Train Dominoes",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -101218,6 +103013,32 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504645@2026-12-12T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/mapping-the-unseen/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T00:00:00-08:00",
+      "summary": "Mapping the Unseen traces Afghanistan's past and imagines 2061. The participatory exhibit examines the histories leading up to the chaotic U.S./NATO withdrawal and the Taliban's return to power. In August 2021, as the Afghan government collapsed and the U.S./NATO withdrawal unfolded, Afghan American artist Gazelle Samizay was helping with evacuation efforts - almost exactly 40 years after her own family had left Afghanistan. Watching events change hour by hour left her with a question: How did they get here? That question became Mapping the Unseen,...",
+      "title": "Mapping the Unseen",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "id": "willamette_week:20498711@2026-12-12T00:00",
@@ -104722,6 +106543,62 @@
         "latitude": 45.497799,
         "longitude": -122.693703,
         "name": "Keller Auditorium"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20503331@2026-12-12T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9a01b316-1378-4c7e-a527-3917c04eb7ad.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1248&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T14:00:00-08:00",
+      "summary": "Saturday, December 12, 2026",
+      "title": "Book Notes Concert",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-12-12T15:30:00-08:00",
+      "id": "willamette_week:20503988@2026-12-12T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BKJnK_yvLUidjOBMO5tKSQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portlandartmuseum.org/event/once-upon-a-time-in-harlem-2026/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T14:00:00-08:00",
+      "summary": "Once Upon a Time in Harlem \\(2026\\) Directed by William Greaves, David Greaves. 1hr 40min. Rated PG-13. This December at PAM CUT @ The Whitsell, join us for our interpretation of COZY SEASON, featuring Once Upon a Time in Harlem \\(2026\\) – a living archive of a 1972 dinner hosted by legendary filmmaker William Greaves, featuring an extraordinary group of artists, writers, and musicians of the Harlem Renaissance. We do not generally provide advisories about subject matter or potentially triggering content in films, and films exhibited don’t necessarily reflect the views of PAM CUT or the Portland Art Museum. In addition to the synopses, trailers, and other links on our website, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media, IMDb, and DoesTheDogDie.com.",
+      "title": "Once Upon a Time in Harlem (2026)",
+      "venue": {
+        "address": "1219 SW Park Ave",
+        "city": "Portland",
+        "latitude": 45.516149999999996,
+        "longitude": -122.683357,
+        "name": "Portland Art Museum"
       }
     },
     {
@@ -109699,6 +111576,32 @@
         "latitude": 45.523,
         "longitude": -122.67443,
         "name": "Dante's"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504645@2026-12-13T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/mapping-the-unseen/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-13T00:00:00-08:00",
+      "summary": "Mapping the Unseen traces Afghanistan's past and imagines 2061. The participatory exhibit examines the histories leading up to the chaotic U.S./NATO withdrawal and the Taliban's return to power. In August 2021, as the Afghan government collapsed and the U.S./NATO withdrawal unfolded, Afghan American artist Gazelle Samizay was helping with evacuation efforts - almost exactly 40 years after her own family had left Afghanistan. Watching events change hour by hour left her with a question: How did they get here? That question became Mapping the Unseen,...",
+      "title": "Mapping the Unseen",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
       }
     },
     {
@@ -114694,6 +116597,32 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504645@2026-12-14T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/mapping-the-unseen/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-14T00:00:00-08:00",
+      "summary": "Mapping the Unseen traces Afghanistan's past and imagines 2061. The participatory exhibit examines the histories leading up to the chaotic U.S./NATO withdrawal and the Taliban's return to power. In August 2021, as the Afghan government collapsed and the U.S./NATO withdrawal unfolded, Afghan American artist Gazelle Samizay was helping with evacuation efforts - almost exactly 40 years after her own family had left Afghanistan. Watching events change hour by hour left her with a question: How did they get here? That question became Mapping the Unseen,...",
+      "title": "Mapping the Unseen",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "id": "willamette_week:20498711@2026-12-14T00:00",
@@ -115212,6 +117141,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-12-14T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1621&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-14T11:00:00-08:00",
+      "summary": "Monday, December 14, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-14T18:00:00-08:00",
@@ -115329,6 +117286,35 @@
         "latitude": 45.504645,
         "longitude": -122.62583,
         "name": "Artifact Creative Recycle"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-14T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1901&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-14T12:00:00-08:00",
+      "summary": "Monday, December 14, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -116231,6 +118217,33 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:20503318@2026-12-14T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2af83571-5ec4-4798-99c9-19e36f5e1249.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=3048&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-14T18:30:00-08:00",
+      "summary": "Monday, December 14, 2026",
+      "title": "Development Review Board A",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "willamette_week:20440632@2026-12-14T18:30",
@@ -117048,6 +119061,32 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504645@2026-12-15T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/mapping-the-unseen/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-15T00:00:00-08:00",
+      "summary": "Mapping the Unseen traces Afghanistan's past and imagines 2061. The participatory exhibit examines the histories leading up to the chaotic U.S./NATO withdrawal and the Taliban's return to power. In August 2021, as the Afghan government collapsed and the U.S./NATO withdrawal unfolded, Afghan American artist Gazelle Samizay was helping with evacuation efforts - almost exactly 40 years after her own family had left Afghanistan. Watching events change hour by hour left her with a question: How did they get here? That question became Mapping the Unseen,...",
+      "title": "Mapping the Unseen",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "tech"
       ],
       "id": "willamette_week:20498711@2026-12-15T00:00",
@@ -117677,6 +119716,62 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20504312@2026-12-15T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/607f2af6-c086-49dc-82f3-0baba78bda84.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/music-and-movement-2/2026-12-15",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-15T10:30:00-08:00",
+      "summary": "Sing! Dance! Play! Learn! Tuesdays, 10:30–11:30 AM. For children ages 0–5 with their caregivers.",
+      "title": "Music and Movement",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-12-15T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1622&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-15T11:00:00-08:00",
+      "summary": "Tuesday, December 15, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-15T18:00:00-08:00",
@@ -117919,6 +120014,35 @@
         "latitude": 45.518595,
         "longitude": -122.679271,
         "name": "Pioneer Courthouse Square"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-15T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1902&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-15T12:00:00-08:00",
+      "summary": "Tuesday, December 15, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -118392,6 +120516,34 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "willamette_week:20504313@2026-12-15T15:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7db019ee-e0af-4900-ab07-63bbda315a89.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/teen-tween-drop-in/2026-12-15",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-15T15:30:00-08:00",
+      "summary": "Drop in, have a snack, and see what we are up to each week! Tuesdays, 3:30–4:30 PM. For grades 4–12.",
+      "title": "Teen & Tween Drop-In",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
       }
     },
     {
@@ -119043,6 +121195,34 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20504314@2026-12-15T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bd3a038a-7c16-4116-8ffd-2a210530e12a.large.PNG",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/fiber-friends-7/2026-12-15",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-15T18:00:00-08:00",
+      "summary": "Fiber Friends is a crafting group open to all! It meets every Tuesday at the Library, from 6 to 8 PM. Bring your current project to work on while you chat with other crafters!",
+      "title": "Fiber Friends",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
       }
     },
     {
@@ -120170,6 +122350,32 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504645@2026-12-16T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/mapping-the-unseen/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-16T00:00:00-08:00",
+      "summary": "Mapping the Unseen traces Afghanistan's past and imagines 2061. The participatory exhibit examines the histories leading up to the chaotic U.S./NATO withdrawal and the Taliban's return to power. In August 2021, as the Afghan government collapsed and the U.S./NATO withdrawal unfolded, Afghan American artist Gazelle Samizay was helping with evacuation efforts - almost exactly 40 years after her own family had left Afghanistan. Watching events change hour by hour left her with a question: How did they get here? That question became Mapping the Unseen,...",
+      "title": "Mapping the Unseen",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:20484739@2026-12-16T00:00",
@@ -120497,6 +122703,33 @@
         "latitude": 45.5197386178146,
         "longitude": -123.05865727043835,
         "name": "Cornelius Public Library"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20503330@2026-12-16T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c4bab261-adda-4912-8c35-3875be2b07e5.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2296&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-16T10:00:00-08:00",
+      "summary": "Wednesday, December 16, 2026",
+      "title": "Digital Photography Club",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -120935,6 +123168,34 @@
       "categories": [
         "community"
       ],
+      "id": "willamette_week:20503334@2026-12-16T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1623&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-16T11:00:00-08:00",
+      "summary": "Wednesday, December 16, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
       "end_at": "2026-12-16T18:00:00-08:00",
       "id": "willamette_week:19957049@2026-12-16T11:00",
       "is_all_day": false,
@@ -121168,6 +123429,35 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-16T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1903&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-16T12:00:00-08:00",
+      "summary": "Wednesday, December 16, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-16T18:00:00-08:00",
@@ -121316,6 +123606,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503329@2026-12-16T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7Cwc_cat0R-0eZJpWNgBesqw.large.jpg",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2440&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-16T13:00:00-08:00",
+      "summary": "Wednesday, December 16, 2026",
+      "title": "Bingo",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "end_at": "2026-12-16T14:00:00-08:00",
@@ -121429,6 +123746,33 @@
         "latitude": 45.515007,
         "longitude": -122.679101,
         "name": "City Council Chambers"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "willamette_week:20503328@2026-12-16T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d0aa70d4-7a76-45e4-ad01-9d7f789f3aa6.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=990&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-16T15:00:00-08:00",
+      "summary": "Wednesday, December 16, 2026",
+      "title": "Teen Afterschool Drop-In Activities",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -124013,6 +126357,32 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504645@2026-12-17T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/mapping-the-unseen/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-17T00:00:00-08:00",
+      "summary": "Mapping the Unseen traces Afghanistan's past and imagines 2061. The participatory exhibit examines the histories leading up to the chaotic U.S./NATO withdrawal and the Taliban's return to power. In August 2021, as the Afghan government collapsed and the U.S./NATO withdrawal unfolded, Afghan American artist Gazelle Samizay was helping with evacuation efforts - almost exactly 40 years after her own family had left Afghanistan. Watching events change hour by hour left her with a question: How did they get here? That question became Mapping the Unseen,...",
+      "title": "Mapping the Unseen",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "willamette_week:20484739@2026-12-17T00:00",
@@ -124365,6 +126735,33 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20503327@2026-12-17T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e98b4359-6c38-4b5f-b43d-784f0d048f7f.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2468&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-17T10:00:00-08:00",
+      "summary": "Thursday, December 17, 2026",
+      "title": "I-5 Connection Chorus Group",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -125261,6 +127658,33 @@
         "latitude": 45.526193,
         "longitude": -122.688148,
         "name": "The Mission Theater"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503326@2026-12-17T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5fd5f171-0df8-46a2-8c02-200168db467d.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2607&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-17T13:00:00-08:00",
+      "summary": "Thursday, December 17, 2026",
+      "title": "Ladies Afternoon Out",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -128671,6 +131095,32 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504645@2026-12-18T00:00",
+      "is_all_day": true,
+      "listing_url": "https://traveloregon.com/things-to-do/events/mapping-the-unseen/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-18T00:00:00-08:00",
+      "summary": "Mapping the Unseen traces Afghanistan's past and imagines 2061. The participatory exhibit examines the histories leading up to the chaotic U.S./NATO withdrawal and the Taliban's return to power. In August 2021, as the Afghan government collapsed and the U.S./NATO withdrawal unfolded, Afghan American artist Gazelle Samizay was helping with evacuation efforts - almost exactly 40 years after her own family had left Afghanistan. Watching events change hour by hour left her with a question: How did they get here? That question became Mapping the Unseen,...",
+      "title": "Mapping the Unseen",
+      "venue": {
+        "city": "Portland",
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "name": "Portland"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "id": "willamette_week:20307657@2026-12-18T00:00",
@@ -129477,6 +131927,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503335@2026-12-18T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ce2c15b5-c7fa-452a-8249-b24a1348f7cd.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2677&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-18T10:30:00-08:00",
+      "summary": "Friday, December 18, 2026",
+      "title": "Conversational Spanish Group",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "id": "willamette_week:20435475@2026-12-18T10:30",
@@ -129558,6 +132035,34 @@
         "latitude": 45.562291,
         "longitude": -122.660793,
         "name": "Police Bureau North Precinct"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-12-18T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1624&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-18T11:00:00-08:00",
+      "summary": "Friday, December 18, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -129857,6 +132362,61 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503333@2026-12-18T11:30",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2747&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-18T11:30:00-08:00",
+      "summary": "Friday, December 18, 2026",
+      "title": "Bridge Group Play",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-18T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1904&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-18T12:00:00-08:00",
+      "summary": "Friday, December 18, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-18T18:00:00-08:00",
@@ -129973,6 +132533,33 @@
         "latitude": 45.5624530442023,
         "longitude": -122.67152133558135,
         "name": "North Portland Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20504357@2026-12-18T13:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/91e6d28b-0788-4696-ae3a-56c8be94b6a3.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=2831&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-18T13:00:00-08:00",
+      "summary": "Friday, December 18, 2026",
+      "title": "Mexican Train Dominoes",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -144692,6 +147279,34 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-12-21T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1625&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-21T11:00:00-08:00",
+      "summary": "Monday, December 21, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-21T18:00:00-08:00",
@@ -144864,6 +147479,35 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "Portland"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-21T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1905&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-21T12:00:00-08:00",
+      "summary": "Monday, December 21, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -146776,6 +149420,62 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20504312@2026-12-22T10:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/607f2af6-c086-49dc-82f3-0baba78bda84.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/music-and-movement-2/2026-12-22",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-22T10:30:00-08:00",
+      "summary": "Sing! Dance! Play! Learn! Tuesdays, 10:30–11:30 AM. For children ages 0–5 with their caregivers.",
+      "title": "Music and Movement",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20503334@2026-12-22T11:00",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1626&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 1.0,
+        "min": 1.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-22T11:00:00-08:00",
+      "summary": "Tuesday, December 22, 2026",
+      "title": "Sit, Stand, and Be Fit",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-22T18:00:00-08:00",
@@ -147021,6 +149721,35 @@
         "latitude": 45.3055847,
         "longitude": -122.9558587,
         "name": "Chehalem Valley Brewery"
+      }
+    },
+    {
+      "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20503332@2026-12-22T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8acf2b9a-e721-4303-92f6-793da5e97ee8.large.png",
+      "is_all_day": false,
+      "listing_url": "http://www.ci.wilsonville.or.us/Calendar.aspx?EID=1906&month=11&year=2026&day=15&calType=0",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 4.25,
+        "min": 3.5
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-22T12:00:00-08:00",
+      "summary": "Tuesday, December 22, 2026",
+      "title": "Lunch at the Community Center",
+      "venue": {
+        "city": "Wilsonville",
+        "latitude": 45.30471,
+        "longitude": -122.75995,
+        "name": "Wilsonville"
       }
     },
     {
@@ -147438,6 +150167,34 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "willamette_week:20504313@2026-12-22T15:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7db019ee-e0af-4900-ab07-63bbda315a89.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/teen-tween-drop-in/2026-12-22",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-22T15:30:00-08:00",
+      "summary": "Drop in, have a snack, and see what we are up to each week! Tuesdays, 3:30–4:30 PM. For grades 4–12.",
+      "title": "Teen & Tween Drop-In",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
       }
     },
     {
@@ -147933,6 +150690,34 @@
         "latitude": 45.510012,
         "longitude": -123.094577,
         "name": "Forest Grove National Guard Armory"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20504314@2026-12-22T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bd3a038a-7c16-4116-8ffd-2a210530e12a.large.PNG",
+      "is_all_day": false,
+      "listing_url": "https://www.scappooselibrary.org/news-events/fiber-friends-7/2026-12-22",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-22T18:00:00-08:00",
+      "summary": "Fiber Friends is a crafting group open to all! It meets every Tuesday at the Library, from 6 to 8 PM. Bring your current project to work on while you chat with other crafters!",
+      "title": "Fiber Friends",
+      "venue": {
+        "address": "52469 Southeast 2nd Street",
+        "city": "Scappoose",
+        "latitude": 45.7567161,
+        "longitude": -122.8766919,
+        "name": "Scappoose Public Library"
       }
     },
     {
@@ -170416,5 +173201,5 @@
       }
     }
   ],
-  "generated_at": "2026-11-22T20:23:45+00:00"
+  "generated_at": "2026-11-22T21:52:50+00:00"
 }
