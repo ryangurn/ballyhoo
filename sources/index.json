@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:39:15+00:00",
+  "generated_at": "2026-11-22T02:39:27+00:00",
   "sources": [
     {
       "event_count": 27,
@@ -47,7 +47,7 @@
       "event_count": 12,
       "last_run_at": "2026-11-21T19:54:06+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "event_count": 0,
-      "last_run_at": "2026-11-21T21:53:06+00:00",
+      "last_run_at": "2026-11-22T02:38:49+00:00",
       "source_id": "portland_parks",
       "status": "ok",
       "url": "sources/portland_parks.json"
