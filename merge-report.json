@@ -2225,6 +2225,22 @@
       "venue": "Hawthorne Theatre"
     },
     {
+      "dropped": "dopdx:17283409",
+      "kept": "ticketmaster:rZ7HnEZ1Afx6ZS",
+      "start_at": "2026-12-06T19:00:00-08:00",
+      "title_dropped": "Piano Queen",
+      "title_kept": "PIANO QUEEN",
+      "venue": "Star Theater"
+    },
+    {
+      "dropped": "willamette_week:18798133@2026-12-06T19:00",
+      "kept": "dopdx:17283409",
+      "start_at": "2026-12-06T19:00:00-08:00",
+      "title_dropped": "PIANO QUEEN",
+      "title_kept": "Piano Queen",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:19679555@2026-12-06T19:00",
       "kept": "dopdx:17736398",
       "start_at": "2026-12-06T19:00:00-08:00",
@@ -2265,28 +2281,12 @@
       "venue": "Star Theater"
     },
     {
-      "dropped": "willamette_week:18798133@2026-12-06T19:00",
-      "kept": "dopdx:16762197",
-      "start_at": "2026-12-06T19:00:00-08:00",
-      "title_dropped": "PIANO QUEEN",
-      "title_kept": "Church Of Hive",
-      "venue": "Star Theater"
-    },
-    {
       "dropped": "dopdx:17709385",
       "kept": "ticketmaster:vvG1HZ_2B6GkFr",
       "start_at": "2026-12-06T19:00:00-08:00",
       "title_dropped": "Max McNown",
       "title_kept": "The Wolf's Nice Christmas Show",
       "venue": "Veterans Memorial Coliseum"
-    },
-    {
-      "dropped": "dopdx:17283409",
-      "kept": "ticketmaster:rZ7HnEZ1Afx6ZS",
-      "start_at": "2026-12-06T19:00:00-08:00",
-      "title_dropped": "Piano Queen",
-      "title_kept": "PIANO QUEEN",
-      "venue": "Star Theater"
     },
     {
       "dropped": "dopdx:17914643",
@@ -4841,9 +4841,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5745,
-  "floor_check": "5745 events against a 5797-event baseline",
-  "generated_at": "2026-11-23T15:01:06+00:00",
+  "event_count": 5746,
+  "floor_check": "5746 events against a 5777-event baseline",
+  "generated_at": "2026-11-23T15:27:12+00:00",
   "problems": [],
   "sources": [
     "calagator",
