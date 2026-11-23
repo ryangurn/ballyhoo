@@ -5,39 +5,6 @@
         "market",
         "food"
       ],
-      "end_at": "2026-11-21T14:00:00-08:00",
-      "id": "portland_farmers_market:psu-farmers-market-2026-2@2026-11-21",
-      "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/05/PSU-winter-2023.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.portlandfarmersmarket.org/event/psu-farmers-market-2026-2/2026-11-21/",
-      "organizer": "Portland Farmers Market",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "portland_farmers_market",
-        "name": "Portland Farmers Market",
-        "url": "https://www.portlandfarmersmarket.org"
-      },
-      "start_at": "2026-11-21T09:00:00-08:00",
-      "summary": "Our year-round flagship farmers market at Portland State University average 90 local farmers and food producers every Saturday.",
-      "title": "PSU Farmers Market",
-      "venue": {
-        "address": "SW Park & Montgomery",
-        "city": "Portland",
-        "latitude": 45.5128932,
-        "longitude": -122.6853859,
-        "name": "PSU Farmers Market"
-      }
-    },
-    {
-      "categories": [
-        "market",
-        "food"
-      ],
       "end_at": "2026-11-22T14:00:00-08:00",
       "id": "portland_farmers_market:king-farmers-market-3@2026-11-22",
       "image_url": "https://www.portlandfarmersmarket.org/wp-content/uploads/2023/08/King-aug-22-image-close.jpg",
@@ -760,7 +727,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-22T19:29:37+00:00",
+  "generated_at": "2026-11-23T07:24:44+00:00",
   "source_id": "portland_farmers_market",
   "status": "ok"
 }
