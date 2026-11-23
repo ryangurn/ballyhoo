@@ -2017,6 +2017,14 @@
       "venue": "Star Theater"
     },
     {
+      "dropped": "dopdx:18106605",
+      "kept": "ticketmaster:Z7r9jZ1AAANZf",
+      "start_at": "2026-12-05T21:00:00-08:00",
+      "title_dropped": "Greaterkind & Arietta Ward play Earth, Wind & Fire",
+      "title_kept": "greaterkind & Arietta Ward play Earth, Wind & Fire (21+ Event)",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:20496535@2026-12-05T21:00",
       "kept": "dopdx:18106605",
       "start_at": "2026-12-05T21:00:00-08:00",
@@ -4441,6 +4449,14 @@
       "venue": "High Water Mark Lounge"
     },
     {
+      "dropped": "willamette_week:16902271@2026-12-20T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPwkK",
+      "start_at": "2026-12-20T21:00:00-08:00",
+      "title_dropped": "Church of Hive / Goth-Industrial-Darkwave / DJs Skully : Filthy B",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "dopdx:17918392",
       "kept": "ticketmaster:rZ7HnEZ1AfFY-f",
       "start_at": "2026-12-20T22:00:00-08:00",
@@ -4841,9 +4857,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5746,
-  "floor_check": "5746 events against a 5751-event baseline",
-  "generated_at": "2026-11-23T17:17:32+00:00",
+  "event_count": 5751,
+  "floor_check": "5751 events against a 5746-event baseline",
+  "generated_at": "2026-11-23T20:08:38+00:00",
   "problems": [],
   "sources": [
     "calagator",
