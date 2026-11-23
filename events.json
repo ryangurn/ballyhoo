@@ -2,61 +2,6 @@
   "events": [
     {
       "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-12-04T16:30:00-08:00",
-      "id": "dopdx:18035202",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35300310/af5804ea-a13a-46f1-86a8-5ab61b494cb3.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/15/wine-and-craft-wreath-workshops-with-wine-at-division-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 92.55,
-        "min": 92.55
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-15T15:00:00-08:00",
-      "summary": "Come celebrate the season with a glass of wine during your festive wreath workshop at Portland Nursery!",
-      "title": "Wine and Craft - Wreath Workshops with Wine at Division",
-      "venue": {
-        "name": "Portland Nursery Division"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17157031",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31181360/fd38e48a-e466-4883-ab0d-36cd6d462480.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/15/little-shop-of-horrors-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-15T19:00:00-08:00",
-      "summary": "JUMP TO: Dates, Run Time, Playbill, &amp; More Join us, and Audrey II, this holiday season with something a little different. It’s back—and hungrier than ever. We’re bringing Little Shop of Horrors back to our stage with a brand-new production of the cult-favorite musical packed with doo-wop hits, outrageous comedy, and one very dangerous plant. When shy florist Seymour discovers a mysterious new species that promises fame, fortune, and romance, his struggling flower shop suddenly starts to bloom—but the plant has a monstrous appetite. Featuring the unforgettable score by Alan Menken and Howard Ashman. Just remember: don’t feed the plants.",
-      "title": "Little Shop of Horrors",
-      "venue": {
-        "address": "128 NW 11th Ave",
-        "city": "Portland",
-        "latitude": 45.524172,
-        "longitude": -122.681828,
-        "name": "Portland Center Stage at The Armory"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "id": "dopdx:18100556",
@@ -117,33 +62,6 @@
     },
     {
       "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-11-22T18:30:00-08:00",
-      "id": "dopdx:17927213",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34822268/7f7f6939-2936-4184-95a7-82ea95a0d229.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/19/harvest-of-woman-guest-artist-series-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 39.19,
-        "min": 7.18
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-19T19:30:00-08:00",
-      "summary": "Enter the world of Harvest of Woman: four days of intimate performance, film, sound and five distinct guest artist projects.",
-      "title": "Harvest of Woman + Guest Artist Series",
-      "venue": {
-        "name": "Performance Works NorthWest"
-      }
-    },
-    {
-      "categories": [
         "family"
       ],
       "id": "dopdx:17827845",
@@ -168,61 +86,6 @@
         "latitude": 45.509365,
         "longitude": -122.714286,
         "name": "Oregon Zoo"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-11-22T23:59:00-08:00",
-      "id": "dopdx:18013466",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35212750/0f2a22eb-2567-471b-b174-f4a1da25060a.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/20/barefoot-fusion-festival-2026-bff-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 241.94,
-        "min": 28.52
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-20T18:00:00-08:00",
-      "summary": "The Portland Blues &amp; Jazz Dance Society presents Barefoot Fusion Festival 2026 - BFF Pajama Jam!",
-      "title": "Barefoot Fusion Festival 2026 (BFF)",
-      "venue": {
-        "name": "BLANK"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "dopdx:17890748",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34653897/fdd57707-ce9b-4bd7-ba3d-d230c6e74b3c.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/weekly/fri/laser-stranger-things-5-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-20T18:00:00-08:00",
-      "summary": "New! | October | Select Fridays + Saturdays | 6 pm Fans can't get enough of the retro vibe of the hit series Stranger Things. Take a trip to the upside-down in the safety of the dome. Experience the '80s tunes and soundscapes from all 5 seasons of the show reinterpreted in vibrant laser light. Please Note: Please arrive at the Planetarium at least 5 minutes prior to your showtime. No late entry. This show may contain adult language or themes.",
-      "title": "Laser Stranger Things 5",
-      "venue": {
-        "address": "1945 SE Water Ave.",
-        "city": "Portland",
-        "latitude": 45.508613,
-        "longitude": -122.666308,
-        "name": "Oregon Museum of Science & Industry (OMSI)"
       }
     },
     {
@@ -438,56 +301,6 @@
     },
     {
       "categories": [
-        "sports"
-      ],
-      "end_at": "2026-11-22T13:00:00-08:00",
-      "id": "dopdx:17976681",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35055012/66fb950f-634e-4267-a28c-f4e9b426f019.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/dig-day-rocky-point-switchblade-sessions-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T09:00:00-08:00",
-      "summary": "Join NWTA and be part of rebuilding the beloved Switchblade trail!",
-      "title": "DIG DAY — Rocky Point: Switchblade Sessions",
-      "venue": {
-        "name": "Rocky Point Mountain Bike Trail Network"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-11-22T12:00:00-08:00",
-      "id": "dopdx:18015010",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35218821/a101ac30-2059-439f-904f-014a3494a482.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/pie-k-run-walk-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T09:00:00-08:00",
-      "summary": "Join us for our free and always popular PIE-K RUN at Foot Traffic West! Join 300+ neighbors and friends for running, walking, and PIE!",
-      "title": "Pie-K Run & Walk",
-      "venue": {
-        "name": "Foot Traffic West"
-      }
-    },
-    {
-      "categories": [
         "market",
         "food"
       ],
@@ -518,18 +331,18 @@
     },
     {
       "categories": [
-        "music"
+        "family"
       ],
-      "id": "dopdx:17893994",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34666384/697da41a-f1ed-4a2a-bb0c-57d143f04ad6.jpg",
+      "end_at": "2027-01-03T17:30:00-08:00",
+      "id": "dopdx:18115085",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35644860/24f91b89-8b16-48fd-a987-005f189031b2.png",
       "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/crystal-ballroom-history-art-tour-tickets",
-      "organizer": "McMenamins Presents",
+      "listing_url": "https://dopdx.com/events/2026/11/22/omsi-on-ice-tickets",
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 20.0,
-        "min": 20.0
+        "max": 10.0,
+        "min": 8.0
       },
       "source": {
         "id": "dopdx",
@@ -537,14 +350,14 @@
         "url": "https://dopdx.com"
       },
       "start_at": "2026-11-22T10:00:00-08:00",
-      "summary": "Join us as we explore the rich history of the Crystal Ballroom, including police raids, visits by silent screen idols and Beat poets, psychedelic light shows, R&amp;B and rock legends, dancing throughout the decades and narrow escapes from ruin. All ages welcome, 3 yrs and over require a ticket Tour entrance is at the Box Office on SW 14th and entry may not be guaranteed after 10am. Tour will take about 60-75 minutes. This tour may require standing for long periods of time and is mostly accessible via elevator. One stop on the tour, the balcony, can be seen but not accessed, except by stairs. For Passport Holders: This tour is eligible for the Crystal Ballroom &amp; Lola's Room location stamps and the Attend a History Sponsored Event experience stamp. For questions, please email tours@mcmenamins.com",
-      "title": "Crystal Ballroom History & Art Tour",
+      "summary": "Indoor Skating at OMSI November 14, 2026 - January 3, 2027 About the Event Put on your skates and take to the rink this winter at OMSI on a unique indoor synthetic ice rink! Experience all the joys of ice skating together while comfortably indoors in OMSI’s auditorium-turned-winter-wonderland. Learn more about the synthetic ice rink technology here! Ticket Information Indoor Ice Rink Admission Adult (14+): $10 Senior (63+): $9 Youth (5-13): $8 Member Pricing OMSI members receive 50% off of ice rink admission. Member vouchers are not valid for the ice rink. Museum admission is not required. Ages 5 and above only. For children 5 - 10 years of age, an adult is required to be present in the area. OMSI recommends for young or inexperienced skaters that an adult accompany them on the ice. Rink admission includes free skate rentals and a 30-minute time slot at the rink including checking out and checking in skates. Personal skates are allowed with the exception of hockey or figure skates; see more information in the FAQs below. Participants must sign a liability waiver before skating. Ice skating supports will be available — no prior experience required! They are available on a first come, first serve basis. For additional information and FAQs, please click here to visit our webpage! Questions? Email info@omsi.edu. For ticketing questions, call 503.797.4000 x0",
+      "title": "OMSI On Ice",
       "venue": {
-        "address": "1332 W. Burnside",
+        "address": "1945 SE Water Ave.",
         "city": "Portland",
-        "latitude": 45.5227528,
-        "longitude": -122.6851261,
-        "name": "McMenamins Crystal Ballroom"
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
       }
     },
     {
@@ -678,261 +491,6 @@
     },
     {
       "categories": [
-        "food"
-      ],
-      "id": "dopdx:18013459",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35212716/e1c3ff8d-505a-4949-ae4b-10b806a8bb12.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/breathe-free-an-experience-of-breath-sound-inner-freedom-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 33.85,
-        "min": 17.85
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T10:45:00-08:00",
-      "summary": "An invitation to step away from the noise, reconnect with yourself, and explore what freedom feels like from the inside out.",
-      "title": "Breathe Free: An Experience of Breath, Sound & Inner Freedom",
-      "venue": {
-        "name": "The Soul Ascension Studio"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-11-22T14:00:00-08:00",
-      "id": "dopdx:17999209",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35150425/c2605c7f-98a4-47d1-8141-6178cafc7caa.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/ski-swap-fundraiser-buy-sell-tickets",
-      "organizer": "Eastside High Schools Ski Team",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T11:00:00-08:00",
-      "summary": "It's the Eastside High Schools Ski Team's 22nd Annual Ski Swap! Shop 10,000 sqft of amazing deals on quality used, new, and last-season new snowsport gear and clothing. Plus pick up your annual Snow Park Pass! Public swap hours are Saturday Noon-5pm and Sunday 11-2pm. Free entry and free parking! Or get earlybird access for one hour on Saturday 11-Noon ($10 individual; $20 family). CONSIGN WITH US! Want top dollar for your good to great ski and snowboard gear, apparel, and accessories? Consignment dropoff is Thurs 4-7pm and Friday 3-5pm. You'll receive 67% of the selling price! Pickup and payouts are Sunday 4-5:30pm. All proceeds support the Eastside High Schools Ski Team with this season's racers representing Grant, Cleveland, Franklin, Benson, McDaniel, and Park Rose High Schools. See you at the Swap!",
-      "title": "SKI SWAP Fundraiser - Buy & Sell",
-      "venue": {
-        "address": "324 SE Grand Ave.",
-        "city": "Portland",
-        "latitude": 45.520268,
-        "longitude": -122.660565,
-        "name": "Andy & Bax Outdoor Surplus Store"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-11-22T14:00:00-08:00",
-      "id": "dopdx:18002707",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35166756/92ecf34f-9ec9-44c3-b284-1f998c4df836.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/drag-brunch-bar-cala-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 28.52,
-        "min": 28.52
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T11:00:00-08:00",
-      "summary": "DRAG BRUNCH BAR-CALA (Sunday NOVEMBER 22nd)",
-      "title": "Drag Brunch Bar Cala",
-      "venue": {
-        "address": "2703 NE Alberta Street",
-        "city": "Portland",
-        "latitude": 45.559201,
-        "longitude": -122.637697,
-        "name": "Bar Cala"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-11-22T13:30:00-08:00",
-      "id": "dopdx:18063816",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35420997/54cc964e-5696-4057-8f55-f64e2ce808b3.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/spellbound-brunch-and-crafts-witches-bells-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T11:30:00-08:00",
-      "summary": "What’s Included: All materials provided Guided instruction + creative freedom Use of tools and supplies A finished Witches Bell wreath to take home Magical correspondences will be shared (abundance, protection, joy, solar energy) A yummy magical brunch! Class Vibe: Cozy, witchy, and welcoming Beginner-friendly &amp; relaxing Slow, intentional crafting Great for solo witches or friends Feel free to dress up!! It takes approx. 60–90 minutes to create your craft. Included Brunch Menu: Chilequiles Buffet (standard &amp; vegan) Fruit salad Craft Cocktail and non-alcoholic beverages available for purchase. All ages! Rae Loft is located at 2222 NE Oregon Street, Suite 207 Portland, OR 97232 Proceeds from this event will benefit the Immigrant Legal Resource Center. Donations are gladly accepted at: https://www.ilrc.org/donate No outside food or beverage allowed. Only 21+ allowed in the bar area. We have games for kids in the other room, just in case they get bored! Sunday November 22 11:30 am - 1:30 pm",
-      "title": "Spellbound Brunch and Crafts: Witches Bells",
-      "venue": {
-        "address": "2222 NE Oregon St Suite 207, Portland, OR 97232",
-        "latitude": 45.528436,
-        "longitude": -122.64291,
-        "name": "Rae Loft At The Bakery Building"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-22T13:30:00-08:00",
-      "id": "dopdx:17979481",
-      "image_url": "https://cloudinary-assets.dostuffmedia.com/res/dostuff-media/image/upload/metro-bkg_1-19/1610385111.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/a-brunch-affair-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T12:30:00-08:00",
-      "summary": "GET TICKETS HERE!",
-      "title": "A Brunch Affair",
-      "venue": {
-        "address": "727 SE Grand Ave",
-        "city": "Portland",
-        "latitude": 45.517495,
-        "longitude": -122.660993,
-        "name": "Swan Dive"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "id": "dopdx:18082738",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35501444/f8def81b-afba-4fc6-81e5-b5e2244d7ba7.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/wildwood-click-for-showtimes-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T12:30:00-08:00",
-      "summary": "Showtimes: 12:30 PM, 4:00 PM, 7:00 PM After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel (Peyton Elizabeth Lee) launches a desperate rescue mission into the Impassable Wilderness—an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg (Jacob Tremblay), Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed. If she hopes to save her brother and protect Wildwood’s fragile future, she will have to risk everything. From Oscar®-nominated and BAFTA®-winning LAIKA, Wildwood is a sweeping adventure about love, sacrifice, and the magic that reveals itself when we dare to look beyond the familiar.",
-      "title": "Wildwood (Click for showtimes)",
-      "venue": {
-        "address": "7818 SE Stark St, Portland, OR 97215",
-        "name": "Academy Theater"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "id": "dopdx:18082751",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35501470/cfb492aa-4183-4b20-b805-611b8a7eb19e.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/godzilla-minus-zero-click-for-showtimes-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T12:45:00-08:00",
-      "summary": "Showtimes: 12:45 PM, 4:15 PM, 7:15 PM War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-      "title": "Godzilla Minus Zero (Click for showtimes)",
-      "venue": {
-        "address": "7818 SE Stark St, Portland, OR 97215",
-        "name": "Academy Theater"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17744124",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33960238/73e6d086-f4a4-43cc-aae6-ccc622a7cdc2.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/the-outsiders-click-for-showtimes-tickets",
-      "organizer": "Broadway in Portland Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 85.05,
-        "min": 85.05
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T13:00:00-08:00",
-      "summary": "Showtimes: 1:00 PM, 6:30 PM The winner of the 2024 Tony Award® for Best Musical is THE OUTSIDERS. Adapted from S.E. HINTON’s seminal novel and FRANCIS FORD COPPOLA’s iconic film, this thrilling new musical features a book by ADAM RAPP with JUSTIN LEVINE, music and lyrics by JAMESTOWN REVIVAL (Jonathan Clay &amp; Zach Chance) and JUSTIN LEVINE, music supervision, orchestration, and arrangements by JUSTIN LEVINE, choreography by RICK KUPERMAN &amp; JEFF KUPERMAN, and direction by Tony Award® winner DANYA TAYMOR. Entertainment Weekly says, \"It has the power to inspire an entire generation.\" In Tulsa, Oklahoma, 1967, Ponyboy Curtis, his best friend Johnny Cade and their Greaser family of ‘outsiders’ battle with their affluent rivals, the Socs. THE OUTSIDERS navigates the complexities of self-discovery as the Greasers dream about who they want to become in a world that may never accept them. With a dynamic original score, THE OUTSIDERS is a story of friendship, family, belongingand the realization that there is still “lots of good in the world.”",
-      "title": "The Outsiders - Click for showtimes",
-      "venue": {
-        "address": "222 SW Clay",
-        "city": "Portland",
-        "latitude": 45.5125091,
-        "longitude": -122.6782122,
-        "name": "Keller Auditorium"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17945612",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34908422/86931d01-09d6-4fc3-a3ff-bea6a448adaf.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/mission-theater-history-art-tour-west-end-entertainment-district-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 20.0,
-        "min": 20.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T13:00:00-08:00",
-      "summary": "Discover the rich history of Oregon's original theater pub on our Mission Theater History &amp; Art Tour! Hear all the dramatic details, from our Swedish Mission days to hosting Portland's longshoremen union during one of the largest dockworkers strikes in the country to the playhouse whose short-lived residency may or may not have had something to do with \"the Scottish Play,\" and beyond! Tour will take about 60-75 minutes; entrance is at the main doors of Mission Theater (1624 NW Glisan St, Portland, OR 97209). Doors open approximately 15 mins before the tour starts, and entry may not be guaranteed after 1pm. Please note: Tour may include stairs and standing for extended periods of time. Passport holders: This tour is eligible for the Mission Theater location stamp and an Attend a History Sponsored Event experience stamp. For private group tours, contact tours@mcmenamins.com",
-      "title": "Mission Theater History & Art Tour, West End Entertainment District",
-      "venue": {
-        "address": "1624 NW Glisan St",
-        "city": "Portland",
-        "latitude": 45.526193,
-        "longitude": -122.688148,
-        "name": "The Mission Theater"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "id": "dopdx:18013494",
@@ -963,65 +521,6 @@
     },
     {
       "categories": [
-        "film"
-      ],
-      "id": "dopdx:18102082",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35587538/52cdcb9a-d788-452e-85c7-4ee800d43737.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/forgotten-island-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T13:00:00-08:00",
-      "summary": "(109) Running time: 109 minutes While celebrating their last night together, Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali, packed with magical and mythological creatures they grew up hearing stories about from their Filipino families. Some of these figures will become friends, some foes. Joined by well-meaning-but- hapless weredog Raww (Dave Franco) and a small-but-mighty pack of pals, Jo and Raissa must face The Dreaded Manananggal (Tony winning icon Lea Salonga), the most feared creature on the island. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
-      "title": "Forgotten Island",
-      "venue": {
-        "address": "5736 NE 33rd Ave",
-        "city": "Portland",
-        "latitude": 45.5644833,
-        "longitude": -122.6302851,
-        "name": "Kennedy School"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-22T15:00:00-08:00",
-      "id": "dopdx:17729289",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33889550/426d4484-144b-48a5-bf7f-92440122cebb.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/clawhammer-banjo-workshop-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 33.85,
-        "min": 28.6
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T13:00:00-08:00",
-      "summary": "with Benny Bleu",
-      "title": "Clawhammer Banjo Workshop",
-      "venue": {
-        "address": "2007 SE Powell Blvd",
-        "city": "Portland",
-        "latitude": 45.499698,
-        "longitude": -122.645399,
-        "name": "Artichoke Music"
-      }
-    },
-    {
-      "categories": [
         "nightlife"
       ],
       "end_at": "2027-05-23T17:00:00-07:00",
@@ -1045,89 +544,6 @@
       "title": "Circle of Transformation Healing Breathwork",
       "venue": {
         "name": "Lajja Space"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17994924",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35130969/ae96ed12-8776-4f22-ab6e-0fc72133da74.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/where-did-our-tree-go-threshold-brewing-paint-and-sip-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 40.0,
-        "min": 40.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T13:00:00-08:00",
-      "summary": "Sofia will be guiding you on how to create this fun and very PNW painting of big foot dragging a Christmas tree!",
-      "title": "Where Did Our Tree Go? Threshold Brewing Paint and Sip",
-      "venue": {
-        "address": "403 SE 79th Ave",
-        "city": "Portland",
-        "latitude": 45.519491,
-        "longitude": -122.582771,
-        "name": "Threshold Brewing & Blending"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-11-22T19:00:00-08:00",
-      "id": "dopdx:18004060",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35171961/cf25f581-6a5c-4134-afaf-9d1adba2ea4e.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/club-kid-multiple-showtimes-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T13:00:00-08:00",
-      "summary": "A washed-up New York party promoter is forced to turn his life around when an unexpected visitor arrives.",
-      "title": "Club Kid (Multiple Showtimes)",
-      "venue": {
-        "address": "616 NW 21st Ave, Portland, Oregon 97209",
-        "latitude": 45.527345,
-        "longitude": -122.694307,
-        "name": "Cinema 21 Theater"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "id": "dopdx:18082697",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35501361/052a854c-c443-42b3-8336-6bbdb3e465a3.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/the-outfit-1973-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T13:00:00-08:00",
-      "summary": "Before he embarked on a roaring rampage of revenge with 1977's Rolling Thunder, director John Flynn made The Outfit, a hard-boiled thriller par excellence, based on a novel by Richard Stark (aka Donald E. Westlake), one of the greatest crime writers who ever lived. Earl Macklin (Robert Duvall) is a professional thief. Once upon a time, he and his brother Eddie robbed a bank together. Unfortunately, that bank was owned by criminal syndicate \"The Outfit\". Now, Eddie is dead, and it looks like Earl is next. But \"The Outfit\" hasn't counted on Earl's iron will. Released from a 27-month stretch in prison, Earl wants to get even and, with girlfriend Bett (Karen Black) and best friend Cody (Joe Don Baker), he begins a private war to avenge the death of his brother. The entire criminal underworld is about to learn an unforgettable lesson: never mess with Earl Macklin.",
-      "title": "The Outfit (1973)",
-      "venue": {
-        "address": "7818 SE Stark St, Portland, OR 97215",
-        "name": "Academy Theater"
       }
     },
     {
@@ -1165,352 +581,6 @@
     },
     {
       "categories": [
-        "film"
-      ],
-      "id": "dopdx:17980903",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35104631/5a96d33d-626e-4580-b344-235e052f54fa.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/rrr-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T13:30:00-08:00",
-      "summary": "Back on the big screen where it belongs for a one night only #encoRRRe, RRR is an exhilarating, action-packed spectacular mythologizing two real-life freedom fighters who helped lead India’s fight for independence from the British Raj, Komaram Bheem (N.T Rama Rao Jr., aka Jr NTR) and Alluri Sitarama Raju (Ram Charan). Set in the 1920s before their fight for India’s independence began, RRR imagines a fictional meeting between the two, set into motion when a young Gond girl is stolen from her village by British soldiers. With a powerful message, staggeringly choreographed action sequences, and an all-timer of a musical number, RRR is sheer big-screen joy from start to finish, and audiences have one last chance to see it big and loud as intended.Available: Assistive Listening Director: S.S. Rajamouli Run time: 187 mins Country: India Format: DCP Language: Telugu",
-      "title": "Rrr",
-      "venue": {
-        "address": "4122 NE Sandy Blvd.",
-        "city": "Portland",
-        "latitude": 45.53543990000001,
-        "longitude": -122.620608,
-        "name": "Hollywood Theatre"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17262344",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31677171/ec2a9233-b3cc-41ad-8da0-7bdf97019368.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/mahler-s-symphony-no-6-tickets",
-      "organizer": "Presented by Oregon Symphony",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 40.0,
-        "min": 40.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T14:00:00-08:00",
-      "summary": "David Danzmayr, Jean Vollum Music Director Oregon Symphony MAHLER Symphony No. 6 in A minor, “Tragic” An epic orchestral journey, Mahler’s Symphony No. 6 exemplifies his ambition to “embrace the whole.” Deathly foreboding marches give way to ecstatic outpourings of love for his wife Alma, together with a dark carnival of a “Scherzo” and a sunlit lyrical interlude evoking peaceful Alpine meadows. The symphony’s theatrical and dramatic finale culminates in titanic “hammer blows of fate” that are said to represent tragic milestones in Mahler’s life.",
-      "title": "Mahler’s Symphony No. 6",
-      "venue": {
-        "address": "1037 Southwest Broadway",
-        "city": "Portland",
-        "latitude": 45.5172295,
-        "longitude": -122.6814325,
-        "name": "Arlene Schnitzer Concert Hall"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-11-22T16:00:00-08:00",
-      "id": "dopdx:18035224",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35300425/1b0f211f-5292-48e1-a20d-e16c7a80fcb2.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/holiday-cookie-decorating-workshop-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 60.54,
-        "min": 60.54
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T14:00:00-08:00",
-      "summary": "Join us at the 3rd Annual Italia Holiday Artisan Fair for a festive, hands-on cookie decorating class led by the talented Olivia.",
-      "title": "Holiday Cookie Decorating Workshop! (",
-      "venue": {
-        "name": "Club Paesano"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-11-22T15:30:00-08:00",
-      "id": "dopdx:17861563",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34515819/4b6c1e63-833c-421c-867b-20325a3c1a82.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/lightscape-doug-aitken-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T14:00:00-08:00",
-      "summary": "Lightscape, An Immersive Non-Linear Film by Doug Aitken. 65min. Not Rated. Presented as part of PAM CUT’s PLUS PLUS Festival, Lightscape – a new film-based installation by artist Doug Aitken and produced with the LA Phil and LA Master Chorale – considers our landscape of diversity, creating a vulnerable and humanistic portrait that chronicles the search to find one’s individuality in a world of continuous transformation. Lightscape takes immersive cinema to an extreme, and moves like a fast-paced fever dream through the modern world. It follows multiple characters in an Altman-esque structure, taking us on a journey that explores a landscape in the midst of our rapidly changing world—from the deep ecology of Death Valley’s deserts and dramatic mountainscapes to futuristic robotics factories and environments reinterpreted through the digital realm. The audio in Lightscape features Gustavo Dudamel, one of the world’s premiere conductors, who conducts original music for the film with the LA Philharmonic of iconic minimalist composers and artists such as Philip Glass, Steve Reich, Meredith Monk and original scores by Beck &amp; LA LOM, and Doug Aitken. The diverse cast of Lightscape mirrors the landscapes its characters occupy. Natasha Lyonne is seen in a nocturnal high-rise in an existential sequence. Urban crump dancers move through automated factories, their bodies driving and twitching in response to their mechanized surroundings. A migrant worker speeds through the desert at escape velocity. Lightscape creates a vulnerable and humanistic portrait that chronicles the search to find one’s individuality in a world of continuous rapid transformation. We are thrust into seemingly disparate worlds, with each character on a different journey, but as the narrative progresses, the stories interconnect. Lightscape is a visual poem. Lightscape is for our times and about our times. Like a fragmented mirror, the film is immersive—we fall into it, and follow the different characters who converge to create a worldview: one of connectivity, struggle, hope, and exploring what our future may bring. We do not generally provide advisories about subject matter or potentially triggering content in films, and films exhibited don’t necessarily reflect the views of PAM CUT or the Portland Art Museum. In addition to the synopses, trailers, and other links on our website, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media, IMDb, and DoesTheDogDie.com.",
-      "title": "Lightscape (Doug Aitken)",
-      "venue": {
-        "address": "1219 SW Park Avenue",
-        "city": "Portland",
-        "latitude": 45.516223,
-        "longitude": -122.6835456,
-        "name": "Whitsell Auditorium"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17881416",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34608424/ca6ebaac-a748-4657-a9c8-51048a54033f.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/almost-phameous-friends-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 10.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T14:00:00-08:00",
-      "summary": "Almost PHAMEous, PHAME Academy’s resident comedy troupe, hosts this monthly improv comedy showcase featuring some of Portland’s finest talent. Each month, Almost PHAMEous kicks it off with their hilarious brand of fast-paced short form improv comedy a la “Whose Line is it Anyway”. Then they invite a carousel of creative cadres, including special guest improvisers, comics, and musicians, to close out the show. PHAME is a fine and performing arts academy serving adults with intellectual and developmental disabilities. Located in Portland, Oregon, and also operating online, their education and performance programs empower students to learn new skills, take artistic risks, and build lasting relationships with people who share their experience of having a disability.",
-      "title": "Almost PHAMEous & Friends",
-      "venue": {
-        "address": "535 NW 16th Ave",
-        "city": "Portland",
-        "latitude": 45.527019,
-        "longitude": -122.687513,
-        "name": "Portland Comedy Theater"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17890476",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34651675/a96c82cd-dc53-41d9-b309-0cb5044d22da.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/almost-phameous-friends-tickets-RM1mgAj",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 10.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T14:00:00-08:00",
-      "summary": "Almost PHAMEous, PHAME Academy’s resident comedy troupe, hosts this monthly improv comedy showcase featuring some of Portland’s finest talent. Each month, Almost PHAMEous kicks it off with their hilarious brand of fast-paced short form improv comedy a la “Whose Line is it Anyway”. Then they invite a carousel of creative cadres, including special guest improvisers, comics, and musicians, to close out the show. PHAME is a fine and performing arts academy serving adults with intellectual and developmental disabilities. Located in Portland, Oregon, and also operating online, their education and performance programs empower students to learn new skills, take artistic risks, and build lasting relationships with people who share their experience of having a disability.",
-      "title": "Almost PHAMEous & Friends",
-      "venue": {
-        "address": "535 NW 16th Ave",
-        "city": "Portland",
-        "latitude": 45.527019,
-        "longitude": -122.687513,
-        "name": "CSz Portland"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-11-22T16:00:00-08:00",
-      "id": "dopdx:17899567",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34693907/3e12217d-3a3c-4f5e-a6e1-012228e69823.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/troop-393-trap-shooting-fundraiser-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 33.85,
-        "min": 33.85
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T14:00:00-08:00",
-      "summary": "Join us for a blast at our Boy Scout Troop 393 Trap Shooting FUNdraiser. We will partner up and each group gets 30 birds together.",
-      "title": "Troop 393 Trap Shooting FUNdraiser",
-      "venue": {
-        "latitude": 45.677985,
-        "longitude": -122.558673,
-        "name": "11100 NE 76th St"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-11-22T16:30:00-08:00",
-      "id": "dopdx:18005576",
-      "image_url": "https://cloudinary-assets.dostuffmedia.com/res/dostuff-media/image/upload/metro-bkg_1-19/1610385111.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/die-hard-at-foster-theater-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T14:00:00-08:00",
-      "title": "Die Hard at Foster Theater",
-      "venue": {
-        "address": "2432 SE 11th Ave, Portland, Oregon 97214",
-        "city": "Portland",
-        "latitude": 45.505242,
-        "longitude": -122.654358,
-        "name": "Funhouse Lounge"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17890756",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34652924/86cc961e-9c1a-4d6b-9061-72366838e60e.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/march-forth-w-reginald-dwayne-betts-robe-imbriano-thomas-curtis-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T15:00:00-08:00",
-      "summary": "Run Time: 125 min. Doors 2:30 p.m.; Event 3 p.m.; Q&amp;A following the film. Select Showtime to Purchase Tickets Click here to learn more about accessibility at the Tomorrow Theater. Join us for a special screening of March Forth, a film about the poet, author, lawyer, activist, and 2021 MacArthur Fellow Reginald Dwayne Betts. Following the screening, there will be a moderated conversation with Reginald Dwayne Betts, Robe Imbriano (Director &amp; Executive Producer), and Thomas Curtis (Production Designer &amp; Animator). March Forth Is a Beautifully Told Odyssey of Reginald Dwayne Bettss Life After Prison. Black Girl Nerds March Forth (narrated by Oscar nominee Brian Tyree Henry) conveys how powerful literacy and connection are, and how critical it is for the men and women locked up to not feel like theyve been abandoned. Honeysuckle Magazine This screening is part of our Plus Plus Festival. Check out the full program here! The Partnership for Safety and Justice will also be on hand tabling prior and after the event. 2026. Directed by Robe Imbriano and Valerie Hong. Runtime: 1 hour 35 minutes. Reginald Dwayne Betts went to adult prison at 16 and survived to write about it. March Forth is an intimate exploration into the life and thoughts of this acclaimed poet, author, lawyer, activist, and MacArthur Genius Award winner. Betts served almost nine years for carjacking, and before becoming an adult bore witness to the cruelties of the American legal system. In prison he named himself, Shahid, meaning witness in Arabic. In solitary confinement, he became a poet. After his release on March 4th, 2005, Betts was determined to march forth into the world and leave prison behind. He began teaching, publishing multiple award-winning collections of poetry, a memoir, and even graduating from Yale Law School. As an attorney, hes secured the release of men he served time with. But instead of leaving prison behind, in 2020, he created Freedom Reads, a non-profit that places libraries he curates in prison cell blocks across America. The return has been complicated. Going back means remembering who is left behind and more painfully, those hes failed to get free. March Forth offers an intimate look into how he carries the two realities he moves through; one of immeasurable success and contribution and accolades and one of guilt and persistent doubt of his own self-worth. Through live performance, animation, poetry, and memoir excerpts narrated by Brian Tyree Henry, March Forth explores the lasting impact of serving time in adult prison as a teenager. Reginald Dwayne Betts received a BA (2009) from the University of Maryland, an MFA (2010) from Warren Wilson College, and a JD (2016) from Yale Law School. He is currently a PhD candidate in law at Yale Law School. Betts was appointed by President Barack Obama to the Coordinating Council of the Office of Juvenile Justice and Delinquency Prevention in 2012, and since 2018 he has served as a member of Connecticuts Criminal Justice Commission, which appoints state prosecutors. His additional publications include the poetry collections Bastards of the Reagan Era (2015) and Shahid Reads His Own Palm (2010) and the memoir Question of Freedom: A Memoir of Learning, Survival, and Coming of Age in Prison (2009). Robe Imbriano is an award-winning director and showrunner. His animated musical documentary about the injustice of cash bail, Criminal, animated by Thomas Curtis with music and lyrics by Stew Stewart and Heidi Rodewald and published by The New Yorker, won Best Animated Short at the UrbanWorld Film Festival. He was the showrunner of the Hulu series, Killing County, with Colin Kaepernick. Imbriano co-created and Executive Produced the Netflix documentary series Amend, starring Will Smith and featuring Mahershala Ali, Samuel L. Jackson, Sherrilyn Ifill, and Bryan Stevenson, to tell the story of the 14th Amendment and Americas struggle with equality. He was a showrunner of the launch of Soul of a Nation, the very first major broadcast network series about Black life in America, nominated for 11 Emmy Awards in its very first season. Imbriano has written and produced for everyone from Diane Sawyer and Peter Jennings to Bill Moyers and Oprah Winfrey, winning numerous honors along the way. He currently runs the Documentary Specialization at the Columbia Journalism School. Thomas Curtis won a Cinema Eye award for his work on Going to Mars: the Nikki Giovanni Project, seen on Max and shown at Sundance. He is a Motion Graphics artist and animator whose work ranges from the Annenberg Foundations Constitution Project films, Right to Offend: The Black Comedy Revolution for A&amp;E, CNNs New Orleans: Soul of a City , and Amend for Netflix. Recent projects include creating the design and animation for Criminal, a New Yorker Documentary about the harrowing conditions in the Harris County Jail.",
-      "title": "March Forth w/ Reginald Dwayne Betts, Robe Imbriano, Thomas Curtis",
-      "venue": {
-        "address": "3530 SE Division St, Portland, OR 97202",
-        "city": "Portland",
-        "latitude": 45.504654,
-        "longitude": -122.627685,
-        "name": "Tomorrow Theater"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17795713",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34203016/2404cb35-54a0-4799-a61a-8857e85367d8.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/curious-playground-family-show-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 5.0,
-        "min": 5.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T15:30:00-08:00",
-      "summary": "Curious Playground is an ALL-AGES interactive comedy show for all ages. IMAGINATION WELCOME! Curious Playground is a fun and exciting opportunity for audiences of all ages to see live comedy, AND get the chance to jump into the show! Every 4th Sunday IMMEDIATELY AFTER the \"Yes-And Family Workshop!\" So, whether you want to join in on the fun or just sit back and watch, Curious Playground is an amazing show for the whole family!!! Curious Playground happens on the 4th Sunday of every month. DETAILSThe Annex TheaterDoors at 3:15 pm. Show at 3:30 pm.Advanced Ticket $5.00Door Ticket $5.00",
-      "title": "Curious Playground Family Show",
-      "venue": {
-        "address": "5225 NE Martin Luther King Blvd",
-        "city": "Portland",
-        "latitude": 45.561001,
-        "longitude": -122.6617039,
-        "name": "Curious Comedy Theater"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "id": "dopdx:17941372",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34889537/160712f9-eaa6-4f82-aa5d-2031a124c80e.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/white-material-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T15:40:00-08:00",
-      "summary": "In the midst of a volatile regime change in a Francophone African state, Maria Vial is fighting to sustain her family’s coffee plantation. With rebels and the army struggling for control, French peacekeeping forces move out, warning the remaining white residents that they’re on their own. But Maria refuses to be driven off the land, even as tragedy looms.",
-      "title": "White Material",
-      "venue": {
-        "address": "2012 SE Hawthorne",
-        "city": "Portland",
-        "latitude": 45.511931,
-        "longitude": -122.644945,
-        "name": "Cinemagic Theater"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17786413",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34159199/1c4f2d46-fd1a-4639-bea2-330e822d8005.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/jamie-french-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T16:00:00-08:00",
-      "summary": "Jaime French, the dynamic American comedian &amp; YouTuber has left an indelible mark on the digital landscape with her unique blend of humor and creativity. Born in St. Louis, Missouri, in 1989, French’s passion for video creation ignited at a young age when she received a video camera for her 12th birthday. From that moment, she embarked on a journey of storytelling and self-expression through film. French’s success stems from her ability to evolve her content while maintaining a relatable and authentic presence. Her journey to comedic sketches reflects her determination to pursue her passion and connect with audiences worldwide. With each upload, Jaime French continues to captivate and entertain, leaving her viewers eagerly awaiting the next installment of her comedic brilliance. - 2 premium seats - $90 food &amp; beverage credit ($45 per person) - Gratuity - Ticket Protection Management reserves the right to prevent customers from entering the facility who they deem disruptive or dangerous to other patrons. Jaime French, the dynamic American comedian &amp; YouTuber has left an indelible mark on the digital landscape with her unique blend of humor and creativity. Born in St. Louis, Missouri, in 1989, French’s passion for video creation ignited at a young age when she received a video camera for her 12th birthday. From that moment, she embarked on a journey of storytelling and self-expression through film. French’s success stems from her ability to evolve her content while maintaining a relatable and authentic presence. Her journey to comedic sketches reflects her determination to pursue her passion and connect with audiences worldwide. With each upload, Jaime French continues to captivate and entertain, leaving her viewers eagerly awaiting the next installment of her comedic brilliance.",
-      "title": "Jamie French",
-      "venue": {
-        "address": "1510 SE 9th Ave",
-        "city": "Portland",
-        "latitude": 45.512012,
-        "longitude": -122.656421,
-        "name": "Helium Comedy Club"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-11-25T19:00:00-08:00",
@@ -1533,65 +603,6 @@
       "venue": {
         "address": "361 SW Madison Ave, Corvallis, Oregon 97333",
         "name": "Whiteside Theatre"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "dopdx:17775292",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34105885/03935ada-fa04-4841-97d1-f00cb260936c.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/tree-of-life-featuring-the-psu-chamber-rose-and-thorn-choirs-tickets",
-      "organizer": "Portland State Of Mind Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 50.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T16:00:00-08:00",
-      "summary": "In Buddhist thought, the Tree of Life is a symbol of awakening, wisdom, and the interconnectedness of all life. Its roots reach deep into the earth while its branches extend toward the sky, reminding us that each generation grows from those that came before and that our lives are shaped by the communities and traditions that sustain us. Opening the PSU Choirs' concert season, \"Tree of Life\" explores these themes through music that spans continents and centuries. Performed by the PSU Chamber Choir, Rose Choir and Thorn Choir, the program pairs cherished works from the Classical choral tradition with music by a new generation of Southeast Asian composers. At its center is Indonesian composer Bagus Utomo's Gayatri, inspired by the legendary queen whose wisdom and spiritual devotion remain an enduring part of Indonesian cultural heritage. The concert also features works by Budi Susanto Yohanes, Ily Matthew Maniano and Matthew Lyon Hazzard. Several of these pieces will be recorded later this year by the internationally acclaimed PSU Chamber Choir at Skywalker Sound, offering audiences an opportunity to hear this music before it is released. This concert will be performed twice: Friday, November 20 at 7:30 PM and November 22 at 4:00 PM. View the full 2026-2027 Choir Season, Tree of Life. Learn more about the Portland State University School of Music &amp; Theater Choirs.",
-      "title": "Tree of Life: Featuring the PSU Chamber, Rose and Thorn Choirs",
-      "venue": {
-        "address": "724 Southwest Harrison Street",
-        "city": "Portland",
-        "latitude": 45.5111227,
-        "longitude": -122.6845654,
-        "name": "Portland State University"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "id": "dopdx:18102097",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35587623/e2e9e55f-2e12-4a28-9d51-3e9151e0e2a8.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/heart-of-the-beast-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T16:00:00-08:00",
-      "summary": "(101) Running time: 101 minutes After a harrowing plane crash, Special Forces officer James Belmont (Brad Pitt) and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements. From acclaimed filmmaker David Ayer, Heart of the Beast is an intense adventure thriller that explores the unbreakable bond between a man and his best friend as they face their greatest battle yet.",
-      "title": "Heart of the Beast",
-      "venue": {
-        "address": "5736 NE 33rd Ave",
-        "city": "Portland",
-        "latitude": 45.5644833,
-        "longitude": -122.6302851,
-        "name": "Kennedy School"
       }
     },
     {
@@ -1651,13 +662,45 @@
       "categories": [
         "film"
       ],
-      "id": "dopdx:18082710",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35501388/8ddf3b68-b430-45de-9756-4ab54e53b922.jpg",
+      "id": "dopdx:18114993",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35644601/71a46fe5-0675-43c4-84e7-d0c42e38ae66.png",
       "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/chicken-run-2000-tickets",
+      "listing_url": "https://dopdx.com/events/2026/11/22/the-hunger-games-sunrise-on-the-reaping-tickets",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 9.0,
+        "min": 7.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-22T16:00:00-08:00",
+      "summary": "$9 Adults, $8 Seniors, $7 Youth | OMSI Members receive 50% off admission for this screening Member Empirical vouchers are not applicable. About the Film THE HUNGER GAMES: SUNRISE ON THE REAPING will revisit the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell. 2026 | PG-13 | 2h 38m | CC and AD Available | Accessible Entrance Available",
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "venue": {
+        "address": "1945 SE Water Ave.",
+        "city": "Portland",
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "dopdx:18115003",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35644731/8f5baaf0-f5a5-48b8-ba2d-84caade36890.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/22/laser-k-pop-demon-hunters-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 7.5,
+        "min": 7.5
       },
       "source": {
         "id": "dopdx",
@@ -1665,377 +708,29 @@
         "url": "https://dopdx.com"
       },
       "start_at": "2026-11-22T16:30:00-08:00",
-      "summary": "Featuring unforgettable characters, incredible animation and all-star voice talent, Chicken Run is an instant classic from the Academy Award®-winning creatures of Wallace &amp; Gromit! While the chickens on evil Mrs. Tweedy's farm dream of a better life, a clever hen named Gingers is hatching plans to fly the coop – for good! The only problem is chickens can't flyor can they? Every escape attempt goes fowl until Rocky, a smooth-talking All-American rooster, crash-lands into the coo. It's hardly poultry in motion when Rocky attempts to teach Ginger and her fine feathered friends to flybut, with teamwork, determination and a little bit o' cluck, the fearless flock plots one last daring attempt in a spectacular bid for freedom!",
-      "title": "Chicken Run (2000)",
+      "summary": "November | Daily Dive into the high-energy world of Laser K-Pop Demon Hunters, a laser show designed to thrill fans of all ages. Dazzling laser effects bring the pulse-pounding music of the hit movie K-Pop Demon Hunters to life in a spectacular, unforgettable experience. Please Note: Please arrive at the Planetarium at least 5 minutes prior to your showtime. No late entry. Duration: 30 minutes",
+      "title": "Laser K-Pop Demon Hunters",
       "venue": {
-        "address": "7818 SE Stark St, Portland, OR 97215",
-        "name": "Academy Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-22T19:00:00-08:00",
-      "id": "dopdx:18062292",
-      "image_url": "https://cloudinary-assets.dostuffmedia.com/res/dostuff-media/image/upload/metro-bkg_1-19/1610385111.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/lukas-gienapp-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 10.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T17:00:00-08:00",
-      "summary": "$10 COVER AT THE DOOR",
-      "title": "Lukas Gienapp",
-      "venue": {
-        "address": "1036 NE Alberta St",
+        "address": "1945 SE Water Ave.",
         "city": "Portland",
-        "latitude": 45.558931,
-        "longitude": -122.654833,
-        "name": "Alberta Street Pub"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-22T21:00:00-08:00",
-      "id": "dopdx:17697134",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33760336/48fce9c4-5c4d-480a-9332-6f914700309f.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/announcing-friday-august-7th-at-12p-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T17:00:00-08:00",
-      "summary": "Sunday, November 22nd, 2026",
-      "title": "Announcing Friday, August 7th at 12p!",
-      "venue": {
-        "name": "Trout Lake Hall"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-22T20:00:00-08:00",
-      "id": "dopdx:17434899",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32482595/05936193-4825-4403-bc76-05099cbb8f6f.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/kevin-selfe-s-blues-jam-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 6.0,
-        "min": 6.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T17:00:00-08:00",
-      "summary": "Kevin Selfe’s Blues Jam is a high-energy Sunday afternoon session kicking off at 5 PM, led by acclaimed guitarist and vocalist Kevin Selfe. Featuring a rotating lineup of top Portland musicians, the jam delivers spontaneous collaborations, extended grooves, and plenty of room for musical surprises. Band members: Kevin Selfe (guitar, harmonica, vocals), Jimi Bott (drums), Allen Markel (bass), and friends. Doors open at 4 PM for dinner &amp; drinks Music kicks off at 5 PM Here’s the quick rundown so everyone has a blast: No reservations needed — first come, first served. Grab a good spot early! There’s a $6 cover 21+ show",
-      "title": "Kevin Selfe’s Blues Jam",
-      "venue": {
-        "address": "2016 NE Sandy Portland, OR 97232",
-        "latitude": 45.525873,
-        "longitude": -122.645039,
-        "name": "The Blue Diamond"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17797582",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34210960/72cc8a16-23b5-4dce-9c80-35dedd7bde6a.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/byoteam-improv-jam-bring-your-team-students-performers-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T17:00:00-08:00",
-      "summary": "*** This event is for students &amp; performers to practice. All attendees are expected to participate in the jam. This is NOT a show for a general audience. Ticket is not required to participate. **** Bring Your Own Improv Team to jam on the Kickstand stage! All teams of all sizes and experience levels welcome. Teams will each get 10 minutes to do their thing (or more if time allows). Stage time is first come, first served, so show up, sign up, and play! Hosted by Step Daddies! Jams are free to attend for all, but we always welcome donations at the door to help support our programs. Jam performers are expected to abide by Kickstand's Community Accountability Policy and Non Harassment Policy.",
-      "title": "BYOTeam Improv Jam (bring your team - students & performers )",
-      "venue": {
-        "address": "1006 SE Hawthorne Blvd",
-        "city": "Portland",
-        "latitude": 45.512055,
-        "longitude": -122.655543,
-        "name": "Kickstand Comedy"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17881408",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34608382/4aadbcff-19e5-4a6a-a2fd-b2a4fbae55ec.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/trial-run-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 10.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T17:00:00-08:00",
-      "summary": "Watch improvisors put brand new formats to the test. Live!",
-      "title": "Trial Run",
-      "venue": {
-        "address": "535 NW 16th Ave",
-        "city": "Portland",
-        "latitude": 45.527019,
-        "longitude": -122.687513,
-        "name": "Portland Comedy Theater"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17890467",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34651648/076a4744-d3e7-46db-9050-ecdb7de9b4f8.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/trial-run-tickets-zMnbE6j",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 10.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T17:00:00-08:00",
-      "summary": "Watch improvisors put brand new formats to the test. Live!",
-      "title": "Trial Run",
-      "venue": {
-        "address": "535 NW 16th Ave",
-        "city": "Portland",
-        "latitude": 45.527019,
-        "longitude": -122.687513,
-        "name": "CSz Portland"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17795707",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34202973/de219fbc-2fd3-4134-81fe-c9a06895a4de.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/game-face-short-form-improv-jam-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 5.0,
-        "min": 5.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T17:30:00-08:00",
-      "summary": "A Short Form Improv Jam! Do you play along to Whose Line games in your living room and want to give it a go in person? Are you already in love with the art and want more time to play? Could you use a bright spot in your week and a good laugh? Come to Game Face!!! Game Face is a short form improv jam where anyone can try it out, jump in on the fun, or show up to simply laugh, support, and soak in the joy. Fast, fun, and super laid back. Come hang out! DETAILS: The Annex TheaterDoors at 5:00 pm. Show at 5:30 pm.Advanced Ticket $5.00Door Ticket: $5.00",
-      "title": "Game Face Short Form Improv Jam",
-      "venue": {
-        "address": "5225 NE Martin Luther King Blvd",
-        "city": "Portland",
-        "latitude": 45.561001,
-        "longitude": -122.6617039,
-        "name": "Curious Comedy Theater"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-11-22T19:30:00-08:00",
-      "id": "dopdx:17945495",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34907848/2f88f9b3-5b78-4214-9f89-6e4d2ce7f502.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/holiday-ceramic-paint-sip-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 44.52,
-        "min": 23.18
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T17:30:00-08:00",
-      "summary": "Portland Wine Bar x Rooted bring you creativity &amp; great wines. Featuring ornaments &amp; candleholders, perfect for the gift-giving season!",
-      "title": "Holiday Ceramic Paint & Sip",
-      "venue": {
-        "name": "Portland Wine Bar & Winery Tasting Room"
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
       }
     },
     {
       "categories": [
         "film"
       ],
-      "id": "dopdx:17980905",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35104642/26ca706c-4827-457c-9924-4729bbe5bbe3.jpg",
+      "id": "dopdx:18115060",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35644742/e621882a-61e0-4d64-88e7-93ec5663802c.png",
       "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/jfk-in-35mm-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T18:00:00-08:00",
-      "summary": "\"Back...and to the left.\" To commemorate the 63rd anniversary of the events of 11/22/63, the Portland Critics Association will present a 35mm screening of Oliver Stone's 1991 exploration of the mysteries and conspiracies that surround President John F. Kennedy's assassination to this day. Boasting a truly star-studded cast and Stone's provocative take was nominated for 7 Oscars, winning for editing and cinematography. Director: Oliver Stone Format: 35mm",
-      "title": "JFK in 35mm",
-      "venue": {
-        "address": "4122 NE Sandy Blvd.",
-        "city": "Portland",
-        "latitude": 45.53543990000001,
-        "longitude": -122.620608,
-        "name": "Hollywood Theatre"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:16596424",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/28462538/03305c3c-cc3f-429a-84eb-4bfce4a9d5b8.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/portland-based-dj-ambush-x-dj-klyph-bring-no-requests-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T18:00:00-08:00",
-      "summary": "Portland based DJ Ambush x DJ Klyph bring No Requests! to the White Eagle Saloon. Come through and feel the vibes. A night of Classics. Remixes. Straight Boom Bap. 90's Hip-Hop and Golden Era inspired. 2 DJ's. 4 Decks. No Requests! DJ Ambush In a time when DJ's come a dime a dozen, I was faced with the obstacle of separating myself from the pack. And through years of trial and error, I've come to find that the best way to do that is consistency. Stick to the script and give the people what they want. Consistency doesn't mean playing the same records each week. But it does mean giving a quality performance every time you pick up the headphones. Ambush!! DJ Klyph Always pushing the foundation, the definition of hip-hop. Peace. Love. Unity and Having Fun.",
-      "title": "Portland based DJ Ambush x DJ Klyph bring No Requests!",
-      "venue": {
-        "address": "836 N Russell St",
-        "city": "Portland",
-        "latitude": 45.54075599999999,
-        "longitude": -122.6754525,
-        "name": "White Eagle Saloon"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17941438",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34890010/268734bb-9c5c-4e8b-89c5-727c70a265af.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/irish-sundays-bob-soper-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T18:00:00-08:00",
-      "summary": "Lively Irish music for the whole family from the best and brightest musicians in the tradition!",
-      "title": "Irish Sundays, Bob Soper",
-      "venue": {
-        "address": "10000 N . W . Old Cornelius Pass Rd .",
-        "city": "Hillsboro",
-        "latitude": 45.59183729999999,
-        "longitude": -122.8729504,
-        "name": "Rock Creek Tavern"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17864063",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34528040/ae7a9441-36b2-44ed-84f4-bb489353865e.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/freak-mountain-ramblers-sunday-hh-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T18:00:00-08:00",
-      "summary": "Longtime Laurelthirst roots-rock rowdies host their Sunday “church” show! Continuing the tradition of local roots-rock rowdies like Jimmy Boyer, Turtle VanDemarr, Jeffery Frederick, and the Holy Modal Rounders, the Freak Mountain Ramblers keep the music of our people alive. Be having’ things on a Sunday! Usual suspects: Lex Browning (guitar, fiddle), David Reisch (bass) and Roger North (drums), with Tate Peterson and Pete Krebs (guitar, steel), plus occasional special guests!",
-      "title": "Freak Mountain Ramblers - SUNDAY HH",
-      "venue": {
-        "address": "2958 NE Glisan St",
-        "city": "Portland",
-        "latitude": 45.5262542,
-        "longitude": -122.634665,
-        "name": "Laurelthirst Public House"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:18023477",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35251080/0f679fe9-cf88-4e1c-91e0-1994f0357d6e.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/paint-nite-cascade-grill-at-jubitz-portland-tickets",
+      "listing_url": "https://dopdx.com/events/2026/11/22/laser-taylor-swift-tickets",
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 44.31,
-        "min": 44.31
+        "max": 7.5,
+        "min": 7.5
       },
       "source": {
         "id": "dopdx",
@@ -2043,10 +738,14 @@
         "url": "https://dopdx.com"
       },
       "start_at": "2026-11-22T18:00:00-08:00",
-      "summary": "PORTLAND paint night at Cascade Grill At Jubitz. Paint Joyful Tree Truck drink-in-hand, all supplies included, beginner-friendly. 21+.",
-      "title": "Paint Nite Cascade Grill At Jubitz PORTLAND",
+      "summary": "Kendall Planetarium Nov. + Dec. | Select weekends | 6 pm Taylor Swift is one of the biggest pop stars on the planet. With over 200 million records sold, a shelf full of Grammys, and an army of fans, Taylor Swift is an inspiration for generations. Laser Taylor Swift takes her biggest hits and brings them to life in dazzling laser light. Please Note: Please arrive at the Planetarium at least 5 minutes prior to your showtime. No late entry.",
+      "title": "Laser Taylor Swift",
       "venue": {
-        "name": "Cascade Grill At Jubitz"
+        "address": "1945 SE Water Ave.",
+        "city": "Portland",
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
       }
     },
     {
@@ -2082,90 +781,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-22T19:30:00-08:00",
-      "id": "dopdx:17985727",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35096106/da18e03d-36cf-48ef-b9b4-1f737991a413.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/candlelight-tribute-to-metallica-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T18:30:00-08:00",
-      "summary": "⭐ Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Portland. Get your tickets now to discover the music of Metallica at The Old Church Concert Hall under the gentle glow of candlelight. This is a tribute concert experience. It is not affiliated with, endorsed by, or sponsored by the artist, their estate, or offici",
-      "title": "Candlelight: Tribute to Metallica",
-      "venue": {
-        "address": "1422 SW 11th Ave",
-        "city": "Portland",
-        "latitude": 45.515067,
-        "longitude": -122.685714,
-        "name": "The Old Church Concert Hall"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17749558",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33986204/90160aa6-6b87-4c23-87b5-2f92fdda8ec4.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/can-can-s-twas-the-night-before-nutcracker-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T18:30:00-08:00",
-      "summary": "Presenting in Portland at Can Can's Paris Theatre ⭐ Can Can, the award-winning dance theatre company, presents Twas the Night Before Nutcracker for the grand reopening of the historic Paris Theatre! A holiday classic flipped upside down, this sparkling spectacle blends classic, modern, aerial, and burlesque performances with Can Can’s refined cabaret style. Description Step into a holiday where tradition is turned upside down and inside out. ’Twas the Night Before Nutcracker is a glittering, whimsical journey through Clara’s holiday eve. What begins with a lively soirée and an innocent absinthe toast unravels into a dreamscape of marching soldiers, mischievous mice, swirling snowflakes, and sugarplum visions dancing about. Set to Can Can’s original adaptation of the iconic Nutcracker score, the show features new original songs alongside beloved holiday classics, a festive script, magical choreography, and stunning visuals. The spectacle weaves together classic, modern, aerial, and burlesque performances with Can Can’s refined cabaret style. Sprinkle in the perfect amount of comedy, and a touch of theatrical spark, and you’ve got a show as enchanting as it is unexpected. With its blend of elegance, humor, high kicks, and holiday spirit, ‘Twas the Night Before Nutcracker is a new holiday tradition in the making. Location Can Can's Paris Theatre in Portland, Oregon Highlights Immerse in Parisian-inspired burlesque, daring dance, and sultry song Sip lavish libations and toast to a night of glamour Savor delectable delicacies in a rose-colored, opulent setting General Info Thursdays 6:30 | Fridays + Saturdays 6:30 + 9:30 | Sundays 6:30 ⭐ For more shows from Paris Theatre, click here Duration: approx. 2 hours Price: starting from $39, select your seats to see pricing for each section Location: Can Can's Paris Theatre Age requirement: 21+ with valid ID Accessibility: the venue is ADA compliant Please consult the FAQs of this experience here",
-      "title": "Can Can’s Twas the Night Before Nutcracker",
-      "venue": {
-        "address": "6 SW 3rd Ave",
-        "city": "Portland",
-        "latitude": 45.522869,
-        "longitude": -122.672928,
-        "name": "Can Can's Paris Theatre"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-11-22T20:00:00-08:00",
-      "id": "dopdx:18048227",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35354808/2d46d171-584c-4b61-b477-3018c9c8eb7c.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/11-22-sound-bath-ground-appreciate-create-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 37.05,
-        "min": 25.31
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T18:30:00-08:00",
-      "summary": "An immersive sound bath for relaxation and renewal, with time to reflect on gratitude, ground yourself, and set an intention for what’s next",
-      "title": "11/22 Sound Bath: Ground-Appreciate-Create.",
-      "venue": {
-        "name": "Awakenings Wellness Center"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "id": "ticketmaster:Z7r9jZ1A7-z-b",
@@ -2194,385 +809,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "id": "dopdx:17662491",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33572170/ba94e262-9b08-44d6-8356-31215cb72f58.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/psycroptic-with-inferi-cognitive-summoning-the-lich-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 27.27,
-        "min": 27.27
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:00:00-08:00",
-      "title": "PSYCROPTIC with Inferi, Cognitive, & Summoning The Lich",
-      "venue": {
-        "address": "13 NW Sixth Ave",
-        "city": "Portland",
-        "latitude": 45.523487,
-        "longitude": -122.676751,
-        "name": "Star Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:16762195",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29269339/407510d9-1684-46b4-8cf1-56e272c5bdc0.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/church-of-hive-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 7.23,
-        "min": 7.23
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:00:00-08:00",
-      "summary": "CHURCH OF HIVE gothic – industrial – darkwave – dance party",
-      "title": "Church Of Hive",
-      "venue": {
-        "address": "13 NW Sixth Ave",
-        "city": "Portland",
-        "latitude": 45.523487,
-        "longitude": -122.676751,
-        "name": "Star Theater"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "end_at": "2026-11-22T21:00:00-08:00",
-      "id": "dopdx:17940032",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34882555/86369468-c0de-4bf7-8d6a-b87cb5ea50e4.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/the-last-laugh-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 10.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:00:00-08:00",
-      "summary": "Sunday, November 22 @ 7:00 PM – 9:00 PM One of the crowning achievements of the German expressionist movement, Friedrich Wilhelm Murnau’s THE LAST LAUGH stars Emil Jannings stars as an aging doorman whose happiness crumbles when he is relieved of the duties and uniform which had for years been the foundation of his happiness and pride. Through Jannings’s colossal performance, THE LAST LAUGH becomes more than the plight of a single doorman, but a mournful dramatization of the frustration and anguish of the universal working class.",
-      "title": "The Last Laugh",
-      "venue": {
-        "address": "2522 SE Clinton St",
-        "city": "Portland",
-        "latitude": 45.503211,
-        "longitude": -122.639899,
-        "name": "Clinton St. Theater"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "id": "dopdx:17980906",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35104637/8208ef92-b35b-4195-a7d4-e643fe475b14.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/vive-le-punk-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:00:00-08:00",
-      "summary": "50 years after the British Punk explosion, this documentary follows four bands that are still active today (Sham 69, 999, Ruts DC and The Boys) and features interviews with Charlie Harper, Joe Corre, Dr. John Cooper Clarke, Gaye Advert and other Punk Rock luminaries in search for the meaning of Punk and the relevance of its message today. With rare archival footage, explosive live performances, and an unflinching look at the punk ethos in today’s world, this film is not just a retrospective—In a world that mirrors the one Punk once railed against, is the message still relevant—or has it been consumed by commercialism?. This film should appeal to every generation of rebels, misfits, and outsiders. Punk may have started as anarchy in the streets, but it’s far from finished. Vive le Punk! Format: Digital",
-      "title": "Vive Le Punk",
-      "venue": {
-        "address": "4122 NE Sandy Blvd.",
-        "city": "Portland",
-        "latitude": 45.53543990000001,
-        "longitude": -122.620608,
-        "name": "Hollywood Theatre"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:18034257",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35295565/39dab5cb-b731-483b-bc73-8ebfb3d85fb9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/sacrament-ep-release-w-wos-cherub-chains-mock-trial-and-thermal-vision-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 13.17,
-        "min": 13.17
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:00:00-08:00",
-      "summary": "Celebrate the release of Sacrament’s newest EP “Sonnets of Salvation” at the High Limit Room on November 22nd. Doors at 6:30, $10 presale of $13 at the door.",
-      "title": "Sacrament EP Release w/ WoS , Cherub Chains, Mock Trial and Thermal Vision",
-      "venue": {
-        "address": "720 SE Hawthorne Blvd, Portland, OR, 97214",
-        "city": "Portland",
-        "latitude": 45.512003,
-        "longitude": -122.658169,
-        "name": "The High Limit Room"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-22T23:00:00-08:00",
-      "id": "dopdx:18047716",
-      "image_url": "https://cloudinary-assets.dostuffmedia.com/res/dostuff-media/image/upload/metro-bkg_1-19/1610385111.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/our-house-feat-the-manahans-temporal-sound-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:00:00-08:00",
-      "summary": "GET TICKETS HERE! Our House at The Den Recurring Monthly House Music Nights at The Den 3rd Sundays of Every Month Will Feature: The Manahans &amp; Temporal Sound The Den 116 SE Yamhill St. Portland, OR 97217 https://www.thedenpdx.com ------------------------------------------------ We believe in CONSENT, RESPECT, &amp; EQUALITY! All of our events are a judgment-free, hate-free, &amp; a safe zone for ALL races and/or preferences! We have ZERO tolerance for any level of racism, sexism, homophobia, transphobia, misogyny, or any other form of hate/abuse. Anyone exhibiting these types of behaviors will be asked to leave, and not welcomed back. If you see something, say something - tell a staff member nearby and we'll be sure to act on it promptly. There are no refunds. All appeals for refund should be directed towards the Promoter, not the Venue. 112226 THE DEN 116 SE Yamhill Street 21+ w/ Valid ID",
-      "title": "Our House Feat. The Manahans & Temporal Sound",
-      "venue": {
-        "address": "116 SE Yamhill St. Portland, OR 97217",
-        "city": "Portland",
-        "latitude": 45.515709,
-        "longitude": -122.664536,
-        "name": "The Den"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-22T23:00:00-08:00",
-      "id": "dopdx:17968428",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35031149/4f93445f-1db1-4966-a52d-25f9cb485ca4.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/amy-bleu-tba-tba-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 10.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:00:00-08:00",
-      "summary": "$10 at the door Cash Only, 21+, 7PM Doors/8PM Music Amy Bleu https://amybleu.bandcamp.com/ https://www.amybleuarts.com/ https://www.instagram.com/amy.bleu/",
-      "title": "Amy Bleu TBA TBA",
-      "venue": {
-        "address": "1709 SE Hawthorne Blvd.",
-        "city": "Portland",
-        "latitude": 45.5124236,
-        "longitude": -122.6483752,
-        "name": "No Fun"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "id": "dopdx:18102104",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35587661/41dc4490-28dd-43a8-8f80-f620ef207b7b.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/primetime-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:00:00-08:00",
-      "summary": "(110) Running time: 110 minutes In 2006, To Catch a Predator host Chris Hansen sets out to make television history. Starring Robert Pattinson, Directed by Lance Oppenheim.",
-      "title": "Primetime",
-      "venue": {
-        "address": "5736 NE 33rd Ave",
-        "city": "Portland",
-        "latitude": 45.5644833,
-        "longitude": -122.6302851,
-        "name": "Kennedy School"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "end_at": "2026-11-22T20:45:00-08:00",
-      "id": "dopdx:18035216",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35300385/c0fa6632-a422-4899-bf67-9ce857ec7362.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/dream-journey-sound-bath-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 44.52,
-        "min": 44.52
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:00:00-08:00",
-      "summary": "A doorway to the magical self ~ candlelight, dream tea &amp; a sound journey for the heart",
-      "title": "Dream Journey Sound Bath",
-      "venue": {
-        "name": "Leva"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17795709",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34202983/f571ea68-d893-46a8-985a-48f8b545206d.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/the-gauntlet-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 20.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:30:00-08:00",
-      "summary": "Fifteen improvisers—only one champion. Fifteen improvisers enter, but only one will be crowned CHAMPION OF THE GAUNTLET. The Gauntlet is a survivor-style improv tournament. The audience decides, and players must compete for their affection while navigating out-of-the-box challenges and surprises. As the show goes on, players will fall and the challenges will only get more outrageous. As if Whose Line Is It Anyway and American Ninja Warrior had a hilarious love child—hold on to your seats, it's going to be a wild ride! DETAILS: The Annex Theater Doors at 7:00 pm. Show at 7:30 pm. Advanced Ticket $15.00 Door Ticket $20.00",
-      "title": "The Gauntlet",
-      "venue": {
-        "address": "5225 NE Martin Luther King Blvd",
-        "city": "Portland",
-        "latitude": 45.561001,
-        "longitude": -122.6617039,
-        "name": "Curious Comedy Theater"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "dopdx:17871225",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34561259/c0b20937-7d45-41f9-8f1c-09b2358f0804.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/making-spirits-bright-tickets",
-      "organizer": "Portland Sage Singers Presents:",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 50.0,
-        "min": 30.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:30:00-08:00",
-      "summary": "Portland Sage Singers are excited to light up your holiday season before the rush. With concerts at the end of November, we get to add Thanksgiving to the expected December holiday highlights. Gratitude will take center stage. This show has every ingredient needed to brighten your spirits. The 100+ member chorus will fill the stage with delight and palpable joy. It will be like putting on a well-worn robe with a brand-new pair of slippers. You’ll be warmed by familiar songs and wowed by the new ones. The chorus will be accompanied by the amazing Synergy String Quartet and our own Sage Ringers bell choir. As has become a calling card for Portland Sage Singers, the evening will be filled with surprises, humor, and some dancing. Help us turn the lights on for the entire holiday season.",
-      "title": "Making Spirits Bright",
-      "venue": {
-        "address": "12725 SW Millikan Way #240,",
-        "city": "Beaverton",
-        "latitude": 45.49008,
-        "longitude": -122.807815,
-        "name": "Patricia Reser Center for the Arts"
-      }
-    },
-    {
-      "categories": [
-        "film"
-      ],
-      "id": "dopdx:18082717",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35501402/cca5b639-5921-4910-a0d7-4f9aea22a478.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/heathers-1989-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:30:00-08:00",
-      "summary": "Westerburg High School’s elite clique of popular girls is “The Heathers,” comprised of the powerful Heather Chandler, the green-with-envy Heather Duke, and the cowardly Heather McNamara. Rounding out the foursome is Veronica Sawyer (Winona Ryder), who is so fed up with the Heathers and the entire peer pressure cooker that she starts running with J.D. (Christian Slater), a mysterious – and possibly psychotic – motorcycle-riding newcomer. But what begins as their noble effort to rid Westerburg of its bad apples ends up taking a real toll. And their teen rebellion produces a serious and mounting body count. Shannen Doherty co-stars in this cruelly hilarious dark comedy, which became one of the biggest cult classics of the ‘80s.",
-      "title": "Heathers (1989)",
-      "venue": {
-        "address": "7818 SE Stark St, Portland, OR 97215",
-        "name": "Academy Theater"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-11-22T21:30:00-08:00",
-      "id": "dopdx:18085476",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35511993/5dfa436a-9cdc-4702-b060-b541d65691b0.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/be-gay-do-crime-native-american-heritage-month-a-raucous-storytelling-event-tickets",
-      "organizer": "Fluid Comedy",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T19:30:00-08:00",
-      "summary": "Cited by The Portland Mercury as \"One of the funniest (and most educational!) comedy shows in town\": Comedy, queer history, and dangerously delightful shenanigans collide at BE GAY DO CRIME (Native American Heritage edition!) This month, we’re honored to host a special native-led show for Native American Heritage Month, featuring a cast of native comedians and storytellers as they share stories of Native American LGBTQ and Two Spirit icons of history. This month’s lineup includes: - Our host, Rabbit J , presenting on native drag queens - River Starr Canales presenting on the Legend of Korra - Tawna Sanchez on a mystery icon ! - And featuring the comedy of Ronnie Macaroni Please note as a history show that adult themes and content are often included, including themes of violence, racial discrimination, homophobia, sexual violence, sexual content, drug use, mature language, etc. We also have \"dishonorable guests\" whose comedy or artistic material could include similar themes as well. We recommend ages 14+ and parental discretion for those under age 18. Show begins at 7:30PM. Doors at 7:15PM. Tickets are GAYAF - give as you’re able, friend! Ticket sales will go towards compensating the hosts and performers. All additional tips collected during the show will go to the NAYA Two Spirit Program.",
-      "title": "Be Gay Do Crime: Native American Heritage Month - A Raucous Storytelling Event!",
-      "venue": {
-        "address": "4319 SE Hawthorne Blvd.",
-        "city": "Portland",
-        "latitude": 45.512311,
-        "longitude": -122.617856,
-        "name": "Fuse Back Door Theater"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "id": "ticketmaster:Z7r9jZ1AAvbog",
@@ -2597,246 +833,6 @@
         "latitude": 45.5303,
         "longitude": -122.684799,
         "name": "Portland Center Stage"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17927943",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34824458/caaee2a8-6a51-4dfd-8fc1-fd93e093da7d.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/sold-out-haley-heynderickx-tickets",
-      "organizer": "True West Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 45.93,
-        "min": 40.29
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T20:00:00-08:00",
-      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance. Posted ticket limits are strictly enforced. We reserve the right to cancel any or all orders and tickets if you exceed the posted limits, including orders associated with the same name, e-mail address, billing address, credit card number or other information. Following the release of her acclaimed debut I Need to Start a Garden and its long-awaited follow-up Seed of a Seed, Haley Heynderickx recently released What of Our Nature, a collaboration with Max García Conover. After a year of touring with Max and working on new material, she now returns to the road for a rare run of solo performances. One of contemporary folk’s most quietly captivating voices, Heynderickx writes with warmth, wit and self-reflection. Her songs find wonder in the everyday while exploring questions of identity, belonging and our relationship with the natural world. Tender, thoughtful and quietly spellbinding, these shows are an invitation to step into the unknown with her and leave a little room for what may come next. This Event is All Ages and General Admission. ALL SALES ARE FINAL. PLEASE, DOUBLE CHECK YOUR ORDER BEFORE PURCHASING. NO REFUNDS.",
-      "title": "SOLD OUT: Haley Heynderickx",
-      "venue": {
-        "address": "3017 SE Milwaukie Ave.",
-        "city": "Portland",
-        "latitude": 45.5008089,
-        "longitude": -122.654546,
-        "name": "Aladdin Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17853701",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34474963/9ef72824-61c8-4ba7-b7fd-9f3c75a26e27.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/haley-heynderickx-tickets",
-      "organizer": "True West Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 45.93,
-        "min": 45.93
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T20:00:00-08:00",
-      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance. Posted ticket limits are strictly enforced. We reserve the right to cancel any or all orders and tickets if you exceed the posted limits, including orders associated with the same name, e-mail address, billing address, credit card number or other information. Following the release of her acclaimed debut I Need to Start a Garden and its long-awaited follow-up Seed of a Seed, Haley Heynderickx recently released What of Our Nature, a collaboration with Max García Conover. After a year of touring with Max and working on new material, she now returns to the road for a rare run of solo performances. One of contemporary folk’s most quietly captivating voices, Heynderickx writes with warmth, wit and self-reflection. Her songs find wonder in the everyday while exploring questions of identity, belonging and our relationship with the natural world. Tender, thoughtful and quietly spellbinding, these shows are an invitation to step into the unknown with her and leave a little room for what may come next. This Event is All Ages and General Admission. ALL SALES ARE FINAL. PLEASE, DOUBLE CHECK YOUR ORDER BEFORE PURCHASING. NO REFUNDS.",
-      "title": "Haley Heynderickx",
-      "venue": {
-        "address": "3017 SE Milwaukie Ave.",
-        "city": "Portland",
-        "latitude": 45.5008089,
-        "longitude": -122.654546,
-        "name": "Aladdin Theater"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17854308",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34477406/0a4b0799-346e-41f9-a793-5d760a2d9ff5.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/1-umbrella-tickets",
-      "organizer": "Mammoth NW Presents:",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 35.49,
-        "min": 35.49
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T20:00:00-08:00",
-      "summary": "Sunday, November 22nd, 2026 8:00PM Hawthorne Theatre All Ages | Bar w/ valid photo ID No refunds or exchanges. All sales final. If you need any ADA accommodations, please reach out to gm@hawthornetheatre.com.",
-      "title": "1 Umbrella",
-      "venue": {
-        "address": "1507 Se 39th Avenue",
-        "city": "Portland",
-        "latitude": 45.511828,
-        "longitude": -122.6229056,
-        "name": "Hawthorne Theatre"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17834399",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34383986/0ab5c68a-abc7-432d-a0a7-535c6fe0d1ee.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/casual-eddie-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 15.92,
-        "min": 15.92
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T20:00:00-08:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "title": "Casual Eddie",
-      "venue": {
-        "address": "1195 SE Powell Dr",
-        "city": "Portland",
-        "latitude": 45.501053,
-        "longitude": -122.652815,
-        "name": "The Showdown"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17451719",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32570610/744c6d9f-b7ab-487d-9140-a3b14cb709c5.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/sunday-open-jam-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T20:00:00-08:00",
-      "summary": "Sunday Open Jam – Music, Games &amp; Good Vibes! JAM WITH US! Every Sunday from 8 PM - Midnight, the stage is yours! Whether you're a seasoned musician or just love to vibe, grab an instrument and join the magic. Beyond the Music – Challenge your friends to a game of ping pong, dive into some fun games, and soak in the best Sunday night energy in town! 21+ with valid ID – Come for the music, stay for the vibes! No cover, just good people, great tunes, and an unforgettable night. See you there! *************************************************************************************************************** Questions? Visit our Frequently Asked Questions page!",
-      "title": "Sunday Open Jam",
-      "venue": {
-        "address": "120 NW Couch",
-        "city": "Portland",
-        "latitude": 45.523588,
-        "longitude": -122.671791,
-        "name": "Barrel Room Portland"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17641763",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33475804/bd31bc79-a995-47cb-a700-53c5649dad55.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/mx-dahlia-belle-affirmed-a-live-comedy-taping-tickets",
-      "organizer": "Polaris Hall Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 13.62,
-        "min": 13.62
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T20:00:00-08:00",
-      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance. With \"Affirmed,\" the princess of Portland comedy, Mx. Dahlia Belle (Netflix, MSNBC, the Moth) delivers 60-minutes of stand-up that celebrates and affirms the awkward silliness of being human in the modern world. Through a combination of the wholesome and mundane, anecdotes about house cats, liscivious foibles of the LGBT community, and an unapologetic account of her personal journey with gender-affirming care, all delivered with her trademark free form wit, she renders the unfamiliar relatable and the relatable extraordinary (and extraordinarily funny). \"Affirmed\" is a love letter to the misfits, outcasts, weirdos, loners, and Mx. Belle's custom made vagina. Also featuring an opening set by Ally J Ward (Portland’s Funniest Person 2025). ALL SALES ARE FINAL. PLEASE, DOUBLE CHECK YOUR ORDER BEFORE PURCHASING. NO REFUNDS. THIS EVENT IS GENERAL ADMISSION AND FULLY SEATED. 21 &amp; OVER VALID US OR CANADA ID REQUIRED FOR ENTRY. GUESTS TRAVELING FROM OUTSIDE US/CA MUST PRESENT A VALID PASSPORT.",
-      "title": "Mx. Dahlia Belle: Affirmed (A Live Comedy Taping)",
-      "venue": {
-        "address": "635 North Killingsworth Court",
-        "city": "Portland",
-        "latitude": 45.562111,
-        "longitude": -122.673758,
-        "name": "Polaris Hall"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17697100",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33733250/5f591c8b-1a7c-4e01-9536-1d1a87a53427.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/eric-skye-trio-plays-miles-davis-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 32.36,
-        "min": 32.36
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T20:00:00-08:00",
-      "summary": "Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance. Posted ticket limits are strictly enforced. We reserve the right to cancel any or all orders and tickets if you exceed the posted limits, including orders associated with the same name, e-mail address, billing address, credit card number or other information. What happens when mid-century urban cool meets the organic sustain of a steel-string acoustic? Join us for an evening of late-1950s Miles Davis tunes re-envisioned for acoustic guitar, upright bass, and drums. Stripped-back, atmospheric, and deeply dynamic. Pacific Northwest acoustic guitarist Eric Skye occupies a unique niche between jazz and folk. He has always had a bit of a connection to the music of Miles Davis, particularly the seminal modal jazz album, Kind Of Blue and that era. In fact, in 2012 he released his acclaimed album, “A Different Kind Of Blue,” which was a solo acoustic guitar album reimagining of “Kind Of Blue, recorded all in one sitting with improvisational approach as opposed to planned arrangements. Eric Has released nine albums in total. Including other solo acoustic jazz/blues records like 2018’s Ballads and Blues, 2004’s For Lulu, Acoustic Jazz Guitar Solos from 2000.. Or the contemporary improvisational duo album, Artifact, from 2015 with longtime Jackson Browne guitarist, Mark Goldenberg. There’s also several albums of adventuresome improvisation takes on American old-time fiddle tunes with mandolin virtuoso Tim Connell (June Apple 2015) and guitarist Jamie Stillway (Home On The Midrange in 2021, and Over The Waterfall in 2023). It’s a wide-ranging body of work, all threaded together with a minimalist’s aesthetic, a passion for in-the-moment music making, and a love of pure acoustic tone. “Tone, taste, and technique” -JAZZIZ magazine GENERAL ADMISSION AND FULLY SEATED. THIS EVENT IS 21 AND OVER. NO MINORS. VALID US OR CANADA ID REQUIRED FOR ENTRY. GUESTS TRAVELING FROM OUTSIDE US/CA MUST PRESENT A VALID PASSPORT. ALL SALES ARE FINAL. PLEASE, DOUBLE CHECK YOUR ORDER BEFORE PURCHASING. NO REFUNDS.",
-      "title": "ERIC SKYE TRIO Plays Miles Davis",
-      "venue": {
-        "address": "1300 SE Stark St #101",
-        "city": "Portland",
-        "latitude": 45.519052,
-        "longitude": -122.652143,
-        "name": "Show Bar"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17777877",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34118507/113fa42c-c8c9-486f-9902-d5e501f85d9a.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/atomic-rule-feat-andy-williams-formerly-of-etid-guest-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T20:00:00-08:00",
-      "summary": "Time: 8:00pm Day: Sunday Doors: 7:30pm Ages: 21+ Ages",
-      "title": "Atomic Rule (Feat Andy Williams Formerly of Etid) & Guest",
-      "venue": {
-        "address": "832 SE Grand Ave",
-        "city": "Portland",
-        "latitude": 45.516667,
-        "longitude": -122.660499,
-        "name": "Twilight Cafe And Bar"
       }
     },
     {
@@ -2872,151 +868,32 @@
     },
     {
       "categories": [
-        "music"
+        "family"
       ],
-      "id": "dopdx:17984988",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35093096/c4c7c49c-bed9-4e47-9ce4-0a301e3766ff.jpg",
+      "id": "dopdx:18114921",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35644382/aff7778b-6a55-469e-9147-a31f51cee2a7.png",
       "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/hungry-hungry-hip-hop-tickets",
-      "organizer": "The Atlantis Lounge",
+      "listing_url": "https://dopdx.com/events/2026/11/22/universal-theme-parks-the-exhibition-tickets",
       "price": {
         "currency": "USD",
         "is_free": false,
-        "max": 11.5,
-        "min": 11.5
+        "max": 26.5,
+        "min": 17.5
       },
       "source": {
         "id": "dopdx",
         "name": "DoPDX",
         "url": "https://dopdx.com"
       },
-      "start_at": "2026-11-22T20:30:00-08:00",
-      "summary": "Hungry Hungry Hip Hop started in 2011 and is held every month.The event is a showcase for local hip hop performers and includes a wide range of artists.",
-      "title": "Hungry Hungry Hip Hop",
+      "start_at": "2026-11-22T21:30:00-08:00",
+      "summary": "Universal Theme Parks: The Exhibition | November 21, 2026 to April 18, 2027 Go behind-the-scenes and explore how thrills come to life in Universal’s iconic attractions and innovative world of theme parks, including Jaws, Jurassic World, Illumination’s Minions, The Secret Life of Pets and Sing, DreamWorks Animation’s How to Train Your Dragon, Universal Monsters, SUPER NINTENDO WORLD™, and more. Explore eight galleries, 20 interactive experiences, and more than 100 original artifacts, including authentic costumes, cinematic props, and early concept models. But this isn’t just something to see – it’s something to do. Please note: Timed entrance allows guests to join the exhibit queue at their selected time. Please allow time for both queuing and the exhibit experience. Last entry to the exhibit will be one hour before closing time. Discounted admission of $4 per person for OMSI Members. Children 2 and under visit for free. Member discounts are applied at checkout.",
+      "title": "Universal Theme Parks: The Exhibition",
       "venue": {
-        "address": "3552 N Mississippi Ave",
+        "address": "1945 SE Water Ave.",
         "city": "Portland",
-        "latitude": 45.548622,
-        "longitude": -122.675283,
-        "name": "Atlantis Lounge"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-11-22T21:45:00-08:00",
-      "id": "dopdx:17985728",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35096107/3ebad053-c9ca-44de-8ef5-0fdefcf94ae6.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/candlelight-the-best-of-joe-hisaishi-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T20:45:00-08:00",
-      "summary": "⭐ Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Portland. Get your tickets now to discover the music of Joe Hisaishi at The Old Church Concert Hall under the gentle glow of candlelight. General Info Venue: The Old Church Concert Hall Dates and times: select your dates/times directly in the ticket selector",
-      "title": "Candlelight: The Best of Joe Hisaishi",
-      "venue": {
-        "address": "1422 SW 11th Ave",
-        "city": "Portland",
-        "latitude": 45.515067,
-        "longitude": -122.685714,
-        "name": "The Old Church Concert Hall"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17834745",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34386175/80ea3f01-1d24-43b9-bed2-319a855179db.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/jack-bensinger-tickets",
-      "organizer": "Mississippi Studios Presents",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 26.2,
-        "min": 26.2
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T21:00:00-08:00",
-      "summary": "The Jack Bensinger show scheduled for August 15th, 2026 at Mississippi Studios has been rescheduled to November 22nd, 2026 at Mississippi Studios. Original tickets will be honored at the rescheduled show. Please note, when selecting the Print at Home or Mobile Delivery method, you will not have access to view tickets until 14 days prior to the performance. ALL SALES ARE FINAL. PLEASE, DOUBLE CHECK YOUR ORDER BEFORE PURCHASING. NO REFUNDS. GENERAL ADMISSION &amp; FULLY SEATED THIS EVENT IS 21+ VALID US OR CANADA ID REQUIRED FOR ENTRY. GUESTS TRAVELING FROM OUTSIDE US/CA MUST PRESENT A VALID PASSPORT.",
-      "title": "Jack Bensinger",
-      "venue": {
-        "address": "3939 North Mississippi Ave",
-        "city": "Portland",
-        "latitude": 45.55144019999999,
-        "longitude": -122.675836,
-        "name": "Mississippi Studios"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:16756464",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29242719/8ce4b598-3e5e-4b2e-9c08-271355b668e7.png",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/genesis-w-dj-dark-duchess-dj-novatron-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T21:00:00-08:00",
-      "summary": "GENESIS: Dark dance music from the past 10 years DJ NOVATRON + DJ DARK DUCHESS A night of exclusively new dark music. Come dance to current artists and the best new releases from up and coming bands, curated by DJ Dark Duchess and DJ Novatron. Goth, darkwave, coldwave, post-punk, EBM, aggrotech, futurepop. Nothing older than 10 years, guaranteed! NO COVER! 9- 1am",
-      "title": "GENESIS w/ DJ Dark Duchess, DJ Novatron",
-      "venue": {
-        "address": "421 SE Grand Ave",
-        "city": "Portland",
-        "latitude": 45.519954,
-        "longitude": -122.660939,
-        "name": "The Coffin Club"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "dopdx:17864064",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34528041/57183be9-66d7-49f1-a5af-6256e4296680.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/11/22/open-mic-hosted-by-johnny-franco-sunday-night-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-11-22T21:00:00-08:00",
-      "summary": "Super supportive weekly open mic hosted by Johnny Franco! Check out the FB group, song prompts weekly for those wanting to create something unique to share! https://www.facebook.com/groups/1485179981776371 (2958 NE Glisan St, Portland, OR 97232) Sign-up at 8 pm Music from 9 – 11:30 pm Keep Hoping Machine Running",
-      "title": "OPEN MIC hosted by JOHNNY FRANCO - SUNDAY NIGHT",
-      "venue": {
-        "address": "2958 NE Glisan St",
-        "city": "Portland",
-        "latitude": 45.5262542,
-        "longitude": -122.634665,
-        "name": "Laurelthirst Public House"
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
       }
     },
     {
@@ -3027,11 +904,6 @@
       "image_url": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
       "listing_url": "https://www.ticketweb.com/event/sinferno-cabaret-dantes-tickets/14230834",
-      "merged_sources": [
-        "dopdx",
-        "ticketmaster"
-      ],
-      "organizer": "Dante's Presents",
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -21599,6 +19471,36 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "id": "dopdx:18115065",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35644757/aa1427ec-838f-4a03-a812-a11ac9fe6ce8.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/27/laser-pink-floyd-the-wall-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 7.5,
+        "min": 7.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-27T19:00:00-08:00",
+      "summary": "November | Select weekends | 7 pm Pink Floyd’s classic 1979 epic about personal struggle weaves its story in one of the most popular laser shows ever produced. Please Note:This show may contain adult language. Please arrive at the Planetarium at least 5 minutes prior to your showtime. No late entry. Duration: 55 minutes",
+      "title": "Laser Pink Floyd: The Wall",
+      "venue": {
+        "address": "1945 SE Water Ave.",
+        "city": "Portland",
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "id": "ticketmaster:Z7r9jZ1AAZb8S",
@@ -24398,6 +22300,37 @@
     },
     {
       "categories": [
+        "family"
+      ],
+      "end_at": "2026-11-28T10:00:00-08:00",
+      "id": "dopdx:18115087",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35644868/7ac79509-cb49-4f2c-9174-a97cd56d8c77.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/28/curiosity-kids-design-and-discover-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 30.5,
+        "min": 20.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-28T09:00:00-08:00",
+      "summary": "Design and Discover Para la descripción en español, por favor desplaza hacia abajo. English About the Workshop Design and Discover Engineers are problem solvers! Curious Kids in this class will work with their families to build, test, design, and improve across a variety of playful hands-on challenges. About Curiosity Kids At OMSI, we love experimenting, learning, and creating together! Curiosity Kids programs at OMSI allow children ages 3-5 years old, along with their families, to explore early science and engineering concepts. These bilingual programs are designed to build STEAM skills and nurture the special connection between adults and children. We hope you and your curious kids will join our stellar educators to experiment, ask questions, and build amazing structures! Practice your new skills right after your workshop—your ticket includes same-day general Museum Admission! Questions? For the basic details and FAQs about this event, please visit the Curiosity Kids webpage or email info@omsi.edu . Chiquitines curiosos: Diseña y descubre En español Descripción del programa Diseña y descubre ¡Los ingenieros son solucionadores de problemas! En esta clase, los niños curiosos trabajarán con sus familias para construir, probar, diseñar y mejorar sus diseños a través de una variedad de desafíos prácticos y divertidos. Sobre Chiquitines curiosos ¡En OMSI, nos encanta experimentar, aprender y crear juntos! Chiquitines curiosos es una serie de programas en OMSI que permiten que niños(as) de 3 a 5 años, y sus familias, exploren conceptos básicos de ciencia e ingeniería. Estos programas bilingües están diseñados para desarrollar sus habilidades STEAM y fortalecer el vínculo especial entre adultos y niños(as). ¡Esperamos que tú y tus pequeños curiosos se unan a nuestros excelentes educadores para experimentar, hacer preguntas y construir estructuras increíbles! ¡Practica tus nuevas habilidades después de terminar la clase, ya que tu boleto incluye la admisión general al museo para el mismo día! ¿Tiene preguntas? Para obtener más información sobre este evento, así como respuestas a preguntas frecuentes, visita el sitio web de Chiquitines curiosos o manda un correo electrónico a info@omsi.edu .",
+      "title": "Curiosity Kids: Design and Discover",
+      "venue": {
+        "address": "1945 SE Water Ave.",
+        "city": "Portland",
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
+      }
+    },
+    {
+      "categories": [
         "market",
         "food"
       ],
@@ -24826,6 +22759,33 @@
         "latitude": 45.319767,
         "longitude": -122.946365,
         "name": "The Allison Inn and Spa"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-12-24T12:00:00-08:00",
+      "id": "dopdx:18114981",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35644538/fb43d40f-82a9-497e-ac5d-447f9832147b.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/11/28/christmas-trees-santa-holiday-market-at-topaz-farm-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-11-28T10:00:00-08:00",
+      "summary": "Celebrate the holidays on Sauvie Island! Topaz Farm's Christmas Trees &amp; Holiday Market is back for a second year, with locally grown Christmas trees, fresh wreaths, holiday shopping, and plenty of festive fun. Pick out a beautiful Noble or Douglas fir, roast s'mores around the fire pits, visit the farm animals, and browse locally made gifts, decorations, and stocking stuffers. Warm up with hot cocoa, enjoy festive adult beverages, and grab seasonal farm food and treats. Santa visits Saturdays and Sundays, November 28 through December 13, from 10:30 AM to 12:30 PM. Bring your camera for photos, and let the kids write letters to Santa and drop them in the farm's North Pole mailbox. No admission fees or tickets required! HOLIDAY MARKET DATES &amp; HOURS November 25: 2–4 PM November 26 (Thanksgiving): 10 AM–noon November 27–29: 10 AM–4 PM December 5–6: 10 AM–4 PM December 12–13: 10 AM–4 PM December 24: 10 AM–12 PM",
+      "title": "Christmas Trees, Santa & Holiday Market at Topaz Farm",
+      "venue": {
+        "address": "17100 NW Sauvie Island Rd",
+        "city": "Portland",
+        "name": "Topaz Farm"
       }
     },
     {
@@ -41959,6 +39919,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-12-01T20:00:00-08:00",
+      "id": "dopdx:18058742",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35397635/0bb0696e-1be2-48b0-9a8f-2e70619af251.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/1/educator-open-house-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-01T17:30:00-08:00",
+      "summary": "Tuesday, December 1 | 5:30-8 pm Discover OMSI resources for your classroom and beyond Welcome educators! This exclusive educator-only event includes admission to OMSI’s new temporary featured exhibit, Universal Theme Parks: The Exhibition, and the permanent exhibits in the Turbine Hall, and The Nancy Stueber natural Sciences Hall. Educators will also have special access to our portable planetarium dome and the newest documentaries in the Empirical Theater. OMSI educators will be available to talk about programming options. Program registration staff will be available to reserve limited program dates.",
+      "title": "Educator Open House",
+      "venue": {
+        "address": "1945 SE Water Ave.",
+        "city": "Portland",
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
+      }
+    },
+    {
+      "categories": [
         "film"
       ],
       "end_at": "2026-12-01T20:00:00-08:00",
@@ -42183,6 +40172,37 @@
       "venue": {
         "address": "placeholder for on-line events",
         "name": "Online"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-12-01T21:00:00-08:00",
+      "id": "dopdx:17936456",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34866752/0fcbe0f4-e3d0-4008-9133-87c9dcb9d9aa.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/1/science-pub-portland-harbor-at-mcmenamins-mission-theater-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 8.0,
+        "min": 8.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-01T18:00:00-08:00",
+      "summary": "Dec 1 | 7-9 pm | Doors at 6 The River Remembers: Community, Science, and the Future of Portland Harbor with Cassie Cohen, Executive Director, Portland Harbor Community Coalition and Ja’Marian Malley, Campaign Manager, Portland Harbor Community Coalition About the Lecture Portland’s working river carries many stories — of industry, contamination, community, survival, restoration, and responsibility. The Portland Harbor Superfund cleanup is not only a technical process; it is also a public health, environmental justice, and accountability issue that will shape the future of the Willamette River for generations. In this talk, Portland Harbor Community Coalition will help audiences understand what is at stake in the cleanup, how decisions about contaminated sediment, restoration, disposal, access, and habitat affect people and place, and why community and Tribal voices must be centered in decisions about the river’s future. Through images, stories, and practical examples, this presentation will invite people to ask: Who speaks for the river — and how do we listen? Science Pubs are a casual lecture series located in fun venues across the region, recommended for ages 10 and over. Tickets $8 suggested donation | Advance tickets recommended Zoom Option If you are unable to join us in person, you can watch on Zoom. You must register in advance. After registering, you will receive a confirmation email containing information about joining the meeting. About the Speakers Cassie Cohen serves as Executive Director of Portland Harbor Community Coalition, a community-based organization working to advance environmental justice, public health, community education, and accountability in the Portland Harbor Superfund cleanup. Through PHCC, Cassie works alongside community members, advocates, technical experts, public agencies, and partners to ensure that cleanup decisions are understandable, transparent, and responsive to the people and places most impacted by pollution along the Willamette River.",
+      "title": "Science Pub: Portland Harbor at McMenamins Mission Theater",
+      "venue": {
+        "address": "1945 SE Water Ave.",
+        "city": "Portland",
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
       }
     },
     {
@@ -42714,37 +40734,6 @@
         "latitude": 45.526193,
         "longitude": -122.688148,
         "name": "The Mission Theater"
-      }
-    },
-    {
-      "categories": [
-        "family"
-      ],
-      "end_at": "2026-12-01T21:00:00-08:00",
-      "id": "dopdx:17936456",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34866752/0fcbe0f4-e3d0-4008-9133-87c9dcb9d9aa.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/12/1/science-pub-portland-harbor-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 8.0,
-        "min": 8.0
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-12-01T19:00:00-08:00",
-      "summary": "Dec 1 | 7-9 pm | Doors at 6 The River Remembers: Community, Science, and the Future of Portland Harbor with Cassie Cohen, Executive Director, Portland Harbor Community Coalition and Ja’Marian Malley, Campaign Manager, Portland Harbor Community Coalition About the Lecture Portland’s working river carries many stories — of industry, contamination, community, survival, restoration, and responsibility. The Portland Harbor Superfund cleanup is not only a technical process; it is also a public health, environmental justice, and accountability issue that will shape the future of the Willamette River for generations. In this talk, Portland Harbor Community Coalition will help audiences understand what is at stake in the cleanup, how decisions about contaminated sediment, restoration, disposal, access, and habitat affect people and place, and why community and Tribal voices must be centered in decisions about the river’s future. Through images, stories, and practical examples, this presentation will invite people to ask: Who speaks for the river — and how do we listen? Science Pubs are a casual lecture series located in fun venues across the region, recommended for ages 10 and over. Tickets $8 suggested donation | Advance tickets recommended Zoom Option If you are unable to join us in person, you can watch on Zoom. You must register in advance. After registering, you will receive a confirmation email containing information about joining the meeting. About the Speakers Cassie Cohen serves as Executive Director of Portland Harbor Community Coalition, a community-based organization working to advance environmental justice, public health, community education, and accountability in the Portland Harbor Superfund cleanup. Through PHCC, Cassie works alongside community members, advocates, technical experts, public agencies, and partners to ensure that cleanup decisions are understandable, transparent, and responsive to the people and places most impacted by pollution along the Willamette River.",
-      "title": "Science Pub: Portland Harbor",
-      "venue": {
-        "address": "1945 SE Water Ave.",
-        "city": "Portland",
-        "latitude": 45.508613,
-        "longitude": -122.666308,
-        "name": "Oregon Museum of Science & Industry (OMSI)"
       }
     },
     {
@@ -46191,7 +44180,7 @@
     },
     {
       "categories": [
-        "family"
+        "nightlife"
       ],
       "end_at": "2026-12-02T22:00:00-08:00",
       "id": "dopdx:17927340",
@@ -46200,7 +44189,9 @@
       "listing_url": "https://dopdx.com/events/2026/12/2/omsi-after-dark-chill-out-tickets",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 30.0,
+        "min": 30.0
       },
       "source": {
         "id": "dopdx",
@@ -57697,6 +55688,36 @@
         "latitude": 45.499698,
         "longitude": -122.645399,
         "name": "Artichoke Music"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "dopdx:18115066",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35644759/ea752937-b9d4-4bd7-955d-8cef6a35f9db.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/4/laser-pink-floyd-dark-side-of-the-moon-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 7.5,
+        "min": 7.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-04T19:00:00-08:00",
+      "summary": "December | Select weekends | 7 pm Featuring the complete soundtrack to one of rock’s most powerful albums, Laser Dark Side of the Moon reaches into Pink Floyd’s 1973 masterpiece to create a mind-bending light and sound landscape. Please Note: Please arrive at the Planetarium at least 5 minutes prior to your showtime. No late entry. This show may contain adult language. Duration: 45 minutes",
+      "title": "Laser Pink Floyd: Dark Side of the Moon",
+      "venue": {
+        "address": "1945 SE Water Ave.",
+        "city": "Portland",
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
       }
     },
     {
@@ -70027,6 +68048,10 @@
       "start_at": "2026-12-05T22:00:00-08:00",
       "title": "DomProv",
       "venue": {
+        "address": "2432 SE 11th Ave, Portland, Oregon 97214",
+        "city": "Portland",
+        "latitude": 45.505242,
+        "longitude": -122.654358,
         "name": "Funhouse Lounge"
       }
     },
@@ -70041,7 +68066,9 @@
       "listing_url": "https://dopdx.com/events/2026/12/5/sleaze-pleaze-saturdayz-music-video-dance-party-tickets",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
       },
       "source": {
         "id": "dopdx",
@@ -70049,8 +68076,13 @@
         "url": "https://dopdx.com"
       },
       "start_at": "2026-12-05T22:00:00-08:00",
+      "summary": "10PM-230AM NEW AND CLASSIC INDIE VIDEO DANCE PARTY EVERY SATURDAY NO COVER",
       "title": "Sleaze Pleaze Saturdayz Music Video Dance Party",
       "venue": {
+        "address": "727 SE Grand Ave",
+        "city": "Portland",
+        "latitude": 45.517495,
+        "longitude": -122.660993,
         "name": "Swan Dive"
       }
     },
@@ -81732,7 +79764,7 @@
       ],
       "end_at": "2026-12-08T20:30:00-08:00",
       "id": "dopdx:17994917",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35130941/a44076c7-27a1-4c09-9514-d0b26d362a3e.jpg",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35130941/6886803b-490a-46e5-a7e4-fa1c7fa13acf.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/12/8/reel-science-snail-hunters-tickets",
       "price": {
@@ -85417,12 +83449,14 @@
       ],
       "end_at": "2026-12-09T20:30:00-08:00",
       "id": "dopdx:18078566",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35483220/2456be6f-b5df-4878-ba7a-f73ce9445e88.png",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35483220/34625e64-f929-48aa-a404-cf3970ed8b82.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/12/9/educated-guess-winter-solstice-tickets",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 12.0,
+        "min": 12.0
       },
       "source": {
         "id": "dopdx",
@@ -94741,6 +92775,36 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "id": "dopdx:18013654",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35644513/69478c4b-91f1-4d36-bd97-08ffa7f7b24f.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/11/the-polar-express-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 9.0,
+        "min": 7.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-11T16:00:00-08:00",
+      "summary": "December 11 - 16 Directed by Oscar® winner Robert Zemeckis and starring two-time Academy Award® winner Tom Hanks, the film is based on the classic Caldecott award-wining children’s book written by Chris Van Allsburg. Book your tickets now for this enchanting story of a young boy’s extraordinary train ride to the North Pole and his discovery that the wonder of life never fades for those who believe. Duration: 100 minutes | CC | Accessible Entrance Available",
+      "title": "The Polar Express",
+      "venue": {
+        "address": "1945 SE Water Ave.",
+        "city": "Portland",
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-12-11T17:30:00-08:00",
@@ -95915,34 +93979,6 @@
         "latitude": 45.518175,
         "longitude": -122.659359,
         "name": "REALM PDX"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "dopdx:18013654",
-      "image_url": "https://cloudinary-assets.dostuffmedia.com/res/dostuff-media/image/upload/metro-bkg_1-19/1610385111.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/12/11/the-polar-express-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-12-11T19:00:00-08:00",
-      "summary": "December 11 - 16 Directed by Oscar® winner Robert Zemeckis and starring two-time Academy Award® winner Tom Hanks, the film is based on the classic Caldecott award-wining children’s book written by Chris Van Allsburg. Book your tickets now for this enchanting story of a young boy’s extraordinary train ride to the North Pole and his discovery that the wonder of life never fades for those who believe. Duration: 100 minutes | CC | Accessible Entrance Available",
-      "title": "The Polar Express",
-      "venue": {
-        "address": "1945 SE Water Ave.",
-        "city": "Portland",
-        "latitude": 45.508613,
-        "longitude": -122.666308,
-        "name": "Oregon Museum of Science & Industry (OMSI)"
       }
     },
     {
@@ -99758,6 +97794,36 @@
         "latitude": 45.48706,
         "longitude": -122.80371,
         "name": "SW Fallbrook Pl"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "dopdx:17898367",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34699710/e1263186-bf1e-45a5-8779-0ef7dd5e854b.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/12/supporting-young-mathematicians-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 45.0,
+        "min": 45.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-12T09:00:00-08:00",
+      "summary": "September 19, December 12, + April 17 Join staff from the Oregon Museum of Science and Industry to connect literacy, mathematics, and play. We will learn fun developmentally-appropriate story based games that you can take back to use in your learning setting. You will also take home tools to design new activities that work best for your preschool-aged learners! Earn 4 hours in Oregon Registry Learning Environments &amp; Curriculum, Set 2 Age: Educators working with preschoolers Interactive workshop Hands-on learning, fun activities, and take-home resources Questions? For the basic details and FAQs about this event, please visit the OMSI website or email scienceplayground@omsi.edu.",
+      "title": "Supporting Young Mathematicians",
+      "venue": {
+        "address": "1945 SE Water Ave.",
+        "city": "Portland",
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
       }
     },
     {
@@ -104499,34 +102565,6 @@
     },
     {
       "categories": [
-        "community"
-      ],
-      "id": "dopdx:17898367",
-      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/34699710/ac164dc1-b4fa-46eb-ade7-415a282f5979.jpg",
-      "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/12/12/supporting-young-mathematicians-tickets",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "dopdx",
-        "name": "DoPDX",
-        "url": "https://dopdx.com"
-      },
-      "start_at": "2026-12-12T19:00:00-08:00",
-      "summary": "September 19, December 12, + April 17 Join staff from the Oregon Museum of Science and Industry to connect literacy, mathematics, and play. We will learn fun developmentally-appropriate story based games that you can take back to use in your learning setting. You will also take home tools to design new activities that work best for your preschool-aged learners! Earn 4 hours in Oregon Registry Learning Environments &amp; Curriculum, Set 2 Age: Educators working with preschoolers Interactive workshop Hands-on learning, fun activities, and take-home resources Questions? For the basic details and FAQs about this event, please visit the OMSI website or email scienceplayground@omsi.edu.",
-      "title": "Supporting Young Mathematicians",
-      "venue": {
-        "address": "1945 SE Water Ave.",
-        "city": "Portland",
-        "latitude": 45.508613,
-        "longitude": -122.666308,
-        "name": "Oregon Museum of Science & Industry (OMSI)"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "end_at": "2026-12-12T23:00:00-08:00",
@@ -106766,6 +104804,36 @@
         "latitude": 45.5519962,
         "longitude": -122.67516749999999,
         "name": "The 1905"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "dopdx:18107301",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35610880/a465442f-750c-47ba-a153-4ebe130d2d49.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/12/santo-perreo-reggaeton-dembow-and-latin-hits-dance-party-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 19.17,
+        "min": 19.17
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-12T21:00:00-08:00",
+      "summary": "NDVST presents It’s beginning to look a lot like... PERREO At SANTO PERREO, we’re celebrating a nuestro santo favorito, Benito Holocene - Portland Saturday, December 12 9pm 21+ We’ll be playing the hottest reggaeton, dembow, and Latin hits all night long to keep you warm y perreando this holiday season! Sounds by @litinothedj Siguenos @nochedevibrassinti",
+      "title": "Santo Perreo: Reggaeton, Dembow, and Latin hits dance party",
+      "venue": {
+        "address": "1001 SE Morrison",
+        "city": "Portland",
+        "latitude": 45.517379,
+        "longitude": -122.655456,
+        "name": "Holocene"
       }
     },
     {
@@ -115244,6 +113312,37 @@
         "latitude": 45.2978782654,
         "longitude": -122.7577896118,
         "name": "Wilsonville Library"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-12-15T10:00:00-08:00",
+      "id": "dopdx:18115089",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35644873/92eefca3-47c6-4c87-b50d-a9b5e2dc1fd7.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/15/curiosity-kids-design-and-discover-1795396660",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 30.5,
+        "min": 20.5
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-15T09:00:00-08:00",
+      "summary": "Design and Discover Para la descripción en español, por favor desplaza hacia abajo. English About the Workshop Design and Discover Engineers are problem solvers! Curious Kids in this class will work with their families to build, test, design, and improve across a variety of playful hands-on challenges. About Curiosity Kids At OMSI, we love experimenting, learning, and creating together! Curiosity Kids programs at OMSI allow children ages 3-5 years old, along with their families, to explore early science and engineering concepts. These bilingual programs are designed to build STEAM skills and nurture the special connection between adults and children. We hope you and your curious kids will join our stellar educators to experiment, ask questions, and build amazing structures! Practice your new skills right after your workshop—your ticket includes same-day general Museum Admission! Questions? For the basic details and FAQs about this event, please visit the Curiosity Kids webpage or email info@omsi.edu . Chiquitines curiosos: Diseña y descubre En español Descripción del programa Diseña y descubre ¡Los ingenieros son solucionadores de problemas! En esta clase, los niños curiosos trabajarán con sus familias para construir, probar, diseñar y mejorar sus diseños a través de una variedad de desafíos prácticos y divertidos. Sobre Chiquitines curiosos ¡En OMSI, nos encanta experimentar, aprender y crear juntos! Chiquitines curiosos es una serie de programas en OMSI que permiten que niños(as) de 3 a 5 años, y sus familias, exploren conceptos básicos de ciencia e ingeniería. Estos programas bilingües están diseñados para desarrollar sus habilidades STEAM y fortalecer el vínculo especial entre adultos y niños(as). ¡Esperamos que tú y tus pequeños curiosos se unan a nuestros excelentes educadores para experimentar, hacer preguntas y construir estructuras increíbles! ¡Practica tus nuevas habilidades después de terminar la clase, ya que tu boleto incluye la admisión general al museo para el mismo día! ¿Tiene preguntas? Para obtener más información sobre este evento, así como respuestas a preguntas frecuentes, visita el sitio web de Chiquitines curiosos o manda un correo electrónico a info@omsi.edu .",
+      "title": "Curiosity Kids: Design and Discover",
+      "venue": {
+        "address": "1945 SE Water Ave.",
+        "city": "Portland",
+        "latitude": 45.508613,
+        "longitude": -122.666308,
+        "name": "Oregon Museum of Science & Industry (OMSI)"
       }
     },
     {
@@ -124772,12 +122871,12 @@
       "id": "dopdx:18002649",
       "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35166529/de0391c6-1a62-4e4b-af9e-07f014e76b93.png",
       "is_all_day": false,
-      "listing_url": "https://dopdx.com/events/2026/12/17/dune-part-three-opening-night-event-tickets",
+      "listing_url": "https://dopdx.com/events/2026/12/17/dune-part-three-tickets2",
       "price": {
         "currency": "USD",
         "is_free": false,
         "max": 22.0,
-        "min": 5.0
+        "min": 16.0
       },
       "source": {
         "id": "dopdx",
@@ -124786,7 +122885,7 @@
       },
       "start_at": "2026-12-17T18:00:00-08:00",
       "summary": "Thu. December 17 | 6 pm + 9 pm $22 Adults, $20 Seniors, $16 Youth | OMSI Members receive $5 off admission. Event tickets include movie snacks, a beverage (either alcoholic or non-alcoholic), and door prizes. Each attendee will also receive a pass for free museum admission on a future date. Doors open at 5:15 pm for first show and 8:15 pm for second show. Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most. Duration: 2h 30m | Accessible Entrance Available",
-      "title": "Dune: Part Three - Opening Night Event",
+      "title": "Dune: Part Three - Opening Night Event 6PM + 9PM",
       "venue": {
         "address": "1945 SE Water Ave.",
         "city": "Portland",
@@ -129930,15 +128029,17 @@
     },
     {
       "categories": [
-        "community"
+        "film"
       ],
       "id": "dopdx:18035231",
-      "image_url": "https://cloudinary-assets.dostuffmedia.com/res/dostuff-media/image/upload/metro-bkg_1-19/1610385111.jpg",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35644528/98569c8f-0afd-4efc-9e9a-9091902e8cab.png",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/12/18/dune-part-three-tickets",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 9.0,
+        "min": 7.0
       },
       "source": {
         "id": "dopdx",
@@ -145890,6 +143991,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "end_at": "2026-12-22T13:00:00-08:00",
+      "id": "dopdx:18074962",
+      "image_url": "https://cloudinary-assets.dostuffmedia.com/res/dostuff-media/image/upload/metro-bkg_1-19/1610385111.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/22/joe-s-orchestra-holiday-performances-at-the-square-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-22T12:00:00-08:00",
+      "summary": "Joe’s Orchestra will be performing holiday music in the Square!",
+      "title": "Joe’s Orchestra – Holiday Performances at the Square",
+      "venue": {
+        "address": "701 SW 6th Ave",
+        "city": "Portland",
+        "latitude": 45.518595,
+        "longitude": -122.679271,
+        "name": "Pioneer Courthouse Square"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "id": "willamette_week:20503332@2026-12-22T12:00",
@@ -146152,6 +144282,34 @@
     },
     {
       "categories": [
+        "film"
+      ],
+      "id": "dopdx:17980913",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35104719/4203a76e-ce55-4e49-a0d1-37ae65c0199e.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/22/dune-part-3-in-70mm-click-for-showtimes-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-22T14:00:00-08:00",
+      "summary": "Showtimes: 2:00pm, 6:00pm Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Format: 70mm",
+      "title": "DUNE: PART 3 in 70mm (Click for showtimes)",
+      "venue": {
+        "address": "4122 NE Sandy Blvd.",
+        "city": "Portland",
+        "latitude": 45.53543990000001,
+        "longitude": -122.620608,
+        "name": "Hollywood Theatre"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "obt:897",
@@ -146216,13 +144374,16 @@
       "is_all_day": false,
       "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAkJv",
       "merged_sources": [
+        "dopdx",
         "obt",
         "ticketmaster"
       ],
-      "organizer": "Oregon Ballet Theatre",
+      "organizer": "Presented by Oregon Ballet Theatre",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 75.0,
+        "min": 75.0
       },
       "source": {
         "id": "ticketmaster",
@@ -146230,7 +144391,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-12-22T14:00:00-08:00",
-      "summary": "w/OBT Orchestra — A sparkling winter tale set to Tchaikovsky’s festive score. When Marie’s mysterious godfather gives her a magical Nutcracker that comes to life, Marie and her Nutcracker Prince set off on an unforgettable Christmas Eve adventure to the Land of Sweets. Featuring the OBT Orchestra! Live music…",
+      "summary": "Showtimes: 2:00 PM, 7:30 PM Twirl Into the Holidays A sparkling winter tale set to Tchaikovsky’s festive score. When Marie’s mysterious godfather gives her a magical Nutcracker that comes to life, Marie and her Nutcracker Prince set off on an unforgettable Christmas Eve adventure to the Land of Sweets. All performances of George Balanchine’s The Nutcracker® feature the OBT Orchestra. Live music presented by Internetworks Oregon Ballet Theatre also offers a sensory-friendly performance of Dominic Walsh’s Storybook Nutcracker, designed for families with young children and the neurodiverse community.",
       "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAkJv",
       "title": "Oregon Ballet w/ George Balanchine's The Nutcracker",
       "venue": {
@@ -146250,13 +144411,15 @@
       "is_all_day": false,
       "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvzFF",
       "merged_sources": [
-        "obt",
+        "dopdx",
         "ticketmaster"
       ],
-      "organizer": "Oregon Ballet Theatre",
+      "organizer": "Presented by Oregon Ballet Theatre",
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 75.0,
+        "min": 75.0
       },
       "source": {
         "id": "ticketmaster",
@@ -146264,7 +144427,7 @@
         "url": "https://www.ticketmaster.com"
       },
       "start_at": "2026-12-22T14:00:00-08:00",
-      "summary": "w/OBT Orchestra — A sparkling winter tale set to Tchaikovsky’s festive score. When Marie’s mysterious godfather gives her a magical Nutcracker that comes to life, Marie and her Nutcracker Prince set off on an unforgettable Christmas Eve adventure to the Land of Sweets. Featuring the OBT Orchestra! Live music…",
+      "summary": "Showtimes: 2:00 PM, 7:30 PM Twirl Into the Holidays A sparkling winter tale set to Tchaikovsky’s festive score. When Marie’s mysterious godfather gives her a magical Nutcracker that comes to life, Marie and her Nutcracker Prince set off on an unforgettable Christmas Eve adventure to the Land of Sweets. All performances of George Balanchine’s The Nutcracker® feature the OBT Orchestra. Live music presented by Internetworks Oregon Ballet Theatre also offers a sensory-friendly performance of Dominic Walsh’s Storybook Nutcracker, designed for families with young children and the neurodiverse community.",
       "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvzFF",
       "title": "George Balanchine's The Nutcracker w/ Oregon Ballet Theatre Orchestra",
       "venue": {
@@ -146332,6 +144495,34 @@
         "latitude": 45.516677291858464,
         "longitude": -122.53848246502874,
         "name": "Midland Library"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-12-22T19:00:00-08:00",
+      "id": "dopdx:18036653",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35305984/6610c7ec-f3fa-4e10-ae48-4eb868ebc9e8.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/22/dune-part-three-multiple-showtimes-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-22T15:30:00-08:00",
+      "summary": "From Warner Bros. Pictures and Legendary Pictures comes Dune: Part Three, bringing Academy Award-nominated filmmaker Denis Villeneuve’s epic trilogy to a breathtaking conclusion. Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most. The film stars Oscar nominee Timothée Chalamet, Zendaya, Jason Momoa, Oscar nominee Florence Pugh, Rebecca Ferguson, Isaach de Bankolé, with Oscar nominee Charlotte Rampling, with Anya Taylor-Joy, and Robert Pattinson, and Oscar winner Javier Bardem. Villeneuve directs from a screenplay by Villeneuve and Brian K. Vaughan, based on the novels written by Frank Herbert. The film is produced by Oscar nominees Mary Parent, Cale Boyter, Villeneuve and Tanya Lapointe, and Joe Caracciolo, and executive produced by Joshua Grode, Thomas Tull, Herbert W. Gains, Brian Herbert, Byron Merritt, Kim Herbert, Kevin J. Anderson, Richard P. Rubinstein, John Harrison and Jessica Derhammer. Joining Villeneuve behind the camera are Oscar-winning director of photography Linus Sandgren, Oscar-winning production designer Patrice Vermette, Oscar-winning editor Joe Walker, Oscar nominated costume designer Jacqueline West, Oscar-nominated casting director Francine Maisler, and Oscar-winning composer Hans Zimmer. Warner Bros. Pictures and Legendary Pictures Present A Legendary Pictures Production, A Film By Denis Villeneuve, Dune: Part Three, only in cinemas December 17, 2026. The film will be distributed worldwide by Warner Bros. Pictures and in China by Legendary East.",
+      "title": "Dune: Part Three (Multiple Showtimes)",
+      "venue": {
+        "address": "616 NW 21st Ave, Portland, Oregon 97209",
+        "latitude": 45.527345,
+        "longitude": -122.694307,
+        "name": "Cinema 21 Theater"
       }
     },
     {
@@ -146859,6 +145050,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "dopdx:18086537",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35516649/5f50387d-bebf-4b1b-b798-af438194aa55.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/22/jackstraw-tuesday-hh-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-22T18:00:00-08:00",
+      "summary": "The Jackstraw boys return for their “2nd and 4th Tuesdays” regular bluegrass happy hour!",
+      "title": "Jackstraw - TUESDAY HH",
+      "venue": {
+        "address": "2958 NE Glisan St",
+        "city": "Portland",
+        "latitude": 45.5262542,
+        "longitude": -122.634665,
+        "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "willamette_week:20504314@2026-12-22T18:00",
@@ -147031,6 +145252,96 @@
         "latitude": 45.407104,
         "longitude": -122.724798,
         "name": "Round Table Pizza"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "end_at": "2026-12-22T21:00:00-08:00",
+      "id": "dopdx:18070912",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35451879/914b358c-c66e-4955-8f1d-dcc4b91d14c6.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/22/the-big-lebowski-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-22T19:00:00-08:00",
+      "summary": "Tuesday, December 22 @ 7:00 PM – 9:00 PM Get festive and join our annual holiday tradition! Ultimate L.A. slacker Jeff “The Dude” Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire’s missing wife. Keeping with the long running tradition of showing The Big Lebowski during the holidays, we will be pouring our take on a White Russian made with sake instead of vodka. The Big Lebowski is a memorable holiday experience with a uniquely Portland twist. Once again, we’re proud to support the non-profit organization Bark, whose mission is to defend and restore Mt. Hood National Forest. $1 from every ticket sale will be donated to the group this season.",
+      "title": "The Big Lebowski",
+      "venue": {
+        "address": "2522 SE Clinton St",
+        "city": "Portland",
+        "latitude": 45.503211,
+        "longitude": -122.639899,
+        "name": "Clinton St. Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "dopdx:16729153",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29108232/d0e88561-5991-423c-9f95-481f31006205.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/22/open-bluegrass-jam-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-22T19:00:00-08:00",
+      "summary": "Join the jam! Bring your guitar, fiddle, mandolin or banjo to our weekly bluegrass jam circle. Players with intermediate skills and above are invited to this Tuesday tradition. New faces welcome!",
+      "title": "Open Bluegrass Jam",
+      "venue": {
+        "address": "10000 N . W . Old Cornelius Pass Rd .",
+        "city": "Hillsboro",
+        "latitude": 45.59183729999999,
+        "longitude": -122.8729504,
+        "name": "Rock Creek Tavern"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "dopdx:17550855",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33049384/35ae13a2-3065-41d2-96b6-c51cbcb7b098.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/22/off-the-cuff-west-end-entertainment-district-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-22T19:00:00-08:00",
+      "title": "Off the Cuff, West End Entertainment District",
+      "venue": {
+        "address": "303 SW 12th Ave, Portland, OR 97205",
+        "city": "Portland",
+        "latitude": 45.522789,
+        "longitude": -122.683431,
+        "name": "Al's Den"
       }
     },
     {
@@ -147392,6 +145703,36 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "dopdx:18045448",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35343296/cc19e1ed-deb7-4711-9239-53173f16b903.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/22/two-step-tuesday-with-best-intentions-and-dance-lessons-with-peggy-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 13.86,
+        "min": 13.86
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-22T19:30:00-08:00",
+      "summary": "7pm Doors 7:30pm Dance Lessons 8:30pm Band",
+      "title": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy",
+      "venue": {
+        "address": "1195 SE Powell Dr",
+        "city": "Portland",
+        "latitude": 45.501053,
+        "longitude": -122.652815,
+        "name": "The Showdown"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "obt:898",
@@ -147548,6 +145889,61 @@
         "latitude": 45.50122605,
         "longitude": -122.65284748,
         "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "dopdx:18102489",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35589705/b60774e4-42bb-4eb0-b54e-3599e1c19533.png",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/22/open-mic-night-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-22T20:00:00-08:00",
+      "summary": "See the best local comics at Helium Comedy Club's Open Mic Night! On nights there is a show in the Main showroom, the Open Mic will be held in the Neon Room. Think you have what it takes to make people laugh? Open Mic Night is open for signup to new talent as well as seasoned comics. The signup list is posted outside the club from 6:00pm – 7:00pm and the final line-up is posted at 7:30pm in the lounge. The line-up is chosen by random lottery. Please note that you will not be able to sign up in person earlier than 6:00pm. Management reserves the right to prevent customers from entering the facility who they deem disruptive or dangerous to other patrons.",
+      "title": "Open Mic Night",
+      "venue": {
+        "address": "1510 SE 9th Ave",
+        "city": "Portland",
+        "latitude": 45.512012,
+        "longitude": -122.656421,
+        "name": "Helium Comedy Club"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "dopdx:17332306",
+      "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32001775/d674db8e-cfe2-48ed-8a37-4745ee7954c4.jpg",
+      "is_all_day": false,
+      "listing_url": "https://dopdx.com/events/2026/12/22/karaoke-night-free-w-kj-jessicon-tickets",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "dopdx",
+        "name": "DoPDX",
+        "url": "https://dopdx.com"
+      },
+      "start_at": "2026-12-22T21:00:00-08:00",
+      "title": "Karaoke Night - Free! w/ KJ Jessicon",
+      "venue": {
+        "address": "6800 NE Martin Luther King Jr Blvd",
+        "city": "Portland",
+        "latitude": 45.571925,
+        "longitude": -122.661129,
+        "name": "High Water Mark Lounge"
       }
     },
     {
@@ -171283,5 +169679,5 @@
       }
     }
   ],
-  "generated_at": "2026-11-23T03:50:35+00:00"
+  "generated_at": "2026-11-23T04:09:08+00:00"
 }
