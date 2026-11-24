@@ -89,14 +89,6 @@
       "venue": "Deschutes Brewery Portland Public House"
     },
     {
-      "dropped": "willamette_week:19185833@2026-11-23T16:30",
-      "kept": "dopdx:17475442",
-      "start_at": "2026-11-23T16:30:00-08:00",
-      "title_dropped": "Foundations of Acting for Teens",
-      "title_kept": "Foundations of Acting for Teens",
-      "venue": "100 Lives Theatre"
-    },
-    {
       "dropped": "dopdx:17520957",
       "kept": "ticketmaster:vvG1HZ_uQaw0ma",
       "start_at": "2026-11-23T19:00:00-08:00",
@@ -113,22 +105,6 @@
       "venue": "McMenamins Crystal Ballroom"
     },
     {
-      "dropped": "willamette_week:19720852@2026-11-23T19:00",
-      "kept": "dopdx:17746626",
-      "start_at": "2026-11-23T19:00:00-08:00",
-      "title_dropped": "KELLY'S OLYMPIAN AND VLVT HEART RECORDS PRESENT OPEN MIC NIGHT! GUEST HOST CODY RIKER",
-      "title_kept": "Kelly’S Olympian And Vlvt Heart Records Present Open Mic Night!, Guest Host Cody Riker",
-      "venue": "Kelly's Olympian"
-    },
-    {
-      "dropped": "willamette_week:19957029@2026-11-23T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfGf0f",
-      "start_at": "2026-11-23T19:00:00-08:00",
-      "title_dropped": "Square Dancing with Caller Tighe Hauze and Miss Praline's Whip Lodge Tenderstrokes",
-      "title_kept": "Square Dancing with Caller Tighe Hauze and Forty Drop Few with Alexander Jones / KARAOKE @ 9:30",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "dopdx:17744125",
       "kept": "ticketmaster:Z7r9jZ1A7-z-_",
       "start_at": "2026-11-23T19:30:00-08:00",
@@ -143,22 +119,6 @@
       "title_dropped": "Haley Heynderickx",
       "title_kept": "Haley Heynderickx",
       "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "willamette_week:20204142@2026-11-23T20:00",
-      "kept": "dopdx:17927944",
-      "start_at": "2026-11-23T20:00:00-08:00",
-      "title_dropped": "Haley Heynderickx",
-      "title_kept": "Haley Heynderickx",
-      "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "willamette_week:17586570@2026-11-23T21:00",
-      "kept": "ticketmaster:rZ7HnEZ1AKPw80",
-      "start_at": "2026-11-23T21:00:00-08:00",
-      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
-      "title_kept": "KARAOKE FROM HELL",
-      "venue": "Dante's"
     },
     {
       "dropped": "dopdx:17744126",
@@ -4729,6 +4689,14 @@
       "venue": "Keller Auditorium"
     },
     {
+      "dropped": "willamette_week:20019942@2026-12-24T12:00",
+      "kept": "obt:868",
+      "start_at": "2026-12-24T12:00:00-08:00",
+      "title_dropped": "George Balanchine's The Nutcracker w/ Oregon Ballet Theatre Orchestra",
+      "title_kept": "George Balanchine's The Nutcracker",
+      "venue": "Keller Auditorium"
+    },
+    {
       "dropped": "obt:831",
       "kept": "ticketmaster:Z7r9jZ1AA7Vvf",
       "start_at": "2027-02-13T14:00:00-08:00",
@@ -4857,9 +4825,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5749,
-  "floor_check": "5749 events against a 5746-event baseline",
-  "generated_at": "2026-11-24T00:32:20+00:00",
+  "event_count": 5738,
+  "floor_check": "5738 events against a 5746-event baseline",
+  "generated_at": "2026-11-24T00:59:05+00:00",
   "problems": [],
   "sources": [
     "calagator",
