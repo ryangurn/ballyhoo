@@ -4785,14 +4785,6 @@
       "venue": "Keller Auditorium"
     },
     {
-      "dropped": "willamette_week:20169134@2026-12-10T14:00",
-      "kept": "ticketmaster:Z7r9jZ1AAvb3f",
-      "start_at": "2026-12-10T14:00:00-08:00",
-      "title_dropped": "Little Shop of Horrors",
-      "title_kept": "Little Shop of Horrors",
-      "venue": "Portland Center Stage"
-    },
-    {
       "dropped": "willamette_week:18521270@2026-11-25T10:00",
       "kept": "portland_farmers_market:shemanski-park-farmers-market-2@2026-11-25",
       "start_at": "2026-11-25T10:00:00-08:00",
@@ -4825,6 +4817,14 @@
       "venue": "Kelly's Olympian"
     },
     {
+      "dropped": "willamette_week:20169134@2026-12-10T14:00",
+      "kept": "ticketmaster:Z7r9jZ1AAvb3f",
+      "start_at": "2026-12-10T14:00:00-08:00",
+      "title_dropped": "Little Shop of Horrors",
+      "title_kept": "Little Shop of Horrors",
+      "venue": "Portland Center Stage"
+    },
+    {
       "dropped": "willamette_week:18893389@2026-12-19T23:30",
       "kept": "ticketmaster:rZ7HnEZ1Afv307",
       "start_at": "2026-12-19T23:30:00-08:00",
@@ -4841,9 +4841,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5756,
-  "floor_check": "5756 events against a 5762-event baseline",
-  "generated_at": "2026-11-24T22:53:15+00:00",
+  "event_count": 5616,
+  "floor_check": "5616 events against a 5762-event baseline",
+  "generated_at": "2026-11-24T23:08:50+00:00",
   "problems": [],
   "sources": [
     "calagator",
