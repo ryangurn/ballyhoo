@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T06:19:00+00:00",
+  "generated_at": "2026-11-24T09:45:21+00:00",
   "sources": [
     {
       "event_count": 24,
@@ -12,7 +12,7 @@
       "event_count": 1346,
       "last_run_at": "2026-11-24T02:31:36+00:00",
       "source_id": "dopdx",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/dopdx.json"
     },
     {
@@ -40,28 +40,28 @@
       "event_count": 55,
       "last_run_at": "2026-11-24T01:13:46+00:00",
       "source_id": "obt",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/obt.json"
     },
     {
       "event_count": 11,
       "last_run_at": "2026-11-24T00:31:41+00:00",
       "source_id": "oregon_city_farmers_market",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_city_farmers_market.json"
     },
     {
       "event_count": 151,
       "last_run_at": "2026-11-24T02:23:19+00:00",
       "source_id": "oregon_metro",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/oregon_metro.json"
     },
     {
-      "event_count": 22,
-      "last_run_at": "2026-11-23T23:47:50+00:00",
+      "event_count": 18,
+      "last_run_at": "2026-11-24T09:44:29+00:00",
       "source_id": "portland_farmers_market",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/portland_farmers_market.json"
     },
     {
@@ -89,7 +89,7 @@
       "event_count": 3809,
       "last_run_at": "2026-11-24T00:57:55+00:00",
       "source_id": "willamette_week",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/willamette_week.json"
     }
   ]
