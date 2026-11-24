@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:48:53+00:00",
+  "generated_at": "2026-11-24T00:10:08+00:00",
   "sources": [
     {
       "event_count": 24,
@@ -30,10 +30,10 @@
       "url": "sources/hollywood_farmers_market.json"
     },
     {
-      "event_count": 21,
-      "last_run_at": "2026-11-23T07:57:19+00:00",
+      "event_count": 19,
+      "last_run_at": "2026-11-24T00:09:05+00:00",
       "source_id": "neighborhood_markets",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/neighborhood_markets.json"
     },
     {
