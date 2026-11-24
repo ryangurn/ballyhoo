@@ -4481,6 +4481,14 @@
       "venue": "Revolution Hall"
     },
     {
+      "dropped": "willamette_week:17586570@2026-12-21T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AKPwG0",
+      "start_at": "2026-12-21T21:00:00-08:00",
+      "title_dropped": "Karaoke From Hell at Dante's Caffe Italiano",
+      "title_kept": "KARAOKE FROM HELL",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "obt:864",
       "kept": "dopdx:17555769",
       "start_at": "2026-12-22T14:00:00-08:00",
@@ -4833,9 +4841,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5778,
-  "floor_check": "5778 events against a 5751-event baseline",
-  "generated_at": "2026-11-24T13:06:05+00:00",
+  "event_count": 5777,
+  "floor_check": "5777 events against a 5755-event baseline",
+  "generated_at": "2026-11-24T15:49:34+00:00",
   "problems": [],
   "sources": [
     "calagator",
