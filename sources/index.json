@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T01:14:39+00:00",
+  "generated_at": "2026-11-24T02:24:54+00:00",
   "sources": [
     {
       "event_count": 24,
@@ -52,9 +52,9 @@
     },
     {
       "event_count": 151,
-      "last_run_at": "2026-11-23T14:59:28+00:00",
+      "last_run_at": "2026-11-24T02:23:19+00:00",
       "source_id": "oregon_metro",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/oregon_metro.json"
     },
     {
@@ -75,7 +75,7 @@
       "event_count": 860,
       "last_run_at": "2026-11-23T20:07:56+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
