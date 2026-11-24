@@ -1881,6 +1881,14 @@
       "venue": "Moda Center"
     },
     {
+      "dropped": "dopdx:17456535",
+      "kept": "ticketmaster:rZ7HnEZ1AfPwxK",
+      "start_at": "2026-12-05T20:00:00-08:00",
+      "title_dropped": "LAU NOAH x ADAM NEELY",
+      "title_kept": "LAU NOAH x ADAM NEELY",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "dopdx:17500561",
       "kept": "ticketmaster:vvG1HZ_3kJ5tS-",
       "start_at": "2026-12-05T20:00:00-08:00",
@@ -1911,14 +1919,6 @@
       "title_dropped": "Zepparella the Led Zeppelin Powerhouse",
       "title_kept": "Zepparella the Led Zeppelin Powerhouse",
       "venue": "Aladdin Theater"
-    },
-    {
-      "dropped": "dopdx:17456535",
-      "kept": "ticketmaster:rZ7HnEZ1AfPwxK",
-      "start_at": "2026-12-05T20:00:00-08:00",
-      "title_dropped": "LAU NOAH x ADAM NEELY",
-      "title_kept": "LAU NOAH x ADAM NEELY",
-      "venue": "Jack London Revue"
     },
     {
       "dropped": "willamette_week:19570814@2026-12-05T20:00",
@@ -2319,6 +2319,14 @@
       "title_dropped": "Father of Peace",
       "title_kept": "Father Of Peace – The Year Of Madness & The Mystery Century Tour",
       "venue": "Holocene"
+    },
+    {
+      "dropped": "willamette_week:20517809@2026-12-07T19:00",
+      "kept": "dopdx:18121088",
+      "start_at": "2026-12-07T19:00:00-08:00",
+      "title_dropped": "Sleigh Rides on the Explorer",
+      "title_kept": "Sleigh Rides on the Explorer",
+      "venue": "Caruthers Landing Dock"
     },
     {
       "dropped": "willamette_week:19442195@2026-12-07T19:00",
@@ -3857,20 +3865,20 @@
       "venue": "Portland Center Stage"
     },
     {
-      "dropped": "willamette_week:18350432@2026-12-18T20:00",
-      "kept": "dopdx:17080744",
-      "start_at": "2026-12-18T20:00:00-08:00",
-      "title_dropped": "Mohanad Elshieky",
-      "title_kept": "Mohanad Elshieky",
-      "venue": "Revolution Hall"
-    },
-    {
       "dropped": "willamette_week:20322893@2026-12-18T20:00",
       "kept": "dopdx:17973372",
       "start_at": "2026-12-18T20:00:00-08:00",
       "title_dropped": "Mr. Sam & The People People & Pistil & Sam Gelband & Withholden",
       "title_kept": "Pistil, Sam Gelband, and Withholden",
       "venue": "The Showdown"
+    },
+    {
+      "dropped": "willamette_week:18350432@2026-12-18T20:00",
+      "kept": "dopdx:17080744",
+      "start_at": "2026-12-18T20:00:00-08:00",
+      "title_dropped": "Mohanad Elshieky",
+      "title_kept": "Mohanad Elshieky",
+      "venue": "Revolution Hall"
     },
     {
       "dropped": "dopdx:18028461",
@@ -4841,9 +4849,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5616,
-  "floor_check": "5616 events against a 5762-event baseline",
-  "generated_at": "2026-11-24T23:08:50+00:00",
+  "event_count": 5647,
+  "floor_check": "5647 events against a 5762-event baseline",
+  "generated_at": "2026-11-24T23:28:49+00:00",
   "problems": [],
   "sources": [
     "calagator",
