@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:37:32+00:00",
+  "generated_at": "2026-11-24T11:02:35+00:00",
   "sources": [
     {
       "event_count": 24,
@@ -68,14 +68,14 @@
       "event_count": 0,
       "last_run_at": "2026-11-24T04:58:52+00:00",
       "source_id": "portland_parks",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/portland_parks.json"
     },
     {
       "event_count": 857,
       "last_run_at": "2026-11-24T04:44:06+00:00",
       "source_id": "ticketmaster",
-      "status": "ok",
+      "status": "stale",
       "url": "sources/ticketmaster.json"
     },
     {
@@ -86,10 +86,10 @@
       "url": "sources/vancouver_farmers_market.json"
     },
     {
-      "event_count": 3809,
-      "last_run_at": "2026-11-24T00:57:55+00:00",
+      "event_count": 3827,
+      "last_run_at": "2026-11-24T11:01:09+00:00",
       "source_id": "willamette_week",
-      "status": "stale",
+      "status": "ok",
       "url": "sources/willamette_week.json"
     }
   ]
