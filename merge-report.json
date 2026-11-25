@@ -865,6 +865,14 @@
       "venue": "Winningstad Theatre"
     },
     {
+      "dropped": "willamette_week:19786970@2026-11-29T14:00",
+      "kept": "dopdx:17683931",
+      "start_at": "2026-11-29T14:00:00-08:00",
+      "title_dropped": "The Amazing Bubble Man",
+      "title_kept": "The Amazing Bubble Man",
+      "venue": "Patricia Reser Center for the Arts"
+    },
+    {
       "dropped": "willamette_week:20425696@2026-11-29T14:00",
       "kept": "dopdx:18069811",
       "start_at": "2026-11-29T14:00:00-08:00",
@@ -3489,6 +3497,14 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "willamette_week:19867867@2026-12-15T20:00",
+      "kept": "dopdx:17816315",
+      "start_at": "2026-12-15T19:30:00-08:00",
+      "title_dropped": "Open Mic Night",
+      "title_kept": "Tommy Armstrong",
+      "venue": "Helium Comedy Club"
+    },
+    {
       "dropped": "willamette_week:20197377@2026-12-15T20:00",
       "kept": "dopdx:17844465",
       "start_at": "2026-12-15T20:00:00-08:00",
@@ -4313,6 +4329,14 @@
       "venue": "High Water Mark Lounge"
     },
     {
+      "dropped": "willamette_week:19469867@2026-12-20T21:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfPwkK",
+      "start_at": "2026-12-20T21:00:00-08:00",
+      "title_dropped": "CHURCH OF HIVE",
+      "title_kept": "CHURCH OF HIVE",
+      "venue": "Star Theater"
+    },
+    {
       "dropped": "willamette_week:16902271@2026-12-20T21:00",
       "kept": "ticketmaster:rZ7HnEZ1AfPwkK",
       "start_at": "2026-12-20T21:00:00-08:00",
@@ -4487,6 +4511,14 @@
       "title_dropped": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy",
       "title_kept": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy",
       "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:19867867@2026-12-22T20:00",
+      "kept": "dopdx:18102489",
+      "start_at": "2026-12-22T20:00:00-08:00",
+      "title_dropped": "Open Mic Night",
+      "title_kept": "Open Mic Night",
+      "venue": "Helium Comedy Club"
     },
     {
       "dropped": "obt:872",
@@ -4769,9 +4801,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5567,
-  "floor_check": "5567 events against a 5566-event baseline",
-  "generated_at": "2026-11-25T22:41:48+00:00",
+  "event_count": 5600,
+  "floor_check": "5600 events against a 5566-event baseline",
+  "generated_at": "2026-11-25T23:41:28+00:00",
   "problems": [],
   "sources": [
     "calagator",

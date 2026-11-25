@@ -744,6 +744,34 @@
     },
     {
       "categories": [
+        "outdoors"
+      ],
+      "id": "willamette_week:18599047@2026-11-25T09:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6b5c3d4e-e238-4ad0-9c6e-283002e20f24.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.portland.gov/parks/events/2026/11/25/hazeltine-park-tending-time",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-25T09:00:00-08:00",
+      "summary": "Volunteer with us! Help us keep Hazeltine Park in bloom! Join PP&R for volunteer events at Hazeltine Park to help with invasive plant removal, weeding, pruning, and mulching. This is a great opportunity to learn more about gardening and connect with your neighbors and community. Plant care activities may vary monthly. Open to all skills, paces, and abilities, no experience is required to participate. Pre-registration is required for this event. For more details and to RSVP for this event, visit the new PP&R volunteer website ! Site Accessibility This park and the areas volunteers will be working in are mostly exposed to open skies. There are no paved pathways in the park. Volunteers should plan to navigate across mostly flat grassy areas or soft surface \\(bark chip\\) pathways. There are no restrooms at this park. If you have questions about the accessibility of the event, please contact us. If you have an ADA accommodation request to be able to participate in this volunteer event, please use the 311 ADA Accommodation Request webpage . If you would like to learn more about or request language access services, please contact PDX 311 . We recommend making your request as soon as possible and at least 5 business days \\(Monday - Friday\\) in advance of the event. Have questions? Contact Developed Parks Coordinator Kimberléa Ruffu \\(they/them\\) at kimberlea.ruffu@portlandoregon.gov kimberlea.ruffu@portlandoregon.gov.",
+      "title": "Hazeltine Park Tending Time",
+      "venue": {
+        "address": "main entrance",
+        "city": "Portland",
+        "latitude": 45.46536,
+        "longitude": -122.60772,
+        "name": "Hazeltine Park"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "end_at": "2026-11-25T16:00:00-08:00",
@@ -797,34 +825,6 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "Portland"
-      }
-    },
-    {
-      "categories": [
-        "outdoors"
-      ],
-      "id": "willamette_week:18599047@2026-11-25T09:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/43h6x5GjUk6Jpo42gdU3bw.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.portland.gov/parks/events/2026/11/25/hazeltine-park-tending-time",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-25T09:00:00-08:00",
-      "summary": "Join us to help care for native plants and pollinator habitat at Hazeltine Park!",
-      "title": "Hazeltine Park Tending Time",
-      "venue": {
-        "address": "5416 SE Flavel Drive",
-        "city": "Portland",
-        "latitude": 45.465417,
-        "longitude": -122.607706,
-        "name": "Hazeltine Park main entrance"
       }
     },
     {
@@ -6975,33 +6975,6 @@
       "categories": [
         "community"
       ],
-      "end_at": "2026-11-26T20:30:00-08:00",
-      "id": "willamette_week:18260857@2026-11-26T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/426340f4-2fd7-4127-af89-66743ee5f9d0.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.vault31bar.com/calendar",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-26T18:30:00-08:00",
-      "title": "BINGO NITE",
-      "venue": {
-        "city": "Vancouver",
-        "latitude": 45.63873,
-        "longitude": -122.66149,
-        "name": "Vancouver"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
       "id": "willamette_week:17106232@2026-11-26T18:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IG0Sq4t6QUqIr4C1ex-pyg.large.jpg",
       "is_all_day": false,
@@ -7023,6 +6996,33 @@
         "latitude": 45.62106,
         "longitude": -123.114081,
         "name": "American Legion Post"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-11-26T20:30:00-08:00",
+      "id": "willamette_week:18260857@2026-11-26T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/426340f4-2fd7-4127-af89-66743ee5f9d0.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.vault31bar.com/calendar",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-26T18:30:00-08:00",
+      "title": "BINGO NITE",
+      "venue": {
+        "city": "Vancouver",
+        "latitude": 45.63873,
+        "longitude": -122.66149,
+        "name": "Vancouver"
       }
     },
     {
@@ -7422,6 +7422,34 @@
       "categories": [
         "arts"
       ],
+      "id": "willamette_week:20518572@2026-11-26T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0aca8ea5-8101-49db-bdc1-34dfaa9e1ef5.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1625484865861772/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-26T21:00:00-08:00",
+      "summary": "Karaoke Thursday at Diamond Palace Bar with KJ DJXDAY, Thursday, Nov. 26, from 9 p.m. until late. Bring your friends, pick your song and take the stage.",
+      "title": "Karaoke Thursday at Diamond Palace Bar",
+      "venue": {
+        "address": "1921 Main St",
+        "city": "Forest Grove",
+        "latitude": 45.519065,
+        "longitude": -123.111785,
+        "name": "Diamond Palace Bar"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "id": "willamette_week:20467072@2026-11-26T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e978361b-97f5-46be-a303-5cb31fe8a7fa.large.png",
       "is_all_day": false,
@@ -7582,6 +7610,34 @@
         "latitude": 45.50025,
         "longitude": -122.651197,
         "name": "Various locations"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20522272@2026-11-27T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ItmnIMeizEGXmwS5SkEdfA.large.png",
+      "is_all_day": true,
+      "listing_url": "https://www.willamettewines.com/event/adelsheim-holiday-haus/31949/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-27T00:00:00-08:00",
+      "summary": "Kick off the holiday season with us at our annual Holiday Haus, where exceptional wines, festive gatherings, and a little holiday magic come together. This year, we're expanding the celebration beyond the tasting room and into our behind-the-scenes winemaking and production spaces, transformed into inviting, festive lounges. Settle into plush seating, enjoy live music, and discover the stories behind the wines with our knowledgeable Wine Educators, who will offer an insider's glimpse into the art of winemaking. Savor a seasonal selection of Sparkling Wines, Pinot noir, and Chardonnay, delicious small bites from Chef Antwan available a la carté. Whether you're enjoying a seated tasting, lounging with friends, or discovering exclusive Black Friday wine offerings, there's plenty to celebrate. Join us for a little wine country holiday magic. November 27–28 | 10:30 AM – 4:30 PM $40 | General Public Complimentary for Club Members \\(party size up to 4\\)",
+      "title": "Adelsheim Holiday Haus",
+      "venue": {
+        "address": "16800 NE Calkins Ln",
+        "city": "Newberg",
+        "latitude": 45.338461,
+        "longitude": -123.049847,
+        "name": "Adelsheim Vineyard"
       }
     },
     {
@@ -12979,6 +13035,35 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:20522314@2026-11-27T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/99517c82-5426-4b5e-8b96-6de75b652190.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2098003388255319/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-27T21:00:00-08:00",
+      "summary": "Josefina Del Norte: The Argentinian DJ, singer and multi-instrumentalist Josefina Del Norte will start the night playing a mix of Latin American Cumbia and Forró music from Brazil. Forró Beleza: Led by Pyata Penedo, a Brazilian lead singer, composer, multi-instrumentalist, and owner of Figure 8 Sound Recording Studio, the band performs a variety of music from Northeastern Brazil known as forró. Forró is a lively Brazilian music and partner-dance tradition rooted in Northeastern Brazil, where it developed through community gatherings centered around music, dancing, and social connection. Popularized nationally by legendary artists such as Luiz Gonzaga, its distinctive sound is traditionally created by the accordion, zabumba drum, and triangle, producing rhythms that feel both grounded and flowing. The dance brings people together through a warm embrace, shared movement, playful turns, and a close connection to the music. Although it may remind newcomers of the intimacy of tango, the energy of salsa, or the grounded feeling of blues, forró has a joyful and welcoming character entirely its own. More than simply a style of music or dance, forró is a celebration of Brazilian culture and community—and the best way to understand it is to come experience it for yourself!",
+      "ticket_url": "https://www.etix.com/ticket/p/60016273/forr%C3%B3-beleza-portland-atlantis-lounge",
+      "title": "Forró Beleza",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:20409639@2026-11-27T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wHfndBbTVkWtq75CZNv5kA.large.png",
       "is_all_day": false,
@@ -15839,6 +15924,35 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-11-28T14:00:00-08:00",
+      "id": "willamette_week:19695911@2026-11-28T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5b5aeea4-791b-4732-b870-55f870e5cb21.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goviks.com/calendar.aspx?game_id=5936&amp;sport_id=8",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-28T12:00:00-08:00",
+      "summary": "Portland State University Women's Basketball vs UC Santa Barbara - Green Out Streaming Video: https://www.espn.com/watch/player/\\_/id/7ef1ffd2-9a20-4656-8dea-bf914c5703a7 Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3590",
+      "title": "Portland State University Women's Basketball vs UC Santa Barbara",
+      "venue": {
+        "address": "930 SW Hall St",
+        "city": "Portland",
+        "latitude": 45.51053261034869,
+        "longitude": -122.68625725650317,
+        "name": "Viking Pavilion"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-11-28T16:00:00-08:00",
@@ -15987,35 +16101,6 @@
         "latitude": 45.5262374878,
         "longitude": -122.6417236328,
         "name": "Pairings Portland Wine Shop"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-11-28T14:00:00-08:00",
-      "id": "willamette_week:19695911@2026-11-28T12:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5b5aeea4-791b-4732-b870-55f870e5cb21.large.png",
-      "is_all_day": false,
-      "listing_url": "https://goviks.com/calendar.aspx?game_id=5936&amp;sport_id=8",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-28T12:00:00-08:00",
-      "summary": "Portland State University Women's Basketball vs UC Santa Barbara Streaming Video: https://www.espn.com/watch/ Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3590",
-      "title": "Portland State University Women's Basketball vs UC Santa Barbara",
-      "venue": {
-        "address": "930 SW Hall St",
-        "city": "Portland",
-        "latitude": 45.51053261034869,
-        "longitude": -122.68625725650317,
-        "name": "Viking Pavilion"
       }
     },
     {
@@ -18092,6 +18177,35 @@
         "latitude": 45.533299,
         "longitude": -122.667442,
         "name": "Veterans Memorial Coliseum"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
+      "id": "willamette_week:20522315@2026-11-28T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ihRfrH02TEKtpmt9MKlHyw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1670782281411567/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-28T18:00:00-08:00",
+      "summary": "Coming from backgrounds in experimental music, punk rock and skateboarding, Blue Factory Flame is a trio that creates instrumental music influenced by fIREHOSE, Minutemen, Dinosaur Jr. Tommy Guerrero and The Meters that explore themes of the Oregon landscape and current political zeitgeists.",
+      "ticket_url": "https://www.etix.com/ticket/p/81706778/blue-factory-flame-portland-atlantis-lounge?partner_id=36438",
+      "title": "Blue Factory Flame",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
       }
     },
     {
@@ -20899,6 +21013,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20522316@2026-11-28T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3BoWUOVGT0m3oE9NtqL83g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1491593346196542/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-28T21:00:00-08:00",
+      "summary": "Sabrina Saed is a spell-weaver. Behind the microphone, the Seattle-based singer-songwriter spins tender acoustic guitar and wounded vocals together and sends them into the air, where they stick to your ears like gossamer. Your Jack performances have been described as “like watching Saturday morning cartoons.” There is a casual comfort to the experience, the kind of comfort longed for when Tuesday traffic distracts you from easy breaths. Raised in bluegrass, the music has a gentle pierce. Infatuated with hip-hop, the words are intentional. Scared of himself, the presence grows braver with every note.",
+      "ticket_url": "https://www.etix.com/ticket/p/48008802/sabrina-saed-your-jack-portland-atlantis-lounge?partner_id=36438",
+      "title": "Sabrina Saed & Your Jack",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
+      }
+    },
+    {
+      "categories": [
         "market"
       ],
       "id": "willamette_week:20487318@2026-11-28T21:00",
@@ -23637,6 +23780,10 @@
       "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33666125/55f8284b-4a13-4f70-b3e6-0e05dddd9a9a.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/11/29/the-amazing-bubble-man-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false,
@@ -23910,35 +24057,6 @@
       "venue": {
         "city": "Vancouver",
         "name": "Discovery Ballroom, Hilton Vancouver Washington, 301 W 6th St, Vancouver, WA 98660"
-      }
-    },
-    {
-      "categories": [
-        "tech"
-      ],
-      "id": "willamette_week:19786970@2026-11-29T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a777de95-0c0a-479c-adbe-a7eaed224c5e.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/1626299232174813/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-11-29T14:00:00-08:00",
-      "summary": "Louis Pearl has been thrilling audiences around the world for over 30 years with the art, magic, science and fun of bubbles. He is a favorite at the Edinburgh Fringe Festival, where he has enjoyed 14 years of sell-out success. Louis explores the breath-taking dynamics of bubbles, combining comedy and artistry with audience participation and enough spellbinding bubble tricks to keep everyone mesmerized. From square bubbles, bubbles inside bubbles, fog-filled bubbles, giant bubbles, bubble volcanoes, tornados and trampolines to people inside bubbles, the Amazing Bubble Man conjures shrieks of laughter and gasps of amazement from all ages. Most shows will also feature multi-instrumentalist Jet Black Pearl accompanying Louis with bubbly music to double your pleasure.",
-      "ticket_url": "https://thereser.org/events/the-amazing-bubble-man/",
-      "title": "The Amazing Bubble Man",
-      "venue": {
-        "address": "12695 SW Crescent ST Suite 140",
-        "city": "Beaverton",
-        "latitude": 45.491095,
-        "longitude": -122.807892,
-        "name": "Fabos Tacos"
       }
     },
     {
@@ -25159,6 +25277,35 @@
         "latitude": 45.512055,
         "longitude": -122.655543,
         "name": "Kickstand Comedy"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20522317@2026-11-29T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tF3BTcuTikm_96rnjVkZ_g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1816563419568971/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-29T17:00:00-08:00",
+      "summary": "Yankl Falk and the Carpathian-Pacific Express are neo-klezmer and beyond - which is to say, the music has a passport full of old-world Eastern European melodies and a tendency to miss the train on purpose. Klezmer and Yiddish song, mystical Hasidic chant, virtuosic Eastern European violin, and New Orleans roots all find their way aboard. There are dances, soulful turns, and musical moments that take a scenic detour in search of unexplored beauty. At the front of this expedition, Jack “Yankl” Falk sings and plays clarinet with a lifetime of feeling in the sound. Andrew Ehrlich’s violin catches fire; Ralph Huntley’s piano draws on a wide range of musical styles; Ji Tanzer’s drums keep the whole enterprise on point with precision and uncommon interpretive invention; and Courtney Von Drehle’s accordion and saxophone thread through the music with a few detours of their own. Five excellent musicians, one unusually well-traveled bandstand, and no particular reason to arrive where you expected.",
+      "ticket_url": "https://www.etix.com/ticket/p/81347867/carpathian-pacific-express-portland-atlantis-lounge?partner_id=36438",
+      "title": "Carpathian Pacific Express",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
       }
     },
     {
@@ -26974,6 +27121,35 @@
       "categories": [
         "music"
       ],
+      "id": "willamette_week:20522318@2026-11-29T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Q2ke34QnnE6ao6BgLT0hIg.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1640630196892825/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-29T21:00:00-08:00",
+      "summary": "Henry Ivie-Gardner is a 23 year old guitarist, and composer from Bend, OR. His music blends elements of folk, jazz, ambient, and impressionism to create a nourishing tapestry of sound and imagination, or ‘classical music for hippies’. Joining him in his trio, will be ambient artist Jake Chaffee on electric bass \\(JEC, King Howe\\), and the imaginative Micah Hummel on the drums \\(Anna Tivel, Quickly, Quickly\\). Wren \\(guitar,vocals\\) and Juniper \\(vocals\\) Ingber grew up in Oregon in a musical family where they began singing together from a young age. Now they perform as a duo, playing folk and soul, with three part harmonies, acoustic accompaniment, and introspective lyrics. Larsen Gardens is the Portland‑based project of Sarah Larsen, creating atmospheric dream‑folk with cinematic guitar textures and emotionally resonant vocals. Her music blends vulnerability, noir mood, and spacious sound design.",
+      "ticket_url": "https://www.etix.com/ticket/p/66309243/henry-iviegardner-portland-atlantis-lounge?partner_id=36438",
+      "title": "Henry Ivie-Gardner",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:20428587@2026-11-29T21:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/W0kd4eZsB0ivzp7T7b-_xQ.large.jpg",
       "is_all_day": false,
@@ -27292,6 +27468,37 @@
         "latitude": 45.30331,
         "longitude": -122.963955,
         "name": "George Fox University Mail Room"
+      }
+    },
+    {
+      "categories": [
+        "tech"
+      ],
+      "end_at": "2026-11-30T15:00:00-08:00",
+      "id": "willamette_week:20466012@2026-11-30T09:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/12dc7552-8146-4f99-a093-434484a02539.large.png",
+      "is_all_day": false,
+      "listing_url": "https://wccls.bibliocommons.com/events/6ae520c8ebad2200454926eb",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-11-30T09:30:00-08:00",
+      "summary": "Need help installing an app on your new phone, configuring a webcam for Zoom, borrowing and downloading an e-book, or filling out an online job application? You can make an appointment to speak to our friendly and knowledgeable Digital Navigator Mondays between 9:30 am and 12:30 pm or 1:00 pm and 3:00 pm. Click here to make your appointment TODAY! Audience: Adults. Registration required.",
+      "title": "Digital Navigator: 1-on-1 Tech Assistance",
+      "venue": {
+        "address": "2114 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519558298716575,
+        "longitude": -123.1086999746265,
+        "name": "Forest Grove City Library"
       }
     },
     {
@@ -30010,6 +30217,37 @@
         "latitude": 45.527,
         "longitude": -122.66024,
         "name": "Metro Regional Center"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "end_at": "2026-12-01T11:00:00-08:00",
+      "id": "willamette_week:20518424@2026-12-01T10:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cc75e939-dc0b-4c62-b5f2-bd6c514eeb59.large.png",
+      "is_all_day": false,
+      "listing_url": "https://wccls.bibliocommons.com/events/6a761eefcca66c2f00a8eb27",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-01T10:00:00-08:00",
+      "summary": "This program emphasizes developing the skills preschool and pre-K learners need to get ready for school. Join us for books, crafts, fun and learning. Location: Jane Moore Community Room. Audience: babies, toddlers and preschoolers.",
+      "title": "Banks Public Library: Tuesday Learners",
+      "venue": {
+        "address": "42461 NW Market Street",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
       }
     },
     {
@@ -36615,6 +36853,37 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "end_at": "2026-12-02T19:00:00-08:00",
+      "id": "willamette_week:20477894@2026-12-02T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ejGwRsj1XkiFjioUag8z1g.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.pattonvalley.com/events",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-02T18:00:00-08:00",
+      "summary": "Ladies, it’s time to sip and connect! Join us at Patton Valley Wines for a special wine tasting and launch party celebrating Women of a Certain Age — created for women ages 30–55. Whether you’re looking to meet new friends, enjoy great wine, or simply take a little time for yourself, this is your invitation to unwind and discover something new. Enjoy delicious wine tastings and even better conversation as we introduce a space designed for women to connect, share, and celebrate this stage of life. Come as you are, bring your curiosity, and get ready for a fun evening of wine, laughter, and new connections. We can’t wait to meet you!",
+      "title": "Women of a Certain Age: Raise a Glass to Something New",
+      "venue": {
+        "address": "2007 Main Street",
+        "city": "Forest Grove",
+        "latitude": 45.519995,
+        "longitude": -123.111784,
+        "name": "Patton Valley Wines"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-12-02T21:00:00-08:00",
@@ -39038,6 +39307,34 @@
         "latitude": 45.517495,
         "longitude": -122.660993,
         "name": "Swan Dive"
+      }
+    },
+    {
+      "categories": [
+        "film"
+      ],
+      "id": "willamette_week:20446237@2026-12-02T22:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/irTF-uQN_Eu-1FNkSS-Xrw.large.png",
+      "is_all_day": false,
+      "listing_url": "https://omsi.edu/events/omsis-masked-night/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-02T22:00:00-08:00",
+      "summary": "OMSI is pleased to offer access to our featured exhibitions for those that are immunocompromised. A low-capacity evening, PPE masks required.",
+      "title": "OMSI's Masked Night",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
       }
     },
     {
@@ -41843,6 +42140,38 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-12-03T21:00:00-08:00",
+      "id": "willamette_week:20523200@2026-12-03T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vGBng5eYKka0mB8AXiT1AA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://portlandpsychedelic.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F66310",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 100.0,
+        "min": 100.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-03T18:00:00-08:00",
+      "summary": "Join Portland Psychedelic Society for a special year-end fundraiser! Indulge Your Senses during an evening of immersive sound, art, light, interactive experiences, delicious bites and meaningful connection. Gather with community to celebrate a year of amazing local and national achievements in the psychedelic space. Proceeds from the event will fund expanded educational programming, integration resources, and important public advocacy work to support expanded access to education and healing through psychedelics in Portland and Oregon. We’re thrilled to hold this event at the Lantern, an inclusive, intergenerational space for grief support and connection. During the event, guests will have the opportunity to engage their senses and explore the space, immersing themselves in different activities and conversation. Experiences to explore include delicious bites, botanical sips and fancy n/a beverages, tea and cacao offerings, somatic escapes, oracle readings, collective art-making, live painting and so much more. For the culmination of the evening, all will join together for a live sound journey led by Psy:Lo and special guest, Water Eye. This year-end fundraiser is a chance to celebrate what we've built together and dream what’s possible for the future. In past decades, psychedelic enthusiasts have sought to find the others. As interest in psychedelics grows – alongside exciting developments in research, community advocacy, policy and access – our vision for 2027 is to expand the circle.We hope to expand our community to bring education, integration resources, and meaningful connections to more people across Portland, throughout Oregon and beyond. Please note: All ticket sales directly support PPS' mission and 80% of ticket price is tax deductible.",
+      "ticket_url": "https://portlandpsychedelic.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F66310",
+      "title": "Indulge Your Senses: A Special Fundraiser for Portland Psychedelic Society",
+      "venue": {
+        "address": "2828 SE Stephens Street",
+        "city": "Portland",
+        "latitude": 45.509537,
+        "longitude": -122.637057,
+        "name": "The Lantern"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "end_at": "2026-12-03T21:00:00-08:00",
@@ -42371,6 +42700,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:17106232@2026-12-03T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IG0Sq4t6QUqIr4C1ex-pyg.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-03T18:30:00-08:00",
+      "summary": "Bingo every Thursday at 6:30 p.m. in downtown Banks at the American Legion hall.",
+      "title": "Bingo",
+      "venue": {
+        "address": "13970 NW Main Street",
+        "city": "Banks",
+        "latitude": 45.62106,
+        "longitude": -123.114081,
+        "name": "American Legion Post"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-12-03T20:00:00-08:00",
@@ -42431,33 +42787,6 @@
         "latitude": 45.44368,
         "longitude": -122.64171,
         "name": "Bridge City Improv"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "willamette_week:17106232@2026-12-03T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IG0Sq4t6QUqIr4C1ex-pyg.large.jpg",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-03T18:30:00-08:00",
-      "summary": "Bingo every Thursday at 6:30 p.m. in downtown Banks at the American Legion hall.",
-      "title": "Bingo",
-      "venue": {
-        "address": "13970 NW Main Street",
-        "city": "Banks",
-        "latitude": 45.62106,
-        "longitude": -123.114081,
-        "name": "American Legion Post"
       }
     },
     {
@@ -42970,6 +43299,35 @@
       "categories": [
         "sports"
       ],
+      "end_at": "2026-12-03T21:00:00-08:00",
+      "id": "willamette_week:19695912@2026-12-03T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea3008d-a0ef-4003-9897-ba4228e0a5e2.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goviks.com/calendar.aspx?game_id=5899&amp;sport_id=3",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-03T19:00:00-08:00",
+      "summary": "Portland State University Men's Basketball vs Eastern Washington - Community Heroes Night Streaming Video: https://www.espn.com/watch/ Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3576",
+      "title": "Portland State University Men's Basketball vs Eastern Washington",
+      "venue": {
+        "address": "930 SW Hall St",
+        "city": "Portland",
+        "latitude": 45.51053261034869,
+        "longitude": -122.68625725650317,
+        "name": "Viking Pavilion"
+      }
+    },
+    {
+      "categories": [
+        "sports"
+      ],
       "end_at": "2026-12-03T22:00:00-08:00",
       "id": "willamette_week:20286849@2026-12-03T19:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/440b5bad-552b-44ee-a8d7-224f5016a0e0.large.png",
@@ -43143,35 +43501,6 @@
         "latitude": 45.521359,
         "longitude": -122.661053,
         "name": "Glimmer Wellness Center"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-12-03T21:00:00-08:00",
-      "id": "willamette_week:19695912@2026-12-03T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea3008d-a0ef-4003-9897-ba4228e0a5e2.large.png",
-      "is_all_day": false,
-      "listing_url": "https://goviks.com/calendar.aspx?game_id=5899&amp;sport_id=3",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-03T19:00:00-08:00",
-      "summary": "Portland State University Men's Basketball vs Eastern Washington Streaming Video: https://www.espn.com/watch/ Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3576",
-      "title": "Portland State University Men's Basketball vs Eastern Washington",
-      "venue": {
-        "address": "930 SW Hall St",
-        "city": "Portland",
-        "latitude": 45.51053261034869,
-        "longitude": -122.68625725650317,
-        "name": "Viking Pavilion"
       }
     },
     {
@@ -44748,6 +45077,34 @@
         "latitude": 45.5262542,
         "longitude": -122.634665,
         "name": "Laurelthirst Public House"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20518572@2026-12-03T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0aca8ea5-8101-49db-bdc1-34dfaa9e1ef5.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1625484732528452/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-03T21:00:00-08:00",
+      "summary": "Karaoke Thursdays at the Diamond Palace Bar: come show your talents and sing your heart out, from 9 p.m. until late.",
+      "title": "Karaoke Thursday at Diamond Palace Bar",
+      "venue": {
+        "address": "1921 Main St",
+        "city": "Forest Grove",
+        "latitude": 45.519065,
+        "longitude": -123.111785,
+        "name": "Diamond Palace Bar"
       }
     },
     {
@@ -49729,7 +50086,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-12-04T19:30:00-08:00",
-      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and Sunday matinees at 2:30 p.m. Tickets at titg.ludus.com.",
+      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and matinees at 2:30 p.m. Tickets at titg.ludus.com.",
       "title": "A Christmas Story: The Musical",
       "venue": {
         "address": "2028 Pacific Ave",
@@ -51188,6 +51545,35 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "The Get Down Music Venue"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20522357@2026-12-04T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5Rh65WIFUCkw3lotNWwyQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2162726387674972/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-04T21:00:00-08:00",
+      "summary": "Cult Of! A Show of Pop Culture Obsessions returns with its annual Holiday Show...The Muppets! Our 4th year of the show. 2 Nights \\(21\\+\\) celebrating Jim Henson’s iconic Muppets! Drag and Burlesque numbers based on your favorite characters. From Miss Piggy to Gonzo! Sunday is an All Ages Version of the show! Hosted by WolfgangX & DJ Aurora. Staring Valerie DeVille, XO Skeleton, and More! Dec 4th and 5th are 21\\+ Doors at 7pm and Show at 8pm Dec 6th is All Ages Family Friendly Show. Doors at 4pm and Show at 5pm",
+      "ticket_url": "https://www.etix.com/ticket/p/30060827/cult-ofthe-muppets-holiday-show-portland-atlantis-lounge",
+      "title": "Cult Of- The Muppets Holiday Show!",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
       }
     },
     {
@@ -55660,6 +56046,35 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-12-05T16:00:00-08:00",
+      "id": "willamette_week:19695913@2026-12-05T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dce3bfdb-89e5-4b34-a3fc-0a2507a30f0e.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goviks.com/calendar.aspx?game_id=5900&amp;sport_id=3",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-05T14:00:00-08:00",
+      "summary": "Portland State University Men's Basketball vs Idaho - Les Schwab Teddy Bear Toss / Youth Sports Day TV: Rose City SportsNet \\(Ch 49.1 w/ Antenna; 13/713 w/ Cable\\) Streaming Video: https://www.espn.com/watch/ Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3577",
+      "title": "Portland State University Men's Basketball vs Idaho",
+      "venue": {
+        "address": "930 SW Hall St",
+        "city": "Portland",
+        "latitude": 45.51053261034869,
+        "longitude": -122.68625725650317,
+        "name": "Viking Pavilion"
+      }
+    },
+    {
+      "categories": [
         "literary"
       ],
       "end_at": "2026-12-05T16:00:00-08:00",
@@ -56016,35 +56431,6 @@
         "latitude": 45.426680264989876,
         "longitude": -122.78128088650512,
         "name": "Broadway Rose Theatre Company"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-12-05T16:00:00-08:00",
-      "id": "willamette_week:19695913@2026-12-05T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dce3bfdb-89e5-4b34-a3fc-0a2507a30f0e.large.png",
-      "is_all_day": false,
-      "listing_url": "https://goviks.com/calendar.aspx?game_id=5900&amp;sport_id=3",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-05T14:00:00-08:00",
-      "summary": "Portland State University Men's Basketball vs Idaho - Les Schwab Teddy Bear Toss TV: Rose City SportsNet \\(Ch 49.1 w/ Antenna; 13/713 w/ Cable\\) Streaming Video: https://www.espn.com/watch/ Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3577",
-      "title": "Portland State University Men's Basketball vs Idaho",
-      "venue": {
-        "address": "930 SW Hall St",
-        "city": "Portland",
-        "latitude": 45.51053261034869,
-        "longitude": -122.68625725650317,
-        "name": "Viking Pavilion"
       }
     },
     {
@@ -58414,6 +58800,38 @@
     },
     {
       "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-12-05T20:30:00-08:00",
+      "id": "willamette_week:20203963@2026-12-05T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sPf1_UBI8E6KAv2jXsv_tA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.breathingroomcollective.com/book#/course/buy/18255/r/1417/loc/1528",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 25.0,
+        "min": 25.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-05T19:00:00-08:00",
+      "summary": "Flow State is a monthly, music-driven Vinyasa flow set to an uplifting electronic dance music (EDM) soundtrack hosted by co-teachers Karen Adamczyk and Alexie Heimburger. Beginning with a gentle warm-up, using fluid dance-inspired movement to shake off the week, awaken your body, and sync with the rhythm of your breath. From there, the intensity gradually rises into a strong, athletic Power Vinyasa practice. Expect creative sequencing, dynamic flows, and building heat as you cultivate strength, mobility, presence, and full-body energy. The class will wind down with dance before settling into a deeply restorative, long savasana. This final stillness allows your nervous system to integrate the effort, movement, and joy of the practice. No dance experience required - come move, breathe, and have fun. All levels welcome.",
+      "ticket_url": "https://www.breathingroomcollective.com/book#/course/buy/18255/r/1417/loc/1528",
+      "title": "Flow State: EDM Power Vinyasa with Alexie + Karen",
+      "venue": {
+        "address": "5291 Northeast Elam Young Parkway #130",
+        "city": "Hillsboro",
+        "latitude": 45.527475,
+        "longitude": -122.931774,
+        "name": "Breathing Room Yoga + Wellness Studio"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-12-05T22:30:00-08:00",
@@ -58472,38 +58890,6 @@
         "latitude": 45.582611084,
         "longitude": -122.6875534058,
         "name": "Kenton Club"
-      }
-    },
-    {
-      "categories": [
-        "wellness"
-      ],
-      "end_at": "2026-12-05T20:30:00-08:00",
-      "id": "willamette_week:20203963@2026-12-05T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sPf1_UBI8E6KAv2jXsv_tA.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.breathingroomcollective.com/book#/course/buy/18255/r/1417/loc/1528",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 25.0,
-        "min": 25.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-05T19:00:00-08:00",
-      "summary": "Flow State is a monthly, music-driven Vinyasa flow set to an uplifting electronic dance music (EDM) soundtrack hosted by co-teachers Karen Adamczyk and Alexie Heimburger. Beginning with a gentle warm-up, using fluid dance-inspired movement to shake off the week, awaken your body, and sync with the rhythm of your breath. From there, the intensity gradually rises into a strong, athletic Power Vinyasa practice. Expect creative sequencing, dynamic flows, and building heat as you cultivate strength, mobility, presence, and full-body energy. The class will wind down with dance before settling into a deeply restorative, long savasana. This final stillness allows your nervous system to integrate the effort, movement, and joy of the practice. No dance experience required - come move, breathe, and have fun. All levels welcome.",
-      "ticket_url": "https://www.breathingroomcollective.com/book#/course/buy/18255/r/1417/loc/1528",
-      "title": "Flow State: EDM Power Vinyasa with Alexie + Karen",
-      "venue": {
-        "address": "5291 Northeast Elam Young Parkway #130",
-        "city": "Hillsboro",
-        "latitude": 45.527475,
-        "longitude": -122.931774,
-        "name": "Breathing Room Yoga + Wellness Studio"
       }
     },
     {
@@ -59405,7 +59791,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-12-05T19:30:00-08:00",
-      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and Sunday matinees at 2:30 p.m. Tickets at titg.ludus.com.",
+      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and matinees at 2:30 p.m. Tickets at titg.ludus.com.",
       "title": "A Christmas Story: The Musical",
       "venue": {
         "address": "2028 Pacific Ave",
@@ -60238,6 +60624,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-12-06T01:00:00-08:00",
+      "id": "willamette_week:19784843@2026-12-05T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e978361b-97f5-46be-a303-5cb31fe8a7fa.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-05T20:00:00-08:00",
+      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. Best Karaoke Hosts around! Craig and Taresa will be at the Red Rooster for karaoke every Thursday and Saturday night. Join us for a seriously fun night!",
+      "title": "Totally Kroaked Karaoke",
+      "venue": {
+        "address": "2004 Main St #110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-12-05T23:00:00-08:00",
@@ -60266,37 +60683,6 @@
         "latitude": 45.516659,
         "longitude": -122.6605,
         "name": "Twilight Cafe & Bar"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-12-06T01:00:00-08:00",
-      "id": "willamette_week:19784843@2026-12-05T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e978361b-97f5-46be-a303-5cb31fe8a7fa.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-05T20:00:00-08:00",
-      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. Best Karaoke Hosts around! Craig and Taresa will be at the Red Rooster for karaoke every Thursday and Saturday night. Join us for a seriously fun night!",
-      "title": "Totally Kroaked Karaoke",
-      "venue": {
-        "address": "2004 Main St #110",
-        "city": "Forest Grove",
-        "latitude": 45.519786,
-        "longitude": -123.1123,
-        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -64613,7 +64999,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-12-06T14:30:00-08:00",
-      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and Sunday matinees at 2:30 p.m. Tickets at titg.ludus.com.",
+      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and matinees at 2:30 p.m. Tickets at titg.ludus.com.",
       "title": "A Christmas Story: The Musical",
       "venue": {
         "address": "2028 Pacific Ave",
@@ -66171,6 +66557,35 @@
         "latitude": 45.50122605,
         "longitude": -122.65284748,
         "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20522357@2026-12-06T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5Rh65WIFUCkw3lotNWwyQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1481111834117116/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-06T18:00:00-08:00",
+      "summary": "Cult Of! A Show of Pop Culture Obsessions returns with its annual Holiday Show...The Muppets! Our 4th year of the show. 2 Nights \\(21\\+\\) celebrating Jim Henson’s iconic Muppets! Drag and Burlesque numbers based on your favorite characters. From Miss Piggy to Gonzo! Sunday is an All Ages Version of the show! Hosted by WolfgangX & DJ Aurora. Staring Valerie DeVille, XO Skeleton, and More! Dec 4th and 5th are 21\\+ Doors at 7pm and Show at 8pm Dec 6th is All Ages Family Friendly Show. Doors at 4pm and Show at 5pm",
+      "ticket_url": "https://www.etix.com/ticket/p/47616808/cult-ofthe-muppets-holiday-show-portland-atlantis-lounge?partner_id=36438",
+      "title": "Cult Of- The Muppets Holiday Show!",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
       }
     },
     {
@@ -70435,6 +70850,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:19595760@2026-12-08T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2RxveA7m40aLQH3hlZOYiQ.large.png",
+      "is_all_day": true,
+      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-08T00:00:00-08:00",
+      "title": "Pokémon TCG Club - Learn to Play",
+      "venue": {
+        "address": "42461 NW Market Street",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "id": "willamette_week:20484738@2026-12-08T00:00",
@@ -70459,33 +70901,6 @@
         "latitude": 45.5005865,
         "longitude": -122.6546943,
         "name": "Pioneer Courthouse Square"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "willamette_week:19595760@2026-12-08T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2RxveA7m40aLQH3hlZOYiQ.large.png",
-      "is_all_day": true,
-      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-08T00:00:00-08:00",
-      "title": "Pokémon TCG Club - Learn to Play",
-      "venue": {
-        "address": "42461 NW Market St",
-        "city": "Banks",
-        "latitude": 45.619839,
-        "longitude": -123.113832,
-        "name": "Banks Public Library"
       }
     },
     {
@@ -74401,6 +74816,34 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19867867@2026-12-08T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pcEv_8k80EygHD99be7N-g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portland.heliumcomedy.com/events/143597",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-08T20:00:00-08:00",
+      "summary": "See the best local comics at Helium Comedy Club's Open Mic Night! On nights there is a show in the Main showroom, the OpenMic will be held in the Neon Room. Think you have what it takes to make people laugh? Open Mic Night is open for signup to new talent as well as seasoned comics. The signup list is posted outside the club from 6:00pm - 7:00pm and the final line-up is posted at 7:30pm in the lounge. The line-up is chosen by random lottery. Please note that you will not be able to sign up in person earlier than 6:00pm. Management reserves the right to prevent customers from entering the facility who they deem disruptive or dangerous to other patrons.",
+      "title": "Open Mic Night",
+      "venue": {
+        "address": "1510 SE 9th Ave",
+        "city": "Portland",
+        "latitude": 45.5120477825,
+        "longitude": -122.6566256583,
+        "name": "Helium Comedy Club"
+      }
+    },
+    {
+      "categories": [
         "wellness"
       ],
       "end_at": "2026-12-08T21:00:00-08:00",
@@ -74665,6 +75108,33 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:19634279@2026-12-09T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BuJ4aY1DCUWcw2hdTV-3Lg.large.png",
+      "is_all_day": true,
+      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-09T00:00:00-08:00",
+      "title": "Banks Public Library - Craft Night",
+      "venue": {
+        "address": "42461 NW Market Street",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:20504645@2026-12-09T00:00",
@@ -74715,33 +75185,6 @@
         "latitude": 45.5005865,
         "longitude": -122.6546943,
         "name": "Pioneer Courthouse Square"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "willamette_week:19634279@2026-12-09T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BuJ4aY1DCUWcw2hdTV-3Lg.large.png",
-      "is_all_day": true,
-      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-09T00:00:00-08:00",
-      "title": "Banks Public Library - Craft Night",
-      "venue": {
-        "address": "42461 NW Market St",
-        "city": "Banks",
-        "latitude": 45.619839,
-        "longitude": -123.113832,
-        "name": "Banks Public Library"
       }
     },
     {
@@ -76378,6 +76821,36 @@
         "latitude": 45.507883,
         "longitude": -122.71324,
         "name": "Oregon Zoo"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "end_at": "2026-12-09T18:30:00-08:00",
+      "id": "willamette_week:20522292@2026-12-09T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nVFLL52ieE-cb09cHP42gQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1035869559526676/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-09T17:00:00-08:00",
+      "summary": "Join us for the Young Professionals Annual Holiday Party! Enjoy delicious bites from DAnu Wines and festive holiday trivia as we celebrate the season together! The Young Professionals program brings together emerging leaders \\(primarily ages 18–35\\) to build connections, grow their careers, and engage with the local business community. For questions about the program, contact Ashley at AshleyB@wcchamber.org or Sammi at SammanthaS@wcchamber.org. Thank you to InRoads Credit Union for sponsoring the Young Professionals Group!",
+      "ticket_url": "https://web.washingtoncountychamberor.com/atlas/events/young-professionals-holiday-party-16517/details",
+      "title": "Young Professionals: Holiday Party & Trivia",
+      "venue": {
+        "address": "5193 NE Elam Young Pkwy., Suite A",
+        "city": "Hillsboro",
+        "latitude": 45.531107,
+        "longitude": -122.932417,
+        "name": "Washington County Chamber of Commerce"
       }
     },
     {
@@ -82239,6 +82712,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:17106232@2026-12-10T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IG0Sq4t6QUqIr4C1ex-pyg.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-10T18:30:00-08:00",
+      "summary": "Bingo every Thursday at 6:30 p.m. in downtown Banks at the American Legion hall.",
+      "title": "Bingo",
+      "venue": {
+        "address": "13970 NW Main Street",
+        "city": "Banks",
+        "latitude": 45.62106,
+        "longitude": -123.114081,
+        "name": "American Legion Post"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-10T20:00:00-08:00",
@@ -82267,33 +82767,6 @@
         "latitude": 45.44368,
         "longitude": -122.64171,
         "name": "Bridge City Improv"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "willamette_week:17106232@2026-12-10T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IG0Sq4t6QUqIr4C1ex-pyg.large.jpg",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-10T18:30:00-08:00",
-      "summary": "Bingo every Thursday at 6:30 p.m. in downtown Banks at the American Legion hall.",
-      "title": "Bingo",
-      "venue": {
-        "address": "13970 NW Main Street",
-        "city": "Banks",
-        "latitude": 45.62106,
-        "longitude": -123.114081,
-        "name": "American Legion Post"
       }
     },
     {
@@ -87258,6 +87731,35 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20522319@2026-12-11T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TgwAofPiS0ukizUDCvqxMA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1153107563789401/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-11T18:00:00-08:00",
+      "summary": "Knight Fork brings people together over chess, food, and new friendships. Come ready to play!",
+      "ticket_url": "https://www.etix.com/ticket/p/78859004/free-chessknight-fork-portland-atlantis-lounge",
+      "title": "FREE CHESS! Knight Fork",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-12-11T20:00:00-08:00",
@@ -88973,6 +89475,34 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20173985@2026-12-11T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/47ebb5e3-ac7f-4803-8ee9-e911bba051c5.large.png",
+      "is_all_day": false,
+      "listing_url": "https://titg.org/shows/2026-2027/a-christmas-story-the-musical/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-11T19:30:00-08:00",
+      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and matinees at 2:30 p.m. Tickets at titg.ludus.com.",
+      "title": "A Christmas Story: The Musical",
+      "venue": {
+        "address": "2028 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519582899999996,
+        "longitude": -123.11092439999999,
+        "name": "Theatre In the Grove"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-12-11T21:45:00-08:00",
@@ -89001,34 +89531,6 @@
         "latitude": 45.5151290894,
         "longitude": -122.6856002808,
         "name": "The Historic Old Church"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "id": "willamette_week:20173985@2026-12-11T19:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/47ebb5e3-ac7f-4803-8ee9-e911bba051c5.large.png",
-      "is_all_day": false,
-      "listing_url": "https://titg.org/shows/2026-2027/a-christmas-story-the-musical/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-11T19:30:00-08:00",
-      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and Sunday matinees at 2:30 p.m. Tickets at titg.ludus.com.",
-      "title": "A Christmas Story: The Musical",
-      "venue": {
-        "address": "2028 Pacific Ave",
-        "city": "Forest Grove",
-        "latitude": 45.519582899999996,
-        "longitude": -123.11092439999999,
-        "name": "Theatre In the Grove"
       }
     },
     {
@@ -90699,6 +91201,61 @@
     },
     {
       "categories": [
+        "tech"
+      ],
+      "id": "willamette_week:19540006@2026-12-12T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a9b58639-636f-4142-8517-89934d1ebdb8.large.png",
+      "is_all_day": true,
+      "listing_url": "https://omsi.edu/events/supporting-young-mathematicians/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T00:00:00-08:00",
+      "summary": "Join staff from the Oregon Museum of Science and Industry to connect literacy, mathematics, and play.",
+      "title": "Supporting Young Mathematicians",
+      "venue": {
+        "address": "1945 SE Water Ave",
+        "city": "Portland",
+        "latitude": 45.508437953549475,
+        "longitude": -122.66602451429013,
+        "name": "OMSI"
+      }
+    },
+    {
+      "categories": [
+        "family"
+      ],
+      "id": "willamette_week:19595761@2026-12-12T00:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/WeTc21lY9kivFeoRMv4BNw.large.png",
+      "is_all_day": true,
+      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T00:00:00-08:00",
+      "title": "Teen Service Saturday",
+      "venue": {
+        "address": "42461 NW Market Street",
+        "city": "Banks",
+        "latitude": 45.619839,
+        "longitude": -123.113832,
+        "name": "Banks Public Library"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "id": "willamette_week:20504645@2026-12-12T00:00",
@@ -90836,33 +91393,6 @@
     },
     {
       "categories": [
-        "family"
-      ],
-      "id": "willamette_week:19595761@2026-12-12T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/WeTc21lY9kivFeoRMv4BNw.large.png",
-      "is_all_day": true,
-      "listing_url": "https://wccls.bibliocommons.com/v2/events?locations=7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-12T00:00:00-08:00",
-      "title": "Teen Service Saturday",
-      "venue": {
-        "address": "42461 NW Market St",
-        "city": "Banks",
-        "latitude": 45.619839,
-        "longitude": -123.113832,
-        "name": "Banks Public Library"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "id": "willamette_week:20475387@2026-12-12T00:00",
@@ -90908,34 +91438,6 @@
       "start_at": "2026-12-12T00:00:00-08:00",
       "summary": "SOLD OUT",
       "title": "Wildwood - Opening Night Event",
-      "venue": {
-        "address": "1945 SE Water Ave",
-        "city": "Portland",
-        "latitude": 45.508437953549475,
-        "longitude": -122.66602451429013,
-        "name": "OMSI"
-      }
-    },
-    {
-      "categories": [
-        "tech"
-      ],
-      "id": "willamette_week:19540006@2026-12-12T00:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a9b58639-636f-4142-8517-89934d1ebdb8.large.png",
-      "is_all_day": true,
-      "listing_url": "https://omsi.edu/events/supporting-young-mathematicians/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-12T00:00:00-08:00",
-      "summary": "Join staff from the Oregon Museum of Science and Industry to connect literacy, mathematics, and play.",
-      "title": "Supporting Young Mathematicians",
       "venue": {
         "address": "1945 SE Water Ave",
         "city": "Portland",
@@ -91346,7 +91848,7 @@
       "summary": "Join us on Saturday, December 12th from 4PM to 9PM at Zesti Carts & Bar for a festive evening full of holiday cheer! Shop local at our cozy night market, sip on warm drinks, and soak up the holiday spirit with twinkling lights, music, and delicious eats. Live music by Malderine 2131 Yew St, Forest Grove Local vendors | Family-friendly | Free entry Come get merry with us and make some magical memories at Zesti! Want to be a vendor? Register for updates and sign ups here ---\\> https://docs.google.com/.../1FAIpQLSfEXwuCo.../viewform",
       "title": "Live music by Malderine",
       "venue": {
-        "address": "2131 Yew St",
+        "address": "2131 Yew Street",
         "city": "Forest Grove",
         "latitude": 45.521667,
         "longitude": -123.07226,
@@ -94405,6 +94907,35 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-12-12T16:00:00-08:00",
+      "id": "willamette_week:20522278@2026-12-12T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd7fcb1c-2598-4537-95d4-c5aef83193b9.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goviks.com/calendar.aspx?game_id=5902&amp;sport_id=3",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T14:00:00-08:00",
+      "summary": "Portland State University Men's Basketball vs George Fox - Holiday Spectacular Streaming Video: https://www.espn.com/watch/ Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3579",
+      "title": "Portland State University Men's Basketball vs George Fox - Holiday Spectacular",
+      "venue": {
+        "address": "930 SW Hall St",
+        "city": "Portland",
+        "latitude": 45.51053261034869,
+        "longitude": -122.68625725650317,
+        "name": "Viking Pavilion"
+      }
+    },
+    {
+      "categories": [
         "civic"
       ],
       "end_at": "2026-12-12T17:00:00-08:00",
@@ -94905,6 +95436,34 @@
         "latitude": 45.5645027161,
         "longitude": -122.6296386719,
         "name": "Kennedy School Theater"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20173985@2026-12-12T14:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/47ebb5e3-ac7f-4803-8ee9-e911bba051c5.large.png",
+      "is_all_day": false,
+      "listing_url": "https://titg.org/shows/2026-2027/a-christmas-story-the-musical/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T14:30:00-08:00",
+      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and matinees at 2:30 p.m. Tickets at titg.ludus.com.",
+      "title": "A Christmas Story: The Musical",
+      "venue": {
+        "address": "2028 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519582899999996,
+        "longitude": -123.11092439999999,
+        "name": "Theatre In the Grove"
       }
     },
     {
@@ -95601,6 +96160,38 @@
         "latitude": 45.511931,
         "longitude": -122.644945,
         "name": "Cinemagic Theater"
+      }
+    },
+    {
+      "categories": [
+        "wellness"
+      ],
+      "end_at": "2026-12-12T19:00:00-08:00",
+      "id": "willamette_week:20523236@2026-12-12T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Gw2rYdQc1kWO3wTWAufmug.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.quantumsolbreathwork.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 65.0,
+        "min": 45.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T17:00:00-08:00",
+      "summary": "Step into a guided, trauma informed breathwork ceremony designed to free your body, mind, and spirit. SolSync Breathwork invites you to gently explore the connection between your breath, body, and the experiences that shape how you move through life. This is a heart-led journey that weaves conscious breathing, immersive sound, and precise guidance to move what the mind could never resolve. We begin by synchronizing breath and heart rhythm, downshifting the nervous system and opening the body into a state of safety. From there, the breath becomes a key, unlocking stored emotional charge, suppressed memory, and unprocessed experiences held deep in the tissues of the body. As the session progresses, the thinking mind loosens its grip. You enter altered states of awareness where time softens, the body speaks, and long-held patterns surface to be released. In this expanded state, you access the quantum field — the realm beyond logic where identity, memory, and emotion reorganize. Participants often leave feeling lighter, grounded, emotionally spacious, and fundamentally shifted in how they inhabit their body and life. This is for those ready to stop managing symptoms and start letting the body do what it was always designed to do: release, recalibrate, and remember. All that’s required is an open heart, a willingness to explore, and trust in the wisdom of your own breath. \\*\\*Important Note: This experience is not a substitute for medical, psychological, or psychiatric care. Please refrain from participating if you have uncontrolled heart conditions or fluctuating blood pressure, are pregnant, have a history of mental illness, seizures, or epilepsy, significant respiratory conditions, or recent major injuries or surgeries.",
+      "ticket_url": "https://www.quantumsolbreathwork.com/book-online",
+      "title": "SolSync Breathwork: A Somatic Journey for Release & Renewal",
+      "venue": {
+        "address": "4260 Southwest 109th Avenue",
+        "city": "Beaverton",
+        "latitude": 45.489232,
+        "longitude": -122.78853,
+        "name": "The Elizabeth - Mind & Movement Studio"
       }
     },
     {
@@ -97595,7 +98186,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-12-12T19:30:00-08:00",
-      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and Sunday matinees at 2:30 p.m. Tickets at titg.ludus.com.",
+      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and matinees at 2:30 p.m. Tickets at titg.ludus.com.",
       "title": "A Christmas Story: The Musical",
       "venue": {
         "address": "2028 Pacific Ave",
@@ -98399,37 +98990,6 @@
     },
     {
       "categories": [
-        "music"
-      ],
-      "end_at": "2026-12-12T23:00:00-08:00",
-      "id": "willamette_week:20496389@2026-12-12T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5XjbTq-udUm4GI6-ONvlzQ.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.kentonclub.com/",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 10.0,
-        "min": 10.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-12T20:00:00-08:00",
-      "summary": "HOLIDAY REVUE! W/ TRABANTS (performing the entire Ventures holiday Album!) CHEEX, THE NO-GO’S, LOS SPOOKS, MONOVISIONS",
-      "title": "HOLIDAY REVUE! W/ TRABANTS, CHEEX, THE NO-GO’S, LOS SPOOKS, MONOVISIONS",
-      "venue": {
-        "address": "2025 N Kilpatrick St",
-        "city": "Portland",
-        "latitude": 45.582611084,
-        "longitude": -122.6875534058,
-        "name": "Kenton Club"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-12-13T00:00:00-08:00",
@@ -98457,6 +99017,37 @@
         "latitude": 45.519786,
         "longitude": -123.1123,
         "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-12-12T23:00:00-08:00",
+      "id": "willamette_week:20496389@2026-12-12T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5XjbTq-udUm4GI6-ONvlzQ.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.kentonclub.com/",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 10.0,
+        "min": 10.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T20:00:00-08:00",
+      "summary": "HOLIDAY REVUE! W/ TRABANTS (performing the entire Ventures holiday Album!) CHEEX, THE NO-GO’S, LOS SPOOKS, MONOVISIONS",
+      "title": "HOLIDAY REVUE! W/ TRABANTS, CHEEX, THE NO-GO’S, LOS SPOOKS, MONOVISIONS",
+      "venue": {
+        "address": "2025 N Kilpatrick St",
+        "city": "Portland",
+        "latitude": 45.582611084,
+        "longitude": -122.6875534058,
+        "name": "Kenton Club"
       }
     },
     {
@@ -99089,6 +99680,35 @@
         "latitude": 45.527019,
         "longitude": -122.687513,
         "name": "Portland Comedy Theater"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20522320@2026-12-12T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/82uglm4fLUml-QxpdnBK3A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1813442179932688/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-12T21:00:00-08:00",
+      "summary": "Wizard People is BACK. Barely? The NW's favorite christmas event / 2D-media detruct-o-thon / metatheatrical freak show considered taking the year off. We went big last year. Real big. We read your minds. Prof B literally got digitized into the film and killed JK Rowling forever. Plus, we've got even bigger plans for 2027, and our arms / legs / backs are tired from carrying all those big plans. But then! We thought! Why not just do one night only in our favorite city?! Why not just do exactly one show this year in Portland with the original script and the original edit? It has been many years since that has been attempted. So many lines have gone unspoken... so many scenes have gone un... seen... It is both the laziest and hardest thing that Professor Brett Niley could possibly perpetrate upon you: 2.5 hours of uncut Wizard People. Not to be repeated for probably, we don't know, another ten years? BE THERE.",
+      "ticket_url": "https://www.etix.com/ticket/p/69132237/wizard-people-portland-atlantis-lounge",
+      "title": "Wizard People",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
       }
     },
     {
@@ -100635,38 +101255,6 @@
     },
     {
       "categories": [
-        "food"
-      ],
-      "end_at": "2026-12-13T14:00:00-08:00",
-      "id": "willamette_week:20438941@2026-12-13T11:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cb5szl1qYEWpApjxPHiqiA.large.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.exploretock.com/domainelumineux/detail/616383/sunday-brunch-at-domaine-lumineux",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 80.0,
-        "min": 65.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-13T11:00:00-08:00",
-      "summary": "Join us in downtown Newberg for a three-course, wine-paired Sunday brunch with Chef Francisco of Camino in Dayton. Inspired by Mexican flavors and seasonal local ingredients, Chef Francisco’s menu brings a fresh take to brunch, paired with Domaine Lumineux wines from the Dundee Hills. Guests will enjoy three courses and five wines throughout the experience. FIRST COURSE: Carne en su jugo Tender ribeye simmered in its own juices with pinto beans, tomatillo sauce, crispy bacon, avocado, cilantro, green onions, and radish. SECOND COURSE: Black Mole Tetela Masa tetela filled with black beans, Oaxaca cheese, and chorizo, served with black mole, a poached egg, jalapeño, cilantro, and onion. THIRD COURSE: Tamal de Chocolate Chocolate tamal filled with cream cheese, served with berry sauce and seasonal fruit. $80 per person | $65 Academy members Wine pairings included One brunch fee will be refunded with each 12-bottle carryout purchase. We’re happy to accommodate most dietary restrictions with at least one week’s advance notice. Some dishes may be substituted as needed. Please note any dietary needs when booking, and we’ll reach out with any questions or if we’re unable to accommodate a specific request.",
-      "ticket_url": "https://www.exploretock.com/domainelumineux/detail/616383/sunday-brunch-at-domaine-lumineux",
-      "title": "Sunday Brunch at Domaine Lumineux",
-      "venue": {
-        "address": "115 N Washington St",
-        "city": "Newberg",
-        "latitude": 45.300908,
-        "longitude": -122.977396,
-        "name": "Domaine Lumineux Tasting Room"
-      }
-    },
-    {
-      "categories": [
         "arts"
       ],
       "end_at": "2026-12-13T12:30:00-08:00",
@@ -101750,6 +102338,35 @@
     },
     {
       "categories": [
+        "sports"
+      ],
+      "end_at": "2026-12-13T16:00:00-08:00",
+      "id": "willamette_week:19695915@2026-12-13T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd7fcb1c-2598-4537-95d4-c5aef83193b9.large.png",
+      "is_all_day": false,
+      "listing_url": "https://goviks.com/calendar.aspx?game_id=5939&amp;sport_id=8",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-13T14:00:00-08:00",
+      "summary": "Portland State University Women's Basketball vs Western Oregon - Ornament Decorating Station / Ugly Sweater Photo Backdrop Streaming Video: https://www.espn.com/watch/ Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3591",
+      "title": "Portland State University Women's Basketball vs Western Oregon",
+      "venue": {
+        "address": "930 SW Hall St",
+        "city": "Portland",
+        "latitude": 45.51053261034869,
+        "longitude": -122.68625725650317,
+        "name": "Viking Pavilion"
+      }
+    },
+    {
+      "categories": [
         "community"
       ],
       "end_at": "2026-12-13T16:00:00-08:00",
@@ -101933,35 +102550,6 @@
         "latitude": 45.426680264989876,
         "longitude": -122.78128088650512,
         "name": "Broadway Rose Theatre Company"
-      }
-    },
-    {
-      "categories": [
-        "sports"
-      ],
-      "end_at": "2026-12-13T16:00:00-08:00",
-      "id": "willamette_week:19695915@2026-12-13T14:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd7fcb1c-2598-4537-95d4-c5aef83193b9.large.png",
-      "is_all_day": false,
-      "listing_url": "https://goviks.com/calendar.aspx?game_id=5939&amp;sport_id=8",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-13T14:00:00-08:00",
-      "summary": "Portland State University Women's Basketball vs Western Oregon Streaming Video: https://www.espn.com/watch/ Tickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3591",
-      "title": "Portland State University Women's Basketball vs Western Oregon",
-      "venue": {
-        "address": "930 SW Hall St",
-        "city": "Portland",
-        "latitude": 45.51053261034869,
-        "longitude": -122.68625725650317,
-        "name": "Viking Pavilion"
       }
     },
     {
@@ -102189,7 +102777,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-12-13T14:30:00-08:00",
-      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and Sunday matinees at 2:30 p.m. Tickets at titg.ludus.com.",
+      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and matinees at 2:30 p.m. Tickets at titg.ludus.com.",
       "title": "A Christmas Story: The Musical",
       "venue": {
         "address": "2028 Pacific Ave",
@@ -104096,6 +104684,35 @@
         "latitude": 45.527345,
         "longitude": -122.694307,
         "name": "Cinema 21 Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20522321@2026-12-13T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/03XlkiyBaUWgwWU4NMkI8Q.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/3610046922486285/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-13T19:00:00-08:00",
+      "summary": "The Loeffelmen are a few Portland musicians who’ve spent years crossing paths in bands like The Moaning Lorries and Babe Ruthless before finally ending up in the same garage. They play mostly original, guitar-driven roots rock inspired by the occasional questionable life decision. Catt and The Mamblers are a Portland-based funk/blues/rock band featuring Catt Mamble, Sven Varner, Xander Dyolf, and Drew.",
+      "ticket_url": "https://www.etix.com/ticket/p/91947731/the-loeffelmen-portland-atlantis-lounge?partner_id=36438",
+      "title": "The Loeffelmen",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
       }
     },
     {
@@ -113497,6 +114114,33 @@
     },
     {
       "categories": [
+        "civic"
+      ],
+      "id": "willamette_week:14778366@2026-12-16T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M_PNmTXsB0uZoPrZWydJ_g.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.dundeecity.org/index.asp?SEC=5B5C4FDE-4FE7-4347-879F-139084E743F8&DE=64D2776D-0AD7-4D0C-ACA7-0038B84ED5E7",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-16T19:00:00-08:00",
+      "summary": "City of Dundee",
+      "title": "Joint City Council / Planning Commission Work Session",
+      "venue": {
+        "city": "Dundee",
+        "latitude": 45.27817,
+        "longitude": -123.01094,
+        "name": "Dundee"
+      }
+    },
+    {
+      "categories": [
         "outdoors"
       ],
       "end_at": "2026-12-16T20:30:00-08:00",
@@ -113525,33 +114169,6 @@
         "latitude": 45.505524,
         "longitude": -122.664412,
         "name": "Caruthers Landing Dock"
-      }
-    },
-    {
-      "categories": [
-        "civic"
-      ],
-      "id": "willamette_week:14778366@2026-12-16T19:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M_PNmTXsB0uZoPrZWydJ_g.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.dundeecity.org/index.asp?SEC=5B5C4FDE-4FE7-4347-879F-139084E743F8&DE=64D2776D-0AD7-4D0C-ACA7-0038B84ED5E7",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-16T19:00:00-08:00",
-      "summary": "City of Dundee",
-      "title": "Joint City Council / Planning Commission Work Session",
-      "venue": {
-        "city": "Dundee",
-        "latitude": 45.27817,
-        "longitude": -123.01094,
-        "name": "Dundee"
       }
     },
     {
@@ -117571,6 +118188,33 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:17106232@2026-12-17T18:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IG0Sq4t6QUqIr4C1ex-pyg.large.jpg",
+      "is_all_day": false,
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-17T18:30:00-08:00",
+      "summary": "Bingo every Thursday at 6:30 p.m. in downtown Banks at the American Legion hall.",
+      "title": "Bingo",
+      "venue": {
+        "address": "13970 NW Main Street",
+        "city": "Banks",
+        "latitude": 45.62106,
+        "longitude": -123.114081,
+        "name": "American Legion Post"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-17T20:00:00-08:00",
@@ -117654,33 +118298,6 @@
         "latitude": 45.52345,
         "longitude": -122.67621,
         "name": "Portland"
-      }
-    },
-    {
-      "categories": [
-        "community"
-      ],
-      "id": "willamette_week:17106232@2026-12-17T18:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IG0Sq4t6QUqIr4C1ex-pyg.large.jpg",
-      "is_all_day": false,
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-17T18:30:00-08:00",
-      "summary": "Bingo every Thursday at 6:30 p.m. in downtown Banks at the American Legion hall.",
-      "title": "Bingo",
-      "venue": {
-        "address": "13970 NW Main Street",
-        "city": "Banks",
-        "latitude": 45.62106,
-        "longitude": -123.114081,
-        "name": "American Legion Post"
       }
     },
     {
@@ -119383,6 +120000,35 @@
         "latitude": 45.55144019999999,
         "longitude": -122.675836,
         "name": "Mississippi Studios"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20522358@2026-12-17T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A09_qAHfVU-VhOzC0L700w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1001057365795441/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-17T21:00:00-08:00",
+      "summary": "Ménage Àh Twats is a Portland-based musical comedy trio where bold harmonies, bawdy lyrics, and deep friendship collide in a glorious climax of estrogen and raunchy absurdity. Conceived in the spirit of joy, healing, and comedic rebellion. Because it's the time of year, this one has some Ho Ho Holiday naughtiness sprinkled in.",
+      "ticket_url": "https://www.etix.com/ticket/p/94979649/m%C3%A9nage-%C3%A0h-twats-portland-atlantis-lounge",
+      "title": "Ménage Àh Twats",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
       }
     },
     {
@@ -123356,34 +124002,6 @@
     },
     {
       "categories": [
-        "arts"
-      ],
-      "id": "willamette_week:20173985@2026-12-18T19:30",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/47ebb5e3-ac7f-4803-8ee9-e911bba051c5.large.png",
-      "is_all_day": false,
-      "listing_url": "https://titg.org/shows/2026-2027/a-christmas-story-the-musical/",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-18T19:30:00-08:00",
-      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and Sunday matinees at 2:30 p.m. Tickets at titg.ludus.com.",
-      "title": "A Christmas Story: The Musical",
-      "venue": {
-        "address": "2028 Pacific Ave",
-        "city": "Forest Grove",
-        "latitude": 45.519582899999996,
-        "longitude": -123.11092439999999,
-        "name": "Theatre In the Grove"
-      }
-    },
-    {
-      "categories": [
         "community"
       ],
       "id": "willamette_week:20484683@2026-12-18T19:30",
@@ -123408,6 +124026,34 @@
         "latitude": 45.50474058972204,
         "longitude": -122.6275816386394,
         "name": "PAM CUT's Tomorrow Theater"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
+      "id": "willamette_week:20173985@2026-12-18T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/47ebb5e3-ac7f-4803-8ee9-e911bba051c5.large.png",
+      "is_all_day": false,
+      "listing_url": "https://titg.org/shows/2026-2027/a-christmas-story-the-musical/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-18T19:30:00-08:00",
+      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and matinees at 2:30 p.m. Tickets at titg.ludus.com.",
+      "title": "A Christmas Story: The Musical",
+      "venue": {
+        "address": "2028 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519582899999996,
+        "longitude": -123.11092439999999,
+        "name": "Theatre In the Grove"
       }
     },
     {
@@ -126861,6 +127507,34 @@
     },
     {
       "categories": [
+        "food"
+      ],
+      "id": "willamette_week:20522322@2026-12-19T12:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I0VJH_0Gikm5hoVUK3TAVA.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1800434874544807/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-19T12:30:00-08:00",
+      "summary": "Join us for last minute holiday shopping with incredible local businesses! Riot Bloom Coffee is a mobile espresso trailer serving handcrafted specialty coffee and matcha, bottled lattes, and kid-friendly drinks with house-made syrups. All of our products are sourced from women-owned businesses and portions of each month's proceeds are donated back to women-centered charities and organizations in the area. Verbena Cottage Bakery is a small family-run micro bakery. Videan is our baker, creating the breads and baked goods you'll find at our market table and in your orders and her son handles the administrative, financial, and behind-the-scenes side of the bakery. Together, we're proud to make small-batch baked goods for our local community! WizWorks is an independent design and woodworking studio founded by Kevin Wisniewski in Portland, Oregon. Guided by an exploration of form, materials, and function, the studio creates custom furniture, lighting, and thoughtfully crafted objects. The work spans from large-scale furniture projects to smaller kitchenware and home goods. Each piece reflects an emphasis on considered design, quality materials, and exceptional craftsmanship. Fruitage is a faith-driven, disabled mom-owned small business dedicated to restoring human kindness, one small batch at a time. We specialize in handcrafted fruit butters, infused honeys, homemade sweet treats, and unique creations!",
+      "title": "Holiday Vendor Market",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
+      }
+    },
+    {
+      "categories": [
         "nightlife"
       ],
       "end_at": "2026-12-19T23:00:00-08:00",
@@ -127953,6 +128627,34 @@
       "categories": [
         "arts"
       ],
+      "id": "willamette_week:20173985@2026-12-19T14:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/47ebb5e3-ac7f-4803-8ee9-e911bba051c5.large.png",
+      "is_all_day": false,
+      "listing_url": "https://titg.org/shows/2026-2027/a-christmas-story-the-musical/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-19T14:30:00-08:00",
+      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and matinees at 2:30 p.m. Tickets at titg.ludus.com.",
+      "title": "A Christmas Story: The Musical",
+      "venue": {
+        "address": "2028 Pacific Ave",
+        "city": "Forest Grove",
+        "latitude": 45.519582899999996,
+        "longitude": -123.11092439999999,
+        "name": "Theatre In the Grove"
+      }
+    },
+    {
+      "categories": [
+        "arts"
+      ],
       "id": "willamette_week:20412884@2026-12-19T14:30",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/NGRy2Z7VDki1r0d64-M7lQ.large.jpg",
       "is_all_day": false,
@@ -128968,6 +129670,35 @@
       "title": "Chicken $#!t Gamblers",
       "venue": {
         "name": "Trout Lake Hall"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20522323@2026-12-19T18:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/99517c82-5426-4b5e-8b96-6de75b652190.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1132459529644179/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-19T18:00:00-08:00",
+      "summary": "Formed in Portland in 2020, Asylum Tribe plays raw, heavy rock with influences ranging from Black Sabbath to Iron Maiden, Pantera to Led Zeppelin. With infectious riffs and melodic basslines grooving to explosive beats and soaring vocals, the band plays mostly original material and a few covers. Beginning in the fall of 2025 and the better part of 2026, they spent time in the studio working on their debut album, ‘Dreamlife.' The album consists of eleven originals that the band has been polishing and playing live for the past five years around the Greater Portland area. Dreamlife is available on CD and major streaming platforms and will be available on vinyl soon. Asylum Tribe is: Curtis Christie \\(vocals, rhythm guitar\\) Colin Bockman \\(lead/rhythm guitar, backing vocals\\) Phil Thompson \\(lead/rhythm guitar, backing vocals\\) Ram \\(drums, backing vocals\\) Wolf \\(bass\\)",
+      "ticket_url": "https://www.etix.com/ticket/p/64145176/asylum-tribe-portland-atlantis-lounge",
+      "title": "Asylum Tribe",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
       }
     },
     {
@@ -130178,7 +130909,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-12-19T19:30:00-08:00",
-      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and Sunday matinees at 2:30 p.m. Tickets at titg.ludus.com.",
+      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and matinees at 2:30 p.m. Tickets at titg.ludus.com.",
       "title": "A Christmas Story: The Musical",
       "venue": {
         "address": "2028 Pacific Ave",
@@ -130595,6 +131326,37 @@
     },
     {
       "categories": [
+        "arts"
+      ],
+      "end_at": "2026-12-20T00:00:00-08:00",
+      "id": "willamette_week:19784843@2026-12-19T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e978361b-97f5-46be-a303-5cb31fe8a7fa.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-19T20:00:00-08:00",
+      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. Best Karaoke Hosts around! Craig and Taresa will be at the Red Rooster for karaoke every Thursday and Saturday night. Join us for a seriously fun night!",
+      "title": "Totally Kroaked Karaoke",
+      "venue": {
+        "address": "2004 Main St #110",
+        "city": "Forest Grove",
+        "latitude": 45.519786,
+        "longitude": -123.1123,
+        "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
         "music"
       ],
       "end_at": "2026-12-19T23:00:00-08:00",
@@ -130653,37 +131415,6 @@
         "latitude": 45.518101,
         "longitude": -122.659527,
         "name": "The Get Down"
-      }
-    },
-    {
-      "categories": [
-        "arts"
-      ],
-      "end_at": "2026-12-20T00:00:00-08:00",
-      "id": "willamette_week:19784843@2026-12-19T20:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e978361b-97f5-46be-a303-5cb31fe8a7fa.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.facebook.com/events/808826488551183/808826561884509",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-19T20:00:00-08:00",
-      "summary": "This event listing provided as a free service by News in the Grove, Forest Grove's hyperlocal newspaper. Visit our curated Forest Grove events calendar at this url: newsinthegrove.com/events. Best Karaoke Hosts around! Craig and Taresa will be at the Red Rooster for karaoke every Thursday and Saturday night. Join us for a seriously fun night!",
-      "title": "Totally Kroaked Karaoke",
-      "venue": {
-        "address": "2004 Main St #110",
-        "city": "Forest Grove",
-        "latitude": 45.519786,
-        "longitude": -123.1123,
-        "name": "Red Rooster Saloon"
       }
     },
     {
@@ -132635,6 +133366,34 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "id": "willamette_week:20453341@2026-12-20T12:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Z1kqtfN3iUm406farf60rQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portland.heliumcomedy.com/events/147189",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-20T12:00:00-08:00",
+      "summary": "Biography Video December 20 Special Event: Grinch Drag Brunch S",
+      "title": "Special Event: Grinch Drag Brunch",
+      "venue": {
+        "address": "1510 SE 9th Ave",
+        "city": "Portland",
+        "latitude": 45.5120477825,
+        "longitude": -122.6566256583,
+        "name": "Helium Comedy Club"
+      }
+    },
+    {
+      "categories": [
         "market"
       ],
       "end_at": "2026-12-20T17:00:00-08:00",
@@ -132662,34 +133421,6 @@
         "latitude": 45.300642,
         "longitude": -122.970742,
         "name": "Wolves & People Bar and Music Hall"
-      }
-    },
-    {
-      "categories": [
-        "nightlife"
-      ],
-      "id": "willamette_week:20453341@2026-12-20T12:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Z1kqtfN3iUm406farf60rQ.large.png",
-      "is_all_day": false,
-      "listing_url": "https://portland.heliumcomedy.com/events/147189",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-20T12:00:00-08:00",
-      "summary": "Biography Video December 20 Special Event: Grinch Drag Brunch S",
-      "title": "Special Event: Grinch Drag Brunch",
-      "venue": {
-        "address": "1510 SE 9th Ave",
-        "city": "Portland",
-        "latitude": 45.5120477825,
-        "longitude": -122.6566256583,
-        "name": "Helium Comedy Club"
       }
     },
     {
@@ -133558,6 +134289,34 @@
     },
     {
       "categories": [
+        "nightlife"
+      ],
+      "id": "willamette_week:20453341@2026-12-20T14:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Z1kqtfN3iUm406farf60rQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://portland.heliumcomedy.com/events/147189",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-20T14:00:00-08:00",
+      "summary": "Biography Video December 20 Special Event: Grinch Drag Brunch S",
+      "title": "Special Event: Grinch Drag Brunch",
+      "venue": {
+        "address": "1510 SE 9th Ave",
+        "city": "Portland",
+        "latitude": 45.5120477825,
+        "longitude": -122.6566256583,
+        "name": "Helium Comedy Club"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "id": "willamette_week:20482202@2026-12-20T14:00",
@@ -133844,7 +134603,7 @@
         "url": "https://www.wweek.com/getbusy/calendar/events/"
       },
       "start_at": "2026-12-20T14:30:00-08:00",
-      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and Sunday matinees at 2:30 p.m. Tickets at titg.ludus.com.",
+      "summary": "Theatre in the Grove presents \"A Christmas Story: The Musical.\" Set in the 1940s in the fictional town of Hohman, Indiana, the story follows 9-year-old Ralphie Parker and his single-minded quest for the Christmas gift he wants more than anything else: an Official Red Ryder carbine-action 200-shot Range Model air rifle. Written by Joseph Robinette, with music and lyrics by Benj Pasek and Justin Paul; directed by Chris Byrne. Evening shows at 7:30 p.m. and matinees at 2:30 p.m. Tickets at titg.ludus.com.",
       "title": "A Christmas Story: The Musical",
       "venue": {
         "address": "2028 Pacific Ave",
@@ -133974,6 +134733,35 @@
         "latitude": 45.504654,
         "longitude": -122.627685,
         "name": "Tomorrow Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20522324@2026-12-20T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/99517c82-5426-4b5e-8b96-6de75b652190.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1108297005311568/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-20T15:00:00-08:00",
+      "summary": "The Sari Isreb Quintet is a jazz quintet that consists of young, up and coming jazz players in the PDX area.",
+      "ticket_url": "https://www.etix.com/ticket/p/76214394/sari-isreb-quintet-portland-atlantis-lounge",
+      "title": "Sari Isreb Quintet",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
       }
     },
     {
@@ -135734,6 +136522,36 @@
       "categories": [
         "music"
       ],
+      "end_at": "2026-12-20T22:00:00-08:00",
+      "id": "willamette_week:20522325@2026-12-20T20:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kv--VRhQI0GtyhY4R0w-VQ.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/1406254838254942/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-20T20:00:00-08:00",
+      "summary": "Live Arabic, Turkish, Armenian, Persian & Kurdish Music by The Occidental Tourists - featuring a magical group of musicians including: Michael Beach, Clark Salisbury, Patrick Harry, Daniel Eshoo, Daniel Shaheen Moltke, Eric Stern, Danielle Elizabeth and guests. Each third Sunday monthly show features performances by belly dancers. 7pm showtime. All ages until 9pm. Family friendly. $15 cover for this months show. Featuring Zoe Jakes of Beats Antique and Pixie Fordtears!",
+      "ticket_url": "https://www.etix.com/ticket/p/46043116/the-occidental-tourists-portland-atlantis-lounge",
+      "title": "The Occidental Tourists with Zoe Jakes and Pixie Fordtears!",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "willamette_week:20322910@2026-12-20T20:00",
       "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jT2qSnAcAEess0Rw39tNJg.large.png",
       "is_all_day": false,
@@ -137034,6 +137852,36 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20522116@2026-12-21T16:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QE2zR_u_i0WCXpHQG4eblg.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/longest-night-service-tickets-2005428068337?aff=oddtdtcreator&keep_tld=true",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-21T16:30:00-08:00",
+      "summary": "A Longest Night service of reflection, comfort, and healing for those grieving during this holiday season. All are welcome! The Advent season is marked by hope, peace, joy, and love, but the short days and long memories can also bring feelings of loneliness, loss, and grief. On Monday, December 21 (the winter solstice) at 4:30pm, First Presbyterian Church of Portland will offer a Longest Night Service for all to gather for a time of quiet reflection, solace, and healing for those who find the holiday season difficult. Whether you are grieving the loss of a loved one, struggling with the challenges of life, or simply seeking peace amidst the busyness of the season, this service is for you. We want you to know that you are not alone, and you are welcome here. FPC is an open and affirming congregation that welcomes everyone. Free parking for all services is available in our parking garage on the corner of 12th and Morrison. This event will be livestreamed at firstpresportland.org/2026/advent-2026",
+      "title": "Longest Night Service",
+      "venue": {
+        "address": "1200 SW ALDER ST",
+        "city": "Portland",
+        "latitude": 45.521158,
+        "longitude": -122.684425,
+        "name": "First Presbyterian Church of Portland"
+      }
+    },
+    {
+      "categories": [
         "family"
       ],
       "id": "willamette_week:19888718@2026-12-21T16:30",
@@ -137486,6 +138334,35 @@
         "latitude": 45.50122605,
         "longitude": -122.65284748,
         "name": "Showdown Saloon"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20522326@2026-12-21T19:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jq7sr8NS5EC7S5PMJSwa7A.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/875507855648024/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-21T19:00:00-08:00",
+      "summary": "Drunken Angel is a Portland-based band blending rock, folk, and Americana with a captivating mix of originals and eclectic covers. From the soulful storytelling of Lucinda Williams and Emmylou Harris to the haunting vibes of Portishead and the edgy energy of the Pixies, our setlists offer something for every audience. As longtime friends who’ve been making music together for over a decade, we officially launched as a band just before the pandemic and have been energizing local venues ever since. With heartfelt performances and a deep love for the music we play, Drunken Angel creates an unforgettable live experience.",
+      "ticket_url": "https://www.etix.com/ticket/p/47986992/drunken-angel-portland-atlantis-lounge",
+      "title": "Drunken Angel",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
       }
     },
     {
@@ -140751,6 +141628,10 @@
       "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/35589705/b60774e4-42bb-4eb0-b54e-3599e1c19533.png",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/12/22/open-mic-night-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
         "is_free": false
@@ -143441,6 +144322,35 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "id": "willamette_week:20522358@2026-12-23T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A09_qAHfVU-VhOzC0L700w.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.facebook.com/events/2221836375210456/",
+      "price": {
+        "currency": "USD",
+        "is_free": false
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-23T21:00:00-08:00",
+      "summary": "Ménage Àh Twats is a Portland-based musical comedy trio where bold harmonies, bawdy lyrics, and deep friendship collide in a glorious climax of estrogen and raunchy absurdity. Conceived in the spirit of joy, healing, and comedic rebellion. Because it's the time of year, this one has some Ho Ho Holiday naughtiness sprinkled in.",
+      "ticket_url": "https://www.etix.com/ticket/p/50596431/m%C3%A9nage-%C3%A0h-twats-portland-atlantis-lounge",
+      "title": "Ménage Àh Twats",
+      "venue": {
+        "address": "3552 N Mississippi Ave",
+        "city": "Portland",
+        "latitude": 45.5483541638,
+        "longitude": -122.675479576,
+        "name": "Mississippi Pizza Pub"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "id": "dopdx:17933958",
@@ -144579,6 +145489,36 @@
     },
     {
       "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20522141@2026-12-24T17:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bo4M8p9NlkeDTZa9f7ad9A.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/christmas-eve-children-families-service-tickets-2005419690278?aff=oddtdtcreator&keep_tld=true",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-24T17:00:00-08:00",
+      "summary": "Join FPC for a family-friendly service with carols, prayers, and a pop-up pageant. All are welcome! At 5:00pm on Christmas Eve, First Presbyterian Church of Portland will offer a Christmas service for children and their families. It will include prayers and familiar carols as well as a “pop-up Christmas pageant” to allow children to help retell the Christmas story—no rehearsals needed! FPC is an open and affirming congregation that welcomes everyone. Free parking for all services is available in our parking garage on the corner of 12th and Morrison. This event will be livestreamed at firstpresportland.org/2026/advent-2026",
+      "title": "Christmas Eve - Children & Families Service",
+      "venue": {
+        "address": "1200 SW ALDER ST",
+        "city": "Portland",
+        "latitude": 45.521158,
+        "longitude": -122.684425,
+        "name": "First Presbyterian Church of Portland"
+      }
+    },
+    {
+      "categories": [
         "food"
       ],
       "end_at": "2026-12-24T20:30:00-08:00",
@@ -145302,6 +146242,36 @@
         "latitude": 45.519786,
         "longitude": -123.1123,
         "name": "Red Rooster Saloon"
+      }
+    },
+    {
+      "categories": [
+        "community"
+      ],
+      "id": "willamette_week:20522147@2026-12-24T21:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v4ca6SyJWkSjLiSKWUYAng.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.eventbrite.com/e/christmas-eve-lessons-carols-service-tickets-2005421250946?aff=oddtdtcreator&keep_tld=true",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-24T21:00:00-08:00",
+      "summary": "Celebrate Christmas at FPC with scripture, beloved carols, and beautiful music in our candlelit Sanctuary. All are welcome! At 9:00pm on Christmas Eve, First Presbyterian Church of Portland will offer a service of Lessons and Carols. Celebrate the season with the timeless story of Christmas told through scripture readings, beloved carols, and choral anthems in the candlelit Sanctuary. The choir and pipe organ will be joined by grand piano, strings, and trumpet, with prelude music beginning at 8:40pm. FPC is an open and affirming congregation that welcomes everyone. Free parking for all services is available in our parking garage on the corner of 12th and Morrison. This event will be livestreamed at firstpresportland.org/2026/advent-2026",
+      "title": "Christmas Eve - Lessons & Carols Service",
+      "venue": {
+        "address": "1200 SW ALDER ST",
+        "city": "Portland",
+        "latitude": 45.521158,
+        "longitude": -122.684425,
+        "name": "First Presbyterian Church of Portland"
       }
     },
     {
@@ -165690,5 +166660,5 @@
       }
     }
   ],
-  "generated_at": "2026-11-25T22:41:48+00:00"
+  "generated_at": "2026-11-25T23:41:28+00:00"
 }
