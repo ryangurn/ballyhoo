@@ -51607,9 +51607,15 @@
       "image_url": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33820972/17707ec6-99bf-4b97-8630-3601a32cdf6d.jpg",
       "is_all_day": false,
       "listing_url": "https://dopdx.com/events/2026/12/4/leave-your-troubles-at-the-door-tickets",
+      "merged_sources": [
+        "dopdx",
+        "willamette_week"
+      ],
       "price": {
         "currency": "USD",
-        "is_free": false
+        "is_free": false,
+        "max": 15.0,
+        "min": 12.0
       },
       "source": {
         "id": "dopdx",
@@ -51617,6 +51623,8 @@
         "url": "https://dopdx.com"
       },
       "start_at": "2026-12-04T22:00:00-08:00",
+      "summary": "Leave Your Troubles at The Door is a completely improvised stand-up comedy showcase where the audience's anonymously submitted problems help create the topics of jokes that comedians riff on stage. Audience members write their problems / troubles down on pieces of paper, put them in a box before the show and then many of the best comedians from the Pacific Northwest and beyond take on those issues using their on-the-spot jokes. You can STAY anonymous, too. It's a rare comedy show where instead of the comedians joking about their problems, they joke about yours! You're more than likely to walk away from the show feeling at least slightly better about your problems. Just leave 'em at the door. This month we have a MEGAshow featuring ARLO WEIERHAUSER (Disney+, The Late Show with Stephen Colbert), Jordan Cerminara (SF Sketchfest, Laugh After Dark), Skyler King (Bend Comedy Festival), Frankie Marcos (Winner 2024 San Francisco International Comedy Competition), Amir Kat (Sunday Chat) and Sammy Jay Simonett. Hosted by Chris Hudson. Doors at 10 PM, show at 10:30 PM. Visit @leaveyourtroubles on Instagram for more info!",
+      "ticket_url": "https://tickettailor.com/events/livecomedy/2553010",
       "title": "Leave Your Troubles at the Door",
       "venue": {
         "address": "2432 SE 11th Ave, Portland, Oregon 97214",
@@ -88961,6 +88969,38 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "Revolution Hall - Portland"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "end_at": "2026-12-11T21:45:00-08:00",
+      "id": "willamette_week:20518972@2026-12-11T19:30",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Vzn9gaMJjE-iC8tUNBsBIA.large.jpg",
+      "is_all_day": false,
+      "listing_url": "https://TeslaTix.com",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 34.99,
+        "min": 24.99
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-11T19:30:00-08:00",
+      "summary": "Tickets --> TeslaTix.com • Holiday Celebrity Benefit Show! Celebrity Guest Starr Shari Shattuck from *The Young and the Restless*, *Dallas*, and *Babylon. V*! Fund and food drive benefiting UPLIFT Portland! This December 11th come enjoy a unique night of seasonal entertainment - it’s a Tesla City Stories Holiday Event as well as a food drive and fundraiser benefitting UPLIFT Portland! The show itself? Why it’s a special two-part adventure of our popular lady fighter pilots The Harpy Squadron unheard by audiences since 1944! It’s Christmas Eve and, on behalf of the Allied forces, the unaffiliated Harpy Squadron will attempt the biggest humanitarian air drop in military history crossing the unfriendly skies all along the European front. But our fearless female fliers have a surprise ace on their side: legendary WWI pilot “Dizzy” Izzy Nicholas has come out of retirement for this one highly risky mission dubbed “Operation: Mrs. Claus!” It’s your Tesla City Stories regulars alongside alums Mandy Khoshnevisan and Laura Cross - PLUS our special guest, stage, TV, and film actress and novelist Shari Shattuck! - in a night of aerial action and holiday feels benefitting a great cause! All of that and the angelic harmonies of The Dickens Carolers! It’s never too early to get into the spirit of the season, so come join us Friday, December 11th at the Old Church Concert Hall in downtown Portland! Tickets are on sale now!",
+      "ticket_url": "https://Teslatix.com",
+      "title": "The Tesla City Stories - Live Vintage Radio Theater Onstage Holiday Special",
+      "venue": {
+        "address": "1422 SW 11th Ave",
+        "city": "Portland",
+        "latitude": 45.5151290894,
+        "longitude": -122.6856002808,
+        "name": "The Historic Old Church"
       }
     },
     {
@@ -165526,5 +165566,5 @@
       }
     }
   ],
-  "generated_at": "2026-11-25T13:24:40+00:00"
+  "generated_at": "2026-11-25T14:40:13+00:00"
 }

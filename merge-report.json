@@ -1537,6 +1537,14 @@
       "venue": "45 East"
     },
     {
+      "dropped": "willamette_week:20519622@2026-12-04T22:00",
+      "kept": "dopdx:17705729",
+      "start_at": "2026-12-04T22:00:00-08:00",
+      "title_dropped": "Leave Your Troubles at The Door (stand-up comedy)",
+      "title_kept": "Leave Your Troubles at the Door",
+      "venue": "Funhouse Lounge"
+    },
+    {
       "dropped": "dopdx:17339154",
       "kept": "ticketmaster:rZ7HnEZ1Af03QK",
       "start_at": "2026-12-04T23:55:00-08:00",
@@ -4761,9 +4769,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5562,
-  "floor_check": "5562 events against a 5658-event baseline",
-  "generated_at": "2026-11-25T13:24:40+00:00",
+  "event_count": 5563,
+  "floor_check": "5563 events against a 5652-event baseline",
+  "generated_at": "2026-11-25T14:40:13+00:00",
   "problems": [],
   "sources": [
     "calagator",
