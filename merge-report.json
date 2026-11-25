@@ -89,14 +89,6 @@
       "venue": "Deschutes Brewery Portland Public House"
     },
     {
-      "dropped": "dopdx:17752117",
-      "kept": "ticketmaster:rZ7HnEZ1A4ZxjS",
-      "start_at": "2026-11-24T19:00:00-08:00",
-      "title_dropped": "Distant with Heavy//Hitter, Torn Open, & Katywentmissing",
-      "title_kept": "DISTANT with Heavy//Hitter, Torn Open, Katywentmissing, & Glasseater",
-      "venue": "Dante's"
-    },
-    {
       "dropped": "willamette_week:18910635@2026-11-25T18:00",
       "kept": "dopdx:17341616",
       "start_at": "2026-11-25T18:00:00-08:00",
@@ -4609,36 +4601,44 @@
       "venue": "Showdown Saloon"
     },
     {
+      "dropped": "obt:868",
+      "kept": "dopdx:17555771",
+      "start_at": "2026-12-24T12:00:00-08:00",
+      "title_dropped": "George Balanchine's The Nutcracker",
+      "title_kept": "George Balanchine’s The Nutcracker®",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17555771",
+      "kept": "ticketmaster:Z7r9jZ1AAAkJA",
+      "start_at": "2026-12-24T12:00:00-08:00",
+      "title_dropped": "George Balanchine’s The Nutcracker®",
+      "title_kept": "Oregon Ballet w/ George Balanchine's The Nutcracker",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "dopdx:17555771",
+      "kept": "ticketmaster:Z7r9jZ1AAvzFK",
+      "start_at": "2026-12-24T12:00:00-08:00",
+      "title_dropped": "George Balanchine’s The Nutcracker®",
+      "title_kept": "George Balanchine's The Nutcracker w/ Oregon Ballet Theatre Orchestra",
+      "venue": "Keller Auditorium"
+    },
+    {
+      "dropped": "willamette_week:20019942@2026-12-24T12:00",
+      "kept": "dopdx:17555771",
+      "start_at": "2026-12-24T12:00:00-08:00",
+      "title_dropped": "George Balanchine's The Nutcracker w/ Oregon Ballet Theatre Orchestra",
+      "title_kept": "George Balanchine’s The Nutcracker®",
+      "venue": "Keller Auditorium"
+    },
+    {
       "dropped": "willamette_week:17670892@2026-12-06T09:00",
       "kept": "neighborhood_markets:hillsdale@2026-12-06",
       "start_at": "2026-12-06T09:00:00-08:00",
       "title_dropped": "Hillsdale Farmers' Market",
       "title_kept": "Hillsdale Farmers Market",
       "venue": "Hillsdale Farmers Market"
-    },
-    {
-      "dropped": "obt:868",
-      "kept": "ticketmaster:Z7r9jZ1AAAkJA",
-      "start_at": "2026-12-24T12:00:00-08:00",
-      "title_dropped": "George Balanchine's The Nutcracker",
-      "title_kept": "Oregon Ballet w/ George Balanchine's The Nutcracker",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "obt:868",
-      "kept": "ticketmaster:Z7r9jZ1AAvzFK",
-      "start_at": "2026-12-24T12:00:00-08:00",
-      "title_dropped": "George Balanchine's The Nutcracker",
-      "title_kept": "George Balanchine's The Nutcracker w/ Oregon Ballet Theatre Orchestra",
-      "venue": "Keller Auditorium"
-    },
-    {
-      "dropped": "willamette_week:20019942@2026-12-24T12:00",
-      "kept": "obt:868",
-      "start_at": "2026-12-24T12:00:00-08:00",
-      "title_dropped": "George Balanchine's The Nutcracker w/ Oregon Ballet Theatre Orchestra",
-      "title_kept": "George Balanchine's The Nutcracker",
-      "venue": "Keller Auditorium"
     },
     {
       "dropped": "obt:831",
@@ -4761,9 +4761,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5592,
-  "floor_check": "5592 events against a 5758-event baseline",
-  "generated_at": "2026-11-25T05:31:54+00:00",
+  "event_count": 5566,
+  "floor_check": "5566 events against a 5756-event baseline",
+  "generated_at": "2026-11-25T05:51:48+00:00",
   "problems": [],
   "sources": [
     "calagator",
