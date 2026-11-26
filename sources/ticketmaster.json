@@ -2,34 +2,6 @@
   "events": [
     {
       "categories": [
-        "arts"
-      ],
-      "id": "ticketmaster:Z7r9jZ1AAvbfv",
-      "image_url": "https://s1.ticketm.net/dam/a/2c8/212bcfc5-dba6-4537-b62e-d63d6ceac2c8_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvbfv",
-      "price": {
-        "currency": "USD",
-        "is_free": false
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-25T14:00:00-08:00",
-      "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvbfv",
-      "title": "Little Shop of Horrors",
-      "venue": {
-        "address": "128 NW 11th Ave",
-        "city": "Portland",
-        "latitude": 45.5303,
-        "longitude": -122.684799,
-        "name": "Portland Center Stage"
-      }
-    },
-    {
-      "categories": [
         "music"
       ],
       "id": "ticketmaster:Z7r9jZ1A70_oz",
@@ -465,37 +437,6 @@
         "latitude": 45.513901,
         "longitude": -122.642799,
         "name": "45 East"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "id": "ticketmaster:rZ7HnEZ1Af03qK",
-      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_LANDSCAPE_16_9.jpg",
-      "is_all_day": false,
-      "listing_url": "https://www.ticketweb.com/event/hotwax-discoglammetalpunkhiphop-dantes-tickets/14912753",
-      "price": {
-        "currency": "USD",
-        "is_free": false,
-        "max": 2.08,
-        "min": 2.08
-      },
-      "source": {
-        "id": "ticketmaster",
-        "name": "Ticketmaster",
-        "url": "https://www.ticketmaster.com"
-      },
-      "start_at": "2026-11-27T23:55:00-08:00",
-      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
-      "ticket_url": "https://www.ticketweb.com/event/hotwax-discoglammetalpunkhiphop-dantes-tickets/14912753",
-      "title": "HOTWAX disco~glam~metal~punk~hiphop",
-      "venue": {
-        "address": "350 West Burnside Street",
-        "city": "Portland",
-        "latitude": 45.523,
-        "longitude": -122.67443,
-        "name": "Dante's"
       }
     },
     {
@@ -7929,6 +7870,37 @@
         "latitude": 45.533299,
         "longitude": -122.667442,
         "name": "Veterans Memorial Coliseum"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
+      "id": "ticketmaster:rZ7HnEZ1A4vSGd",
+      "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/baz-moto-followed-by-sinferbno-dantes-tickets/15073303",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 21.09,
+        "min": 21.09
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2026-12-27T20:00:00-08:00",
+      "summary": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+      "ticket_url": "https://www.ticketweb.com/event/baz-moto-followed-by-sinferbno-dantes-tickets/15073303",
+      "title": "BAZ MOTO followed by Sinferbno Cabaret",
+      "venue": {
+        "address": "350 West Burnside Street",
+        "city": "Portland",
+        "latitude": 45.523,
+        "longitude": -122.67443,
+        "name": "Dante's"
       }
     },
     {
@@ -25141,7 +25113,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-25T19:54:08+00:00",
+  "generated_at": "2026-11-26T02:48:00+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
