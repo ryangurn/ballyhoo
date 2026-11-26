@@ -9916,6 +9916,37 @@
       "categories": [
         "music"
       ],
+      "id": "ticketmaster:rZ7HnEZ1A4vJ-K",
+      "image_url": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RETINA_LANDSCAPE_16_9.jpg",
+      "is_all_day": false,
+      "listing_url": "https://www.ticketweb.com/event/chervonas-20th-anniversary-old-new-star-theater-tickets/15066853",
+      "price": {
+        "currency": "USD",
+        "is_free": false,
+        "max": 420.73,
+        "min": 30.36
+      },
+      "source": {
+        "id": "ticketmaster",
+        "name": "Ticketmaster",
+        "url": "https://www.ticketmaster.com"
+      },
+      "start_at": "2027-01-16T21:00:00-08:00",
+      "summary": "PORTLAND, OR --- Portland's favorite party band, Chervona, is throwing its 20th Annual Old New Year Party at the Star Theater on Saturday, January 16, 2027. This year's theme, , \"rdquo\" -> Swan Dance,\" brings together ballet elegance, slavic roots, and wild dance energy to lift up our community. What is Old New Year? Across Eastern Europe, people celebrate New Year's twice---once on January 1st, and again on , \"rdquo\" -> Old New Year,\" a tradition from an old calendar change over a century ago. Think of it as a fun second chance for your New Year's wishes and dreams to come true. 20 Years of Keeping Portland Weird Over the past two decades, Chervona's Old New Year celebration has grown from an Eastern European holiday gathering into one of Portland's signature , \"rdquo\" -> Keep Portland Weird\" traditions. Every January, all of Portland comes together in wild costumes and fancy dress for a night of live brass, community, and wonderfully weird spirit. Why , \"rdquo\" -> Swan Dance\"? After 20 years of making Old New Year magic, we're giving Portland a night to dance like it's the last dance. Playing on the idea of a \"swan song,\" , \"rdquo\" -> Swan Dance\" mixes classic ballet grace and Tchaikovsky's rich melodies with the wild, unstoppable spirit of an Eastern European party. Dress in your best, step onto the floor, and give it everything you've got. A Bigger 20th Anniversary Band To celebrate 20 years, Chervona is bringing an extra-large lineup of great musicians and singers. Inspired by the grand brass bands of Eastern Europe, we're going bigger than ever---with a louder brass section, rich vocal harmonies, and high stage energy you haven't seen at this party before. DJ Jedi will also keep the dance floor moving all night with a mix of classic favorites and modern hits. About Chervona Chervona is Portland's iconic international folk-dance party band, blending European pop, jazz, punk, disco, and ska with Romani and Klezmer folk music. With soulful brass and driving beats, Chervona turns every show into a true celebration. Event Details Date: Saturday, January 16, 2027 Venue: Star Theater (13 NW 6th Ave, Portland, OR) Doors: 8:00 PM | Ages: 21+ Tickets: General Admission: $25 Early Bird (before Dec 6) | $35 (before Jan 1) | $40 (after Jan 1) | $50 (at the door) Seated Table Option: $50 VIP Table Reservations: Call (503) 512-0953 or email chervonaband@gmail.com More Info: chervona.com |",
+      "ticket_url": "https://www.ticketweb.com/event/chervonas-20th-anniversary-old-new-star-theater-tickets/15066853",
+      "title": "Chervona’s 20th Anniversary Old New Year",
+      "venue": {
+        "address": "13 NW Sixth Avenue",
+        "city": "Portland",
+        "latitude": 45.523588,
+        "longitude": -122.676857,
+        "name": "Star Theater"
+      }
+    },
+    {
+      "categories": [
+        "music"
+      ],
       "id": "ticketmaster:Z7r9jZ1A7JAvV",
       "image_url": "https://s1.ticketm.net/dam/c/f7b/ef64d601-8740-43cd-86ea-ed9b392e4f7b_105961_RETINA_LANDSCAPE_16_9.jpg",
       "is_all_day": false,
@@ -24965,7 +24996,7 @@
       }
     }
   ],
-  "generated_at": "2026-11-26T12:20:09+00:00",
+  "generated_at": "2026-11-26T22:17:25+00:00",
   "source_id": "ticketmaster",
   "status": "ok"
 }
