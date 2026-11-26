@@ -761,14 +761,6 @@
       "venue": "Winningstad Theatre"
     },
     {
-      "dropped": "willamette_week:19786970@2026-11-29T14:00",
-      "kept": "dopdx:17683931",
-      "start_at": "2026-11-29T14:00:00-08:00",
-      "title_dropped": "The Amazing Bubble Man",
-      "title_kept": "The Amazing Bubble Man",
-      "venue": "Patricia Reser Center for the Arts"
-    },
-    {
       "dropped": "willamette_week:20425696@2026-11-29T14:00",
       "kept": "dopdx:18069811",
       "start_at": "2026-11-29T14:00:00-08:00",
@@ -4689,54 +4681,6 @@
       "venue": "Portland Center Stage"
     },
     {
-      "dropped": "willamette_week:18521270@2026-11-25T10:00",
-      "kept": "portland_farmers_market:shemanski-park-farmers-market-2@2026-11-25",
-      "start_at": "2026-11-25T10:00:00-08:00",
-      "title_dropped": "Shemanski Park Farmers Market",
-      "title_kept": "Shemanski Park Farmers Market",
-      "venue": "Shemanski Park Farmers Market"
-    },
-    {
-      "dropped": "willamette_week:19679609@2026-11-25T19:00",
-      "kept": "ticketmaster:vvG1HZ_83jgFBz",
-      "start_at": "2026-11-25T19:00:00-08:00",
-      "title_dropped": "Portland Trail Blazers vs. San Antonio Spurs",
-      "title_kept": "Portland Trail Blazers vs. San Antonio Spurs",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "willamette_week:20095187@2026-11-25T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfuNJf",
-      "start_at": "2026-11-25T19:00:00-08:00",
-      "title_dropped": "Whiskey Wednesday with Brooklyn Del and the Revelators",
-      "title_kept": "Whiskey Wednesday and Intermediate Two-Step Lessons with Brooklyn Del and the Revelators",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:19348739@2026-11-25T19:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfuNJf",
-      "start_at": "2026-11-25T19:00:00-08:00",
-      "title_dropped": "Intermediate Two-Step Lessons with Peggy and Dillon",
-      "title_kept": "Whiskey Wednesday and Intermediate Two-Step Lessons with Brooklyn Del and the Revelators",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:20169134@2026-11-25T19:30",
-      "kept": "ticketmaster:Z7r9jZ1AAvbfZ",
-      "start_at": "2026-11-25T19:30:00-08:00",
-      "title_dropped": "Little Shop of Horrors",
-      "title_kept": "Little Shop of Horrors",
-      "venue": "Portland Center Stage"
-    },
-    {
-      "dropped": "willamette_week:20048036@2026-11-25T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfuFF7",
-      "start_at": "2026-11-25T20:00:00-08:00",
-      "title_dropped": "INFINITY",
-      "title_kept": "INFINITY",
-      "venue": "Jack London Revue"
-    },
-    {
       "dropped": "willamette_week:18893389@2026-12-05T23:30",
       "kept": "ticketmaster:rZ7HnEZ1AfvK77",
       "start_at": "2026-12-05T23:30:00-08:00",
@@ -4761,6 +4705,22 @@
       "venue": "Dante's"
     },
     {
+      "dropped": "willamette_week:20496538@2026-12-26T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4vb3K",
+      "start_at": "2026-12-26T20:00:00-08:00",
+      "title_dropped": "The Night After Christmas with Gabriel John and Two-Step Lessons with Peggy",
+      "title_kept": "The Night After Christmas with Gabriel John and Two-Step Lessons with Peggy",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:14445255@2026-12-26T22:30",
+      "kept": "ticketmaster:rZ7HnEZ1AfZ-qf",
+      "start_at": "2026-12-26T22:30:00-08:00",
+      "title_dropped": "BURLY-Q REVUE",
+      "title_kept": "BURLY-Q REVUE",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "willamette_week:20322844@2026-12-12T16:00",
       "kept": "dopdx:17927156",
       "start_at": "2026-12-12T16:30:00-08:00",
@@ -4769,9 +4729,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5574,
-  "floor_check": "5574 events against a 5567-event baseline",
-  "generated_at": "2026-11-26T08:07:12+00:00",
+  "event_count": 5550,
+  "floor_check": "5550 events against a 5567-event baseline",
+  "generated_at": "2026-11-26T08:29:50+00:00",
   "problems": [],
   "sources": [
     "calagator",
