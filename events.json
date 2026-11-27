@@ -50963,6 +50963,37 @@
     },
     {
       "categories": [
+        "music"
+      ],
+      "end_at": "2026-12-05T16:15:00-08:00",
+      "id": "willamette_week:20294250@2026-12-05T15:00",
+      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3deecc2e-4431-49df-9e5c-d7457a302db0.large.png",
+      "is_all_day": false,
+      "listing_url": "https://www.westtualityhabitat.org/upcoming-events",
+      "price": {
+        "currency": "USD",
+        "is_free": true,
+        "max": 0.0,
+        "min": 0.0
+      },
+      "source": {
+        "id": "willamette_week",
+        "name": "Willamette Week",
+        "url": "https://www.wweek.com/getbusy/calendar/events/"
+      },
+      "start_at": "2026-12-05T15:00:00-08:00",
+      "summary": "West Tuality Habitat for Humanity's annual Christmas concert, \"Let's Open the Door,\" runs from 3 to 4:15 p.m. Saturday, Dec. 5, at Forest Grove United Church of Christ, before the Light Parade on Main Street. It features local talent from Forest Hills Lutheran School, Neil Armstrong Middle School, Forest Grove High School and the UCC handbells and choir. Admission is free and no tickets are needed; donations to Habitat are accepted. Punch and cookies from Santa are included.",
+      "title": "West Tuality Habitat for Humanity Christmas Concert",
+      "venue": {
+        "address": "2032 College Way",
+        "city": "Forest Grove",
+        "latitude": 45.52055,
+        "longitude": -123.11152,
+        "name": "Forest Grove United Church of Christ"
+      }
+    },
+    {
+      "categories": [
         "arts"
       ],
       "end_at": "2026-12-05T17:00:00-08:00",
@@ -51054,37 +51085,6 @@
         "latitude": 45.504218,
         "longitude": -122.570527,
         "name": "Portland Nursery"
-      }
-    },
-    {
-      "categories": [
-        "music"
-      ],
-      "end_at": "2026-12-05T16:15:00-08:00",
-      "id": "willamette_week:20294250@2026-12-05T15:00",
-      "image_url": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3deecc2e-4431-49df-9e5c-d7457a302db0.large.png",
-      "is_all_day": false,
-      "listing_url": "https://www.westtualityhabitat.org/upcoming-events",
-      "price": {
-        "currency": "USD",
-        "is_free": true,
-        "max": 0.0,
-        "min": 0.0
-      },
-      "source": {
-        "id": "willamette_week",
-        "name": "Willamette Week",
-        "url": "https://www.wweek.com/getbusy/calendar/events/"
-      },
-      "start_at": "2026-12-05T15:00:00-08:00",
-      "summary": "West Tuality Habitat for Humanity's annual Christmas concert, \"Let's Open the Door,\" runs from 3 to 4:15 p.m. Saturday, Dec. 5, at Forest Grove United Church of Christ, before the Light Parade on Main Street. It features local talent from Forest Hills Lutheran School, Neil Armstrong Middle School, Forest Grove High School and the UCC handbells and choir. Admission is free and no tickets are needed; donations to Habitat are accepted. Punch and cookies from Santa are included.",
-      "title": "West Tuality Habitat for Humanity Christmas Concert",
-      "venue": {
-        "address": "2032 College Way",
-        "city": "Forest Grove",
-        "latitude": 45.52055,
-        "longitude": -123.11152,
-        "name": "Forest Grove United Church of Christ"
       }
     },
     {
@@ -166239,5 +166239,5 @@
       }
     }
   ],
-  "generated_at": "2026-11-27T19:37:07+00:00"
+  "generated_at": "2026-11-27T20:01:02+00:00"
 }
