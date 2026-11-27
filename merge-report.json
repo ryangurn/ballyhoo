@@ -4577,6 +4577,62 @@
       "venue": "Funhouse Lounge"
     },
     {
+      "dropped": "willamette_week:20504469@2026-12-26T17:00",
+      "kept": "dopdx:18094626",
+      "start_at": "2026-12-26T17:00:00-08:00",
+      "title_dropped": "JT Wise Band Plays Dead-Alberta Street Pub-Day After Christmas-All Ages",
+      "title_kept": "Jt Wise Band Plays Dead",
+      "venue": "Alberta Street Pub"
+    },
+    {
+      "dropped": "willamette_week:20322914@2026-12-26T17:00",
+      "kept": "dopdx:18094626",
+      "start_at": "2026-12-26T17:00:00-08:00",
+      "title_dropped": "JT Wise Band",
+      "title_kept": "Jt Wise Band Plays Dead",
+      "venue": "Alberta Street Pub"
+    },
+    {
+      "dropped": "willamette_week:20453353@2026-12-26T19:00",
+      "kept": "dopdx:18072525",
+      "start_at": "2026-12-26T19:30:00-08:00",
+      "title_dropped": "Helium Presents: Stand-Up Confidential",
+      "title_kept": "The Neon Room at Helium: Kelly Ryan",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:20496538@2026-12-26T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4vb3K",
+      "start_at": "2026-12-26T20:00:00-08:00",
+      "title_dropped": "The Night After Christmas with Gabriel John and Two-Step Lessons with Peggy",
+      "title_kept": "The Night After Christmas with Gabriel John and Two-Step Lessons with Peggy",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "willamette_week:20230266@2026-12-26T22:00",
+      "kept": "dopdx:17872139",
+      "start_at": "2026-12-26T22:00:00-08:00",
+      "title_dropped": "Center of Attention",
+      "title_kept": "Center of Attention",
+      "venue": "Funhouse Lounge"
+    },
+    {
+      "dropped": "dopdx:18119351",
+      "kept": "ticketmaster:rZ7HnEZ1AfZ-qf",
+      "start_at": "2026-12-26T22:30:00-08:00",
+      "title_dropped": "Burly Q Revue",
+      "title_kept": "BURLY-Q REVUE",
+      "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "willamette_week:14445255@2026-12-26T22:30",
+      "kept": "dopdx:18119351",
+      "start_at": "2026-12-26T22:30:00-08:00",
+      "title_dropped": "BURLY-Q REVUE",
+      "title_kept": "Burly Q Revue",
+      "venue": "Jack London Revue"
+    },
+    {
       "dropped": "willamette_week:17670892@2026-12-06T09:00",
       "kept": "neighborhood_markets:hillsdale@2026-12-06",
       "start_at": "2026-12-06T09:00:00-08:00",
@@ -4681,22 +4737,6 @@
       "venue": "Dante's"
     },
     {
-      "dropped": "willamette_week:20496538@2026-12-26T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1A4vb3K",
-      "start_at": "2026-12-26T20:00:00-08:00",
-      "title_dropped": "The Night After Christmas with Gabriel John and Two-Step Lessons with Peggy",
-      "title_kept": "The Night After Christmas with Gabriel John and Two-Step Lessons with Peggy",
-      "venue": "Showdown Saloon"
-    },
-    {
-      "dropped": "willamette_week:14445255@2026-12-26T22:30",
-      "kept": "ticketmaster:rZ7HnEZ1AfZ-qf",
-      "start_at": "2026-12-26T22:30:00-08:00",
-      "title_dropped": "BURLY-Q REVUE",
-      "title_kept": "BURLY-Q REVUE",
-      "venue": "Jack London Revue"
-    },
-    {
       "dropped": "willamette_week:19570968@2026-12-27T16:00",
       "kept": "ticketmaster:vvG1HZ_2m_aECm",
       "start_at": "2026-12-27T16:00:00-08:00",
@@ -4721,9 +4761,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5588,
-  "floor_check": "5588 events against a 5550-event baseline",
-  "generated_at": "2026-11-27T02:59:07+00:00",
+  "event_count": 5580,
+  "floor_check": "5580 events against a 5550-event baseline",
+  "generated_at": "2026-11-27T03:23:08+00:00",
   "problems": [],
   "sources": [
     "calagator",
