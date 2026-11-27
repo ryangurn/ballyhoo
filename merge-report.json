@@ -97,52 +97,20 @@
       "venue": "Deschutes Brewery Portland Public House"
     },
     {
-      "dropped": "willamette_week:20423735@2026-11-26T11:00",
-      "kept": "dopdx:18106128",
-      "start_at": "2026-11-26T11:00:00-08:00",
-      "title_dropped": "Thanksgiving Day Brunch at Bellpine",
-      "title_kept": "Thanksgiving Day Brunch at Bellpine",
-      "venue": "Bellpine at The Ritz-Carlton, Portland"
-    },
-    {
-      "dropped": "willamette_week:20285663@2026-11-26T12:00",
-      "kept": "dopdx:18006346",
-      "start_at": "2026-11-26T12:00:00-08:00",
-      "title_dropped": "Portland Spirit Thanksgiving Day Cruise",
-      "title_kept": "Afternoon Thanksgiving Day Cruise",
-      "venue": "Salmon Springs Dock"
-    },
-    {
-      "dropped": "willamette_week:20285663@2026-11-26T16:30",
-      "kept": "dopdx:18006348",
-      "start_at": "2026-11-26T16:30:00-08:00",
-      "title_dropped": "Portland Spirit Thanksgiving Day Cruise",
-      "title_kept": "Evening Thanksgiving Day Cruise",
-      "venue": "Salmon Springs Dock"
-    },
-    {
-      "dropped": "willamette_week:20425696@2026-11-26T18:45",
-      "kept": "dopdx:17900809",
-      "start_at": "2026-11-26T19:00:00-08:00",
-      "title_dropped": "Die Hard the Musical Parody - Foster Theater",
-      "title_kept": "Murder Mystery Machine",
-      "venue": "Funhouse Lounge"
-    },
-    {
-      "dropped": "willamette_week:20297119@2026-11-26T19:00",
-      "kept": "dopdx:17900809",
-      "start_at": "2026-11-26T19:00:00-08:00",
-      "title_dropped": "Murder Mystery Machine",
-      "title_kept": "Murder Mystery Machine",
-      "venue": "Funhouse Lounge"
-    },
-    {
       "dropped": "willamette_week:19570882@2026-11-27T12:00",
       "kept": "dopdx:17663334",
       "start_at": "2026-11-27T12:00:00-08:00",
       "title_dropped": "DJ Raphi - HYPE TOUR 2.0",
       "title_kept": "Dj Raphi",
       "venue": "Hawthorne Theatre"
+    },
+    {
+      "dropped": "willamette_week:20525943@2026-11-27T17:30",
+      "kept": "dopdx:17876061",
+      "start_at": "2026-11-27T17:30:00-08:00",
+      "title_dropped": "42nd Annual Tree Lighting Ceremony",
+      "title_kept": "42nd Annual Tree Lighting Ceremony",
+      "venue": "Pioneer Courthouse Square"
     },
     {
       "dropped": "willamette_week:18262698@2026-11-27T18:00",
@@ -2673,6 +2641,14 @@
       "venue": "Wyrd Hut"
     },
     {
+      "dropped": "willamette_week:20518139@2026-12-11T21:00",
+      "kept": "dopdx:18086184",
+      "start_at": "2026-12-11T21:00:00-08:00",
+      "title_dropped": "Jonny Cool - \"Hometown Foreigner\" record release party",
+      "title_kept": "Jonny Cool // Mic Crenshaw",
+      "venue": "Alberta Street Pub"
+    },
+    {
       "dropped": "willamette_week:19469661@2026-12-11T21:00",
       "kept": "dopdx:17651772",
       "start_at": "2026-12-11T21:00:00-08:00",
@@ -4721,6 +4697,22 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "willamette_week:19570968@2026-12-27T16:00",
+      "kept": "ticketmaster:vvG1HZ_2m_aECm",
+      "start_at": "2026-12-27T16:00:00-08:00",
+      "title_dropped": "Portland Winterhawks vs Penticton Vees",
+      "title_kept": "Portland Winterhawks vs Tri-City Americans",
+      "venue": "Veterans Memorial Coliseum"
+    },
+    {
+      "dropped": "willamette_week:19957053@2026-12-27T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfGf-f",
+      "start_at": "2026-12-27T20:00:00-08:00",
+      "title_dropped": "Casual Eddie with Special Guest Dominic Robison",
+      "title_kept": "Casual Eddie",
+      "venue": "Showdown Saloon"
+    },
+    {
       "dropped": "willamette_week:20322844@2026-12-12T16:00",
       "kept": "dopdx:17927156",
       "start_at": "2026-12-12T16:30:00-08:00",
@@ -4729,9 +4721,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5550,
-  "floor_check": "5550 events against a 5550-event baseline",
-  "generated_at": "2026-11-27T01:27:41+00:00",
+  "event_count": 5588,
+  "floor_check": "5588 events against a 5550-event baseline",
+  "generated_at": "2026-11-27T02:15:45+00:00",
   "problems": [],
   "sources": [
     "calagator",
