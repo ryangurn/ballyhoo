@@ -97,38 +97,6 @@
       "venue": "Deschutes Brewery Portland Public House"
     },
     {
-      "dropped": "dopdx:17724959",
-      "kept": "ticketmaster:vvG1HZ_83jUIDG",
-      "start_at": "2026-11-27T18:30:00-08:00",
-      "title_dropped": "Trail blazers vs. Golden State Warriors",
-      "title_kept": "Portland Trail Blazers vs. Golden State Warriors",
-      "venue": "Moda Center"
-    },
-    {
-      "dropped": "dopdx:17387390",
-      "kept": "ticketmaster:Z7r9jZ1AAvApv",
-      "start_at": "2026-11-27T19:30:00-08:00",
-      "title_dropped": "Annie",
-      "title_kept": "Annie (Touring)",
-      "venue": "Winningstad Theatre"
-    },
-    {
-      "dropped": "dopdx:17840198",
-      "kept": "ticketmaster:Z7r9jZ1AA7eqt",
-      "start_at": "2026-11-27T20:00:00-08:00",
-      "title_dropped": "Decadent 80s Dance Party",
-      "title_kept": "Decadent 80s Dance Party - ages 21+",
-      "venue": "McMenamins Crystal Ballroom"
-    },
-    {
-      "dropped": "dopdx:17909760",
-      "kept": "ticketmaster:Z7r9jZ1AAep0-",
-      "start_at": "2026-11-27T22:00:00-08:00",
-      "title_dropped": "Roger Sanchez",
-      "title_kept": "Roger Sanchez - Ages 21+",
-      "venue": "45 East"
-    },
-    {
       "dropped": "willamette_week:20285817@2026-11-28T09:30",
       "kept": "dopdx:18006335",
       "start_at": "2026-11-28T09:30:00-08:00",
@@ -922,10 +890,10 @@
     },
     {
       "dropped": "willamette_week:20423888@2026-12-04T18:30",
-      "kept": "dopdx:17749565",
+      "kept": "dopdx:18069836",
       "start_at": "2026-12-04T18:30:00-08:00",
       "title_dropped": "Can Can's 'Twas the Night Before Nutcracker",
-      "title_kept": "Can Can’s Twas the Night Before Nutcracker",
+      "title_kept": "Can Can's 'Twas the Night Before Nutcracker",
       "venue": "Can Can's Paris Theatre"
     },
     {
@@ -1049,14 +1017,6 @@
       "venue": "Hawthorne Theatre"
     },
     {
-      "dropped": "dopdx:17804649",
-      "kept": "ticketmaster:Z7r9jZ1AAvt7e",
-      "start_at": "2026-12-04T20:00:00-08:00",
-      "title_dropped": "Yule Benefit Tour 2026 with Kamasi Washington, and Bartees Strange",
-      "title_kept": "Kamasi Washington w/ Bartees Strange",
-      "venue": "McMenamins Crystal Ballroom"
-    },
-    {
       "dropped": "dopdx:17578936",
       "kept": "ticketmaster:rZ7HnEZ1AfaZaf",
       "start_at": "2026-12-04T20:00:00-08:00",
@@ -1071,6 +1031,14 @@
       "title_dropped": "L'Rain",
       "title_kept": "L'Rain",
       "venue": "Jack London Revue"
+    },
+    {
+      "dropped": "dopdx:17804649",
+      "kept": "ticketmaster:Z7r9jZ1AAvt7e",
+      "start_at": "2026-12-04T20:00:00-08:00",
+      "title_dropped": "Yule Benefit Tour 2026 with Kamasi Washington, and Bartees Strange",
+      "title_kept": "Kamasi Washington w/ Bartees Strange",
+      "venue": "McMenamins Crystal Ballroom"
     },
     {
       "dropped": "willamette_week:19604540@2026-12-04T20:00",
@@ -4409,6 +4377,62 @@
       "venue": "Jack London Revue"
     },
     {
+      "dropped": "dopdx:17612624",
+      "kept": "ticketmaster:vvG1HZ_2m_aECm",
+      "start_at": "2026-12-27T16:00:00-08:00",
+      "title_dropped": "Winterhawks vs. Tri-City Americans",
+      "title_kept": "Portland Winterhawks vs Tri-City Americans",
+      "venue": "Veterans Memorial Coliseum"
+    },
+    {
+      "dropped": "willamette_week:19570968@2026-12-27T16:00",
+      "kept": "dopdx:17612624",
+      "start_at": "2026-12-27T16:00:00-08:00",
+      "title_dropped": "Portland Winterhawks vs Penticton Vees",
+      "title_kept": "Winterhawks vs. Tri-City Americans",
+      "venue": "Veterans Memorial Coliseum"
+    },
+    {
+      "dropped": "willamette_week:20453353@2026-12-27T19:30",
+      "kept": "dopdx:18072527",
+      "start_at": "2026-12-27T19:30:00-08:00",
+      "title_dropped": "Helium Presents: Stand-Up Confidential",
+      "title_kept": "The Neon Room at Helium: Kelly Ryan",
+      "venue": "Helium Comedy Club"
+    },
+    {
+      "dropped": "willamette_week:19766480@2026-12-27T19:30",
+      "kept": "dopdx:17943381",
+      "start_at": "2026-12-27T19:30:00-08:00",
+      "title_dropped": "The Gauntlet",
+      "title_kept": "The Gauntlet",
+      "venue": "Curious Comedy Theater"
+    },
+    {
+      "dropped": "willamette_week:20530391@2026-12-27T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1A4vSGd",
+      "start_at": "2026-12-27T20:00:00-08:00",
+      "title_dropped": "BAZ MOTO followed by Sinferbno Cabaret",
+      "title_kept": "BAZ MOTO followed by Sinferbno Cabaret",
+      "venue": "Dante's"
+    },
+    {
+      "dropped": "willamette_week:19957053@2026-12-27T20:00",
+      "kept": "ticketmaster:rZ7HnEZ1AfGf-f",
+      "start_at": "2026-12-27T20:00:00-08:00",
+      "title_dropped": "Casual Eddie with Special Guest Dominic Robison",
+      "title_kept": "Casual Eddie",
+      "venue": "Showdown Saloon"
+    },
+    {
+      "dropped": "dopdx:17918393",
+      "kept": "ticketmaster:rZ7HnEZ1AfFYP7",
+      "start_at": "2026-12-27T22:00:00-08:00",
+      "title_dropped": "Sinferno Cabaret",
+      "title_kept": "SINFERNO CABARET",
+      "venue": "Dante's"
+    },
+    {
       "dropped": "willamette_week:17670892@2026-12-06T09:00",
       "kept": "neighborhood_markets:hillsdale@2026-12-06",
       "start_at": "2026-12-06T09:00:00-08:00",
@@ -4513,30 +4537,6 @@
       "venue": "Dante's"
     },
     {
-      "dropped": "willamette_week:19570968@2026-12-27T16:00",
-      "kept": "ticketmaster:vvG1HZ_2m_aECm",
-      "start_at": "2026-12-27T16:00:00-08:00",
-      "title_dropped": "Portland Winterhawks vs Penticton Vees",
-      "title_kept": "Portland Winterhawks vs Tri-City Americans",
-      "venue": "Veterans Memorial Coliseum"
-    },
-    {
-      "dropped": "willamette_week:20530391@2026-12-27T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1A4vSGd",
-      "start_at": "2026-12-27T20:00:00-08:00",
-      "title_dropped": "BAZ MOTO followed by Sinferbno Cabaret",
-      "title_kept": "BAZ MOTO followed by Sinferbno Cabaret",
-      "venue": "Dante's"
-    },
-    {
-      "dropped": "willamette_week:19957053@2026-12-27T20:00",
-      "kept": "ticketmaster:rZ7HnEZ1AfGf-f",
-      "start_at": "2026-12-27T20:00:00-08:00",
-      "title_dropped": "Casual Eddie with Special Guest Dominic Robison",
-      "title_kept": "Casual Eddie",
-      "venue": "Showdown Saloon"
-    },
-    {
       "dropped": "willamette_week:20322844@2026-12-12T16:00",
       "kept": "dopdx:17927156",
       "start_at": "2026-12-12T16:30:00-08:00",
@@ -4545,9 +4545,9 @@
       "venue": "Atlantis Lounge"
     }
   ],
-  "event_count": 5524,
-  "floor_check": "5524 events against a 5581-event baseline",
-  "generated_at": "2026-11-28T04:02:00+00:00",
+  "event_count": 5474,
+  "floor_check": "5474 events against a 5581-event baseline",
+  "generated_at": "2026-11-28T04:20:37+00:00",
   "problems": [],
   "sources": [
     "calagator",
